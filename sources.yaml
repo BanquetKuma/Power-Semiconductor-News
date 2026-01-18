@@ -2,25 +2,26 @@
 # RSS feeds, X accounts, and Google Sheets for news collection
 
 feeds:
-  # Power Semiconductor Industry News
-  - https://www.electronicdesign.com/rss/all
-  - https://www.eenewseurope.com/rss.xml
+  # Power Semiconductor Industry News (専門サイト)
   - https://www.powerelectronicsnews.com/feed/
   - https://semiengineering.com/feed/
 
-  # Japanese Industry News
-  - https://eetimes.jp/rss/feed.rdf
-  - https://monoist.itmedia.co.jp/mn/rss/index.rdf
-  - https://xtech.nikkei.com/rss/xtech-elec.rdf
+  # Japanese Industry News (日本語)
+  - https://rss.itmedia.co.jp/rss/2.0/eetimes.xml  # EE Times Japan
+
+  # General Electronics (英語)
+  - https://www.edn.com/feed/
+  - https://www.embedded.com/feed/
+  - https://www.electronics-lab.com/feed/
+
+  # EV & Charging News
+  - https://insideevs.com/feed/
+  - https://electrek.co/feed/
 
   # Vendor Press Releases (example - add actual RSS feeds)
   # - https://www.infineon.com/rss/news
   # - https://www.wolfspeed.com/company/news/feed
   # - https://www.onsemi.com/site/rss/news.xml
-
-  # EV & Charging News
-  - https://insideevs.com/feed/
-  - https://electrek.co/feed/
 
 # X (Twitter) accounts to monitor
 x_accounts: []
