@@ -1,0 +1,79 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'public-pages/**'
+      - 'news/**'
+      - 'presentations/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Prepare site
+        run: |
+          mkdir -p _site
+          cp -r public-pages/* _site/ 2>/dev/null || true
+          cp -r news _site/ 2>/dev/null || true
+          cp -r presentations _site/ 2>/dev/null || true
+
+          # Create simple index.html if not exists
+          if [ ! -f _site/index.html ]; then
+            cat > _site/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="ja">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Power Semiconductor News</title>
+            <style>
+              body { font-family: system-ui, sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem; }
+              h1 { color: #1a1a2e; }
+              a { color: #4361ee; }
+            </style>
+          </head>
+          <body>
+            <h1>Power Semiconductor News</h1>
+            <p>パワー半導体業界の最新ニュースをお届けします。</p>
+            <ul>
+              <li><a href="news/latest.json">Latest News (JSON)</a></li>
+            </ul>
+          </body>
+          </html>
+          EOF
+          fi
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,41 @@
+# Power Semiconductor News Sources
+# RSS feeds, X accounts, and Google Sheets for news collection
+
+feeds:
+  # Power Semiconductor Industry News
+  - https://www.electronicdesign.com/rss/all
+  - https://www.eenewseurope.com/rss.xml
+  - https://www.powerelectronicsnews.com/feed/
+  - https://semiengineering.com/feed/
+
+  # Japanese Industry News
+  - https://eetimes.jp/rss/feed.rdf
+  - https://monoist.itmedia.co.jp/mn/rss/index.rdf
+  - https://xtech.nikkei.com/rss/xtech-elec.rdf
+
+  # Vendor Press Releases (example - add actual RSS feeds)
+  # - https://www.infineon.com/rss/news
+  # - https://www.wolfspeed.com/company/news/feed
+  # - https://www.onsemi.com/site/rss/news.xml
+
+  # EV & Charging News
+  - https://insideevs.com/feed/
+  - https://electrek.co/feed/
+
+# X (Twitter) accounts to monitor
+x_accounts: []
+
+# X RSS bridge (if using Nitter or similar)
+x_rss_base: null
+x_rss_accounts: []
+
+# Google Sheets for manual curation
+sheets: []
+  # Example:
+  # - id: "1ABC123..."
+  #   gid: 0
+  #   mapping:
+  #     date: 0
+  #     handle: 1
+  #     text: 3
+  #     url: 5
