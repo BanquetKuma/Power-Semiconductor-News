@@ -100,11 +100,14 @@ jobs:
           # Create public-pages directory if not exists
           mkdir -p public-pages/news
 
-          # Copy latest news to public-pages
-          if [ -f news/latest.json ]; then
-            cp news/latest.json public-pages/news/
+          # Copy all news JSON files to public-pages (including field-specific)
+          if [ -d news/ ]; then
+            cp news/*.json public-pages/news/ 2>/dev/null || true
             TODAY=$(date +%Y-%m-%d)
-            cp news/latest.json "public-pages/news/${TODAY}.json"
+            if [ -f news/latest.json ]; then
+              cp news/latest.json "public-pages/news/${TODAY}.json"
+            fi
+            echo "Copied $(ls -1 news/*.json 2>/dev/null | wc -l) JSON files to public-pages"
           fi
 
       - name: Write version.json
@@ -133,9 +136,13 @@ jobs:
     steps:
       - name: Generate summary
         run: |
-          echo "## Daily Pipeline Summary" >> $GITHUB_STEP_SUMMARY
+          echo "## Daily Semiconductor News Pipeline Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Job Results" >> $GITHUB_STEP_SUMMARY
           echo "- **Build News**: ${{ needs.build-news.result }}" >> $GITHUB_STEP_SUMMARY
           echo "- **Archive**: ${{ needs.archive.result }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Generated Files" >> $GITHUB_STEP_SUMMARY
+          echo "Field-specific JSON files: power, memory, logic, automotive, ai, foundry, etc." >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Completed at**: $(date -u +%Y-%m-%dT%H:%M:%SZ)" >> $GITHUB_STEP_SUMMARY
