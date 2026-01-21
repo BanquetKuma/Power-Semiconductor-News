@@ -757,6 +757,20 @@ def main():
             json.dump(field_out, f, ensure_ascii=False, indent=2)
         log(f'{field_name}.json:', len(items), 'items')
 
+    # --- 統計情報の生成 ---
+    stats = {
+        'generated_at': datetime.now(JST).isoformat(),
+        'date': today,
+        'total_items': len(enriched),
+        'semiconductor_items': len(semi_items),
+        'by_field': {field: len(items) for field, items in field_items.items() if items},
+        'sources': sorted(list(set(it['source']['name'] for it in enriched))),
+        'sections': {k: len(v) for k, v in sections.items()}
+    }
+    with open(os.path.join(NEWS_DIR, 'stats.json'), 'w', encoding='utf-8') as f:
+        json.dump(stats, f, ensure_ascii=False, indent=2)
+    log('stats.json: generated')
+
     log('DONE', len(enriched), 'items total,', len(semi_items), 'semiconductor-related')
 
 if __name__ == '__main__':
