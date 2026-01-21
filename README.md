@@ -1,13 +1,16 @@
 # Power-Semiconductor-News
 
-パワー半導体業界の最新ニュースを自動収集・配信するシステム。
+[![Daily News](https://github.com/BanquetKuma/Power-Semiconductor-News/actions/workflows/unified-daily.yml/badge.svg)](https://github.com/BanquetKuma/Power-Semiconductor-News/actions/workflows/unified-daily.yml)
+
+半導体業界の最新ニュースを自動収集・分野別分類・配信するシステム。
 
 ## 特徴
 
-- **パワー半導体特化**: SiC、GaN、IGBT、MOSFET、EV関連のニュースを重点収集
+- **4軸20分野の自動分類**: デバイス種類/製造工程/市場用途/業界構造で分類
+- **分野別JSON出力**: power.json, memory.json, automotive.json 等を自動生成
 - **パフォーマンス最適化**: 並列処理による高速収集（従来比87%短縮）
 - **コスト最適化**: APIキャッシュによるコスト削減（50%削減）
-- **自動化**: GitHub Actionsによる日次自動更新
+- **自動化**: GitHub Actionsによる日次自動更新（毎日08:50 JST）
 
 ## 最適化内容
 
@@ -72,17 +75,31 @@ Power-Semiconductor-News/
 └── requirements.txt         # Python依存関係
 ```
 
-## カテゴリ
+## 分野分類（4軸20分野）
 
-パワー半導体向けにカスタマイズされたカテゴリ:
+### デバイスの種類
+| 分野 | ファイル | キーワード例 |
+|------|---------|-------------|
+| パワー半導体 | `power.json` | SiC, GaN, IGBT, MOSFET |
+| メモリ半導体 | `memory.json` | DRAM, NAND, HBM |
+| ロジック半導体 | `logic.json` | CPU, GPU, FPGA, ASIC |
+| アナログ半導体 | `analog.json` | センサ, PMIC, ADC |
+| イメージセンサ | `image.json` | CMOSセンサ, CCD |
 
-- **sic**: 炭化ケイ素 (SiC) デバイス
-- **gan**: 窒化ガリウム (GaN) デバイス
-- **igbt**: IGBT (絶縁ゲートバイポーラトランジスタ)
-- **mosfet**: パワーMOSFET
-- **ev**: 電気自動車・充電関連
-- **inverter**: インバータ・コンバータ
-- **vendor**: 主要半導体ベンダー
+### 市場・アプリケーション
+| 分野 | ファイル | キーワード例 |
+|------|---------|-------------|
+| AI半導体 | `ai.json` | AIチップ, アクセラレータ |
+| 車載半導体 | `automotive.json` | 自動運転, ADAS, EV |
+| データセンター | `datacenter.json` | サーバ, クラウド |
+| 産業機器 | `industrial.json` | IoT, FA |
+
+### 業界構造
+| 分野 | ファイル | キーワード例 |
+|------|---------|-------------|
+| ファウンドリ | `foundry.json` | TSMC, Samsung, Rapidus |
+| ファブレス | `fabless.json` | NVIDIA, Qualcomm, AMD |
+| 地政学・規制 | `geopolitics.json` | CHIPS法, 輸出規制 |
 
 ## GitHub Actions ワークフロー
 
