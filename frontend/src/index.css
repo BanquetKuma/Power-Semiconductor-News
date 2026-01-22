@@ -1,0 +1,213 @@
+@import "tailwindcss";
+
+/* Atlassian Design System Tokens */
+:root {
+  /* Brand Colors */
+  --ds-background-brand-bold: #0052CC;
+  --ds-background-brand-boldest: #0747A6;
+  --ds-text-brand: #0052CC;
+
+  /* Neutral Colors */
+  --ds-background-neutral: #F4F5F7;
+  --ds-background-neutral-subtle: #FAFBFC;
+  --ds-background-neutral-hovered: #EBECF0;
+  --ds-surface: #FFFFFF;
+  --ds-surface-raised: #FFFFFF;
+  --ds-surface-overlay: #FFFFFF;
+
+  /* Accent Colors - Atlassian Palette */
+  --ds-background-accent-blue-subtle: #DEEBFF;
+  --ds-background-accent-blue-bold: #0052CC;
+  --ds-background-accent-purple-subtle: #EAE6FF;
+  --ds-background-accent-purple-bold: #5243AA;
+  --ds-background-accent-teal-subtle: #E6FCFF;
+  --ds-background-accent-teal-bold: #00B8D9;
+  --ds-background-accent-green-subtle: #E3FCEF;
+  --ds-background-accent-green-bold: #00875A;
+  --ds-background-accent-yellow-subtle: #FFFAE6;
+  --ds-background-accent-yellow-bold: #FF991F;
+  --ds-background-accent-orange-subtle: #FFEBE6;
+  --ds-background-accent-orange-bold: #FF5630;
+  --ds-background-accent-red-subtle: #FFEBE6;
+  --ds-background-accent-red-bold: #DE350B;
+
+  /* Text Colors */
+  --ds-text: #172B4D;
+  --ds-text-subtle: #5E6C84;
+  --ds-text-subtlest: #7A869A;
+  --ds-text-inverse: #FFFFFF;
+  --ds-text-warning: #FF8B00;
+  --ds-text-danger: #DE350B;
+  --ds-text-success: #00875A;
+
+  /* Border Colors */
+  --ds-border: #DFE1E6;
+  --ds-border-focused: #4C9AFF;
+
+  /* Shadows - Atlassian Elevation */
+  --ds-shadow-raised: 0 1px 1px rgba(9, 30, 66, 0.25), 0 0 1px rgba(9, 30, 66, 0.31);
+  --ds-shadow-overlay: 0 4px 8px -2px rgba(9, 30, 66, 0.25), 0 0 1px rgba(9, 30, 66, 0.31);
+  --ds-shadow-overflow: 0 8px 16px -4px rgba(9, 30, 66, 0.25), 0 0 1px rgba(9, 30, 66, 0.31);
+
+  /* Spacing */
+  --ds-space-050: 4px;
+  --ds-space-100: 8px;
+  --ds-space-150: 12px;
+  --ds-space-200: 16px;
+  --ds-space-300: 24px;
+  --ds-space-400: 32px;
+
+  /* Border Radius */
+  --ds-radius-100: 3px;
+  --ds-radius-200: 8px;
+  --ds-radius-300: 12px;
+  --ds-radius-round: 50%;
+
+  /* Typography */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans', 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* Animation */
+  --ds-duration-fast: 100ms;
+  --ds-duration-normal: 200ms;
+  --ds-duration-slow: 350ms;
+  --ds-easing-standard: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: var(--ds-background-neutral);
+  color: var(--ds-text);
+}
+
+/* Custom Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes starPop {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp var(--ds-duration-normal) var(--ds-easing-standard) forwards;
+}
+
+.animate-star-pop {
+  animation: starPop 0.3s var(--ds-easing-standard);
+}
+
+/* Glass Effect */
+.glass-effect {
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.8);
+}
+
+/* Gradient Text */
+.gradient-text {
+  background: linear-gradient(135deg, #0052CC 0%, #00B8D9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Card Hover Effect */
+.card-hover {
+  transition: all var(--ds-duration-normal) var(--ds-easing-standard);
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--ds-shadow-overflow);
+}
+
+/* Button Styles */
+.btn-primary {
+  background: var(--ds-background-brand-bold);
+  color: var(--ds-text-inverse);
+  border: none;
+  border-radius: var(--ds-radius-100);
+  padding: var(--ds-space-100) var(--ds-space-200);
+  font-weight: 500;
+  transition: all var(--ds-duration-fast) var(--ds-easing-standard);
+}
+
+.btn-primary:hover {
+  background: var(--ds-background-brand-boldest);
+}
+
+/* Badge Styles */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: var(--ds-radius-100);
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+}
+
+/* Star Rating Gradient */
+.star-gradient {
+  background: linear-gradient(135deg, #FFAB00 0%, #FF8B00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--ds-background-neutral);
+  border-radius: var(--ds-radius-100);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ds-border);
+  border-radius: var(--ds-radius-100);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ds-text-subtlest);
+}

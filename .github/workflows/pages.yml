@@ -8,6 +8,7 @@ on:
       - 'public-pages/**'
       - 'news/**'
       - 'presentations/**'
+      - 'frontend/**'
   workflow_dispatch:
 
 permissions:
@@ -29,38 +30,25 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Build frontend
+        run: |
+          cd frontend
+          npm ci
+          npm run build
+
       - name: Prepare site
         run: |
           mkdir -p _site
-          cp -r public-pages/* _site/ 2>/dev/null || true
+          cp -r frontend/dist/* _site/
           cp -r news _site/ 2>/dev/null || true
           cp -r presentations _site/ 2>/dev/null || true
-
-          # Create simple index.html if not exists
-          if [ ! -f _site/index.html ]; then
-            cat > _site/index.html << 'EOF'
-          <!DOCTYPE html>
-          <html lang="ja">
-          <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Power Semiconductor News</title>
-            <style>
-              body { font-family: system-ui, sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem; }
-              h1 { color: #1a1a2e; }
-              a { color: #4361ee; }
-            </style>
-          </head>
-          <body>
-            <h1>Power Semiconductor News</h1>
-            <p>パワー半導体業界の最新ニュースをお届けします。</p>
-            <ul>
-              <li><a href="news/latest.json">Latest News (JSON)</a></li>
-            </ul>
-          </body>
-          </html>
-          EOF
-          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
