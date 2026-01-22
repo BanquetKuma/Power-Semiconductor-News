@@ -140,7 +140,11 @@ def fetch_feed(url: str):
 
 def fetch_x_api(usernames):
     token = os.getenv('X_BEARER_TOKEN')
-    if not token or not usernames:
+    if not token:
+        if usernames:
+            log('X API: X_BEARER_TOKEN not set, skipping X/Twitter API')
+        return []
+    if not usernames:
         return []
     log('x api: users', usernames)
     headers = {
@@ -469,9 +473,15 @@ def score(item):
 
 # --- LLM summarization (optional) -------------------------
 
+_llm_warned = False
+
 def llm_summarize(title, text, url):
+    global _llm_warned
     key = os.getenv('OPENAI_API_KEY')
     if not key:
+        if not _llm_warned:
+            log('LLM: OPENAI_API_KEY not set, using RSS/feed summaries')
+            _llm_warned = True
         return None
     model = os.getenv('OPENAI_MODEL') or 'gpt-4o-mini'
     base = os.getenv('OPENAI_API_BASE') or 'https://api.openai.com/v1'
@@ -501,7 +511,7 @@ URL: {url}
             'stars': int(j.get('stars') or j.get('重要度') or 3)
         }
     except Exception as ex:
-        log('llm fail', ex)
+        log('LLM API error (continuing without LLM):', type(ex).__name__, str(ex)[:100])
         return None
 
 # --- main -------------------------------------------------
@@ -774,4 +784,23 @@ def main():
     log('DONE', len(enriched), 'items total,', len(semi_items), 'semiconductor-related')
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except Exception as ex:
+        # Never fail the workflow - log error and exit cleanly
+        log('FATAL ERROR (workflow will continue):', type(ex).__name__, str(ex))
+        import traceback
+        traceback.print_exc()
+        # Create minimal output so downstream steps don't fail
+        os.makedirs(NEWS_DIR, exist_ok=True)
+        fallback = {
+            'generated_at': datetime.now(JST).isoformat(),
+            'highlight': None,
+            'sections': {'business': [], 'tools': [], 'company': [], 'sns': []},
+            'error': str(ex)
+        }
+        with open(os.path.join(NEWS_DIR, 'latest.json'), 'w', encoding='utf-8') as f:
+            json.dump(fallback, f, ensure_ascii=False, indent=2)
+        log('Created fallback latest.json due to error')
+        # Exit with 0 to not fail the workflow
+        exit(0)
