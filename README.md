@@ -2,6 +2,8 @@
 
 [![Daily News](https://github.com/BanquetKuma/Power-Semiconductor-News/actions/workflows/unified-daily.yml/badge.svg)](https://github.com/BanquetKuma/Power-Semiconductor-News/actions/workflows/unified-daily.yml)
 
+**サイトURL**: https://banquetkuma.github.io/Power-Semiconductor-News/
+
 半導体業界の最新ニュースを自動収集・分野別分類・配信するシステム。
 
 ## 特徴
