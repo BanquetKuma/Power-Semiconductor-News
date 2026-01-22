@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-22T08:56:42.136785+09:00",
+  "generated_at": "2026-01-22T20:29:07.991481+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Microchip Launches 600 V Gate Driver Lineup",
-    "summary": "With support for 600 V operation, the new gate driver family extends Microchip’s offering of high-voltage power solution",
+    "summary": "Microchipが600V対応のゲートドライバを発表。高電圧電源ソリューションを拡充。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -13,30 +13,200 @@
     ]
   },
   "sections": {
-    "business": [],
-    "tools": [],
-    "company": [
+    "business": [
       {
-        "title": "NVIDIAのGroq獲得　ハイパースケーラー顧客引き留めも狙いか",
-        "blurb": "2025年12月、NVIDIAがAIスタートアップのGroqを事実上買収することが発表された。取引額はスタートアップの買収としては異例の200億米ドルにものぼるとされる。",
-        "category": "company",
-        "date": "2026-01-21",
+        "title": "Exploring SiC MOSFET Architectures, Part 1",
+        "blurb": "SiC MOSFETのアーキテクチャ、特性、利点、設計上の考慮事項を探るシリーズの第1部。",
+        "category": "business",
+        "date": "2026-01-22",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/19/news038.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1"
         },
         "field": {
-          "primary": "datacenter",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
-          "market": "datacenter",
+          "market": null,
           "industry": null
         }
       },
       {
+        "title": "Every Atom Now Counts In Advanced Chip Manufacturing",
+        "blurb": "AI時代向け半導体製造では、原子層堆積とハイブリッド誘電体が信頼性とスケーリングを再定義し、原子レベルでの精度が不可欠になっている。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/every-atom-now-counts-in-advanced-chip-manufacturing"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "An Explosion In Interconnect Complexity",
+        "blurb": "半導体業界では配線設計プラットフォームが2から5に増加し、複雑性が爆発的に増大している。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/an-explosion-in-interconnect-complexity"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Oxides Bring Low Leakage Transistors To Leading-Edge Memories",
+        "blurb": "DRAM不足とSRAMのスケーリング限界に対応するため、低リーク電流トランジスタの研究開発が活発化しています。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/oxides-bring-low-leakage-transistors-to-leading-edge-memories"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Ripple Effects: Why Water Risk Is The Next Major Business Challenge For The Semiconductor Industry",
+        "blurb": "半導体業界は、2030年までに高水ストレス地域に40%以上の施設が立地する見込みで、水リスクが新たな事業課題となる。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ripple-effects-why-water-risk-is-the-next-major-business-challenge-for-the-semiconductor-industry"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Non-volatile Ferroelectric Silicon Photonics As A Scalable, Heat-free Platform For Energy-efficient Photonic Computing (UPV, iPronics et al.)",
+        "blurb": "強誘電体シリコンフォトニクスを用いた、熱フリーで省電力な光コンピューティング基盤が開発された。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/non-volatile-ferroelectric-silicon-photonics-as-a-scalable-heat-free-platform-for-energy-efficient-photonic-computing-upv-ipronics-et-al"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ディスコの通期売上高、初の4000億円超へ 生成AI需要で",
+        "blurb": "ディスコ、生成AI需要で通期売上高初の4000億円超えへ。純利益も最高益更新見込み。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news063.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Can Open-Source ISAs Catalyze Smart Manufacturing?",
+        "blurb": "IoTはスマート製造に不可欠。オープンソースISAが、製造業のデータ活用と効率化を促進する可能性。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/can-open-source-isas-catalyze-smart-manufacturing"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "A Novel Side-channel Attack That Utilizes Memory Re-orderings (U. of Washington, Duke, UCSC et al.)",
+        "blurb": "メモリ操作の並べ替えを利用した新たなサイドチャネル攻撃「Memory DisOrder」が発表された。効率向上のため多くの並列処理ユニットで実装されている。",
+        "category": "tools",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-novel-side-channel-attack-that-utilizes-memory-re-orderings-u-of-washington-duke-ucsc-et-al"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "市場は低成長でも中身は超進化！ 最新スマートウォッチを分解",
+        "blurb": "市場は低成長でもスマートウォッチは毎年進化。2025年発売モデルの機能・性能アップを分解して解説。",
+        "category": "tools",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news017.html"
+        },
+        "field": null
+      },
+      {
+        "title": "映像が「宙に浮く」ディスプレイ　厚さ1ミリのメタレンズで実現",
+        "blurb": "京セラは厚さ1mmのメタレンズで映像が宙に浮いて見えるスマートウォッチ型空中ディスプレイのプロトタイプをCES 2026で展示した。",
+        "category": "tools",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news066.html"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
         "title": "Microchip Launches 600 V Gate Driver Lineup",
-        "blurb": "With support for 600 V operation, the new gate driver family extends Microchip’s offering of high-voltage power solution",
+        "blurb": "Microchipが600V対応のゲートドライバを発表。高電圧電源ソリューションを拡充。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -53,44 +223,8 @@
         }
       },
       {
-        "title": "Exploring SiC MOSFET Architectures, Part 1",
-        "blurb": "Part 1 of this series explores SiC transistor architectures, their unique characteristics, and their advantages/design c",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "A Novel Side-channel Attack That Utilizes Memory Re-orderings (U. of Washington, Duke, UCSC et al.)",
-        "blurb": "A new technical paper titled “Memory DisOrder: Memory Re-orderings as a Timerless Side-channel” was published by researc",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-novel-side-channel-attack-that-utilizes-memory-re-orderings-u-of-washington-duke-ucsc-et-al"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Scaling of 2D Semiconductor Nanoribbons for High Performance Transistors (Purdue, NUS et al.)",
-        "blurb": "A new technical paper titled “Scaling of Two-Dimensional Semiconductor Nanoribbons for High-Performance Electronics” was",
+        "blurb": "2次元半導体ナノリボンを用いた高性能トランジスタに関する論文が発表された。将来のGAAナノリボン構造への応用が期待される。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -108,7 +242,7 @@
       },
       {
         "title": "Co-optimization Approaches For Reliable and Efficient AI Acceleration (Peking University et al.)",
-        "blurb": "A new technical paper titled “The Quest for Reliable AI Accelerators: Cross-Layer Evaluation and Design Optimization” wa",
+        "blurb": "北京大学などの研究者が、AIアクセラレータの信頼性と効率を高めるための新しい技術論文を発表しました。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -125,26 +259,74 @@
         }
       },
       {
-        "title": "Non-volatile Ferroelectric Silicon Photonics As A Scalable, Heat-free Platform For Energy-efficient Photonic Computing (UPV, iPronics et al.)",
-        "blurb": "A new technical paper titled “High-Speed Non-Volatile Barium Titanate Field Programmable Photonic Gate Array” was publis",
+        "title": "TSMCでも足りないAI需要　Rapidusにチャンスか",
+        "blurb": "AI需要が旺盛でTSMCでも不足。日本のRapidusに競合企業としての参入機会があるか注目される。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/non-volatile-ferroelectric-silicon-photonics-as-a-scalable-heat-free-platform-for-energy-efficient-photonic-computing-upv-ipronics-et-al"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/23/news019.html"
         },
         "field": {
-          "primary": "general",
+          "primary": "ai",
           "device": null,
           "process": null,
-          "market": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "0.2mm厚の高電圧対応絶縁シート開発、住友ベーク",
+        "blurb": "住友ベークライトが厚さ0.2mmで耐トラッキング性に優れた絶縁シートを開発。xEVや産業機器の高電圧部品向け。",
+        "category": "company",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news036.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "ER電池とサイズ互換の全固体電池モジュール、マクセル",
+        "blurb": "マクセルがER電池とサイズ互換の全固体電池モジュールを開発。出力電圧3.6V、標準容量35mAh。",
+        "category": "company",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news035.html"
+        },
+        "field": null
+      },
+      {
+        "title": "ボッシュ共同開発のSiC車載モジュール、富士電機が見本展示",
+        "blurb": "富士電機はボッシュと共同開発した電動車向けSiCパワー半導体モジュール「M688」の見本を展示した。",
+        "category": "company",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news055.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       },
       {
         "title": "Syslogic Unveils GNSS Expansion Board",
-        "blurb": "Syslogic has launched a GNSS expansion board tailored for its rugged embedded computing platforms. Utilizing u-blox's GN",
+        "blurb": "Syslogicが堅牢な組み込みコンピューティングプラットフォーム向けGNSS拡張ボードを発表。センチメートル級測位精度で農業や建設機械、AGVなどの新用途に対応。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -161,302 +343,14 @@
         }
       },
       {
-        "title": "Can Open-Source ISAs Catalyze Smart Manufacturing?",
-        "blurb": "The internet of things is integral to smart manufacturing, as it adds a layer of accuracy in the production flow. When a",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/can-open-source-isas-catalyze-smart-manufacturing"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "TDK’s High-Current DC Link Capacitors Operate at 105 °C Without Derating",
-        "blurb": "Designed for high current density in power electronics, the new ModCap UHP series combines a high-temperature dielectric",
+        "title": "Espressif’s New ESP32-E22 Supports 6 GHz Wi-Fi 6E and Bluetooth 5.4",
+        "blurb": "Espressifの新ESP32-E22は、Wi-Fi 6EとBluetooth 5.4に対応し、最大2.4Gb/sのスループットを提供します。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
         "source": {
           "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/tdks-high-current-dc-link-capacitors-operate-at-105-c-without-derating"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla FSD Super Users Can Now Get Half-Price Car Insurance",
-        "blurb": "Lemonade's new \"Autonomous Car Insurance\" is offering hefty discounts to Tesla drivers who use Full Self-Driving.",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785085/test-fsd-lemonade-cost-reduce"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "'Cell-To-Body': How The Volvo EX60's Battery Changes How EVs Are Built",
-        "blurb": "Despite being smaller than the EX90, the new EX60 gets more range and a larger battery thanks to clever packaging.",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785084/2027-volvo-ex60-cell-to-body-battery-design"
-        },
-        "field": null
-      },
-      {
-        "title": "The Volvo EX60 Cross Country Has Something The Rivian R2 Doesn’t",
-        "blurb": "The Swedish EV one-ups both the Rivian R2 and the Tesla Model Y with a feature that used to be a staple of rugged-lookin",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785066/2028-volvo-ex60-cross-country-official-specs-range-suspension"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Volvo EX60 Revealed: 'An End To Range Anxiety', With Next-Generation Seat Belts",
-        "blurb": "Volvo's 400-mile electric crossover could be a major comeback story—and it's packed with tech that takes EVs to the next",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785050/2027-volvo-ex60-revealed-details"
-        },
-        "field": null
-      },
-      {
-        "title": "Wind and solar overtook fossil fuels across Europe in 2025",
-        "blurb": "Europe’s power mix hit a tipping point in 2025. Wind and solar generated more electricity across the European Union than",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/wind-and-solar-overtook-fossil-fuels-across-europe-in-2025"
-        },
-        "field": null
-      },
-      {
-        "title": "Noon Energy proves 100+ hour battery for clean energy storage",
-        "blurb": "With data centers projected to consume as much as 12% of total US electricity by 2028, Noon Energy says it has hit a key",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/noon-energy-proves-100-hour-battery-for-clean-energy-storage"
-        },
-        "field": null
-      },
-      {
-        "title": "Watch Hyundai’s electric sports car take off like an absolute animal, fake shifting and all",
-        "blurb": "The Hyundai IONIQ 6 N will go on sale in the US and Europe soon, but we are already getting a look at it in action. more",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/watch-hyundais-ev-sports-car-take-off-with-fake-shifting"
-        },
-        "field": null
-      },
-      {
-        "title": "Introducing Electrek Forums: A new hub for the EV and green energy community",
-        "blurb": "We are excited to announce a major addition to the site today: the launch of Electrek Forums . more…",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/introducing-electrek-forums-a-new-hub-for-the-ev-and-green-energy-community"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "FERC: US utility-scale solar capacity overtook wind in 2025 – a first",
-        "blurb": "Solar continues to dominate new capacity additions and has held the lead among all energy sources for 26 consecutive mon",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/ferc-us-utility-scale-solar-capacity-overtook-wind-in-2025-a-first"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla patents ‘clever math trick’ for HW3, but nothing points to delivering promised self-driving",
-        "blurb": "Tesla has published a new patent that describes a way to squeeze more performance out of its aging HW3 self-driving comp",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/tesla-patents-clever-math-trick-hw3-nothing-delivering-promised-self-driving"
-        },
-        "field": null
-      },
-      {
-        "title": "Genesis emerges as a dark horse in the luxury EV space as even bigger plans unfold",
-        "blurb": "Over the past ten years, Genesis’ sales have grown “faster than any luxury marque in history,” according to Hyundai’s CE",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/genesis-outpacing-luxury-rivals-bigger-plans-unfold"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "MSI EV Life NACS or J1772 NEMA 14-50 level 2 chargers $425, EcoFlow DELTA 3 Max $749 flash offer, Mammotion robot mower, more",
-        "blurb": "Leading today’s Green Deals is the new MSI EV Life NEMA 14-50 Level 2 EV Chargers , with options for a NACS or J1772 con",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/msi-ev-life-nacs-or-j1772-level-2-chargers-ecoflow-mammotion-more"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Volvo reveals EX60 SUV, its fastest charging EV yet – and an offroad surprise",
-        "blurb": "Volvo has revealed the full look and specs of its upcoming EX60, fitting into the upper-middle segment of its electric p",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/volvo-reveals-ex60-mid-size-suv-alongside-a-special-off-road-surprise"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Is the Hyundai IONIQ 5 the best bang for your buck for an EV?",
-        "blurb": "The Hyundai IONIQ 5 remains one of the most popular EVs for its affordable price, long range capabilities, and modern te",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/hyundai-ioniq-5-best-bang-for-your-buck-ev"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Tesla quietly cuts 1,700 jobs at Gigafactory Berlin despite denying it",
-        "blurb": "A new report confirms that Tesla has reduced its workforce at Gigafactory Berlin by roughly 1,700 employees over the las",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/tesla-quietly-cuts-1700-jobs-at-gigafactory-berlin-despite-denying-it"
-        },
-        "field": null
-      },
-      {
-        "title": "The Volkswagen ID.4 is getting a facelift, and it looks like an entirely new EV",
-        "blurb": "Volkswagen’s electric SUV is due for a considerable makeover. The new ID.4 was spotted ahead of its upcoming debut, and ",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/21/volkswagen-id-4-facelift-looks-like-entirely-new-ev"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?",
-        "blurb": "This installment delves into commonalities in power electronics designs, including converter types, topologies, input vo",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/part-2-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Addressing Critical Tradeoffs In NPU Design",
-        "blurb": "Flexibility, future-proofing, and performance considerations for neural processing units. The post Addressing Critical T",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/addressing-critical-tradeoffs-in-npu-design"
+          "url": "https://www.electronics-lab.com/espressifs-new-esp32-e22-supports-6-ghz-wi-fi-6e-and-bluetooth-5-4"
         },
         "field": {
           "primary": "logic",
@@ -467,40 +361,16 @@
         }
       },
       {
-        "title": "Blog Review: Jan. 21",
-        "blurb": "AI squeezes consumer memory market; 3D-IC basics, challenges; atomistic simulation; GPUs and auto security; AI-assisted ",
+        "title": "TDK’s High-Current DC Link Capacitors Operate at 105 °C Without Derating",
+        "blurb": "TDKは、定格低下なしで105℃動作可能な高電流DCリンクコンデンサを発表。高温度下で20万時間の寿命を実現。",
         "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
+        "date": "2026-01-22",
+        "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-jan-21-2"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/tdks-high-current-dc-link-capacitors-operate-at-105-c-without-derating"
         },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ザインとiCatchが協業、全方位センシングを実現",
-        "blurb": "ザインエレクトロニクスは、台湾iCatch Technologyと協業し、自動運転や自律システムに向けた「全方位センシングソリューション」を開発した。「Automotive World Japan 2026」（2026年1月21～23日、東",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/21/news037.html"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
+        "field": null
       }
     ],
     "sns": []

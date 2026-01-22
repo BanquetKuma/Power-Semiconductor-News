@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-01-22T08:56:42.141364+09:00",
+  "generated_at": "2026-01-22T20:29:07.994328+09:00",
   "field": "industrial",
   "field_label": "産業機器",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Can Open-Source ISAs Catalyze Smart Manufacturing?",
-    "summary": "The internet of things is integral to smart manufacturing, as it adds a layer of accuracy in the production flow. When a",
+    "summary": "IoTはスマート製造に不可欠。オープンソースISAが、製造業のデータ活用と効率化を促進する可能性。",
     "sources": [
       {
         "name": "embedded.com",
@@ -15,11 +15,13 @@
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
         "title": "Can Open-Source ISAs Catalyze Smart Manufacturing?",
-        "blurb": "The internet of things is integral to smart manufacturing, as it adds a layer of accuracy in the production flow. When a",
-        "category": "company",
+        "blurb": "IoTはスマート製造に不可欠。オープンソースISAが、製造業のデータ活用と効率化を促進する可能性。",
+        "category": "business",
         "date": "2026-01-22",
         "stars": 3,
         "source": {
@@ -33,45 +35,7 @@
           "market": "industrial",
           "industry": null
         }
-      },
-      {
-        "title": "Hardware-Based Security in Smart Factories",
-        "blurb": "State-of-the-art methods are required in smart factories to provide hardware-based security to control systems (programm",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/hardware-based-security-in-smart-factories"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "iWave iG-RainboW-G69M TI AM62Lx OSM SoM with Raspberry Pi-Size Carrier Board",
-        "blurb": "iWave’s iG-RainboW-G69M pairs a TI AM62Lx OSM Size-SF SoM with a compact carrier board, offering dual GbE, display, USB,",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/iwave-ig-rainbow-g69m-ti-am62lx-osm-som-with-raspberry-pi-size-carrier-board"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-01-22T08:56:42.138348+09:00",
+  "generated_at": "2026-01-22T20:29:07.992913+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Microchip Launches 600 V Gate Driver Lineup",
-    "summary": "With support for 600 V operation, the new gate driver family extends Microchip’s offering of high-voltage power solution",
+    "summary": "Microchipが600V対応のゲートドライバを発表。高電圧電源ソリューションを拡充。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Microchip Launches 600 V Gate Driver Lineup",
-        "blurb": "With support for 600 V operation, the new gate driver family extends Microchip’s offering of high-voltage power solution",
+        "blurb": "Microchipが600V対応のゲートドライバを発表。高電圧電源ソリューションを拡充。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -35,9 +35,48 @@
         }
       },
       {
-        "title": "Exploring SiC MOSFET Architectures, Part 1",
-        "blurb": "Part 1 of this series explores SiC transistor architectures, their unique characteristics, and their advantages/design c",
+        "title": "0.2mm厚の高電圧対応絶縁シート開発、住友ベーク",
+        "blurb": "住友ベークライトが厚さ0.2mmで耐トラッキング性に優れた絶縁シートを開発。xEVや産業機器の高電圧部品向け。",
         "category": "company",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news036.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "ボッシュ共同開発のSiC車載モジュール、富士電機が見本展示",
+        "blurb": "富士電機はボッシュと共同開発した電動車向けSiCパワー半導体モジュール「M688」の見本を展示した。",
+        "category": "company",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news055.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Exploring SiC MOSFET Architectures, Part 1",
+        "blurb": "SiC MOSFETのアーキテクチャ、特性、利点、設計上の考慮事項を探るシリーズの第1部。",
+        "category": "business",
         "date": "2026-01-22",
         "stars": 3,
         "source": {
@@ -51,27 +90,7 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "高放熱、高絶縁の放熱絶縁シート　住友ベークが開発",
-        "blurb": "住友ベークライトは、車載用パワーモジュールなどに向けた放熱絶縁シート「BLA-6051」を開発した。放熱性と絶縁性に優れ、日本発条が開発した樹脂絶縁基板の絶縁層に用いられている。この基板がデンソー製車載インバーターのパワーモジュールに採用さ",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/21/news034.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

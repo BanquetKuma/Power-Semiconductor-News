@@ -1,42 +1,24 @@
 {
-  "generated_at": "2026-01-22T08:56:42.142189+09:00",
+  "generated_at": "2026-01-22T20:29:07.995205+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A Novel Side-channel Attack That Utilizes Memory Re-orderings (U. of Washington, Duke, UCSC et al.)",
-    "summary": "A new technical paper titled “Memory DisOrder: Memory Re-orderings as a Timerless Side-channel” was published by researc",
+    "title": "An Explosion In Interconnect Complexity",
+    "summary": "半導体業界では配線設計プラットフォームが2から5に増加し、複雑性が爆発的に増大している。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/a-novel-side-channel-attack-that-utilizes-memory-re-orderings-u-of-washington-duke-ucsc-et-al"
+        "url": "https://semiengineering.com/an-explosion-in-interconnect-complexity"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "A Novel Side-channel Attack That Utilizes Memory Re-orderings (U. of Washington, Duke, UCSC et al.)",
-        "blurb": "A new technical paper titled “Memory DisOrder: Memory Re-orderings as a Timerless Side-channel” was published by researc",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-novel-side-channel-attack-that-utilizes-memory-re-orderings-u-of-washington-duke-ucsc-et-al"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Co-optimization Approaches For Reliable and Efficient AI Acceleration (Peking University et al.)",
-        "blurb": "A new technical paper titled “The Quest for Reliable AI Accelerators: Cross-Layer Evaluation and Design Optimization” wa",
+        "blurb": "北京大学などの研究者が、AIアクセラレータの信頼性と効率を高めるための新しい技術論文を発表しました。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -51,11 +33,69 @@
           "market": null,
           "industry": null
         }
+      }
+    ],
+    "tech": [
+      {
+        "title": "A Novel Side-channel Attack That Utilizes Memory Re-orderings (U. of Washington, Duke, UCSC et al.)",
+        "blurb": "メモリ操作の並べ替えを利用した新たなサイドチャネル攻撃「Memory DisOrder」が発表された。効率向上のため多くの並列処理ユニットで実装されている。",
+        "category": "tools",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-novel-side-channel-attack-that-utilizes-memory-re-orderings-u-of-washington-duke-ucsc-et-al"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "An Explosion In Interconnect Complexity",
+        "blurb": "半導体業界では配線設計プラットフォームが2から5に増加し、複雑性が爆発的に増大している。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/an-explosion-in-interconnect-complexity"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Ripple Effects: Why Water Risk Is The Next Major Business Challenge For The Semiconductor Industry",
+        "blurb": "半導体業界は、2030年までに高水ストレス地域に40%以上の施設が立地する見込みで、水リスクが新たな事業課題となる。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ripple-effects-why-water-risk-is-the-next-major-business-challenge-for-the-semiconductor-industry"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
         "title": "Non-volatile Ferroelectric Silicon Photonics As A Scalable, Heat-free Platform For Energy-efficient Photonic Computing (UPV, iPronics et al.)",
-        "blurb": "A new technical paper titled “High-Speed Non-Volatile Barium Titanate Field Programmable Photonic Gate Array” was publis",
-        "category": "company",
+        "blurb": "強誘電体シリコンフォトニクスを用いた、熱フリーで省電力な光コンピューティング基盤が開発された。",
+        "category": "business",
         "date": "2026-01-22",
         "stars": 3,
         "source": {
@@ -69,63 +109,7 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?",
-        "blurb": "This installment delves into commonalities in power electronics designs, including converter types, topologies, input vo",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/part-2-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Blog Review: Jan. 21",
-        "blurb": "AI squeezes consumer memory market; 3D-IC basics, challenges; atomistic simulation; GPUs and auto security; AI-assisted ",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-jan-21-2"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "世界半導体市場、26年に初の1兆ドル超へ",
-        "blurb": "市場調査会社のOmdiaによると、世界半導体市場は、2026年に史上初の1兆米ドルを超える見通しだ。AI市場の需要に支えられてメモリおよびロジックICの売上高が急増し、市場全体をけん引すると予測される。",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/21/news051.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
