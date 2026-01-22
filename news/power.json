@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-01-22T21:51:55.063655+09:00",
+  "generated_at": "2026-01-23T08:55:46.522788+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Microchip Launches 600 V Gate Driver Lineup",
-    "summary": "Microchipが600V対応の新型ゲートドライバを発表。高電圧電源ソリューションのラインナップを拡充。",
+    "title": "How GaN Supports Multi-Market Applications (Podcast)",
+    "summary": "RenesasのGaN技術がAIインフラ、ソーラー、EV向けDC/DCなど多市場の電源要求に対応。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/microchip-launches-600-v-gate-driver-lineup"
+        "url": "https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast"
       }
     ]
   },
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Microchip Launches 600 V Gate Driver Lineup",
-        "blurb": "Microchipが600V対応の新型ゲートドライバを発表。高電圧電源ソリューションのラインナップを拡充。",
+        "blurb": "Microchipが600V対応のゲートドライバを発表。高電圧電源ソリューションを拡充。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -36,7 +36,7 @@
       },
       {
         "title": "0.2mm厚の高電圧対応絶縁シート開発、住友ベーク",
-        "blurb": "住友ベークライトが厚さ0.2mmで耐トラッキング性に優れた絶縁シートを開発。xEVや産業機器の高電圧部品向け。",
+        "blurb": "住友ベークライトが厚さ0.2mmの絶縁シートを開発。電動車や産業機器の高電圧部品向け。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -54,7 +54,7 @@
       },
       {
         "title": "ボッシュ共同開発のSiC車載モジュール、富士電機が見本展示",
-        "blurb": "富士電機はボッシュと共同開発したxEV向けSiCパワー半導体モジュール「M688」の見本を展示した。",
+        "blurb": "富士電機はボッシュと共同開発した電動車向けSiCパワー半導体モジュール「M688」を見本展示した。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -74,7 +74,7 @@
     "tech": [
       {
         "title": "Exploring SiC MOSFET Architectures, Part 1",
-        "blurb": "SiC MOSFETのアーキテクチャ、特性、利点、設計上の考慮事項について解説するシリーズの第1部。",
+        "blurb": "SiC MOSFETのアーキテクチャ、特性、利点、設計上の考慮事項を探るシリーズの第1部。",
         "category": "tools",
         "date": "2026-01-22",
         "stars": 3,
@@ -91,6 +91,25 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "How GaN Supports Multi-Market Applications (Podcast)",
+        "blurb": "RenesasのGaN技術がAIインフラ、ソーラー、EV向けDC/DCなど多市場の電源要求に対応。",
+        "category": "business",
+        "date": "2026-01-23",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }
