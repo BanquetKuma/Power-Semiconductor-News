@@ -65,3 +65,40 @@ export type FieldKey =
   | 'foundry' | 'fabless' | 'idm' | 'geopolitics'
   | 'frontend' | 'backend' | 'miniaturization' | 'equipment' | 'wafer'
   | 'general';
+
+// --- Trends types for investor view ---
+
+export type TrendMomentum = 'rising' | 'stable' | 'declining';
+
+export interface TrendAnalysis {
+  short_term: string;
+  mid_term: string;
+  investment_implications: string;
+}
+
+export interface MetaTrend {
+  name: string;
+  confidence: number;
+  momentum: TrendMomentum;
+  related_fields: FieldKey[];
+  summary: string;
+  analysis: TrendAnalysis;
+  keywords: string[];
+  companies_mentioned: string[];
+}
+
+export interface MarketSignals {
+  bullish: string[];
+  bearish: string[];
+  neutral: string[];
+}
+
+export interface TrendsData {
+  generated_at: string;
+  date: string;
+  meta_trends: MetaTrend[];
+  market_signals: MarketSignals;
+  source_count: number;
+}
+
+export type ViewMode = 'news' | 'trends';

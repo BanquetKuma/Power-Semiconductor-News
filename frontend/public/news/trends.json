@@ -1,0 +1,64 @@
+{
+  "generated_at": "2026-01-22T21:00:00+09:00",
+  "date": "2026-01-22",
+  "meta_trends": [
+    {
+      "name": "SiCパワー半導体の急成長",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": ["power", "automotive"],
+      "summary": "EVと再生可能エネルギー市場の拡大に伴い、SiCパワー半導体の需要が急増。各社が生産能力を増強中。",
+      "analysis": {
+        "short_term": "EV市場の堅調な成長に伴い、SiC需要は引き続き高水準を維持",
+        "mid_term": "生産能力増強が進み、コスト低減により採用が加速",
+        "investment_implications": "SiC関連銘柄（Wolfspeed、Infineon等）への投資機会"
+      },
+      "keywords": ["SiC", "EV", "パワー半導体"],
+      "companies_mentioned": ["Infineon", "Wolfspeed", "STMicro"]
+    },
+    {
+      "name": "先端パッケージング技術の進化",
+      "confidence": 0.78,
+      "momentum": "rising",
+      "related_fields": ["backend", "ai", "datacenter"],
+      "summary": "AI需要の急増により、チップレットやCoWoSなどの先端パッケージング技術への需要が拡大。",
+      "analysis": {
+        "short_term": "NVIDIA向けCoWoS生産能力が逼迫、TSMCが増強中",
+        "mid_term": "複数のファウンドリが参入し、供給体制が改善へ",
+        "investment_implications": "パッケージング装置メーカーに注目"
+      },
+      "keywords": ["CoWoS", "チップレット", "HBM"],
+      "companies_mentioned": ["TSMC", "Samsung", "Intel"]
+    },
+    {
+      "name": "日本の半導体復興政策",
+      "confidence": 0.72,
+      "momentum": "stable",
+      "related_fields": ["foundry", "geopolitics"],
+      "summary": "Rapidusを中心とした日本の半導体産業復興が進行。政府支援と国際協力により基盤強化。",
+      "analysis": {
+        "short_term": "Rapidus北海道工場の建設が進行、パイロットライン稼働へ",
+        "mid_term": "2nmプロセス量産開始に向けた準備が本格化",
+        "investment_implications": "日本の半導体装置・材料メーカーへの波及効果"
+      },
+      "keywords": ["Rapidus", "2nm", "経済安全保障"],
+      "companies_mentioned": ["Rapidus", "IBM", "東京エレクトロン"]
+    }
+  ],
+  "market_signals": {
+    "bullish": [
+      "AI半導体需要が引き続き高水準を維持",
+      "EV市場の成長によるパワー半導体需要増加",
+      "各国政府による半導体産業支援の拡大"
+    ],
+    "bearish": [
+      "一部メモリ市場での在庫調整継続",
+      "地政学リスクによるサプライチェーン懸念"
+    ],
+    "neutral": [
+      "スマートフォン市場は緩やかな回復基調",
+      "PC市場は横ばい傾向"
+    ]
+  },
+  "source_count": 25
+}

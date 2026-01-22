@@ -1,7 +1,8 @@
 import { useNewsStore } from '../stores/newsStore';
+import { ViewToggle } from './ViewToggle';
 
 export function Header() {
-  const { latestNews, selectedField, selectField } = useNewsStore();
+  const { latestNews, selectedField, selectField, currentView } = useNewsStore();
 
   const generatedAt = latestNews?.generated_at
     ? new Date(latestNews.generated_at).toLocaleString('ja-JP', {
@@ -14,7 +15,14 @@ export function Header() {
     : '';
 
   return (
-    <header className="relative overflow-hidden bg-gradient-to-r from-[#0747A6] via-[#0052CC] to-[#00B8D9]">
+    <header
+      className="relative overflow-hidden"
+      style={{
+        backgroundImage: `linear-gradient(to right, rgba(7, 71, 166, 0.92), rgba(0, 82, 204, 0.88), rgba(0, 184, 217, 0.85)), url(${import.meta.env.BASE_URL}assets/header-bg.jpg)`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+      }}
+    >
       {/* Decorative background patterns */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute -top-1/2 -right-1/4 w-96 h-96 bg-white/5 rounded-full blur-3xl"></div>
@@ -55,7 +63,10 @@ export function Header() {
 
           {/* Actions section */}
           <div className="flex items-center gap-4">
-            {selectedField && (
+            {/* View Toggle */}
+            <ViewToggle />
+
+            {currentView === 'news' && selectedField && (
               <button
                 onClick={() => selectField(null)}
                 className="group px-4 py-2 bg-white/10 hover:bg-white/20 backdrop-blur-sm rounded-xl text-sm font-medium text-white transition-all duration-200 flex items-center gap-2 border border-white/10 hover:border-white/20"

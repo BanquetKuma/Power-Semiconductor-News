@@ -584,6 +584,145 @@ def llm_summarize(title, text, url):
 
     return None
 
+
+# --- Trends Analysis for Investors ---
+
+def _build_trends_prompt(articles_text: str, date: str) -> str:
+    """投資家向けメタトレンド分析用プロンプト"""
+    return f"""あなたは半導体業界の投資アナリストです。
+以下のニュース記事群から業界のメタトレンドを抽出し、投資家向けの分析を行ってください。
+
+## 分析対象
+{date}の直近ニュース
+
+## 入力記事
+{articles_text}
+
+## 出力（JSON形式のみ）
+{{
+  "meta_trends": [
+    {{
+      "name": "トレンド名（日本語、20文字以内）",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": ["power", "automotive"],
+      "summary": "トレンドの説明（100文字以内）",
+      "analysis": {{
+        "short_term": "短期見通し（1-3ヶ月、50文字以内）",
+        "mid_term": "中期見通し（半年-1年、50文字以内）",
+        "investment_implications": "投資示唆（50文字以内）"
+      }},
+      "keywords": ["SiC", "EV"],
+      "companies_mentioned": ["企業名1", "企業名2"]
+    }}
+  ],
+  "market_signals": {{
+    "bullish": ["強気シグナル1", "強気シグナル2"],
+    "bearish": ["弱気シグナル1"],
+    "neutral": ["中立シグナル1"]
+  }}
+}}
+
+## 注意事項
+- meta_trendsは最大5件まで
+- confidenceは0.0〜1.0の数値
+- momentumは "rising" / "stable" / "declining" のいずれか
+- related_fieldsは以下から選択: power, memory, logic, analog, image, ai, automotive, datacenter, industrial, foundry, fabless, idm, geopolitics, frontend, backend, miniaturization, equipment, wafer
+- 出力はJSONのみ、他のテキストは含めないでください
+"""
+
+
+def _llm_gemini_trends(articles: list, date: str) -> dict | None:
+    """Gemini APIでメタトレンド分析を実行"""
+    key = os.getenv('GOOGLE_API_KEY')
+    if not key:
+        log('Trends: GOOGLE_API_KEY not set, skipping trends generation')
+        return None
+
+    # 記事テキストを構築
+    articles_text = ""
+    for i, art in enumerate(articles[:30], 1):  # 最大30件
+        title = art.get('title', '')
+        blurb = art.get('blurb', '')
+        field = art.get('field', {})
+        field_str = field.get('primary', '') if field else ''
+        articles_text += f"{i}. [{field_str}] {title}\n   {blurb}\n\n"
+
+    if not articles_text.strip():
+        log('Trends: No articles to analyze')
+        return None
+
+    model = os.getenv('GEMINI_TRENDS_MODEL') or os.getenv('GEMINI_MODEL') or 'gemini-2.5-flash-lite'
+    prompt = _build_trends_prompt(articles_text, date)
+
+    payload = {
+        'contents': [{'parts': [{'text': prompt}]}],
+        'generationConfig': {
+            'temperature': 0.3,
+            'responseMimeType': 'application/json'
+        },
+        'systemInstruction': {'parts': [{'text': '半導体業界の投資アナリストとして、正確で洞察力のある分析をJSON形式で提供してください。'}]}
+    }
+
+    try:
+        log(f'Trends: Generating with {model}...')
+        r = requests.post(
+            f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}',
+            json=payload,
+            timeout=60
+        )
+        r.raise_for_status()
+        ans = r.json()['candidates'][0]['content']['parts'][0]['text']
+
+        # Parse JSON response
+        ans = ans.strip()
+        if ans.startswith('```'):
+            ans = '\n'.join(ans.split('\n')[1:])
+        if ans.endswith('```'):
+            ans = ans.rsplit('```', 1)[0]
+        ans = ans.strip()
+
+        trends_data = json.loads(ans)
+        log(f'Trends: Generated {len(trends_data.get("meta_trends", []))} trends')
+        return trends_data
+    except Exception as ex:
+        log('Trends generation error:', type(ex).__name__, str(ex)[:100])
+        return None
+
+
+def generate_trends_json(enriched_items: list, date: str) -> None:
+    """trends.json を生成"""
+    # 半導体関連記事のみをフィルタ
+    semi_items = [it for it in enriched_items if it.get('field')]
+
+    if not semi_items:
+        log('Trends: No semiconductor items, skipping')
+        return
+
+    # LLMでトレンド分析
+    trends_data = _llm_gemini_trends(semi_items, date)
+
+    if not trends_data:
+        # フォールバック: 空のトレンドデータ
+        trends_data = {
+            'meta_trends': [],
+            'market_signals': {'bullish': [], 'bearish': [], 'neutral': []}
+        }
+
+    # 出力データ構築
+    output = {
+        'generated_at': datetime.now(JST).isoformat(),
+        'date': date,
+        'meta_trends': trends_data.get('meta_trends', []),
+        'market_signals': trends_data.get('market_signals', {'bullish': [], 'bearish': [], 'neutral': []}),
+        'source_count': len(semi_items)
+    }
+
+    # 保存
+    with open(os.path.join(NEWS_DIR, 'trends.json'), 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    log(f'trends.json: {len(output.get("meta_trends", []))} trends generated')
+
 # --- main -------------------------------------------------
 
 def main():
@@ -850,6 +989,9 @@ def main():
     with open(os.path.join(NEWS_DIR, 'stats.json'), 'w', encoding='utf-8') as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
     log('stats.json: generated')
+
+    # --- 投資家向けトレンド分析 ---
+    generate_trends_json(enriched, today)
 
     log('DONE', len(enriched), 'items total,', len(semi_items), 'semiconductor-related')
 

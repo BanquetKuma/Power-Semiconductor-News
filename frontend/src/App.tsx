@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { Header } from './components/Header';
 import { FieldFilter } from './components/FieldFilter';
 import { NewsList } from './components/NewsList';
+import { TrendsView } from './components/TrendsView';
 import { useNewsStore, fetchLatestNews } from './stores/newsStore';
 
 function Footer() {
@@ -89,7 +90,7 @@ function Footer() {
 }
 
 function App() {
-  const { setLatestNews, setLoading, setError } = useNewsStore();
+  const { currentView, setLatestNews, setLoading, setError } = useNewsStore();
 
   useEffect(() => {
     async function loadLatestNews() {
@@ -114,17 +115,21 @@ function App() {
       <Header />
 
       <main className="flex-1 max-w-7xl mx-auto px-4 py-8 w-full">
-        <div className="flex flex-col lg:flex-row gap-8">
-          {/* Sidebar with filters */}
-          <div className="lg:w-72 flex-shrink-0">
-            <FieldFilter />
-          </div>
+        {currentView === 'news' ? (
+          <div className="flex flex-col lg:flex-row gap-8">
+            {/* Sidebar with filters */}
+            <div className="lg:w-72 flex-shrink-0">
+              <FieldFilter />
+            </div>
 
-          {/* Main content */}
-          <div className="flex-1 min-w-0">
-            <NewsList />
+            {/* Main content */}
+            <div className="flex-1 min-w-0">
+              <NewsList />
+            </div>
           </div>
-        </div>
+        ) : (
+          <TrendsView />
+        )}
       </main>
 
       <Footer />
