@@ -5,8 +5,8 @@ name: Unified Daily Pipeline
 
 on:
   schedule:
-    # Run at 23:50 UTC = 08:50 JST daily
-    - cron: '50 23 * * *'
+    # Run at 21:00 UTC = 06:00 JST daily
+    - cron: '0 21 * * *'
   workflow_dispatch:
     inputs:
       skip_news:
