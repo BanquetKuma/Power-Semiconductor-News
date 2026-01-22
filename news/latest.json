@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-01-22T20:29:07.991481+09:00",
+  "generated_at": "2026-01-22T20:33:25.259124+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Microchip Launches 600 V Gate Driver Lineup",
-    "summary": "Microchipが600V対応のゲートドライバを発表。高電圧電源ソリューションを拡充。",
+    "summary": "Microchipが600V動作対応のゲートドライバを発表。高電圧電源ソリューションのラインナップを拡充。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -15,26 +15,8 @@
   "sections": {
     "business": [
       {
-        "title": "Exploring SiC MOSFET Architectures, Part 1",
-        "blurb": "SiC MOSFETのアーキテクチャ、特性、利点、設計上の考慮事項を探るシリーズの第1部。",
-        "category": "business",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Every Atom Now Counts In Advanced Chip Manufacturing",
-        "blurb": "AI時代向け半導体製造では、原子層堆積とハイブリッド誘電体が信頼性とスケーリングを再定義し、原子レベルでの精度が不可欠になっている。",
+        "blurb": "AI時代向け半導体製造では、原子層堆積とハイブリッド誘電体が信頼性とスケーリングを再定義し、原子レベルでの精度が重要になっている。",
         "category": "business",
         "date": "2026-01-22",
         "stars": 3,
@@ -52,7 +34,7 @@
       },
       {
         "title": "An Explosion In Interconnect Complexity",
-        "blurb": "半導体業界では配線設計プラットフォームが2から5に増加し、複雑性が爆発的に増大している。",
+        "blurb": "半導体業界では配線プラットフォームが2つから5つに増加し、複雑性が爆発的に増大している。",
         "category": "business",
         "date": "2026-01-22",
         "stars": 3,
@@ -70,7 +52,7 @@
       },
       {
         "title": "Oxides Bring Low Leakage Transistors To Leading-Edge Memories",
-        "blurb": "DRAM不足とSRAMのスケーリング限界に対応するため、低リーク電流トランジスタの研究開発が活発化しています。",
+        "blurb": "DRAM不足とSRAMのスケーリング限界に対し、低リーク電流トランジスタ技術が最先端メモリに導入される。",
         "category": "business",
         "date": "2026-01-22",
         "stars": 3,
@@ -88,7 +70,7 @@
       },
       {
         "title": "Ripple Effects: Why Water Risk Is The Next Major Business Challenge For The Semiconductor Industry",
-        "blurb": "半導体業界は、2030年までに高水ストレス地域に40%以上の施設が立地する見込みで、水リスクが新たな事業課題となる。",
+        "blurb": "半導体業界は、2030年までに高水ストレス地域に40%以上の新施設が立地するため、水リスクが次の主要課題となる。",
         "category": "business",
         "date": "2026-01-22",
         "stars": 3,
@@ -124,7 +106,7 @@
       },
       {
         "title": "ディスコの通期売上高、初の4000億円超へ 生成AI需要で",
-        "blurb": "ディスコ、生成AI需要で通期売上高初の4000億円超えへ。純利益も最高益更新見込み。",
+        "blurb": "ディスコ、2025年度売上高4190億円で初の4000億円超えへ。生成AI向け半導体需要が牽引し、純利益も過去最高を更新する見込み。",
         "category": "business",
         "date": "2026-01-22",
         "stars": 3,
@@ -142,7 +124,7 @@
       },
       {
         "title": "Can Open-Source ISAs Catalyze Smart Manufacturing?",
-        "blurb": "IoTはスマート製造に不可欠。オープンソースISAが、製造業のデータ活用と効率化を促進する可能性。",
+        "blurb": "IoTはスマート製造の精度向上に不可欠。オープンソースISAがその触媒となる可能性。",
         "category": "business",
         "date": "2026-01-22",
         "stars": 3,
@@ -160,6 +142,24 @@
       }
     ],
     "tools": [
+      {
+        "title": "Exploring SiC MOSFET Architectures, Part 1",
+        "blurb": "SiC MOSFETのアーキテクチャ、特性、利点、設計上の考慮事項を探るシリーズの第1部。",
+        "category": "tools",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
       {
         "title": "A Novel Side-channel Attack That Utilizes Memory Re-orderings (U. of Washington, Duke, UCSC et al.)",
         "blurb": "メモリ操作の並べ替えを利用した新たなサイドチャネル攻撃「Memory DisOrder」が発表された。効率向上のため多くの並列処理ユニットで実装されている。",
@@ -180,7 +180,7 @@
       },
       {
         "title": "市場は低成長でも中身は超進化！ 最新スマートウォッチを分解",
-        "blurb": "市場は低成長でもスマートウォッチは毎年進化。2025年発売モデルの機能・性能アップを分解して解説。",
+        "blurb": "市場は低成長でもスマートウォッチは進化。2025年発売モデルの機能・性能向上を分解して解説。",
         "category": "tools",
         "date": "2026-01-22",
         "stars": 3,
@@ -191,22 +191,28 @@
         "field": null
       },
       {
-        "title": "映像が「宙に浮く」ディスプレイ　厚さ1ミリのメタレンズで実現",
-        "blurb": "京セラは厚さ1mmのメタレンズで映像が宙に浮いて見えるスマートウォッチ型空中ディスプレイのプロトタイプをCES 2026で展示した。",
+        "title": "Syslogic Unveils GNSS Expansion Board",
+        "blurb": "Syslogicが産業用途向け高精度GNSS拡張ボードを発表。自律走行農機や建設機械、AGV/AMRの精密誘導に対応。",
         "category": "tools",
         "date": "2026-01-22",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news066.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/syslogic-unveils-gnss-expansion-board"
         },
-        "field": null
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "company": [
       {
         "title": "Microchip Launches 600 V Gate Driver Lineup",
-        "blurb": "Microchipが600V対応のゲートドライバを発表。高電圧電源ソリューションを拡充。",
+        "blurb": "Microchipが600V動作対応のゲートドライバを発表。高電圧電源ソリューションのラインナップを拡充。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -242,7 +248,7 @@
       },
       {
         "title": "Co-optimization Approaches For Reliable and Efficient AI Acceleration (Peking University et al.)",
-        "blurb": "北京大学などの研究者が、AIアクセラレータの信頼性と効率を高めるための新しい技術論文を発表しました。",
+        "blurb": "北京大学などの研究者がAIアクセラレータの信頼性と効率性を高めるための新技術を発表。CMOS微細化に伴う課題解決を目指す。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -260,7 +266,7 @@
       },
       {
         "title": "TSMCでも足りないAI需要　Rapidusにチャンスか",
-        "blurb": "AI需要が旺盛でTSMCでも不足。日本のRapidusに競合企業としての参入機会があるか注目される。",
+        "blurb": "AI需要が旺盛でTSMCの生産能力でも不足気味。日本のRapidusに競合企業としての参入機会があるか注目される。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -278,7 +284,7 @@
       },
       {
         "title": "0.2mm厚の高電圧対応絶縁シート開発、住友ベーク",
-        "blurb": "住友ベークライトが厚さ0.2mmで耐トラッキング性に優れた絶縁シートを開発。xEVや産業機器の高電圧部品向け。",
+        "blurb": "住友ベークライトは、厚さ0.2mmで耐トラッキング性に優れた絶縁シートを開発。xEVや産業機器の高電圧部品向けに提案。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
@@ -325,22 +331,16 @@
         }
       },
       {
-        "title": "Syslogic Unveils GNSS Expansion Board",
-        "blurb": "Syslogicが堅牢な組み込みコンピューティングプラットフォーム向けGNSS拡張ボードを発表。センチメートル級測位精度で農業や建設機械、AGVなどの新用途に対応。",
+        "title": "映像が「宙に浮く」ディスプレイ　厚さ1ミリのメタレンズで実現",
+        "blurb": "京セラは厚さ1mmのメタレンズで映像が宙に浮いて見えるスマートウォッチ型空中ディスプレイのプロトタイプをCES 2026で展示した。",
         "category": "company",
         "date": "2026-01-22",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/syslogic-unveils-gnss-expansion-board"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news066.html"
         },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
+        "field": null
       },
       {
         "title": "Espressif’s New ESP32-E22 Supports 6 GHz Wi-Fi 6E and Bluetooth 5.4",
