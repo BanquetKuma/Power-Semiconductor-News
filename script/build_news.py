@@ -472,47 +472,117 @@ def score(item):
     return base, min(max(stars,1),5)
 
 # --- LLM summarization (optional) -------------------------
+# Priority: GOOGLE_API_KEY (Gemini, cheaper) > OPENAI_API_KEY
 
 _llm_warned = False
 
-def llm_summarize(title, text, url):
-    global _llm_warned
-    key = os.getenv('OPENAI_API_KEY')
-    if not key:
-        if not _llm_warned:
-            log('LLM: OPENAI_API_KEY not set, using RSS/feed summaries')
-            _llm_warned = True
-        return None
-    model = os.getenv('OPENAI_MODEL') or 'gpt-4o-mini'
-    base = os.getenv('OPENAI_API_BASE') or 'https://api.openai.com/v1'
-    try:
-        prompt = f"""
-以下の記事を日本語で80文字以内に要約し、カテゴリ（business/tools/company/snsのいずれか）と、重要度を1〜5で出してください。出力はJSONのみ。
+def _build_prompt(title, text, url):
+    return f"""以下の記事を日本語で80文字以内に要約し、カテゴリ（business/tools/company/snsのいずれか）と、重要度を1〜5で出してください。出力はJSONのみ。
 
 タイトル: {title}
 URL: {url}
-本文: {text[:4000]}
-"""
-        payload = {
-            'model': model,
-            'messages': [
-                {'role': 'system', 'content': 'You are a concise Japanese news assistant.'},
-                {'role': 'user', 'content': prompt}
-            ],
-            'temperature': 0.2
-        }
-        r = requests.post(f'{base}/chat/completions', headers={'Authorization': f'Bearer {key}'}, json=payload, timeout=45)
-        r.raise_for_status()
-        ans = r.json()['choices'][0]['message']['content']
-        j = json.loads(ans)
-        return {
-            'blurb': j.get('summary') or j.get('要約') or j.get('blurb'),
-            'category': j.get('category') or j.get('カテゴリ'),
-            'stars': int(j.get('stars') or j.get('重要度') or 3)
-        }
-    except Exception as ex:
-        log('LLM API error (continuing without LLM):', type(ex).__name__, str(ex)[:100])
+本文: {text[:4000]}"""
+
+def _parse_llm_response(ans):
+    """Parse LLM response JSON"""
+    # Remove markdown code blocks if present
+    ans = ans.strip()
+    if ans.startswith('```'):
+        ans = '\n'.join(ans.split('\n')[1:])
+    if ans.endswith('```'):
+        ans = ans.rsplit('```', 1)[0]
+    ans = ans.strip()
+    j = json.loads(ans)
+    return {
+        'blurb': j.get('summary') or j.get('要約') or j.get('blurb'),
+        'category': j.get('category') or j.get('カテゴリ'),
+        'stars': int(j.get('stars') or j.get('重要度') or 3)
+    }
+
+def _llm_gemini(title, text, url):
+    """Gemini API (gemini-2.5-flash-lite)"""
+    key = os.getenv('GOOGLE_API_KEY')
+    model = os.getenv('GEMINI_MODEL') or 'gemini-2.5-flash-lite'
+    prompt = _build_prompt(title, text, url)
+
+    payload = {
+        'contents': [{'parts': [{'text': prompt}]}],
+        'generationConfig': {
+            'temperature': 0.2,
+            'responseMimeType': 'application/json'
+        },
+        'systemInstruction': {'parts': [{'text': 'You are a concise Japanese news assistant. Output JSON only.'}]}
+    }
+
+    r = requests.post(
+        f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}',
+        json=payload,
+        timeout=45
+    )
+    r.raise_for_status()
+    ans = r.json()['candidates'][0]['content']['parts'][0]['text']
+    return _parse_llm_response(ans)
+
+def _llm_openai(title, text, url):
+    """OpenAI API (gpt-4o-mini)"""
+    key = os.getenv('OPENAI_API_KEY')
+    model = os.getenv('OPENAI_MODEL') or 'gpt-4o-mini'
+    base = os.getenv('OPENAI_API_BASE') or 'https://api.openai.com/v1'
+    prompt = _build_prompt(title, text, url)
+
+    payload = {
+        'model': model,
+        'messages': [
+            {'role': 'system', 'content': 'You are a concise Japanese news assistant.'},
+            {'role': 'user', 'content': prompt}
+        ],
+        'temperature': 0.2
+    }
+    r = requests.post(f'{base}/chat/completions', headers={'Authorization': f'Bearer {key}'}, json=payload, timeout=45)
+    r.raise_for_status()
+    ans = r.json()['choices'][0]['message']['content']
+    return _parse_llm_response(ans)
+
+def llm_summarize(title, text, url):
+    global _llm_warned
+
+    google_key = os.getenv('GOOGLE_API_KEY')
+    openai_key = os.getenv('OPENAI_API_KEY')
+
+    if not google_key and not openai_key:
+        if not _llm_warned:
+            log('LLM: No API key set (GOOGLE_API_KEY or OPENAI_API_KEY), using RSS/feed summaries')
+            _llm_warned = True
         return None
+
+    # Try Gemini first (cheaper), fall back to OpenAI
+    if google_key:
+        try:
+            if not _llm_warned:
+                model = os.getenv('GEMINI_MODEL') or 'gemini-2.5-flash-lite'
+                log(f'LLM: Using Gemini ({model})')
+                _llm_warned = True
+            return _llm_gemini(title, text, url)
+        except Exception as ex:
+            log('Gemini API error:', type(ex).__name__, str(ex)[:100])
+            # Fall back to OpenAI if available
+            if openai_key:
+                log('Falling back to OpenAI...')
+            else:
+                return None
+
+    if openai_key:
+        try:
+            if not _llm_warned:
+                model = os.getenv('OPENAI_MODEL') or 'gpt-4o-mini'
+                log(f'LLM: Using OpenAI ({model})')
+                _llm_warned = True
+            return _llm_openai(title, text, url)
+        except Exception as ex:
+            log('OpenAI API error (continuing without LLM):', type(ex).__name__, str(ex)[:100])
+            return None
+
+    return None
 
 # --- main -------------------------------------------------
 
