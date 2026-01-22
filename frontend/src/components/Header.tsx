@@ -51,10 +51,11 @@ export function Header() {
               <h1 className="text-2xl md:text-3xl font-black tracking-tight flex items-center gap-3">
                 <span className="relative">
                   <span className="bg-gradient-to-r from-white via-cyan-200 to-amber-200 bg-clip-text text-transparent drop-shadow-lg">
-                    SEMI
+                    Semiconductor
                   </span>
+                  {' '}
                   <span className="bg-gradient-to-r from-amber-200 via-yellow-100 to-white bg-clip-text text-transparent drop-shadow-lg">
-                    PULSE
+                    News
                   </span>
                   <span className="absolute -bottom-1 left-0 w-full h-0.5 bg-gradient-to-r from-cyan-400 via-amber-400 to-transparent"></span>
                 </span>

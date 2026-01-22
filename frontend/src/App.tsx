@@ -20,10 +20,11 @@ function Footer() {
               </div>
               <div>
                 <h3 className="text-white font-black text-lg tracking-tight">
-                  <span className="bg-gradient-to-r from-cyan-400 to-amber-400 bg-clip-text text-transparent">SEMI</span>
-                  <span className="text-white">PULSE</span>
+                  <span className="bg-gradient-to-r from-cyan-400 to-amber-400 bg-clip-text text-transparent">Semiconductor</span>
+                  {' '}
+                  <span className="text-white">News</span>
                 </h3>
-                <p className="text-xs text-gray-500">Semiconductor Intelligence Platform</p>
+                <p className="text-xs text-gray-500">AI-Powered Semiconductor Intelligence</p>
               </div>
             </div>
             <p className="text-sm text-gray-500 leading-relaxed">
@@ -78,7 +79,7 @@ function Footer() {
         {/* Bottom bar */}
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gray-600">
-            &copy; 2025 SEMIPULSE. All rights reserved.
+            &copy; 2025 Semiconductor News. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             <span className="text-xs text-gray-600 flex items-center gap-1">
