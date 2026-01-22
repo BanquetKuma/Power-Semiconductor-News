@@ -1,192 +1,30 @@
 {
-  "generated_at": "2026-01-21T21:33:48.777595+09:00",
+  "generated_at": "2026-01-22T21:51:55.065847+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Blog Review: Jan. 21",
-    "summary": "AI squeezes consumer memory market; 3D-IC basics, challenges; atomistic simulation; GPUs and auto security; AI-assisted ",
+    "title": "An Explosion In Interconnect Complexity",
+    "summary": "半導体業界では配線設計プラットフォームが2から5に増加し、複雑性が爆発的に増大している。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/blog-review-jan-21-2"
+        "url": "https://semiengineering.com/an-explosion-in-interconnect-complexity"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Blog Review: Jan. 21",
-        "blurb": "AI squeezes consumer memory market; 3D-IC basics, challenges; atomistic simulation; GPUs and auto security; AI-assisted ",
+        "title": "Co-optimization Approaches For Reliable and Efficient AI Acceleration (Peking University et al.)",
+        "blurb": "北京大学などの研究者が、AIアクセラレータの信頼性と効率を高めるための新しい技術論文を発表しました。CMOS技術の微細化に伴う信頼性課題に対処します。",
         "category": "company",
-        "date": "2026-01-21",
+        "date": "2026-01-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-jan-21-2"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The Quest to Make Diamond as Available as Silicon",
-        "blurb": "The state of the diamond semiconductor industry and an interview with Adam Khan of Diamond Quanta covering their diamond",
-        "category": "company",
-        "date": "2026-01-19",
-        "stars": 2,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-quest-to-make-diamond-as-available-as-silicon"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Startup Funding: Q4 2025",
-        "blurb": "More and bigger funding rounds for AI chips and AI for making chips; 75 companies raise $3 billion. The post Startup Fun",
-        "category": "company",
-        "date": "2026-01-19",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/startup-funding-q4-2025"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Empower Strengthens its Worldwide Operations",
-        "blurb": "Empower Semiconductor's new Milpitas headquarters is intended to accelerate the development of vertical power-delivery p",
-        "category": "company",
-        "date": "2026-01-20",
-        "stars": 2,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/empower-strengthens-its-worldwide-operations"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Research Bits: Jan. 20",
-        "blurb": "ALD for Ru wiring; vertical nanolasers; hydrogel semiconductors. The post Research Bits: Jan. 20 appeared first on Semic",
-        "category": "company",
-        "date": "2026-01-20",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-jan-20-2"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Big Changes Ahead For Semiconductor Manufacturing",
-        "blurb": "Inside Chips Podcast: PDF Solutions' CEO discusses AI in chip manufacturing, 3D-ICs, and shorter cycle times. The post B",
-        "category": "company",
-        "date": "2026-01-20",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/big-changes-ahead-for-semiconductor-manufacturing"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "世界半導体市場、26年に初の1兆ドル超へ",
-        "blurb": "市場調査会社のOmdiaによると、世界半導体市場は、2026年に史上初の1兆米ドルを超える見通しだ。AI市場の需要に支えられてメモリおよびロジックICの売上高が急増し、市場全体をけん引すると予測される。",
-        "category": "company",
-        "date": "2026-01-21",
-        "stars": 2,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/21/news051.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Engineering After Orthogonalization: Why Verification Has Become A Lifecycle Discipline",
-        "blurb": "As modern system design brings together components that were once isolated, abstractions are breaking down. The post Eng",
-        "category": "company",
-        "date": "2026-01-15",
-        "stars": 1,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/engineering-after-orthogonalization-why-verification-has-become-a-lifecycle-discipline"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The Design Challenges Of Clock Integrity And Clock Jitter",
-        "blurb": "Understanding signal integrity in advanced chip design. The post The Design Challenges Of Clock Integrity And Clock Jitt",
-        "category": "company",
-        "date": "2026-01-15",
-        "stars": 1,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-design-challenges-of-clock-integrity-and-clock-jitter"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Elon Musk says Tesla ‘almost done’ with AI5 design, 6 months after saying it was ‘finished’",
-        "blurb": "Elon Musk took to X today to announce that the design for Tesla’s next-generation self-driving computer, the AI5 chip, i",
-        "category": "company",
-        "date": "2026-01-18",
-        "stars": 1,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/01/17/elon-musk-tesla-almost-done-with-ai5-design-6-months-after-saying-finished"
+          "url": "https://semiengineering.com/co-optimization-approaches-for-reliable-and-efficient-ai-acceleration-peking-university-et-al"
         },
         "field": {
           "primary": "general",
@@ -197,7 +35,81 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "A Novel Side-channel Attack That Utilizes Memory Re-orderings (U. of Washington, Duke, UCSC et al.)",
+        "blurb": "メモリ操作の並べ替えを利用した新たなサイドチャネル攻撃「Memory DisOrder」が発表された。効率向上のため多くの並列処理ユニットで採用されている。",
+        "category": "tools",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-novel-side-channel-attack-that-utilizes-memory-re-orderings-u-of-washington-duke-ucsc-et-al"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "An Explosion In Interconnect Complexity",
+        "blurb": "半導体業界では配線設計プラットフォームが2から5に増加し、複雑性が爆発的に増大している。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/an-explosion-in-interconnect-complexity"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Ripple Effects: Why Water Risk Is The Next Major Business Challenge For The Semiconductor Industry",
+        "blurb": "半導体工場の4割超が2030～2040年に高水ストレス地域に立地。水リスクが半導体業界の次なる事業課題となる。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ripple-effects-why-water-risk-is-the-next-major-business-challenge-for-the-semiconductor-industry"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Non-volatile Ferroelectric Silicon Photonics As A Scalable, Heat-free Platform For Energy-efficient Photonic Computing (UPV, iPronics et al.)",
+        "blurb": "強誘電体シリコンフォトニクスによる、熱フリーで省電力な光コンピューティングプラットフォームが開発された。",
+        "category": "business",
+        "date": "2026-01-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/non-volatile-ferroelectric-silicon-photonics-as-a-scalable-heat-free-platform-for-energy-efficient-photonic-computing-upv-ipronics-et-al"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

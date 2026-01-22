@@ -48,15 +48,23 @@ export function Header() {
             </div>
 
             <div>
-              <h1 className="text-2xl md:text-3xl font-bold text-white tracking-tight flex items-center gap-2">
-                Semiconductor News
-                <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-semibold bg-white/20 text-white/90 backdrop-blur-sm">
-                  BETA
+              <h1 className="text-2xl md:text-3xl font-black tracking-tight flex items-center gap-3">
+                <span className="relative">
+                  <span className="bg-gradient-to-r from-white via-cyan-200 to-amber-200 bg-clip-text text-transparent drop-shadow-lg">
+                    SEMI
+                  </span>
+                  <span className="bg-gradient-to-r from-amber-200 via-yellow-100 to-white bg-clip-text text-transparent drop-shadow-lg">
+                    PULSE
+                  </span>
+                  <span className="absolute -bottom-1 left-0 w-full h-0.5 bg-gradient-to-r from-cyan-400 via-amber-400 to-transparent"></span>
+                </span>
+                <span className="inline-flex items-center px-2.5 py-1 rounded-full text-[10px] font-bold bg-gradient-to-r from-amber-400 to-orange-500 text-white shadow-lg animate-pulse">
+                  LIVE
                 </span>
               </h1>
-              <p className="text-blue-100 text-sm mt-1 flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse"></span>
-                半導体業界の最新ニュースをリアルタイムでお届け
+              <p className="text-blue-100/90 text-sm mt-2 flex items-center gap-2 font-medium">
+                <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse shadow-lg shadow-green-400/50"></span>
+                半導体業界の最新ニュースをAIがリアルタイム配信
               </p>
             </div>
           </div>
