@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-01-23T08:55:46.522788+09:00",
+  "generated_at": "2026-01-23T12:49:06.229911+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "How GaN Supports Multi-Market Applications (Podcast)",
-    "summary": "RenesasのGaN技術がAIインフラ、ソーラー、EV向けDC/DCなど多市場の電源要求に対応。",
+    "summary": "RenesasのGaN技術がAIインフラ、EV用DC/DC、ソーラー充電器など多岐にわたる用途を支える。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -15,92 +15,36 @@
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Microchip Launches 600 V Gate Driver Lineup",
-        "blurb": "Microchipが600V対応のゲートドライバを発表。高電圧電源ソリューションを拡充。",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/microchip-launches-600-v-gate-driver-lineup"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "0.2mm厚の高電圧対応絶縁シート開発、住友ベーク",
-        "blurb": "住友ベークライトが厚さ0.2mmの絶縁シートを開発。電動車や産業機器の高電圧部品向け。",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news036.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "ボッシュ共同開発のSiC車載モジュール、富士電機が見本展示",
-        "blurb": "富士電機はボッシュと共同開発した電動車向けSiCパワー半導体モジュール「M688」を見本展示した。",
-        "category": "company",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news055.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Exploring SiC MOSFET Architectures, Part 1",
-        "blurb": "SiC MOSFETのアーキテクチャ、特性、利点、設計上の考慮事項を探るシリーズの第1部。",
-        "category": "tools",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
+    "tech": [],
     "market": [
       {
         "title": "How GaN Supports Multi-Market Applications (Podcast)",
-        "blurb": "RenesasのGaN技術がAIインフラ、ソーラー、EV向けDC/DCなど多市場の電源要求に対応。",
+        "blurb": "RenesasのGaN技術がAIインフラ、EV用DC/DC、ソーラー充電器など多岐にわたる用途を支える。",
         "category": "business",
         "date": "2026-01-23",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
           "url": "https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "貼り合わせSiC基板、安定供給進み今や一大トレンドに",
+        "blurb": "フェニテックセミコンダクターは貼り合わせSiC基板「SiCkrest」などを展示。安定供給が進み、SiC基板は一大トレンドとなっている。",
+        "category": "business",
+        "date": "2026-01-23",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/23/news030.html"
         },
         "field": {
           "primary": "power",
