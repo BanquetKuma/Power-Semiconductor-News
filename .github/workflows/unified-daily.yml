@@ -142,10 +142,68 @@ jobs:
             echo "No changes to commit"
           fi
 
-  # Job 3: Summary
+  # Job 3: Build Pages (depends on archive)
+  build-pages:
+    runs-on: ubuntu-latest
+    needs: archive
+    if: always()
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main  # Get latest commit including archive changes
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Build frontend
+        run: |
+          cd frontend
+          npm ci
+          npm run build
+
+      - name: Prepare site
+        run: |
+          mkdir -p _site
+          cp -r frontend/dist/* _site/
+          cp -r news _site/ 2>/dev/null || true
+          cp -r presentations _site/ 2>/dev/null || true
+          touch _site/.nojekyll
+          echo "Site contents:"
+          ls -la _site/
+          ls -la _site/news/ || echo "No news directory"
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+  # Job 4: Deploy Pages (depends on build-pages)
+  deploy-pages:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build-pages
+    if: always() && needs.build-pages.result == 'success'
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # Job 5: Summary
   summary:
     runs-on: ubuntu-latest
-    needs: [build-news, archive]
+    needs: [build-news, archive, build-pages, deploy-pages]
     if: always()
 
     steps:
@@ -156,6 +214,8 @@ jobs:
           echo "### Job Results" >> $GITHUB_STEP_SUMMARY
           echo "- **Build News**: ${{ needs.build-news.result }}" >> $GITHUB_STEP_SUMMARY
           echo "- **Archive**: ${{ needs.archive.result }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Build Pages**: ${{ needs.build-pages.result }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Deploy Pages**: ${{ needs.deploy-pages.result }}" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "### Generated Files" >> $GITHUB_STEP_SUMMARY
           echo "Field-specific JSON files: power, memory, logic, automotive, ai, foundry, etc." >> $GITHUB_STEP_SUMMARY
