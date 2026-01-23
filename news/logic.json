@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-01-23T08:55:46.523475+09:00",
+  "generated_at": "2026-01-24T08:55:22.929149+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "PolarFire FPGA ecosystem targets embedded imaging",
-    "summary": "マイクロチップ、低消費電力・高帯域幅のFPGAエコシステムを拡張し、組み込み画像処理に対応。",
+    "title": "Espressif Integrates Tri-Band Wi-Fi 6E and Dual-Mode Bluetooth Into Single SoC",
+    "summary": "EspressifがWi-Fi 6EとBluetooth 5.4を統合した新SoCを発表。産業・民生市場向けに高度な無線接続を提供。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/polarfire-fpga-ecosystem-targets-embedded-imaging"
+        "name": "electronics-lab.com",
+        "url": "https://www.electronics-lab.com/espressif-integrates-tri-band-wi-fi-6e-and-dual-mode-bluetooth-into-single-soc"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "PolarFire FPGA ecosystem targets embedded imaging",
-        "blurb": "マイクロチップ、低消費電力・高帯域幅のFPGAエコシステムを拡張し、組み込み画像処理に対応。",
+        "title": "Espressif Integrates Tri-Band Wi-Fi 6E and Dual-Mode Bluetooth Into Single SoC",
+        "blurb": "EspressifがWi-Fi 6EとBluetooth 5.4を統合した新SoCを発表。産業・民生市場向けに高度な無線接続を提供。",
         "category": "company",
-        "date": "2026-01-22",
+        "date": "2026-01-23",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/polarfire-fpga-ecosystem-targets-embedded-imaging"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/espressif-integrates-tri-band-wi-fi-6e-and-dual-mode-bluetooth-into-single-soc"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Toradex Luna Is a “Pro Consumer” Edge AI SBC with Synaptics SL1680 SoC",
+        "blurb": "Toradex Lunaは、Synaptics SL1680 SoC搭載のAI開発ボード。エッジAI用途向け。",
+        "category": "tools",
+        "date": "2026-01-23",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/toradex-luna-is-a-pro-consumer-edge-ai-sbc-with-synaptics-sl1680-soc"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

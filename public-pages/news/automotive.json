@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-01-22T21:51:55.064604+09:00",
+  "generated_at": "2026-01-24T08:55:22.930231+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Syslogic Unveils GNSS Expansion Board",
-    "summary": "Syslogicが産業用途向け高精度GNSS拡張ボードを発表。自律走行農機や建設機械、AGV/AMRの精密誘導に対応。",
+    "title": "Chip Industry Week In Review",
+    "summary": "TSMCの成熟ノード減産、フォトニクス、インテル決算、メモリへの関税、EVランキングなど半導体業界の動向を網羅。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/syslogic-unveils-gnss-expansion-board"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-122"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Syslogic Unveils GNSS Expansion Board",
-        "blurb": "Syslogicが産業用途向け高精度GNSS拡張ボードを発表。自律走行農機や建設機械、AGV/AMRの精密誘導に対応。",
-        "category": "tools",
-        "date": "2026-01-22",
+        "title": "Scout's Extended-Range EVs Are Front And Center In A New Dealer Lawsuit",
+        "blurb": "VW、アウディ、ポルシェのディーラーが、ScoutはEVブランドではないと主張し、他の企業と同様のディーラー法を適用するよう訴訟を起こした。",
+        "category": "company",
+        "date": "2026-01-23",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/syslogic-unveils-gnss-expansion-board"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/785203/scout-colorado-dealers-lawsuit-erev"
         },
         "field": {
           "primary": "automotive",
@@ -36,6 +35,81 @@
         }
       }
     ],
-    "market": []
+    "tech": [
+      {
+        "title": "What Every EV Driver Should Know Before A Major Winter Storm Hits",
+        "blurb": "寒冷地でのEV性能低下は避けられないが、対策はある。冬の嵐に備え、ドライバーは知識を得ておくべきだ。",
+        "category": "tools",
+        "date": "2026-01-24",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/785310/ev-winter-storm-cold-tips-2026"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "TSMCの成熟ノード減産、フォトニクス、インテル決算、メモリへの関税、EVランキングなど半導体業界の動向を網羅。",
+        "category": "business",
+        "date": "2026-01-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-122"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": "wafer",
+          "market": "automotive",
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "Power Tips #149: Boosting EV charger efficiency and density with single-stage matrix converters",
+        "blurb": "EV充電器の効率と密度向上に、単段マトリクスコンバータの利点とトポロジ比較を解説。",
+        "category": "business",
+        "date": "2026-01-23",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/power-tips-149-boosting-ev-charger-efficiency-and-density-with-single-stage-matrix-converters"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "The Mercedes GLC EV Is Looking Like A Sales Hit Already",
+        "blurb": "メルセデス新型EV SUV「GLC」、予想を大幅に上回る需要で早くも販売好調。",
+        "category": "business",
+        "date": "2026-01-23",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/785250/mercedes-glc-sales-hit-demand"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }
