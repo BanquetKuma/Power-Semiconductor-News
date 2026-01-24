@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-01-23T08:55:46.524998+09:00",
+  "generated_at": "2026-01-25T08:54:45.637677+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "An Explosion In Interconnect Complexity",
-    "summary": "半導体業界の配線プラットフォームが2から5へ急増し、複雑性が爆発的に増加している。",
+    "title": "Overview and Comparison of Devices Used For Optical Waveguide-to-Waveguide Coupling (MIT et al.)",
+    "summary": "MIT等の研究者が、光導波路間結合デバイスの概要と比較に関する論文を発表。3D集積フォトニックパッケージング向け。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/an-explosion-in-interconnect-complexity"
+        "url": "https://semiengineering.com/overview-and-comparison-of-devices-used-for-optical-waveguide-to-waveguide-coupling-mit-et-al"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Co-optimization Approaches For Reliable and Efficient AI Acceleration (Peking University et al.)",
-        "blurb": "北京大学などの研究者が、AIアクセラレータの信頼性と効率を高めるための新しい技術論文を発表しました。",
+        "title": "Overview and Comparison of Devices Used For Optical Waveguide-to-Waveguide Coupling (MIT et al.)",
+        "blurb": "MIT等の研究者が、光導波路間結合デバイスの概要と比較に関する論文を発表。3D集積フォトニックパッケージング向け。",
         "category": "company",
-        "date": "2026-01-22",
+        "date": "2026-01-25",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/co-optimization-approaches-for-reliable-and-efficient-ai-acceleration-peking-university-et-al"
+          "url": "https://semiengineering.com/overview-and-comparison-of-devices-used-for-optical-waveguide-to-waveguide-coupling-mit-et-al"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Outlier-aware Quantization Framework Co-designed With Heterogeneous NVM For SLM Deployment on Edge Platforms (UCSD et al.)",
+        "blurb": "UCSD等の研究者が、エッジAI向けに外れ値に強い量子化と不揮発性メモリを協調設計する新技術を発表。SLMの効率的な展開を目指す。",
+        "category": "company",
+        "date": "2026-01-25",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/outlier-aware-quantization-framework-co-designed-with-heterogeneous-nvm-for-slm-deployment-on-edge-platforms-ucsd-et-al"
         },
         "field": {
           "primary": "general",
@@ -37,14 +55,14 @@
     ],
     "tech": [
       {
-        "title": "A Novel Side-channel Attack That Utilizes Memory Re-orderings (U. of Washington, Duke, UCSC et al.)",
-        "blurb": "メモリ操作の並べ替えを利用した新たなサイドチャネル攻撃「Memory DisOrder」が発表された。効率向上のため多くの並列処理ユニットで実装されている。",
+        "title": "A Verification Framework For Trojan Detection (U. of Kansas, U. of Florida)",
+        "blurb": "カンザス大学とフロリダ大学の研究者が、市販ハードウェアのトロイの木馬検出のための検証フレームワーク「COVERT」を発表しました。",
         "category": "tools",
-        "date": "2026-01-22",
+        "date": "2026-01-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-novel-side-channel-attack-that-utilizes-memory-re-orderings-u-of-washington-duke-ucsc-et-al"
+          "url": "https://semiengineering.com/a-verification-framework-for-trojan-detection-u-of-kansas-u-of-florida"
         },
         "field": {
           "primary": "general",
@@ -55,61 +73,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "An Explosion In Interconnect Complexity",
-        "blurb": "半導体業界の配線プラットフォームが2から5へ急増し、複雑性が爆発的に増加している。",
-        "category": "business",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/an-explosion-in-interconnect-complexity"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Ripple Effects: Why Water Risk Is The Next Major Business Challenge For The Semiconductor Industry",
-        "blurb": "半導体業界は、2030年までに高水ストレス地域に40%以上の新施設が立地する見込みで、水リスクが次の主要課題となる。",
-        "category": "business",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ripple-effects-why-water-risk-is-the-next-major-business-challenge-for-the-semiconductor-industry"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Non-volatile Ferroelectric Silicon Photonics As A Scalable, Heat-free Platform For Energy-efficient Photonic Computing (UPV, iPronics et al.)",
-        "blurb": "強誘電体シリコンフォトニクスによる、熱フリーで省電力な光コンピューティング基盤が開発された。",
-        "category": "business",
-        "date": "2026-01-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/non-volatile-ferroelectric-silicon-photonics-as-a-scalable-heat-free-platform-for-energy-efficient-photonic-computing-upv-ipronics-et-al"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

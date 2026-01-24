@@ -1,60 +1,41 @@
 {
-  "generated_at": "2026-01-24T08:55:22.929149+09:00",
+  "generated_at": "2026-01-25T08:54:45.637139+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Espressif Integrates Tri-Band Wi-Fi 6E and Dual-Mode Bluetooth Into Single SoC",
-    "summary": "EspressifがWi-Fi 6EとBluetooth 5.4を統合した新SoCを発表。産業・民生市場向けに高度な無線接続を提供。",
+    "title": "Confidentiality-preserving Framework For Secure On-Chip Communication in NoC Architectures",
+    "summary": "フロリダ大学の研究者らが、NoCアーキテクチャにおける機密性を保護する安全なオンチップ通信フレームワークを発表。悪意あるノードからの盗聴攻撃を防ぐ。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/espressif-integrates-tri-band-wi-fi-6e-and-dual-mode-bluetooth-into-single-soc"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/confidentiality-preserving-framework-for-secure-on-chip-communication-in-noc-architectures"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Espressif Integrates Tri-Band Wi-Fi 6E and Dual-Mode Bluetooth Into Single SoC",
-        "blurb": "EspressifがWi-Fi 6EとBluetooth 5.4を統合した新SoCを発表。産業・民生市場向けに高度な無線接続を提供。",
+        "title": "Confidentiality-preserving Framework For Secure On-Chip Communication in NoC Architectures",
+        "blurb": "フロリダ大学の研究者らが、NoCアーキテクチャにおける機密性を保護する安全なオンチップ通信フレームワークを発表。悪意あるノードからの盗聴攻撃を防ぐ。",
         "category": "company",
-        "date": "2026-01-23",
+        "date": "2026-01-25",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/espressif-integrates-tri-band-wi-fi-6e-and-dual-mode-bluetooth-into-single-soc"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/confidentiality-preserving-framework-for-secure-on-chip-communication-in-noc-architectures"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       }
     ],
-    "tech": [
-      {
-        "title": "Toradex Luna Is a “Pro Consumer” Edge AI SBC with Synaptics SL1680 SoC",
-        "blurb": "Toradex Lunaは、Synaptics SL1680 SoC搭載のAI開発ボード。エッジAI用途向け。",
-        "category": "tools",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/toradex-luna-is-a-pro-consumer-edge-ai-sbc-with-synaptics-sl1680-soc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": []
   }
 }

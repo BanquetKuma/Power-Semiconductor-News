@@ -1,40 +1,22 @@
 {
-  "generated_at": "2026-01-24T08:55:22.927156+09:00",
+  "generated_at": "2026-01-23T12:49:06.229170+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Magnachip Launches New Generation of 650V and 1200V IGBTs",
-    "summary": "Magnachipが新世代IGBTを発表。セルピッチを40%削減する新技術を採用。",
+    "title": "How GaN Supports Multi-Market Applications (Podcast)",
+    "summary": "RenesasのGaN技術がAIインフラ、EV用DC/DC、ソーラー充電器など多岐にわたる用途を支える。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/magnachip-launches-new-generation-of-650v-and-1200v-igbts"
+        "url": "https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Diamond Semiconductors, PEN’s 2025 Survey Special Report, SiC MOSFETs Architectures: Power Electronics Week Insights",
-        "blurb": "パワーエレクトロニクスウィークの最新情報。ダイヤモンド半導体、PENの2025年調査、SiC MOSFETアーキテクチャに焦点を当てる。",
-        "category": "business",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/diamond-semiconductors-pens-2025-survey-special-report-sic-mosfets-architectures-power-electronics-week-insights"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "How GaN Supports Multi-Market Applications (Podcast)",
-        "blurb": "RenesasのGaN技術がAIインフラ、ソーラーEV充電器、EV向けDC/DCなど多市場の電力応用を支える。",
+        "blurb": "RenesasのGaN技術がAIインフラ、EV用DC/DC、ソーラー充電器など多岐にわたる用途を支える。",
         "category": "business",
         "date": "2026-01-23",
         "stars": 3,
@@ -48,24 +30,6 @@
           "process": null,
           "market": null,
           "industry": null
-        }
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "TSMCの成熟ノード減産、フォトニクス、インテル決算、メモリへの関税、EVランキングなど半導体業界の動向を網羅。",
-        "category": "business",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-122"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": "wafer",
-          "market": "automotive",
-          "industry": "foundry"
         }
       },
       {
@@ -88,7 +52,7 @@
       },
       {
         "title": "住友ベーク、京セラの半導体関連材料事業を300億円で買収",
-        "blurb": "住友ベークライトが京セラの半導体関連材料事業を300億円で買収。AIデータセンター向け材料を強化する。",
+        "blurb": "住友ベークライトが京セラの半導体材料事業を300億円で買収。AIデータセンター向け材料を強化。",
         "category": "business",
         "date": "2026-01-23",
         "stars": 3,
@@ -105,56 +69,8 @@
         }
       },
       {
-        "title": "Power Tips #149: Boosting EV charger efficiency and density with single-stage matrix converters",
-        "blurb": "EV充電器の効率と密度向上に、単段マトリクスコンバータの利点とトポロジ比較を解説。",
-        "category": "business",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/power-tips-149-boosting-ev-charger-efficiency-and-density-with-single-stage-matrix-converters"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Procurement tool aims to bolster semiconductor supply chain",
-        "blurb": "半導体サプライチェーン強化へ、電子部品調達のデューデリジェンスを支援するB2Bプラットフォーム「ChipHub」が登場。",
-        "category": "business",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/procurement-tool-aims-to-bolster-semiconductor-supply-chain"
-        },
-        "field": {
-          "primary": "geopolitics",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "geopolitics"
-        }
-      },
-      {
-        "title": "The Basics of Software-Defined Factories",
-        "blurb": "IoTと柔軟性・効率化の要求から、製造業でソフトウェア定義型工場（SDF）への移行が進む。これにより、ハードウェア制約から解放され、迅速な設定が可能になる。",
-        "category": "business",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/the-basics-of-software-defined-factories"
-        },
-        "field": null
-      },
-      {
         "title": "De-risking the Start of Production for Automotive SoCs",
-        "blurb": "自動車SoCの生産開始リスク低減。SDV化とAI搭載で複雑化する設計、従来のワークフローでは対応困難。",
+        "blurb": "自動車SoCの生産開始リスク低減へ。SDV化とAI搭載でシリコン設計が複雑化、従来手法では対応困難に。",
         "category": "business",
         "date": "2026-01-23",
         "stars": 3,
@@ -169,173 +85,10 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "The Mercedes GLC EV Is Looking Like A Sales Hit Already",
-        "blurb": "メルセデス新型EV SUV「GLC」、予想を大幅に上回る需要で早くも販売好調。",
-        "category": "business",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785250/mercedes-glc-sales-hit-demand"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "CES 2026: AI, automotive, and robotics dominate",
-        "blurb": "CES 2026ではAI、自動車、ロボティクスが中心となる見込み。技術革新の動向を示す。",
-        "category": "business",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ces-2026-ai-automotive-and-robotics-dominate"
-        },
-        "field": null
-      },
-      {
-        "title": "Predictive Maintenance, Hardware Security, Open-Source ISAs: Embedded Week Insights",
-        "blurb": "組み込み技術の最新動向：予知保全、ハードウェアセキュリティ、オープンソースISAに関する記事。",
-        "category": "business",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/predictive-maintenance-hardware-security-open-source-isas-embedded-week-insights"
-        },
-        "field": null
-      },
-      {
-        "title": "Cheap Chinese Electric Cars Are Coming To Canada. What Happens Now?",
-        "blurb": "中国製EVがカナダ市場に参入。ボルボの新モデルや自動車保険についても議論。",
-        "category": "business",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/785309/podcast-canada-volvo"
-        },
-        "field": null
       }
     ],
-    "tools": [
-      {
-        "title": "Toradex Luna Is a “Pro Consumer” Edge AI SBC with Synaptics SL1680 SoC",
-        "blurb": "Toradex Lunaは、Synaptics SL1680 SoC搭載のAI開発ボード。エッジAI用途向け。",
-        "category": "tools",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/toradex-luna-is-a-pro-consumer-edge-ai-sbc-with-synaptics-sl1680-soc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "What Every EV Driver Should Know Before A Major Winter Storm Hits",
-        "blurb": "寒冷地でのEV性能低下は避けられないが、対策はある。冬の嵐に備え、ドライバーは知識を得ておくべきだ。",
-        "category": "tools",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785310/ev-winter-storm-cold-tips-2026"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ],
+    "tools": [],
     "company": [
-      {
-        "title": "ROHM 100-V Power MOSFET for 48 V AI Servers in New Package",
-        "blurb": "ROHMは、48V AIサーバー向けに新パッケージの100V耐圧パワーMOSFETを発表。小型ながら広いSOA性能を持つ。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/rohm-100-v-power-mosfet-for-48-v-ai-servers-in-new-package"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Diodes Announces High-Voltage RobustISO Digital Isolators",
-        "blurb": "Diodes社が、強化および基本の絶縁仕様を満たす高耐圧デジタルアイソレータ「API772x」を発表しました。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/diodes-announces-high-voltage-robustiso-digital-isolators"
-        },
-        "field": null
-      },
-      {
-        "title": "発電もできる有機EL素子、千葉大学らが開発",
-        "blurb": "千葉大らは、太陽光発電と発光の二つの機能を持つ有機EL素子を開発した。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/23/news040.html"
-        },
-        "field": null
-      },
-      {
-        "title": "土に返る「紙の電池」 シンガポール新興が量産開始",
-        "blurb": "シンガポールFlintがセルロースベースの充電式電池の量産を開始。CES 2026で展示された。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/23/news084.html"
-        },
-        "field": null
-      },
-      {
-        "title": "次世代半導体材料をウエハー規模に成膜、NIMSら",
-        "blurb": "NIMSと東大は、MOCVD法で次世代半導体材料MoS2をウエハースケールで高品質に成膜する技術を開発。トランジスタ試作で高い電子移動度を達成した。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/23/news039.html"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
       {
         "title": "80TOPSを5W以下で　韓国DEEPXの「本気」示すエッジAIチップ",
         "blurb": "韓国DEEPXがCES 2026で低消費電力・高推論性能のエッジAIチップを展示。次世代品は2nmプロセス適用。",
@@ -371,150 +124,6 @@
           "market": "industrial",
           "industry": "fabless"
         }
-      },
-      {
-        "title": "Espressif Integrates Tri-Band Wi-Fi 6E and Dual-Mode Bluetooth Into Single SoC",
-        "blurb": "EspressifがWi-Fi 6EとBluetooth 5.4を統合した新SoCを発表。産業・民生市場向けに高度な無線接続を提供。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/espressif-integrates-tri-band-wi-fi-6e-and-dual-mode-bluetooth-into-single-soc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Waymo's Biggest Year Yet Starts With Driverless Rides In Miami",
-        "blurb": "Waymo、マイアミで自動運転サービスを開始。カリフォルニアではハイブリッド車が販売を伸ばし、中国のCheryはカナダ進出を検討。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785223/waymo-enters-miami-chinese-ev-canada-california"
-        },
-        "field": null
-      },
-      {
-        "title": "Volvo's Parent Company Will Start Making Solid-State Batteries This Year",
-        "blurb": "ボルボ親会社の吉利汽車、今年中に全固体電池の製造開始。開発車両への搭載を目指す。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785243/volvo-geely-solid-state-batteries-2026"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla Removes Autosteer From All Model 3 And Model Y Trims",
-        "blurb": "テスラ、米国でモデル3とYの全グレードから車線維持支援を削除。サブスクリプション型「完全自動運転」への移行を促す動き。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785225/tesla-removes-autopilot-base-models"
-        },
-        "field": null
-      },
-      {
-        "title": "Scout's Extended-Range EVs Are Front And Center In A New Dealer Lawsuit",
-        "blurb": "VW、アウディ、ポルシェのディーラーが、ScoutはEVブランドではないと主張し、他の企業と同様のディーラー法を適用するよう訴訟を起こした。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785203/scout-colorado-dealers-lawsuit-erev"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Elon Musk Promised Self-Driving Cars For Years. Tesla Finally Started Robotaxi Rides With No Safety Monitors",
-        "blurb": "イーロン・マスク氏が長年約束してきた自動運転車、テスラが安全監視員なしのロボタクシー運行を開始。ついに実現か。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785220/tesla-robotaxi-austin-no-safety-monitor"
-        },
-        "field": null
-      },
-      {
-        "title": "This Is When 2027 Chevrolet Bolt Production Will End",
-        "blurb": "2027年型シボレー・ボルトの生産が終了。3万ドルのEVは、中国からカンザスへ移転するガソリン車搭載のビュイックに取って代わられる。",
-        "category": "company",
-        "date": "2026-01-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785214/2027-chevrolet-bolt-limited-run"
-        },
-        "field": null
-      },
-      {
-        "title": "Magnachip Launches New Generation of 650V and 1200V IGBTs",
-        "blurb": "Magnachipが新世代IGBTを発表。セルピッチを40%削減する新技術を採用。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/magnachip-launches-new-generation-of-650v-and-1200v-igbts"
-        },
-        "field": null
-      },
-      {
-        "title": "The Clever Way Volvo Solved The Biggest Issue With Electric Door Handles",
-        "blurb": "ボルボEX60は、12Vバッテリーが切れてもドアハンドルが操作不能にならないよう、隠しレバーで開閉できる機構を採用した。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785325/volvo-ex60-power-door-handles"
-        },
-        "field": null
-      },
-      {
-        "title": "The BMW iX3 Is Racking Up Orders Without Test Drives",
-        "blurb": "BMW iX3、試乗なしで注文殺到。新規顧客も多く、初期需要が予想を上回る。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785318/bmw-ix3-strong-demand-orders"
-        },
-        "field": null
-      },
-      {
-        "title": "Donut Lab Says It Cracked Solid-State Batteries. Experts Have Questions.",
-        "blurb": "フィンランドのDonut Lab社が全固体電池のブレークスルーを発表。しかし、業界からは疑問の声も上がっており、証明が求められている。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785308/donut-labs-solid-state-skeptics-ces"
-        },
-        "field": null
       }
     ],
     "sns": []

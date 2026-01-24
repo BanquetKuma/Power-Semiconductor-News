@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T08:55:26.879937+09:00",
-  "date": "2026-01-24",
+  "generated_at": "2026-01-25T08:54:49.814042+09:00",
+  "date": "2026-01-25",
   "meta_trends": [
     {
       "name": "SiCパワー半導体の普及加速",
@@ -11,27 +11,27 @@
         "automotive",
         "industrial"
       ],
-      "summary": "SiC MOSFETのアーキテクチャ探求や貼り合わせ基板の安定供給が進み、EVや産業機器での採用が拡大している。",
+      "summary": "SiC MOSFETは高効率・高耐圧でEVや産業機器の省電力化に貢献。貼り合わせ基板の安定供給も進む。",
       "analysis": {
-        "short_term": "需要増で供給逼迫の可能性、価格上昇も。",
-        "mid_term": "技術進化と量産効果でコスト競争力向上。",
-        "investment_implications": "SiC関連企業への投資妙味増す。"
+        "short_term": "需要増で供給逼迫の可能性。価格動向を注視。",
+        "mid_term": "EVシフト加速でSiC採用が拡大。新材料・新構造開発も活発化。",
+        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
         "EV",
-        "パワー半導体"
+        "パワー半導体",
+        "省電力"
       ],
       "companies_mentioned": [
         "ROHM",
         "Diamond Semiconductors",
-        "Microchip",
         "富士電機",
         "フェニテックセミコンダクター"
       ]
     },
     {
-      "name": "AI需要による市場拡大と技術革新",
+      "name": "AI需要による半導体市場拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -39,122 +39,120 @@
         "datacenter",
         "memory",
         "logic",
-        "frontend"
+        "foundry"
       ],
-      "summary": "AIサーバー向けパワー半導体やAIアクセラレータ開発が活発化。市場は2026年に初の1兆ドル超え見込み。",
+      "summary": "AI需要が半導体市場を牽引し、2026年には初の1兆ドル超え予測。特にメモリとロジックICの需要が旺盛。",
       "analysis": {
-        "short_term": "AIチップ需要は供給能力超え、TSMC等に生産逼迫。",
-        "mid_term": "次世代製造技術（原子レベル精度）が重要に。",
-        "investment_implications": "AIインフラ関連企業に注目。"
+        "short_term": "AI向け先端プロセス・メモリの供給能力が焦点。",
+        "mid_term": "エッジAIの普及で低消費電力・高性能チップの需要増。",
+        "investment_implications": "AIチップメーカー、ファウンドリ、メモリメーカーに注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
         "メモリ",
-        "ロジック"
+        "ロジックIC",
+        "1兆ドル市場"
       ],
       "companies_mentioned": [
-        "ROHM",
-        "Renesas",
-        "Microchip",
         "TSMC",
-        "Rapidus",
         "NVIDIA",
-        "住友ベークライト",
+        "Rapidus",
         "DEEPX",
-        "EdgeCortix"
+        "ディスコ"
       ]
     },
     {
-      "name": "GaN技術のマルチマーケット応用",
+      "name": "GaN技術の多様な応用展開",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "industrial",
         "datacenter"
       ],
-      "summary": "RenesasのGaN技術がAIインフラ、EV充電器、DC/DCコンバータなど多岐にわたる応用を支えている。",
+      "summary": "GaNは高効率・高速スイッチング特性を持ち、AIインフラ、EV、データセンター等で活用が進む。",
       "analysis": {
-        "short_term": "高効率化ニーズでGaN採用拡大。",
-        "mid_term": "さらなる低コスト化と信頼性向上が鍵。",
-        "investment_implications": "GaN関連技術を持つ企業に期待。"
+        "short_term": "AIインフラ向け電源での採用拡大が期待される。",
+        "mid_term": "EV用DC/DCコンバータ等、車載用途での採用が増加。",
+        "investment_implications": "GaNデバイスメーカー、関連材料メーカーに注目。"
       },
       "keywords": [
         "GaN",
         "高効率",
-        "EV充電器"
+        "AIインフラ",
+        "EV"
       ],
       "companies_mentioned": [
-        "Renesas"
+        "ルネサス",
+        "NVIDIA"
       ]
     },
     {
-      "name": "製造プロセスにおける複雑性増大",
-      "confidence": 0.75,
+      "name": "製造プロセスの微細化と新材料",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "frontend",
+        "foundry",
         "logic",
-        "miniaturization",
-        "foundry"
+        "memory",
+        "wafer"
       ],
-      "summary": "配線プラットフォームの増加や原子レベルでの製造精度要求など、半導体製造の複雑性が増している。",
+      "summary": "AI時代に求められる高性能化のため、原子レベルでの精密な製造技術や新材料（MoS2等）が重要性を増す。",
       "analysis": {
-        "short_term": "歩留まり改善とコスト管理が課題。",
-        "mid_term": "新材料・新構造の採用が進む。",
-        "investment_implications": "先端プロセス技術を持つ企業が有利。"
+        "short_term": "原子層堆積技術の重要性が高まる。",
+        "mid_term": "次世代材料を用いたトランジスタ開発が進展。",
+        "investment_implications": "先端製造技術を持つ装置メーカー、材料メーカーに期待。"
       },
       "keywords": [
-        "配線",
+        "微細化",
+        "新材料",
         "原子層堆積",
-        "GAA"
+        "MoS2"
       ],
       "companies_mentioned": [
         "NIMS",
-        "Purdue",
-        "NUS",
-        "Peking University"
+        "東大"
       ]
     },
     {
-      "name": "水リスクへの対応",
-      "confidence": 0.6,
+      "name": "半導体製造における水リスク",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
+        "foundry",
         "geopolitics",
-        "industrial",
-        "foundry"
+        "industrial"
       ],
-      "summary": "半導体工場の立地において水ストレス地域が増加。水資源の確保と管理が業界の重要課題となる。",
+      "summary": "半導体工場の多くが水ストレス地域に立地。水資源の確保が将来的な事業継続のリスクとなる。",
       "analysis": {
-        "short_term": "新規工場建設地の選定に影響。",
-        "mid_term": "水リサイクルの技術開発が加速。",
-        "investment_implications": "水リスク管理能力が評価指標に。"
+        "short_term": "水資源管理の重要性が認識され始める。",
+        "mid_term": "水リスク対策が工場立地選定の重要因子に。",
+        "investment_implications": "水管理技術を持つ企業や、水リスクの低い地域への投資。"
       },
       "keywords": [
         "水リスク",
         "工場立地",
-        "サステナビリティ"
+        "事業継続"
       ],
       "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体市場全体の拡大（2026年に1兆ドル超）",
-      "SiCパワー半導体のEV・産業機器向け需要増",
-      "生成AI向けメモリ需要の堅調さ（ディスコ売上高過去最高）",
-      "データセンター向け高性能チップ需要の継続"
+      "AI需要による半導体市場全体の拡大（2026年1兆ドル超予測）",
+      "SiCパワー半導体のEV・産業機器への普及加速",
+      "GaN技術のAIインフラ・EV等への応用拡大",
+      "先端製造技術・新材料への投資活発化"
     ],
     "bearish": [
-      "水ストレス地域への工場立地リスク",
-      "配線複雑化による製造コスト増の可能性"
+      "半導体製造における水リスクの顕在化",
+      "地政学的リスクによるサプライチェーンの不安定化懸念（記事には直接記載なしだが背景として考慮）"
     ],
     "neutral": [
-      "成熟ノードの減産と先端ノードへのシフト",
-      "メモリ再注文を利用したサイドチャネル攻撃のリスク"
+      "配線設計の複雑性増大による開発期間・コスト増加",
+      "エッジAI向け技術開発の多様化"
     ]
   },
   "source_count": 49
