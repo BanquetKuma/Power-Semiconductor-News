@@ -1,42 +1,49 @@
 {
-  "generated_at": "2026-01-25T08:54:45.636276+09:00",
+  "generated_at": "2026-01-26T08:54:44.849860+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Magnachip Launches New Generation of 650V and 1200V IGBTs",
-    "summary": "Magnachipが新世代650V/1200V IGBTを発表。セルピッチを40%削減する新技術を採用。",
+    "title": "Overview of ALD-Driven Oxide Semiconductors for High Density, Low Power Memory Architectures (imec, Hanyang Univ.)",
+    "summary": "imecと漢陽大学の研究者らが、ALDを用いた酸化物半導体による高密度・低消費電力メモリ技術の論文を発表。将来のメモリ・論理デバイスへの応用が期待される。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/magnachip-launches-new-generation-of-650v-and-1200v-igbts"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/overview-of-ald-driven-oxide-semiconductors-for-high-density-low-power-memory-architectures-imec-hanyang-univ"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "CES 2026: AI, automotive, and robotics dominate",
-        "blurb": "CES 2026ではAI、自動車、ロボティクスが中心。技術革新の動向を示す。",
+        "title": "What Happens When Cheap Chinese EVs Hit Canada? Look At Australia.",
+        "blurb": "オーストラリアではEV販売の41%が中国ブランド。カナダでも同様の急増が起こりうるか。",
         "category": "business",
-        "date": "2026-01-24",
+        "date": "2026-01-26",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ces-2026-ai-automotive-and-robotics-dominate"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/785351/china-car-success-australia-canada"
         },
-        "field": null
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
-    "tools": [
+    "tools": [],
+    "company": [
       {
-        "title": "A Verification Framework For Trojan Detection (U. of Kansas, U. of Florida)",
-        "blurb": "カンザス大学とフロリダ大学の研究者が、市販ハードウェアのトロイの木馬検出のための検証フレームワーク「COVERT」を発表しました。",
-        "category": "tools",
-        "date": "2026-01-24",
+        "title": "Better Contact Resistance in Top-Gate CNFETs through Self-Aligned MoOx Nanoparticle Contact Doping (NYCU et al.)",
+        "blurb": "NYCUらの研究で、自己整合MoOxナノ粒子接触ドーピングによりトップゲートCNFETの接触抵抗を改善。次世代BEOL対応デバイス候補として期待。",
+        "category": "company",
+        "date": "2026-01-25",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-verification-framework-for-trojan-detection-u-of-kansas-u-of-florida"
+          "url": "https://semiengineering.com/better-contact-resistance-in-top-gate-cnfets-through-self-aligned-moox-nanoparticle-contact-doping-nycu-et-al"
         },
         "field": {
           "primary": "general",
@@ -47,118 +54,8 @@
         }
       },
       {
-        "title": "Predictive Maintenance, Hardware Security, Open-Source ISAs: Embedded Week Insights",
-        "blurb": "組み込み技術の最新動向：予知保全、ハードウェアセキュリティ、オープンソースISAに関する記事。",
-        "category": "tools",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/predictive-maintenance-hardware-security-open-source-isas-embedded-week-insights"
-        },
-        "field": null
-      },
-      {
-        "title": "What Every EV Driver Should Know Before A Major Winter Storm Hits",
-        "blurb": "寒冷地でのEV性能低下は避けられないが、対策はある。冬の嵐に備え、ドライバーは知識を得ておくべきだ。",
-        "category": "tools",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785310/ev-winter-storm-cold-tips-2026"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ],
-    "company": [
-      {
-        "title": "Magnachip Launches New Generation of 650V and 1200V IGBTs",
-        "blurb": "Magnachipが新世代650V/1200V IGBTを発表。セルピッチを40%削減する新技術を採用。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/magnachip-launches-new-generation-of-650v-and-1200v-igbts"
-        },
-        "field": null
-      },
-      {
-        "title": "The Latest Challenge Facing EV Companies: What To Name The Cars",
-        "blurb": "EVメーカーがWi-Fiパスワードのような紛らわしい車名を廃止し、新たな課題に直面している。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785350/latest-challenge-automaker-ev-names"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "'The Second Generation Plug In-Hybrid': Why Volvo's Future PHEVs Will Feel A Lot More Like EVs",
-        "blurb": "ボルボ次世代PHEVはEVに近い感覚に。航続距離延長型レンジエクステンダー（EREV）化も視野。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785349/second-generation-volvo-plug-in-hybrids-erevs"
-        },
-        "field": null
-      },
-      {
-        "title": "The Clever Way Volvo Solved The Biggest Issue With Electric Door Handles",
-        "blurb": "ボルボEX60は、12Vバッテリーが切れてもドアハンドルが操作不能になる問題を、ドアパネルの隠しボタンで解決した。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785325/volvo-ex60-power-door-handles"
-        },
-        "field": null
-      },
-      {
-        "title": "The BMW iX3 Is Racking Up Orders Without Test Drives",
-        "blurb": "BMW iX3、試乗なしで注文殺到。新規顧客も多く、初期需要が予想を上回る。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785318/bmw-ix3-strong-demand-orders"
-        },
-        "field": null
-      },
-      {
-        "title": "Donut Lab Says It Cracked Solid-State Batteries. Experts Have Questions.",
-        "blurb": "フィンランドのDonut Lab社が全固体電池のブレークスルーを発表。しかし、業界からは疑問の声も上がっており、証明が求められている。",
-        "category": "company",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/785308/donut-labs-solid-state-skeptics-ces"
-        },
-        "field": null
-      },
-      {
         "title": "Overview and Comparison of Devices Used For Optical Waveguide-to-Waveguide Coupling (MIT et al.)",
-        "blurb": "MIT等の研究者が、光導波路間結合デバイスの概要と比較に関する論文を発表。3D集積フォトニックパッケージング向け。",
+        "blurb": "MIT等の研究者が、光導波路間結合デバイスに関する技術論文を発表。3D集積フォトニックパッケージング向け。",
         "category": "company",
         "date": "2026-01-25",
         "stars": 3,
@@ -176,7 +73,7 @@
       },
       {
         "title": "Outlier-aware Quantization Framework Co-designed With Heterogeneous NVM For SLM Deployment on Edge Platforms (UCSD et al.)",
-        "blurb": "UCSD等の研究者が、エッジAI向けに外れ値に強い量子化と不揮発性メモリを協調設計する新技術を発表。SLMの効率的な展開を目指す。",
+        "blurb": "UCSD等の研究者が、エッジAI向けに外れ値に強い量子化と不揮発性メモリを連携させたSLM推論フレームワーク「QMC」を発表。",
         "category": "company",
         "date": "2026-01-25",
         "stars": 3,
@@ -194,7 +91,7 @@
       },
       {
         "title": "Confidentiality-preserving Framework For Secure On-Chip Communication in NoC Architectures",
-        "blurb": "フロリダ大学の研究者らが、NoCアーキテクチャにおける機密性を保護する安全なオンチップ通信フレームワークを発表。悪意あるノードからの盗聴攻撃を防ぐ。",
+        "blurb": "フロリダ大学の研究者が、NoCアーキテクチャにおける機密性を保護する安全なチップ内通信フレームワークを発表しました。",
         "category": "company",
         "date": "2026-01-25",
         "stars": 3,
@@ -211,6 +108,24 @@
         }
       },
       {
+        "title": "Honda 0 Series SUV: Everything We Know",
+        "blurb": "ホンダの新型EV SUV「0シリーズ」が2026年後半に米国オハイオ州で生産開始。斬新なデザインと専用EVプラットフォームを採用。",
+        "category": "company",
+        "date": "2026-01-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/785281/honda-0-series-suv-ev-everything-we-know"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
         "title": "BMW Is Building A Long-Wheelbase iX3 In China",
         "blurb": "BMWは中国市場向けに、ホイールベースを延長したiX3を現地生産する。",
         "category": "company",
@@ -219,6 +134,36 @@
         "source": {
           "name": "insideevs.com",
           "url": "https://insideevs.com/news/785357/bmw-ix3-long-wheelbase-china"
+        },
+        "field": null
+      },
+      {
+        "title": "Overview of ALD-Driven Oxide Semiconductors for High Density, Low Power Memory Architectures (imec, Hanyang Univ.)",
+        "blurb": "imecと漢陽大学の研究者らが、ALDを用いた酸化物半導体による高密度・低消費電力メモリ技術の論文を発表。将来のメモリ・論理デバイスへの応用が期待される。",
+        "category": "company",
+        "date": "2026-01-26",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/overview-of-ald-driven-oxide-semiconductors-for-high-density-low-power-memory-architectures-imec-hanyang-univ"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Michigan Is Suing Oil Companies For 'Suppressing' EVs",
+        "blurb": "ミシガン州が、石油会社がEV技術の「抑制」を行ったとして提訴。BP、シェブロン、エクソンなどが「カルテル」として非難されている。",
+        "category": "company",
+        "date": "2026-01-26",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/785388/michigan-shell-exxon-ev-lawsuit"
         },
         "field": null
       }

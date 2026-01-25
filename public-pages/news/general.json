@@ -1,24 +1,42 @@
 {
-  "generated_at": "2026-01-25T08:54:45.637677+09:00",
+  "generated_at": "2026-01-26T08:54:44.851715+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Overview and Comparison of Devices Used For Optical Waveguide-to-Waveguide Coupling (MIT et al.)",
-    "summary": "MIT等の研究者が、光導波路間結合デバイスの概要と比較に関する論文を発表。3D集積フォトニックパッケージング向け。",
+    "title": "Better Contact Resistance in Top-Gate CNFETs through Self-Aligned MoOx Nanoparticle Contact Doping (NYCU et al.)",
+    "summary": "NYCUらの研究で、自己整合MoOxナノ粒子接触ドーピングによりトップゲートCNFETの接触抵抗を改善。次世代BEOL対応デバイス候補として期待。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/overview-and-comparison-of-devices-used-for-optical-waveguide-to-waveguide-coupling-mit-et-al"
+        "url": "https://semiengineering.com/better-contact-resistance-in-top-gate-cnfets-through-self-aligned-moox-nanoparticle-contact-doping-nycu-et-al"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "Better Contact Resistance in Top-Gate CNFETs through Self-Aligned MoOx Nanoparticle Contact Doping (NYCU et al.)",
+        "blurb": "NYCUらの研究で、自己整合MoOxナノ粒子接触ドーピングによりトップゲートCNFETの接触抵抗を改善。次世代BEOL対応デバイス候補として期待。",
+        "category": "company",
+        "date": "2026-01-25",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/better-contact-resistance-in-top-gate-cnfets-through-self-aligned-moox-nanoparticle-contact-doping-nycu-et-al"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Overview and Comparison of Devices Used For Optical Waveguide-to-Waveguide Coupling (MIT et al.)",
-        "blurb": "MIT等の研究者が、光導波路間結合デバイスの概要と比較に関する論文を発表。3D集積フォトニックパッケージング向け。",
+        "blurb": "MIT等の研究者が、光導波路間結合デバイスに関する技術論文を発表。3D集積フォトニックパッケージング向け。",
         "category": "company",
         "date": "2026-01-25",
         "stars": 3,
@@ -36,7 +54,7 @@
       },
       {
         "title": "Outlier-aware Quantization Framework Co-designed With Heterogeneous NVM For SLM Deployment on Edge Platforms (UCSD et al.)",
-        "blurb": "UCSD等の研究者が、エッジAI向けに外れ値に強い量子化と不揮発性メモリを協調設計する新技術を発表。SLMの効率的な展開を目指す。",
+        "blurb": "UCSD等の研究者が、エッジAI向けに外れ値に強い量子化と不揮発性メモリを連携させたSLM推論フレームワーク「QMC」を発表。",
         "category": "company",
         "date": "2026-01-25",
         "stars": 3,
@@ -53,26 +71,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "A Verification Framework For Trojan Detection (U. of Kansas, U. of Florida)",
-        "blurb": "カンザス大学とフロリダ大学の研究者が、市販ハードウェアのトロイの木馬検出のための検証フレームワーク「COVERT」を発表しました。",
-        "category": "tools",
-        "date": "2026-01-24",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-verification-framework-for-trojan-detection-u-of-kansas-u-of-florida"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": []
   }
 }
