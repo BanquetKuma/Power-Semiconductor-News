@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-01-24T08:55:22.929495+09:00",
+  "generated_at": "2026-01-27T08:56:38.773273+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "De-risking the Start of Production for Automotive SoCs",
-    "summary": "自動車SoCの生産開始リスク低減。SDV化とAI搭載で複雑化する設計、従来のワークフローでは対応困難。",
+    "title": "とにかく疲れが取れないのでジャイロセンサーと眠ってみた",
+    "summary": "睡眠の質向上には、スマホを控える、運動、規則正しい生活など「分かっているけど難しい」対策が多い。健康は自己との戦いか。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/de-risking-the-start-of-production-for-automotive-socs"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/26/news072.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "De-risking the Start of Production for Automotive SoCs",
-        "blurb": "自動車SoCの生産開始リスク低減。SDV化とAI搭載で複雑化する設計、従来のワークフローでは対応困難。",
-        "category": "business",
-        "date": "2026-01-23",
+        "title": "Excelitas Launches Ultra-Low-Power Pyrodetector",
+        "blurb": "Excelitasが低消費電力赤外線センサー「PYD 2597」を発表。電池駆動の動体検知システム向けで、バッテリー寿命を最大化。",
+        "category": "company",
+        "date": "2026-01-27",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/de-risking-the-start-of-production-for-automotive-socs"
+          "url": "https://www.embedded.com/excelitas-launches-ultra-low-power-pyrodetector"
         },
         "field": {
           "primary": "analog",
@@ -36,6 +34,27 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [
+      {
+        "title": "とにかく疲れが取れないのでジャイロセンサーと眠ってみた",
+        "blurb": "睡眠の質向上には、スマホを控える、運動、規則正しい生活など「分かっているけど難しい」対策が多い。健康は自己との戦いか。",
+        "category": "tools",
+        "date": "2026-01-26",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/26/news072.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": []
   }
 }
