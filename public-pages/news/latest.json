@@ -1,82 +1,28 @@
 {
-  "generated_at": "2026-01-27T08:56:38.771418+09:00",
+  "generated_at": "2026-01-28T08:56:06.341223+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Exploring SiC MOSFET Architectures, Part 2",
-    "summary": "2025年に向けたSiC MOSFETの最新技術と新製品を紹介。最先端のSiCデバイス動向を解説。",
+    "title": "ST Unveils Hybrid USB PD Sink Controller",
+    "summary": "STがソフトウェア不要のUSB PDシンクコントローラーSTUSB4531を発表。独自のネゴシエーションアルゴリズムで電源供給契約を確立。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-2"
+        "url": "https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Exploring SiC MOSFET Architectures, Part 2",
-        "blurb": "2025年に向けたSiC MOSFETの最新技術と新製品を紹介。最先端のSiCデバイス動向を解説。",
+        "title": "Chip Industry Technical Paper Roundup: Jan. 27",
+        "blurb": "AIアクセラレータ、メモリ再編成によるサイドチャネル攻撃、2Dナノリボン、3Dフォトニクスパッケージングなど、半導体技術論文の最新動向。",
         "category": "business",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-2"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Balancing Training, Quantization, And Hardware Integration In NPUs",
-        "blurb": "NPUアーキテクチャは、AI/MLモデルのデプロイとハードウェア最適化の進化する課題と戦略に大きく影響されます。",
-        "category": "business",
-        "date": "2026-01-26",
+        "date": "2026-01-27",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/balancing-training-quantization-and-hardware-integration-in-npus"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Intel、25年Q4は売上高4％減　26年は18A供給拡大に意欲",
-        "blurb": "Intelの25年Q4売上高は前年比4％減。26年は新プロセス18Aの供給拡大を目指す。",
-        "category": "business",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/23/news086.html"
-        },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "半導体業界 2026年の注目技術――電子版2026年1月号",
-        "blurb": "2026年1月号の電子版では、半導体業界の注目技術を特集。EE Exclusiveとして先行公開。",
-        "category": "business",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/26/news044.html"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jan-27"
         },
         "field": {
           "primary": "general",
@@ -87,14 +33,14 @@
         }
       },
       {
-        "title": "AIは「バブル」ではない――桁違いの計算量が半導体に地殻変動を起こす",
-        "blurb": "AI投資拡大はバブルではない。桁違いの計算量が半導体市場に地殻変動を起こすため、と筆者は解説。",
+        "title": "TSMCは2nmで主導権維持、SamsungとIntelに勝機はあるか",
+        "blurb": "TSMCは2nmプロセスで先行し、今後数年間、SamsungとIntelをリードする見込み。アナリスト調査による。",
         "category": "business",
-        "date": "2026-01-26",
+        "date": "2026-01-27",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/26/news017.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news058.html"
         },
         "field": {
           "primary": "general",
@@ -105,112 +51,28 @@
         }
       },
       {
-        "title": "AIサーバの高性能化に不可欠となった先進パッケージング技術",
-        "blurb": "TSMCはIEDMでAIサーバに不可欠な先進パッケージング技術を発表。本シリーズでその内容を紹介する。",
+        "title": "Choosing power supply components for New Space",
+        "blurb": "宇宙機は過酷な環境にさらされるため、電源部品の選定が重要となる。",
         "category": "business",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/26/news042.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "東芝、MAS-MAMR技術実用化に貢献する新技術",
-        "blurb": "東芝はNIMSと共同で、MAS-MAMR技術実用化に貢献するスピントルク発振素子の評価手法を開発。ニアラインHDDの大容量化に弾み。",
-        "category": "business",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/26/news048.html"
-        },
-        "field": null
-      },
-      {
-        "title": "The shift to 800-VDC power architectures in AI factories",
-        "blurb": "AI工場で800VDC電源アーキテクチャへの移行が進む。データセンターインフラの再設計が急務となっている。",
-        "category": "business",
-        "date": "2026-01-26",
+        "date": "2026-01-27",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/the-shift-to-800-vdc-power-architectures-in-ai-factories"
+          "url": "https://www.edn.com/choosing-power-supply-components-for-new-space"
         },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
+        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Software-Defined Systems",
-        "blurb": "高レベルソフトウェア言語を用いたハードウェア開発の利点と欠点について解説。",
+        "title": "Research Bits: Jan. 27",
+        "blurb": "アナログインメモリコンピューティングと量子AFMセンサーに関する研究。",
         "category": "tools",
-        "date": "2026-01-26",
+        "date": "2026-01-27",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/software-defined-systems"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Hypergraph-based Techniques To Map Spiking Neural Networks on Neuromorphic HW (Politecnico di Milano)",
-        "blurb": "ミラノ工科大学の研究者が、ニューロモーフィックハードウェア上でSNNを効率的にマッピングするハイパーグラフ技術を発表。",
-        "category": "tools",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hypergraph-based-techniques-to-map-spiking-neural-networks-on-neuromorphic-hw-politecnico-di-milano"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "微小な「らせん型デバイス」でダイオード効果を観測",
-        "blurb": "理研は、磁性単結晶からナノスケールのらせん型デバイスを削り出す技術を開発。作製したデバイスはダイオード的な挙動を示した。",
-        "category": "tools",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/26/news049.html"
-        },
-        "field": null
-      },
-      {
-        "title": "とにかく疲れが取れないのでジャイロセンサーと眠ってみた",
-        "blurb": "睡眠の質向上には、スマホを控える、運動、規則正しい生活など「分かっているけど難しい」対策が多い。健康は自己との戦いか。",
-        "category": "tools",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/26/news072.html"
+          "url": "https://semiengineering.com/research-bits-jan-27"
         },
         "field": {
           "primary": "analog",
@@ -221,81 +83,63 @@
         }
       },
       {
-        "title": "A battery charger that does even more",
-        "blurb": "多機能バッテリー充電器は、追加機能の利用価値があれば魅力的です。",
+        "title": "ラズパイ純正USBフラッシュメモリ登場　128GBが30ドル",
+        "blurb": "Raspberry Pi財団が、Raspberry Pi向けUSB3.0フラッシュメモリを発売。128GBが30ドル。",
         "category": "tools",
-        "date": "2026-01-26",
+        "date": "2026-01-27",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-battery-charger-that-does-even-more"
-        },
-        "field": null
-      },
-      {
-        "title": "Delay lines demystified: Theory into practice",
-        "blurb": "遅延線は通信、信号調整、テストシステムにおける抽象的なタイミング概念と実践的なエンジニアリングソリューションを橋渡しする。",
-        "category": "tools",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/delay-lines-demystified-theory-into-practice"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "ICsense Inaugurates a New Electronic Wafer Sort Cleanroom",
-        "blurb": "ICsenseがISO-7認証の新しい電子ウェーハソートクリーンルームを開設。ASICの大量生産能力を拡充。",
-        "category": "company",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/icsense-inaugurates-a-new-electronic-wafer-sort-cleanroom"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news057.html"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "MFMIS FeTFETs For Energy-Efficient, Scalable CIM Hardware Accelerators (Seoul National University)",
-        "blurb": "ソウル国立大学の研究者が、省電力・スケーラブルなCIMハードウェアアクセラレータ向けFeTFETを発表。ランダム位相分布の影響を調査。",
-        "category": "company",
-        "date": "2026-01-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/mfmis-fetfets-for-energy-efficient-scalable-cim-hardware-accelerators-seoul-national-university"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Overview of ALD-Driven Oxide Semiconductors for High Density, Low Power Memory Architectures (imec, Hanyang Univ.)",
-        "blurb": "imecと漢陽大の研究者らがALD駆動酸化物半導体による高密度・低消費電力メモリ技術の論文を発表。次世代メモリへの応用が期待される。",
-        "category": "company",
-        "date": "2026-01-26",
+        "title": "Another silly simple precision 0/20mA to 4/20mA converter",
+        "blurb": "4mA入力をゼロに絞り、入力と絞った4mA信号を加算して2線式4-20mA出力を生成するコンバーター。",
+        "category": "tools",
+        "date": "2026-01-27",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/overview-of-ald-driven-oxide-semiconductors-for-high-density-low-power-memory-architectures-imec-hanyang-univ"
+          "name": "edn.com",
+          "url": "https://www.edn.com/another-silly-simple-precision-0-20ma-to-4-20ma-converter"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "ST Unveils Hybrid USB PD Sink Controller",
+        "blurb": "STがソフトウェア不要のUSB PDシンクコントローラーSTUSB4531を発表。独自のネゴシエーションアルゴリズムで電源供給契約を確立。",
+        "category": "company",
+        "date": "2026-01-27",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller"
+        },
+        "field": null
+      },
+      {
+        "title": "Imec’s Push Towards Industry-Wide 300mm GaN Adoption",
+        "blurb": "imecは、300mm GaN製造への移行における課題と機会を探求し、業界全体の採用を推進しています。",
+        "category": "company",
+        "date": "2026-01-27",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption"
         },
         "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
+          "primary": "power",
+          "device": "power",
+          "process": "wafer",
           "market": null,
           "industry": null
         }
@@ -319,8 +163,50 @@
         }
       },
       {
+        "title": "IonQがSkyWater買収へ 「完全な量子エコシステム」構築狙う",
+        "blurb": "量子コンピュータ開発のIonQが、半導体ファウンドリーのSkyWaterを18億ドルで買収。完全な量子エコシステム構築を目指す。",
+        "category": "company",
+        "date": "2026-01-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news132.html"
+        },
+        "field": {
+          "primary": "foundry",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "AI同士の「相性」を会話で見極め、最適チーム自動編成",
+        "blurb": "日立がAI同士の会話で相性を見極め、最適なAIチームを自動編成する技術を発表。マルチエージェントシステムでの意思決定や業務効率化を支援。",
+        "category": "company",
+        "date": "2026-01-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news047.html"
+        },
+        "field": null
+      },
+      {
+        "title": "「世界初」016008M部品の実装を実現、FUJI",
+        "blurb": "FUJIは、世界初となる016008Mサイズ部品の基板実装技術をネプコンジャパンで発表しました。",
+        "category": "company",
+        "date": "2026-01-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news035.html"
+        },
+        "field": null
+      },
+      {
         "title": "Excelitas Launches Ultra-Low-Power Pyrodetector",
-        "blurb": "Excelitasが低消費電力赤外線センサー「PYD 2597」を発表。電池駆動の動体検知システム向けで、バッテリー寿命を最大化。",
+        "blurb": "Excelitasが低消費電力の赤外線センサー「PYD 2597」を発表。電池駆動の動体検知システム向けで、バッテリー寿命を最大化。",
         "category": "company",
         "date": "2026-01-27",
         "stars": 3,
@@ -334,6 +220,60 @@
           "process": null,
           "market": null,
           "industry": null
+        }
+      },
+      {
+        "title": "TouchNetix AX24A Combines Touch and Force Sensing in 40-Pin Package",
+        "blurb": "TouchNetixの新製品AX24Aは、タッチとフォース検知を組み合わせたコントローラー。産業・車載・家電ボタン用途向け。",
+        "category": "company",
+        "date": "2026-01-27",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/touchnetix-ax24a-combines-touch-and-force-sensing-in-40-pin-package"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "CES 2026: Intel Debuts Wildcat Lake Core Series 3 Processors with 40 TOPS AI",
+        "blurb": "インテルはCES 2026で、40TOPSのAI性能を持つ次世代CPU「Wildcat Lake」を発表。予算重視の1.8nmプロセス。",
+        "category": "company",
+        "date": "2026-01-27",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/ces-2026-intel-debuts-wildcat-lake-core-series-3-processors-with-40-tops-ai"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "Microsoft Unveils Maia 200 AI Accelerator",
+        "blurb": "マイクロソフトがAI推論向け新アクセラレータ「Maia 200」を発表。TSMCの3nmプロセス、HBM3eメモリ搭載。",
+        "category": "company",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/microsoft-unveils-maia-200-ai-accelerator"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
         }
       }
     ],

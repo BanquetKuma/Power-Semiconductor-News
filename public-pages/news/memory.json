@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-01-23T08:55:46.523154+09:00",
+  "generated_at": "2026-01-28T08:56:06.342550+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Oxides Bring Low Leakage Transistors To Leading-Edge Memories",
-    "summary": "DRAM不足とSRAMのスケーリング限界に対応するため、低リーク電流トランジスタの研究開発が活発化しています。",
+    "title": "ラズパイ純正USBフラッシュメモリ登場　128GBが30ドル",
+    "summary": "Raspberry Pi財団が、Raspberry Pi向けUSB3.0フラッシュメモリを発売。128GBが30ドル。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/oxides-bring-low-leakage-transistors-to-leading-edge-memories"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news057.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Oxides Bring Low Leakage Transistors To Leading-Edge Memories",
-        "blurb": "DRAM不足とSRAMのスケーリング限界に対応するため、低リーク電流トランジスタの研究開発が活発化しています。",
-        "category": "business",
-        "date": "2026-01-22",
+        "title": "Microsoft Unveils Maia 200 AI Accelerator",
+        "blurb": "マイクロソフトがAI推論向け新アクセラレータ「Maia 200」を発表。TSMCの3nmプロセス、HBM3eメモリ搭載。",
+        "category": "company",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/oxides-bring-low-leakage-transistors-to-leading-edge-memories"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/microsoft-unveils-maia-200-ai-accelerator"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "foundry"
         }
-      },
+      }
+    ],
+    "tech": [
       {
-        "title": "ディスコの通期売上高、初の4000億円超へ 生成AI需要で",
-        "blurb": "ディスコ、2025年度売上高4190億円で初の4000億円超えへ。生成AI向け半導体需要が牽引し、純利益も過去最高を更新する見込み。",
-        "category": "business",
-        "date": "2026-01-22",
+        "title": "ラズパイ純正USBフラッシュメモリ登場　128GBが30ドル",
+        "blurb": "Raspberry Pi財団が、Raspberry Pi向けUSB3.0フラッシュメモリを発売。128GBが30ドル。",
+        "category": "tools",
+        "date": "2026-01-27",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/22/news063.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news057.html"
         },
         "field": {
           "primary": "memory",
@@ -54,6 +54,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }
