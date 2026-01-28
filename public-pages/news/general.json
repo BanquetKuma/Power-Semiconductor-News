@@ -1,32 +1,31 @@
 {
-  "generated_at": "2026-01-28T08:56:06.344243+09:00",
+  "generated_at": "2026-01-29T06:10:05.028393+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Technical Paper Roundup: Jan. 27",
-    "summary": "AIアクセラレータ、メモリ再編成によるサイドチャネル攻撃、2Dナノリボン、3Dフォトニクスパッケージングなど、半導体技術論文の最新動向。",
+    "title": "Agentic AI In Chip Manufacturing",
+    "summary": "半導体製造に自律型AIを導入。人間の介入を減らし、効率化を目指す。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jan-27"
+        "url": "https://semiengineering.com/agentic-ai-in-chip-manufacturing"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Chip Industry Technical Paper Roundup: Jan. 27",
-        "blurb": "AIアクセラレータ、メモリ再編成によるサイドチャネル攻撃、2Dナノリボン、3Dフォトニクスパッケージングなど、半導体技術論文の最新動向。",
-        "category": "business",
-        "date": "2026-01-27",
+        "title": "The Next-Generation of Circuit Simulation in RF EDA",
+        "blurb": "RF EDAにおける次世代回路シミュレーションは、プログラム制御、AI統合、自動化ワークフローで高周波設計を革新します。",
+        "category": "tools",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jan-27"
+          "url": "https://semiengineering.com/the-next-generation-of-circuit-simulation-in-rf-eda"
         },
         "field": {
           "primary": "general",
@@ -37,14 +36,88 @@
         }
       },
       {
-        "title": "TSMCは2nmで主導権維持、SamsungとIntelに勝機はあるか",
-        "blurb": "TSMCは2nmプロセスで先行し、今後数年間、SamsungとIntelをリードする見込み。アナリスト調査による。",
-        "category": "business",
-        "date": "2026-01-27",
+        "title": "Will It Blend: A Methodology for Verifying the Hardware/Software Interface in Complex SoCs",
+        "blurb": "複雑なSoCにおけるハードウェア/ソフトウェアインターフェース検証手法。設計と検証を統合する技術。",
+        "category": "tools",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news058.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/will-it-blend-a-methodology-for-verifying-the-hardware-software-interface-in-complex-socs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Automated High-Speed Interface Routing in Multi-Die Designs",
+        "blurb": "マルチチップ設計における高速インターフェース配線を自動化し、効率、信号品質、拡張性を向上させるソリューション。",
+        "category": "tools",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/automated-high-speed-interface-routing-in-multi-die-designs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Voice is the New UI",
+        "blurb": "AIと低消費電力デバイスの進化により、音声UIの時代が到来。半導体技術がこれを支える。",
+        "category": "tools",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/voice-is-the-new-ui"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Agentic AI In Chip Manufacturing",
+        "blurb": "半導体製造に自律型AIを導入。人間の介入を減らし、効率化を目指す。",
+        "category": "business",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/agentic-ai-in-chip-manufacturing"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Engineering Challenges Grow With Crystalline Defects",
+        "blurb": "結晶欠陥の制御と歩留まり最適化は依然として困難。半導体製造における技術的課題が増大している。",
+        "category": "business",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/engineering-challenges-grow-with-crystalline-defects"
         },
         "field": {
           "primary": "general",

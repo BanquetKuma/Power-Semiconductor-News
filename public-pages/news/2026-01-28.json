@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-01-28T08:56:06.341223+09:00",
+  "generated_at": "2026-01-29T06:10:05.024974+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Unveils Hybrid USB PD Sink Controller",
-    "summary": "STがソフトウェア不要のUSB PDシンクコントローラーSTUSB4531を発表。独自のネゴシエーションアルゴリズムで電源供給契約を確立。",
+    "title": "Infineon Introduces Flexible USB 2.0 Peripheral Controller",
+    "summary": "インフィニオン、生体認証、医療、ロボット、産業用途向けの柔軟なUSB 2.0周辺コントローラーを発表。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller"
+        "url": "https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Chip Industry Technical Paper Roundup: Jan. 27",
-        "blurb": "AIアクセラレータ、メモリ再編成によるサイドチャネル攻撃、2Dナノリボン、3Dフォトニクスパッケージングなど、半導体技術論文の最新動向。",
+        "title": "Agentic AI In Chip Manufacturing",
+        "blurb": "半導体製造に自律型AIを導入。人間の介入を減らし、効率化を目指す。",
         "category": "business",
-        "date": "2026-01-27",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jan-27"
+          "url": "https://semiengineering.com/agentic-ai-in-chip-manufacturing"
         },
         "field": {
           "primary": "general",
@@ -33,14 +33,50 @@
         }
       },
       {
-        "title": "TSMCは2nmで主導権維持、SamsungとIntelに勝機はあるか",
-        "blurb": "TSMCは2nmプロセスで先行し、今後数年間、SamsungとIntelをリードする見込み。アナリスト調査による。",
+        "title": "Blog Review: Jan. 28",
+        "blurb": "ハードウェアセキュリティ、3D-IC、グラフィックス、シリコンフォトニクス、エッジAIなどの半導体技術動向をレビュー。",
         "category": "business",
-        "date": "2026-01-27",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news058.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-jan-28-2"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "New Innovative Way to Functionally Verify Heterogeneous 2D/3D Package Connectivity",
+        "blurb": "2D/3Dパッケージの異種チップレット接続性を検証する革新的な方法が登場。機能検証の効率化に貢献。",
+        "category": "business",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/new-innovative-way-to-functionally-verify-heterogeneous-2d-3d-package-connectivity-2"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Engineering Challenges Grow With Crystalline Defects",
+        "blurb": "結晶欠陥の制御と歩留まり最適化は依然として困難。半導体製造における技術的課題が増大している。",
+        "category": "business",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/engineering-challenges-grow-with-crystalline-defects"
         },
         "field": {
           "primary": "general",
@@ -51,28 +87,124 @@
         }
       },
       {
-        "title": "Choosing power supply components for New Space",
-        "blurb": "宇宙機は過酷な環境にさらされるため、電源部品の選定が重要となる。",
+        "title": "Emerging trends in battery energy storage systems",
+        "blurb": "電力網の効率と安定性向上のため、バッテリー蓄電システム（BESS）の導入が進む。新たなトレンドが登場。",
         "category": "business",
-        "date": "2026-01-27",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/choosing-power-supply-components-for-new-space"
+          "url": "https://www.edn.com/emerging-trends-in-battery-energy-storage-systems"
+        },
+        "field": null
+      },
+      {
+        "title": "Touchscreen controllers target automotive displays",
+        "blurb": "マイクロチップ、車載ディスプレイ向けタッチスクリーンコントローラ新製品を発表。42インチまで対応し、OLEDやmicroLEDもサポート。",
+        "category": "business",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/touchscreen-controllers-target-automotive-displays"
         },
         "field": null
       }
     ],
     "tools": [
       {
-        "title": "Research Bits: Jan. 27",
-        "blurb": "アナログインメモリコンピューティングと量子AFMセンサーに関する研究。",
+        "title": "Power Electronics Course with QSPICE (Episode 02): The Circuit Diagram Editor",
+        "blurb": "Qspiceの回路図エディタの使い方を解説。部品の配置や接続方法を学びます。パワーエレクトロニクスコース第2回。",
         "category": "tools",
-        "date": "2026-01-27",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-02-the-circuit-diagram-editor"
+        },
+        "field": null
+      },
+      {
+        "title": "The Next-Generation of Circuit Simulation in RF EDA",
+        "blurb": "RF EDAにおける次世代回路シミュレーションは、プログラム制御、AI統合、自動化ワークフローで高周波設計を革新します。",
+        "category": "tools",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-jan-27"
+          "url": "https://semiengineering.com/the-next-generation-of-circuit-simulation-in-rf-eda"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Will It Blend: A Methodology for Verifying the Hardware/Software Interface in Complex SoCs",
+        "blurb": "複雑なSoCにおけるハードウェア/ソフトウェアインターフェース検証手法。設計と検証を統合する技術。",
+        "category": "tools",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/will-it-blend-a-methodology-for-verifying-the-hardware-software-interface-in-complex-socs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Automated High-Speed Interface Routing in Multi-Die Designs",
+        "blurb": "マルチチップ設計における高速インターフェース配線を自動化し、効率、信号品質、拡張性を向上させるソリューション。",
+        "category": "tools",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/automated-high-speed-interface-routing-in-multi-die-designs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Voice is the New UI",
+        "blurb": "AIと低消費電力デバイスの進化により、音声UIの時代が到来。半導体技術がこれを支える。",
+        "category": "tools",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/voice-is-the-new-ui"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "羽根で触れても検知　ロボットに「繊細な感覚」与えるセンサー",
+        "blurb": "ボッシュがCES 2026で、羽根で触れても強さや位置を検知するセンサーを発表。ロボットに人間に近い触覚を与える。",
+        "category": "tools",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/28/news097.html"
         },
         "field": {
           "primary": "analog",
@@ -83,154 +215,46 @@
         }
       },
       {
-        "title": "ラズパイ純正USBフラッシュメモリ登場　128GBが30ドル",
-        "blurb": "Raspberry Pi財団が、Raspberry Pi向けUSB3.0フラッシュメモリを発売。128GBが30ドル。",
+        "title": "Tune 555 frequency over 4 decades",
+        "blurb": "LMC555を使用した555タイマーICの周波数調整に関する記事。広範囲なダイナミックレンジを持つが、精度は限定的。",
         "category": "tools",
-        "date": "2026-01-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news057.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Another silly simple precision 0/20mA to 4/20mA converter",
-        "blurb": "4mA入力をゼロに絞り、入力と絞った4mA信号を加算して2線式4-20mA出力を生成するコンバーター。",
-        "category": "tools",
-        "date": "2026-01-27",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/another-silly-simple-precision-0-20ma-to-4-20ma-converter"
+          "url": "https://www.edn.com/tune-555-frequency-over-4-decades"
         },
         "field": null
+      },
+      {
+        "title": "Designing edge AI for industrial applications",
+        "blurb": "産業用途向けエッジAIは、産業機器に直接知能を組み込み、高性能・低遅延を実現します。",
+        "category": "tools",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/designing-edge-ai-for-industrial-applications"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
       }
     ],
     "company": [
       {
-        "title": "ST Unveils Hybrid USB PD Sink Controller",
-        "blurb": "STがソフトウェア不要のUSB PDシンクコントローラーSTUSB4531を発表。独自のネゴシエーションアルゴリズムで電源供給契約を確立。",
+        "title": "Infineon Introduces Flexible USB 2.0 Peripheral Controller",
+        "blurb": "インフィニオン、生体認証、医療、ロボット、産業用途向けの柔軟なUSB 2.0周辺コントローラーを発表。",
         "category": "company",
-        "date": "2026-01-27",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller"
-        },
-        "field": null
-      },
-      {
-        "title": "Imec’s Push Towards Industry-Wide 300mm GaN Adoption",
-        "blurb": "imecは、300mm GaN製造への移行における課題と機会を探求し、業界全体の採用を推進しています。",
-        "category": "company",
-        "date": "2026-01-27",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Semiconductor Supply Chain Security Using Side-Channel Power Measurements and Generative Adversarial Networks (Cornell)",
-        "blurb": "コーネル大の研究者が、半導体サプライチェーンのセキュリティ強化のため、電力測定と敵対的生成ネットワークを用いた手法を発表。",
-        "category": "company",
-        "date": "2026-01-27",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/semiconductor-supply-chain-security-using-side-channel-power-measurements-and-generative-adversarial-networks-cornell"
-        },
-        "field": {
-          "primary": "geopolitics",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "geopolitics"
-        }
-      },
-      {
-        "title": "IonQがSkyWater買収へ 「完全な量子エコシステム」構築狙う",
-        "blurb": "量子コンピュータ開発のIonQが、半導体ファウンドリーのSkyWaterを18億ドルで買収。完全な量子エコシステム構築を目指す。",
-        "category": "company",
-        "date": "2026-01-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news132.html"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "AI同士の「相性」を会話で見極め、最適チーム自動編成",
-        "blurb": "日立がAI同士の会話で相性を見極め、最適なAIチームを自動編成する技術を発表。マルチエージェントシステムでの意思決定や業務効率化を支援。",
-        "category": "company",
-        "date": "2026-01-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news047.html"
-        },
-        "field": null
-      },
-      {
-        "title": "「世界初」016008M部品の実装を実現、FUJI",
-        "blurb": "FUJIは、世界初となる016008Mサイズ部品の基板実装技術をネプコンジャパンで発表しました。",
-        "category": "company",
-        "date": "2026-01-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/27/news035.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Excelitas Launches Ultra-Low-Power Pyrodetector",
-        "blurb": "Excelitasが低消費電力の赤外線センサー「PYD 2597」を発表。電池駆動の動体検知システム向けで、バッテリー寿命を最大化。",
-        "category": "company",
-        "date": "2026-01-27",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/excelitas-launches-ultra-low-power-pyrodetector"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "TouchNetix AX24A Combines Touch and Force Sensing in 40-Pin Package",
-        "blurb": "TouchNetixの新製品AX24Aは、タッチとフォース検知を組み合わせたコントローラー。産業・車載・家電ボタン用途向け。",
-        "category": "company",
-        "date": "2026-01-27",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/touchnetix-ax24a-combines-touch-and-force-sensing-in-40-pin-package"
+          "url": "https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller"
         },
         "field": {
           "primary": "industrial",
@@ -241,18 +265,78 @@
         }
       },
       {
-        "title": "CES 2026: Intel Debuts Wildcat Lake Core Series 3 Processors with 40 TOPS AI",
-        "blurb": "インテルはCES 2026で、40TOPSのAI性能を持つ次世代CPU「Wildcat Lake」を発表。予算重視の1.8nmプロセス。",
+        "title": "酸化グラフェン燃料電池で「最高性能」実現、熊本大",
+        "blurb": "熊本大、酸化グラフェン燃料電池で最高性能0.7Wcm-2を達成。界面抵抗低減が鍵。",
         "category": "company",
-        "date": "2026-01-27",
+        "date": "2026-01-28",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/ces-2026-intel-debuts-wildcat-lake-core-series-3-processors-with-40-tops-ai"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/28/news085.html"
+        },
+        "field": null
+      },
+      {
+        "title": "フラックス不要、無洗浄で実装できる「ギ酸」リフロー炉",
+        "blurb": "千住金属工業がフラックス不要・無洗浄で実装できるギ酸リフロー炉を発表。環境負荷低減に貢献。",
+        "category": "company",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/28/news058.html"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ミネベアパワーデバイスとサンケン電気、IPM事業で協業",
+        "blurb": "ミネベアパワーデバイスとサンケン電気は、IPM事業で後工程の生産協業と製品共同開発を行う。リソース共有で投資効率最大化と国際競争力強化を目指す。",
+        "category": "company",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/28/news056.html"
+        },
+        "field": null
+      },
+      {
+        "title": "「洗う技術」を半導体にも　花王の先端パッケージ用洗浄剤",
+        "blurb": "花王は半導体製造向け洗浄剤「クリンスルー」を発表。先端パッケージの洗浄技術を半導体分野へ展開。",
+        "category": "company",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/28/news051.html"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "MicronがシンガポールにNAND新工場建設へ　240億ドル投資",
+        "blurb": "MicronはシンガポールにNAND新工場を建設。10年で240億ドル投資し、2028年後半に生産開始予定。",
+        "category": "company",
+        "date": "2026-01-28",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/28/news068.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": null,
           "industry": "idm"
@@ -274,6 +358,24 @@
           "process": null,
           "market": null,
           "industry": "foundry"
+        }
+      },
+      {
+        "title": "Ultra-low-bit LLM Inference Allows AI-PC CPUs And Discrete Client GPUs To Approach High-end GPU-Level (Intel)",
+        "blurb": "インテル、超低ビットLLM推論技術を発表。AI-PCやクライアントGPUでハイエンドGPU並みの性能を目指す。",
+        "category": "company",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ultra-low-bit-llm-inference-allows-ai-pc-cpus-and-discrete-client-gpus-to-approach-high-end-gpu-level-intel"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "idm"
         }
       }
     ],

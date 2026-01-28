@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-01-28T08:56:12.354645+09:00",
-  "date": "2026-01-28",
+  "generated_at": "2026-01-29T06:10:11.933438+09:00",
+  "date": "2026-01-29",
   "meta_trends": [
     {
       "name": "SiC/GaNパワー半導体の普及加速",
-      "confidence": 0.95,
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "datacenter"
       ],
-      "summary": "SiC MOSFETのアーキテクチャ進化やGaNの多市場応用が進み、300mmウェーハへの移行も模索。EV、AIサーバー、再生可能エネルギー分野での採用拡大が期待される。",
+      "summary": "SiCおよびGaNパワー半導体の技術進化と300mmウェーハへの移行が進み、EV、AIサーバー、産業機器での採用が拡大しています。",
       "analysis": {
-        "short_term": "SiC/GaNデバイスの性能向上とコスト低減が進む。",
-        "mid_term": "EV、データセンター、産業機器での採用が本格化。",
-        "investment_implications": "SiC/GaN材料・デバイスメーカーへの投資妙味。"
+        "short_term": "SiC/GaNデバイスの性能向上とコスト競争力強化が進む。",
+        "mid_term": "EV、再生可能エネルギー、データセンター向け需要が継続的に拡大。",
+        "investment_implications": "パワー半導体メーカーへの投資妙味が増す。"
       },
       "keywords": [
         "SiC",
@@ -26,140 +25,134 @@
         "パワー半導体"
       ],
       "companies_mentioned": [
-        "ROHM",
         "imec",
-        "ルネサス",
-        "フェニテックセミコンダクター"
+        "ROHM",
+        "Diamond Semiconductors",
+        "PEN"
       ]
     },
     {
-      "name": "AI向け高性能・省電力半導体需要増",
-      "confidence": 0.9,
+      "name": "AI処理向け半導体需要の継続拡大",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "datacenter",
         "logic",
-        "frontend",
-        "backend"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "AI計算量の増大が半導体市場に地殻変動を起こす。AIサーバー向け高性能パッケージング技術や、エッジAIチップの低消費電力化・高推論性能化が進展。",
+      "summary": "AI、特にLLMの推論処理において、CPUやGPUの性能向上が求められており、関連半導体市場の成長が期待されます。",
       "analysis": {
-        "short_term": "AIチップの需要が供給能力を上回る状況が続く。",
-        "mid_term": "先進パッケージング技術の重要性がさらに高まる。",
-        "investment_implications": "AI向け半導体、パッケージング関連企業に注目。"
+        "short_term": "AIチップの高性能化競争が激化し、新技術への投資が活発化。",
+        "mid_term": "エッジAIやAI-PC向け需要も本格化し、市場全体が拡大。",
+        "investment_implications": "AI向け半導体、特にGPU、NPU、先進パッケージング関連に注目。"
       },
       "keywords": [
         "AI",
-        "AIサーバー",
-        "先進パッケージング",
-        "エッジAI",
-        "NPU"
+        "LLM",
+        "GPU",
+        "NPU",
+        "先進パッケージング"
       ],
       "companies_mentioned": [
+        "Intel",
         "TSMC",
-        "DEEPX",
-        "Rapidus"
+        "Samsung"
       ]
     },
     {
-      "name": "次世代メモリ・ロジック技術の研究開発",
+      "name": "先進パッケージング技術の重要性増大",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "ai",
+        "datacenter",
+        "logic"
+      ],
+      "summary": "AIサーバーの高性能化やチップレット技術の進展に伴い、2D/3Dパッケージング、異種チップレット接続性の検証、自動配線などの先進パッケージング技術が不可欠となっています。",
+      "analysis": {
+        "short_term": "異種チップレット接続検証技術や自動配線ソリューションが注目される。",
+        "mid_term": "高性能コンピューティング分野で先進パッケージングの採用が加速。",
+        "investment_implications": "先進パッケージング関連企業への投資機会。"
+      },
+      "keywords": [
+        "先進パッケージング",
+        "チップレット",
+        "3D-IC",
+        "検証技術",
+        "自動配線"
+      ],
+      "companies_mentioned": [
+        "TSMC"
+      ]
+    },
+    {
+      "name": "半導体製造におけるAI・自動化の進展",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "logic",
-        "frontend",
-        "analog"
+        "general",
+        "industrial",
+        "equipment",
+        "foundry"
       ],
-      "summary": "ALDを用いた高密度・低消費電力メモリ技術や、アナログインメモリコンピューティング、FeTFETなどの新しいデバイスアーキテクチャが研究されている。",
+      "summary": "半導体製造プロセスにおける自律型AIの導入や、RF EDAにおける次世代回路シミュレーションの自動化が進み、生産効率と設計品質の向上が図られています。",
       "analysis": {
-        "short_term": "革新的なメモリ・ロジックデバイスの基礎研究が進む。",
-        "mid_term": "一部技術は将来のデバイス応用が期待される。",
-        "investment_implications": "次世代メモリ・ロジック関連の研究開発企業に注目。"
+        "short_term": "製造工程でのAI活用による効率化が進む。",
+        "mid_term": "設計・検証プロセス全体の自動化・AI統合が進展。",
+        "investment_implications": "製造装置、EDAツールベンダーに恩恵。"
       },
       "keywords": [
-        "メモリ",
-        "ロジック",
-        "ALD",
-        "CIM",
-        "FeTFET"
+        "AI",
+        "自動化",
+        "製造装置",
+        "EDA",
+        "シミュレーション"
       ],
-      "companies_mentioned": [
-        "imec",
-        "Hanyang Univ.",
-        "Seoul National University"
-      ]
+      "companies_mentioned": []
     },
     {
-      "name": "量子コンピューティングエコシステムの構築",
-      "confidence": 0.75,
+      "name": "量子コンピューティング分野のM&A活発化",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
         "foundry",
-        "logic",
-        "frontend"
-      ],
-      "summary": "量子コンピュータ開発企業がファウンドリーを買収し、エコシステム構築を加速。量子コンピュータの商用化に向けた動きが活発化。",
-      "analysis": {
-        "short_term": "量子コンピュータ関連のM&Aや提携が進む可能性。",
-        "mid_term": "量子コンピュータの性能向上と応用分野拡大。",
-        "investment_implications": "量子コンピューティング関連企業への投資機会。"
-      },
-      "keywords": [
-        "量子コンピュータ",
-        "ファウンドリー",
-        "エコシステム",
-        "IonQ",
-        "SkyWater"
-      ],
-      "companies_mentioned": [
-        "IonQ",
-        "SkyWater"
-      ]
-    },
-    {
-      "name": "サプライチェーンのセキュリティ強化",
-      "confidence": 0.7,
-      "momentum": "stable",
-      "related_fields": [
-        "geopolitics",
-        "backend",
+        "general",
         "logic"
       ],
-      "summary": "半導体サプライチェーンのセキュリティ強化のため、電力測定と敵対的生成ネットワークを用いた手法が研究されている。チップの信頼性確保が重要視。",
+      "summary": "量子コンピューティング開発企業が、半導体ファウンドリーを買収し、エコシステム構築を目指す動きが見られます。",
       "analysis": {
-        "short_term": "セキュリティ技術の研究開発が進展する。",
-        "mid_term": "サプライチェーン全体でのセキュリティ対策が強化。",
-        "investment_implications": "セキュリティソリューション提供企業に注目。"
+        "short_term": "量子コンピューティング関連のM&Aが増加する可能性。",
+        "mid_term": "量子コンピューティングの商用化に向けたインフラ整備が進む。",
+        "investment_implications": "量子コンピューティング関連企業、ファウンドリーへの注目。"
       },
       "keywords": [
-        "サプライチェーン",
-        "セキュリティ",
-        "電力測定",
-        "GAN",
-        "信頼性"
+        "量子コンピューティング",
+        "M&A",
+        "ファウンドリー",
+        "エコシステム"
       ],
       "companies_mentioned": [
-        "Cornell"
+        "IonQ",
+        "SkyWater"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要の継続的な拡大",
-      "SiC/GaNパワー半導体の市場浸透加速",
-      "先進パッケージング技術への投資増加",
-      "量子コンピューティング分野の成長期待"
+      "AI向け半導体需要の底堅さ",
+      "SiC/GaNパワー半導体の普及加速",
+      "先進パッケージング技術への投資拡大"
     ],
     "bearish": [
-      "一部IDMにおける売上高の減少（Intelなど）",
-      "先端プロセス開発競争の激化による先行投資負担増"
+      "一部IDM企業の業績低迷（Intel Q4減収）",
+      "結晶欠陥制御の技術的課題増大"
     ],
     "neutral": [
-      "半導体製造装置市場の動向",
-      "地政学的リスクによるサプライチェーンへの影響"
+      "半導体製造における環境負荷低減技術（無洗浄リフロー、洗浄剤）の進展",
+      "音声UIの普及とそれを支える半導体技術"
     ]
   },
-  "source_count": 44
+  "source_count": 36
 }
