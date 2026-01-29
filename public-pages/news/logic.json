@@ -1,25 +1,65 @@
 {
-  "generated_at": "2026-01-29T06:10:05.026520+09:00",
+  "generated_at": "2026-01-30T06:08:32.149307+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Ultra-low-bit LLM Inference Allows AI-PC CPUs And Discrete Client GPUs To Approach High-end GPU-Level (Intel)",
-    "summary": "インテル、超低ビットLLM推論技術を発表。AI-PCやクライアントGPUでハイエンドGPU並みの性能を目指す。",
+    "title": "Does Your RISC-V Core Meet The Standard?",
+    "summary": "RISC-Vコアの標準適合性検証は、特にソフトウェア互換性を考慮すると、多段階プロセスです。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ultra-low-bit-llm-inference-allows-ai-pc-cpus-and-discrete-client-gpus-to-approach-high-end-gpu-level-intel"
+        "url": "https://semiengineering.com/does-your-risc-v-core-meet-with-the-standard"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Ultra-low-bit LLM Inference Allows AI-PC CPUs And Discrete Client GPUs To Approach High-end GPU-Level (Intel)",
-        "blurb": "インテル、超低ビットLLM推論技術を発表。AI-PCやクライアントGPUでハイエンドGPU並みの性能を目指す。",
+        "title": "Variscite Unveils its First SMARC-compatible SoM Series",
+        "blurb": "VarisciteがNXP i.MX 8M Plus搭載のSMARC互換SoMシリーズを発表。IoT、POS、医療等、サイズ・重量・電力・コスト重視の用途向け。",
         "category": "company",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/variscite-unveils-its-first-smarc-compatible-som-series"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Does Your RISC-V Core Meet The Standard?",
+        "blurb": "RISC-Vコアの標準適合性検証は、特にソフトウェア互換性を考慮すると、多段階プロセスです。",
+        "category": "tools",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/does-your-risc-v-core-meet-with-the-standard"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Ultra-low-bit LLM Inference Allows AI-PC CPUs And Discrete Client GPUs To Approach High-end GPU-Level (Intel)",
+        "blurb": "インテル、超低ビットLLM推論技術を発表。AI-PCやクライアントGPUで高性能GPU並みの処理能力を目指す。",
+        "category": "business",
         "date": "2026-01-29",
         "stars": 3,
         "source": {
@@ -34,8 +74,6 @@
           "industry": "idm"
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

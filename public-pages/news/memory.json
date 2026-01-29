@@ -1,59 +1,41 @@
 {
-  "generated_at": "2026-01-29T06:10:05.026229+09:00",
+  "generated_at": "2026-01-30T06:08:32.148916+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "MicronがシンガポールにNAND新工場建設へ　240億ドル投資",
-    "summary": "MicronはシンガポールにNAND新工場を建設。10年で240億ドル投資し、2028年後半に生産開始予定。",
+    "title": "Kioxia Samples QLC UFS 4.1 Embedded Flash Memory",
+    "summary": "キオクシアがQLC技術採用のUFS 4.1メモリを発表。読み出し負荷の高い用途や大容量ストレージ向け。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/28/news068.html"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/kioxia-samples-qlc-ufs-4-1-embedded-flash-memory"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "MicronがシンガポールにNAND新工場建設へ　240億ドル投資",
-        "blurb": "MicronはシンガポールにNAND新工場を建設。10年で240億ドル投資し、2028年後半に生産開始予定。",
-        "category": "company",
-        "date": "2026-01-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/28/news068.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Microsoft Unveils Maia 200 AI Accelerator",
-        "blurb": "マイクロソフトがAI推論向け新アクセラレータ「Maia 200」を発表。TSMCの3nmプロセス、HBM3eメモリ搭載。",
-        "category": "company",
-        "date": "2026-01-28",
+        "title": "Kioxia Samples QLC UFS 4.1 Embedded Flash Memory",
+        "blurb": "キオクシアがQLC技術採用のUFS 4.1メモリを発表。読み出し負荷の高い用途や大容量ストレージ向け。",
+        "category": "business",
+        "date": "2026-01-29",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/microsoft-unveils-maia-200-ai-accelerator"
+          "url": "https://www.embedded.com/kioxia-samples-qlc-ufs-4-1-embedded-flash-memory"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": "foundry"
+          "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

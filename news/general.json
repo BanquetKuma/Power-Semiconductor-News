@@ -1,85 +1,86 @@
 {
-  "generated_at": "2026-01-29T06:10:05.028393+09:00",
+  "generated_at": "2026-01-30T06:08:32.150975+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Agentic AI In Chip Manufacturing",
-    "summary": "半導体製造に自律型AIを導入。人間の介入を減らし、効率化を目指す。",
+    "title": "Impact Of The Film Transfer And Grain Size On The Cu-barrier Properties Of 2D WS2 Films (NUS et al.)",
+    "summary": "NUSなどの研究者らが2D WS2膜の銅バリア特性向上に関する論文を発表。膜転写と結晶粒径が重要。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/agentic-ai-in-chip-manufacturing"
+        "url": "https://semiengineering.com/impact-of-the-film-transfer-and-grain-size-on-the-cu-barrier-properties-of-2d-ws2-films-nus-et-al"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "AI’s Impact On Engineering Jobs May Be Different Than Expected",
+        "blurb": "AIはエンジニアの仕事に予想外の影響を与え、特に新卒者がその移行に不可欠となる可能性がある。技術導入は過去の技術より速い。",
+        "category": "company",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "味の素のアミノ酸製造から発展　低温硬化性の接着材料",
+        "blurb": "味の素ファインテクノが、アミノ酸製造技術を応用した低温硬化性の接着材料「プレーンセット」を発表。産業用途向け。",
+        "category": "company",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/29/news052.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Impact Of The Film Transfer And Grain Size On The Cu-barrier Properties Of 2D WS2 Films (NUS et al.)",
+        "blurb": "NUSなどの研究者らが2D WS2膜の銅バリア特性向上に関する論文を発表。膜転写と結晶粒径が重要。",
+        "category": "company",
+        "date": "2026-01-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/impact-of-the-film-transfer-and-grain-size-on-the-cu-barrier-properties-of-2d-ws2-films-nus-et-al"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
-        "title": "The Next-Generation of Circuit Simulation in RF EDA",
-        "blurb": "RF EDAにおける次世代回路シミュレーションは、プログラム制御、AI統合、自動化ワークフローで高周波設計を革新します。",
+        "title": "Heterogeneous Multicore System IP",
+        "blurb": "異種マルチコアシステムIPは、性能要件を満たしつつ、エネルギーと面積コストを削減します。",
         "category": "tools",
-        "date": "2026-01-28",
+        "date": "2026-01-29",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-next-generation-of-circuit-simulation-in-rf-eda"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Will It Blend: A Methodology for Verifying the Hardware/Software Interface in Complex SoCs",
-        "blurb": "複雑なSoCにおけるハードウェア/ソフトウェアインターフェース検証手法。設計と検証を統合する技術。",
-        "category": "tools",
-        "date": "2026-01-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/will-it-blend-a-methodology-for-verifying-the-hardware-software-interface-in-complex-socs"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Automated High-Speed Interface Routing in Multi-Die Designs",
-        "blurb": "マルチチップ設計における高速インターフェース配線を自動化し、効率、信号品質、拡張性を向上させるソリューション。",
-        "category": "tools",
-        "date": "2026-01-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/automated-high-speed-interface-routing-in-multi-die-designs"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Voice is the New UI",
-        "blurb": "AIと低消費電力デバイスの進化により、音声UIの時代が到来。半導体技術がこれを支える。",
-        "category": "tools",
-        "date": "2026-01-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/voice-is-the-new-ui"
+          "url": "https://semiengineering.com/heterogeneous-multicore-system-ip"
         },
         "field": {
           "primary": "general",
@@ -92,14 +93,14 @@
     ],
     "market": [
       {
-        "title": "Agentic AI In Chip Manufacturing",
-        "blurb": "半導体製造に自律型AIを導入。人間の介入を減らし、効率化を目指す。",
+        "title": "How The EDA Industry Will Evolve In 2026",
+        "blurb": "2026年のEDA業界は、チームの働き方やツールの進化に影響を与える要因により変化する見込みです。",
         "category": "business",
-        "date": "2026-01-28",
+        "date": "2026-01-29",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/agentic-ai-in-chip-manufacturing"
+          "url": "https://semiengineering.com/how-the-eda-industry-will-evolve-in-2026"
         },
         "field": {
           "primary": "general",
@@ -110,14 +111,68 @@
         }
       },
       {
-        "title": "Engineering Challenges Grow With Crystalline Defects",
-        "blurb": "結晶欠陥の制御と歩留まり最適化は依然として困難。半導体製造における技術的課題が増大している。",
+        "title": "Opening The Door To STCO: Hierarchical Device Planning",
+        "blurb": "STCOによる階層的デバイス計画で、複雑な設計課題を管理可能なセグメントに分解可能に。",
         "category": "business",
-        "date": "2026-01-28",
+        "date": "2026-01-29",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/engineering-challenges-grow-with-crystalline-defects"
+          "url": "https://semiengineering.com/opening-the-door-to-stco-hierarchical-device-planning"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Building Trust At The Silicon Level: Secure Storage Solution For OTP IP",
+        "blurb": "シリコンレベルで信頼を構築する、OTP IP向けセキュアストレージソリューション。物理アクセスでもデータ保護。",
+        "category": "business",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/building-trust-at-the-silicon-level-secure-storage-solution-for-otp-ip"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Multi-Die Assemblies Require More Detailed Test Plan Earlier",
+        "blurb": "マルチチップ実装では、接続問題や相互作用の理解に加え、予期せぬ問題を引き起こすECOへの対応も必要となるため、早期の綿密なテスト計画が不可欠です。",
+        "category": "business",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/multi-die-assemblies-require-more-detailed-test-plan-earlier"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Is this low-inductance power-device package the real deal?",
+        "blurb": "低インダクタンスのSiCパワーモジュール用新パッケージは、より高速なパワーデバイスの実現に貢献する可能性がある。",
+        "category": "business",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/is-this-low-inductance-power-device-package-the-real-deal"
         },
         "field": {
           "primary": "general",

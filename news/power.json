@@ -1,41 +1,96 @@
 {
-  "generated_at": "2026-01-28T08:56:06.342270+09:00",
+  "generated_at": "2026-01-30T06:08:32.148626+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Imec’s Push Towards Industry-Wide 300mm GaN Adoption",
-    "summary": "imecは、300mm GaN製造への移行における課題と機会を探求し、業界全体の採用を推進しています。",
+    "title": "A Guide to GaN-on-Si, Part 1",
+    "summary": "窒化ガリウム（GaN）をシリコン基板上に形成する技術（GaN-on-Si）は、パワーエレクトロニクス分野で有望視されている。本記事は、その利点とシリコン基板の検討事項を解説する。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption"
+        "url": "https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-1"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Imec’s Push Towards Industry-Wide 300mm GaN Adoption",
-        "blurb": "imecは、300mm GaN製造への移行における課題と機会を探求し、業界全体の採用を推進しています。",
+        "title": "AOS Launches αMOS E2 600V Super Junction MOSFET",
+        "blurb": "AOSが600VスーパージャンクションMOSFET「αMOS E2」を発表。太陽光インバーターシステムの高効率・高電力密度要求に応える。",
         "category": "company",
-        "date": "2026-01-27",
+        "date": "2026-01-29",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption"
+          "url": "https://www.powerelectronicsnews.com/aos-launches-%ce%b1mos-e2-600v-super-junction-mosfet"
         },
         "field": {
           "primary": "power",
           "device": "power",
-          "process": "wafer",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "高効率と高信頼性を両立したSiC SBD、トレックス",
+        "blurb": "トレックスはSiC採用の650V SBDを発表。高効率と高信頼性を両立し、サージ電流耐量を向上させた。",
+        "category": "company",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/29/news106.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "極限環境に挑む「SiCのLSI」　目指すは原発事故処理や金星探査",
+        "blurb": "炭化ケイ素（SiC）のLSIが、原発事故処理や金星探査など極限環境での活用を目指し研究されている。高温・耐放射線性に優れる。",
+        "category": "company",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/29/news051.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
           "market": null,
           "industry": null
         }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "A Guide to GaN-on-Si, Part 1",
+        "blurb": "窒化ガリウム（GaN）をシリコン基板上に形成する技術（GaN-on-Si）は、パワーエレクトロニクス分野で有望視されている。本記事は、その利点とシリコン基板の検討事項を解説する。",
+        "category": "business",
+        "date": "2026-01-29",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-1"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }
