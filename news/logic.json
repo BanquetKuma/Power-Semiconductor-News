@@ -1,50 +1,31 @@
 {
-  "generated_at": "2026-01-30T06:08:32.149307+09:00",
+  "generated_at": "2026-01-31T06:09:04.581034+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Does Your RISC-V Core Meet The Standard?",
-    "summary": "RISC-Vコアの標準適合性検証は、特にソフトウェア互換性を考慮すると、多段階プロセスです。",
+    "title": "Software-Defined Factories, AI Accelerators, Touch Controllers: Embedded Week Insights",
+    "summary": "組み込み技術の最新動向。ソフトウェア定義型工場、AIアクセラレータ、タッチコントローラに関する記事をまとめた。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/does-your-risc-v-core-meet-with-the-standard"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/software-defined-factories-ai-accelerators-touch-controllers-embedded-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "Variscite Unveils its First SMARC-compatible SoM Series",
-        "blurb": "VarisciteがNXP i.MX 8M Plus搭載のSMARC互換SoMシリーズを発表。IoT、POS、医療等、サイズ・重量・電力・コスト重視の用途向け。",
-        "category": "company",
-        "date": "2026-01-29",
+        "title": "Software-Defined Factories, AI Accelerators, Touch Controllers: Embedded Week Insights",
+        "blurb": "組み込み技術の最新動向。ソフトウェア定義型工場、AIアクセラレータ、タッチコントローラに関する記事をまとめた。",
+        "category": "tools",
+        "date": "2026-01-31",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/variscite-unveils-its-first-smarc-compatible-som-series"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Does Your RISC-V Core Meet The Standard?",
-        "blurb": "RISC-Vコアの標準適合性検証は、特にソフトウェア互換性を考慮すると、多段階プロセスです。",
-        "category": "tools",
-        "date": "2026-01-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/does-your-risc-v-core-meet-with-the-standard"
+          "url": "https://www.embedded.com/software-defined-factories-ai-accelerators-touch-controllers-embedded-week-insights"
         },
         "field": {
           "primary": "logic",
@@ -57,21 +38,21 @@
     ],
     "market": [
       {
-        "title": "Ultra-low-bit LLM Inference Allows AI-PC CPUs And Discrete Client GPUs To Approach High-end GPU-Level (Intel)",
-        "blurb": "インテル、超低ビットLLM推論技術を発表。AI-PCやクライアントGPUで高性能GPU並みの処理能力を目指す。",
+        "title": "CES2026: Snapdragon X2 Plus 3nm SoCs Targets Copilot+ PCs With 80 TOPS AI and Multi-Day Battery",
+        "blurb": "CES2026で発表されたSnapdragon X2 Plusは、3nmプロセス、80TOPSのAI性能、数日間のバッテリー寿命を持つCopilot+ PC向け新SoC。",
         "category": "business",
-        "date": "2026-01-29",
+        "date": "2026-01-30",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ultra-low-bit-llm-inference-allows-ai-pc-cpus-and-discrete-client-gpus-to-approach-high-end-gpu-level-intel"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/ces2026-snapdragon-x2-plus-3nm-socs-targets-copilot-pcs-with-80-tops-ai-and-multi-day-battery"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
-          "process": null,
+          "process": "miniaturization",
           "market": null,
-          "industry": "idm"
+          "industry": null
         }
       }
     ]

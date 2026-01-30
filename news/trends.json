@@ -1,145 +1,144 @@
 {
-  "generated_at": "2026-01-30T06:08:40.035779+09:00",
-  "date": "2026-01-30",
+  "generated_at": "2026-01-31T06:09:09.413655+09:00",
+  "date": "2026-01-31",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の台頭",
+      "name": "SiC/GaNパワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "industrial",
+        "datacenter"
       ],
-      "summary": "GaN-on-SiやSiCといった次世代パワー半導体の採用が加速。高効率化、小型化、高耐圧化が進み、EV、AIサーバー、産業機器での需要増が見込まれる。",
+      "summary": "SiCおよびGaN材料を用いたパワー半導体の採用が、EV、産業機器、データセンター等で急速に進展。高効率化、小型化、高耐圧化に貢献。",
       "analysis": {
-        "short_term": "新製品投入と採用拡大が続く。供給体制の強化が鍵。",
-        "mid_term": "EVシフトやデータセンター増強で需要は堅調。技術競争が激化。",
-        "investment_implications": "関連企業への投資妙味あり。技術力と供給能力を評価。"
+        "short_term": "新製品投入と技術開発が活発化。採用拡大が続く。",
+        "mid_term": "300mmウェハへの移行が進み、コスト競争力向上へ。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
       },
       "keywords": [
-        "GaN",
         "SiC",
+        "GaN",
         "EV",
-        "AIサーバー"
+        "パワーエレクトロニクス",
+        "高効率"
       ],
       "companies_mentioned": [
         "AOS",
         "Infineon",
         "imec",
-        "ROHM",
         "トレックス"
       ]
     },
     {
-      "name": "AI・高性能コンピューティング需要拡大",
+      "name": "AI・データセンター向け投資拡大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "logic",
         "memory",
-        "frontend"
+        "logic",
+        "foundry"
       ],
-      "summary": "AI、特にLLMの進化に伴い、高性能CPU、GPU、メモリへの需要が急増。AI-PCやデータセンター向けソリューション開発が活発化。",
+      "summary": "AI需要の急増に伴い、高性能AIチップ、高速インターコネクト、大容量メモリへの投資が加速。データセンターインフラも拡充。",
       "analysis": {
-        "short_term": "AIチップ開発競争が激化。新プロセス技術が重要に。",
-        "mid_term": "AIインフラ投資は継続。メモリ需要も堅調に推移。",
-        "investment_implications": "AI向け半導体メーカー、メモリメーカーに注目。"
+        "short_term": "AIチップ関連の合弁設立や新会社設立が活発。",
+        "mid_term": "NAND増強や新工場建設が進み、供給体制が強化される。",
+        "investment_implications": "AIインフラ関連企業への集中投資が有効。"
       },
       "keywords": [
         "AI",
-        "LLM",
-        "GPU",
-        "CPU",
-        "データセンター"
+        "データセンター",
+        "インターコネクト",
+        "NAND",
+        "メモリ"
       ],
       "companies_mentioned": [
-        "Intel",
+        "Marvell",
         "SK hynix",
         "Micron"
       ]
     },
     {
-      "name": "設計・製造プロセスの高度化",
+      "name": "先進パッケージング技術の重要性増大",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "backend",
+        "datacenter",
+        "ai",
+        "miniaturization"
+      ],
+      "summary": "マルチチップアセンブリの複雑化に対応するため、早期のテスト計画や高度な洗浄技術が不可欠に。性能向上と小型化に寄与。",
+      "analysis": {
+        "short_term": "先端パッケージ向け洗浄剤や実装技術が登場。",
+        "mid_term": "異種マルチコアIPや詳細なテスト計画が標準化へ。",
+        "investment_implications": "パッケージング関連技術を持つ企業に注目。"
+      },
+      "keywords": [
+        "パッケージング",
+        "マルチチップ",
+        "テスト",
+        "洗浄",
+        "小型化"
+      ],
+      "companies_mentioned": [
+        "花王",
+        "千住金属工業"
+      ]
+    },
+    {
+      "name": "EDA・設計ツールの進化とAI活用",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "logic",
-        "foundry",
         "frontend",
-        "backend",
-        "equipment",
-        "wafer"
+        "ai",
+        "equipment"
       ],
-      "summary": "EDAツールの進化、マルチチップ実装への対応、新材料の活用など、設計・製造プロセス全体の高度化が進む。歩留まり向上とコスト削減が課題。",
+      "summary": "EDA業界は働き方やツールの進化により変化。AIがエンジニアの仕事に影響を与え、設計プロセスの効率化が進む。",
       "analysis": {
-        "short_term": "新EDAツールや製造技術の導入が進む。歩留まり改善が焦点。",
-        "mid_term": "複雑化する設計に対応する技術開発が鍵。ファウンドリ競争も激化。",
-        "investment_implications": "EDA、ファウンドリ、先端パッケージ関連企業に機会。"
+        "short_term": "AIによるエンジニアの仕事への影響が顕在化。",
+        "mid_term": "階層的デバイス計画やRISC-V標準準拠が重要に。",
+        "investment_implications": "EDAツールベンダーやAI設計支援企業に注目。"
       },
       "keywords": [
         "EDA",
-        "マルチチップ",
-        "プロセス技術",
-        "ファウンドリ"
+        "AI",
+        "設計",
+        "RISC-V",
+        "効率化"
       ],
       "companies_mentioned": [
-        "ICsense",
-        "TSMC",
-        "Samsung",
-        "Intel",
-        "IonQ",
-        "SkyWater",
-        "千住金属工業",
-        "花王"
+        "QSPICE"
       ]
     },
     {
-      "name": "RISC-Vエコシステムの拡大",
+      "name": "量子コンピューティングの産業応用模索",
       "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "ai",
-        "automotive",
-        "industrial"
-      ],
-      "summary": "オープンソースISAであるRISC-Vの採用が拡大。多様な用途への展開が進み、エコシステムが急速に発展している。",
-      "analysis": {
-        "short_term": "標準化と互換性検証が重要課題。採用事例が増加。",
-        "mid_term": "特定用途向けコア開発が進み、競争力向上。エコシステムが成熟。",
-        "investment_implications": "RISC-V関連IPベンダーや開発企業に注目。"
-      },
-      "keywords": [
-        "RISC-V",
-        "オープンソース",
-        "ISA",
-        "IP"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "量子コンピューティングの進展",
-      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
         "foundry",
         "logic",
-        "equipment"
+        "datacenter",
+        "geopolitics"
       ],
-      "summary": "量子コンピュータ開発が加速し、関連技術やエコシステムの構築が進む。ファウンドリとの連携も強化され、実用化に向けた動きが活発化。",
+      "summary": "量子コンピュータ企業がファウンドリー買収を進め、エコシステム構築を加速。将来的な計算能力の飛躍的向上が期待される。",
       "analysis": {
-        "short_term": "技術開発競争が激化。ファウンドリ買収などM&Aも活発化。",
-        "mid_term": "特定分野での応用が進む可能性。エコシステム構築が鍵。",
-        "investment_implications": "量子コンピュータ関連企業、ファウンドリへの影響を注視。"
+        "short_term": "量子コンピュータ企業によるM&Aが活発化。",
+        "mid_term": "量子エコシステムの構築が進み、応用分野が拡大。",
+        "investment_implications": "量子技術関連の長期的な成長性に期待。"
       },
       "keywords": [
         "量子コンピュータ",
-        "ファウンドリ",
-        "エコシステム"
+        "ファウンドリー",
+        "エコシステム",
+        "M&A"
       ],
       "companies_mentioned": [
         "IonQ",
@@ -149,19 +148,19 @@
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体（GaN, SiC）の需要拡大",
-      "AI・HPC向け半導体・メモリ需要の堅調さ",
-      "RISC-Vエコシステムの成長",
-      "先端プロセス技術への投資活発化"
+      "SiC/GaNパワー半導体の需要拡大",
+      "AI向け半導体・インフラ投資の活発化",
+      "先進パッケージング技術の進展",
+      "量子コンピューティング関連のM&A加速"
     ],
     "bearish": [
-      "一部のレガシー半導体市場の成熟",
-      "地政学リスクによるサプライチェーンの不確実性"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "メモリ市場の価格変動リスク"
     ],
     "neutral": [
-      "半導体製造装置市場の動向",
-      "AIによるエンジニアリング業務への影響"
+      "EDA業界の構造変化",
+      "ロボット産業におけるセンサー技術の進化"
     ]
   },
-  "source_count": 38
+  "source_count": 48
 }

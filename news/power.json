@@ -1,87 +1,86 @@
 {
-  "generated_at": "2026-01-30T06:08:32.148626+09:00",
+  "generated_at": "2026-01-31T06:09:04.580349+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A Guide to GaN-on-Si, Part 1",
-    "summary": "窒化ガリウム（GaN）をシリコン基板上に形成する技術（GaN-on-Si）は、パワーエレクトロニクス分野で有望視されている。本記事は、その利点とシリコン基板の検討事項を解説する。",
+    "title": "GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights",
+    "summary": "パワーエレクトロニクスウィークでは、GaN-on-Si基板、QSPICE回路図エディタ、300mm GaN採用の最新動向が紹介された。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-1"
+        "url": "https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "AOS Launches αMOS E2 600V Super Junction MOSFET",
-        "blurb": "AOSが600VスーパージャンクションMOSFET「αMOS E2」を発表。太陽光インバーターシステムの高効率・高電力密度要求に応える。",
-        "category": "company",
-        "date": "2026-01-29",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/aos-launches-%ce%b1mos-e2-600v-super-junction-mosfet"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "高効率と高信頼性を両立したSiC SBD、トレックス",
-        "blurb": "トレックスはSiC採用の650V SBDを発表。高効率と高信頼性を両立し、サージ電流耐量を向上させた。",
-        "category": "company",
-        "date": "2026-01-29",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/29/news106.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "極限環境に挑む「SiCのLSI」　目指すは原発事故処理や金星探査",
-        "blurb": "炭化ケイ素（SiC）のLSIが、原発事故処理や金星探査など極限環境での活用を目指し研究されている。高温・耐放射線性に優れる。",
-        "category": "company",
-        "date": "2026-01-29",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2601/29/news051.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "A Guide to GaN-on-Si, Part 1",
-        "blurb": "窒化ガリウム（GaN）をシリコン基板上に形成する技術（GaN-on-Si）は、パワーエレクトロニクス分野で有望視されている。本記事は、その利点とシリコン基板の検討事項を解説する。",
+        "title": "Wide Bandgap Monthly Insights – January 2026",
+        "blurb": "2026年1月の広帯域ギャップ材料（SiC、GaN）に関する最新ニュースをまとめた記事。",
         "category": "business",
-        "date": "2026-01-29",
+        "date": "2026-01-30",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-1"
+          "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-january-2026"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights",
+        "blurb": "パワーエレクトロニクスウィークでは、GaN-on-Si基板、QSPICE回路図エディタ、300mm GaN採用の最新動向が紹介された。",
+        "category": "business",
+        "date": "2026-01-31",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "600-V MOSFET enables efficient, reliable power conversion",
+        "blurb": "AOSが600V耐圧のNチャネルMOSFET「AOTL037V60DE2」を発表。高効率・高信頼性の電力変換を実現。",
+        "category": "business",
+        "date": "2026-01-31",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/600-v-mosfet-enables-efficient-reliable-power-conversion"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "1200-V SiC modules enable direct upgrades",
+        "blurb": "ヴィーシェイは、競合製品と直接置き換え可能な1200V SiCパワーモジュール5種を発表しました。",
+        "category": "business",
+        "date": "2026-01-31",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/1200-v-sic-modules-enable-direct-upgrades"
         },
         "field": {
           "primary": "power",
