@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T06:09:04.580349+09:00",
+  "generated_at": "2026-02-01T06:05:45.151118+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
@@ -15,18 +15,16 @@
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Wide Bandgap Monthly Insights – January 2026",
-        "blurb": "2026年1月の広帯域ギャップ材料（SiC、GaN）に関する最新ニュースをまとめた記事。",
-        "category": "business",
-        "date": "2026-01-30",
+        "title": "600-V MOSFET enables efficient, reliable power conversion",
+        "blurb": "AOSが600V耐圧のNチャネルMOSFET「AOTL037V60DE2」を発表。高効率・高信頼性の電力変換を実現。",
+        "category": "company",
+        "date": "2026-01-31",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-january-2026"
+          "name": "edn.com",
+          "url": "https://www.edn.com/600-v-mosfet-enables-efficient-reliable-power-conversion"
         },
         "field": {
           "primary": "power",
@@ -35,7 +33,10 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [],
+    "market": [
       {
         "title": "GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights",
         "blurb": "パワーエレクトロニクスウィークでは、GaN-on-Si基板、QSPICE回路図エディタ、300mm GaN採用の最新動向が紹介された。",
@@ -55,26 +56,8 @@
         }
       },
       {
-        "title": "600-V MOSFET enables efficient, reliable power conversion",
-        "blurb": "AOSが600V耐圧のNチャネルMOSFET「AOTL037V60DE2」を発表。高効率・高信頼性の電力変換を実現。",
-        "category": "business",
-        "date": "2026-01-31",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/600-v-mosfet-enables-efficient-reliable-power-conversion"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "1200-V SiC modules enable direct upgrades",
-        "blurb": "ヴィーシェイは、競合製品と直接置き換え可能な1200V SiCパワーモジュール5種を発表しました。",
+        "blurb": "ヴィシェイが1200V SiCパワーモジュールを発表。既存品からの直接置き換えが可能で、性能向上が容易に。",
         "category": "business",
         "date": "2026-01-31",
         "stars": 3,

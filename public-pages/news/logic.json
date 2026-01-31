@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T06:09:04.581034+09:00",
+  "generated_at": "2026-02-01T06:05:45.151391+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
@@ -15,12 +15,11 @@
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
         "title": "Software-Defined Factories, AI Accelerators, Touch Controllers: Embedded Week Insights",
         "blurb": "組み込み技術の最新動向。ソフトウェア定義型工場、AIアクセラレータ、タッチコントローラに関する記事をまとめた。",
-        "category": "tools",
+        "category": "company",
         "date": "2026-01-31",
         "stars": 3,
         "source": {
@@ -36,25 +35,7 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "CES2026: Snapdragon X2 Plus 3nm SoCs Targets Copilot+ PCs With 80 TOPS AI and Multi-Day Battery",
-        "blurb": "CES2026で発表されたSnapdragon X2 Plusは、3nmプロセス、80TOPSのAI性能、数日間のバッテリー寿命を持つCopilot+ PC向け新SoC。",
-        "category": "business",
-        "date": "2026-01-30",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/ces2026-snapdragon-x2-plus-3nm-socs-targets-copilot-pcs-with-80-tops-ai-and-multi-day-battery"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }
