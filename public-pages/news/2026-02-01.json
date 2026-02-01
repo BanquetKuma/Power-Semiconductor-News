@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T06:05:45.150301+09:00",
+  "generated_at": "2026-02-02T06:07:45.778798+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
@@ -33,20 +33,8 @@
         }
       },
       {
-        "title": "Touch ICs scale across automotive display sizes",
-        "blurb": "マイクロチップ、車載ディスプレイ向けタッチICを拡充。多様なサイズに対応し、マキシタッチM1ファミリーを強化。",
-        "category": "business",
-        "date": "2026-01-31",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/touch-ics-scale-across-automotive-display-sizes"
-        },
-        "field": null
-      },
-      {
         "title": "1200-V SiC modules enable direct upgrades",
-        "blurb": "ヴィシェイが1200V SiCパワーモジュールを発表。既存品からの直接置き換えが可能で、性能向上が容易に。",
+        "blurb": "ヴィーシェイが1200V SiCパワーモジュールを発表。既存ソリューションからの直接置き換えが可能。",
         "category": "business",
         "date": "2026-01-31",
         "stars": 3,
@@ -66,7 +54,7 @@
     "tools": [
       {
         "title": "Benchmark For AI-Aided Chip Design That Evaluates LLMs Across 3 Critical Tasks (UCSD, Columbia)",
-        "blurb": "UCSDとコロンビア大がAI支援半導体設計向けLLM評価ベンチマーク「ChipBench」を発表。実用的な性能評価を目指す。",
+        "blurb": "UCSDとコロンビア大がAI支援半導体設計向けLLM評価ベンチマーク「ChipBench」を発表。実用性向上を目指す。",
         "category": "tools",
         "date": "2026-01-31",
         "stars": 3,
@@ -93,9 +81,39 @@
           "url": "https://www.edn.com/keysight-automates-complex-coexistence-testing"
         },
         "field": null
+      },
+      {
+        "title": "Software-Defined Factories, AI Accelerators, Touch Controllers: Embedded Week Insights",
+        "blurb": "組み込み技術の最新動向。ソフトウェア定義型工場、AIアクセラレータ、タッチコントローラに関する記事をまとめた。",
+        "category": "tools",
+        "date": "2026-01-31",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/software-defined-factories-ai-accelerators-touch-controllers-embedded-week-insights"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "company": [
+      {
+        "title": "Touch ICs scale across automotive display sizes",
+        "blurb": "マイクロチップ、車載ディスプレイ向けタッチICを発表。多様なサイズに対応し、製品ラインアップを拡充。",
+        "category": "company",
+        "date": "2026-01-31",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/touch-ics-scale-across-automotive-display-sizes"
+        },
+        "field": null
+      },
       {
         "title": "600-V MOSFET enables efficient, reliable power conversion",
         "blurb": "AOSが600V耐圧のNチャネルMOSFET「AOTL037V60DE2」を発表。高効率・高信頼性の電力変換を実現。",
@@ -116,7 +134,7 @@
       },
       {
         "title": "Stable LDOs use small-output caps",
-        "blurb": "ロームのナノキャップ技術搭載LDOレギュレータIC「BD9xxN5」シリーズは、500mA出力で小型出力コンデンサでも安定動作。",
+        "blurb": "ロームのナノキャップ技術を採用したLDOレギュレータIC「BD9xxN5」シリーズは、小型出力コンデンサで安定動作を実現し、500mAの出力電流を提供します。",
         "category": "company",
         "date": "2026-01-31",
         "stars": 3,
@@ -125,24 +143,6 @@
           "url": "https://www.edn.com/stable-ldos-use-small-output-caps"
         },
         "field": null
-      },
-      {
-        "title": "Software-Defined Factories, AI Accelerators, Touch Controllers: Embedded Week Insights",
-        "blurb": "組み込み技術の最新動向。ソフトウェア定義型工場、AIアクセラレータ、タッチコントローラに関する記事をまとめた。",
-        "category": "company",
-        "date": "2026-01-31",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/software-defined-factories-ai-accelerators-touch-controllers-embedded-week-insights"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       }
     ],
     "sns": []

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-01T06:05:50.715569+09:00",
-  "date": "2026-02-01",
+  "generated_at": "2026-02-02T06:07:51.501803+09:00",
+  "date": "2026-02-02",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ材料の普及加速",
+      "name": "次世代パワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,21 +12,22 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaN材料の採用がパワーエレクトロニクス分野で急速に進展。特に300mm GaN製造への移行が注目されている。",
+      "summary": "SiCおよびGaNパワー半導体の採用が拡大。特にGaN-on-Si技術の進展と300mmウェーハへの移行が注目される。",
       "analysis": {
-        "short_term": "SiC/GaNデバイスの性能向上とコスト低減が進む。",
-        "mid_term": "EV、再生可能エネルギー、データセンターでの採用が拡大。",
-        "investment_implications": "SiC/GaN関連材料・製造装置メーカーに注目。"
+        "short_term": "新製品投入と技術開発が活発化。",
+        "mid_term": "EV、データセンター、産業機器での採用が本格化。",
+        "investment_implications": "関連材料・製造装置メーカーに注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "パワーエレクトロニクス",
         "EV",
-        "300mm"
+        "データセンター",
+        "300mmウェーハ"
       ],
       "companies_mentioned": [
         "AOS",
+        "Infineon",
         "imec",
         "トレックス"
       ]
@@ -40,22 +41,20 @@
         "logic",
         "frontend",
         "backend",
-        "foundry",
-        "fabless",
-        "idm"
+        "equipment"
       ],
-      "summary": "AI、特にLLMを活用した半導体設計支援ツール（EDA）が進化。設計効率向上と開発期間短縮が期待される。",
+      "summary": "AIを活用したEDAツールや設計手法（ChipBenchなど）が登場し、開発効率向上と複雑な設計課題への対応が進む。",
       "analysis": {
-        "short_term": "AI評価ベンチマークが登場し、実用化に向けた動きが活発化。",
-        "mid_term": "EDA業界全体でAI活用が標準化し、設計プロセスが根本的に変化。",
-        "investment_implications": "AI設計ツール開発企業や、AI活用で競争力強化する半導体企業に注目。"
+        "short_term": "AI支援ツールの評価・導入が進む。",
+        "mid_term": "設計期間短縮と性能向上が期待される。",
+        "investment_implications": "EDAベンダー、AIチップ設計企業に機会。"
       },
       "keywords": [
         "AI",
         "EDA",
+        "ChipBench",
         "LLM",
-        "設計",
-        "開発効率"
+        "設計効率"
       ],
       "companies_mentioned": [
         "UCSD",
@@ -63,52 +62,49 @@
       ]
     },
     {
-      "name": "次世代インターコネクトとマルチチップ化の進展",
-      "confidence": 0.85,
+      "name": "先端メモリ市場の競争激化と投資拡大",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
+        "memory",
         "datacenter",
         "ai",
-        "memory",
-        "logic",
-        "frontend",
-        "backend",
-        "miniaturization"
+        "foundry"
       ],
-      "summary": "AIデータセンター向け高速インターコネクトや、マルチチップパッケージ（MCP）の重要性が増大。早期のテスト計画が鍵。",
+      "summary": "AI需要を背景にNANDフラッシュの増産投資や、データセンター向けソリューション強化が進む。",
       "analysis": {
-        "short_term": "AIインターコネクト市場への参入が活発化。",
-        "mid_term": "MCPの複雑化に伴い、設計・テスト手法の高度化が進む。",
-        "investment_implications": "インターコネクト技術やMCP関連ソリューション提供企業に期待。"
+        "short_term": "NAND価格の動向に注視が必要。",
+        "mid_term": "AI向けメモリ需要は堅調に推移。",
+        "investment_implications": "メモリメーカー、関連装置メーカーに注目。"
       },
       "keywords": [
+        "NAND",
         "AI",
-        "インターコネクト",
-        "マルチチップ",
         "データセンター",
-        "MCP"
+        "メモリ",
+        "投資"
       ],
       "companies_mentioned": [
-        "Marvell",
+        "Micron",
         "SK hynix",
-        "Micron"
+        "Marvell"
       ]
     },
     {
-      "name": "量子コンピューティングエコシステムの構築",
-      "confidence": 0.75,
+      "name": "量子コンピューティングのエコシステム構築",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "foundry",
         "logic",
-        "ai",
-        "geopolitics"
+        "equipment",
+        "ai"
       ],
       "summary": "量子コンピュータ開発企業がファウンドリーを買収し、ハードウェアからソフトウェアまで統合的なエコシステム構築を目指す。",
       "analysis": {
-        "short_term": "量子コンピュータのハードウェア開発が加速。",
-        "mid_term": "量子エコシステムの確立により、新たな応用分野が開拓される。",
-        "investment_implications": "量子技術関連企業への長期的な投資機会。"
+        "short_term": "買収・提携の動きが活発化。",
+        "mid_term": "量子技術の実用化に向けたロードマップが重要。",
+        "investment_implications": "量子関連技術・企業への先行投資。"
       },
       "keywords": [
         "量子コンピュータ",
@@ -123,46 +119,48 @@
       ]
     },
     {
-      "name": "極限環境向け半導体の開発",
-      "confidence": 0.7,
+      "name": "高信頼性・特殊環境向け半導体の需要増",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "power",
         "industrial",
         "automotive",
-        "geopolitics"
+        "logic"
       ],
-      "summary": "高温・耐放射線性に優れたSiC LSIなどが、原発処理や宇宙探査など、過酷な環境での利用を目指して開発されている。",
+      "summary": "極限環境（高温、耐放射線）やロボット、医療分野向けの高性能・高信頼性半導体（SiC LSI、センサー等）の研究開発が進む。",
       "analysis": {
-        "short_term": "SiC LSIの耐性・信頼性向上の研究が進む。",
-        "mid_term": "特殊用途分野での実用化が進み、新たな市場が創出される。",
-        "investment_implications": "高信頼性・高耐久性半導体関連技術に注目。"
+        "short_term": "研究開発段階の技術が注目される。",
+        "mid_term": "特定産業での採用が徐々に拡大。",
+        "investment_implications": "ニッチ市場での技術優位性を持つ企業。"
       },
       "keywords": [
-        "SiC",
-        "LSI",
+        "SiC LSI",
         "極限環境",
-        "耐放射線",
-        "高温"
+        "ロボット",
+        "センサー",
+        "高信頼性"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Infineon",
+        "ボッシュ"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "広帯域ギャップ材料（SiC/GaN）の需要拡大",
-      "AI関連半導体・EDAツールの成長",
-      "データセンター向け高性能インターコネクトの需要増",
-      "量子コンピューティング技術の進展"
+      "次世代パワー半導体（SiC, GaN）の需要拡大",
+      "AI関連半導体の需要堅調",
+      "先端メモリへの投資拡大"
     ],
     "bearish": [
-      "半導体製造装置の在庫調整（一部）",
-      "地政学的リスクによるサプライチェーンの不確実性"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "一部メモリ製品の価格変動リスク"
     ],
     "neutral": [
-      "メモリ市場の需給バランス",
-      "先端ロジックファウンドリの設備投資動向"
+      "半導体設計ツールの進化と標準化",
+      "新興国における半導体産業の成長ポテンシャル"
     ]
   },
-  "source_count": 37
+  "source_count": 39
 }
