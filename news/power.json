@@ -1,75 +1,57 @@
 {
-  "generated_at": "2026-02-02T06:07:45.779628+09:00",
+  "generated_at": "2026-02-04T06:12:37.568179+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights",
-    "summary": "パワーエレクトロニクスウィークでは、GaN-on-Si基板、QSPICE回路図エディタ、300mm GaN採用の最新動向が紹介された。",
+    "title": "CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module",
+    "summary": "CISSOIDが1200VハーフブリッジIGBTモジュールを発表。高効率・高信頼性の産業用電力変換システム向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights"
+        "url": "https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "600-V MOSFET enables efficient, reliable power conversion",
-        "blurb": "AOSが600V耐圧のNチャネルMOSFET「AOTL037V60DE2」を発表。高効率・高信頼性の電力変換を実現。",
+        "title": "TSMCが傘下VISにGaN技術ライセンス付与、28年に生産開始",
+        "blurb": "TSMC傘下のVISがGaN技術のライセンス契約を締結。2028年上半期に生産開始予定。",
         "category": "company",
-        "date": "2026-01-31",
+        "date": "2026-02-03",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/600-v-mosfet-enables-efficient-reliable-power-conversion"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/03/news053.html"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "foundry"
         }
       }
     ],
     "tech": [],
     "market": [
       {
-        "title": "GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights",
-        "blurb": "パワーエレクトロニクスウィークでは、GaN-on-Si基板、QSPICE回路図エディタ、300mm GaN採用の最新動向が紹介された。",
+        "title": "CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module",
+        "blurb": "CISSOIDが1200VハーフブリッジIGBTモジュールを発表。高効率・高信頼性の産業用電力変換システム向け。",
         "category": "business",
-        "date": "2026-01-31",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights"
+          "url": "https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "1200-V SiC modules enable direct upgrades",
-        "blurb": "ヴィーシェイが1200V SiCパワーモジュールを発表。既存ソリューションからの直接置き換えが可能。",
-        "category": "business",
-        "date": "2026-01-31",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/1200-v-sic-modules-enable-direct-upgrades"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
       }

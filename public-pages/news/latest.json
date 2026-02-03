@@ -1,96 +1,168 @@
 {
-  "generated_at": "2026-02-02T06:07:45.778798+09:00",
+  "generated_at": "2026-02-04T06:12:37.567021+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights",
-    "summary": "パワーエレクトロニクスウィークでは、GaN-on-Si基板、QSPICE回路図エディタ、300mm GaN採用の最新動向が紹介された。",
+    "title": "CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module",
+    "summary": "CISSOIDが1200VハーフブリッジIGBTモジュールを発表。高効率・高信頼性の産業用電力変換システム向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights"
+        "url": "https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights",
-        "blurb": "パワーエレクトロニクスウィークでは、GaN-on-Si基板、QSPICE回路図エディタ、300mm GaN採用の最新動向が紹介された。",
+        "title": "How the Shift to 48V is Impacting Automotive Audio Design",
+        "blurb": "次世代車は、自動運転や車内体験のパーソナライズ、充電時間短縮のため48V化へ移行。オーディオ設計に影響。",
         "category": "business",
-        "date": "2026-01-31",
+        "date": "2026-02-03",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights"
+          "url": "https://www.powerelectronicsnews.com/how-the-shift-to-48v-is-impacting-automotive-audio-design"
+        },
+        "field": null
+      },
+      {
+        "title": "Research Bits: Feb. 3",
+        "blurb": "生分解性エレクトロニクス、人工シナプス、マイクロプラスチック問題、亜鉛回路印刷に関する研究。",
+        "category": "business",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-feb-3"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "1200-V SiC modules enable direct upgrades",
-        "blurb": "ヴィーシェイが1200V SiCパワーモジュールを発表。既存ソリューションからの直接置き換えが可能。",
+        "title": "Chip Industry Technical Paper Roundup: Feb. 3",
+        "blurb": "AI支援チップ設計、2D WS2膜のCuバリア特性、安全な自動運転、低ビットLLM、サイドチャネル検出、CIMアクセラレータ、ニューロモルフィックHW、先端メモリ向け酸化物半導体。",
         "category": "business",
-        "date": "2026-01-31",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-feb-3"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "村田製作所は増収減益、米Resonantのれん438億円減損",
+        "blurb": "村田製作所は増収減益。AIサーバ向けMLCC需要増も、米Resonantのれん438億円減損が響く。値上げは市況次第で検討。",
+        "category": "business",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/03/news048.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Intelとソフトバンク子会社が次世代メモリ開発へ　29年度に実用化",
+        "blurb": "インテルとソフトバンク子会社SAIMEMORYが次世代メモリ開発で協業。2029年度の実用化を目指す。",
+        "category": "business",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/03/news074.html"
+        },
+        "field": null
+      },
+      {
+        "title": "テレビ市場でも「日本に期待」　HDMI最新動向",
+        "blurb": "HDMI LAが最新動向を発表。CES 2026での発表に基づき、HDMI関連製品の進化について説明した。",
+        "category": "business",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/03/news046.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Why power delivery is becoming the limiting factor for AI",
+        "blurb": "AI需要の急増に対応するには、電力供給システムの設計を見直す必要がある。電力供給がAI開発の制約要因となっている。",
+        "category": "business",
+        "date": "2026-02-03",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/1200-v-sic-modules-enable-direct-upgrades"
+          "url": "https://www.edn.com/why-power-delivery-is-becoming-the-limiting-factor-for-ai"
+        },
+        "field": null
+      },
+      {
+        "title": "CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module",
+        "blurb": "CISSOIDが1200VハーフブリッジIGBTモジュールを発表。高効率・高信頼性の産業用電力変換システム向け。",
+        "category": "business",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
       }
     ],
     "tools": [
       {
-        "title": "Benchmark For AI-Aided Chip Design That Evaluates LLMs Across 3 Critical Tasks (UCSD, Columbia)",
-        "blurb": "UCSDとコロンビア大がAI支援半導体設計向けLLM評価ベンチマーク「ChipBench」を発表。実用性向上を目指す。",
+        "title": "ML for Energy-Performance-Aware Scheduling On Heterogeneous Multicore Architectures (Cambridge)",
+        "blurb": "ケンブリッジ大が、異種マルチコアアーキテクチャ向けに、エネルギー効率と性能を両立するスケジューリング手法を開発。機械学習で最適化。",
         "category": "tools",
-        "date": "2026-01-31",
+        "date": "2026-02-03",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/benchmark-for-ai-aided-chip-design-that-evaluates-llms-across-3-critical-tasks-ucsd-columbia"
+          "url": "https://semiengineering.com/ml-for-energy-performance-aware-scheduling-on-heterogeneous-multicore-architectures-cambridge"
         },
         "field": {
-          "primary": "industrial",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Keysight automates complex coexistence testing",
-        "blurb": "Keysightは、混雑したRF環境での無線デバイス性能検証を自動化するプラットフォームを発表しました。",
+        "title": "HW-Triggered Backdoors Across Common GPU Accelerators (BIFOLD, TU Berlin, CISPA)",
+        "blurb": "GPUアクセラレータにハードウェアトリガー型バックドアが存在する可能性が研究で明らかに。学習モデルの展開に影響。",
         "category": "tools",
-        "date": "2026-01-31",
+        "date": "2026-02-03",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/keysight-automates-complex-coexistence-testing"
-        },
-        "field": null
-      },
-      {
-        "title": "Software-Defined Factories, AI Accelerators, Touch Controllers: Embedded Week Insights",
-        "blurb": "組み込み技術の最新動向。ソフトウェア定義型工場、AIアクセラレータ、タッチコントローラに関する記事をまとめた。",
-        "category": "tools",
-        "date": "2026-01-31",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/software-defined-factories-ai-accelerators-touch-controllers-embedded-week-insights"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hw-triggered-backdoors-across-common-gpu-accelerators-bifold-tu-berlin-cispa"
         },
         "field": {
           "primary": "logic",
@@ -99,48 +171,150 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "company": [
+      },
       {
-        "title": "Touch ICs scale across automotive display sizes",
-        "blurb": "マイクロチップ、車載ディスプレイ向けタッチICを発表。多様なサイズに対応し、製品ラインアップを拡充。",
-        "category": "company",
-        "date": "2026-01-31",
+        "title": "Short push, long push for sequential operation of multiple power supplies",
+        "blurb": "MCUプロジェクトで、シングルプッシュボタンで5Vと15V電源を順次オンオフする回路設計。",
+        "category": "tools",
+        "date": "2026-02-03",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/touch-ics-scale-across-automotive-display-sizes"
+          "url": "https://www.edn.com/short-push-long-push-for-sequential-operation-of-multiple-power-supplies"
         },
         "field": null
       },
       {
-        "title": "600-V MOSFET enables efficient, reliable power conversion",
-        "blurb": "AOSが600V耐圧のNチャネルMOSFET「AOTL037V60DE2」を発表。高効率・高信頼性の電力変換を実現。",
-        "category": "company",
-        "date": "2026-01-31",
+        "title": "A hard-life Tile Mate goes under the knife",
+        "blurb": "鍵紛失防止タグ「Tile Mate」の故障原因をエンジニアが調査。過去の経験から原因を特定した。",
+        "category": "tools",
+        "date": "2026-02-03",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/600-v-mosfet-enables-efficient-reliable-power-conversion"
+          "url": "https://www.edn.com/a-hard-life-tile-mate-goes-under-the-knife"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "A Manufacturing Approach That  Brings Diamond Quantum Photonics Closer To Industrial Production (MIT, KAUST et al.)",
+        "blurb": "MITなどの研究者が、ダイヤモンド量子フォトニクスを工業生産に近づける製造アプローチを発表。スケーラブルな量子フォトニクス向け。",
+        "category": "company",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-manufacturing-approach-that-brings-diamond-quantum-photonics-closer-to-industrial-production-mit-kaust-et-al"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "SAIMEMORYの新構造メモリ　低消費電力に焦点",
+        "blurb": "インテルは新メモリ技術「ZAM」でSAIMEMORYと協業。低消費電力化に注力し、次世代AI PCへの応用を目指す。",
+        "category": "company",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/03/news099.html"
+        },
+        "field": {
+          "primary": "idm",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "光らない結晶を、効率よく光る結晶材料に変える半導体材料",
+        "blurb": "東工大、光らない結晶を光る材料に変える半導体材料を発見。電気の流れも制御可能。",
+        "category": "company",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/03/news029.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Stable LDOs use small-output caps",
-        "blurb": "ロームのナノキャップ技術を採用したLDOレギュレータIC「BD9xxN5」シリーズは、小型出力コンデンサで安定動作を実現し、500mAの出力電流を提供します。",
+        "title": "5G基地局無線機向け高効率小型PAMを開発、NEC",
+        "blurb": "NECは5G基地局向けSub 6GHz帯PAMを開発。消費電力10%削減、小型化を実現。",
         "category": "company",
-        "date": "2026-01-31",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/03/news028.html"
+        },
+        "field": null
+      },
+      {
+        "title": "TSMCが傘下VISにGaN技術ライセンス付与、28年に生産開始",
+        "blurb": "TSMC傘下のVISがGaN技術のライセンス契約を締結。2028年上半期に生産開始予定。",
+        "category": "company",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/03/news053.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "EDN announces winners of the 2025 Product of the Year Awards",
+        "blurb": "EDNが2025年「プロダクト・オブ・ザ・イヤー」を発表。技術的進歩を遂げた優れた製品を表彰。",
+        "category": "company",
+        "date": "2026-02-03",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/stable-ldos-use-small-output-caps"
+          "url": "https://www.edn.com/edn-announces-winners-of-the-2025-product-of-the-year-awards"
+        },
+        "field": null
+      },
+      {
+        "title": "Wi-SUN Alliance Unveils FAN 1.1 Low Energy Certification",
+        "blurb": "Wi-SUN Allianceが低消費電力デバイス対応のFAN 1.1認証を発表。バッテリー駆動機器も標準ネットワークで利用可能に。",
+        "category": "company",
+        "date": "2026-02-03",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/wi-sun-alliance-unveils-fan-1-1-low-energy-certification"
+        },
+        "field": null
+      },
+      {
+        "title": "EDN announces Product of the Year Awards",
+        "blurb": "EDNが、電子製品オブザイヤーアワードの受賞者を発表しました。詳細は1-2月号のデジタルマガジンに掲載されています。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/edn-announces-product-of-the-year-awards"
         },
         "field": null
       }
