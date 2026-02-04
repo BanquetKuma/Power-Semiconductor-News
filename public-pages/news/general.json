@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-02-04T06:12:37.569850+09:00",
+  "generated_at": "2026-02-05T06:11:57.829928+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Research Bits: Feb. 3",
-    "summary": "生分解性エレクトロニクス、人工シナプス、マイクロプラスチック問題、亜鉛回路印刷に関する研究。",
+    "stars": 4,
+    "title": "EPC Starts Volume Production of Gen7 EPC2366 eGaN FET",
+    "summary": "EPC社が次世代eGaN FET「EPC2366」の量産を開始。シリコンMOSFET比で最大3倍の性能向上を実現し、高効率電源システムに貢献。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/research-bits-feb-3"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "光らない結晶を、効率よく光る結晶材料に変える半導体材料",
-        "blurb": "東工大、光らない結晶を光る材料に変える半導体材料を発見。電気の流れも制御可能。",
+        "title": "EPC Starts Volume Production of Gen7 EPC2366 eGaN FET",
+        "blurb": "EPC社が次世代eGaN FET「EPC2366」の量産を開始。シリコンMOSFET比で最大3倍の性能向上を実現し、高効率電源システムに貢献。",
         "category": "company",
-        "date": "2026-02-03",
+        "date": "2026-02-05",
+        "stars": 4,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "NanoIC Releases A14 Logic and eDRAM Process Design Kits",
+        "blurb": "NanoICが2nm超チップ技術向けに、ロジック・eDRAM開発用PDKをリリース。欧州主導のイノベーション推進。",
+        "category": "company",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/03/news029.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nanoic-releases-a14-logic-and-edram-process-design-kits"
         },
         "field": {
           "primary": "general",
@@ -35,45 +53,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "ML for Energy-Performance-Aware Scheduling On Heterogeneous Multicore Architectures (Cambridge)",
-        "blurb": "ケンブリッジ大が、異種マルチコアアーキテクチャ向けに、エネルギー効率と性能を両立するスケジューリング手法を開発。機械学習で最適化。",
-        "category": "tools",
-        "date": "2026-02-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ml-for-energy-performance-aware-scheduling-on-heterogeneous-multicore-architectures-cambridge"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "Research Bits: Feb. 3",
-        "blurb": "生分解性エレクトロニクス、人工シナプス、マイクロプラスチック問題、亜鉛回路印刷に関する研究。",
-        "category": "business",
-        "date": "2026-02-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-feb-3"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }

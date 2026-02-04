@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-04T06:12:42.276578+09:00",
-  "date": "2026-02-04",
+  "generated_at": "2026-02-05T06:12:02.790816+09:00",
+  "date": "2026-02-05",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ（WBG）材料の普及加速",
+      "name": "広帯域ギャップ材料の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,153 +12,163 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaN材料の採用が産業、車載、データセンター分野で拡大。高効率・高耐圧化が推進力。",
+      "summary": "SiCおよびGaN材料の採用が、高効率・高性能化が求められる電源、車載、データセンター、産業機器分野で急速に拡大している。",
       "analysis": {
-        "short_term": "新製品発表と技術ライセンスが活発化。",
-        "mid_term": "量産体制の確立とコスト競争力が鍵。",
-        "investment_implications": "WBG材料メーカーへの注目度高まる。"
+        "short_term": "新製品投入と技術ライセンス供与が活発化。市場競争は激化。",
+        "mid_term": "量産体制の拡充とコスト低減が進み、採用分野がさらに広がる。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味は高い。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "power electronics",
-        "efficiency"
+        "パワー半導体",
+        "EV",
+        "データセンター"
       ],
       "companies_mentioned": [
+        "EPC",
         "CISSOID",
         "Vishay",
+        "ローム",
         "TSMC",
-        "Infineon",
-        "STMicroelectronics"
+        "三菱電機"
       ]
     },
     {
-      "name": "AIと半導体設計の融合進展",
+      "name": "AIとエッジコンピューティングの融合",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
-        "backend",
-        "frontend",
-        "equipment"
+        "datacenter",
+        "automotive",
+        "industrial"
       ],
-      "summary": "AI支援によるチップ設計の効率化・高度化が進む。LLMを用いた設計評価ベンチマークも登場。",
+      "summary": "AI処理がクラウドからエッジデバイスへと移行し、低消費電力かつ高性能なAIチップアーキテクチャと開発プラットフォームが重要視されている。",
       "analysis": {
-        "short_term": "AI設計ツールの開発競争が激化。",
-        "mid_term": "設計サイクルの短縮と性能向上が期待。",
-        "investment_implications": "AI設計ソリューション提供企業に妙味。"
+        "short_term": "エッジAI向けSoC開発が加速。ファームウェアとの連携が鍵。",
+        "mid_term": "文脈認識型AIやマルチダイシステムが普及し、新たなアプリケーションが登場。",
+        "investment_implications": "エッジAI関連技術・半導体メーカーに注目。"
       },
       "keywords": [
         "AI",
-        "chip design",
-        "LLM",
-        "EDA"
+        "エッジAI",
+        "チップレット",
+        "SoC",
+        "低消費電力"
       ],
       "companies_mentioned": [
-        "UCSD",
-        "Columbia University",
-        "BIFOLD",
-        "TU Berlin",
-        "CISPA"
+        "村田製作所",
+        "インテル",
+        "NanoIC"
       ]
     },
     {
-      "name": "チップレット技術の重要性増大",
+      "name": "先端プロセス技術の進化と多様化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "backend",
+        "frontend",
+        "miniaturization",
         "logic",
-        "foundry",
-        "fabless",
-        "miniaturization"
+        "wafer"
       ],
-      "summary": "デバイススケーリングの次段階としてチップレット技術が注目。エンジニア向け入門資料も登場。",
+      "summary": "2nmプロセスへの移行検討や、チップレット、3D-ICといった多様なスケーリング手法が模索されており、半導体製造技術は進化を続けている。",
       "analysis": {
-        "short_term": "チップレットエコシステムの構築が進む。",
-        "mid_term": "高性能・高機能チップの実現に不可欠。",
-        "investment_implications": "チップレット関連技術・IP企業に注目。"
+        "short_term": "2nmプロセス開発競争が激化。チップレット設計の標準化が進む。",
+        "mid_term": "プロセスノードのスケーリングに加え、新材料や構造の採用が進む。",
+        "investment_implications": "先端プロセス技術を持つファウンドリ、設計ツール企業に期待。"
       },
       "keywords": [
-        "chiplet",
-        "advanced packaging",
-        "scaling"
+        "2nm",
+        "チップレット",
+        "3D-IC",
+        "プロセス技術",
+        "PDK"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "NanoIC",
+        "EPC"
+      ]
     },
     {
-      "name": "量子コンピューティング技術の進展",
+      "name": "センサー技術の統合と高度化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "analog",
+        "automotive",
+        "industrial",
+        "ai"
+      ],
+      "summary": "MEMSセンサーやアナログ・ミックスドシグナルセンサー事業のM&Aが進み、自動車、産業、AI分野でのセンサー統合と高機能化が進展している。",
+      "analysis": {
+        "short_term": "大手半導体メーカーによるセンサー事業買収が活発化。",
+        "mid_term": "高精度・低消費電力センサーの需要が増加し、IoTや自動運転に貢献。",
+        "investment_implications": "センサー技術を持つ企業、M&A対象企業に注目。"
+      },
+      "keywords": [
+        "MEMS",
+        "センサー",
+        "アナログ",
+        "ミックスドシグナル",
+        "M&A"
+      ],
+      "companies_mentioned": [
+        "STマイクロ",
+        "NXP",
+        "インフィニオン",
+        "ams OSRAM",
+        "OKI"
+      ]
+    },
+    {
+      "name": "量子技術の産業応用への接近",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "general",
         "industrial",
-        "memory",
-        "datacenter"
+        "frontend",
+        "wafer",
+        "logic"
       ],
-      "summary": "ダイヤモンド量子フォトニクスやイオントラップ量子コンピュータ向け光回路など、実用化に向けた研究開発が進む。",
+      "summary": "ダイヤモンド量子フォトニクスなどの量子技術が、工業生産レベルでの製造アプローチにより実用化に近づいており、次世代技術としての期待が高まる。",
       "analysis": {
-        "short_term": "基礎研究から応用研究へのシフト。",
-        "mid_term": "産業応用への道筋が徐々に明確化。",
-        "investment_implications": "長期的な視点での技術開発動向を注視。"
+        "short_term": "量子フォトニクス製造技術の研究開発が加速。",
+        "mid_term": "スケーラブルな量子コンピューティングやセンサーへの応用が期待される。",
+        "investment_implications": "量子技術関連のスタートアップや研究機関に注目。"
       },
       "keywords": [
-        "quantum computing",
-        "photonics",
-        "ion trap"
+        "量子フォトニクス",
+        "ダイヤモンド",
+        "製造技術",
+        "スケーラビリティ"
       ],
       "companies_mentioned": [
         "MIT",
         "KAUST",
-        "Osaka University"
-      ]
-    },
-    {
-      "name": "低消費電力化への継続的注力",
-      "confidence": 0.8,
-      "momentum": "stable",
-      "related_fields": [
-        "memory",
-        "ai",
-        "automotive",
-        "datacenter",
-        "logic"
-      ],
-      "summary": "次世代AI PCやデータセンター向けに、低消費電力メモリやパワー半導体の開発が重要視されている。",
-      "analysis": {
-        "short_term": "省電力技術への投資は継続。",
-        "mid_term": "エネルギー効率が製品競争力を左右。",
-        "investment_implications": "省電力技術を持つ企業に優位性。"
-      },
-      "keywords": [
-        "low power",
-        "memory",
-        "AI PC",
-        "energy efficiency"
-      ],
-      "companies_mentioned": [
-        "Intel",
-        "SAIMEMORY",
-        "AOS",
-        "Infineon"
+        "産総研",
+        "イーディーピー"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "WBG材料の需要拡大（車載、産業、データセンター）",
-      "AIによる半導体設計の効率化・高度化",
-      "チップレット技術の普及による高性能化"
+      "広帯域ギャップ材料（SiC, GaN）の需要拡大と技術革新",
+      "AIおよびエッジコンピューティング市場の成長",
+      "車載半導体市場の回復と高性能化ニーズ",
+      "データセンターの省電力化・高効率化投資の活発化"
     ],
     "bearish": [
-      "半導体業界全体の過剰生産能力のリスク（一部分野）",
+      "一部のメモリ市場における価格競争の可能性",
       "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "量子コンピューティング技術の長期的な開発動向",
-      "有機半導体材料の研究開発進展"
+      "先端ロジックプロセスの開発競争",
+      "半導体製造装置市場の動向",
+      "MEMSセンサー事業の再編と統合"
     ]
   },
-  "source_count": 33
+  "source_count": 42
 }

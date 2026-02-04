@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-02-04T06:12:37.568433+09:00",
+  "generated_at": "2026-02-05T06:11:57.827479+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "HW-Triggered Backdoors Across Common GPU Accelerators (BIFOLD, TU Berlin, CISPA)",
-    "summary": "GPUアクセラレータにハードウェアトリガー型バックドアが存在する可能性が研究で明らかに。学習モデルの展開に影響。",
+    "title": "Pixblasters MINI Converts Addressable RGB LEDs Into Real-Time Video Displays",
+    "summary": "Pixblasters MINIは、FPGAベースのコントローラーで、アドレス指定可能なRGB LEDをリアルタイムビデオディスプレイに変換します。カスタムプログラミング不要で、最大8192個のLEDを60FPSで駆動します。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/hw-triggered-backdoors-across-common-gpu-accelerators-bifold-tu-berlin-cispa"
+        "name": "electronics-lab.com",
+        "url": "https://www.electronics-lab.com/pixblasters-mini-converts-addressable-rgb-leds-into-real-time-video-displays"
       }
     ]
   },
@@ -18,14 +18,14 @@
     "news": [],
     "tech": [
       {
-        "title": "HW-Triggered Backdoors Across Common GPU Accelerators (BIFOLD, TU Berlin, CISPA)",
-        "blurb": "GPUアクセラレータにハードウェアトリガー型バックドアが存在する可能性が研究で明らかに。学習モデルの展開に影響。",
+        "title": "Pixblasters MINI Converts Addressable RGB LEDs Into Real-Time Video Displays",
+        "blurb": "Pixblasters MINIは、FPGAベースのコントローラーで、アドレス指定可能なRGB LEDをリアルタイムビデオディスプレイに変換します。カスタムプログラミング不要で、最大8192個のLEDを60FPSで駆動します。",
         "category": "tools",
-        "date": "2026-02-03",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hw-triggered-backdoors-across-common-gpu-accelerators-bifold-tu-berlin-cispa"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/pixblasters-mini-converts-addressable-rgb-leds-into-real-time-video-displays"
         },
         "field": {
           "primary": "logic",
@@ -36,6 +36,25 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "CES 2026: Broadcom Brings Edge AI to Wi-Fi 8 with New BCM4918 APU",
+        "blurb": "ブロードコムはCES 2026で、Wi-Fi 8対応の次世代APU「BCM4918」を発表。AI推論をエッジで処理し、性能向上を実現。",
+        "category": "business",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/ces-2026-broadcom-brings-edge-ai-to-wi-fi-8-with-new-bcm4918-apu"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      }
+    ]
   }
 }
