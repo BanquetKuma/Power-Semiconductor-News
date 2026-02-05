@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-05T06:12:02.790816+09:00",
-  "date": "2026-02-05",
+  "generated_at": "2026-02-06T06:10:27.474522+09:00",
+  "date": "2026-02-06",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ材料の普及加速",
+      "name": "次世代パワー半導体の進化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,163 +12,155 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaN材料の採用が、高効率・高性能化が求められる電源、車載、データセンター、産業機器分野で急速に拡大している。",
+      "summary": "GaN-on-SiやSiCなどの新材料パワー半導体の性能向上と量産化が進み、データセンターやEV、産業機器での採用が拡大。",
       "analysis": {
-        "short_term": "新製品投入と技術ライセンス供与が活発化。市場競争は激化。",
-        "mid_term": "量産体制の拡充とコスト低減が進み、採用分野がさらに広がる。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味は高い。"
+        "short_term": "需要拡大で供給逼迫の可能性。",
+        "mid_term": "技術革新がさらなる性能向上とコスト低減を促進。",
+        "investment_implications": "関連企業への投資妙味増大。"
       },
       "keywords": [
-        "SiC",
         "GaN",
-        "パワー半導体",
-        "EV",
-        "データセンター"
+        "SiC",
+        "パワーモジュール",
+        "高効率"
       ],
       "companies_mentioned": [
+        "Microchip",
         "EPC",
         "CISSOID",
         "Vishay",
         "ローム",
-        "TSMC",
         "三菱電機"
       ]
     },
     {
-      "name": "AIとエッジコンピューティングの融合",
+      "name": "AIインフラと先進パッケージング",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "logic",
         "datacenter",
-        "automotive",
-        "industrial"
+        "backend",
+        "logic",
+        "memory"
       ],
-      "summary": "AI処理がクラウドからエッジデバイスへと移行し、低消費電力かつ高性能なAIチップアーキテクチャと開発プラットフォームが重要視されている。",
+      "summary": "AI処理能力向上のため、データセンター向け高性能ICパッケージ基板の需要が急増。3D-ICやチップレット技術が進化。",
       "analysis": {
-        "short_term": "エッジAI向けSoC開発が加速。ファームウェアとの連携が鍵。",
-        "mid_term": "文脈認識型AIやマルチダイシステムが普及し、新たなアプリケーションが登場。",
-        "investment_implications": "エッジAI関連技術・半導体メーカーに注目。"
+        "short_term": "需要増に対応するための生産能力増強が急務。",
+        "mid_term": "先進パッケージング技術がAI性能のボトルネック解消に貢献。",
+        "investment_implications": "パッケージング関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "エッジAI",
+        "データセンター",
+        "3D-IC",
         "チップレット",
-        "SoC",
-        "低消費電力"
+        "MLCC"
       ],
       "companies_mentioned": [
-        "村田製作所",
-        "インテル",
-        "NanoIC"
+        "イビデン",
+        "村田製作所"
       ]
     },
     {
-      "name": "先端プロセス技術の進化と多様化",
+      "name": "エッジAIと組み込みプロセッサ",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "miniaturization",
-        "logic",
-        "wafer"
-      ],
-      "summary": "2nmプロセスへの移行検討や、チップレット、3D-ICといった多様なスケーリング手法が模索されており、半導体製造技術は進化を続けている。",
-      "analysis": {
-        "short_term": "2nmプロセス開発競争が激化。チップレット設計の標準化が進む。",
-        "mid_term": "プロセスノードのスケーリングに加え、新材料や構造の採用が進む。",
-        "investment_implications": "先端プロセス技術を持つファウンドリ、設計ツール企業に期待。"
-      },
-      "keywords": [
-        "2nm",
-        "チップレット",
-        "3D-IC",
-        "プロセス技術",
-        "PDK"
-      ],
-      "companies_mentioned": [
-        "NanoIC",
-        "EPC"
-      ]
-    },
-    {
-      "name": "センサー技術の統合と高度化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
         "analog",
-        "automotive",
+        "logic",
+        "ai",
         "industrial",
-        "ai"
+        "automotive"
       ],
-      "summary": "MEMSセンサーやアナログ・ミックスドシグナルセンサー事業のM&Aが進み、自動車、産業、AI分野でのセンサー統合と高機能化が進展している。",
+      "summary": "IoTデバイスやスマートデバイスにおけるリアルタイム処理、オンデバイスAI、センサーフュージョンを実現するため、組み込みプロセッサの重要性が増大。",
       "analysis": {
-        "short_term": "大手半導体メーカーによるセンサー事業買収が活発化。",
-        "mid_term": "高精度・低消費電力センサーの需要が増加し、IoTや自動運転に貢献。",
-        "investment_implications": "センサー技術を持つ企業、M&A対象企業に注目。"
+        "short_term": "IoT/エッジAI向けプロセッサの需要が堅調。",
+        "mid_term": "低消費電力化と高機能化が進み、応用分野が拡大。",
+        "investment_implications": "組み込みプロセッサ関連企業に投資機会。"
       },
       "keywords": [
-        "MEMS",
-        "センサー",
-        "アナログ",
-        "ミックスドシグナル",
-        "M&A"
+        "エッジAI",
+        "組み込みプロセッサ",
+        "IoT",
+        "低消費電力",
+        "センサー"
       ],
       "companies_mentioned": [
-        "STマイクロ",
+        "Texas Instruments",
+        "Silicon Labs",
+        "STMicroelectronics",
         "NXP",
-        "インフィニオン",
-        "ams OSRAM",
-        "OKI"
+        "Infineon",
+        "ams OSRAM"
       ]
     },
     {
-      "name": "量子技術の産業応用への接近",
+      "name": "量子コンピュータの脅威と機会",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
+        "general",
+        "logic",
+        "memory",
         "industrial",
-        "frontend",
-        "wafer",
-        "logic"
+        "med tech"
       ],
-      "summary": "ダイヤモンド量子フォトニクスなどの量子技術が、工業生産レベルでの製造アプローチにより実用化に近づいており、次世代技術としての期待が高まる。",
+      "summary": "量子コンピュータの進展により、セキュリティリスクが増大する一方、バイオ・医療分野でのデータ解析能力が飛躍的に向上する可能性。",
       "analysis": {
-        "short_term": "量子フォトニクス製造技術の研究開発が加速。",
-        "mid_term": "スケーラブルな量子コンピューティングやセンサーへの応用が期待される。",
-        "investment_implications": "量子技術関連のスタートアップや研究機関に注目。"
+        "short_term": "量子耐性セキュリティ技術への関心が高まる。",
+        "mid_term": "量子コンピュータの実用化に向けた研究開発が加速。",
+        "investment_implications": "関連技術を持つ企業への長期投資を検討。"
       },
       "keywords": [
-        "量子フォトニクス",
-        "ダイヤモンド",
-        "製造技術",
-        "スケーラビリティ"
+        "量子コンピュータ",
+        "セキュリティ",
+        "バイオテクノロジー",
+        "医療"
       ],
-      "companies_mentioned": [
-        "MIT",
-        "KAUST",
-        "産総研",
-        "イーディーピー"
-      ]
+      "companies_mentioned": []
+    },
+    {
+      "name": "半導体サプライチェーンの複雑化とセキュリティ",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "geopolitics",
+        "backend",
+        "logic",
+        "frontend",
+        "equipment"
+      ],
+      "summary": "半導体進化に伴い、トレーサビリティやハードウェアセキュリティの重要性が増す。チップレット化は新たなセキュリティ課題も。",
+      "analysis": {
+        "short_term": "サイバーセキュリティ対策の重要性が再認識される。",
+        "mid_term": "サプライチェーン全体でのセキュリティ強化が求められる。",
+        "investment_implications": "セキュリティソリューション提供企業に注目。"
+      },
+      "keywords": [
+        "トレーサビリティ",
+        "ハードウェアセキュリティ",
+        "チップレット",
+        "CMMC",
+        "UALink"
+      ],
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "広帯域ギャップ材料（SiC, GaN）の需要拡大と技術革新",
-      "AIおよびエッジコンピューティング市場の成長",
-      "車載半導体市場の回復と高性能化ニーズ",
-      "データセンターの省電力化・高効率化投資の活発化"
+      "AI関連インフラ投資の拡大",
+      "次世代パワー半導体の需要増",
+      "エッジAI市場の成長"
     ],
     "bearish": [
-      "一部のメモリ市場における価格競争の可能性",
-      "地政学リスクによるサプライチェーンの不確実性"
+      "一部分野での需要の一時的な停滞",
+      "地政学的リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "先端ロジックプロセスの開発競争",
-      "半導体製造装置市場の動向",
-      "MEMSセンサー事業の再編と統合"
+      "メモリ市場の回復動向",
+      "半導体製造装置の投資サイクル"
     ]
   },
-  "source_count": 42
+  "source_count": 43
 }

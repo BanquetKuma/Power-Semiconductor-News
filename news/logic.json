@@ -1,25 +1,80 @@
 {
-  "generated_at": "2026-02-05T06:11:57.827479+09:00",
+  "generated_at": "2026-02-06T06:10:22.868161+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Pixblasters MINI Converts Addressable RGB LEDs Into Real-Time Video Displays",
-    "summary": "Pixblasters MINIは、FPGAベースのコントローラーで、アドレス指定可能なRGB LEDをリアルタイムビデオディスプレイに変換します。カスタムプログラミング不要で、最大8192個のLEDを60FPSで駆動します。",
+    "title": "Securing UALink: Introducing A UALinkSec Security Module",
+    "summary": "UALinkのセキュリティを強化するUALinkSecセキュリティモジュールが発表されました。ポイントツーポイントアクセラレータリンク向けの専用フレームワークです。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/pixblasters-mini-converts-addressable-rgb-leds-into-real-time-video-displays"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/securing-ualink-introducing-a-ualinksec-security-module"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "TIがSilicon Labsを75億ドルで買収する理由",
+        "blurb": "TIがSilicon Labsを75億ドルで買収。IoT・エッジAI向け組み込みプロセッサ獲得で競争力強化へ。",
+        "category": "company",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news058.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "AMD Launches Ryzen AI Embedded P100 and X100 With Up to 50 TOPS AI Power",
+        "blurb": "AMDがAI処理能力50TOPSの組み込み向けRyzen AI P100/X100を発表。エッジAI向け。",
+        "category": "company",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/amd-launches-ryzen-ai-embedded-p100-and-x100-with-up-to-50-tops-ai-power"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      }
+    ],
     "tech": [
       {
+        "title": "Securing UALink: Introducing A UALinkSec Security Module",
+        "blurb": "UALinkのセキュリティを強化するUALinkSecセキュリティモジュールが発表されました。ポイントツーポイントアクセラレータリンク向けの専用フレームワークです。",
+        "category": "tools",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/securing-ualink-introducing-a-ualinksec-security-module"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Pixblasters MINI Converts Addressable RGB LEDs Into Real-Time Video Displays",
-        "blurb": "Pixblasters MINIは、FPGAベースのコントローラーで、アドレス指定可能なRGB LEDをリアルタイムビデオディスプレイに変換します。カスタムプログラミング不要で、最大8192個のLEDを60FPSで駆動します。",
+        "blurb": "Pixblasters MINIは、FPGAベースのコントローラーで、アドレス指定可能なRGB LEDをカスタムプログラミングなしでリアルタイムビデオディスプレイに変換します。",
         "category": "tools",
         "date": "2026-02-05",
         "stars": 3,
@@ -36,25 +91,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "CES 2026: Broadcom Brings Edge AI to Wi-Fi 8 with New BCM4918 APU",
-        "blurb": "ブロードコムはCES 2026で、Wi-Fi 8対応の次世代APU「BCM4918」を発表。AI推論をエッジで処理し、性能向上を実現。",
-        "category": "business",
-        "date": "2026-02-04",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/ces-2026-broadcom-brings-edge-ai-to-wi-fi-8-with-new-bcm4918-apu"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": "fabless"
-        }
-      }
-    ]
+    "market": []
   }
 }
