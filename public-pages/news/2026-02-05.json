@@ -1,190 +1,94 @@
 {
-  "generated_at": "2026-02-06T06:10:22.866395+09:00",
+  "generated_at": "2026-02-05T06:11:57.825752+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Microchip Launches MCPF1525 Power Module for AI Data Centers",
-    "summary": "マイクロチップ、AIデータセンター向けに200A供給可能な小型電源モジュール「MCPF1525」を発表。",
+    "stars": 4,
+    "title": "EPC Starts Volume Production of Gen7 EPC2366 eGaN FET",
+    "summary": "EPC社が次世代eGaN FET「EPC2366」の量産を開始。シリコンMOSFET比で最大3倍の性能向上を実現し、高効率電源システムに貢献。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers"
+        "url": "https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "A guide to GaN-on-Si, Part 2",
-        "blurb": "窒化ガリウム（GaN）をシリコン基板上に形成する技術（GaN-on-Si）の課題と、電圧別デバイス構造を解説。Part2で解説。",
+        "title": "Sustainable AI Data Center Energy Strategies to Relieve the Grid",
+        "blurb": "AIデータセンターの持続可能な電力戦略は、電力網の負担軽減に貢献する。再生可能エネルギーの活用や効率化が鍵となる。",
         "category": "business",
-        "date": "2026-02-05",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2"
+          "url": "https://www.powerelectronicsnews.com/sustainable-ai-data-center-energy-strategies-to-relieve-the-grid"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Beyond the Electron: Are Polaritonic Switches the Final Frontier for Power Electronics?",
+        "blurb": "電荷ベースのトランジスタから光と物質のハイブリッドへ移行する極性子スイッチは、電力損失をなくし電力分野を再定義する可能性。",
+        "category": "business",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/beyond-the-electron-are-polaritonic-switches-the-final-frontier-for-power-electronics"
+        },
+        "field": null
+      },
+      {
+        "title": "CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module",
+        "blurb": "CISSOIDが1200VハーフブリッジIGBTモジュールを発表。高効率・高信頼性の産業用電力変換システム向け。",
+        "category": "business",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
       },
       {
-        "title": "Securing Hardware For The Quantum Era",
-        "blurb": "量子コンピュータは来年にもセキュリティ脅威となる可能性があり、今後数年間でその脅威は増大する見込みです。",
+        "title": "Blog Review: Feb. 4",
+        "blurb": "3D-IC熱管理、KGD戦略、システムレベルエンジニアリング、ウェハー内ばらつき、画像セグメンテーションについて解説。",
         "category": "business",
-        "date": "2026-02-05",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-hardware-for-the-quantum-era"
+          "url": "https://semiengineering.com/blog-review-feb-4-2"
         },
         "field": {
-          "primary": "general",
+          "primary": "wafer",
           "device": null,
-          "process": null,
+          "process": "wafer",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Modern Trends In Floating-Point",
-        "blurb": "新しいアプリケーションは、厳密な精度よりもエネルギー効率とスループットを重視する傾向を強めている。",
+        "title": "Changes In Chip Architectures At The Edge",
+        "blurb": "エッジAI向けに効率的で柔軟なマルチダイシステムを構築する方法についての記事。",
         "category": "business",
-        "date": "2026-02-05",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/modern-trends-in-floating-point"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Six 3D-IC Design Trends That Secure The AI Era",
-        "blurb": "AI時代を支える3D-IC設計の6つのトレンド。先進パッケージング技術の進化がIC設計のルールを変革。",
-        "category": "business",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/six-3d-ic-design-trends-that-secure-the-ai-era"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The True Cost Of CMMC Non-Compliance",
-        "blurb": "CMMC非準拠の真のコスト。サイバーセキュリティは競争の決定要因となった。",
-        "category": "business",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-true-cost-of-cmmc-non-compliance"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Consumer, Med Tech Mushrooms As Quantum Closes In",
-        "blurb": "量子コンピューティングの進展により、バイオ・医療技術分野でのデータ収集と発見速度が飛躍的に向上。消費者向け自己検査は遅れる見込み。",
-        "category": "business",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/bio-neuro-devices-mushroom-as-quantum-closes-in"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "デートコード「2年ルール」は古い？　半導体進化に応じたトレーサビリティを（前編）",
-        "blurb": "半導体の安全性・信頼性に関わるトレーサビリティは、進化する半導体性能に合わせて更新が必要。現状と課題、サプライチェーンへの影響を解説。",
-        "category": "business",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news010.html"
-        },
-        "field": {
-          "primary": "geopolitics",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "geopolitics"
-        }
-      },
-      {
-        "title": "IDT買収から7年、ルネサスがタイミング事業をSiTimeに売却",
-        "blurb": "ルネサスがタイミングデバイス事業を約4680億円で米SiTimeに売却。成長戦略のため事業優先順位を明確化。",
-        "category": "business",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news074.html"
-        },
-        "field": null
-      },
-      {
-        "title": "ロームが通期予想を再び上方修正、純利益100億円に",
-        "blurb": "ロームは2025年度通期予想を上方修正し、純利益を100億円と見込む。売上高は4800億円。赤字からの黒字転換となる見通し。",
-        "category": "business",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news061.html"
-        },
-        "field": null
-      },
-      {
-        "title": "JDI、次世代衛星アンテナ用ガラス基板を米社と共同開発",
-        "blurb": "JDIは米Kymetaと次世代衛星アンテナ用ガラス基板を共同開発・量産供給する契約を締結。Ku帯・Ka帯対応マルチバンドアンテナ向け。",
-        "category": "business",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news052.html"
-        },
-        "field": null
-      },
-      {
-        "title": "高機能ICパッケージ基板生産増強に5000億円、イビデン",
-        "blurb": "イビデンはAIサーバ向け高機能ICパッケージ基板の生産を増強するため、3年間で約5000億円を投資する。",
-        "category": "business",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news037.html"
+          "url": "https://semiengineering.com/changes-in-chip-architectures-at-the-edge"
         },
         "field": {
           "primary": "ai",
@@ -195,142 +99,88 @@
         }
       },
       {
-        "title": "Designing energy-efficient AI chips: Why power must be an early consideration",
-        "blurb": "AIの負荷増大に伴い、チップ開発における電力管理の重要性が高まっています。早期の電力考慮が不可欠です。",
+        "title": "Why Move To 2nm?",
+        "blurb": "最先端の半導体メーカーは、2nmプロセスへの移行を検討しており、プロセスノードのスケーリングに対する考え方が変化している。",
         "category": "business",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/designing-energy-efficient-ai-chips-why-power-must-be-an-early-consideration"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "The Role Of Embedded Processors In Enabling Smarter Wireless Devices",
-        "blurb": "組み込みプロセッサは、プロトコル管理、リアルタイム判断、オンデバイスAI、センサーフュージョンにより、無線デバイスの知能化を推進する。",
-        "category": "tools",
-        "date": "2026-02-05",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-role-of-embedded-processors-in-enabling-smarter-wireless-devices"
+          "url": "https://semiengineering.com/why-move-to-2nm"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "HDD大手Seagateの四半期業績、11年ぶりに利益率が過去最高を更新",
+        "blurb": "HDD大手Seagateの2026年度第2四半期業績は、11年ぶりに利益率が過去最高を更新した。",
+        "category": "business",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/04/news026.html"
+        },
+        "field": null
+      },
+      {
+        "title": "三菱電機の半導体は光デバイス好調　3Q受注高49％増",
+        "blurb": "三菱電機、25年度3Q半導体事業は光デバイス好調で受注高49%増。パワー半導体は停滞も通信用光デバイスが牽引。",
+        "category": "business",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/04/news060.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Mixer Technology For Advanced Communications, Part 1: Mixer Basics",
-        "blurb": "高度通信向けミキサー技術の基本。役割、一般的なトポロジー、現代的応用におけるI/Qミキサーの使用について解説。",
-        "category": "tools",
-        "date": "2026-02-05",
+        "title": "CES 2026: Broadcom Brings Edge AI to Wi-Fi 8 with New BCM4918 APU",
+        "blurb": "ブロードコムはCES 2026で、Wi-Fi 8対応の次世代APU「BCM4918」を発表。AI推論をエッジで処理し、性能向上を実現。",
+        "category": "business",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/mixer-technology-for-advanced-communications-part-1-mixer-basics"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Securing UALink: Introducing A UALinkSec Security Module",
-        "blurb": "UALinkのセキュリティを強化するUALinkSecセキュリティモジュールが発表されました。ポイントツーポイントアクセラレータリンク向けの専用フレームワークです。",
-        "category": "tools",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-ualink-introducing-a-ualinksec-security-module"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/ces-2026-broadcom-brings-edge-ai-to-wi-fi-8-with-new-bcm4918-apu"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
-          "industry": null
+          "market": "ai",
+          "industry": "fabless"
         }
-      },
+      }
+    ],
+    "tools": [
       {
-        "title": "Scaling Ultra-Low-Power Edge Intelligence For Smart Devices",
-        "blurb": "スマートデバイス向け超低消費電力エッジAIのスケーリング。リアルタイムでセンサーデータをソースで処理。",
+        "title": "Classic constant current cascode",
+        "blurb": "定電流カスコード回路は、4-20mA電流ミラーの参照変調誤差を低減し、能動インピーダンスを大幅に改善する。",
         "category": "tools",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scaling-ultra-low-power-edge-intelligence-for-smart-devices"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Added-conductor and directional audio interconnects: Real-life benefits?",
-        "blurb": "オーディオケーブルの導体数や向きによる音質変化は理論的に意味があるか？実用的なメリットを検証。",
-        "category": "tools",
-        "date": "2026-02-05",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/added-conductor-and-directional-audio-interconnects-real-life-benefits"
+          "url": "https://www.edn.com/classic-constant-current-cascode"
         },
         "field": null
-      },
-      {
-        "title": "Emerson Updates NI Nigel AI and Expands LabVIEW+ Suite Capabilities",
-        "blurb": "エマーソンがテスト向けAI「NI Nigel AI」を更新し、コード補完機能などを追加。LabVIEW+ Suiteも機能拡張。",
-        "category": "tools",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/emerson-updates-ni-nigel-ai-and-expands-labview-suite-capabilities"
-        },
-        "field": null
-      },
-      {
-        "title": "Melexis Introduces 22-Bit Resolution Encoder for Rotary and Linear Motion",
-        "blurb": "Melexisが22ビット高解像度エンコーダーMLX90520を発表。ロボットや産業用途の回転・直線運動をサブマイクロ秒で検知。",
-        "category": "tools",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/melexis-introduces-22-bit-resolution-encoder-for-rotary-and-linear-motion"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
       },
       {
         "title": "Pixblasters MINI Converts Addressable RGB LEDs Into Real-Time Video Displays",
-        "blurb": "Pixblasters MINIは、FPGAベースのコントローラーで、アドレス指定可能なRGB LEDをカスタムプログラミングなしでリアルタイムビデオディスプレイに変換します。",
+        "blurb": "Pixblasters MINIは、FPGAベースのコントローラーで、アドレス指定可能なRGB LEDをリアルタイムビデオディスプレイに変換します。カスタムプログラミング不要で、最大8192個のLEDを60FPSで駆動します。",
         "category": "tools",
         "date": "2026-02-05",
         "stars": 3,
@@ -349,29 +199,11 @@
     ],
     "company": [
       {
-        "title": "Microchip Launches MCPF1525 Power Module for AI Data Centers",
-        "blurb": "マイクロチップ、AIデータセンター向けに200A供給可能な小型電源モジュール「MCPF1525」を発表。",
-        "category": "company",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
         "title": "EPC Starts Volume Production of Gen7 EPC2366 eGaN FET",
-        "blurb": "EPC社が次世代eGaN FET「EPC2366」の量産を開始。シリコンMOSFET比3倍の性能で高効率電源システムに貢献。",
+        "blurb": "EPC社が次世代eGaN FET「EPC2366」の量産を開始。シリコンMOSFET比で最大3倍の性能向上を実現し、高効率電源システムに貢献。",
         "category": "company",
         "date": "2026-02-05",
-        "stars": 3,
+        "stars": 4,
         "source": {
           "name": "powerelectronicsnews.com",
           "url": "https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet"
@@ -385,81 +217,219 @@
         }
       },
       {
-        "title": "From Monolithic SoCs To Chiplets: A New Hardware Security Paradigm",
-        "blurb": "チップレット化により、単一の脆弱なチップレットや相互接続の侵害がプラットフォーム全体を脅かす可能性があり、新たなハードウェアセキュリティの課題が生じている。",
+        "title": "ローム、TSMCのライセンス取得し650V GaNパワー半導体を自社生産へ",
+        "blurb": "ロームはTSMCからGaN技術ライセンスを取得し、650V GaNパワーデバイスの自社生産を開始する。",
         "category": "company",
-        "date": "2026-02-05",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-monolithic-socs-to-chiplets-a-new-hardware-security-paradigm"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/04/news114.html"
         },
         "field": {
-          "primary": "backend",
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "定年間際のエンジニアが博士課程進学を選んだ「本当の理由」",
+        "blurb": "定年間際のエンジニアが、長年の疑問を解消するため博士課程進学を決意。複数の条件が重なり、最終的に学術的な探求を選んだ。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/09/news011.html"
+        },
+        "field": null
+      },
+      {
+        "title": "キヤノンとNTT東が協業、柔軟なボリュメトリックビデオシステム構築",
+        "blurb": "キヤノンとNTT東日本は、IOWNを活用した柔軟なボリュメトリックビデオシステム構築へ協業を開始した。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/04/news037.html"
+        },
+        "field": null
+      },
+      {
+        "title": "TSMCの動向に注目集まる　2026年1月の記事ランキング",
+        "blurb": "TSMCの動向が注目される中、2026年1月のEE Times Japan人気記事ランキングトップ10が発表されました。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/04/news035.html"
+        },
+        "field": null
+      },
+      {
+        "title": "大面積のダイヤモンド／シリコン複合ウエハー開発",
+        "blurb": "産総研とイーディーピーは、高温接合技術で大面積のダイヤモンド／シリコン複合ウエハーを開発。露光装置での微細加工を実証した。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/04/news036.html"
+        },
+        "field": {
+          "primary": "frontend",
           "device": null,
-          "process": "backend",
+          "process": "frontend",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "TSMCが熊本第2工場で3nm導入へ　CEOが表明",
-        "blurb": "TSMCは熊本第2工場で3nmプロセスを導入するとCEOが表明。2026年2月5日に首相に伝達。",
+        "title": "ST、NXPのMEMSセンサー事業買収を完了",
+        "blurb": "STマイクロがNXPのMEMSセンサー事業買収を完了。同事業の2026年第1四半期売上高は4000万ドル半ばの見込み。",
         "category": "company",
-        "date": "2026-02-05",
+        "date": "2026-02-04",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/06/news047.html"
-        },
-        "field": null
-      },
-      {
-        "title": "堀場製作所がインドの人工ダイヤモンド新興を買収",
-        "blurb": "堀場製作所はインドの人工ダイヤモンド開発企業Pristine Deeptechを買収し、インドを先端材料の研究開発拠点とする。",
-        "category": "company",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news038.html"
-        },
-        "field": null
-      },
-      {
-        "title": "TIがSilicon Labsを75億ドルで買収する理由",
-        "blurb": "TIがSilicon Labsを75億ドルで買収。IoT・エッジAI向け組み込みプロセッサ獲得で競争力強化へ。",
-        "category": "company",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news058.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/04/news046.html"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Infineon、ams OSRAMのアナログ／ミックスドシグナルセンサー事業買収",
+        "blurb": "インフィニオンがams OSRAMのアナログ／ミックスドシグナルセンサー事業を5.7億ユーロで買収。2026年第2四半期中の完了を目指す。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/04/news062.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Silicon coupled with open development platforms drives context-aware edge AI",
+        "blurb": "AI処理がクラウドからエッジデバイスへ移行。シリコンとオープン開発プラットフォームが文脈認識型エッジAIを推進。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/silicon-coupled-with-open-development-platforms-drives-context-aware-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
           "process": null,
           "market": "ai",
           "industry": null
         }
       },
       {
-        "title": "AMD Launches Ryzen AI Embedded P100 and X100 With Up to 50 TOPS AI Power",
-        "blurb": "AMDがAI処理能力50TOPSの組み込み向けRyzen AI P100/X100を発表。エッジAI向け。",
+        "title": "EDN announces Product of the Year Awards",
+        "blurb": "EDNが電子製品「プロダクト・オブ・ザ・イヤー」を発表。受賞製品は1-2月合併号に掲載。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/edn-announces-product-of-the-year-awards"
+        },
+        "field": null
+      },
+      {
+        "title": "NanoIC Releases A14 Logic and eDRAM Process Design Kits",
+        "blurb": "NanoICが2nm超チップ技術向けに、ロジック・eDRAM開発用PDKをリリース。欧州主導のイノベーション推進。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nanoic-releases-a14-logic-and-edram-process-design-kits"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "BMW's Most Important Electric Car Is One Big Step Closer To Your Driveway",
+        "blurb": "BMWの新型EV「i3」の生産が2026年後半にミュンヘン工場で開始される見込みです。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/786373/bmw-i3-production-start-munich"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla Has A New, Cheaper Model Y. Will It Work?",
+        "blurb": "テスラが新型「モデルY」を発表。価格を抑え、ボルボのEVやリビアンのロボティクス事業と共に市場投入へ。",
+        "category": "company",
+        "date": "2026-02-04",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/786309/tesla-model-y-awd-cheaper-volvo-rivian-robotics-2026"
+        },
+        "field": null
+      },
+      {
+        "title": "Is The World's First Solid-State Battery EV Already Delayed?",
+        "blurb": "世界初の全固体電池EV、予定より遅延の可能性。新納期は未定。",
         "category": "company",
         "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/amd-launches-ryzen-ai-embedded-p100-and-x100-with-up-to-50-tops-ai-power"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/786388/verge-motorcycles-donut-labs-solid-state-battery-ev"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "automotive",
+          "device": null,
           "process": null,
-          "market": "ai",
-          "industry": "fabless"
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "I Drove The 2026 Polestar 4. It May Be America's Weirdest EV",
+        "blurb": "ポールスター4は、リアウィンドウがなく、パワフルなEV。奇抜だが魅力的な一台。",
+        "category": "company",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/786314/2026-polestar-4-review"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
         }
       }
     ],

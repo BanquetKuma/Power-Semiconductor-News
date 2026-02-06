@@ -1,166 +1,170 @@
 {
-  "generated_at": "2026-02-06T06:10:27.474522+09:00",
-  "date": "2026-02-06",
+  "generated_at": "2026-02-07T06:10:25.425925+09:00",
+  "date": "2026-02-07",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化",
+      "name": "SiC/GaNパワー半導体の普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "datacenter"
       ],
-      "summary": "GaN-on-SiやSiCなどの新材料パワー半導体の性能向上と量産化が進み、データセンターやEV、産業機器での採用が拡大。",
+      "summary": "EV、データセンター、産業機器向けにSiC/GaNパワー半導体の採用が加速。高効率化・小型化に貢献。",
       "analysis": {
-        "short_term": "需要拡大で供給逼迫の可能性。",
-        "mid_term": "技術革新がさらなる性能向上とコスト低減を促進。",
-        "investment_implications": "関連企業への投資妙味増大。"
+        "short_term": "SiC/GaNデバイスの量産・供給体制強化が進む。",
+        "mid_term": "車載・データセンター用途での採用がさらに拡大。",
+        "investment_implications": "SiC/GaN材料・デバイスメーカーに注目。"
       },
       "keywords": [
-        "GaN",
         "SiC",
-        "パワーモジュール",
+        "GaN",
+        "EV",
+        "データセンター",
         "高効率"
       ],
       "companies_mentioned": [
-        "Microchip",
+        "東芝",
+        "RIR",
         "EPC",
-        "CISSOID",
-        "Vishay",
         "ローム",
-        "三菱電機"
+        "TSMC"
       ]
     },
     {
-      "name": "AIインフラと先進パッケージング",
+      "name": "AI向け高性能IC・パッケージ需要増",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
         "backend",
-        "logic",
-        "memory"
+        "logic"
       ],
-      "summary": "AI処理能力向上のため、データセンター向け高性能ICパッケージ基板の需要が急増。3D-ICやチップレット技術が進化。",
+      "summary": "AI処理能力向上のため、高性能IC（GPU、AIアクセラレータ）と先進パッケージング技術（3D-IC、チップレット）への投資が活発化。",
       "analysis": {
-        "short_term": "需要増に対応するための生産能力増強が急務。",
-        "mid_term": "先進パッケージング技術がAI性能のボトルネック解消に貢献。",
-        "investment_implications": "パッケージング関連企業に注目。"
+        "short_term": "AI向けIC・パッケージ基板の生産能力増強が進む。",
+        "mid_term": "チップレット化による設計・セキュリティの進化が加速。",
+        "investment_implications": "AIチップ、先進パッケージング関連企業に投資妙味。"
       },
       "keywords": [
         "AI",
-        "データセンター",
+        "GPU",
         "3D-IC",
         "チップレット",
-        "MLCC"
+        "パッケージング"
       ],
       "companies_mentioned": [
+        "マイクロチップ",
         "イビデン",
-        "村田製作所"
+        "Intel"
       ]
     },
     {
-      "name": "エッジAIと組み込みプロセッサ",
+      "name": "車載半導体の高度化・多様化",
+      "confidence": 0.88,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "logic",
+        "analog",
+        "power",
+        "industrial"
+      ],
+      "summary": "自動運転、ADAS、電動化の進展により、センサー、SoC、パワー半導体など車載半導体の需要が拡大・高度化。",
+      "analysis": {
+        "short_term": "車載向けセンサー・SoCのM&Aや共同開発が増加。",
+        "mid_term": "次世代SDV向けニューロモルフィックSoCなどの開発が進む。",
+        "investment_implications": "車載半導体メーカー、センサーメーカーに注目。"
+      },
+      "keywords": [
+        "車載",
+        "自動運転",
+        "ADAS",
+        "センサー",
+        "SoC"
+      ],
+      "companies_mentioned": [
+        "東芝",
+        "STマイクロエレクトロニクス",
+        "NXP",
+        "ホンダ",
+        "Mythic",
+        "Diodes"
+      ]
+    },
+    {
+      "name": "エッジAIの重要性増大",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "analog",
-        "logic",
         "ai",
+        "logic",
+        "analog",
         "industrial",
         "automotive"
       ],
-      "summary": "IoTデバイスやスマートデバイスにおけるリアルタイム処理、オンデバイスAI、センサーフュージョンを実現するため、組み込みプロセッサの重要性が増大。",
+      "summary": "AI処理がクラウドからエッジデバイスへ移行。低遅延・高プライバシーが求められ、組み込みプロセッサの役割が増加。",
       "analysis": {
-        "short_term": "IoT/エッジAI向けプロセッサの需要が堅調。",
-        "mid_term": "低消費電力化と高機能化が進み、応用分野が拡大。",
-        "investment_implications": "組み込みプロセッサ関連企業に投資機会。"
+        "short_term": "エッジAI向けプロセッサ・SoCの需要が堅調。",
+        "mid_term": "状況認識型エッジAIの実現に向けた技術開発が進む。",
+        "investment_implications": "エッジAI関連シリコン・プラットフォーム企業に妙味。"
       },
       "keywords": [
         "エッジAI",
         "組み込みプロセッサ",
         "IoT",
-        "低消費電力",
-        "センサー"
+        "低遅延",
+        "プライバシー"
       ],
       "companies_mentioned": [
-        "Texas Instruments",
-        "Silicon Labs",
-        "STMicroelectronics",
+        "STマイクロエレクトロニクス",
         "NXP",
-        "Infineon",
-        "ams OSRAM"
+        "TI",
+        "Silicon Labs"
       ]
     },
     {
-      "name": "量子コンピュータの脅威と機会",
-      "confidence": 0.75,
+      "name": "量子コンピュータ時代への備え",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
-        "general",
         "logic",
-        "memory",
-        "industrial",
-        "med tech"
+        "security",
+        "general"
       ],
-      "summary": "量子コンピュータの進展により、セキュリティリスクが増大する一方、バイオ・医療分野でのデータ解析能力が飛躍的に向上する可能性。",
+      "summary": "量子コンピュータによる既存暗号の脅威に対応するため、量子耐性を持つハードウェア・暗号技術への移行が急務。",
       "analysis": {
-        "short_term": "量子耐性セキュリティ技術への関心が高まる。",
-        "mid_term": "量子コンピュータの実用化に向けた研究開発が加速。",
-        "investment_implications": "関連技術を持つ企業への長期投資を検討。"
+        "short_term": "量子耐性暗号（PQC）の研究開発が加速。",
+        "mid_term": "ハードウェアレベルでの量子時代への対応が本格化。",
+        "investment_implications": "セキュリティ関連、次世代暗号技術企業に注目。"
       },
       "keywords": [
         "量子コンピュータ",
         "セキュリティ",
-        "バイオテクノロジー",
-        "医療"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "半導体サプライチェーンの複雑化とセキュリティ",
-      "confidence": 0.7,
-      "momentum": "rising",
-      "related_fields": [
-        "geopolitics",
-        "backend",
-        "logic",
-        "frontend",
-        "equipment"
-      ],
-      "summary": "半導体進化に伴い、トレーサビリティやハードウェアセキュリティの重要性が増す。チップレット化は新たなセキュリティ課題も。",
-      "analysis": {
-        "short_term": "サイバーセキュリティ対策の重要性が再認識される。",
-        "mid_term": "サプライチェーン全体でのセキュリティ強化が求められる。",
-        "investment_implications": "セキュリティソリューション提供企業に注目。"
-      },
-      "keywords": [
-        "トレーサビリティ",
-        "ハードウェアセキュリティ",
-        "チップレット",
-        "CMMC",
-        "UALink"
+        "暗号",
+        "PQC",
+        "ハードウェア"
       ],
       "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連インフラ投資の拡大",
-      "次世代パワー半導体の需要増",
-      "エッジAI市場の成長"
+      "AI・データセンター向け需要の継続的な拡大",
+      "EV・自動運転向け半導体市場の成長",
+      "SiC/GaNパワー半導体の普及加速",
+      "先進パッケージング技術への大型投資"
     ],
     "bearish": [
-      "一部分野での需要の一時的な停滞",
-      "地政学的リスクによるサプライチェーンの不確実性"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "メモリ市場の周期的な変動リスク"
     ],
     "neutral": [
-      "メモリ市場の回復動向",
-      "半導体製造装置の投資サイクル"
+      "半導体製造装置市場の動向",
+      "先端プロセス開発競争の激化"
     ]
   },
-  "source_count": 43
+  "source_count": 31
 }

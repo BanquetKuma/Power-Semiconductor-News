@@ -1,96 +1,60 @@
 {
-  "generated_at": "2026-02-06T06:10:22.868161+09:00",
+  "generated_at": "2026-02-07T06:10:20.022827+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Securing UALink: Introducing A UALinkSec Security Module",
-    "summary": "UALinkのセキュリティを強化するUALinkSecセキュリティモジュールが発表されました。ポイントツーポイントアクセラレータリンク向けの専用フレームワークです。",
+    "title": "Chip Industry Week in Review",
+    "summary": "IntelのGPU、M&A、TSMCの日本進出、AI向け資金調達など、半導体業界の最新動向を網羅。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/securing-ualink-introducing-a-ualinksec-security-module"
+        "url": "https://semiengineering.com/chip-industry-week-in-review-124"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "TIがSilicon Labsを75億ドルで買収する理由",
-        "blurb": "TIがSilicon Labsを75億ドルで買収。IoT・エッジAI向け組み込みプロセッサ獲得で競争力強化へ。",
+        "title": "ホンダ、米新興と車載ニューロモルフィックSoCを共同開発",
+        "blurb": "ホンダは米Mythicへ出資し、次世代SDV向けニューロモルフィックSoCを共同開発する。",
         "category": "company",
-        "date": "2026-02-05",
+        "date": "2026-02-06",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news058.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/06/news035.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
-        }
-      },
-      {
-        "title": "AMD Launches Ryzen AI Embedded P100 and X100 With Up to 50 TOPS AI Power",
-        "blurb": "AMDがAI処理能力50TOPSの組み込み向けRyzen AI P100/X100を発表。エッジAI向け。",
-        "category": "company",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/amd-launches-ryzen-ai-embedded-p100-and-x100-with-up-to-50-tops-ai-power"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": "fabless"
         }
       }
     ],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "Securing UALink: Introducing A UALinkSec Security Module",
-        "blurb": "UALinkのセキュリティを強化するUALinkSecセキュリティモジュールが発表されました。ポイントツーポイントアクセラレータリンク向けの専用フレームワークです。",
-        "category": "tools",
-        "date": "2026-02-05",
+        "title": "Chip Industry Week in Review",
+        "blurb": "IntelのGPU、M&A、TSMCの日本進出、AI向け資金調達など、半導体業界の最新動向を網羅。",
+        "category": "business",
+        "date": "2026-02-06",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-ualink-introducing-a-ualinksec-security-module"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-124"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
-          "process": null,
+          "process": "miniaturization",
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Pixblasters MINI Converts Addressable RGB LEDs Into Real-Time Video Displays",
-        "blurb": "Pixblasters MINIは、FPGAベースのコントローラーで、アドレス指定可能なRGB LEDをカスタムプログラミングなしでリアルタイムビデオディスプレイに変換します。",
-        "category": "tools",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/pixblasters-mini-converts-addressable-rgb-leds-into-real-time-video-displays"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
+          "industry": "foundry"
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

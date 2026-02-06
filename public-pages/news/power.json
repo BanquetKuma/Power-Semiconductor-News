@@ -1,38 +1,93 @@
 {
-  "generated_at": "2026-02-06T06:10:22.867808+09:00",
+  "generated_at": "2026-02-07T06:10:20.022333+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A guide to GaN-on-Si, Part 2",
-    "summary": "窒化ガリウム（GaN）をシリコン基板上に形成する技術（GaN-on-Si）の課題と、電圧別デバイス構造を解説。Part2で解説。",
+    "title": "Toshiba Samples TB9104FTG Gate Driver",
+    "summary": "東芝は、車載用DCモーター向けゲートドライバー「TB9104FTG」のサンプル出荷を開始しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2"
+        "url": "https://www.powerelectronicsnews.com/toshiba-samples-tb9104ftg-gate-driver"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "A guide to GaN-on-Si, Part 2",
-        "blurb": "窒化ガリウム（GaN）をシリコン基板上に形成する技術（GaN-on-Si）の課題と、電圧別デバイス構造を解説。Part2で解説。",
-        "category": "business",
-        "date": "2026-02-05",
+        "title": "Toshiba Samples TB9104FTG Gate Driver",
+        "blurb": "東芝は、車載用DCモーター向けゲートドライバー「TB9104FTG」のサンプル出荷を開始しました。",
+        "category": "company",
+        "date": "2026-02-07",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2"
+          "url": "https://www.powerelectronicsnews.com/toshiba-samples-tb9104ftg-gate-driver"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Powering AI at scale: How HVDC and GaN are transforming hyperscale data centers",
+        "blurb": "AI需要増大でデータセンターの電力効率が重要に。HVDCとGaN技術が変革を推進。",
+        "category": "business",
+        "date": "2026-02-06",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/powering-ai-at-scale-how-hvdc-and-gan-are-transforming-hyperscale-data-centers"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GaN transistor cuts losses and heat",
+        "blurb": "EPC社が窒化ガリウム（GaN）トランジスタの新製品を発表。シリコンMOSFETより3倍高性能で、損失と発熱を低減。",
+        "category": "business",
+        "date": "2026-02-06",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/gan-transistor-cuts-losses-and-heat"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "RIR Launches SiC MPS Diodes for EV and Power Systems",
+        "blurb": "RIRがEV・電力システム向けに高効率・高信頼性のSiC MPSダイオードを発表。",
+        "category": "business",
+        "date": "2026-02-07",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/rir-launches-sic-mps-diodes-for-ev-and-power-systems"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       }
