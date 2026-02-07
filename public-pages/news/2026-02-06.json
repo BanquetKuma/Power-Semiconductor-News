@@ -1,94 +1,46 @@
 {
-  "generated_at": "2026-02-07T06:10:20.021068+09:00",
+  "generated_at": "2026-02-06T06:10:22.866395+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Toshiba Samples TB9104FTG Gate Driver",
-    "summary": "東芝は、車載用DCモーター向けゲートドライバー「TB9104FTG」のサンプル出荷を開始しました。",
+    "title": "Microchip Launches MCPF1525 Power Module for AI Data Centers",
+    "summary": "マイクロチップ、AIデータセンター向けに200A供給可能な小型電源モジュール「MCPF1525」を発表。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/toshiba-samples-tb9104ftg-gate-driver"
+        "url": "https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Supercapacitors, Automotive Shift to 48V, Polaritonic Switches: Power Electronics Week Insights",
-        "blurb": "次世代パワーエレクトロニクス技術として、スーパーキャパシタ、車載48Vシフト、ポラリトニック・スイッチの最新動向が注目されている。",
+        "title": "A guide to GaN-on-Si, Part 2",
+        "blurb": "窒化ガリウム（GaN）をシリコン基板上に形成する技術（GaN-on-Si）の課題と、電圧別デバイス構造を解説。Part2で解説。",
         "category": "business",
-        "date": "2026-02-06",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/supercapacitors-automotive-shift-to-48v-polaritonic-switches-power-electronics-week-insights"
-        },
-        "field": null
-      },
-      {
-        "title": "Chip Industry Week in Review",
-        "blurb": "IntelのGPU、M&A、TSMCの日本進出、AI向け資金調達など、半導体業界の最新動向を網羅。",
-        "category": "business",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-124"
+          "url": "https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "miniaturization",
+          "primary": "power",
+          "device": "power",
+          "process": null,
           "market": null,
-          "industry": "foundry"
+          "industry": null
         }
       },
       {
-        "title": "展示会ブースも「見た目が9割」？",
-        "blurb": "展示会ブースでは、展示内容と同等に「見た目の派手さ」も重要な要素である。",
+        "title": "Securing Hardware For The Quantum Era",
+        "blurb": "量子コンピュータは来年にもセキュリティ脅威となる可能性があり、今後数年間でその脅威は増大する見込みです。",
         "category": "business",
-        "date": "2026-02-06",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/06/news080.html"
-        },
-        "field": null
-      },
-      {
-        "title": "ミネベアミツミ、初の通期営業利益1000億円超え視野に",
-        "blurb": "ミネベアミツミ、26年3月期通期営業利益1000億円超えを視野に。第3四半期は増収増益。",
-        "category": "business",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/06/news056.html"
-        },
-        "field": null
-      },
-      {
-        "title": "ルネサスが6年ぶり最終赤字　Wolfspeed再建支援響く",
-        "blurb": "ルネサス、6年ぶり最終赤字。米Wolfspeed再建支援による減損損失2376億円が響く。売上高は1兆3212億円。",
-        "category": "business",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/06/news055.html"
-        },
-        "field": null
-      },
-      {
-        "title": "ソニー半導体、3Qは過去最高 通期予想もさらに上方修正",
-        "blurb": "ソニー半導体、25年度3Qは売上・利益ともに過去最高を更新。スマホ向け好調で通期予想も上方修正。",
-        "category": "business",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/06/news060.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/securing-hardware-for-the-quantum-era"
         },
         "field": {
           "primary": "general",
@@ -99,204 +51,214 @@
         }
       },
       {
-        "title": "Powering AI at scale: How HVDC and GaN are transforming hyperscale data centers",
-        "blurb": "AI需要増大でデータセンターの電力効率が重要に。HVDCとGaN技術が変革を推進。",
+        "title": "Modern Trends In Floating-Point",
+        "blurb": "新しいアプリケーションは、厳密な精度よりもエネルギー効率とスループットを重視する傾向を強めている。",
         "category": "business",
-        "date": "2026-02-06",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/powering-ai-at-scale-how-hvdc-and-gan-are-transforming-hyperscale-data-centers"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/modern-trends-in-floating-point"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Redriver boosts automotive camera link reliability",
-        "blurb": "Diodes社のMIPI D-PHY ReDriverは、ADASや車載カメラ監視システム向けに2.5Gbpsのデータレートをサポートし、信頼性を向上させます。",
-        "category": "business",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/redriver-boosts-automotive-camera-link-reliability"
-        },
-        "field": {
-          "primary": "automotive",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "GaN transistor cuts losses and heat",
-        "blurb": "EPC社が窒化ガリウム（GaN）トランジスタの新製品を発表。シリコンMOSFETより3倍高性能で、損失と発熱を低減。",
+        "title": "Six 3D-IC Design Trends That Secure The AI Era",
+        "blurb": "AI時代を支える3D-IC設計の6つのトレンド。先進パッケージング技術の進化がIC設計のルールを変革。",
         "category": "business",
-        "date": "2026-02-06",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/gan-transistor-cuts-losses-and-heat"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/six-3d-ic-design-trends-that-secure-the-ai-era"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The True Cost Of CMMC Non-Compliance",
+        "blurb": "CMMC非準拠の真のコスト。サイバーセキュリティは競争の決定要因となった。",
+        "category": "business",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-true-cost-of-cmmc-non-compliance"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "High-density power module fits compact AI servers",
-        "blurb": "Microchipの新電源モジュールは、AIサーバー向けに省スペースで高密度化を実現。25A/個で、最大200Aまで拡張可能。",
+        "title": "Consumer, Med Tech Mushrooms As Quantum Closes In",
+        "blurb": "量子コンピューティングの進展により、バイオ・医療技術分野でのデータ収集と発見速度が飛躍的に向上。消費者向け自己検査は遅れる見込み。",
         "category": "business",
-        "date": "2026-02-06",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/high-density-power-module-fits-compact-ai-servers"
-        },
-        "field": null
-      },
-      {
-        "title": "Vishay shrinks inductors, keeps full performance",
-        "blurb": "Vishayが小型化された高性能パワーインダクタを発表。商用・車載用途向け。",
-        "category": "business",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/vishay-shrinks-inductors-keeps-full-performance"
-        },
-        "field": null
-      },
-      {
-        "title": "RIR Launches SiC MPS Diodes for EV and Power Systems",
-        "blurb": "RIRがEV・電力システム向けに高効率・高信頼性のSiC MPSダイオードを発表。",
-        "category": "business",
-        "date": "2026-02-07",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/rir-launches-sic-mps-diodes-for-ev-and-power-systems"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/bio-neuro-devices-mushroom-as-quantum-closes-in"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "general",
+          "device": null,
           "process": null,
-          "market": "automotive",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "デートコード「2年ルール」は古い？　半導体進化に応じたトレーサビリティを（前編）",
+        "blurb": "半導体の安全性・信頼性に関わるトレーサビリティは、進化する半導体性能に合わせて更新が必要。現状と課題、サプライチェーンへの影響を解説。",
+        "category": "business",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news010.html"
+        },
+        "field": {
+          "primary": "geopolitics",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "geopolitics"
+        }
+      },
+      {
+        "title": "IDT買収から7年、ルネサスがタイミング事業をSiTimeに売却",
+        "blurb": "ルネサスがタイミングデバイス事業を約4680億円で米SiTimeに売却。成長戦略のため事業優先順位を明確化。",
+        "category": "business",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news074.html"
+        },
+        "field": null
+      },
+      {
+        "title": "ロームが通期予想を再び上方修正、純利益100億円に",
+        "blurb": "ロームは2025年度通期予想を上方修正し、純利益を100億円と見込む。売上高は4800億円。赤字からの黒字転換となる見通し。",
+        "category": "business",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news061.html"
+        },
+        "field": null
+      },
+      {
+        "title": "JDI、次世代衛星アンテナ用ガラス基板を米社と共同開発",
+        "blurb": "JDIは米Kymetaと次世代衛星アンテナ用ガラス基板を共同開発・量産供給する契約を締結。Ku帯・Ka帯対応マルチバンドアンテナ向け。",
+        "category": "business",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news052.html"
+        },
+        "field": null
+      },
+      {
+        "title": "高機能ICパッケージ基板生産増強に5000億円、イビデン",
+        "blurb": "イビデンはAIサーバ向け高機能ICパッケージ基板の生産を増強するため、3年間で約5000億円を投資する。",
+        "category": "business",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news037.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Designing energy-efficient AI chips: Why power must be an early consideration",
+        "blurb": "AIの負荷増大に伴い、チップ開発における電力管理の重要性が高まっています。早期の電力考慮が不可欠です。",
+        "category": "business",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/designing-energy-efficient-ai-chips-why-power-must-be-an-early-consideration"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
     ],
     "tools": [
       {
-        "title": "「何でもできるが誰にも使えない」――自作MASが突きつけた現実",
-        "blurb": "自作MAS「EBASim」は多機能だが、実用性に課題。開発者はその現実と向き合うことになった。",
+        "title": "The Role Of Embedded Processors In Enabling Smarter Wireless Devices",
+        "blurb": "組み込みプロセッサは、プロトコル管理、リアルタイム判断、オンデバイスAI、センサーフュージョンにより、無線デバイスの知能化を推進する。",
         "category": "tools",
-        "date": "2026-02-06",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/10/news006.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Selecting the best network for robot control",
-        "blurb": "ロボット制御には、大容量データをリアルタイムで処理できる高速ネットワークプロトコルが不可欠です。",
-        "category": "tools",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/selecting-the-best-network-for-robot-control"
-        },
-        "field": null
-      },
-      {
-        "title": "Taoglas Releases Antenna Product Selection Tool",
-        "blurb": "TaoglasがAI駆動のアンテナ選定ツールをリリース。エンジニアのアンテナ・RFコンポーネント選定を支援。",
-        "category": "tools",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/taoglas-releases-antenna-product-selection-tool"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "TDK Introduces Stackable µPOL Modules",
-        "blurb": "TDKは、最大25A/モジュール、垂直スタックで最大200A供給可能なスタッカブルµPOLコンバータ「FS1525」を発表しました。",
-        "category": "company",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/tdk-introduces-stackable-%c2%b5pol-modules"
-        },
-        "field": null
-      },
-      {
-        "title": "Reliable Power for Autonomous Defense Vehicles",
-        "blurb": "自律型防衛車両向けに、空・海・陸の次世代プラットフォームを支える信頼性の高い先進電源ソリューションが求められている。",
-        "category": "company",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/reliable-power-for-autonomous-defense-vehicles"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-role-of-embedded-processors-in-enabling-smarter-wireless-devices"
         },
         "field": {
-          "primary": "automotive",
-          "device": null,
+          "primary": "analog",
+          "device": "analog",
           "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Wolfspeed Introduces TOLT Package Portfolio",
-        "blurb": "WolfspeedがAI・データセンター向けの新パッケージ「TOLT」を発表。電力密度と熱性能を向上。",
-        "category": "company",
-        "date": "2026-02-06",
+        "title": "Mixer Technology For Advanced Communications, Part 1: Mixer Basics",
+        "blurb": "高度通信向けミキサー技術の基本。役割、一般的なトポロジー、現代的応用におけるI/Qミキサーの使用について解説。",
+        "category": "tools",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wolfspeed-introduces-tolt-package-portfolio"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/mixer-technology-for-advanced-communications-part-1-mixer-basics"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "YbNとの合金化でAlN薄膜の熱伝導率をガラス並みに",
-        "blurb": "早稲田大はYbNとの合金化でAlN薄膜の熱伝導率をガラス並みに低減。断熱材料への応用が期待される。",
-        "category": "company",
-        "date": "2026-02-06",
+        "title": "Securing UALink: Introducing A UALinkSec Security Module",
+        "blurb": "UALinkのセキュリティを強化するUALinkSecセキュリティモジュールが発表されました。ポイントツーポイントアクセラレータリンク向けの専用フレームワークです。",
+        "category": "tools",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/06/news034.html"
-        },
-        "field": null
-      },
-      {
-        "title": "ホンダ、米新興と車載ニューロモルフィックSoCを共同開発",
-        "blurb": "ホンダは米Mythicへ出資し、次世代SDV向けニューロモルフィックSoCを共同開発する。",
-        "category": "company",
-        "date": "2026-02-06",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/06/news035.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/securing-ualink-introducing-a-ualinksec-security-module"
         },
         "field": {
           "primary": "logic",
@@ -307,44 +269,56 @@
         }
       },
       {
-        "title": "R&S expands mid-range spectrum analysis to 44 GHz",
-        "blurb": "ローデ・シュワルツが44GHz対応のスペクトラムアナライザFPL1044と、FPLファミリー向けに40MHzリアルタイム解析オプションを発表しました。",
-        "category": "company",
-        "date": "2026-02-06",
+        "title": "Scaling Ultra-Low-Power Edge Intelligence For Smart Devices",
+        "blurb": "スマートデバイス向け超低消費電力エッジAIのスケーリング。リアルタイムでセンサーデータをソースで処理。",
+        "category": "tools",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rs-expands-mid-range-spectrum-analysis-to-44-ghz"
-        },
-        "field": null
-      },
-      {
-        "title": "Toshiba Samples TB9104FTG Gate Driver",
-        "blurb": "東芝は、車載用DCモーター向けゲートドライバー「TB9104FTG」のサンプル出荷を開始しました。",
-        "category": "company",
-        "date": "2026-02-07",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/toshiba-samples-tb9104ftg-gate-driver"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scaling-ultra-low-power-edge-intelligence-for-smart-devices"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "analog",
+          "device": "analog",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "ST Finalizes Acquisition of NXP MEMS Sensors Business",
-        "blurb": "STマイクロエレクトロニクスがNXPのMEMSセンサー事業買収を完了。車載安全・産業用センサー分野を強化し、グローバルなMEMSポートフォリオを拡充。",
-        "category": "company",
-        "date": "2026-02-07",
+        "title": "Added-conductor and directional audio interconnects: Real-life benefits?",
+        "blurb": "オーディオケーブルの導体数や向きによる音質変化は理論的に意味があるか？実用的なメリットを検証。",
+        "category": "tools",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-finalizes-acquisition-of-nxp-mems-sensors-business"
+          "name": "edn.com",
+          "url": "https://www.edn.com/added-conductor-and-directional-audio-interconnects-real-life-benefits"
+        },
+        "field": null
+      },
+      {
+        "title": "Emerson Updates NI Nigel AI and Expands LabVIEW+ Suite Capabilities",
+        "blurb": "エマーソンがテスト向けAI「NI Nigel AI」を更新し、コード補完機能などを追加。LabVIEW+ Suiteも機能拡張。",
+        "category": "tools",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/emerson-updates-ni-nigel-ai-and-expands-labview-suite-capabilities"
+        },
+        "field": null
+      },
+      {
+        "title": "Melexis Introduces 22-Bit Resolution Encoder for Rotary and Linear Motion",
+        "blurb": "Melexisが22ビット高解像度エンコーダーMLX90520を発表。ロボットや産業用途の回転・直線運動をサブマイクロ秒で検知。",
+        "category": "tools",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/melexis-introduces-22-bit-resolution-encoder-for-rotary-and-linear-motion"
         },
         "field": {
           "primary": "industrial",
@@ -355,14 +329,52 @@
         }
       },
       {
-        "title": "Overview of Interface Dipole Engineering:  Formation Mechanisms, Control Methods, And Emerging Applications (SNU, Sejong U.)",
-        "blurb": "ソウル国立大と世宗大の研究者らが、FETゲート絶縁膜における界面双極子制御技術の原理、手法、応用についてレビューを発表しました。",
-        "category": "company",
-        "date": "2026-02-07",
+        "title": "Pixblasters MINI Converts Addressable RGB LEDs Into Real-Time Video Displays",
+        "blurb": "Pixblasters MINIは、FPGAベースのコントローラーで、アドレス指定可能なRGB LEDをカスタムプログラミングなしでリアルタイムビデオディスプレイに変換します。",
+        "category": "tools",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/overview-of-interface-dipole-engineering-formation-mechanisms-control-methods-and-emerging-applications-snu-sejong-u"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/pixblasters-mini-converts-addressable-rgb-leds-into-real-time-video-displays"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "Microchip Launches MCPF1525 Power Module for AI Data Centers",
+        "blurb": "マイクロチップ、AIデータセンター向けに200A供給可能な小型電源モジュール「MCPF1525」を発表。",
+        "category": "company",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "EPC Starts Volume Production of Gen7 EPC2366 eGaN FET",
+        "blurb": "EPC社が次世代eGaN FET「EPC2366」の量産を開始。シリコンMOSFET比3倍の性能で高効率電源システムに貢献。",
+        "category": "company",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet"
         },
         "field": {
           "primary": "general",
@@ -373,21 +385,81 @@
         }
       },
       {
-        "title": "Comprehensive System-Level Performance Model For p-SRAM-Based IMC (USC, UW-Madison)",
-        "blurb": "USCとウィスコンシン大学マディソン校が、光インメモリコンピューティングのシステムレベル性能モデルを発表。高速・低消費電力化に貢献。",
+        "title": "From Monolithic SoCs To Chiplets: A New Hardware Security Paradigm",
+        "blurb": "チップレット化により、単一の脆弱なチップレットや相互接続の侵害がプラットフォーム全体を脅かす可能性があり、新たなハードウェアセキュリティの課題が生じている。",
         "category": "company",
-        "date": "2026-02-07",
+        "date": "2026-02-05",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/comprehensive-system-level-performance-model-for-psram-based-in-memory-computing"
+          "url": "https://semiengineering.com/from-monolithic-socs-to-chiplets-a-new-hardware-security-paradigm"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
           "market": null,
           "industry": null
+        }
+      },
+      {
+        "title": "TSMCが熊本第2工場で3nm導入へ　CEOが表明",
+        "blurb": "TSMCは熊本第2工場で3nmプロセスを導入するとCEOが表明。2026年2月5日に首相に伝達。",
+        "category": "company",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/06/news047.html"
+        },
+        "field": null
+      },
+      {
+        "title": "堀場製作所がインドの人工ダイヤモンド新興を買収",
+        "blurb": "堀場製作所はインドの人工ダイヤモンド開発企業Pristine Deeptechを買収し、インドを先端材料の研究開発拠点とする。",
+        "category": "company",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news038.html"
+        },
+        "field": null
+      },
+      {
+        "title": "TIがSilicon Labsを75億ドルで買収する理由",
+        "blurb": "TIがSilicon Labsを75億ドルで買収。IoT・エッジAI向け組み込みプロセッサ獲得で競争力強化へ。",
+        "category": "company",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/05/news058.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "AMD Launches Ryzen AI Embedded P100 and X100 With Up to 50 TOPS AI Power",
+        "blurb": "AMDがAI処理能力50TOPSの組み込み向けRyzen AI P100/X100を発表。エッジAI向け。",
+        "category": "company",
+        "date": "2026-02-05",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/amd-launches-ryzen-ai-embedded-p100-and-x100-with-up-to-50-tops-ai-power"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
         }
       }
     ],
