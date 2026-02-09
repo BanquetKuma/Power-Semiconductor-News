@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-02-08T06:08:56.531821+09:00",
+  "generated_at": "2026-02-10T06:16:00.090960+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Overview of Interface Dipole Engineering:  Formation Mechanisms, Control Methods, And Emerging Applications (SNU, Sejong U.)",
-    "summary": "ソウル国立大学と世宗大学の研究者らが、FETゲート絶縁膜における界面双極子制御技術の原理、手法、応用についてレビューを発表しました。",
+    "title": "3D Printing To Create Spatially Freeform, Nanomaterial-based Electronics (Rice, U. of Utah, NUS)",
+    "summary": "ライス大学らがナノ材料ベースの3Dプリント電子デバイスを発表。自由な形状と機能性を実現。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/overview-of-interface-dipole-engineering-formation-mechanisms-control-methods-and-emerging-applications-snu-sejong-u"
+        "url": "https://semiengineering.com/3d-printing-to-create-spatially-freeform-nanomaterial-based-electronics-rice-u-of-utah-nus"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "Overview of Interface Dipole Engineering:  Formation Mechanisms, Control Methods, And Emerging Applications (SNU, Sejong U.)",
-        "blurb": "ソウル国立大学と世宗大学の研究者らが、FETゲート絶縁膜における界面双極子制御技術の原理、手法、応用についてレビューを発表しました。",
-        "category": "company",
-        "date": "2026-02-07",
+        "title": "3D Printing To Create Spatially Freeform, Nanomaterial-based Electronics (Rice, U. of Utah, NUS)",
+        "blurb": "ライス大学らがナノ材料ベースの3Dプリント電子デバイスを発表。自由な形状と機能性を実現。",
+        "category": "tools",
+        "date": "2026-02-10",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/overview-of-interface-dipole-engineering-formation-mechanisms-control-methods-and-emerging-applications-snu-sejong-u"
+          "url": "https://semiengineering.com/3d-printing-to-create-spatially-freeform-nanomaterial-based-electronics-rice-u-of-utah-nus"
         },
         "field": {
           "primary": "general",
@@ -35,7 +36,25 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Research Bits: Feb. 9",
+        "blurb": "半導体技術の研究開発動向。熱を利用したコンピューティング、TMDC結晶成長の観測、ファイバーチップ技術などが紹介された。",
+        "category": "business",
+        "date": "2026-02-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-feb-9"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

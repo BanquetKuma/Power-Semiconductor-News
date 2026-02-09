@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-06T06:10:22.869064+09:00",
+  "generated_at": "2026-02-10T06:16:00.090168+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Microchip Launches MCPF1525 Power Module for AI Data Centers",
-    "summary": "マイクロチップ、AIデータセンター向けに200A供給可能な小型電源モジュール「MCPF1525」を発表。",
+    "title": "Silicon Photonics In The Data Center: What A CMOS Exec Needs To Know",
+    "summary": "データセンターでシリコンフォトニクスが銅線に取って代わる。TSMCが首位に躍り出る可能性。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/silicon-photonics-in-the-data-center-what-a-cmos-exec-needs-to-know"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Microchip Launches MCPF1525 Power Module for AI Data Centers",
-        "blurb": "マイクロチップ、AIデータセンター向けに200A供給可能な小型電源モジュール「MCPF1525」を発表。",
+        "title": "ST、AWSと数十億ドルの契約締結 AIデータセンター分野など",
+        "blurb": "STマイクロエレクトロニクスはAWSとAIデータセンター分野などで複数年にわたる数十億ドル規模の契約を締結した。",
         "category": "company",
-        "date": "2026-02-05",
+        "date": "2026-02-09",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/09/news111.html"
         },
         "field": {
           "primary": "datacenter",
@@ -36,6 +36,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Silicon Photonics In The Data Center: What A CMOS Exec Needs To Know",
+        "blurb": "データセンターでシリコンフォトニクスが銅線に取って代わる。TSMCが首位に躍り出る可能性。",
+        "category": "business",
+        "date": "2026-02-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/silicon-photonics-in-the-data-center-what-a-cmos-exec-needs-to-know"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": "foundry"
+        }
+      }
+    ]
   }
 }
