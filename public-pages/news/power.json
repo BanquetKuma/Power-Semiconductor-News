@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-10T06:16:00.089236+09:00",
+  "generated_at": "2026-02-11T06:18:06.644790+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Inside 2025’s SiC Power Module Innovations, Part 1",
-    "summary": "2025年のSiCパワーモジュール革新に関する記事。11の製品リリースを2部構成で紹介する。",
+    "title": "Navitas Introduces All-GaN DC-DC Platform for 800V Data Centers",
+    "summary": "NavitasがAIデータセンター向け800V対応GaN DC-DCプラットフォームを発表。高効率で電力供給を強化。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-1"
+        "url": "https://www.powerelectronicsnews.com/navitas-introduces-all-gan-dc-dc-platform-for-800v-data-centers"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "InfineonのSiC、トヨタの新型「bZ4X」に採用",
-        "blurb": "インフィニオンのSiC MOSFETがトヨタ新型bZ4Xに採用。航続距離延伸と充電時間短縮に貢献。",
+        "title": "産総研とホンダ、ダイヤモンド半導体の研究開発拠点",
+        "blurb": "産総研とホンダが、次世代パワー半導体「ダイヤモンド半導体」の研究開発拠点を設立。モビリティ応用を目指す。",
         "category": "company",
-        "date": "2026-02-09",
+        "date": "2026-02-10",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/09/news116.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/10/news040.html"
         },
         "field": {
           "primary": "power",
@@ -38,14 +38,14 @@
     "tech": [],
     "market": [
       {
-        "title": "Chip Industry Technical Paper Roundup: Feb. 9",
-        "blurb": "半導体業界の技術論文まとめ。量子フォトニクス、マルチコア、HWバックドア、DRAMキャパシタ等。",
+        "title": "Addressing next-generation AI infrastructure with software-defined GaN power architectures",
+        "blurb": "次世代AIインフラ向けに、ソフトウェア定義GaNパワーアーキテクチャを発表。データセンターの効率化に貢献。",
         "category": "business",
-        "date": "2026-02-09",
+        "date": "2026-02-10",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-feb-9"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/addressing-next-generation-ai-infrastructure-with-software-defined-gan-power-architectures"
         },
         "field": {
           "primary": "power",
@@ -57,7 +57,7 @@
       },
       {
         "title": "Inside 2025’s SiC Power Module Innovations, Part 1",
-        "blurb": "2025年のSiCパワーモジュール革新に関する記事。11の製品リリースを2部構成で紹介する。",
+        "blurb": "2025年に発表されるSiCパワーモジュールの革新について、11の製品リリースを2回に分けて解説する。",
         "category": "business",
         "date": "2026-02-10",
         "stars": 3,
@@ -70,6 +70,24 @@
           "device": "power",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Navitas Introduces All-GaN DC-DC Platform for 800V Data Centers",
+        "blurb": "NavitasがAIデータセンター向け800V対応GaN DC-DCプラットフォームを発表。高効率で電力供給を強化。",
+        "category": "business",
+        "date": "2026-02-11",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/navitas-introduces-all-gan-dc-dc-platform-for-800v-data-centers"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "datacenter",
           "industry": null
         }
       }

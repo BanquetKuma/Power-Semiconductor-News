@@ -1,59 +1,41 @@
 {
-  "generated_at": "2026-02-06T06:10:22.868550+09:00",
+  "generated_at": "2026-02-11T06:18:06.645377+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Role Of Embedded Processors In Enabling Smarter Wireless Devices",
-    "summary": "組み込みプロセッサは、プロトコル管理、リアルタイム判断、オンデバイスAI、センサーフュージョンにより、無線デバイスの知能化を推進する。",
+    "title": "Infineon Acquires ams Osram's Non-Optical Sensor Portfolio",
+    "summary": "インフィニオンがams OSRAMの非光学センサー事業を5億7000万ユーロで買収。車載・産業・医療分野での強化を目指す。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/the-role-of-embedded-processors-in-enabling-smarter-wireless-devices"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/infineon-acquires-ams-osrams-non-optical-sensor-portfolio"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "The Role Of Embedded Processors In Enabling Smarter Wireless Devices",
-        "blurb": "組み込みプロセッサは、プロトコル管理、リアルタイム判断、オンデバイスAI、センサーフュージョンにより、無線デバイスの知能化を推進する。",
-        "category": "tools",
-        "date": "2026-02-05",
+        "title": "Infineon Acquires ams Osram's Non-Optical Sensor Portfolio",
+        "blurb": "インフィニオンがams OSRAMの非光学センサー事業を5億7000万ユーロで買収。車載・産業・医療分野での強化を目指す。",
+        "category": "company",
+        "date": "2026-02-10",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-role-of-embedded-processors-in-enabling-smarter-wireless-devices"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/infineon-acquires-ams-osrams-non-optical-sensor-portfolio"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Scaling Ultra-Low-Power Edge Intelligence For Smart Devices",
-        "blurb": "スマートデバイス向け超低消費電力エッジAIのスケーリング。リアルタイムでセンサーデータをソースで処理。",
-        "category": "tools",
-        "date": "2026-02-05",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scaling-ultra-low-power-edge-intelligence-for-smart-devices"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

@@ -1,31 +1,104 @@
 {
-  "generated_at": "2026-02-10T06:16:00.090960+09:00",
+  "generated_at": "2026-02-11T06:18:06.646982+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "3D Printing To Create Spatially Freeform, Nanomaterial-based Electronics (Rice, U. of Utah, NUS)",
-    "summary": "ライス大学らがナノ材料ベースの3Dプリント電子デバイスを発表。自由な形状と機能性を実現。",
+    "stars": 4,
+    "title": "Cadence Unveils AI Agent to Accelerate Chip Design",
+    "summary": "Cadenceは、チップ設計・検証を自動化するAIエージェント「ChipStack AI Super Agent」を発表。生産性を10倍向上させる。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/3d-printing-to-create-spatially-freeform-nanomaterial-based-electronics-rice-u-of-utah-nus"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/cadence-unveils-ai-agent-to-accelerate-chip-design"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "Cadence Unveils AI Agent to Accelerate Chip Design",
+        "blurb": "Cadenceは、チップ設計・検証を自動化するAIエージェント「ChipStack AI Super Agent」を発表。生産性を10倍向上させる。",
+        "category": "company",
+        "date": "2026-02-11",
+        "stars": 4,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/cadence-unveils-ai-agent-to-accelerate-chip-design"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AFMTJ Model For In-Memory Computing (University of Arizona)",
+        "blurb": "アリゾナ大学の研究者が、インメモリコンピューティング向けAFMTJモデルを発表。ピコ秒スイッチングとフェムトジュール書き込みを実現し、既存技術より大幅な低消費電力を達成。",
+        "category": "company",
+        "date": "2026-02-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/afmtj-model-for-in-memory-computing-university-of-arizona"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
-        "title": "3D Printing To Create Spatially Freeform, Nanomaterial-based Electronics (Rice, U. of Utah, NUS)",
-        "blurb": "ライス大学らがナノ材料ベースの3Dプリント電子デバイスを発表。自由な形状と機能性を実現。",
+        "title": "Beyond Optical: A New E-Beam Inspection For Advanced Chips",
+        "blurb": "最先端チップの隠れた欠陥を高速検出する新電子線検査技術が登場。歩留まり向上に貢献。",
         "category": "tools",
         "date": "2026-02-10",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/3d-printing-to-create-spatially-freeform-nanomaterial-based-electronics-rice-u-of-utah-nus"
+          "url": "https://semiengineering.com/beyond-optical-a-new-e-beam-inspection-for-advanced-chips"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The Surface Metrology Decision Guide",
+        "blurb": "表面測定技術の比較ガイド。白色干渉計に注目し、用途に応じた最適な手法選択を実用的に解説。",
+        "category": "tools",
+        "date": "2026-02-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-surface-metrology-decision-guide"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Picosecond Ultrasonics: An Advanced Technology Utilized for Process Control of SiCr Thin Film Resistors",
+        "blurb": "ピコ秒超音波技術は、SiCr薄膜抵抗器の厚さ測定で高い再現性と微細な変動への感度を示し、プロセス制御に貢献。",
+        "category": "tools",
+        "date": "2026-02-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/picosecond-ultrasonics-an-advanced-technology-utilized-for-process-control-of-sicr-thin-film-resistors"
         },
         "field": {
           "primary": "general",
@@ -38,14 +111,86 @@
     ],
     "market": [
       {
-        "title": "Research Bits: Feb. 9",
-        "blurb": "半導体技術の研究開発動向。熱を利用したコンピューティング、TMDC結晶成長の観測、ファイバーチップ技術などが紹介された。",
+        "title": "Catching Critical Defects In TSVs And Stacked Chips",
+        "blurb": "先端パッケージのチップレット間ばらつきが課題。AI活用でTSVや積層チップの欠陥検出を支援。",
         "category": "business",
-        "date": "2026-02-09",
+        "date": "2026-02-10",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-feb-9"
+          "url": "https://semiengineering.com/catching-critical-defects-in-tsvs-and-stacked-chips"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Resistance In Advanced Packages Is Now A System-Level Problem",
+        "blurb": "先端パッケージにおける抵抗値の微細な変化測定が、システムレベルの問題となっている。",
+        "category": "business",
+        "date": "2026-02-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/resistance-in-advanced-packages-is-now-a-system-level-problem"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Are You Using Structural Patterns In An SLT Environment?",
+        "blurb": "高度な故障モデルを用いた構造パターンは、テストカバレッジ向上、欠陥検出改善、高収率シリコンを実現する。",
+        "category": "business",
+        "date": "2026-02-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/are-you-using-structural-patterns-in-an-slt-environment"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chiplets Add More Inspection And Test Steps",
+        "blurb": "チップレット化により、マルチダイアセンブリの歩留まり向上のため、検査・テスト工程が複雑化。",
+        "category": "business",
+        "date": "2026-02-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chiplets-add-more-inspection-and-test-steps"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "25年の世界半導体市場、7917億ドルで過去最高に",
+        "blurb": "2025年の世界半導体市場は前年比25.6%増の7917億ドルで過去最高を記録した。",
+        "category": "business",
+        "date": "2026-02-10",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/10/news061.html"
         },
         "field": {
           "primary": "general",

@@ -1,30 +1,32 @@
 {
-  "generated_at": "2026-02-10T06:16:00.090168+09:00",
+  "generated_at": "2026-02-11T06:18:06.645926+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Silicon Photonics In The Data Center: What A CMOS Exec Needs To Know",
-    "summary": "データセンターでシリコンフォトニクスが銅線に取って代わる。TSMCが首位に躍り出る可能性。",
+    "title": "AI普及で電力が足りない　テック企業の電力会社投資が加速",
+    "summary": "AI普及でデータセンターの電力消費が深刻化。テック企業は電力会社への投資を加速させている。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/silicon-photonics-in-the-data-center-what-a-cmos-exec-needs-to-know"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/10/news079.html"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "ST、AWSと数十億ドルの契約締結 AIデータセンター分野など",
-        "blurb": "STマイクロエレクトロニクスはAWSとAIデータセンター分野などで複数年にわたる数十億ドル規模の契約を締結した。",
-        "category": "company",
-        "date": "2026-02-09",
+        "title": "AI普及で電力が足りない　テック企業の電力会社投資が加速",
+        "blurb": "AI普及でデータセンターの電力消費が深刻化。テック企業は電力会社への投資を加速させている。",
+        "category": "business",
+        "date": "2026-02-10",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/09/news111.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/10/news079.html"
         },
         "field": {
           "primary": "datacenter",
@@ -32,27 +34,6 @@
           "process": null,
           "market": "datacenter",
           "industry": null
-        }
-      }
-    ],
-    "tech": [],
-    "market": [
-      {
-        "title": "Silicon Photonics In The Data Center: What A CMOS Exec Needs To Know",
-        "blurb": "データセンターでシリコンフォトニクスが銅線に取って代わる。TSMCが首位に躍り出る可能性。",
-        "category": "business",
-        "date": "2026-02-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/silicon-photonics-in-the-data-center-what-a-cmos-exec-needs-to-know"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": "foundry"
         }
       }
     ]
