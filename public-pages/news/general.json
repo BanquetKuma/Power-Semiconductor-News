@@ -1,39 +1,21 @@
 {
-  "generated_at": "2026-02-11T06:18:06.646982+09:00",
+  "generated_at": "2026-02-12T06:14:35.289542+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "Cadence Unveils AI Agent to Accelerate Chip Design",
-    "summary": "Cadenceは、チップ設計・検証を自動化するAIエージェント「ChipStack AI Super Agent」を発表。生産性を10倍向上させる。",
+    "stars": 3,
+    "title": "Neuromorphic HW That Detects Motion Changes 4X Faster (Beihang, BIT, KAUST, Cambridge et al.)",
+    "summary": "新型ニューロモルフィックHWは、人間の能力を超える速度で動きの変化を検知。網膜と外側膝状体の相互作用を模倣。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/cadence-unveils-ai-agent-to-accelerate-chip-design"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/neuromorphic-hw-that-detects-motion-changes-4x-faster-beihang-bit-kaust-cambridge-et-al"
       }
     ]
   },
   "sections": {
     "news": [
-      {
-        "title": "Cadence Unveils AI Agent to Accelerate Chip Design",
-        "blurb": "Cadenceは、チップ設計・検証を自動化するAIエージェント「ChipStack AI Super Agent」を発表。生産性を10倍向上させる。",
-        "category": "company",
-        "date": "2026-02-11",
-        "stars": 4,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/cadence-unveils-ai-agent-to-accelerate-chip-design"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
       {
         "title": "AFMTJ Model For In-Memory Computing (University of Arizona)",
         "blurb": "アリゾナ大学の研究者が、インメモリコンピューティング向けAFMTJモデルを発表。ピコ秒スイッチングとフェムトジュール書き込みを実現し、既存技術より大幅な低消費電力を達成。",
@@ -51,18 +33,54 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Cadence Unveils AI Agent to Accelerate Chip Design",
+        "blurb": "Cadenceが、チップ設計・検証を自動化し生産性を10倍向上させるAIエージェント「ChipStack AI Super Agent」を発表しました。",
+        "category": "company",
+        "date": "2026-02-11",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/cadence-unveils-ai-agent-to-accelerate-chip-design"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Empower Unveils High-Density Silicon Capacitors",
+        "blurb": "Empower SemiconductorがAI・HPC向け高密度シリコンキャパシタを発表。小型で高容量密度を実現し、AIプロセッサの性能向上に対応。",
+        "category": "company",
+        "date": "2026-02-12",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/empower-unveils-high-density-silicon-capacitors"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "tech": [
       {
-        "title": "Beyond Optical: A New E-Beam Inspection For Advanced Chips",
-        "blurb": "最先端チップの隠れた欠陥を高速検出する新電子線検査技術が登場。歩留まり向上に貢献。",
+        "title": "Simulate Faster with SimAI Software for High Returns at a Low Cost of Ownership",
+        "blurb": "SimAIソフトウェアは、大規模シミュレーションを最大300倍高速化し、低コストで高い投資対効果を実現します。",
         "category": "tools",
-        "date": "2026-02-10",
+        "date": "2026-02-11",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beyond-optical-a-new-e-beam-inspection-for-advanced-chips"
+          "url": "https://semiengineering.com/simulate-faster-with-simai-software-for-high-returns-at-a-low-cost-of-ownership"
         },
         "field": {
           "primary": "general",
@@ -73,32 +91,14 @@
         }
       },
       {
-        "title": "The Surface Metrology Decision Guide",
-        "blurb": "表面測定技術の比較ガイド。白色干渉計に注目し、用途に応じた最適な手法選択を実用的に解説。",
+        "title": "Neuromorphic HW That Detects Motion Changes 4X Faster (Beihang, BIT, KAUST, Cambridge et al.)",
+        "blurb": "新型ニューロモルフィックHWは、人間の能力を超える速度で動きの変化を検知。網膜と外側膝状体の相互作用を模倣。",
         "category": "tools",
-        "date": "2026-02-10",
+        "date": "2026-02-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-surface-metrology-decision-guide"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Picosecond Ultrasonics: An Advanced Technology Utilized for Process Control of SiCr Thin Film Resistors",
-        "blurb": "ピコ秒超音波技術は、SiCr薄膜抵抗器の厚さ測定で高い再現性と微細な変動への感度を示し、プロセス制御に貢献。",
-        "category": "tools",
-        "date": "2026-02-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/picosecond-ultrasonics-an-advanced-technology-utilized-for-process-control-of-sicr-thin-film-resistors"
+          "url": "https://semiengineering.com/neuromorphic-hw-that-detects-motion-changes-4x-faster-beihang-bit-kaust-cambridge-et-al"
         },
         "field": {
           "primary": "general",
@@ -111,86 +111,14 @@
     ],
     "market": [
       {
-        "title": "Catching Critical Defects In TSVs And Stacked Chips",
-        "blurb": "先端パッケージのチップレット間ばらつきが課題。AI活用でTSVや積層チップの欠陥検出を支援。",
+        "title": "Future-Proofing System Design",
+        "blurb": "AI、異種統合、セキュリティ強化がシステム設計の優先順位を変革。将来を見据えた設計が重要に。",
         "category": "business",
-        "date": "2026-02-10",
+        "date": "2026-02-11",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/catching-critical-defects-in-tsvs-and-stacked-chips"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Resistance In Advanced Packages Is Now A System-Level Problem",
-        "blurb": "先端パッケージにおける抵抗値の微細な変化測定が、システムレベルの問題となっている。",
-        "category": "business",
-        "date": "2026-02-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/resistance-in-advanced-packages-is-now-a-system-level-problem"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Are You Using Structural Patterns In An SLT Environment?",
-        "blurb": "高度な故障モデルを用いた構造パターンは、テストカバレッジ向上、欠陥検出改善、高収率シリコンを実現する。",
-        "category": "business",
-        "date": "2026-02-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/are-you-using-structural-patterns-in-an-slt-environment"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chiplets Add More Inspection And Test Steps",
-        "blurb": "チップレット化により、マルチダイアセンブリの歩留まり向上のため、検査・テスト工程が複雑化。",
-        "category": "business",
-        "date": "2026-02-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chiplets-add-more-inspection-and-test-steps"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "25年の世界半導体市場、7917億ドルで過去最高に",
-        "blurb": "2025年の世界半導体市場は前年比25.6%増の7917億ドルで過去最高を記録した。",
-        "category": "business",
-        "date": "2026-02-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/10/news061.html"
+          "url": "https://semiengineering.com/future-proofing-system-design"
         },
         "field": {
           "primary": "general",

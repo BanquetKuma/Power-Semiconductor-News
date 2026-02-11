@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-11T06:18:10.880541+09:00",
-  "date": "2026-02-11",
+  "generated_at": "2026-02-12T06:14:39.823472+09:00",
+  "date": "2026-02-12",
   "meta_trends": [
     {
-      "name": "AI・データセンター向け高効率パワー半導体",
+      "name": "AI・データセンター向け電力効率向上",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -11,147 +11,155 @@
         "datacenter",
         "ai"
       ],
-      "summary": "AI需要増大に伴い、データセンターの電力効率向上が急務。GaNやSiCなどの次世代パワー半導体技術が注目されている。",
+      "summary": "AI需要増大に伴い、データセンターの電力消費が深刻化。GaN、SiC、HVDC技術による電力効率向上が急務となっている。",
       "analysis": {
-        "short_term": "GaN/SiC採用加速、関連企業に追い風。",
-        "mid_term": "技術進化とコスト低減で市場拡大。",
-        "investment_implications": "高効率パワー半導体メーカーに注目。"
+        "short_term": "GaN/SiC関連技術・製品への注目高まる。",
+        "mid_term": "データセンターインフラ投資が加速し、関連半導体需要増。",
+        "investment_implications": "電力効率技術を持つ企業に投資妙味。"
       },
       "keywords": [
-        "GaN",
-        "SiC",
         "AI",
         "データセンター",
+        "GaN",
+        "SiC",
         "電力効率"
       ],
       "companies_mentioned": [
         "Navitas",
-        "Infineon",
+        "Wise Integration",
         "STマイクロエレクトロニクス",
-        "EPC"
+        "Infineon",
+        "AWS"
       ]
     },
     {
-      "name": "EV・車載向け半導体の高性能化・信頼性向上",
+      "name": "EV向けパワー半導体需要拡大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
         "power",
-        "logic",
-        "analog"
+        "automotive"
       ],
-      "summary": "EVの普及と自動運転技術の進化により、車載用パワー半導体、センサー、マイコンの高性能化・信頼性向上が求められている。",
+      "summary": "EVの普及に伴い、SiC（炭化ケイ素）などの次世代パワー半導体の需要が拡大。航続距離延長や充電時間短縮に貢献。",
       "analysis": {
-        "short_term": "SiC/GaN採用拡大、ADAS向けIC需要増。",
-        "mid_term": "次世代EV・自動運転向け新技術開発活発。",
-        "investment_implications": "車載半導体メーカー、特にSiC/GaN関連に期待。"
+        "short_term": "SiCデバイスの採用事例が増加傾向。",
+        "mid_term": "EV市場成長と共にSiC市場も拡大。",
+        "investment_implications": "SiCサプライヤーへの投資が有望。"
       },
       "keywords": [
         "EV",
         "SiC",
-        "GaN",
-        "ADAS",
-        "車載マイコン",
-        "センサー"
+        "パワー半導体",
+        "自動車"
       ],
       "companies_mentioned": [
-        "Infineon",
-        "東芝",
-        "STマイクロエレクトロニクス",
         "RIR",
-        "Diodes"
+        "Infineon",
+        "トヨタ",
+        "東芝",
+        "産総研",
+        "ホンダ"
       ]
     },
     {
-      "name": "先端パッケージングとチップレット化の進展",
+      "name": "半導体市場の回復と成長",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "backend",
+        "memory",
         "logic",
-        "datacenter"
+        "foundry",
+        "idm"
       ],
-      "summary": "チップレット技術の採用が進み、先端パッケージングにおける検査・テスト工程の複雑化と歩留まり向上が課題となっている。",
+      "summary": "2025-2026年にかけて半導体市場は過去最高を更新する見込み。特にメモリ市場はAI需要で大幅な成長が予測される。",
       "analysis": {
-        "short_term": "チップレット関連技術・装置への関心高まる。",
-        "mid_term": "歩留まり向上技術が市場競争力を左右。",
-        "investment_implications": "先端パッケージング技術・装置メーカーに注目。"
+        "short_term": "メモリ価格の上昇傾向が顕著。",
+        "mid_term": "市場全体の回復基調が続く見込み。",
+        "investment_implications": "メモリ関連企業への投資機会。"
       },
       "keywords": [
-        "チップレット",
-        "先端パッケージング",
-        "TSV",
-        "検査・テスト"
+        "半導体市場",
+        "メモリ",
+        "AI需要",
+        "成長"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "ソニー"
+      ]
     },
     {
-      "name": "インメモリコンピューティングと省電力化",
+      "name": "システム設計におけるAI・セキュリティ強化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "logic",
-        "datacenter",
-        "ai"
+        "ai",
+        "industrial",
+        "automotive",
+        "general"
       ],
-      "summary": "インメモリコンピューティング技術により、大幅な低消費電力化と高速処理が期待され、AIやHPC分野での応用が注目されている。",
+      "summary": "AI、異種統合、セキュリティ強化がシステム設計の最優先事項に。設計段階での検証・対策が重要視されている。",
       "analysis": {
-        "short_term": "研究開発段階だが、将来的なインパクト大。",
-        "mid_term": "実用化に向けた技術開発・標準化が進む。",
-        "investment_implications": "次世代コンピューティング関連技術に注目。"
+        "short_term": "AI活用による設計・検証ツールの需要増。",
+        "mid_term": "高度なセキュリティ機能を持つSoCの需要増。",
+        "investment_implications": "AI・セキュリティ関連技術企業に注目。"
       },
       "keywords": [
-        "インメモリコンピューティング",
-        "省電力",
         "AI",
-        "HPC"
+        "システム設計",
+        "セキュリティ",
+        "SoC",
+        "検証"
       ],
       "companies_mentioned": [
-        "University of Arizona"
+        "STマイクロエレクトロニクス",
+        "U. of Florida",
+        "フロリダ大学"
       ]
     },
     {
-      "name": "半導体製造における検査・測定技術の高度化",
+      "name": "次世代コンピューティング技術",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "backend",
-        "equipment",
-        "foundry"
+        "logic",
+        "ai",
+        "general",
+        "datacenter"
       ],
-      "summary": "微細化・複雑化する半導体製造プロセスにおいて、欠陥検出やプロセス制御のための高度な検査・測定技術が不可欠となっている。",
+      "summary": "ニューロモルフィック、インメモリコンピューティングなど、AI処理を高速化・低消費電力化する新技術が登場。",
       "analysis": {
-        "short_term": "電子線検査、超音波測定などの新技術が注目。",
-        "mid_term": "歩留まり向上に貢献する技術が競争優位に。",
-        "investment_implications": "検査・測定装置メーカーの技術力に注目。"
+        "short_term": "研究開発段階の新技術に注目が集まる。",
+        "mid_term": "実用化に向けた技術開発が進展。",
+        "investment_implications": "革新的コンピューティング技術企業に投資妙味。"
       },
       "keywords": [
-        "検査技術",
-        "測定技術",
-        "歩留まり向上",
-        "電子線検査",
-        "超音波測定"
+        "ニューロモルフィック",
+        "インメモリコンピューティング",
+        "AI",
+        "低消費電力"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Beihang",
+        "BIT",
+        "KAUST",
+        "Cambridge",
+        "University of Arizona"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要によるメモリ・データセンター向け半導体市場の急成長予測",
-      "EV普及に伴う車載半導体市場の堅調な拡大",
-      "次世代パワー半導体（SiC/GaN）の採用加速"
+      "AI需要によるメモリ市場の急成長予測",
+      "EV普及に伴うパワー半導体需要の拡大",
+      "データセンター投資の加速"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "先端ロジック半導体における技術開発競争の激化と設備投資負担増"
+      "ヒューマノイドロボットの本格導入の遅延予測"
     ],
     "neutral": [
-      "半導体市場全体の景気循環",
-      "先端パッケージングにおける歩留まり改善の必要性"
+      "半導体市場全体の回復基調"
     ]
   },
-  "source_count": 36
+  "source_count": 35
 }
