@@ -1,165 +1,155 @@
 {
-  "generated_at": "2026-02-12T06:14:39.823472+09:00",
-  "date": "2026-02-12",
+  "generated_at": "2026-02-13T06:11:49.194360+09:00",
+  "date": "2026-02-13",
   "meta_trends": [
     {
-      "name": "AI・データセンター向け電力効率向上",
+      "name": "AIインフラ向け高効率パワー半導体",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "datacenter",
-        "ai"
+        "ai",
+        "datacenter"
       ],
-      "summary": "AI需要増大に伴い、データセンターの電力消費が深刻化。GaN、SiC、HVDC技術による電力効率向上が急務となっている。",
+      "summary": "AIデータセンターの電力消費増大に対応するため、GaNやSiCを用いた高効率なDC-DCコンバータやパワーアーキテクチャが急速に進化・採用されている。",
       "analysis": {
-        "short_term": "GaN/SiC関連技術・製品への注目高まる。",
-        "mid_term": "データセンターインフラ投資が加速し、関連半導体需要増。",
-        "investment_implications": "電力効率技術を持つ企業に投資妙味。"
+        "short_term": "需要増でGaN/SiC製品の供給逼迫が続く可能性。",
+        "mid_term": "次世代データセンター標準として定着へ。",
+        "investment_implications": "高効率パワー半導体メーカーに注目。"
       },
       "keywords": [
-        "AI",
-        "データセンター",
         "GaN",
         "SiC",
+        "AI",
+        "データセンター",
         "電力効率"
       ],
       "companies_mentioned": [
         "Navitas",
         "Wise Integration",
-        "STマイクロエレクトロニクス",
-        "Infineon",
-        "AWS"
+        "STMicroelectronics",
+        "Infineon"
       ]
     },
     {
-      "name": "EV向けパワー半導体需要拡大",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "automotive"
-      ],
-      "summary": "EVの普及に伴い、SiC（炭化ケイ素）などの次世代パワー半導体の需要が拡大。航続距離延長や充電時間短縮に貢献。",
-      "analysis": {
-        "short_term": "SiCデバイスの採用事例が増加傾向。",
-        "mid_term": "EV市場成長と共にSiC市場も拡大。",
-        "investment_implications": "SiCサプライヤーへの投資が有望。"
-      },
-      "keywords": [
-        "EV",
-        "SiC",
-        "パワー半導体",
-        "自動車"
-      ],
-      "companies_mentioned": [
-        "RIR",
-        "Infineon",
-        "トヨタ",
-        "東芝",
-        "産総研",
-        "ホンダ"
-      ]
-    },
-    {
-      "name": "半導体市場の回復と成長",
-      "confidence": 0.85,
+      "name": "AI向け高性能メモリ需要拡大",
+      "confidence": 0.92,
       "momentum": "rising",
       "related_fields": [
         "memory",
-        "logic",
-        "foundry",
-        "idm"
+        "ai",
+        "datacenter"
       ],
-      "summary": "2025-2026年にかけて半導体市場は過去最高を更新する見込み。特にメモリ市場はAI需要で大幅な成長が予測される。",
+      "summary": "AI推論や学習に必要なHBM（High Bandwidth Memory）の需要が急増しており、Samsungなどが量産・出荷を開始し、市場を牽引している。",
       "analysis": {
-        "short_term": "メモリ価格の上昇傾向が顕著。",
-        "mid_term": "市場全体の回復基調が続く見込み。",
-        "investment_implications": "メモリ関連企業への投資機会。"
+        "short_term": "HBM4の供給体制構築と価格上昇が続く。",
+        "mid_term": "メモリ技術の多様化と性能向上が加速。",
+        "investment_implications": "HBM関連企業への投資妙味大。"
       },
       "keywords": [
-        "半導体市場",
+        "HBM",
+        "AI",
         "メモリ",
-        "AI需要",
-        "成長"
+        "Samsung",
+        "DRAM"
       ],
       "companies_mentioned": [
-        "ソニー"
+        "Samsung",
+        "Sony"
       ]
     },
     {
-      "name": "システム設計におけるAI・セキュリティ強化",
-      "confidence": 0.8,
+      "name": "車載半導体のAI・高機能化",
+      "confidence": 0.88,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "ai",
+        "logic",
+        "power"
+      ],
+      "summary": "自動運転や電動化の進展に伴い、NPU搭載マイコンやSiCパワー半導体の採用が進み、車載システムのAI活用と高効率化が進んでいる。",
+      "analysis": {
+        "short_term": "EV向けSiC採用拡大と車載AIチップ開発競争激化。",
+        "mid_term": "自動運転レベル向上でECU統合が進む。",
+        "investment_implications": "車載半導体メーカーの動向を注視。"
+      },
+      "keywords": [
+        "車載",
+        "AI",
+        "NPU",
+        "SiC",
+        "EV"
+      ],
+      "companies_mentioned": [
+        "STMicroelectronics",
+        "Infineon",
+        "Toyota",
+        "Honda"
+      ]
+    },
+    {
+      "name": "チップレット・3D-ICの普及と課題",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "logic",
-        "ai",
-        "industrial",
-        "automotive",
-        "general"
+        "frontend",
+        "backend",
+        "foundry"
       ],
-      "summary": "AI、異種統合、セキュリティ強化がシステム設計の最優先事項に。設計段階での検証・対策が重要視されている。",
+      "summary": "高性能化・低コスト化のためチップレットや3D-IC技術が注目されているが、設計・製造・テストにおける新たな電気的・機械的課題が生じている。",
       "analysis": {
-        "short_term": "AI活用による設計・検証ツールの需要増。",
-        "mid_term": "高度なセキュリティ機能を持つSoCの需要増。",
-        "investment_implications": "AI・セキュリティ関連技術企業に注目。"
+        "short_term": "UCIe規格の整備が進み、エコシステム拡大へ。",
+        "mid_term": "歩留まり向上とコスト削減が普及の鍵。",
+        "investment_implications": "先進パッケージング技術を持つ企業に注目。"
       },
       "keywords": [
-        "AI",
-        "システム設計",
-        "セキュリティ",
-        "SoC",
-        "検証"
+        "チップレット",
+        "3D-IC",
+        "UCIe",
+        "パッケージング"
       ],
-      "companies_mentioned": [
-        "STマイクロエレクトロニクス",
-        "U. of Florida",
-        "フロリダ大学"
-      ]
+      "companies_mentioned": []
     },
     {
-      "name": "次世代コンピューティング技術",
+      "name": "半導体サプライチェーンの地域分散化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "ai",
-        "general",
-        "datacenter"
+        "geopolitics",
+        "foundry",
+        "memory"
       ],
-      "summary": "ニューロモルフィック、インメモリコンピューティングなど、AI処理を高速化・低消費電力化する新技術が登場。",
+      "summary": "地政学リスクの高まりを受け、欧州などでの半導体製造拠点設立の動きが活発化しており、サプライチェーンの地域分散化が進む可能性がある。",
       "analysis": {
-        "short_term": "研究開発段階の新技術に注目が集まる。",
-        "mid_term": "実用化に向けた技術開発が進展。",
-        "investment_implications": "革新的コンピューティング技術企業に投資妙味。"
+        "short_term": "欧州でのメモリ新興企業の動向が注目される。",
+        "mid_term": "各国政府の支援策がサプライチェーン再編を加速。",
+        "investment_implications": "地域分散化の恩恵を受ける企業を検討。"
       },
       "keywords": [
-        "ニューロモルフィック",
-        "インメモリコンピューティング",
-        "AI",
-        "低消費電力"
+        "サプライチェーン",
+        "欧州",
+        "メモリ",
+        "地政学"
       ],
-      "companies_mentioned": [
-        "Beihang",
-        "BIT",
-        "KAUST",
-        "Cambridge",
-        "University of Arizona"
-      ]
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要によるメモリ市場の急成長予測",
-      "EV普及に伴うパワー半導体需要の拡大",
-      "データセンター投資の加速"
+      "AI需要によるメモリ・GPU市場の急成長予測",
+      "データセンター向け高効率パワー半導体の需要増",
+      "EV市場の拡大に伴う車載半導体需要の堅調さ"
     ],
     "bearish": [
-      "ヒューマノイドロボットの本格導入の遅延予測"
+      "DRAM不足による価格高騰と供給制約",
+      "半導体製造装置の設備投資サイクルの不確実性"
     ],
     "neutral": [
-      "半導体市場全体の回復基調"
+      "チップレット・3D-IC技術の標準化と普及",
+      "地政学リスクによるサプライチェーンの変動"
     ]
   },
-  "source_count": 35
+  "source_count": 37
 }

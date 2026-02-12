@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-02-12T06:14:35.288307+09:00",
+  "generated_at": "2026-02-13T06:11:44.397064+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Microchip Expands Full-Stack Edge AI Solutions",
-    "summary": "マイクロチップ、エッジAI開発を簡素化するフルスタックソリューションを発表。シリコン、ソフト、ツールを統合。",
+    "title": "Minimum Energy Per Query",
+    "summary": "AIチップのエネルギー効率は、ソフトウェアからチップ設計まで影響する。有用な処理に使われるエネルギー量を問う。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/microchip-expands-full-stack-edge-ai-solutions"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/minimum-energy-per-query"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Microchip Expands Full-Stack Edge AI Solutions",
-        "blurb": "マイクロチップ、エッジAI開発を簡素化するフルスタックソリューションを発表。シリコン、ソフト、ツールを統合。",
-        "category": "business",
-        "date": "2026-02-11",
+        "title": "Avalue ECM-ASL3 3.5-Inch SBC Supports Intel Alder Lake-N and Amston Lake SoCs",
+        "blurb": "AvalueがIntel Alder Lake-N/Amston Lake SoC対応の産業用PC「ECM-ASL3」を発表。エッジAI用途に最適。",
+        "category": "company",
+        "date": "2026-02-12",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/avalue-ecm-asl3-3-5-inch-sbc-supports-intel-alder-lake-n-and-amston-lake-socs"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "Seco to Demo IoT and Software Framework at Embedded World",
+        "blurb": "Secoは、IoT・AIソフトウェアフレームワーク「Clea」をEmbedded Worldでデモ公開。エッジAIの導入を簡素化する。",
+        "category": "company",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-expands-full-stack-edge-ai-solutions"
+          "url": "https://www.embedded.com/seco-to-demo-iot-and-software-framework-at-embedded-world"
         },
         "field": {
           "primary": "ai",
@@ -36,6 +52,27 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [
+      {
+        "title": "Minimum Energy Per Query",
+        "blurb": "AIチップのエネルギー効率は、ソフトウェアからチップ設計まで影響する。有用な処理に使われるエネルギー量を問う。",
+        "category": "tools",
+        "date": "2026-02-12",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/minimum-energy-per-query"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "market": []
   }
 }
