@@ -1,66 +1,30 @@
 {
-  "generated_at": "2026-02-13T06:11:44.398395+09:00",
+  "generated_at": "2026-02-14T06:13:48.714172+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Empower Semiconductor Launches New Silicon Capacitors",
-    "summary": "Empower Semiconductorは、AI・HPC向けに超低ESL/ESRのシリコンキャパシタECAP™を発表しました。",
+    "title": "How Siemens Symphony Pro Enabled AnalogPort To Verify Complex Chip Interfaces",
+    "summary": "シーメンスSymphony ProがAnalogPortの複雑なチップインターフェース検証を可能にし、市場投入までの時間を短縮。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/empower-semiconductor-launches-new-silicon-capacitors"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/how-siemens-symphony-pro-enabled-analogport-to-verify-complex-chip-interfaces"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Empower Semiconductor Launches New Silicon Capacitors",
-        "blurb": "Empower Semiconductorは、AI・HPC向けに超低ESL/ESRのシリコンキャパシタECAP™を発表しました。",
+        "title": "AI agent automates front-end chip workflows",
+        "blurb": "ケイデンスがフロントエンド半導体設計・検証向けAIエージェント「ChipStack AI Super Agent」を発表。設計・検証ワークフローを自動化。",
         "category": "company",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/empower-semiconductor-launches-new-silicon-capacitors"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Cisco Unveils Silicon One G300 AI Networking Chip",
-        "blurb": "シスコがAIデータセンター向け新チップ「Silicon One G300」を発表。102.4 Tbits/sの性能で、次世代スイッチシステムを強化。",
-        "category": "company",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/cisco-unveils-silicon-one-g300-ai-networking-chip"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Empower Unveils High-Density Silicon Capacitors",
-        "blurb": "Empower SemiconductorがAI・HPC向け高密度シリコンキャパシタを発表。小型で高容量密度を実現し、AIプロセッサの性能向上に対応。",
-        "category": "company",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/empower-unveils-high-density-silicon-capacitors"
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-agent-automates-front-end-chip-workflows"
         },
         "field": {
           "primary": "general",
@@ -73,14 +37,14 @@
     ],
     "tech": [
       {
-        "title": "Formal Verification Fundamentals Remain Non-Negotiable In The New Verification Revolution",
-        "blurb": "複雑な設計管理において、形式検証の数学的厳密性は不可欠であり、新しい検証革命でもその重要性は変わらない。",
+        "title": "How Siemens Symphony Pro Enabled AnalogPort To Verify Complex Chip Interfaces",
+        "blurb": "シーメンスSymphony ProがAnalogPortの複雑なチップインターフェース検証を可能にし、市場投入までの時間を短縮。",
         "category": "tools",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/formal-verification-fundamentals-remain-non-negotiable-in-the-new-verification-revolution"
+          "url": "https://semiengineering.com/how-siemens-symphony-pro-enabled-analogport-to-verify-complex-chip-interfaces"
         },
         "field": {
           "primary": "general",
@@ -91,32 +55,14 @@
         }
       },
       {
-        "title": "Scaling llama.cpp On Neoverse N2: Solving Cross-NUMA Performance Issues",
-        "blurb": "Neoverse N2上でllama.cppを最適化し、クロスNUMA性能問題を解決。テキスト生成速度を最大55%向上させることに成功。",
+        "title": "Formal Verification First: How AI Supports But Cannot Replace It",
+        "blurb": "AIは検証の速度を向上させるが、証明可能な正しさを保証する形式検証の代わりにはならない。AIは支援ツールである。",
         "category": "tools",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scaling-llama-cpp-on-neoverse-n2-solving-cross-numa-performance-issues"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Neuromorphic HW That Detects Motion Changes 4X Faster (Beihang, BIT, KAUST, Cambridge et al.)",
-        "blurb": "新型ニューロモルフィックHWは、人間の能力を超える速度で動きの変化を検知。網膜と外側膝状体の相互作用を模倣。",
-        "category": "tools",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/neuromorphic-hw-that-detects-motion-changes-4x-faster-beihang-bit-kaust-cambridge-et-al"
+          "url": "https://semiengineering.com/formal-verification-first-how-ai-supports-but-cannot-replace-it"
         },
         "field": {
           "primary": "general",
@@ -127,61 +73,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "AI Inference Needs A Mix-And-Match Memory Strategy",
-        "blurb": "AI推論では、トークンあたりのコストを最小化するため、ワークロード段階に応じたメモリ技術の組み合わせが不可欠である。",
-        "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-inference-needs-a-mix-and-match-memory-strategy"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chiplets And 3D-ICs Add New Electrical And Mechanical Challenges",
-        "blurb": "チップレットと3D-ICは、材料、パッケージング、背面電源テストまで、信頼性をシステムレベルの懸念事項としています。",
-        "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chiplets-and-3d-ics-add-new-electrical-and-mechanical-challenges"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "UCIe’s Major Technical Components Are Now In Place",
-        "blurb": "UCIe規格3.0版が完成。帯域幅を倍増し、新用途や管理性向上をサポート。",
-        "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ucies-major-technical-components-are-now-in-place"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

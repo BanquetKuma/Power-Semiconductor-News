@@ -1,32 +1,51 @@
 {
-  "generated_at": "2026-02-13T06:11:44.396346+09:00",
+  "generated_at": "2026-02-14T06:13:48.711724+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AI, GPU, And HPC Data Centers: The Infrastructure Behind Modern AI",
-    "summary": "AI・GPU・HPCデータセンターのインフラは進化。高密度化と冷却多様化で設計ミスは高コスト化。",
+    "title": "基板裏から最大200A供給　TDKのDC-DCパワーモジュール",
+    "summary": "TDKは、基板裏面に最大200Aを供給できる小型DC-DCパワーモジュール「FS1525」を発表。熱性能向上と省スペース化を実現。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ai-gpu-and-hpc-data-centers-the-infrastructure-behind-modern-ai"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news035.html"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "Advantech 3.5-Inch SBC Features Qualcomm QCS6490 or QCS5430 SoC For Edge AI",
+        "blurb": "アドバンテックが産業用3.5インチSBC「MIO-5355」を発表。Qualcomm SoC搭載でエッジAIに最適。",
+        "category": "company",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/advantech-3-5-inch-sbc-features-qualcomm-qcs6490-or-qcs5430-soc-for-edge-ai"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "AI, GPU, And HPC Data Centers: The Infrastructure Behind Modern AI",
-        "blurb": "AI・GPU・HPCデータセンターのインフラは進化。高密度化と冷却多様化で設計ミスは高コスト化。",
+        "title": "基板裏から最大200A供給　TDKのDC-DCパワーモジュール",
+        "blurb": "TDKは、基板裏面に最大200Aを供給できる小型DC-DCパワーモジュール「FS1525」を発表。熱性能向上と省スペース化を実現。",
         "category": "business",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-gpu-and-hpc-data-centers-the-infrastructure-behind-modern-ai"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news035.html"
         },
         "field": {
           "primary": "logic",

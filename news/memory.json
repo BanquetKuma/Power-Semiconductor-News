@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-02-13T06:11:44.396082+09:00",
+  "generated_at": "2026-02-14T06:13:48.711381+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "「業界初」SamsungがHBM4の量産、出荷開始",
-    "summary": "サムスンが業界初のHBM4量産・出荷を開始。AIデータセンター向け市場での先行確保を狙う。",
+    "title": "Chip Industry Week In Review",
+    "summary": "半導体業界の週次レビュー：IC装置の規制強化、HBM4、AI設計エージェント、新ツール、資金調達、新CEO、決算、EUVLなど。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news110.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-125"
       }
     ]
   },
@@ -19,38 +19,20 @@
     "tech": [],
     "market": [
       {
-        "title": "「業界初」SamsungがHBM4の量産、出荷開始",
-        "blurb": "サムスンが業界初のHBM4量産・出荷を開始。AIデータセンター向け市場での先行確保を狙う。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の週次レビュー：IC装置の規制強化、HBM4、AI設計エージェント、新ツール、資金調達、新CEO、決算、EUVLなど。",
         "category": "business",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news110.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-125"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": null,
-          "market": "datacenter",
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Edge AI in a DRAM shortage: Doing more with less",
-        "blurb": "DRAM不足の中、メモリ要件を削減・排除するエッジAIが、より少ないリソースで多くのことを可能にし、安定供給とレジリエンスを提供。",
-        "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/edge-ai-in-a-dram-shortage-doing-more-with-less"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "ai",
+          "process": "miniaturization",
+          "market": null,
           "industry": null
         }
       }

@@ -1,31 +1,50 @@
 {
-  "generated_at": "2026-02-13T06:11:44.397359+09:00",
+  "generated_at": "2026-02-14T06:13:48.712922+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Autonomous Driving: Assessment Of YOLO Algorithms (RMIT et al.)",
-    "summary": "自動運転の安全・効率化のため、YOLOアルゴリズムによる車線・物体検出の精度向上が研究された。",
+    "title": "IMC: Free-Space Optical Neural Network With High Clockrate (Berkeley, USC, TU Berlin)",
+    "summary": "UCバークレー等の研究者が高速クロックレートの自由空間光ニューラルネットワークを発表。リアルタイム処理に貢献。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/autonomous-driving-assessment-of-yolo-algorithms-rmit-et-al"
+        "url": "https://semiengineering.com/imc-free-space-optical-neural-network-with-high-clockrate-berkeley-usc-tu-berlin"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "Rivian R2 And Toyota Highlander: Could These SUVs Become the EV Hits America Needs?",
+        "blurb": "Rivian R2とトヨタ・ハイランダーがEV市場の鍵を握るか。両社は厳しい時期に新型EVを発表した。",
+        "category": "company",
+        "date": "2026-02-14",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/787297/rivian-r2-toyota-highlander-podcast"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
-        "title": "Autonomous Driving: Assessment Of YOLO Algorithms (RMIT et al.)",
-        "blurb": "自動運転の安全・効率化のため、YOLOアルゴリズムによる車線・物体検出の精度向上が研究された。",
+        "title": "IMC: Free-Space Optical Neural Network With High Clockrate (Berkeley, USC, TU Berlin)",
+        "blurb": "UCバークレー等の研究者が高速クロックレートの自由空間光ニューラルネットワークを発表。リアルタイム処理に貢献。",
         "category": "tools",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/autonomous-driving-assessment-of-yolo-algorithms-rmit-et-al"
+          "url": "https://semiengineering.com/imc-free-space-optical-neural-network-with-high-clockrate-berkeley-usc-tu-berlin"
         },
         "field": {
           "primary": "automotive",

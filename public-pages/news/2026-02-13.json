@@ -1,64 +1,106 @@
 {
-  "generated_at": "2026-02-13T06:11:44.394567+09:00",
+  "generated_at": "2026-02-14T06:13:48.709474+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "VPT Introduces VSCPL1210SG Point-of-Load Converter",
-    "summary": "VPTが小型衛星・NASAクラスDミッション向けに低電力コンバータ「VSCPL1210SG」を発表。",
+    "title": "Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform",
+    "summary": "Navitasが第5世代GeneSiC HV MOSFETプラットフォームを発表。高電圧電力変換の効率、スイッチング性能、信頼性を向上。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/vpt-introduces-vscpl1210sg-point-of-load-converter"
+        "url": "https://www.powerelectronicsnews.com/navitas-launches-5th-gen-genesic-hv-mosfet-platform"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "AI Inference Needs A Mix-And-Match Memory Strategy",
-        "blurb": "AI推論では、トークンあたりのコストを最小化するため、ワークロード段階に応じたメモリ技術の組み合わせが不可欠である。",
+        "title": "Osmotic Power: A Viable Renewable Energy Solution",
+        "blurb": "浸透圧発電は、淡水と海水の違いを利用した再生可能エネルギー源として有望視されており、技術開発が進んでいます。",
         "category": "business",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/osmotic-power-a-viable-renewable-energy-solution"
+        },
+        "field": null
+      },
+      {
+        "title": "Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio",
+        "blurb": "インフィニオンがams OSRAMの非光学センサー事業を買収。車載、産業、医療分野のセンサー能力を強化。",
+        "category": "business",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/infineon-acquires-ams-osram-non-optical-sensor-portfolio"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の週次レビュー：IC装置の規制強化、HBM4、AI設計エージェント、新ツール、資金調達、新CEO、決算、EUVLなど。",
+        "category": "business",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-inference-needs-a-mix-and-match-memory-strategy"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-125"
         },
         "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
+          "primary": "memory",
+          "device": "memory",
+          "process": "miniaturization",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Chiplets And 3D-ICs Add New Electrical And Mechanical Challenges",
-        "blurb": "チップレットと3D-ICは、材料、パッケージング、背面電源テストまで、信頼性をシステムレベルの懸念事項としています。",
+        "title": "Automotive Week In Review",
+        "blurb": "AIチップ、ハイパーカー、自動運転EV、新バッテリーなど、自動車業界の最新技術動向を網羅。EVシフトの再考も。",
         "category": "business",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chiplets-and-3d-ics-add-new-electrical-and-mechanical-challenges"
+          "url": "https://semiengineering.com/automotive-week-in-review"
         },
         "field": {
-          "primary": "general",
+          "primary": "ai",
           "device": null,
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       },
       {
-        "title": "AI, GPU, And HPC Data Centers: The Infrastructure Behind Modern AI",
-        "blurb": "AI・GPU・HPCデータセンターのインフラは進化。高密度化と冷却多様化で設計ミスは高コスト化。",
+        "title": "キオクシアは2期連続で過去最高更新へ、AI需要追い風",
+        "blurb": "キオクシア、25年度通期で過去最高更新へ。AI需要が追い風となり、増収増益の見通し。",
         "category": "business",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-gpu-and-hpc-data-centers-the-infrastructure-behind-modern-ai"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news060.html"
+        },
+        "field": null
+      },
+      {
+        "title": "基板裏から最大200A供給　TDKのDC-DCパワーモジュール",
+        "blurb": "TDKは、基板裏面に最大200Aを供給できる小型DC-DCパワーモジュール「FS1525」を発表。熱性能向上と省スペース化を実現。",
+        "category": "business",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news035.html"
         },
         "field": {
           "primary": "logic",
@@ -69,300 +111,14 @@
         }
       },
       {
-        "title": "UCIe’s Major Technical Components Are Now In Place",
-        "blurb": "UCIe規格3.0版が完成。帯域幅を倍増し、新用途や管理性向上をサポート。",
+        "title": "JDI、25年3Q累計は145億円の赤字　債務超過額は60億円に拡大",
+        "blurb": "JDIは25年3Q累計で145億円の赤字、債務超過額は60億円に拡大。今後は「BEYOND DISPLAY」に注力する。",
         "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ucies-major-technical-components-are-now-in-place"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Power Leadership At 2nm: Foundation IP Optimized For Next-Gen Hyperscale SoCs",
-        "blurb": "2nmプロセス向けIPが次世代Hyperscale SoCの電力・コスト効率を向上させる。",
-        "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/power-leadership-at-2nm-foundation-ip-optimized-for-next-gen-hyperscale-socs"
-        },
-        "field": {
-          "primary": "miniaturization",
-          "device": null,
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「業界初」SamsungがHBM4の量産、出荷開始",
-        "blurb": "サムスンが業界初のHBM4量産・出荷を開始。AIデータセンター向け市場での先行確保を狙う。",
-        "category": "business",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news110.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "datacenter",
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "ペロブスカイト太陽電池の性能を向上、新材料を製品化",
-        "blurb": "東京化成工業が産総研開発のペロブスカイト太陽電池材料「OA-TFSI」を製品化。正孔輸送材料に添加し性能向上を実現。",
-        "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news031.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Infineonの26年度Q1は前年比減収　AI需要で投資は加速",
-        "blurb": "Infineonの26年度Q1は減収も、AI需要で通期投資を5億ユーロ増額し工場立ち上げを加速。",
-        "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news042.html"
-        },
-        "field": null
-      },
-      {
-        "title": "ちょっと「謎」な一面も――Marvellの買収攻勢を読み解く",
-        "blurb": "MarvellがXConnとCelestial AIを買収。SK hynix米国子会社「AI Co.」の動向も考察。買収攻勢の意図に迫る。",
-        "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news027.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Edge AI in a DRAM shortage: Doing more with less",
-        "blurb": "DRAM不足の中、メモリ要件を削減・排除するエッジAIが、より少ないリソースで多くのことを可能にし、安定供給とレジリエンスを提供。",
-        "category": "business",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/edge-ai-in-a-dram-shortage-doing-more-with-less"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Formal Verification Fundamentals Remain Non-Negotiable In The New Verification Revolution",
-        "blurb": "複雑な設計管理において、形式検証の数学的厳密性は不可欠であり、新しい検証革命でもその重要性は変わらない。",
-        "category": "tools",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/formal-verification-fundamentals-remain-non-negotiable-in-the-new-verification-revolution"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Scaling llama.cpp On Neoverse N2: Solving Cross-NUMA Performance Issues",
-        "blurb": "Neoverse N2上でllama.cppを最適化し、クロスNUMA性能問題を解決。テキスト生成速度を最大55%向上させることに成功。",
-        "category": "tools",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scaling-llama-cpp-on-neoverse-n2-solving-cross-numa-performance-issues"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Minimum Energy Per Query",
-        "blurb": "AIチップのエネルギー効率は、ソフトウェアからチップ設計まで影響する。有用な処理に使われるエネルギー量を問う。",
-        "category": "tools",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/minimum-energy-per-query"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Autonomous Driving: Assessment Of YOLO Algorithms (RMIT et al.)",
-        "blurb": "自動運転の安全・効率化のため、YOLOアルゴリズムによる車線・物体検出の精度向上が研究された。",
-        "category": "tools",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/autonomous-driving-assessment-of-yolo-algorithms-rmit-et-al"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Neuromorphic HW That Detects Motion Changes 4X Faster (Beihang, BIT, KAUST, Cambridge et al.)",
-        "blurb": "新型ニューロモルフィックHWは、人間の能力を超える速度で動きの変化を検知。網膜と外側膝状体の相互作用を模倣。",
-        "category": "tools",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/neuromorphic-hw-that-detects-motion-changes-4x-faster-beihang-bit-kaust-cambridge-et-al"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Wearables for health analysis: A gratefulness-inducing personal experience",
-        "blurb": "健康管理デバイスの異常検知を信じ、受診した結果、早期発見につながった体験談。テクノロジーへの感謝。",
-        "category": "tools",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/wearables-for-health-analysis-a-gratefulness-inducing-personal-experience"
-        },
-        "field": null
-      },
-      {
-        "title": "How to design a digital-controlled PFC, Part 2",
-        "blurb": "デジタル制御PFC設計：ファームウェアで平均電流モード制御を実装し、制御ループ調整を行う方法（パート2）。",
-        "category": "tools",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/how-to-design-a-digital-controlled-pfc-part-2"
-        },
-        "field": null
-      },
-      {
-        "title": "Signal Hound’s 20 GHz Vector Signal Generator Features 200 μs Switching Time",
-        "blurb": "Signal Houndが20GHzのベクトル信号発生器VSG200を発表。40MHz帯域幅、200μsのスイッチング時間、LTE/Wi-Fi/Bluetooth対応。",
-        "category": "tools",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/signal-hounds-20-ghz-vector-signal-generator-features-200-%ce%bcs-switching-time"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Allegro Introduces High-Accuracy Hall-Effect Current Sensor",
-        "blurb": "AllegroがAI、車載、エネルギーシステム向け高精度ホール効果電流センサーを発表。高電圧電力変換に最適。",
-        "category": "company",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/allegro-introduces-high-accuracy-hall-effect-current-sensor"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Empower Semiconductor Launches New Silicon Capacitors",
-        "blurb": "Empower Semiconductorは、AI・HPC向けに超低ESL/ESRのシリコンキャパシタECAP™を発表しました。",
-        "category": "company",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/empower-semiconductor-launches-new-silicon-capacitors"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "NTT solved the current limitation in AlN transistors",
-        "blurb": "NTTは、窒化アルミニウム（AlN）パワートランジスタにおける接触抵抗とチャネル抵抗の損失メカニズムを解決しました。",
-        "category": "company",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/ntt-solved-the-current-limitation-in-aln-transistors"
-        },
-        "field": null
-      },
-      {
-        "title": "欧州に半導体サプライチェーンは戻るか　ドイツ発メモリ新興が鍵",
-        "blurb": "欧州でメモリ製造の必要性が高まる中、独自技術を持つドイツの新興企業がサプライチェーン回帰の鍵を握る可能性がある。",
-        "category": "company",
-        "date": "2026-02-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news039.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news051.html"
         },
         "field": {
           "primary": "geopolitics",
@@ -373,74 +129,174 @@
         }
       },
       {
-        "title": "高性能高耐久性燃料電池を可能にする電解質膜を開発、山梨大ら",
-        "blurb": "山梨大らは、PFAS規制の影響を受けない高性能・高耐久な固体高分子形燃料電池用電解質膜を開発した。",
-        "category": "company",
-        "date": "2026-02-12",
+        "title": "ルネサスがGaN事業拡大、米国EPCとライセンス契約",
+        "blurb": "ルネサスは米EPCとライセンス契約を結び、GaNパワーデバイス事業を拡大。AI向け電源など高ボリューム市場での機会を狙う。",
+        "category": "business",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news030.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news053.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AlN Power Transistors, SiC Power Module Innovations, Longevity of EV Batteries: Power Electronics Week Insights",
+        "blurb": "窒化アルミニウムパワートランジスタ、SiCパワーモジュール、EVバッテリー寿命に関する最新動向。",
+        "category": "business",
+        "date": "2026-02-14",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/aln-power-transistors-sic-power-module-innovations-longevity-of-ev-batteries-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "How Siemens Symphony Pro Enabled AnalogPort To Verify Complex Chip Interfaces",
+        "blurb": "シーメンスSymphony ProがAnalogPortの複雑なチップインターフェース検証を可能にし、市場投入までの時間を短縮。",
+        "category": "tools",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-siemens-symphony-pro-enabled-analogport-to-verify-complex-chip-interfaces"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Formal Verification First: How AI Supports But Cannot Replace It",
+        "blurb": "AIは検証の速度を向上させるが、証明可能な正しさを保証する形式検証の代わりにはならない。AIは支援ツールである。",
+        "category": "tools",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/formal-verification-first-how-ai-supports-but-cannot-replace-it"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "IMC: Free-Space Optical Neural Network With High Clockrate (Berkeley, USC, TU Berlin)",
+        "blurb": "UCバークレー等の研究者が高速クロックレートの自由空間光ニューラルネットワークを発表。リアルタイム処理に貢献。",
+        "category": "tools",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/imc-free-space-optical-neural-network-with-high-clockrate-berkeley-usc-tu-berlin"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Safe operating area",
+        "blurb": "Dunn氏は、古いデータシートのSOAチャートを再構築し、2N2222 NPN BJTを使用した設計不良のスイッチング回路を解説。",
+        "category": "tools",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/safe-operating-area"
         },
         "field": null
       },
       {
-        "title": "Cisco Unveils Silicon One G300 AI Networking Chip",
-        "blurb": "シスコがAIデータセンター向け新チップ「Silicon One G300」を発表。102.4 Tbits/sの性能で、次世代スイッチシステムを強化。",
-        "category": "company",
-        "date": "2026-02-12",
+        "title": "A tutorial on instrumentation amplifier boundary plots—Part 2",
+        "blurb": "オペアンプの入力コモンモードと出力スイング制限について解説。計装アンプの境界線図の基礎。",
+        "category": "tools",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/cisco-unveils-silicon-one-g300-ai-networking-chip"
+          "name": "edn.com",
+          "url": "https://www.edn.com/a-tutorial-on-instrumentation-amplifier-boundary-plots-part-2"
+        },
+        "field": null
+      },
+      {
+        "title": "IC enables precise current sensing in fast control loops",
+        "blurb": "Allegro MicrosystemsのACS37017は、温度・寿命を通して0.55%の感度誤差を実現するホール効果電流センサーです。",
+        "category": "tools",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ic-enables-precise-current-sensing-in-fast-control-loops"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "analog",
+          "device": "analog",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Empower Unveils High-Density Silicon Capacitors",
-        "blurb": "Empower SemiconductorがAI・HPC向け高密度シリコンキャパシタを発表。小型で高容量密度を実現し、AIプロセッサの性能向上に対応。",
-        "category": "company",
-        "date": "2026-02-12",
+        "title": "How SPAD Imaging Improves Perception in Industrial Robotics",
+        "blurb": "SPADセンサーは、光子レベルのイメージングにより、産業用ロボットの知覚能力を向上させる代替イメージングソリューションです。",
+        "category": "tools",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/empower-unveils-high-density-silicon-capacitors"
+          "url": "https://www.embedded.com/how-spad-imaging-improves-perception-in-industrial-robotics"
         },
         "field": {
-          "primary": "general",
+          "primary": "industrial",
           "device": null,
           "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
       },
       {
-        "title": "Avalue ECM-ASL3 3.5-Inch SBC Supports Intel Alder Lake-N and Amston Lake SoCs",
-        "blurb": "AvalueがIntel Alder Lake-N/Amston Lake SoC対応の産業用PC「ECM-ASL3」を発表。エッジAI用途に最適。",
-        "category": "company",
-        "date": "2026-02-12",
+        "title": "Tasking Announces Integrated Embedded Software Toolchain",
+        "blurb": "Taskingが統合開発ツールチェーンを発表。コンパイル、デバッグ、テストを単一環境で提供し、AI支援機能も搭載。",
+        "category": "tools",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/avalue-ecm-asl3-3-5-inch-sbc-supports-intel-alder-lake-n-and-amston-lake-socs"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/tasking-announces-integrated-embedded-software-toolchain"
         },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": "idm"
-        }
-      },
+        "field": null
+      }
+    ],
+    "company": [
       {
         "title": "VPT Introduces VSCPL1210SG Point-of-Load Converter",
-        "blurb": "VPTが小型衛星・NASAクラスDミッション向けに低電力コンバータ「VSCPL1210SG」を発表。",
+        "blurb": "VPTが小型衛星・NASAクラスDミッション向けに低消費電力コンバーター「VSCPL1210SG」を発表しました。",
         "category": "company",
         "date": "2026-02-13",
         "stars": 3,
@@ -449,6 +305,102 @@
           "url": "https://www.powerelectronicsnews.com/vpt-introduces-vscpl1210sg-point-of-load-converter"
         },
         "field": null
+      },
+      {
+        "title": "半導体CNT用いた高感度赤外線センサーを開発",
+        "blurb": "京工繊大と中大は、半導体CNTで冷却不要の高感度赤外線センサーを開発。検出感度は従来比約11倍。",
+        "category": "company",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news029.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "複数のミニダイ（チップレット）を1つのパッケージに収容する",
+        "blurb": "TSMCは、複数のミニダイを1パッケージに収容する3つの接続手法を解説。先進パッケージ技術の進化に貢献。",
+        "category": "company",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news034.html"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI-powered MCU elevates vehicle intelligence",
+        "blurb": "ST社のAI搭載MCU「Stellar P3E」は、エッジでのリアルタイムAI処理を可能にし、車載インテリジェンスを向上させます。",
+        "category": "company",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-powered-mcu-elevates-vehicle-intelligence"
+        },
+        "field": null
+      },
+      {
+        "title": "Gate drivers emulate optocoupler inputs",
+        "blurb": "インフィニオンの新ゲートドライバは、オプトカプラ設計とピン互換性があり、置き換え可能。",
+        "category": "company",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/gate-drivers-emulate-optocoupler-inputs"
+        },
+        "field": null
+      },
+      {
+        "title": "Microchip empowers real-time edge AI",
+        "blurb": "マイクロチップ、MCU/MPU向けリアルタイムエッジAIプラットフォームを提供開始。開発・展開を支援。",
+        "category": "company",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/microchip-empowers-real-time-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "AI agent automates front-end chip workflows",
+        "blurb": "ケイデンスがフロントエンド半導体設計・検証向けAIエージェント「ChipStack AI Super Agent」を発表。設計・検証ワークフローを自動化。",
+        "category": "company",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-agent-automates-front-end-chip-workflows"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
         "title": "Seco to Demo IoT and Software Framework at Embedded World",
@@ -467,6 +419,102 @@
           "market": "ai",
           "industry": null
         }
+      },
+      {
+        "title": "Allegro Microsystems Unveils Magnetic Current Sensor for Power Electronics",
+        "blurb": "Allegro Microsystemsが、車載・産業用電源変換システム向け高精度磁気電流センサー「ACS37017」を発表しました。",
+        "category": "company",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/allegro-microsystems-unveils-magnetic-current-sensor-for-power-electronics"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Advantech 3.5-Inch SBC Features Qualcomm QCS6490 or QCS5430 SoC For Edge AI",
+        "blurb": "アドバンテックが産業用3.5インチSBC「MIO-5355」を発表。Qualcomm SoC搭載でエッジAIに最適。",
+        "category": "company",
+        "date": "2026-02-13",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/advantech-3-5-inch-sbc-features-qualcomm-qcs6490-or-qcs5430-soc-for-edge-ai"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform",
+        "blurb": "Navitasが第5世代GeneSiC HV MOSFETプラットフォームを発表。高電圧電力変換の効率、スイッチング性能、信頼性を向上。",
+        "category": "company",
+        "date": "2026-02-14",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/navitas-launches-5th-gen-genesic-hv-mosfet-platform"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The Rivian R2 Squeezed Out Six Extra Miles Of Range With This Innovative Design",
+        "blurb": "リビアンR2は、ワイパーをテールゲート内に格納するデザインを採用し、航続距離を6マイル延長することに成功した。",
+        "category": "company",
+        "date": "2026-02-14",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/787049/rivian-r2-wiper-hidden-explainer"
+        },
+        "field": null
+      },
+      {
+        "title": "Rivian R2 And Toyota Highlander: Could These SUVs Become the EV Hits America Needs?",
+        "blurb": "Rivian R2とトヨタ・ハイランダーがEV市場の鍵を握るか。両社は厳しい時期に新型EVを発表した。",
+        "category": "company",
+        "date": "2026-02-14",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/787297/rivian-r2-toyota-highlander-podcast"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "China’s Next Safety Target May Be Yoke Steering Wheels",
+        "blurb": "中国、ヨーク型ステアリングホイールの安全基準を強化へ。衝撃試験の要件がヨーク型にはないため。",
+        "category": "company",
+        "date": "2026-02-14",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/787246/china-says-no-to-yokes"
+        },
+        "field": null
       }
     ],
     "sns": []

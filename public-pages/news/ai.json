@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-02-13T06:11:44.397064+09:00",
+  "generated_at": "2026-02-14T06:13:48.712587+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Minimum Energy Per Query",
-    "summary": "AIチップのエネルギー効率は、ソフトウェアからチップ設計まで影響する。有用な処理に使われるエネルギー量を問う。",
+    "title": "Automotive Week In Review",
+    "summary": "AIチップ、ハイパーカー、自動運転EV、新バッテリーなど、自動車業界の最新技術動向を網羅。EVシフトの再考も。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/minimum-energy-per-query"
+        "url": "https://semiengineering.com/automotive-week-in-review"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Avalue ECM-ASL3 3.5-Inch SBC Supports Intel Alder Lake-N and Amston Lake SoCs",
-        "blurb": "AvalueがIntel Alder Lake-N/Amston Lake SoC対応の産業用PC「ECM-ASL3」を発表。エッジAI用途に最適。",
+        "title": "Microchip empowers real-time edge AI",
+        "blurb": "マイクロチップ、MCU/MPU向けリアルタイムエッジAIプラットフォームを提供開始。開発・展開を支援。",
         "category": "company",
-        "date": "2026-02-12",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/avalue-ecm-asl3-3-5-inch-sbc-supports-intel-alder-lake-n-and-amston-lake-socs"
+          "name": "edn.com",
+          "url": "https://www.edn.com/microchip-empowers-real-time-edge-ai"
         },
         "field": {
           "primary": "ai",
           "device": null,
           "process": null,
           "market": "ai",
-          "industry": "idm"
+          "industry": null
         }
       },
       {
@@ -53,16 +53,17 @@
         }
       }
     ],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "Minimum Energy Per Query",
-        "blurb": "AIチップのエネルギー効率は、ソフトウェアからチップ設計まで影響する。有用な処理に使われるエネルギー量を問う。",
-        "category": "tools",
-        "date": "2026-02-12",
+        "title": "Automotive Week In Review",
+        "blurb": "AIチップ、ハイパーカー、自動運転EV、新バッテリーなど、自動車業界の最新技術動向を網羅。EVシフトの再考も。",
+        "category": "business",
+        "date": "2026-02-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/minimum-energy-per-query"
+          "url": "https://semiengineering.com/automotive-week-in-review"
         },
         "field": {
           "primary": "ai",
@@ -72,7 +73,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }
