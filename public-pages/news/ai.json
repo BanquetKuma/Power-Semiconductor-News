@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-02-14T06:13:48.712587+09:00",
+  "generated_at": "2026-02-15T06:07:20.656427+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Automotive Week In Review",
-    "summary": "AIチップ、ハイパーカー、自動運転EV、新バッテリーなど、自動車業界の最新技術動向を網羅。EVシフトの再考も。",
+    "title": "Agentic AI Chip Design, Networking Chip, Edge AI: Embedded Week Insights",
+    "summary": "AIチップ設計、ネットワークチップ、エッジAIの最新動向。Cadence、Cisco、Microchipなどの技術を紹介。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/automotive-week-in-review"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/agentic-ai-chip-design-networking-chip-edge-ai-embedded-week-insights"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Microchip empowers real-time edge AI",
-        "blurb": "マイクロチップ、MCU/MPU向けリアルタイムエッジAIプラットフォームを提供開始。開発・展開を支援。",
+        "title": "Agentic AI Chip Design, Networking Chip, Edge AI: Embedded Week Insights",
+        "blurb": "AIチップ設計、ネットワークチップ、エッジAIの最新動向。Cadence、Cisco、Microchipなどの技術を紹介。",
         "category": "company",
-        "date": "2026-02-13",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/microchip-empowers-real-time-edge-ai"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Seco to Demo IoT and Software Framework at Embedded World",
-        "blurb": "Secoは、IoT・AIソフトウェアフレームワーク「Clea」をEmbedded Worldでデモ公開。エッジAIの導入を簡素化する。",
-        "category": "company",
-        "date": "2026-02-13",
+        "date": "2026-02-14",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/seco-to-demo-iot-and-software-framework-at-embedded-world"
+          "url": "https://www.embedded.com/agentic-ai-chip-design-networking-chip-edge-ai-embedded-week-insights"
         },
         "field": {
           "primary": "ai",
@@ -54,25 +36,6 @@
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "Automotive Week In Review",
-        "blurb": "AIチップ、ハイパーカー、自動運転EV、新バッテリーなど、自動車業界の最新技術動向を網羅。EVシフトの再考も。",
-        "category": "business",
-        "date": "2026-02-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/automotive-week-in-review"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

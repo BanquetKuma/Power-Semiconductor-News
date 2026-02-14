@@ -1,24 +1,42 @@
 {
-  "generated_at": "2026-02-14T06:13:48.712922+09:00",
+  "generated_at": "2026-02-15T06:07:20.656832+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "IMC: Free-Space Optical Neural Network With High Clockrate (Berkeley, USC, TU Berlin)",
-    "summary": "UCバークレー等の研究者が高速クロックレートの自由空間光ニューラルネットワークを発表。リアルタイム処理に貢献。",
+    "title": "Slate Truck: Everything We Know About The Sub-$30,000 EV",
+    "summary": "米国新興企業が3万ドル以下の手頃でシンプルなEVトラックを開発中。量産を目指す。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/imc-free-space-optical-neural-network-with-high-clockrate-berkeley-usc-tu-berlin"
+        "name": "insideevs.com",
+        "url": "https://insideevs.com/reviews/786896/slate-ev-pickup-truck-everything-we-know"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "Slate Truck: Everything We Know About The Sub-$30,000 EV",
+        "blurb": "米国新興企業が3万ドル以下の手頃でシンプルなEVトラックを開発中。量産を目指す。",
+        "category": "company",
+        "date": "2026-02-14",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/786896/slate-ev-pickup-truck-everything-we-know"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
         "title": "Rivian R2 And Toyota Highlander: Could These SUVs Become the EV Hits America Needs?",
-        "blurb": "Rivian R2とトヨタ・ハイランダーがEV市場の鍵を握るか。両社は厳しい時期に新型EVを発表した。",
+        "blurb": "リビアンR2とトヨタ・ハイランダーがEV市場の救世主となるか？両社は困難な時期に新型EVを発表した。",
         "category": "company",
         "date": "2026-02-14",
         "stars": 3,
@@ -35,16 +53,17 @@
         }
       }
     ],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "IMC: Free-Space Optical Neural Network With High Clockrate (Berkeley, USC, TU Berlin)",
-        "blurb": "UCバークレー等の研究者が高速クロックレートの自由空間光ニューラルネットワークを発表。リアルタイム処理に貢献。",
-        "category": "tools",
-        "date": "2026-02-13",
+        "title": "Charging Demand Is Growing, But Charging Infrastructure Isn't Keeping Up",
+        "blurb": "ChargePointは昨年19万基のEV充電器を追加したが、ドライバーの需要に追いついていない。",
+        "category": "business",
+        "date": "2026-02-14",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/imc-free-space-optical-neural-network-with-high-clockrate-berkeley-usc-tu-berlin"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/787253/chargepoint-data-growth-2025-demand"
         },
         "field": {
           "primary": "automotive",
@@ -54,7 +73,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

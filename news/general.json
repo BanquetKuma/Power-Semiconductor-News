@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-14T06:13:48.714172+09:00",
+  "generated_at": "2026-02-15T06:07:20.657125+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "How Siemens Symphony Pro Enabled AnalogPort To Verify Complex Chip Interfaces",
-    "summary": "シーメンスSymphony ProがAnalogPortの複雑なチップインターフェース検証を可能にし、市場投入までの時間を短縮。",
+    "title": "A Test Generation Procedure Targeting Subcircuits With High Susceptibilities To Aging (Purdue University)",
+    "summary": "Purdue大学が、チップの経年劣化による遅延故障を特定するテスト生成手法を発表。レイアウトや機能負荷で劣化しやすさを評価。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/how-siemens-symphony-pro-enabled-analogport-to-verify-complex-chip-interfaces"
+        "url": "https://semiengineering.com/a-test-generation-procedure-targeting-subcircuits-with-high-susceptibilities-to-aging-purdue-university"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "AI agent automates front-end chip workflows",
-        "blurb": "ケイデンスがフロントエンド半導体設計・検証向けAIエージェント「ChipStack AI Super Agent」を発表。設計・検証ワークフローを自動化。",
+        "title": "A Test Generation Procedure Targeting Subcircuits With High Susceptibilities To Aging (Purdue University)",
+        "blurb": "Purdue大学が、チップの経年劣化による遅延故障を特定するテスト生成手法を発表。レイアウトや機能負荷で劣化しやすさを評価。",
         "category": "company",
-        "date": "2026-02-13",
+        "date": "2026-02-14",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-agent-automates-front-end-chip-workflows"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-test-generation-procedure-targeting-subcircuits-with-high-susceptibilities-to-aging-purdue-university"
         },
         "field": {
           "primary": "general",
@@ -35,44 +35,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "How Siemens Symphony Pro Enabled AnalogPort To Verify Complex Chip Interfaces",
-        "blurb": "シーメンスSymphony ProがAnalogPortの複雑なチップインターフェース検証を可能にし、市場投入までの時間を短縮。",
-        "category": "tools",
-        "date": "2026-02-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-siemens-symphony-pro-enabled-analogport-to-verify-complex-chip-interfaces"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Formal Verification First: How AI Supports But Cannot Replace It",
-        "blurb": "AIは検証の速度を向上させるが、証明可能な正しさを保証する形式検証の代わりにはならない。AIは支援ツールである。",
-        "category": "tools",
-        "date": "2026-02-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/formal-verification-first-how-ai-supports-but-cannot-replace-it"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": []
   }
 }
