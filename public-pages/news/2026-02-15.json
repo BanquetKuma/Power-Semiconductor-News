@@ -1,85 +1,85 @@
 {
-  "generated_at": "2026-02-15T06:07:20.655232+09:00",
+  "generated_at": "2026-02-16T06:07:53.516330+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform",
-    "summary": "Navitasは、高電圧パワー変換向けに効率と信頼性を向上させた第5世代GeneSiC HV MOSFETプラットフォームを発表しました。",
+    "title": "Carrier Mapping in Sub-2nm Node NSFETs with SSRM (imec, KU Leuven)",
+    "summary": "imecとKU Leuvenの研究者らが、2nmノード以降のNSFETsにおけるキャリア分布をSSRMでマッピングする手法を発表。ジャンクションエンジニアリングの重要性を示唆。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/navitas-launches-5th-gen-genesic-hv-mosfet-platform"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/carrier-mapping-in-sub-2nm-node-nsfets-with-ssrm-imec-ku-leuven"
       }
     ]
   },
   "sections": {
-    "business": [
+    "business": [],
+    "tools": [
       {
-        "title": "AlN Power Transistors, SiC Power Module Innovations, Longevity of EV Batteries: Power Electronics Week Insights",
-        "blurb": "窒化アルミニウムパワートランジスタ、SiCパワーモジュール、EVバッテリー寿命に関する最新動向。",
-        "category": "business",
-        "date": "2026-02-14",
+        "title": "Automated MLIR-based HLS framework That Generates FPGA HW Designs From A Variety of CNN Layers (TU Dresden)",
+        "blurb": "TU DresdenがCNN層からFPGA設計を生成する自動MLIR HLSフレームワーク「MING」を発表。エッジコンピューティング向け。",
+        "category": "tools",
+        "date": "2026-02-15",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/aln-power-transistors-sic-power-module-innovations-longevity-of-ev-batteries-power-electronics-week-insights"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/automated-mlir-based-hls-framework-that-generates-fpga-hw-designs-from-a-variety-of-cnn-layers-tu-dresden"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Charging Demand Is Growing, But Charging Infrastructure Isn't Keeping Up",
-        "blurb": "ChargePointは昨年19万基のEV充電器を追加したが、ドライバーの需要に追いついていない。",
-        "category": "business",
-        "date": "2026-02-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/787253/chargepoint-data-growth-2025-demand"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ],
-    "tools": [],
-    "company": [
-      {
-        "title": "Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform",
-        "blurb": "Navitasは、高電圧パワー変換向けに効率と信頼性を向上させた第5世代GeneSiC HV MOSFETプラットフォームを発表しました。",
-        "category": "company",
-        "date": "2026-02-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-launches-5th-gen-genesic-hv-mosfet-platform"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "logic",
+          "device": "logic",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "A Test Generation Procedure Targeting Subcircuits With High Susceptibilities To Aging (Purdue University)",
-        "blurb": "Purdue大学が、チップの経年劣化による遅延故障を特定するテスト生成手法を発表。レイアウトや機能負荷で劣化しやすさを評価。",
-        "category": "company",
-        "date": "2026-02-14",
+        "title": "CNT Nano Sandpaper For Atomic-Level Polishing (KAIST)",
+        "blurb": "KAISTが原子レベル研磨用のCNTナノサンドペーパーを開発。従来の研磨材の限界を超え、高精度な表面仕上げを実現。",
+        "category": "tools",
+        "date": "2026-02-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-test-generation-procedure-targeting-subcircuits-with-high-susceptibilities-to-aging-purdue-university"
+          "url": "https://semiengineering.com/cnt-nano-sandpaper-for-atomic-level-polishing-kaist"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "Carrier Mapping in Sub-2nm Node NSFETs with SSRM (imec, KU Leuven)",
+        "blurb": "imecとKU Leuvenの研究者らが、2nmノード以降のNSFETsにおけるキャリア分布をSSRMでマッピングする手法を発表。ジャンクションエンジニアリングの重要性を示唆。",
+        "category": "company",
+        "date": "2026-02-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/carrier-mapping-in-sub-2nm-node-nsfets-with-ssrm-imec-ku-leuven"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "LLM-Based Learning Platform For Chip Design Education (RPTU)",
+        "blurb": "RPTU大学がLLMを活用した半導体設計教育プラットフォームを発表。初心者でも容易に学べるように支援する。",
+        "category": "company",
+        "date": "2026-02-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/llm-based-learning-platform-for-chip-design-education-rptu"
         },
         "field": {
           "primary": "general",
@@ -90,92 +90,14 @@
         }
       },
       {
-        "title": "Agentic AI Chip Design, Networking Chip, Edge AI: Embedded Week Insights",
-        "blurb": "AIチップ設計、ネットワークチップ、エッジAIの最新動向。Cadence、Cisco、Microchipなどの技術を紹介。",
+        "title": "Watch The Kia EV2 Take On A Brutal Winter Range Test And Win",
+        "blurb": "キアの小型EV「EV2」が過酷な冬の航続距離テストで健闘。寒冷地走行でも予想以上の性能を発揮した。",
         "category": "company",
-        "date": "2026-02-14",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/agentic-ai-chip-design-networking-chip-edge-ai-embedded-week-insights"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Slate Truck: Everything We Know About The Sub-$30,000 EV",
-        "blurb": "米国新興企業が3万ドル以下の手頃でシンプルなEVトラックを開発中。量産を目指す。",
-        "category": "company",
-        "date": "2026-02-14",
+        "date": "2026-02-15",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/786896/slate-ev-pickup-truck-everything-we-know"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "I Spent A Week With The Cadillac Vistiq. Here’s Why I Didn’t Want To Give It Back",
-        "blurb": "キャデラックの新型EV「Vistiq」は、従来のガソリン車を改造したEVとは一線を画す。バッテリーを搭載しながらも、EVとしての魅力を最大限に引き出した。",
-        "category": "company",
-        "date": "2026-02-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/787298/2026-cadillac-vistiq-review"
-        },
-        "field": null
-      },
-      {
-        "title": "The Rivian R2 Squeezed Out Six Extra Miles Of Range With This Innovative Design",
-        "blurb": "リビアンR2は、ワイパーをテールゲートに隠すことで、航続距離を6マイル延長する革新的なデザインを採用しました。",
-        "category": "company",
-        "date": "2026-02-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/787049/rivian-r2-wiper-hidden-explainer"
-        },
-        "field": null
-      },
-      {
-        "title": "Rivian R2 And Toyota Highlander: Could These SUVs Become the EV Hits America Needs?",
-        "blurb": "リビアンR2とトヨタ・ハイランダーがEV市場の救世主となるか？両社は困難な時期に新型EVを発表した。",
-        "category": "company",
-        "date": "2026-02-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/787297/rivian-r2-toyota-highlander-podcast"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "China’s Next Safety Target May Be Yoke Steering Wheels",
-        "blurb": "中国、ヨーク型ステアリングホイールの安全基準を強化へ。衝撃試験の要件がヨーク型に適合しないため。",
-        "category": "company",
-        "date": "2026-02-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/787246/china-says-no-to-yokes"
+          "url": "https://insideevs.com/news/787335/kia-ev2-norway-range-test"
         },
         "field": null
       }

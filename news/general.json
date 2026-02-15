@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-15T06:07:20.657125+09:00",
+  "generated_at": "2026-02-16T06:07:53.517592+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A Test Generation Procedure Targeting Subcircuits With High Susceptibilities To Aging (Purdue University)",
-    "summary": "Purdue大学が、チップの経年劣化による遅延故障を特定するテスト生成手法を発表。レイアウトや機能負荷で劣化しやすさを評価。",
+    "title": "LLM-Based Learning Platform For Chip Design Education (RPTU)",
+    "summary": "RPTU大学がLLMを活用した半導体設計教育プラットフォームを発表。初心者でも容易に学べるように支援する。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/a-test-generation-procedure-targeting-subcircuits-with-high-susceptibilities-to-aging-purdue-university"
+        "url": "https://semiengineering.com/llm-based-learning-platform-for-chip-design-education-rptu"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "A Test Generation Procedure Targeting Subcircuits With High Susceptibilities To Aging (Purdue University)",
-        "blurb": "Purdue大学が、チップの経年劣化による遅延故障を特定するテスト生成手法を発表。レイアウトや機能負荷で劣化しやすさを評価。",
+        "title": "LLM-Based Learning Platform For Chip Design Education (RPTU)",
+        "blurb": "RPTU大学がLLMを活用した半導体設計教育プラットフォームを発表。初心者でも容易に学べるように支援する。",
         "category": "company",
-        "date": "2026-02-14",
+        "date": "2026-02-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-test-generation-procedure-targeting-subcircuits-with-high-susceptibilities-to-aging-purdue-university"
+          "url": "https://semiengineering.com/llm-based-learning-platform-for-chip-design-education-rptu"
         },
         "field": {
           "primary": "general",
@@ -35,7 +35,26 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "CNT Nano Sandpaper For Atomic-Level Polishing (KAIST)",
+        "blurb": "KAISTが原子レベル研磨用のCNTナノサンドペーパーを開発。従来の研磨材の限界を超え、高精度な表面仕上げを実現。",
+        "category": "tools",
+        "date": "2026-02-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/cnt-nano-sandpaper-for-atomic-level-polishing-kaist"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

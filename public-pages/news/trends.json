@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-15T06:07:25.718938+09:00",
-  "date": "2026-02-15",
+  "generated_at": "2026-02-16T06:07:59.273954+09:00",
+  "date": "2026-02-16",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体へのシフト",
+      "name": "次世代パワー半導体技術の進化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,22 +12,22 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCやGaN、ダイヤモンドなどの次世代パワー半導体への移行が進み、EV、データセンター、産業機器の効率と性能を向上させている。",
+      "summary": "SiC、GaN、ダイヤモンドなどの次世代パワー半導体材料と、高電圧・高効率化を実現する新技術（MOSFET、サイリスタゲートドライバ）が急速に進化・普及している。",
       "analysis": {
-        "short_term": "SiC/GaN製品の拡充と採用加速。新素材開発も活発。",
-        "mid_term": "EV普及とデータセンター電力効率化で需要増。コスト競争力向上も課題。",
-        "investment_implications": "次世代パワー半導体メーカー、材料サプライヤーに注目。"
+        "short_term": "SiC/GaN製品の採用拡大と供給能力増強が進む。",
+        "mid_term": "EV、再生可能エネルギー、データセンター向け需要がさらに拡大。",
+        "investment_implications": "関連材料・デバイスメーカーへの投資妙味が増す。"
       },
       "keywords": [
         "SiC",
         "GaN",
+        "ダイヤモンド半導体",
         "EV",
-        "データセンター",
-        "ダイヤモンド半導体"
+        "データセンター"
       ],
       "companies_mentioned": [
         "Navitas",
-        "STマイクロエレクトロニクス",
+        "STMicroelectronics",
         "ルネサス",
         "産総研",
         "ホンダ",
@@ -35,39 +35,40 @@
       ]
     },
     {
-      "name": "AI・HPC向け先端メモリ・ロジック需要拡大",
+      "name": "AI・HPC向け高性能・高集積化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "logic",
         "ai",
         "datacenter",
-        "hpc"
+        "memory",
+        "logic",
+        "backend",
+        "foundry"
       ],
-      "summary": "AI、HPC、データセンター分野でHBM、高性能GPU、AIチップの需要が急増しており、関連するメモリ・ロジック市場が大きく成長している。",
+      "summary": "AI/HPCの計算需要増大に対応するため、HBM、チップレット、高密度実装技術、高性能センサー、低ESL/ESRキャパシタなどが進化している。",
       "analysis": {
-        "short_term": "HBM4の量産開始、AIチップ設計・検証ツールの進化。",
-        "mid_term": "データセンターインフラ投資の継続、メモリ市場の急成長予測。",
-        "investment_implications": "AI向けメモリ・ロジック、ファウンドリ、設計ツール企業に機会。"
+        "short_term": "HBM4の量産開始、チップレット技術の進化が加速。",
+        "mid_term": "AI向け半導体市場はファウンドリー市場を大きく上回る成長。",
+        "investment_implications": "AI向けメモリ、先進パッケージング、ファウンドリーに注目。"
       },
       "keywords": [
         "AI",
         "HPC",
-        "HBM",
-        "GPU",
-        "データセンター",
-        "メモリ市場"
+        "HBM4",
+        "チップレット",
+        "先進パッケージング"
       ],
       "companies_mentioned": [
-        "サムスン",
+        "Samsung",
         "TSMC",
-        "Nexperia"
+        "Empower Semiconductor",
+        "Allegro"
       ]
     },
     {
-      "name": "車載半導体の高度化と統合",
-      "confidence": 0.85,
+      "name": "車載半導体の高度化と多様化",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "automotive",
@@ -75,11 +76,11 @@
         "logic",
         "ai"
       ],
-      "summary": "EV、自動運転技術の進展に伴い、車載マイコン、センサー、AIチップの統合と高性能化が進んでいる。",
+      "summary": "EV、自動運転、コネクテッドカーの進展に伴い、高性能センサー、NPU搭載マイコン、高精度電流センサーなどの需要が増加している。",
       "analysis": {
-        "short_term": "NPU搭載車載マイコン、高精度センサーの発表。",
-        "mid_term": "自動運転レベル向上に伴うECU統合と半導体需要増。",
-        "investment_implications": "車載半導体メーカー、センサーメーカーに注目。"
+        "short_term": "車載向けNPU搭載マイコン、高精度センサーの採用が進む。",
+        "mid_term": "自動運転レベル向上に伴い、車載半導体市場は継続成長。",
+        "investment_implications": "車載半導体、センサー、AI関連技術を持つ企業に投資機会。"
       },
       "keywords": [
         "車載",
@@ -90,79 +91,91 @@
       ],
       "companies_mentioned": [
         "Infineon",
+        "ams OSRAM",
         "Allegro",
-        "STマイクロエレクトロニクス",
-        "ams OSRAM"
+        "STMicroelectronics",
+        "Microchip"
       ]
     },
     {
-      "name": "チップレット・3D-ICの進化と課題",
-      "confidence": 0.8,
+      "name": "半導体設計・製造技術の革新",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
+        "frontend",
         "backend",
         "logic",
-        "foundry",
-        "miniaturization"
+        "analog",
+        "miniaturization",
+        "equipment"
       ],
-      "summary": "チップレットや3D-IC技術の採用が進む一方、電気的・機械的な課題やテストの複雑化が顕在化している。",
+      "summary": "2nmノード以降の微細化技術、原子レベル研磨、LLM活用設計教育、FPGA自動生成、光ニューラルネットワークなど、設計・製造の革新が進む。",
       "analysis": {
-        "short_term": "TSMCの先進パッケージング技術解説。",
-        "mid_term": "高性能・高密度化ニーズでチップレット技術が重要に。",
-        "investment_implications": "先進パッケージング技術を持つファウンドリ、EDAツール企業。"
+        "short_term": "微細化技術、新素材、AI活用設計ツールの開発競争が激化。",
+        "mid_term": "設計・製造プロセスの効率化・高速化が進み、新デバイス登場へ。",
+        "investment_implications": "先端プロセス技術、新素材、EDAツール関連企業に注目。"
       },
       "keywords": [
-        "チップレット",
-        "3D-IC",
-        "先進パッケージング",
-        "テスト"
+        "微細化",
+        "原子レベル研磨",
+        "LLM",
+        "FPGA",
+        "光ニューラルネットワーク"
       ],
       "companies_mentioned": [
-        "TSMC"
+        "imec",
+        "KU Leuven",
+        "RPTU",
+        "TU Dresden",
+        "KAIST",
+        "Purdue University",
+        "Berkeley",
+        "USC",
+        "TU Berlin"
       ]
     },
     {
-      "name": "半導体サプライチェーンの地政学リスクと再編",
+      "name": "地政学リスクとサプライチェーン再編",
       "confidence": 0.75,
       "momentum": "stable",
       "related_fields": [
         "geopolitics",
         "foundry",
-        "memory"
+        "memory",
+        "equipment"
       ],
-      "summary": "地政学リスクの高まりを受け、サプライチェーンの地域分散化や国内回帰の動きが見られる。欧州でのメモリ新興企業に注目。",
+      "summary": "米中対立や欧州の半導体産業復興支援など、地政学的な影響がサプライチェーンの再編を促し、地域分散化の動きが強まっている。",
       "analysis": {
-        "short_term": "欧州でのメモリ製造拠点設立の動き。",
-        "mid_term": "地政学リスクが継続すれば、サプライチェーン再編が進む可能性。",
-        "investment_implications": "地政学リスクの影響を受けにくい、または恩恵を受ける企業。"
+        "short_term": "規制強化や補助金政策の影響が継続。",
+        "mid_term": "欧州などでの新規製造拠点の設立が進む可能性。",
+        "investment_implications": "サプライチェーンの安定性・地域分散化に注目。"
       },
       "keywords": [
-        "地政学リスク",
+        "地政学",
         "サプライチェーン",
         "欧州",
-        "メモリ"
+        "規制"
       ],
       "companies_mentioned": [
-        "JDI"
+        "JDI",
+        "Nexperia"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・HPC向けメモリ・ロジック需要の急増",
-      "次世代パワー半導体（SiC, GaN）の採用拡大",
-      "車載半導体の高性能化・統合化トレンド",
-      "2025年世界半導体市場の過去最高予測",
-      "2026年メモリ市場の急成長予測"
+      "AI・HPC向け需要の急増によるメモリ・ファウンドリー市場の拡大",
+      "EV・自動運転技術の進展による車載半導体市場の成長",
+      "次世代パワー半導体（SiC/GaN）の採用拡大と市場成長",
+      "データセンターの電力消費増大による電力インフラ投資加速"
     ],
     "bearish": [
-      "JDIの赤字拡大と債務超過"
+      "半導体製造装置への規制強化による一部市場への影響",
+      "JDIの赤字拡大と債務超過による事業再編の必要性"
     ],
     "neutral": [
-      "チップレット・3D-ICの技術進化と課題",
-      "AIによる検証支援の限界",
-      "半導体製造装置への規制強化（記事8より示唆）"
+      "AIは形式検証を支援するが、置き換えることはできないという認識の定着"
     ]
   },
-  "source_count": 47
+  "source_count": 44
 }
