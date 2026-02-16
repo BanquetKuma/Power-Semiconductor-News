@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-15T06:07:20.656427+09:00",
+  "generated_at": "2026-02-17T06:09:02.252755+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Agentic AI Chip Design, Networking Chip, Edge AI: Embedded Week Insights",
-    "summary": "AIチップ設計、ネットワークチップ、エッジAIの最新動向。Cadence、Cisco、Microchipなどの技術を紹介。",
+    "title": "エージェントAIをエッジに簡単実装　NXPが開発ツール刷新",
+    "summary": "NXPがエッジAI開発ツールを刷新。自律型AIをエッジで実現する「eIQ Agentic AI Framework」を発表し、プロトタイピングや評価を迅速化。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/agentic-ai-chip-design-networking-chip-edge-ai-embedded-week-insights"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/16/news053.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Agentic AI Chip Design, Networking Chip, Edge AI: Embedded Week Insights",
-        "blurb": "AIチップ設計、ネットワークチップ、エッジAIの最新動向。Cadence、Cisco、Microchipなどの技術を紹介。",
+        "title": "AIサーバ向け差動クロック用水晶発振器、京セラ",
+        "blurb": "京セラはAIサーバ向け差動クロック用水晶発振器「Xシリーズ」を開発、量産を開始。低ノイズで高速・大容量通信に適する。",
         "category": "company",
-        "date": "2026-02-14",
+        "date": "2026-02-16",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/agentic-ai-chip-design-networking-chip-edge-ai-embedded-week-insights"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news028.html"
         },
         "field": {
           "primary": "ai",
@@ -35,7 +35,26 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "エージェントAIをエッジに簡単実装　NXPが開発ツール刷新",
+        "blurb": "NXPがエッジAI開発ツールを刷新。自律型AIをエッジで実現する「eIQ Agentic AI Framework」を発表し、プロトタイピングや評価を迅速化。",
+        "category": "tools",
+        "date": "2026-02-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/16/news053.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

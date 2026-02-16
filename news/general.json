@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-16T06:07:53.517592+09:00",
+  "generated_at": "2026-02-17T06:09:02.253951+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "LLM-Based Learning Platform For Chip Design Education (RPTU)",
-    "summary": "RPTU大学がLLMを活用した半導体設計教育プラットフォームを発表。初心者でも容易に学べるように支援する。",
+    "title": "レゾナック25年度、AI追い風に半導体材料が47％増益",
+    "summary": "レゾナック、25年度はAI需要で半導体材料が好調。全体売上は微減も営業利益は18.4%増と過去最高益を達成。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/llm-based-learning-platform-for-chip-design-education-rptu"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/16/news076.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "LLM-Based Learning Platform For Chip Design Education (RPTU)",
-        "blurb": "RPTU大学がLLMを活用した半導体設計教育プラットフォームを発表。初心者でも容易に学べるように支援する。",
+        "title": "Silanna Semiconductor Launches Compact and Efficient Laser Firing System ICs",
+        "blurb": "Silanna Semiconductorが、LiDAR・レンジファインダー向けに小型・高効率なレーザー駆動ICを発表。チップ面積と消費電力を削減。",
         "category": "company",
-        "date": "2026-02-15",
+        "date": "2026-02-16",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/llm-based-learning-platform-for-chip-design-education-rptu"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/silanna-semiconductor-launches-compact-and-efficient-laser-firing-system-ics"
         },
         "field": {
           "primary": "general",
@@ -35,16 +35,53 @@
         }
       }
     ],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "CNT Nano Sandpaper For Atomic-Level Polishing (KAIST)",
-        "blurb": "KAISTが原子レベル研磨用のCNTナノサンドペーパーを開発。従来の研磨材の限界を超え、高精度な表面仕上げを実現。",
-        "category": "tools",
-        "date": "2026-02-15",
+        "title": "レゾナック25年度、AI追い風に半導体材料が47％増益",
+        "blurb": "レゾナック、25年度はAI需要で半導体材料が好調。全体売上は微減も営業利益は18.4%増と過去最高益を達成。",
+        "category": "business",
+        "date": "2026-02-16",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cnt-nano-sandpaper-for-atomic-level-polishing-kaist"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/16/news076.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "シリコンウエハー世界市場、成長軌道は先端とレガシーで二極化",
+        "blurb": "2025年のシリコンウエハー市場は出荷量増、販売額減。先端とレガシーで二極化。",
+        "category": "business",
+        "date": "2026-02-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/16/news031.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Laser driver ICs cut power losses by 70%",
+        "blurb": "Silanna SemiconductorのレーザードライバーIC、FirePowerシリーズが量産開始。電力損失を70%削減し、フットプリントを80%縮小。",
+        "category": "business",
+        "date": "2026-02-17",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/laser-driver-ics-cut-power-losses-by-70"
         },
         "field": {
           "primary": "general",
@@ -54,7 +91,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }
