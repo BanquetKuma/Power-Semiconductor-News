@@ -1,60 +1,41 @@
 {
-  "generated_at": "2026-02-17T06:09:02.252755+09:00",
+  "generated_at": "2026-02-18T06:13:12.542853+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "エージェントAIをエッジに簡単実装　NXPが開発ツール刷新",
-    "summary": "NXPがエッジAI開発ツールを刷新。自律型AIをエッジで実現する「eIQ Agentic AI Framework」を発表し、プロトタイピングや評価を迅速化。",
+    "title": "2nm世代以降のGAAチップの性能向上へ、AMATの新装置",
+    "summary": "AMATが2nm以降GAAチップの性能向上装置を発表。大手ファウンドリーなどが既に導入済み。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/16/news053.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/17/news036.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "AIサーバ向け差動クロック用水晶発振器、京セラ",
-        "blurb": "京セラはAIサーバ向け差動クロック用水晶発振器「Xシリーズ」を開発、量産を開始。低ノイズで高速・大容量通信に適する。",
+        "title": "2nm世代以降のGAAチップの性能向上へ、AMATの新装置",
+        "blurb": "AMATが2nm以降GAAチップの性能向上装置を発表。大手ファウンドリーなどが既に導入済み。",
         "category": "company",
-        "date": "2026-02-16",
+        "date": "2026-02-17",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news028.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/17/news036.html"
         },
         "field": {
           "primary": "ai",
           "device": null,
-          "process": null,
+          "process": "equipment",
           "market": "ai",
-          "industry": null
+          "industry": "foundry"
         }
       }
     ],
-    "tech": [
-      {
-        "title": "エージェントAIをエッジに簡単実装　NXPが開発ツール刷新",
-        "blurb": "NXPがエッジAI開発ツールを刷新。自律型AIをエッジで実現する「eIQ Agentic AI Framework」を発表し、プロトタイピングや評価を迅速化。",
-        "category": "tools",
-        "date": "2026-02-16",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/16/news053.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": []
   }
 }

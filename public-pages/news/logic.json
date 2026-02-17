@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-02-17T06:09:02.252268+09:00",
+  "generated_at": "2026-02-18T06:13:12.542582+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Geehy G32R430 Cortex-M52 Encoder MCU Integrates ATAN Accelerator and Dual ADCs",
-    "summary": "Geehy Semiconductorが、産業用モーション制御向けにサブ1μsの角度計算、デュアル16ビットADC、低消費電力を備えたCortex-M52ベースのG32R430を発表。",
+    "title": "Detecting Architectural Vulnerabilities in Closed-Source RISC-V CPUs (CISPA)",
+    "summary": "CISPAの研究者が、クローズドソースRISC-V CPUの脆弱性検出手法「RISCover」を発表。セキュリティ分析の困難さを克服。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/geehy-g32r430-cortex-m52-encoder-mcu-integrates-atan-accelerator-and-dual-adcs"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/detecting-architectural-vulnerabilities-in-closed-source-risc-v-cpus-cispa"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Geehy G32R430 Cortex-M52 Encoder MCU Integrates ATAN Accelerator and Dual ADCs",
-        "blurb": "Geehy Semiconductorが、産業用モーション制御向けにサブ1μsの角度計算、デュアル16ビットADC、低消費電力を備えたCortex-M52ベースのG32R430を発表。",
+        "title": "STの28nm FD-SOI採用SoC FPGAが宇宙向け認証取得",
+        "blurb": "STマイクロとNanoXploreの耐放射線SoC FPGA「NG-ULTRA」が宇宙向け規格認証を取得。衛星機器への搭載が進む見通し。",
         "category": "company",
-        "date": "2026-02-16",
+        "date": "2026-02-17",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/geehy-g32r430-cortex-m52-encoder-mcu-integrates-atan-accelerator-and-dual-adcs"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/17/news037.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Detecting Architectural Vulnerabilities in Closed-Source RISC-V CPUs (CISPA)",
+        "blurb": "CISPAの研究者が、クローズドソースRISC-V CPUの脆弱性検出手法「RISCover」を発表。セキュリティ分析の困難さを克服。",
+        "category": "tools",
+        "date": "2026-02-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/detecting-architectural-vulnerabilities-in-closed-source-risc-v-cpus-cispa"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }
