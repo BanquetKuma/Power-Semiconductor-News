@@ -1,39 +1,40 @@
 {
-  "generated_at": "2026-02-18T06:13:17.186048+09:00",
-  "date": "2026-02-18",
+  "generated_at": "2026-02-19T06:15:01.405077+09:00",
+  "date": "2026-02-19",
   "meta_trends": [
     {
-      "name": "パワー半導体材料の進化と応用拡大",
+      "name": "次世代パワー半導体の需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "datacenter",
-        "industrial"
+        "ai"
       ],
-      "summary": "SiC、GaNなどの次世代パワー半導体材料が進化し、EV、データセンター、産業機器など幅広い分野での採用が拡大している。",
+      "summary": "AIやデータセンターの電力需要増、EVシフトにより、GaNやSiCといった次世代パワー半導体の需要が急速に拡大している。",
       "analysis": {
-        "short_term": "SiC/GaNパワーモジュール、ゲートドライバの発表が続く。",
-        "mid_term": "EVバッテリー寿命延長や高効率化への貢献が期待される。",
-        "investment_implications": "材料メーカー、デバイスメーカーへの投資妙味。"
+        "short_term": "供給逼迫と技術革新が継続。価格上昇圧力も。",
+        "mid_term": "性能向上とコスト低減が進み、用途がさらに拡大。",
+        "investment_implications": "関連企業への投資妙味は高い。"
       },
       "keywords": [
-        "SiC",
         "GaN",
+        "SiC",
         "EV",
-        "power module"
+        "データセンター",
+        "AI"
       ],
       "companies_mentioned": [
         "Infineon",
         "EPC",
-        "Renesas",
-        "Navitas",
-        "AlN"
+        "ルネサス",
+        "ローム",
+        "東芝"
       ]
     },
     {
-      "name": "AI・データセンター向け需要の拡大",
+      "name": "AI・データセンター向け高性能化競争",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -41,130 +42,119 @@
         "datacenter",
         "memory",
         "logic",
-        "equipment"
+        "backend"
       ],
-      "summary": "AIサーバー向け高性能・高効率な半導体、メモリ、関連装置への需要が急増。データセンターの抽象化競争も激化。",
+      "summary": "AIのスケーリングやデータセンターの大規模抽象化が進み、HBM4、チップレット、インパッケージ光学などの高性能化技術が重要視されている。",
       "analysis": {
-        "short_term": "AIサーバ向け部品（クロック発振器等）の量産開始。",
-        "mid_term": "2nm世代以降のGAAチップ性能向上装置への投資が進む。",
-        "investment_implications": "AI向け半導体、装置、材料メーカーに注目。"
+        "short_term": "新技術・新アーキテクチャの発表が活発化。",
+        "mid_term": "AIデータセンターの恩恵が顕在化し、市場を牽引。",
+        "investment_implications": "先端技術を持つファウンドリ、設計企業に注目。"
       },
       "keywords": [
         "AI",
-        "datacenter",
-        "GAA",
-        "memory"
+        "データセンター",
+        "HBM4",
+        "チップレット",
+        "GAA"
       ],
       "companies_mentioned": [
+        "TSMC",
         "AMAT",
-        "京セラ",
-        "NXP",
+        "NXP"
+      ]
+    },
+    {
+      "name": "中国の半導体技術開発と地政学リスク",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "geopolitics",
+        "frontend",
+        "foundry",
+        "equipment"
+      ],
+      "summary": "中国がEUV露光装置などの開発を進めており、技術格差の縮小が示唆されている。地政学リスクは依然として高い。",
+      "analysis": {
+        "short_term": "中国の技術進展に注視が必要。",
+        "mid_term": "輸出規制などの影響が継続する可能性。",
+        "investment_implications": "サプライチェーンの多様化が重要。"
+      },
+      "keywords": [
+        "EUV",
+        "中国",
+        "地政学リスク",
+        "露光装置"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "半導体材料分野での成長戦略",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "wafer",
+        "equipment",
+        "ai",
+        "foundry"
+      ],
+      "summary": "AI需要を追い風に、レゾナックなどの素材メーカーが半導体分野への投資を強化し、売上比率向上を目指している。",
+      "analysis": {
+        "short_term": "AI関連材料の需要増が業績を牽引。",
+        "mid_term": "先端材料開発競争が激化する見込み。",
+        "investment_implications": "成長戦略を持つ素材メーカーに注目。"
+      },
+      "keywords": [
+        "半導体材料",
+        "AI",
+        "レゾナック",
+        "後工程"
+      ],
+      "companies_mentioned": [
         "レゾナック"
       ]
     },
     {
-      "name": "半導体設計・製造人材育成と教育",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "foundry",
-        "fabless",
-        "idm",
-        "general"
-      ],
-      "summary": "コンピュータサイエンス学生へのハードウェア設計教育や、LLMを活用した設計教育プラットフォームが提案されている。",
-      "analysis": {
-        "short_term": "LLM活用教育プラットフォームの発表。",
-        "mid_term": "ハードウェア設計人材不足解消への貢献が期待される。",
-        "investment_implications": "教育関連サービス、半導体設計ツール企業に注目。"
-      },
-      "keywords": [
-        "education",
-        "hardware design",
-        "LLM",
-        "talent shortage"
-      ],
-      "companies_mentioned": [
-        "RPTU",
-        "CISPA"
-      ]
-    },
-    {
-      "name": "先端製造技術とサプライチェーン再編",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "foundry",
-        "frontend",
-        "backend",
-        "geopolitics"
-      ],
-      "summary": "EUV露光技術開発や2nmノード以降の微細化技術が進展。地政学リスクを背景としたサプライチェーン再編の動きも活発化。",
-      "analysis": {
-        "short_term": "中国のEUV技術開発動向に注視。",
-        "mid_term": "米国での半導体製造能力増強の動きが加速。",
-        "investment_implications": "先端ファウンドリ、製造装置、材料メーカーに恩恵。"
-      },
-      "keywords": [
-        "EUV",
-        "2nm node",
-        "foundry",
-        "supply chain"
-      ],
-      "companies_mentioned": [
-        "TSMC",
-        "GF",
-        "Renesas",
-        "Intel",
-        "Tower Semiconductor"
-      ]
-    },
-    {
-      "name": "新材料・新構造半導体の研究開発",
+      "name": "半導体人材育成と教育の変革",
       "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "analog",
-        "frontend",
-        "miniaturization"
+        "general",
+        "equipment",
+        "logic"
       ],
-      "summary": "ゲルマニウム・スズ合金、窒化アルミニウム、カーボンナノチューブなど新材料や、ナノレーザー、高感度センサー等の研究が進む。",
+      "summary": "半導体業界の人材不足が深刻化する中、コンピュータサイエンス専攻者へのハードウェア設計教育や、製造DXにおける人材育成が課題となっている。",
       "analysis": {
-        "short_term": "新材料を用いたセンサー、レーザー等の研究発表。",
-        "mid_term": "将来的な高性能・低消費電力デバイスへの応用が期待。",
-        "investment_implications": "基礎研究段階だが、将来的な技術シーズに注目。"
+        "short_term": "人材育成策の重要性が増す。",
+        "mid_term": "教育カリキュラムの変革が業界の成長を支える。",
+        "investment_implications": "人材育成に注力する企業は強みを持つ。"
       },
       "keywords": [
-        "new materials",
-        "nanotechnology",
-        "sensor",
-        "laser"
+        "人材不足",
+        "DX",
+        "教育",
+        "ハードウェア設計"
       ],
       "companies_mentioned": [
-        "University of Edinburgh",
-        "DTU",
-        "京工繊大",
-        "中央大"
+        "東京エレクトロンデバイス"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け半導体需要の旺盛さ",
-      "EV・再生可能エネルギー向けパワー半導体需要の拡大",
-      "先端ロジック・ファウンドリ分野への継続的な投資",
-      "半導体材料（特に後工程）の需要増"
+      "AI・データセンター向け高性能半導体の需要増",
+      "EVシフトによるSiC・GaNパワー半導体の需要増",
+      "半導体材料分野への重点投資と成長戦略",
+      "先端パッケージング技術（チップレット、2.5D）の進化"
     ],
     "bearish": [
-      "IntelとTower Semiconductorの製造契約撤回による不確実性",
-      "シリコンウェハー市場の先端とレガシーでの二極化による価格変動リスク"
+      "地政学リスクによるサプライチェーンの不安定化",
+      "IntelとTower Semiconductorの製造契約撤回による影響"
     ],
     "neutral": [
-      "中国のEUV技術開発の進展度合い",
-      "半導体設計人材育成の進捗"
+      "中国のEUV露光装置開発動向",
+      "DRAM市場の動向",
+      "RISC-V CPUのセキュリティ脆弱性検出技術"
     ]
   },
-  "source_count": 46
+  "source_count": 42
 }

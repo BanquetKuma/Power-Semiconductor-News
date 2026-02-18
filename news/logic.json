@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T06:13:12.542582+09:00",
+  "generated_at": "2026-02-19T06:14:57.152068+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
@@ -17,29 +17,9 @@
   "sections": {
     "news": [
       {
-        "title": "STの28nm FD-SOI採用SoC FPGAが宇宙向け認証取得",
-        "blurb": "STマイクロとNanoXploreの耐放射線SoC FPGA「NG-ULTRA」が宇宙向け規格認証を取得。衛星機器への搭載が進む見通し。",
-        "category": "company",
-        "date": "2026-02-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/17/news037.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
         "title": "Detecting Architectural Vulnerabilities in Closed-Source RISC-V CPUs (CISPA)",
         "blurb": "CISPAの研究者が、クローズドソースRISC-V CPUの脆弱性検出手法「RISCover」を発表。セキュリティ分析の困難さを克服。",
-        "category": "tools",
+        "category": "company",
         "date": "2026-02-18",
         "stars": 3,
         "source": {
@@ -53,8 +33,27 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "MYIR MYC-CZU3EG-V3 SoM Powered by AMD Zynq UltraScale+ MPSoC",
+        "blurb": "MYIRがAMD Zynq UltraScale+ MPSoC搭載のSoM「MYC-CZU3EG-V3」を発表。産業・エッジ用途向け。",
+        "category": "company",
+        "date": "2026-02-18",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/myir-myc-czu3eg-v3-som-powered-by-amd-zynq-ultrascale-mpsoc"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": "fabless"
+        }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

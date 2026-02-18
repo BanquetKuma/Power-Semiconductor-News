@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-18T06:13:12.541994+09:00",
+  "generated_at": "2026-02-19T06:14:57.151297+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Inside 2025’s SiC Power Module Innovations, Part 2",
-    "summary": "2025年のパワーエレクトロニクス業界におけるSiCパワーモジュールの革新について、11の製品リリースを詳述。",
+    "title": "GaN Goes Big: How 300 mm Wafers are Powering the Next Generation of Data Centers",
+    "summary": "データセンターの電力需要増に対応するため、次世代技術として窒化ガリウム(GaN)が注目されている。AI需要拡大で省電力化が急務となっている。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-2"
+        "url": "https://www.powerelectronicsnews.com/gan-goes-big-how-300-mm-wafers-are-powering-the-next-generation-of-data-centers"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Infineon Introduces New EiceDRIVER Isolated Gate Drivers",
-        "blurb": "インフィニオン、高CMTI・高速スイッチングの新型EiceDRIVERゲートドライバを発表。SiC・シリコンパワー段向け。",
+        "title": "SiC用いる3相インバーター回路用参照設計図、ロームが公開",
+        "blurb": "ロームがSiCモジュール搭載の3相インバーター回路向け参照設計図を公開。実機評価工数削減に貢献。",
         "category": "company",
-        "date": "2026-02-17",
+        "date": "2026-02-18",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-introduces-new-eicedriver-isolated-gate-drivers"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/18/news034.html"
         },
         "field": {
           "primary": "power",
@@ -38,20 +38,38 @@
     "tech": [],
     "market": [
       {
-        "title": "Inside 2025’s SiC Power Module Innovations, Part 2",
-        "blurb": "2025年のパワーエレクトロニクス業界におけるSiCパワーモジュールの革新について、11の製品リリースを詳述。",
+        "title": "GaN Goes Big: How 300 mm Wafers are Powering the Next Generation of Data Centers",
+        "blurb": "データセンターの電力需要増に対応するため、次世代技術として窒化ガリウム(GaN)が注目されている。AI需要拡大で省電力化が急務となっている。",
         "category": "business",
-        "date": "2026-02-17",
+        "date": "2026-02-18",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-2"
+          "url": "https://www.powerelectronicsnews.com/gan-goes-big-how-300-mm-wafers-are-powering-the-next-generation-of-data-centers"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "SiCのスイッチング損失28％削減！　東芝の新ゲートドライバー技術",
+        "blurb": "東芝はSiCパワーデバイスの性能を高める次世代ゲートドライバー技術を発表。EVやデータセンター向け電源の高効率化・小型化・信頼性向上に貢献。",
+        "category": "business",
+        "date": "2026-02-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/17/news074.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       }
