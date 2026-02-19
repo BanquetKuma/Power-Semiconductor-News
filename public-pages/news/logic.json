@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-02-19T06:14:57.152068+09:00",
+  "generated_at": "2026-02-20T06:10:31.499145+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Detecting Architectural Vulnerabilities in Closed-Source RISC-V CPUs (CISPA)",
-    "summary": "CISPAの研究者が、クローズドソースRISC-V CPUの脆弱性検出手法「RISCover」を発表。セキュリティ分析の困難さを克服。",
+    "title": "Enabling the Industry’s First GPU-Accelerated Manufacturing Platform",
+    "summary": "GPU活用で計算リソグラフィのコンピューティング需要増に対応。半導体製造プラットフォームの高速化を実現。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/detecting-architectural-vulnerabilities-in-closed-source-risc-v-cpus-cispa"
+        "url": "https://semiengineering.com/enabling-the-industrys-first-gpu-accelerated-manufacturing-platform"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Detecting Architectural Vulnerabilities in Closed-Source RISC-V CPUs (CISPA)",
-        "blurb": "CISPAの研究者が、クローズドソースRISC-V CPUの脆弱性検出手法「RISCover」を発表。セキュリティ分析の困難さを克服。",
-        "category": "company",
-        "date": "2026-02-18",
+        "title": "Enabling the Industry’s First GPU-Accelerated Manufacturing Platform",
+        "blurb": "GPU活用で計算リソグラフィのコンピューティング需要増に対応。半導体製造プラットフォームの高速化を実現。",
+        "category": "business",
+        "date": "2026-02-19",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/detecting-architectural-vulnerabilities-in-closed-source-risc-v-cpus-cispa"
+          "url": "https://semiengineering.com/enabling-the-industrys-first-gpu-accelerated-manufacturing-platform"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI is stress-testing processor architectures and RISC-V fits the moment",
+        "blurb": "AIの進化がプロセッサアーキテクチャに新たな要求を突きつけ、RISC-Vがその需要に応える形で注目されている。",
+        "category": "business",
+        "date": "2026-02-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-is-stress-testing-processor-architectures-and-risc-v-fits-the-moment"
         },
         "field": {
           "primary": "logic",
@@ -33,27 +53,7 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "MYIR MYC-CZU3EG-V3 SoM Powered by AMD Zynq UltraScale+ MPSoC",
-        "blurb": "MYIRがAMD Zynq UltraScale+ MPSoC搭載のSoM「MYC-CZU3EG-V3」を発表。産業・エッジ用途向け。",
-        "category": "company",
-        "date": "2026-02-18",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/myir-myc-czu3eg-v3-som-powered-by-amd-zynq-ultrascale-mpsoc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": "fabless"
-        }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
