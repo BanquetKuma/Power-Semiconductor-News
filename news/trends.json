@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-20T06:10:36.839630+09:00",
-  "date": "2026-02-20",
+  "generated_at": "2026-02-21T06:07:03.148019+09:00",
+  "date": "2026-02-21",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の普及加速",
+      "name": "次世代パワー半導体の進化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,151 +12,163 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "車載、データセンター、産業機器向けにSiCやGaNパワー半導体の採用が拡大。高効率化・小型化ニーズに対応。",
+      "summary": "SiCやGaN、ダイヤモンド半導体などの新材料・新技術がEV、AIデータセンター、ロボット等で性能向上に貢献。",
       "analysis": {
-        "short_term": "需要増で供給逼迫の可能性。価格上昇も。",
-        "mid_term": "技術革新と生産能力増強で競争激化。",
-        "investment_implications": "SiC/GaN材料・デバイスメーカーに注目。"
+        "short_term": "需要拡大が継続。材料・製造技術の競争激化。",
+        "mid_term": "標準化とコスト低減が進む。応用分野が拡大。",
+        "investment_implications": "関連材料・製造装置メーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
         "GaN",
+        "ダイヤモンド半導体",
         "EV",
-        "データセンター",
-        "高効率"
+        "AIデータセンター"
       ],
       "companies_mentioned": [
+        "EPC",
+        "Renesas",
         "SemiQ",
-        "Infineon",
-        "東芝",
-        "ローム"
+        "STMicroelectronics",
+        "Vishay",
+        "ローム",
+        "東芝"
       ]
     },
     {
-      "name": "AI・HPC向け先端パッケージング技術",
+      "name": "AI・データセンター向け半導体需要",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "logic",
         "ai",
         "datacenter",
-        "backend",
+        "logic",
+        "memory",
         "foundry"
       ],
-      "summary": "AI・HPCの計算能力向上に伴い、HBMや2.5D/3Dパッケージング技術の重要性が増大。",
+      "summary": "AI処理能力向上のため、高性能・高密度・低消費電力な半導体（特にメモリ、ロジック）への需要が急増。",
       "analysis": {
-        "short_term": "HBM供給不足が顕在化する可能性。",
-        "mid_term": "新メモリ技術（HBF等）や積層技術が進化。",
-        "investment_implications": "先端パッケージング・メモリ関連企業に投資妙味。"
+        "short_term": "HBM、HBF等、AI特化型メモリ開発競争が激化。",
+        "mid_term": "チップレット、3D積層技術が進化。製造装置・ファウンドリへの恩恵。",
+        "investment_implications": "AI向け半導体・製造技術への投資が有望。"
       },
       "keywords": [
         "AI",
-        "HPC",
+        "データセンター",
         "HBM",
-        "2.5D",
-        "3Dパッケージング"
+        "HBF",
+        "チップレット"
       ],
       "companies_mentioned": [
-        "TSMC"
+        "TSMC",
+        "Intel",
+        "ルネサス",
+        "Qualcomm"
       ]
     },
     {
-      "name": "製造プロセスDXと自動化の進展",
-      "confidence": 0.8,
+      "name": "車載半導体の高度化とSDV化",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "logic",
+        "power",
+        "idm"
+      ],
+      "summary": "ソフトウェア・デファインド・ビークル（SDV）化に伴い、高性能SoC、ゲートドライバ、パワー半導体への需要が増加。",
+      "analysis": {
+        "short_term": "次世代EV向けSoC開発競争が加速。機能安全対応が重要。",
+        "mid_term": "自動運転、コネクテッド機能の進化で車載半導体の重要性が増す。",
+        "investment_implications": "車載SoC、パワー半導体メーカーに注目。"
+      },
+      "keywords": [
+        "SDV",
+        "EV",
+        "SoC",
+        "自動運転",
+        "機能安全"
+      ],
+      "companies_mentioned": [
+        "ルネサス",
+        "Infineon",
+        "BMW",
+        "Tata",
+        "Qualcomm"
+      ]
+    },
+    {
+      "name": "EUVリソグラフィ技術の進展",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "foundry",
+        "equipment",
+        "geopolitics"
+      ],
+      "summary": "最先端ロジック半導体製造に不可欠なEUVリソグラフィ技術において、中国のキャッチアップの動きが見られる。",
+      "analysis": {
+        "short_term": "技術開発競争が激化。地政学的リスクも影響。",
+        "mid_term": "EUV装置メーカーへの投資機会。中国の動向を注視。",
+        "investment_implications": "先端露光装置メーカー、関連材料サプライヤーに注目。"
+      },
+      "keywords": [
+        "EUV",
+        "リソグラフィ",
+        "先端ロジック",
+        "地政学"
+      ],
+      "companies_mentioned": [
+        "ASML",
+        "中国企業"
+      ]
+    },
+    {
+      "name": "半導体製造のDXと自動化",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
         "equipment",
         "foundry",
-        "frontend",
-        "backend",
-        "ai",
-        "wafer"
+        "fabless",
+        "wafer",
+        "backend"
       ],
-      "summary": "GPU活用やAIによるシミュレーション高速化、仮想製造など、製造プロセス全体のDXと自動化が進む。",
+      "summary": "AI活用による製造プロセスの最適化、仮想製造、自動化が進展し、生産性向上とコスト削減を目指す。",
       "analysis": {
-        "short_term": "AI・GPU活用プラットフォームへの投資増加。",
-        "mid_term": "人材育成がDX推進の鍵となる。",
-        "investment_implications": "製造装置・ソフトウェアベンダーに機会。"
+        "short_term": "DXソリューション導入が進む。データ活用が鍵。",
+        "mid_term": "歩留まり向上、リードタイム短縮に貢献。標準化が課題。",
+        "investment_implications": "製造装置・ソフトウェアベンダーの成長が期待される。"
       },
       "keywords": [
         "DX",
         "AI",
-        "GPU",
         "自動化",
-        "仮想製造"
+        "仮想製造",
+        "生産性向上"
       ],
       "companies_mentioned": [
         "東京エレクトロンデバイス",
         "オキサイド"
       ]
-    },
-    {
-      "name": "次世代通信技術のIoT/車載展開",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "industrial",
-        "automotive",
-        "logic",
-        "datacenter"
-      ],
-      "summary": "Wi-Fi 7などの次世代通信技術が、IoTや車載分野へも普及し、新たなアプリケーションを創出。",
-      "analysis": {
-        "short_term": "Wi-Fi 7対応デバイスの登場に注目。",
-        "mid_term": "通信インフラ投資が活発化する可能性。",
-        "investment_implications": "通信チップ・モジュールメーカーが恩恵。"
-      },
-      "keywords": [
-        "Wi-Fi 7",
-        "IoT",
-        "車載",
-        "高速通信"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "先端製造技術における課題と革新",
-      "confidence": 0.7,
-      "momentum": "stable",
-      "related_fields": [
-        "frontend",
-        "backend",
-        "wafer",
-        "foundry",
-        "geopolitics"
-      ],
-      "summary": "EUV露光、低温度背面金属化、ウェーハ内ばらつき管理など、先端製造における技術課題への対応が進む。",
-      "analysis": {
-        "short_term": "EUV関連技術・材料への関心継続。",
-        "mid_term": "中国の技術動向が市場に影響を与える可能性。",
-        "investment_implications": "先端プロセス技術を持つ企業を注視。"
-      },
-      "keywords": [
-        "EUV",
-        "背面金属化",
-        "ウェーハ",
-        "汚染対策"
-      ],
-      "companies_mentioned": [
-        "STマイクロエレクトロニクス"
-      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・HPC向け需要の継続的な拡大",
-      "EVシフトに伴う車載半導体需要の堅調さ",
-      "データセンター投資の活発化"
+      "AI・データセンター向け需要の急増",
+      "次世代パワー半導体の応用拡大",
+      "車載半導体の高性能化・SDV化の進展",
+      "半導体製造のDXによる生産性向上への期待"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不安定化",
-      "先端技術開発における巨額な設備投資負担"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "最先端技術開発における技術的・コスト的ハードル"
     ],
     "neutral": [
-      "半導体製造装置メーカー間の競争激化",
-      "新興材料（ダイヤモンド等）の市場浸透時期の不確実性"
+      "DRAM市場の動向",
+      "中国の半導体技術開発の進捗"
     ]
   },
-  "source_count": 38
+  "source_count": 47
 }

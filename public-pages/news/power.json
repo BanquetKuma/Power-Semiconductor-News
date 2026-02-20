@@ -1,24 +1,42 @@
 {
-  "generated_at": "2026-02-20T06:10:31.498482+09:00",
+  "generated_at": "2026-02-21T06:06:57.098916+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "SemiQ Announces New SiC Power Solutions",
-    "summary": "SemiQは、高出力インフラや次世代AIデータセンター向けの新SiCパワーソリューションを発表しました。",
+    "title": "GaN Powers Humanoid Robots",
+    "summary": "窒化ガリウム（GaN）が、ロボットの関節（手首、肘、足首、股関節、膝、肩）の性能向上に貢献。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/semiq-announces-new-sic-power-solutions"
+        "url": "https://www.powerelectronicsnews.com/gan-powers-humanoid-robots"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "GaN Powers Humanoid Robots",
+        "blurb": "窒化ガリウム（GaN）が、ロボットの関節（手首、肘、足首、股関節、膝、肩）の性能向上に貢献。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/gan-powers-humanoid-robots"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Navitas tightens SiC losses with refined TAP",
-        "blurb": "Navitas Semiconductorは、高電圧トレンチアシスト平面（TAP）SiC MOSFETを特徴とする第5世代GeneSiCプラットフォームを発表しました。",
+        "blurb": "Navitas Semiconductorは、高電圧トレンチアシストプレーナー（TAP）SiC MOSFETを特徴とする第5世代GeneSiCプラットフォームを発表しました。",
         "category": "company",
         "date": "2026-02-20",
         "stars": 3,
@@ -36,43 +54,6 @@
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "SemiQ Announces New SiC Power Solutions",
-        "blurb": "SemiQは、高出力インフラや次世代AIデータセンター向けの新SiCパワーソリューションを発表しました。",
-        "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/semiq-announces-new-sic-power-solutions"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Analyzing industry efforts in scaling diamond semiconductor technology",
-        "blurb": "ダイヤモンド半導体は、既存システムへの統合で、シリコンやSiCの置き換えではなく、大規模な影響を与えるだろう。",
-        "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/analyzing-industry-efforts-in-scaling-diamond-semiconductor-technology"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

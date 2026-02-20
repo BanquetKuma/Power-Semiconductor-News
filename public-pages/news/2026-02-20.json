@@ -1,64 +1,46 @@
 {
-  "generated_at": "2026-02-20T06:10:31.497111+09:00",
+  "generated_at": "2026-02-21T06:06:57.097523+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Launches Isolated 4A Gate Drivers",
-    "summary": "STマイクロエレクトロニクスが、車載・産業用途向けの4Aゲートドライバを発表。高電圧絶縁と高速応答性を実現。",
+    "title": "Diamond Semiconductors, EUV Lithography, EPC-Renesas Partnership: Power Electronics Week Insights",
+    "summary": "次世代パワー半導体、EUVリソグラフィ、EPCとルネサスの提携など、パワーエレクトロニクス分野の最新動向をまとめた。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/st-launches-isolated-4a-gate-drivers"
+        "url": "https://www.powerelectronicsnews.com/diamond-semiconductors-euv-lithography-epc-renesas-partnership-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "SemiQ Announces New SiC Power Solutions",
-        "blurb": "SemiQは、高出力インフラや次世代AIデータセンター向けの新SiCパワーソリューションを発表しました。",
+        "title": "Chip Industry Week in Review",
+        "blurb": "半導体業界の最新動向：ISSCC研究、AIへの50億円投資、3D相互接続ツール、イーサネットセキュリティ、電力供給、インテル・グーグル連携、エッジ向けチップアーキテクチャなど。",
         "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/semiq-announces-new-sic-power-solutions"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Analyzing industry efforts in scaling diamond semiconductor technology",
-        "blurb": "ダイヤモンド半導体は、既存システムへの統合で、シリコンやSiCの置き換えではなく、大規模な影響を与えるだろう。",
-        "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/analyzing-industry-efforts-in-scaling-diamond-semiconductor-technology"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Redefining Backside Metallization: Low‑Temperature Solutions For HDFO And S‑SWIFT Designs",
-        "blurb": "HDFO・S-SWIFT設計向け、低温度での背面金属化技術が開発。効率的な放熱を実現し、パッケージ性能を向上させる。",
-        "category": "business",
-        "date": "2026-02-19",
+        "date": "2026-02-20",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/redefining-backside-metallization-low%e2%80%91temperature-solutions-for-hdfo-and-s%e2%80%91swift-designs"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-126"
+        },
+        "field": {
+          "primary": "idm",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "The On-Device LLM Revolution",
+        "blurb": "オンデバイスLLMが進化。3B～30Bモデルがエッジへ移行し、シリコンに影響。",
+        "category": "business",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-on-device-llm-revolution"
         },
         "field": {
           "primary": "general",
@@ -69,128 +51,26 @@
         }
       },
       {
-        "title": "Laser Arrays May Simplify Co-Packaged Optics",
-        "blurb": "レーザーアレイがコパッケージドオプティクスを簡素化する可能性。モノリシックチューナブルレーザーは静的・動的に適応可能。",
+        "title": "Automotive Week In Review",
+        "blurb": "EVバッテリーの進化、QualcommとTataの提携、自動運転関連の動向、ディーゼル・V8エンジンの復活など、自動車業界の最新動向をまとめた週刊レビュー。",
         "category": "business",
-        "date": "2026-02-19",
+        "date": "2026-02-20",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/laser-arrays-may-simplify-co-packaged-optics"
+          "url": "https://semiengineering.com/automotive-week-in-review-2"
         },
         "field": {
-          "primary": "general",
+          "primary": "automotive",
           "device": null,
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Why Indium Oxide Chips Are Getting So Much Attention",
-        "blurb": "インジウム酸化物チップは、実用化に向けた信頼性向上のための研究が進められているが、まだ多くの課題が残っている。",
-        "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-indium-oxide-chips-are-getting-so-much-attention"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Enabling the Industry’s First GPU-Accelerated Manufacturing Platform",
-        "blurb": "GPU活用で計算リソグラフィのコンピューティング需要増に対応。半導体製造プラットフォームの高速化を実現。",
-        "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enabling-the-industrys-first-gpu-accelerated-manufacturing-platform"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "NANDを再定義、HBMを補完するAI用メモリ技術「HBF」",
-        "blurb": "AI向けメモリ技術「HBF」は、NANDダイを積層し大容量化。HBMを補完する技術として期待が高まっている。",
-        "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/19/news066.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "オキサイドが半導体後工程向け装置事業を本格化",
-        "blurb": "オキサイドは台湾Boliteと提携し、半導体後工程向けレーザー微細加工装置事業を本格化する。",
-        "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/19/news042.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Preemptive utilities shutdown oversight: Too much, too little, or just right?",
-        "blurb": "悪天候前の電力遮断は予報精度に依存。過剰か不足か、適切な判断が求められる。",
-        "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/preemptive-utilities-shutdown-oversight-too-much-too-little-or-just-right"
-        },
-        "field": null
-      },
-      {
-        "title": "AI is stress-testing processor architectures and RISC-V fits the moment",
-        "blurb": "AIの進化がプロセッサアーキテクチャに新たな要求を突きつけ、RISC-Vがその需要に応える形で注目されている。",
-        "category": "business",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-is-stress-testing-processor-architectures-and-risc-v-fits-the-moment"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
+          "market": "automotive",
+          "industry": "fabless"
         }
       },
       {
         "title": "Automotive high-side driver withstands cold crank",
-        "blurb": "ST社の車載用高サイドドライバVNQ9050LAJは、コールドクランク時でも12V負荷を制御可能。",
+        "blurb": "ST社の車載用高サイドドライバ「VNQ9050LAJ」は、コールドクランク時でも12V負荷を制御可能。",
         "category": "business",
         "date": "2026-02-20",
         "stars": 3,
@@ -201,26 +81,8 @@
         "field": null
       },
       {
-        "title": "Embedded capacitors improve AI/HPC power delivery",
-        "blurb": "Empower社がAI/HPC向けに3種類の埋め込みシリコンキャパシタ（ECAP）を発表。電力供給を改善。",
-        "category": "business",
-        "date": "2026-02-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/embedded-capacitors-improve-ai-hpc-power-delivery"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Samsung leads with HBM4 DRAM performance",
-        "blurb": "サムスンが業界初のHBM4 DRAMの量産・出荷を開始。高性能メモリ市場をリード。",
+        "blurb": "サムスンが業界初のHBM4 DRAMの量産と出荷を開始。高性能コンピューティング市場での競争が激化。",
         "category": "business",
         "date": "2026-02-20",
         "stars": 3,
@@ -235,72 +97,42 @@
           "market": null,
           "industry": "idm"
         }
+      },
+      {
+        "title": "Diamond Semiconductors, EUV Lithography, EPC-Renesas Partnership: Power Electronics Week Insights",
+        "blurb": "次世代パワー半導体、EUVリソグラフィ、EPCとルネサスの提携など、パワーエレクトロニクス分野の最新動向をまとめた。",
+        "category": "business",
+        "date": "2026-02-21",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/diamond-semiconductors-euv-lithography-epc-renesas-partnership-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "tools": [
       {
-        "title": "Understanding Within-Wafer Variations: A Virtual Fabrication Approach",
-        "blurb": "ウェーハ内ばらつきを仮想製造で理解。テスト時間・コスト削減で歩留まり向上。",
+        "title": "Logarithmic amplifiers: A quick tour of theory and practice",
+        "blurb": "対数増幅器は、指数関数的な信号をデコードし、広いダイナミックレンジを抑制するために、舞台裏で機能します。",
         "category": "tools",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/understanding-within-wafer-variations-a-virtual-fabrication-approach"
-        },
-        "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Force Fields Will Accelerate Atomistic Simulations By 10,000× In 2026, Unlocking New Era Of Discovery",
-        "blurb": "機械学習により原子間力の計算が2026年までに1万倍高速化し、新発見の時代が開かれる。",
-        "category": "tools",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/force-fields-will-accelerate-atomistic-simulations-by-10000x-in-2026-unlocking-new-era-of-discovery"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「AIはどんな身体が欲しい？」 ChatGPTに聞いてみたら",
-        "blurb": "AIはどんな身体が欲しい？フィジカルAIやロボット開発が進む中、AI自身の願望を探る。",
-        "category": "tools",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/19/news075.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Using integration and differentiation in an oscilloscope",
-        "blurb": "オシロスコープの積分・微分機能を使った実用的な電気計測例を紹介。",
-        "category": "tools",
-        "date": "2026-02-19",
+        "date": "2026-02-20",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/using-integration-and-differentiation-in-an-oscilloscope"
+          "url": "https://www.edn.com/logarithmic-amplifiers-a-quick-tour-of-theory-and-practice"
         },
         "field": null
       },
       {
         "title": "Software accelerates 3D interconnect design",
-        "blurb": "Keysightが3Dチップレット設計を自動化するソフトウェアを発表。先進パッケージの設計を加速。",
+        "blurb": "Keysightは、チップレット・3Dパッケージ向け3D相互接続設計を自動化するソフトウェアを発表しました。",
         "category": "tools",
         "date": "2026-02-20",
         "stars": 3,
@@ -315,96 +147,60 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "MIKROE Introduces EnOcean 5 Click Board",
+        "blurb": "MIKROEがEnOceanプロトコル対応の無線通信ボード「EnOcean 5 Click」を発表。センサー等との双方向通信を可能にし、開発を加速。",
+        "category": "tools",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mikroe-introduces-enocean-5-click-board"
+        },
+        "field": null
       }
     ],
     "company": [
       {
-        "title": "Leading At Light Speed: What Makes Photonics Leadership Different",
-        "blurb": "フォトニクス分野のリーダーシップは、数年後に成熟する技術について、早期の意思決定を必要とする。",
+        "title": "GaN Powers Humanoid Robots",
+        "blurb": "窒化ガリウム（GaN）が、ロボットの関節（手首、肘、足首、股関節、膝、肩）の性能向上に貢献。",
         "category": "company",
-        "date": "2026-02-19",
+        "date": "2026-02-20",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/leading-at-light-speed-what-makes-photonics-leadership-different"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/gan-powers-humanoid-robots"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Vishay Introduces AEC-Q200 Qualified Thick Film Chip Resistors",
+        "blurb": "VishayがAEC-Q200認証の厚膜チップ抵抗器を発表。小型で高信頼性、広範囲の抵抗値に対応し、最大155℃で動作可能。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/vishay-introduces-aec-q200-qualified-thick-film-chip-resistors"
         },
         "field": {
           "primary": "general",
           "device": null,
           "process": null,
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "SEMI 2026 U.S. Policy Strategy",
-        "blurb": "SEMI、米国の半導体産業強化に向けた2026年までの政策戦略を発表。リーダーシップ向上のため5分野に注力。",
-        "category": "company",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/semi-2026-u-s-policy-strategy"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "When Cleaning Chips Isn’t Clean Enough",
-        "blurb": "先端半導体製造における汚染問題は、単純な解決策がなく、システムレベルの課題となっている。",
-        "category": "company",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/when-cleaning-chips-isnt-clean-enough"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "基準電圧の「空白地帯」に訴求　EV用シャントレファレンスIC",
-        "blurb": "エイブリックは、EV向け高精度シャントレファレンスIC「S-19760/1シリーズ」を発売。業界最高レベルの出力電圧精度と温度係数を実現。",
-        "category": "company",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/19/news110.html"
-        },
-        "field": null
-      },
-      {
-        "title": "SDVアーキテクチャの中核に　Infineonの半導体、BMWが新EVで採用",
-        "blurb": "インフィニオンの半導体がBMWの次世代EV「Neue Klasse」に採用。SDVアーキテクチャの中核を担う。",
-        "category": "company",
-        "date": "2026-02-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/19/news041.html"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
           "industry": null
         }
       },
       {
         "title": "ST Launches Isolated 4A Gate Drivers",
-        "blurb": "STマイクロエレクトロニクスが、車載・産業用途向けの4Aゲートドライバを発表。高電圧絶縁と高速応答性を実現。",
+        "blurb": "STマイクロエレクトロニクスが、車載・産業用途向けに4A出力、60ns応答、高耐圧絶縁のゲートドライバを発表。",
         "category": "company",
         "date": "2026-02-20",
         "stars": 3,
@@ -421,8 +217,98 @@
         }
       },
       {
+        "title": "アドバンテストにランサムウェア攻撃か　影響は調査中",
+        "blurb": "アドバンテスト、ランサムウェア攻撃か。サイバーセキュリティインシデント発生、顧客・従業員情報への影響は調査中。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news071.html"
+        },
+        "field": null
+      },
+      {
+        "title": "3nm車載SoC「R-Car X5H」用の新技術発表、ルネサス",
+        "blurb": "ルネサス、3nm車載SoC「R-Car X5H」向け新技術を発表。AI処理性能と機能安全規格対応を両立し、SDV時代に対応。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news042.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「業界最高」のメモリ密度　ルネサスの車載SoC向け3nm TCAM技術",
+        "blurb": "ルネサスが車載SoC向けに業界最高メモリ密度の3nm TCAM技術を発表。高密度化、低消費電力化、機能安全強化に貢献。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news051.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "エリクソン、日本の新R＆Dセンターを横浜に開設",
+        "blurb": "エリクソンが横浜に新R&Dセンターを開設。日本市場向け無線ハード/ソフト開発に注力。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news043.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Burning power lines",
+        "blurb": "老朽化した絶縁体の発火により、強風で電線が接触し火災が発生した。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/burning-power-lines"
+        },
+        "field": null
+      },
+      {
+        "title": "Embedded capacitors improve AI/HPC power delivery",
+        "blurb": "Empower社がAI/HPC向けに3種の積層セラミックコンデンサを発表。電力供給を改善。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/embedded-capacitors-improve-ai-hpc-power-delivery"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Navitas tightens SiC losses with refined TAP",
-        "blurb": "Navitas Semiconductorは、高電圧トレンチアシスト平面（TAP）SiC MOSFETを特徴とする第5世代GeneSiCプラットフォームを発表しました。",
+        "blurb": "Navitas Semiconductorは、高電圧トレンチアシストプレーナー（TAP）SiC MOSFETを特徴とする第5世代GeneSiCプラットフォームを発表しました。",
         "category": "company",
         "date": "2026-02-20",
         "stars": 3,
@@ -439,16 +325,94 @@
         }
       },
       {
-        "title": "「世界初」赤色LDによる植物栽培で高い成長促進効果を実証",
-        "blurb": "スタンレー電気と東京大学は共同で、植物栽培用の人工光源に赤色レーザーダイオード（LD）を用いれば、従来の発光ダイオード（LED）よりも、高い成長促進効果が得られることを「世界で初めて」（両者）実証した。",
+        "title": "Renesas Demonstrates Configurable 3nm TCAM",
+        "blurb": "ルネサス、3nmプロセスで高密度・低消費電力・高機能安全なTCAMを開発。車載向けに期待。",
         "category": "company",
-        "date": "2026-02-19",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/renesas-demonstrates-configurable-3nm-tcam"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Milk-V Titan Brings High-Performance RISC-V to the Mini-ITX Motherboard",
+        "blurb": "Milk-V Titanは、高性能RISC-V CPU搭載のMini-ITXマザーボード。サーバー級機能でエッジやデスクトップ用途に対応。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/milk-v-titan-brings-high-performance-risc-v-to-the-mini-itx-motherboard"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Nanoscale MoS₂-based Memristors Integrated into CMOS Microchips",
+        "blurb": "RWTHアーヘンとユーリッヒがMoS₂ベースのナノスケールメモリスタをCMOSマイクロチップに統合する技術を発表。高性能電子デバイスやニューロモルフィックコンピューティングへの応用が期待される。",
+        "category": "company",
+        "date": "2026-02-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/nanoscale-mos%e2%82%82-based-memristors-integrated-into-cmos-microchips"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "SPAD Imaging, Renesas 3nm TCAM Technology, LoRa Alliance 2025 Report: Embedded Week Insights",
+        "blurb": "SPADイメージング、ルネサス3nmTCAM技術、LoRa Alliance 2025年レポートなど、組み込み技術の最新動向をまとめた記事。",
+        "category": "company",
+        "date": "2026-02-21",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/spad-imaging-renesas-3nm-tcam-technology-lora-alliance-2025-report-embedded-week-insights"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「AIの進化」に追い付けない半導体開発　解決の道筋は",
+        "blurb": "2026年1月に欧州で開催された「HiPEAC 2026」カンファレンスでは、AIの進化と半導体の進化に大きなギャップが生まれつつあることに対する懸念が示された。カンファレンスではこうしたギャップを解消するソリューションの他、熟練エンジニア",
+        "category": "company",
+        "date": "2026-02-20",
         "stars": 2,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/19/news043.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news068.html"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "sns": []
