@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T06:06:34.611056+09:00",
-  "date": "2026-02-22",
+  "generated_at": "2026-02-23T06:07:22.814204+09:00",
+  "date": "2026-02-23",
   "meta_trends": [
     {
       "name": "次世代パワー半導体の台頭",
@@ -10,84 +10,81 @@
         "power",
         "automotive",
         "datacenter",
-        "industrial"
+        "ai"
       ],
-      "summary": "SiCやGaNといった新材料を用いたパワー半導体が、EV、データセンター、ロボットなど多岐にわたる分野で性能向上と省電力化に貢献。",
+      "summary": "SiCやGaNといった次世代パワー半導体が、EV、データセンター、AI分野での高効率化・高性能化ニーズに応え、急速に普及・進化している。",
       "analysis": {
-        "short_term": "需要拡大で供給逼迫の可能性。価格上昇圧力。",
-        "mid_term": "技術開発競争が激化し、性能向上とコストダウンが進む。",
+        "short_term": "需要増で供給逼迫、価格上昇の可能性。",
+        "mid_term": "技術革新と量産効果でコスト競争力向上。",
         "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "データセンター",
-        "ロボット"
+        "AI",
+        "データセンター"
       ],
       "companies_mentioned": [
         "SemiQ",
         "ローム",
         "東芝",
         "ルネサス",
-        "EPC",
-        "Renesas",
-        "STマイクロエレクトロニクス",
-        "Vishay"
+        "Infineon"
       ]
     },
     {
-      "name": "AI・データセンター向け需要拡大",
+      "name": "AI向け半導体開発の加速",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "memory",
         "logic",
-        "power"
+        "memory",
+        "frontend",
+        "backend"
       ],
-      "summary": "AI処理能力の向上とデータセンターの省電力化ニーズが高まり、高性能・高密度メモリやパワー半導体の需要が急増。",
+      "summary": "AIの進化は半導体開発のスピードを凌駕しつつあり、オンデバイスLLMやHBMを補完する新メモリ技術など、AI特化型半導体開発が急務となっている。",
       "analysis": {
-        "short_term": "HBM、HBFなどのAI特化メモリ需要が継続。",
-        "mid_term": "AIチップの進化に伴い、関連インフラ投資が加速。",
-        "investment_implications": "AI向け半導体・メモリ・インフラ関連企業に注目。"
+        "short_term": "AIチップの需要は引き続き旺盛。",
+        "mid_term": "開発効率化のためAI活用が進む。",
+        "investment_implications": "AI向け先端プロセス・設計企業に注目。"
       },
       "keywords": [
         "AI",
-        "データセンター",
+        "LLM",
         "HBM",
-        "HBF",
-        "メモリ"
+        "メモリ",
+        "チップレット"
       ],
       "companies_mentioned": [
-        "TSMC",
-        "Intel",
         "ルネサス",
-        "SemiQ"
+        "TSMC"
       ]
     },
     {
-      "name": "車載半導体の高度化・SDVシフト",
+      "name": "車載半導体の高度化とSDVシフト",
       "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "logic",
         "power",
-        "industrial"
+        "analog",
+        "datacenter"
       ],
-      "summary": "ソフトウェア・デファインド・ビークル（SDV）への移行が進み、高性能SoC、高信頼性パワー半導体、センサー等の需要が増加。",
+      "summary": "ソフトウェア・デファインド・ビークル（SDV）への移行に伴い、高性能SoC、ゲートドライバ、パワー半導体など、車載半導体の重要性が増している。",
       "analysis": {
-        "short_term": "EVシフトと自動運転技術開発が半導体需要を牽引。",
-        "mid_term": "SDVアーキテクチャの中核を担う半導体開発が加速。",
-        "investment_implications": "車載向け半導体メーカー、特にSDV関連技術に強みを持つ企業。"
+        "short_term": "SDV向けSoC開発競争が激化。",
+        "mid_term": "EVシフトと自動運転技術の進展で需要拡大。",
+        "investment_implications": "車載半導体メーカーの戦略が鍵。"
       },
       "keywords": [
         "SDV",
         "EV",
-        "自動運転",
         "SoC",
+        "自動運転",
         "車載半導体"
       ],
       "companies_mentioned": [
@@ -99,82 +96,77 @@
       ]
     },
     {
-      "name": "先端製造技術の進化とDX",
+      "name": "先端リソグラフィ技術の進化と普及",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
-        "equipment",
         "frontend",
-        "backend",
-        "wafer"
+        "equipment",
+        "logic",
+        "foundry"
       ],
-      "summary": "EUVリソグラフィ、2.5D/3Dパッケージング、低温度背面金属化など先端製造技術が進化。製造プロセスのDXも推進。",
+      "summary": "EUVリソグラフィ技術の進展や、ダイヤモンド半導体のような新材料を用いた製造技術が注目されており、半導体製造の限界を押し広げている。",
       "analysis": {
-        "short_term": "EUV装置・材料開発競争が激化。",
-        "mid_term": "パッケージング技術の進化がチップ性能向上を後押し。",
-        "investment_implications": "先端製造装置・材料メーカー、パッケージング技術関連企業。"
+        "short_term": "EUV装置の供給体制が鍵。",
+        "mid_term": "新材料・新技術の量産化が課題。",
+        "investment_implications": "先端露光装置・材料関連企業に注目。"
       },
       "keywords": [
         "EUV",
-        "パッケージング",
-        "DX",
         "リソグラフィ",
+        "ダイヤモンド半導体",
         "製造装置"
       ],
       "companies_mentioned": [
-        "TSMC",
-        "東京エレクトロンデバイス",
-        "オキサイド",
+        "EPC",
         "ルネサス",
-        "GF"
+        "TSMC"
       ]
     },
     {
-      "name": "新材料・新デバイスの探求",
+      "name": "半導体製造のDXと人材育成",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "frontend",
-        "logic",
-        "memory"
+        "equipment",
+        "foundry",
+        "fabless",
+        "idm",
+        "ai"
       ],
-      "summary": "ダイヤモンド半導体、MoS₂ベースメモリスタなど、既存材料・デバイスの限界を超える新材料・新デバイスの研究開発が活発化。",
+      "summary": "半導体製造におけるDX推進が急務だが、AI活用による生産性向上には人材育成が最大の課題となっており、熟練エンジニア不足も深刻化している。",
       "analysis": {
-        "short_term": "実用化に向けた技術課題の克服が焦点。",
-        "mid_term": "特定用途でのブレークスルーが期待される。",
-        "investment_implications": "長期的な視点での研究開発型企業への投資。"
+        "short_term": "DXツールの導入は進むが、効果は限定的。",
+        "mid_term": "AI活用による人材不足解消が期待される。",
+        "investment_implications": "DXソリューション・人材育成関連企業に注目。"
       },
       "keywords": [
-        "ダイヤモンド半導体",
-        "MoS₂",
-        "メモリスタ",
-        "新材料"
+        "DX",
+        "AI",
+        "人材育成",
+        "製造装置",
+        "生産性向上"
       ],
       "companies_mentioned": [
-        "EPC",
-        "Renesas",
-        "RWTHアーヘン",
-        "ユーリッヒ"
+        "東京エレクトロンデバイス",
+        "オキサイド"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け半導体需要の継続的な拡大",
-      "次世代パワー半導体（SiC/GaN）市場の急成長",
-      "車載半導体市場の堅調な成長（特にSDV関連）",
-      "先端製造技術（EUV、パッケージング）への投資活発化"
+      "AI需要による先端半導体需要の継続的な拡大",
+      "EVシフトに伴う車載半導体市場の成長",
+      "次世代パワー半導体（SiC/GaN）の普及加速"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "一部メモリ分野における供給過剰懸念（中長期的）"
+      "地政学的リスクによるサプライチェーンの不安定化",
+      "半導体開発における熟練エンジニア不足の深刻化"
     ],
     "neutral": [
-      "半導体製造装置市場のサイクル変動",
-      "中国の半導体技術開発動向（不透明感）"
+      "米中技術覇権争いの行方",
+      "DRAM市場の需給バランスの変動"
     ]
   },
-  "source_count": 55
+  "source_count": 50
 }

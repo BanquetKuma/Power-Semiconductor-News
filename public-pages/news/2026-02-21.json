@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T06:06:30.088931+09:00",
+  "generated_at": "2026-02-21T06:06:57.097523+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
@@ -14,6 +14,90 @@
   },
   "sections": {
     "business": [
+      {
+        "title": "Chip Industry Week in Review",
+        "blurb": "半導体業界の最新動向：ISSCC研究、AIへの50億円投資、3D相互接続ツール、イーサネットセキュリティ、電力供給、インテル・グーグル連携、エッジ向けチップアーキテクチャなど。",
+        "category": "business",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-126"
+        },
+        "field": {
+          "primary": "idm",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "The On-Device LLM Revolution",
+        "blurb": "オンデバイスLLMが進化。3B～30Bモデルがエッジへ移行し、シリコンに影響。",
+        "category": "business",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-on-device-llm-revolution"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Automotive Week In Review",
+        "blurb": "EVバッテリーの進化、QualcommとTataの提携、自動運転関連の動向、ディーゼル・V8エンジンの復活など、自動車業界の最新動向をまとめた週刊レビュー。",
+        "category": "business",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/automotive-week-in-review-2"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Automotive high-side driver withstands cold crank",
+        "blurb": "ST社の車載用高サイドドライバ「VNQ9050LAJ」は、コールドクランク時でも12V負荷を制御可能。",
+        "category": "business",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/automotive-high-side-driver-withstands-cold-crank"
+        },
+        "field": null
+      },
+      {
+        "title": "Samsung leads with HBM4 DRAM performance",
+        "blurb": "サムスンが業界初のHBM4 DRAMの量産と出荷を開始。高性能コンピューティング市場での競争が激化。",
+        "category": "business",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/samsung-leads-with-hbm4-dram-performance"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
       {
         "title": "Diamond Semiconductors, EUV Lithography, EPC-Renesas Partnership: Power Electronics Week Insights",
         "blurb": "次世代パワー半導体、EUVリソグラフィ、EPCとルネサスの提携など、パワーエレクトロニクス分野の最新動向をまとめた。",
@@ -31,68 +115,254 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "Ford's $30,000 EV Pickup Uses LFP Batteries For An Unexpected Reason",
-        "blurb": "フォードは、低価格EVトラックにLFPバッテリーを採用。コスト削減と供給安定化が狙い。",
-        "category": "business",
-        "date": "2026-02-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/787938/ford-affordable-ev-truck-lfp-battery"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Used EV Batteries Last Way Longer Than You Probably Think",
-        "blurb": "EVバッテリーは想定より長持ちする。劣化のばらつきが問題で、一概に寿命が短いとは言えない。",
-        "category": "business",
-        "date": "2026-02-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/787788/used-ev-battery-degradation-benchmark"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
       }
     ],
     "tools": [
       {
-        "title": "These Are The Most Reliable EV Charging Networks, According To EV Drivers",
-        "blurb": "EVドライバーによると、充電ネットワークは予想以上に信頼性が高く、明確なリーダーが存在する。",
+        "title": "Logarithmic amplifiers: A quick tour of theory and practice",
+        "blurb": "対数増幅器は、指数関数的な信号をデコードし、広いダイナミックレンジを抑制するために、舞台裏で機能します。",
         "category": "tools",
-        "date": "2026-02-21",
+        "date": "2026-02-20",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/787937/most-reliable-ev-charging-networks"
+          "name": "edn.com",
+          "url": "https://www.edn.com/logarithmic-amplifiers-a-quick-tour-of-theory-and-practice"
+        },
+        "field": null
+      },
+      {
+        "title": "Software accelerates 3D interconnect design",
+        "blurb": "Keysightは、チップレット・3Dパッケージ向け3D相互接続設計を自動化するソフトウェアを発表しました。",
+        "category": "tools",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/software-accelerates-3d-interconnect-design"
         },
         "field": {
-          "primary": "automotive",
+          "primary": "backend",
           "device": null,
-          "process": null,
-          "market": "automotive",
+          "process": "backend",
+          "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "MIKROE Introduces EnOcean 5 Click Board",
+        "blurb": "MIKROEがEnOceanプロトコル対応の無線通信ボード「EnOcean 5 Click」を発表。センサー等との双方向通信を可能にし、開発を加速。",
+        "category": "tools",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mikroe-introduces-enocean-5-click-board"
+        },
+        "field": null
       }
     ],
     "company": [
       {
+        "title": "GaN Powers Humanoid Robots",
+        "blurb": "窒化ガリウム（GaN）が、ロボットの関節（手首、肘、足首、股関節、膝、肩）の性能向上に貢献。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/gan-powers-humanoid-robots"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Vishay Introduces AEC-Q200 Qualified Thick Film Chip Resistors",
+        "blurb": "VishayがAEC-Q200認証の厚膜チップ抵抗器を発表。小型で高信頼性、広範囲の抵抗値に対応し、最大155℃で動作可能。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/vishay-introduces-aec-q200-qualified-thick-film-chip-resistors"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ST Launches Isolated 4A Gate Drivers",
+        "blurb": "STマイクロエレクトロニクスが、車載・産業用途向けに4A出力、60ns応答、高耐圧絶縁のゲートドライバを発表。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-launches-isolated-4a-gate-drivers"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "アドバンテストにランサムウェア攻撃か　影響は調査中",
+        "blurb": "アドバンテスト、ランサムウェア攻撃か。サイバーセキュリティインシデント発生、顧客・従業員情報への影響は調査中。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news071.html"
+        },
+        "field": null
+      },
+      {
+        "title": "3nm車載SoC「R-Car X5H」用の新技術発表、ルネサス",
+        "blurb": "ルネサス、3nm車載SoC「R-Car X5H」向け新技術を発表。AI処理性能と機能安全規格対応を両立し、SDV時代に対応。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news042.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「業界最高」のメモリ密度　ルネサスの車載SoC向け3nm TCAM技術",
+        "blurb": "ルネサスが車載SoC向けに業界最高メモリ密度の3nm TCAM技術を発表。高密度化、低消費電力化、機能安全強化に貢献。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news051.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "エリクソン、日本の新R＆Dセンターを横浜に開設",
+        "blurb": "エリクソンが横浜に新R&Dセンターを開設。日本市場向け無線ハード/ソフト開発に注力。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news043.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Burning power lines",
+        "blurb": "老朽化した絶縁体の発火により、強風で電線が接触し火災が発生した。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/burning-power-lines"
+        },
+        "field": null
+      },
+      {
+        "title": "Embedded capacitors improve AI/HPC power delivery",
+        "blurb": "Empower社がAI/HPC向けに3種の積層セラミックコンデンサを発表。電力供給を改善。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/embedded-capacitors-improve-ai-hpc-power-delivery"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Navitas tightens SiC losses with refined TAP",
+        "blurb": "Navitas Semiconductorは、高電圧トレンチアシストプレーナー（TAP）SiC MOSFETを特徴とする第5世代GeneSiCプラットフォームを発表しました。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/navitas-tightens-sic-losses-with-refined-tap"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Renesas Demonstrates Configurable 3nm TCAM",
+        "blurb": "ルネサス、3nmプロセスで高密度・低消費電力・高機能安全なTCAMを開発。車載向けに期待。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/renesas-demonstrates-configurable-3nm-tcam"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Milk-V Titan Brings High-Performance RISC-V to the Mini-ITX Motherboard",
+        "blurb": "Milk-V Titanは、高性能RISC-V CPU搭載のMini-ITXマザーボード。サーバー級機能でエッジやデスクトップ用途に対応。",
+        "category": "company",
+        "date": "2026-02-20",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/milk-v-titan-brings-high-performance-risc-v-to-the-mini-itx-motherboard"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
         "title": "Nanoscale MoS₂-based Memristors Integrated into CMOS Microchips",
-        "blurb": "RWTHアーヘンとユーリッヒが、CMOSマイクロチップにMoS₂ベースのナノスケールメモリスタを統合する技術を発表。",
+        "blurb": "RWTHアーヘンとユーリッヒがMoS₂ベースのナノスケールメモリスタをCMOSマイクロチップに統合する技術を発表。高性能電子デバイスやニューロモルフィックコンピューティングへの応用が期待される。",
         "category": "company",
         "date": "2026-02-21",
         "stars": 3,
@@ -110,7 +380,7 @@
       },
       {
         "title": "SPAD Imaging, Renesas 3nm TCAM Technology, LoRa Alliance 2025 Report: Embedded Week Insights",
-        "blurb": "SPADイメージング、ルネサス3nmTCAM技術、LoRa Alliance 2025年レポートなど、Embedded Weekの最新動向をまとめた記事。",
+        "blurb": "SPADイメージング、ルネサス3nmTCAM技術、LoRa Alliance 2025年レポートなど、組み込み技術の最新動向をまとめた記事。",
         "category": "company",
         "date": "2026-02-21",
         "stars": 3,
@@ -127,62 +397,20 @@
         }
       },
       {
-        "title": "Polestar's High-Performance EVs Are Coming For BMW And Mercedes",
-        "blurb": "ポールスター、BMW・メルセデスを意識した高性能EVを投入へ。今後のEVはパフォーマンス重視に。",
+        "title": "「AIの進化」に追い付けない半導体開発　解決の道筋は",
+        "blurb": "2026年1月に欧州で開催された「HiPEAC 2026」カンファレンスでは、AIの進化と半導体の進化に大きなギャップが生まれつつあることに対する懸念が示された。カンファレンスではこうしたギャップを解消するソリューションの他、熟練エンジニア",
         "category": "company",
-        "date": "2026-02-21",
-        "stars": 3,
+        "date": "2026-02-20",
+        "stars": 2,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/787888/polestar-getting-serious-about-performance"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla Made The Cybertruck Way Cheaper. Then Elon Musk Said It Was Already Going Away",
-        "blurb": "テスラはサイバートラックの低価格版を10日間限定で販売。需要次第で今後の展開を決定するとイーロン・マスク氏が明かした。",
-        "category": "company",
-        "date": "2026-02-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/787924/tesla-cybertruck-60k-10-days"
-        },
-        "field": null
-      },
-      {
-        "title": "Exclusive: Nissan's Most Affordable EV Just Got Delayed Indefinitely",
-        "blurb": "日産、新型リーフの廉価版EVの発売を無期限延期。2026年モデルとして登場予定だった。",
-        "category": "company",
-        "date": "2026-02-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/787926/nissan-leaf-delayed"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news068.html"
         },
         "field": {
-          "primary": "automotive",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Donut Lab Remains Defiant About Its Solid-State Battery, Saying Proof Is Coming Soon",
-        "blurb": "Donut Labは世界初の量産型全固体電池を主張。懐疑論もあるが、独立試験で証明予定。",
-        "category": "company",
-        "date": "2026-02-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/787887/donut-lab-solid-state-battery-proof-soon"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
       }
