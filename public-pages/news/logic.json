@@ -1,77 +1,41 @@
 {
-  "generated_at": "2026-02-21T06:06:57.099539+09:00",
+  "generated_at": "2026-02-24T06:18:47.393191+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "3nm車載SoC「R-Car X5H」用の新技術発表、ルネサス",
-    "summary": "ルネサス、3nm車載SoC「R-Car X5H」向け新技術を発表。AI処理性能と機能安全規格対応を両立し、SDV時代に対応。",
+    "title": "Accelerator Architecture: Fusion-Aware Mapper (MIT)",
+    "summary": "MITの研究者らが、アクセラレーターの性能を最適化する「Fusion-Aware Mapper」を発表。データ移動と演算のスケジューリングを改善し、遅延とエネルギー効率を向上させる。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news042.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/accelerator-architecture-fusion-aware-mapper-mit"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "3nm車載SoC「R-Car X5H」用の新技術発表、ルネサス",
-        "blurb": "ルネサス、3nm車載SoC「R-Car X5H」向け新技術を発表。AI処理性能と機能安全規格対応を両立し、SDV時代に対応。",
-        "category": "company",
-        "date": "2026-02-20",
+        "title": "Accelerator Architecture: Fusion-Aware Mapper (MIT)",
+        "blurb": "MITの研究者らが、アクセラレーターの性能を最適化する「Fusion-Aware Mapper」を発表。データ移動と演算のスケジューリングを改善し、遅延とエネルギー効率を向上させる。",
+        "category": "tools",
+        "date": "2026-02-23",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news042.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「業界最高」のメモリ密度　ルネサスの車載SoC向け3nm TCAM技術",
-        "blurb": "ルネサスが車載SoC向けに業界最高メモリ密度の3nm TCAM技術を発表。高密度化、低消費電力化、機能安全強化に貢献。",
-        "category": "company",
-        "date": "2026-02-20",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/20/news051.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Milk-V Titan Brings High-Performance RISC-V to the Mini-ITX Motherboard",
-        "blurb": "Milk-V Titanは、高性能RISC-V CPU搭載のMini-ITXマザーボード。サーバー級機能でエッジやデスクトップ用途に対応。",
-        "category": "company",
-        "date": "2026-02-20",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/milk-v-titan-brings-high-performance-risc-v-to-the-mini-itx-motherboard"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/accelerator-architecture-fusion-aware-mapper-mit"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "datacenter",
+          "market": null,
           "industry": null
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }

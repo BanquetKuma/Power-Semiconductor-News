@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-22T06:06:30.090854+09:00",
+  "generated_at": "2026-02-24T06:18:47.393513+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Nanoscale MoS₂-based Memristors Integrated into CMOS Microchips",
-    "summary": "RWTHアーヘンとユーリッヒが、CMOSマイクロチップにMoS₂ベースのナノスケールメモリスタを統合する技術を発表。",
+    "title": "Backside Power Delivery Creates Fab Tool, Thermal Dissipation Barriers",
+    "summary": "チップ裏面への給電網移行は混雑緩和に貢献するが、ファブに新たな課題をもたらす。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/nanoscale-mos%e2%82%82-based-memristors-integrated-into-cmos-microchips"
+        "url": "https://semiengineering.com/backside-power-delivery-creates-fab-tool-thermal-dissipation-barriers"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Nanoscale MoS₂-based Memristors Integrated into CMOS Microchips",
-        "blurb": "RWTHアーヘンとユーリッヒが、CMOSマイクロチップにMoS₂ベースのナノスケールメモリスタを統合する技術を発表。",
+        "title": "Survey of GenAI Across the Full Computing Stack, From SW To Silicon (Harvard)",
+        "blurb": "ハーバード大が生成AIのシステム全体（ソフトからシリコンまで）での課題と設計原則を論文発表。研究の断片化を指摘。",
         "category": "company",
-        "date": "2026-02-21",
+        "date": "2026-02-23",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/nanoscale-mos%e2%82%82-based-memristors-integrated-into-cmos-microchips"
+          "url": "https://semiengineering.com/survey-of-genai-across-the-full-computing-stack-from-sw-to-silicon-harvard"
         },
         "field": {
           "primary": "general",
@@ -36,6 +36,43 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Backside Power Delivery Creates Fab Tool, Thermal Dissipation Barriers",
+        "blurb": "チップ裏面への給電網移行は混雑緩和に貢献するが、ファブに新たな課題をもたらす。",
+        "category": "business",
+        "date": "2026-02-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/backside-power-delivery-creates-fab-tool-thermal-dissipation-barriers"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "New Performance Requirements For Audio",
+        "blurb": "機械との音声対話で高音質化の需要が増加。半導体エンジニアリングの記事。",
+        "category": "business",
+        "date": "2026-02-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/new-performance-requirements-for-audio"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

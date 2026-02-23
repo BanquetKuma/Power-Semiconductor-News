@@ -1,36 +1,35 @@
 {
-  "generated_at": "2026-02-23T06:07:22.814204+09:00",
-  "date": "2026-02-23",
+  "generated_at": "2026-02-24T06:18:52.625631+09:00",
+  "date": "2026-02-24",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の台頭",
+      "name": "次世代パワー半導体（SiC/GaN）の普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "datacenter",
-        "ai"
+        "industrial"
       ],
-      "summary": "SiCやGaNといった次世代パワー半導体が、EV、データセンター、AI分野での高効率化・高性能化ニーズに応え、急速に普及・進化している。",
+      "summary": "SiCおよびGaN技術が、EV、データセンター、産業機器の電力効率と性能向上に不可欠となっている。",
       "analysis": {
-        "short_term": "需要増で供給逼迫、価格上昇の可能性。",
-        "mid_term": "技術革新と量産効果でコスト競争力向上。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
+        "short_term": "需要増が継続し、供給能力の拡大が鍵となる。",
+        "mid_term": "技術進化とコスト低下が進み、採用分野が拡大する。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味が増す。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "AI",
-        "データセンター"
+        "データセンター",
+        "電力効率"
       ],
       "companies_mentioned": [
         "SemiQ",
         "ローム",
         "東芝",
-        "ルネサス",
-        "Infineon"
+        "STマイクロエレクトロニクス"
       ]
     },
     {
@@ -39,46 +38,48 @@
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "datacenter",
         "logic",
         "memory",
+        "datacenter",
         "frontend",
         "backend"
       ],
-      "summary": "AIの進化は半導体開発のスピードを凌駕しつつあり、オンデバイスLLMやHBMを補完する新メモリ技術など、AI特化型半導体開発が急務となっている。",
+      "summary": "AIの進化に対応するため、高性能なAIチップ、メモリ、および関連技術の開発が急速に進んでいる。",
       "analysis": {
-        "short_term": "AIチップの需要は引き続き旺盛。",
-        "mid_term": "開発効率化のためAI活用が進む。",
-        "investment_implications": "AI向け先端プロセス・設計企業に注目。"
+        "short_term": "AIチップの性能競争が激化し、新アーキテクチャが登場。",
+        "mid_term": "オンデバイスLLMの普及で、エッジAI向けシリコン需要が増加。",
+        "investment_implications": "AIアクセラレーター、HBM代替メモリ関連企業に注目。"
       },
       "keywords": [
         "AI",
         "LLM",
         "HBM",
-        "メモリ",
-        "チップレット"
+        "アクセラレーター",
+        "オンデバイス"
       ],
       "companies_mentioned": [
         "ルネサス",
-        "TSMC"
+        "TSMC",
+        "Intel",
+        "Google"
       ]
     },
     {
-      "name": "車載半導体の高度化とSDVシフト",
-      "confidence": 0.88,
+      "name": "車載半導体の高度化とSDV化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "logic",
         "power",
-        "analog",
-        "datacenter"
+        "idm",
+        "foundry"
       ],
-      "summary": "ソフトウェア・デファインド・ビークル（SDV）への移行に伴い、高性能SoC、ゲートドライバ、パワー半導体など、車載半導体の重要性が増している。",
+      "summary": "ソフトウェア定義車両（SDV）の実現に向け、高性能SoC、ゲートドライバ、パワー半導体の重要性が増している。",
       "analysis": {
-        "short_term": "SDV向けSoC開発競争が激化。",
-        "mid_term": "EVシフトと自動運転技術の進展で需要拡大。",
-        "investment_implications": "車載半導体メーカーの戦略が鍵。"
+        "short_term": "次世代EV向けSoC開発競争が激化する。",
+        "mid_term": "自動運転技術の進化と車載半導体の標準化が進む。",
+        "investment_implications": "車載SoC、SiC/GaNパワーデバイスメーカーが有望。"
       },
       "keywords": [
         "SDV",
@@ -96,77 +97,79 @@
       ]
     },
     {
-      "name": "先端リソグラフィ技術の進化と普及",
+      "name": "先端パッケージング技術の進化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
+        "backend",
         "frontend",
-        "equipment",
         "logic",
-        "foundry"
+        "memory",
+        "equipment"
       ],
-      "summary": "EUVリソグラフィ技術の進展や、ダイヤモンド半導体のような新材料を用いた製造技術が注目されており、半導体製造の限界を押し広げている。",
+      "summary": "チップレット化や3D積層技術が進展し、性能向上と小型化を実現する先端パッケージングが重要視されている。",
       "analysis": {
-        "short_term": "EUV装置の供給体制が鍵。",
-        "mid_term": "新材料・新技術の量産化が課題。",
-        "investment_implications": "先端露光装置・材料関連企業に注目。"
+        "short_term": "2.5D/3Dパッケージング技術の競争が激化。",
+        "mid_term": "裏面給電技術の普及と、それに伴う製造課題の解決が進む。",
+        "investment_implications": "パッケージング関連装置、材料メーカーに注目。"
       },
       "keywords": [
-        "EUV",
-        "リソグラフィ",
-        "ダイヤモンド半導体",
-        "製造装置"
+        "パッケージング",
+        "チップレット",
+        "3D積層",
+        "裏面給電",
+        "CoWoS"
       ],
       "companies_mentioned": [
-        "EPC",
-        "ルネサス",
-        "TSMC"
+        "TSMC",
+        "東京エレクトロンデバイス",
+        "オキサイド"
       ]
     },
     {
-      "name": "半導体製造のDXと人材育成",
+      "name": "新材料・新技術への期待",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "equipment",
-        "foundry",
-        "fabless",
-        "idm",
-        "ai"
+        "power",
+        "memory",
+        "frontend",
+        "wafer"
       ],
-      "summary": "半導体製造におけるDX推進が急務だが、AI活用による生産性向上には人材育成が最大の課題となっており、熟練エンジニア不足も深刻化している。",
+      "summary": "ダイヤモンド半導体やMoS₂メモリスタなど、次世代材料・技術が既存技術の限界を超える可能性を秘めている。",
       "analysis": {
-        "short_term": "DXツールの導入は進むが、効果は限定的。",
-        "mid_term": "AI活用による人材不足解消が期待される。",
-        "investment_implications": "DXソリューション・人材育成関連企業に注目。"
+        "short_term": "ダイヤモンド半導体の実用化に向けた研究開発が進む。",
+        "mid_term": "新材料の量産技術確立が課題となる。",
+        "investment_implications": "将来的な技術革新を担うスタートアップへの投資妙味。"
       },
       "keywords": [
-        "DX",
-        "AI",
-        "人材育成",
-        "製造装置",
-        "生産性向上"
+        "ダイヤモンド半導体",
+        "MoS₂",
+        "メモリスタ",
+        "新材料",
+        "EUV"
       ],
       "companies_mentioned": [
-        "東京エレクトロンデバイス",
-        "オキサイド"
+        "EPC-Renesas",
+        "RWTHアーヘン",
+        "ユーリッヒ"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による先端半導体需要の継続的な拡大",
-      "EVシフトに伴う車載半導体市場の成長",
-      "次世代パワー半導体（SiC/GaN）の普及加速"
+      "AI需要による半導体市場全体の成長期待",
+      "EVシフト加速による車載半導体需要の堅調さ",
+      "次世代パワー半導体（SiC/GaN）の採用拡大"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不安定化",
-      "半導体開発における熟練エンジニア不足の深刻化"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "一部メモリ分野における供給過剰懸念（DRAMなど）"
     ],
     "neutral": [
-      "米中技術覇権争いの行方",
-      "DRAM市場の需給バランスの変動"
+      "先端製造装置への投資継続",
+      "半導体人材育成の課題"
     ]
   },
-  "source_count": 50
+  "source_count": 42
 }
