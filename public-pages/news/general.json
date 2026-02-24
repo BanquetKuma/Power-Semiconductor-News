@@ -1,51 +1,30 @@
 {
-  "generated_at": "2026-02-24T06:18:47.393513+09:00",
+  "generated_at": "2026-02-25T06:12:35.027679+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Backside Power Delivery Creates Fab Tool, Thermal Dissipation Barriers",
-    "summary": "チップ裏面への給電網移行は混雑緩和に貢献するが、ファブに新たな課題をもたらす。",
+    "title": "Research Bits: Feb. 24",
+    "summary": "パターン化されたダイヤモンドの成長、強誘電体の熱的制約、マイクロLEDの改善に関する研究。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/backside-power-delivery-creates-fab-tool-thermal-dissipation-barriers"
+        "url": "https://semiengineering.com/research-bits-feb-24"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Survey of GenAI Across the Full Computing Stack, From SW To Silicon (Harvard)",
-        "blurb": "ハーバード大が生成AIのシステム全体（ソフトからシリコンまで）での課題と設計原則を論文発表。研究の断片化を指摘。",
+        "title": "ReRAM-based Neo-Hebbian Synapses For Training Neuromorphic HW (IIT Madras, UCSB)",
+        "blurb": "IITマドラスとUCSBの研究者が、ReRAMを用いた新しいニューロモーフィック学習回路を発表。オンライン学習の高速化を目指す。",
         "category": "company",
-        "date": "2026-02-23",
+        "date": "2026-02-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/survey-of-genai-across-the-full-computing-stack-from-sw-to-silicon-harvard"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [],
-    "market": [
-      {
-        "title": "Backside Power Delivery Creates Fab Tool, Thermal Dissipation Barriers",
-        "blurb": "チップ裏面への給電網移行は混雑緩和に貢献するが、ファブに新たな課題をもたらす。",
-        "category": "business",
-        "date": "2026-02-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/backside-power-delivery-creates-fab-tool-thermal-dissipation-barriers"
+          "url": "https://semiengineering.com/reram-based-neo-hebbian-synapses-for-training-neuromorphic-hw-iit-madras-ucsb"
         },
         "field": {
           "primary": "general",
@@ -56,14 +35,72 @@
         }
       },
       {
-        "title": "New Performance Requirements For Audio",
-        "blurb": "機械との音声対話で高音質化の需要が増加。半導体エンジニアリングの記事。",
-        "category": "business",
-        "date": "2026-02-23",
+        "title": "半導体ウエハーの厚みばらつき改善、リンテックが新装置",
+        "blurb": "リンテックは半導体ウエハーの厚みばらつきを改善する新装置を開発、2026年4月から受注開始。",
+        "category": "company",
+        "date": "2026-02-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news035.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Research Bits: Feb. 24",
+        "blurb": "パターン化されたダイヤモンドの成長、強誘電体の熱的制約、マイクロLEDの改善に関する研究。",
+        "category": "tools",
+        "date": "2026-02-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/new-performance-requirements-for-audio"
+          "url": "https://semiengineering.com/research-bits-feb-24"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Chiplets 2026: Where Are We Today?",
+        "blurb": "最先端分野でのチップレット利用の理由が示唆されている。2026年のチップレットの現状を探る。",
+        "category": "business",
+        "date": "2026-02-24",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chiplets-2026-where-are-we-today"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "A real-world approach for AI-driven semiconductor manufacturing",
+        "blurb": "半導体製造にAIを導入。LLMやエージェンティックタスクを活用し、スケーラブルな分析と組み合わせた新プラットフォームを構築。",
+        "category": "business",
+        "date": "2026-02-24",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/a-real-world-approach-for-ai-driven-semiconductor-manufacturing"
         },
         "field": {
           "primary": "general",

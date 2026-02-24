@@ -1,41 +1,59 @@
 {
-  "generated_at": "2026-02-24T06:18:47.392903+09:00",
+  "generated_at": "2026-02-25T06:12:35.025594+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Electrical Model of the Bitflip in SRAM Under Laser Illumination Simulating Laser Fault Injection",
-    "summary": "SRAMのビット反転をレーザー照射下でモデル化する研究論文が発表された。レーザーによる不正注入を想定。",
+    "title": "Chip Industry Technical Paper Roundup: Feb. 24",
+    "summary": "半導体業界の技術論文 roundup：2nm以下のキャリアマッピング、エッジ向けCNN、原子精度研磨、LLMチップ設計教育、ナノレーザー、GeSn合金、MoS2メモリ、インパッケージ光学、RISC-Vセキュリティ。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/electrical-model-of-the-bitflip-in-sram-under-laser-illumination-simulating-laser-fault-injection"
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-feb-24"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Electrical Model of the Bitflip in SRAM Under Laser Illumination Simulating Laser Fault Injection",
-        "blurb": "SRAMのビット反転をレーザー照射下でモデル化する研究論文が発表された。レーザーによる不正注入を想定。",
-        "category": "company",
-        "date": "2026-02-23",
+        "title": "Chip Industry Technical Paper Roundup: Feb. 24",
+        "blurb": "半導体業界の技術論文 roundup：2nm以下のキャリアマッピング、エッジ向けCNN、原子精度研磨、LLMチップ設計教育、ナノレーザー、GeSn合金、MoS2メモリ、インパッケージ光学、RISC-Vセキュリティ。",
+        "category": "business",
+        "date": "2026-02-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/electrical-model-of-the-bitflip-in-sram-under-laser-illumination-simulating-laser-fault-injection"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-feb-24"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "MIPI Alliance Upgrades Specs for JEDEC UFS",
+        "blurb": "MIPI AllianceがJEDEC UFS 5.0向けにUniProとM-PHY仕様を更新。モバイル、PC、車載分野のAI処理性能向上を目指す。",
+        "category": "business",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mipi-alliance-upgrades-specs-for-jedec-ufs"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

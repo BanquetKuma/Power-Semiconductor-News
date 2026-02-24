@@ -1,68 +1,31 @@
 {
-  "generated_at": "2026-02-14T06:13:48.712146+09:00",
+  "generated_at": "2026-02-25T06:12:35.025833+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio",
-    "summary": "インフィニオンがams OSRAMの非光学センサー事業を買収。車載、産業、医療分野のセンサー能力を強化。",
+    "title": "ESP-SensairShuttle: ESP32-C5 Development Board for Multimodal Sensing and HCI",
+    "summary": "ESP32-C5搭載のESP-SensairShuttleは、Wi-Fi 6、タッチスクリーン、センサーモジュールを備え、多モーダルセンシングとHCIに適した開発ボードです。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/infineon-acquires-ams-osram-non-optical-sensor-portfolio"
+        "name": "electronics-lab.com",
+        "url": "https://www.electronics-lab.com/esp-sensairshuttle-esp32-c5-development-board-for-multimodal-sensing-and-hci"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "半導体CNT用いた高感度赤外線センサーを開発",
-        "blurb": "京工繊大と中大は、半導体CNTで冷却不要の高感度赤外線センサーを開発。検出感度は従来比約11倍。",
-        "category": "company",
-        "date": "2026-02-13",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/13/news029.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Allegro Microsystems Unveils Magnetic Current Sensor for Power Electronics",
-        "blurb": "Allegro Microsystemsが、車載・産業用電源変換システム向け高精度磁気電流センサー「ACS37017」を発表しました。",
-        "category": "company",
-        "date": "2026-02-13",
+        "title": "ESP-SensairShuttle: ESP32-C5 Development Board for Multimodal Sensing and HCI",
+        "blurb": "ESP32-C5搭載のESP-SensairShuttleは、Wi-Fi 6、タッチスクリーン、センサーモジュールを備え、多モーダルセンシングとHCIに適した開発ボードです。",
+        "category": "tools",
+        "date": "2026-02-24",
         "stars": 3,
         "source": {
           "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/allegro-microsystems-unveils-magnetic-current-sensor-for-power-electronics"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "IC enables precise current sensing in fast control loops",
-        "blurb": "Allegro MicrosystemsのACS37017は、温度・寿命を通して0.55%の感度誤差を実現するホール効果電流センサーです。",
-        "category": "tools",
-        "date": "2026-02-13",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ic-enables-precise-current-sensing-in-fast-control-loops"
+          "url": "https://www.electronics-lab.com/esp-sensairshuttle-esp32-c5-development-board-for-multimodal-sensing-and-hci"
         },
         "field": {
           "primary": "analog",
@@ -73,25 +36,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio",
-        "blurb": "インフィニオンがams OSRAMの非光学センサー事業を買収。車載、産業、医療分野のセンサー能力を強化。",
-        "category": "business",
-        "date": "2026-02-13",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-acquires-ams-osram-non-optical-sensor-portfolio"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }
