@@ -1,31 +1,68 @@
 {
-  "generated_at": "2026-02-24T06:18:47.393191+09:00",
+  "generated_at": "2026-02-26T06:12:34.858105+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Accelerator Architecture: Fusion-Aware Mapper (MIT)",
-    "summary": "MITの研究者らが、アクセラレーターの性能を最適化する「Fusion-Aware Mapper」を発表。データ移動と演算のスケジューリングを改善し、遅延とエネルギー効率を向上させる。",
+    "title": "What Designers Need to Know About UALink for Scalable AI Systems",
+    "summary": "GPU統合、メモリプーリング、高帯域通信でAIシステムを拡張するUALinkの基本とアーキテクチャを解説。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/accelerator-architecture-fusion-aware-mapper-mit"
+        "url": "https://semiengineering.com/what-designers-need-to-know-about-ualink-for-scalable-ai-systems"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "ルネサス「R-Car V4H」、トヨタ新型「RAV4」に採用",
+        "blurb": "ルネサス製SoC「R-Car V4H」がトヨタ新型RAV4に採用。主要ADAS機能の信号処理を担い、安全性能向上に貢献。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news123.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Radxa NX4 Packs 6 TOPS AI Power into a Compact RK3576J SoM",
+        "blurb": "Radxa NX4は、コンパクトなRK3576J SoMに6 TOPSのAI処理能力を搭載し、産業用エッジAIやマルチメディア用途向けに55ドルから提供。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/radxa-nx4-packs-6-tops-ai-power-into-a-compact-rk3576j-som"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
-        "title": "Accelerator Architecture: Fusion-Aware Mapper (MIT)",
-        "blurb": "MITの研究者らが、アクセラレーターの性能を最適化する「Fusion-Aware Mapper」を発表。データ移動と演算のスケジューリングを改善し、遅延とエネルギー効率を向上させる。",
+        "title": "What Designers Need to Know About UALink for Scalable AI Systems",
+        "blurb": "GPU統合、メモリプーリング、高帯域通信でAIシステムを拡張するUALinkの基本とアーキテクチャを解説。",
         "category": "tools",
-        "date": "2026-02-23",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/accelerator-architecture-fusion-aware-mapper-mit"
+          "url": "https://semiengineering.com/what-designers-need-to-know-about-ualink-for-scalable-ai-systems"
         },
         "field": {
           "primary": "logic",

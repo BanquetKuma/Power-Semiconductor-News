@@ -1,46 +1,28 @@
 {
-  "generated_at": "2026-02-25T06:12:35.024366+09:00",
+  "generated_at": "2026-02-26T06:12:34.856104+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "TDK Introduces New DC Link Capacitors",
-    "summary": "TDKは、EV車載充電器向けにDCリンクの信頼性と効率を高める新アルミ電解コンデンサを発表しました。",
+    "title": "ST Introduces MasterGaN6 GaN Power ICs",
+    "summary": "STマイクロエレクトロニクスが、小型・高効率な電源コンバーター向けに、ドライバーや保護機能を統合したGaNパワーIC「MasterGaN6」を発表しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/tdk-introduces-new-dc-link-capacitors"
+        "url": "https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Chip Industry Technical Paper Roundup: Feb. 24",
-        "blurb": "半導体業界の技術論文 roundup：2nm以下のキャリアマッピング、エッジ向けCNN、原子精度研磨、LLMチップ設計教育、ナノレーザー、GeSn合金、MoS2メモリ、インパッケージ光学、RISC-Vセキュリティ。",
+        "title": "Direct-to-Chip Liquid Cooling Technology for HPC",
+        "blurb": "AIデータセンターやHPC向けに、チップに直接液体を当てる冷却技術を紹介。冷却アーキテクチャを解説。",
         "category": "business",
-        "date": "2026-02-24",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-feb-24"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chiplets 2026: Where Are We Today?",
-        "blurb": "最先端分野でのチップレット利用の理由が示唆されている。2026年のチップレットの現状を探る。",
-        "category": "business",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chiplets-2026-where-are-we-today"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/direct-to-chip-liquid-cooling-technology-for-hpc"
         },
         "field": {
           "primary": "general",
@@ -51,97 +33,73 @@
         }
       },
       {
-        "title": "Ultrafast Laser Filamentation Dictates Energy Deposition in Narrow-Gap Semiconductors",
-        "blurb": "半導体における超高速レーザーのフィラメンテーションがエネルギー付与を決定づける。光機能デバイス製造への応用が期待される。",
-        "category": "business",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ultrafast-laser-filamentation-dictates-energy-deposition-in-narrow-gap-semiconductors"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "サンケン電気が高圧3相モーター用ドライバー新製品、音鳴り抑制",
-        "blurb": "サンケン電気が白物家電向け高圧3相モーター用ドライバー新製品を発表。スポーク型IPMモーターの音鳴りを抑制する。",
-        "category": "business",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news036.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Infineon、AI電源事業が驚異的成長 「売り上げ3年で10倍に」",
-        "blurb": "InfineonはAI電源事業が急成長し、3年で売上10倍を見込む。新工場建設を加速し、2026年7月2日に開所予定。",
-        "category": "business",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news059.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Sandiskの四半期業績、前期比で3四半期連続の増収増益に",
-        "blurb": "Sandiskの2026年度第2四半期決算は、前期比で3四半期連続の増収増益となった。",
-        "category": "business",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news038.html"
-        },
-        "field": null
-      },
-      {
-        "title": "A real-world approach for AI-driven semiconductor manufacturing",
-        "blurb": "半導体製造にAIを導入。LLMやエージェンティックタスクを活用し、スケーラブルな分析と組み合わせた新プラットフォームを構築。",
-        "category": "business",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-real-world-approach-for-ai-driven-semiconductor-manufacturing"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Three New ALD/MLD Processes for Co-organic Thin Films (Aalto University, RUB et al.)",
-        "blurb": "ALD/MLD技術でコバルト系有機薄膜を成膜する新プロセスを発表。CoO薄膜への変換も可能。",
+        "title": "Back-End Automation Tackles Growing Complexity",
+        "blurb": "半導体パッケージングの複雑化に伴うデータ、検査、プロセス統合の課題に対し、バックエンド自動化が解決策となる。",
         "category": "business",
         "date": "2026-02-25",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/three-new-ald-mld-processes-for-co-organic-thin-films-aalto-university-rub-et-al"
+          "url": "https://semiengineering.com/back-end-automation-tackles-growing-complexity"
         },
         "field": {
-          "primary": "frontend",
+          "primary": "general",
           "device": null,
-          "process": "frontend",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Blog Review: Feb. 25",
+        "blurb": "半導体業界の最新動向：チップレット、LPDDR6、AIグラフィックスレンダリングなどについて解説。",
+        "category": "business",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-feb-25-2"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Purpose-Built Tools for Connected Design",
+        "blurb": "半導体業界の競争力維持のため、接続された設計データ管理ツールがボトルネック解消とイノベーション加速を支援。",
+        "category": "business",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/purpose-built-tools-for-connected-design"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "中国が「半導体製造装置の自給自足」に苦戦している理由（前編）",
+        "blurb": "中国は国内半導体メーカーに製造装置の国内調達を義務付けたが、国内産業の育成に苦戦している。",
+        "category": "business",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news069.html"
+        },
+        "field": {
+          "primary": "equipment",
+          "device": null,
+          "process": "equipment",
           "market": null,
           "industry": null
         }
@@ -167,26 +125,14 @@
     ],
     "tools": [
       {
-        "title": "A Guide to the Reliability Estimation of PoL Converters",
-        "blurb": "PoLコンバータの出力コンデンサにおけるFIT、MTBF、MTTFといった信頼性指標の推定方法を解説。",
+        "title": "40 PCB Design Tips Every Designer Should Know: eBook",
+        "blurb": "PCB設計者必見の40のヒント集。効率的で信頼性の高い設計のための実践戦略、落とし穴、解決策を解説。",
         "category": "tools",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/a-guide-to-the-reliability-estimation-of-pol-converters"
-        },
-        "field": null
-      },
-      {
-        "title": "Research Bits: Feb. 24",
-        "blurb": "パターン化されたダイヤモンドの成長、強誘電体の熱的制約、マイクロLEDの改善に関する研究。",
-        "category": "tools",
-        "date": "2026-02-24",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-feb-24"
+          "url": "https://semiengineering.com/40-pcb-design-tips-every-designer-should-know-ebook"
         },
         "field": {
           "primary": "general",
@@ -197,154 +143,58 @@
         }
       },
       {
-        "title": "Simple shorts sniffer",
-        "blurb": "Cornford氏のサブオームメーターを改良し、抵抗測定範囲を10オーム以上に拡張したショート検出器。",
+        "title": "What Designers Need to Know About UALink for Scalable AI Systems",
+        "blurb": "GPU統合、メモリプーリング、高帯域通信でAIシステムを拡張するUALinkの基本とアーキテクチャを解説。",
         "category": "tools",
-        "date": "2026-02-24",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/simple-shorts-sniffer"
-        },
-        "field": null
-      },
-      {
-        "title": "Probing a USB analog audio adapter",
-        "blurb": "USBアナログオーディオアダプターの内部回路とコストについて解説。技術者がいかに安価に小型化を実現しているかを探る。",
-        "category": "tools",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/probing-a-usb-analog-audio-adapter"
-        },
-        "field": null
-      },
-      {
-        "title": "ESP-SensairShuttle: ESP32-C5 Development Board for Multimodal Sensing and HCI",
-        "blurb": "ESP32-C5搭載のESP-SensairShuttleは、Wi-Fi 6、タッチスクリーン、センサーモジュールを備え、多モーダルセンシングとHCIに適した開発ボードです。",
-        "category": "tools",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/esp-sensairshuttle-esp32-c5-development-board-for-multimodal-sensing-and-hci"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/what-designers-need-to-know-about-ualink-for-scalable-ai-systems"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "logic",
+          "device": "logic",
           "process": null,
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Three New ALD/MLD Processes for Co-organic Thin Films (Aalto University, RUB et al.)",
+        "blurb": "ALD/MLD技術でコバルト系有機薄膜を形成する新プロセスを開発。酸化コバルト膜への変換も可能。",
+        "category": "tools",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/three-new-ald-mld-processes-for-co-organic-thin-films-aalto-university-rub-et-al"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "An LM317-based 0-20mA to 4-20mA 2-wire converter",
+        "blurb": "LM317レギュレータを使用し、0-20mA入力を4-20mAの2線式伝送器に変換する回路。",
+        "category": "tools",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/an-lm317-based-0-20ma-to-4-20ma-2-wire-converter"
+        },
+        "field": null
       }
     ],
     "company": [
       {
-        "title": "3D Atomic-Scale Metrology of Strain Relaxation And Roughness in GAAFETs Via Electron Ptychography (Cornell, ASM, TSMC)",
-        "blurb": "コーネル大、ASM、TSMCがGAAFETの原子スケール計測技術を発表。次世代半導体の性能向上に貢献。",
-        "category": "company",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/3d-atomic-scale-metrology-of-strain-relaxation-and-roughness-in-gaafets-via-electron-ptychography-cornell-asm-tsmc"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": "miniaturization",
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "ReRAM-based Neo-Hebbian Synapses For Training Neuromorphic HW (IIT Madras, UCSB)",
-        "blurb": "IITマドラスとUCSBの研究者が、ReRAMを用いた新しいニューロモーフィック学習回路を発表。オンライン学習の高速化を目指す。",
-        "category": "company",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/reram-based-neo-hebbian-synapses-for-training-neuromorphic-hw-iit-madras-ucsb"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "オリンピックの舞台でも活躍　スポーツを支えるテクノロジー",
-        "blurb": "フィギュアスケートの演技に魅了され、自宅でジャンプを試みるのは多くの人が経験する「あるある」です。",
-        "category": "company",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news074.html"
-        },
-        "field": null
-      },
-      {
-        "title": "「世界最小」Stratum 3準拠の高安定TCXO　AIサーバ向け",
-        "blurb": "日本電波工業がAIサーバー向けに、世界最小でStratum 3準拠の高安定TCXO「NT1612SHC」を開発。高温環境下でも高い周波数安定性を実現。",
-        "category": "company",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news043.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "半導体ウエハーの厚みばらつき改善、リンテックが新装置",
-        "blurb": "リンテックは半導体ウエハーの厚みばらつきを改善する新装置を開発、2026年4月から受注開始。",
-        "category": "company",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news035.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Socionext, Innatera Develop Presence Detection Solution",
-        "blurb": "ソシオネクストとイナテラが、低消費電力で高精度な人体検知システムを共同開発。60GHzレーダーとニューロモルフィックAIを統合。",
-        "category": "company",
-        "date": "2026-02-24",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/socionext-innatera-develop-presence-detection-solution"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
         "title": "TDK Introduces New DC Link Capacitors",
-        "blurb": "TDKは、EV車載充電器向けにDCリンクの信頼性と効率を高める新アルミ電解コンデンサを発表しました。",
+        "blurb": "TDKはEV車載充電器向けに、信頼性と効率を高める新型DCリンクコンデンサを発表しました。",
         "category": "company",
         "date": "2026-02-25",
         "stars": 3,
@@ -359,6 +209,138 @@
           "market": "automotive",
           "industry": null
         }
+      },
+      {
+        "title": "Survey of DL-Based LiDAR Super-Resolution For Autonomous Driving (University College London)",
+        "blurb": "UCLの研究者らが、自動運転向けLiDARの深層学習による超解像技術のサーベイ論文を発表。低解像度LiDARの課題解決に貢献。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/survey-of-dl-based-lidar-super-resolution-for-autonomous-driving-university-college-london"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "「世界初」量子着想のアルゴリズムを自律ロボットに搭載",
+        "blurb": "東芝とミライズテクノロジーズは、量子着想の計算機を自律ロボットに搭載し、高度な制御への有効性を実証した。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news098.html"
+        },
+        "field": null
+      },
+      {
+        "title": "シリコン材料で量子ビットを高精度に制御、日立",
+        "blurb": "日立と東工大は、シリコン量子ビットをマイクロ波で高精度に制御する技術を開発。ノイズ環境下でも安定動作が可能に。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news042.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ルネサス「R-Car V4H」、トヨタ新型「RAV4」に採用",
+        "blurb": "ルネサス製SoC「R-Car V4H」がトヨタ新型RAV4に採用。主要ADAS機能の信号処理を担い、安全性能向上に貢献。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news123.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "半導体設計／検証向けエージェント型AI、生産性を10倍向上",
+        "blurb": "ケイデンスが半導体設計・検証向けAI「Cadence ChipStack AI Super Agent」を発表。RTL設計やテストベンチ作成などを自動化し、生産性を最大10倍向上させる。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news040.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Radxa NX4 Packs 6 TOPS AI Power into a Compact RK3576J SoM",
+        "blurb": "Radxa NX4は、コンパクトなRK3576J SoMに6 TOPSのAI処理能力を搭載し、産業用エッジAIやマルチメディア用途向けに55ドルから提供。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/radxa-nx4-packs-6-tops-ai-power-into-a-compact-rk3576j-som"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "ST Introduces MasterGaN6 GaN Power ICs",
+        "blurb": "STマイクロエレクトロニクスが、小型・高効率な電源コンバーター向けに、ドライバーや保護機能を統合したGaNパワーIC「MasterGaN6」を発表しました。",
+        "category": "company",
+        "date": "2026-02-26",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Schurter Releases Ultra-Thin, High-Power Coin Cell Supercapacitors",
+        "blurb": "シュルター社が薄型・高出力コイン型スーパーキャパシタを発表。1500mF、5.5Vで電源、医療機器、ウェアラブル等に活用。",
+        "category": "company",
+        "date": "2026-02-26",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/schurter-releases-ultra-thin-high-power-coin-cell-supercapacitors"
+        },
+        "field": null
       }
     ],
     "sns": []

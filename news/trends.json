@@ -1,184 +1,161 @@
 {
-  "generated_at": "2026-02-25T06:12:39.442740+09:00",
-  "date": "2026-02-25",
+  "generated_at": "2026-02-26T06:12:39.378041+09:00",
+  "date": "2026-02-26",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の台頭",
+      "name": "GaN/SiCパワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "industrial",
-        "datacenter",
         "ai"
       ],
-      "summary": "SiCやGaN、ダイヤモンドといった新素材や技術が、EV、AIデータセンター、産業機器など、高効率・高出力が求められる分野で急速に普及・進化している。",
+      "summary": "GaNおよびSiCパワー半導体は、EV、産業機器、AIデータセンターなど、高効率・小型化が求められる分野で採用が拡大しています。",
       "analysis": {
-        "short_term": "需要拡大が継続。供給能力増強が鍵。",
-        "mid_term": "技術競争が激化し、標準化が進む。",
-        "investment_implications": "関連素材・製造装置メーカーに注目。"
+        "short_term": "需要拡大継続。供給能力増強が鍵。",
+        "mid_term": "技術進化とコスト低下で用途拡大。",
+        "investment_implications": "関連メーカーへの投資妙味大。"
       },
       "keywords": [
-        "SiC",
         "GaN",
+        "SiC",
         "EV",
         "AI",
-        "ダイヤモンド半導体"
+        "産業機器"
       ],
       "companies_mentioned": [
+        "STマイクロエレクトロニクス",
         "TDK",
-        "EPC",
-        "Renesas",
-        "SemiQ",
-        "Infineon",
-        "STMicroelectronics",
-        "ローム"
+        "EPC"
       ]
     },
     {
-      "name": "AI・データセンター向け需要拡大",
+      "name": "AI・HPC向け冷却技術の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "memory",
-        "logic",
-        "power"
+        "equipment"
       ],
-      "summary": "AIの進化に伴い、高性能なAIチップ、大容量メモリ、高効率電源への需要が爆発的に増加。データセンターのインフラ投資が加速。",
+      "summary": "AI/HPCの高性能化に伴う発熱増大に対し、チップ直結型液体冷却などの革新的な冷却技術が開発・導入されています。",
       "analysis": {
-        "short_term": "AIチップ・メモリの供給逼迫が続く。",
-        "mid_term": "HBM、HBFなどの新メモリ技術が普及。",
-        "investment_implications": "AIチップ、メモリ、関連電源部品に投資妙味。"
+        "short_term": "データセンター投資と連動して需要増。",
+        "mid_term": "冷却ソリューションの標準化が進む。",
+        "investment_implications": "冷却技術・装置メーカーに注目。"
       },
       "keywords": [
         "AI",
-        "データセンター",
-        "HBM",
-        "電源",
-        "メモリ"
+        "HPC",
+        "液体冷却",
+        "データセンター"
       ],
-      "companies_mentioned": [
-        "Infineon",
-        "日本電波工業",
-        "ルネサス",
-        "NAND"
-      ]
+      "companies_mentioned": []
     },
     {
-      "name": "車載半導体の高度化とSDVシフト",
-      "confidence": 0.85,
+      "name": "車載半導体の高性能・高信頼化",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "logic",
-        "power",
-        "ai"
+        "memory",
+        "analog"
       ],
-      "summary": "ソフトウェア・デファインド・ビークル（SDV）への移行が進み、高性能SoC、高信頼性電源、先進運転支援システム（ADAS）向け半導体の重要性が増している。",
+      "summary": "ADAS、自動運転、SDV（Software Defined Vehicle）化の進展により、車載SoCやセンサー向け半導体の高性能化、機能安全対応が不可欠となっています。",
       "analysis": {
-        "short_term": "SDV向けSoC開発競争が激化。",
-        "mid_term": "車載半導体の高機能化・高集積化が進む。",
-        "investment_implications": "車載SoC、ADAS関連部品メーカーに注目。"
+        "short_term": "新型車への採用拡大が続く。",
+        "mid_term": "次世代プラットフォーム競争が激化。",
+        "investment_implications": "車載半導体メーカーの成長期待。"
       },
       "keywords": [
-        "SDV",
-        "車載SoC",
+        "車載",
         "ADAS",
-        "EV",
-        "機能安全"
+        "自動運転",
+        "SDV",
+        "SoC"
       ],
       "companies_mentioned": [
         "TDK",
-        "Vishay",
-        "STMicroelectronics",
         "ルネサス",
-        "Infineon",
-        "BMW"
+        "Vishay"
       ]
     },
     {
-      "name": "チップレット技術の普及と進化",
-      "confidence": 0.75,
+      "name": "チップレット技術の標準化と普及",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "foundry",
-        "frontend",
         "backend",
-        "miniaturization"
+        "frontend",
+        "ai",
+        "logic",
+        "memory"
       ],
-      "summary": "高性能化、低コスト化、開発期間短縮のため、チップレット技術の採用が拡大。異種チップの統合や3D積層技術が進展。",
+      "summary": "高性能化・低コスト化のため、チップレット技術の採用が進み、標準化やエコシステム構築に向けた動きが活発化しています。",
       "analysis": {
-        "short_term": "最先端分野での採用が進む。",
-        "mid_term": "標準化とエコシステム構築が鍵。",
-        "investment_implications": "チップレット設計・製造関連企業に機会。"
+        "short_term": "先端分野での採用事例が増加。",
+        "mid_term": "標準インターフェース普及で設計容易化。",
+        "investment_implications": "チップレット関連技術・IPに注目。"
       },
       "keywords": [
         "チップレット",
-        "3D積層",
-        "GAAFET",
-        "TSMC"
+        "標準化",
+        "AI",
+        "高性能化"
       ],
       "companies_mentioned": [
-        "TSMC",
-        "ASM"
+        "UALink",
+        "HBM",
+        "HBF"
       ]
     },
     {
-      "name": "半導体製造プロセスの高度化",
-      "confidence": 0.7,
+      "name": "半導体設計・製造へのAI活用拡大",
+      "confidence": 0.82,
       "momentum": "rising",
       "related_fields": [
+        "ai",
         "frontend",
         "backend",
         "equipment",
-        "wafer",
-        "foundry"
+        "logic"
       ],
-      "summary": "EUVリソグラフィ、ALD/MLD、原子スケール計測、レーザー加工など、微細化・高精度化に向けた製造技術が進化。DXによる効率化も進む。",
+      "summary": "AIの進化に追いつくため、設計・検証の自動化や製造プロセスの最適化にAI技術の導入が加速しています。",
       "analysis": {
-        "short_term": "新プロセス技術の開発競争が激化。",
-        "mid_term": "製造装置の高度化・自動化が進む。",
-        "investment_implications": "先端製造装置・材料メーカーに注目。"
+        "short_term": "設計生産性向上への期待高まる。",
+        "mid_term": "製造現場でのAI活用が本格化。",
+        "investment_implications": "AIソリューション提供企業に注目。"
       },
       "keywords": [
-        "EUV",
-        "ALD",
-        "原子スケール",
-        "レーザー加工",
-        "DX"
+        "AI",
+        "設計自動化",
+        "製造最適化",
+        "LLM"
       ],
       "companies_mentioned": [
-        "Renesas",
-        "Aalto University",
-        "RUB",
-        "Cornell",
-        "ASM",
-        "TSMC",
-        "リンテック",
-        "オキサイド",
-        "東京エレクトロンデバイス"
+        "ケイデンス",
+        "日立",
+        "東工大"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け半導体需要の急増",
-      "EV・SDV市場の拡大に伴う車載半導体需要の増加",
-      "次世代パワー半導体（SiC, GaN）の普及加速",
-      "先端ロジック・メモリ分野における技術革新の継続"
+      "AI・HPC向け高性能半導体需要の継続",
+      "車載半導体市場の堅調な成長",
+      "パワー半導体（GaN/SiC）の用途拡大",
+      "データセンター投資の活発化"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不安定化",
-      "メモリ市場の周期的な変動リスク",
-      "半導体製造装置への巨額投資に伴う過剰供給懸念（長期的に）"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "先端製造装置へのアクセス制限（一部地域）"
     ],
     "neutral": [
-      "半導体製造におけるDX推進の課題（人材育成など）",
-      "新素材（ダイヤモンド半導体等）の実用化・普及速度"
+      "メモリ市場の需給バランス",
+      "PC・スマートフォン市場の回復ペース"
     ]
   },
   "source_count": 42
