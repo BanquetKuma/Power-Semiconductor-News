@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-26T06:12:34.858105+09:00",
+  "generated_at": "2026-02-27T06:13:34.723097+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "What Designers Need to Know About UALink for Scalable AI Systems",
-    "summary": "GPU統合、メモリプーリング、高帯域通信でAIシステムを拡張するUALinkの基本とアーキテクチャを解説。",
+    "title": "An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)",
+    "summary": "KAISTらの研究チームが、GNN推論のボトルネックである前処理を高速化するFPGAベースのアクセラレータ「AutoGNN」を発表しました。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/what-designers-need-to-know-about-ualink-for-scalable-ai-systems"
+        "url": "https://semiengineering.com/an-fpga-based-accelerator-addressing-bottlenecks-in-gnn-preprocessing-kaist-et-al"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "ルネサス「R-Car V4H」、トヨタ新型「RAV4」に採用",
-        "blurb": "ルネサス製SoC「R-Car V4H」がトヨタ新型RAV4に採用。主要ADAS機能の信号処理を担い、安全性能向上に貢献。",
+        "title": "3nmチップ搭載の最新スマホ3機種を分解　三者三様の設計思想とは",
+        "blurb": "3nmチップ搭載スマホ3機種を分解。基本構成は近いが、コア数など内訳は各社で異なり、設計思想の違いが浮き彫りに。",
         "category": "company",
-        "date": "2026-02-25",
+        "date": "2026-02-26",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news123.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news022.html"
         },
         "field": {
           "primary": "logic",
@@ -33,36 +33,18 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "Radxa NX4 Packs 6 TOPS AI Power into a Compact RK3576J SoM",
-        "blurb": "Radxa NX4は、コンパクトなRK3576J SoMに6 TOPSのAI処理能力を搭載し、産業用エッジAIやマルチメディア用途向けに55ドルから提供。",
-        "category": "company",
-        "date": "2026-02-25",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/radxa-nx4-packs-6-tops-ai-power-into-a-compact-rk3576j-som"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
       }
     ],
     "tech": [
       {
-        "title": "What Designers Need to Know About UALink for Scalable AI Systems",
-        "blurb": "GPU統合、メモリプーリング、高帯域通信でAIシステムを拡張するUALinkの基本とアーキテクチャを解説。",
+        "title": "An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)",
+        "blurb": "KAISTらの研究チームが、GNN推論のボトルネックである前処理を高速化するFPGAベースのアクセラレータ「AutoGNN」を発表しました。",
         "category": "tools",
-        "date": "2026-02-25",
+        "date": "2026-02-27",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/what-designers-need-to-know-about-ualink-for-scalable-ai-systems"
+          "url": "https://semiengineering.com/an-fpga-based-accelerator-addressing-bottlenecks-in-gnn-preprocessing-kaist-et-al"
         },
         "field": {
           "primary": "logic",

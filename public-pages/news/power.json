@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-02-26T06:12:34.857300+09:00",
+  "generated_at": "2026-02-27T06:13:34.722428+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Introduces MasterGaN6 GaN Power ICs",
-    "summary": "STマイクロエレクトロニクスが、小型・高効率な電源コンバーター向けに、ドライバーや保護機能を統合したGaNパワーIC「MasterGaN6」を発表しました。",
+    "title": "Power Corner: Allegro’s Vijay Mangtani Explains Power-Thru Isolated Gate Driver Technology",
+    "summary": "Allegro社のPower-Thru技術は、次世代電源システムに革新をもたらす絶縁ゲートドライバ技術。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics"
+        "url": "https://www.powerelectronicsnews.com/power-corner-allegros-vijay-mangtani-explains-power-thru-isolated-gate-driver-technology"
       }
     ]
   },
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "ST Introduces MasterGaN6 GaN Power ICs",
-        "blurb": "STマイクロエレクトロニクスが、小型・高効率な電源コンバーター向けに、ドライバーや保護機能を統合したGaNパワーIC「MasterGaN6」を発表しました。",
+        "blurb": "STマイクロエレクトロニクスが、小型・高効率な電源コンバーター向けに、ドライバーと保護機能を統合したGaNパワーIC「MasterGaN6」を発表しました。",
         "category": "company",
         "date": "2026-02-26",
         "stars": 3,
@@ -33,9 +33,65 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "ローム、TSMCライセンス受けGaN一貫生産へ　27年目標",
+        "blurb": "ロームはTSMCからGaN技術ライセンスを取得し、2027年までにGaNパワーデバイスの一貫生産体制を構築する。",
+        "category": "company",
+        "date": "2026-02-26",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/26/news080.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "GaN half-bridge simplifies 650-V power stages",
+        "blurb": "ST社のMasterGaN6は、650V GaNトランジスタ2個をハーフブリッジ構成に統合し、小型で高効率なパワーステージを実現します。",
+        "category": "tools",
+        "date": "2026-02-27",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/gan-half-bridge-simplifies-650-v-power-stages"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Power Corner: Allegro’s Vijay Mangtani Explains Power-Thru Isolated Gate Driver Technology",
+        "blurb": "Allegro社のPower-Thru技術は、次世代電源システムに革新をもたらす絶縁ゲートドライバ技術。",
+        "category": "business",
+        "date": "2026-02-26",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-allegros-vijay-mangtani-explains-power-thru-isolated-gate-driver-technology"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

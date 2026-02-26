@@ -1,161 +1,170 @@
 {
-  "generated_at": "2026-02-26T06:12:39.378041+09:00",
-  "date": "2026-02-26",
+  "generated_at": "2026-02-27T06:13:39.464453+09:00",
+  "date": "2026-02-27",
   "meta_trends": [
     {
-      "name": "GaN/SiCパワー半導体の普及加速",
+      "name": "GaN・SiCパワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "industrial",
-        "ai"
+        "datacenter"
       ],
-      "summary": "GaNおよびSiCパワー半導体は、EV、産業機器、AIデータセンターなど、高効率・小型化が求められる分野で採用が拡大しています。",
+      "summary": "GaNおよびSiC技術は、高効率・小型化・高性能化を実現し、EV、ロボット、データセンター、工場自動化など幅広い分野で採用が拡大しています。",
       "analysis": {
-        "short_term": "需要拡大継続。供給能力増強が鍵。",
-        "mid_term": "技術進化とコスト低下で用途拡大。",
-        "investment_implications": "関連メーカーへの投資妙味大。"
+        "short_term": "需要増により供給逼迫の可能性。価格上昇も。",
+        "mid_term": "技術進化と生産能力増強で普及加速。",
+        "investment_implications": "関連メーカーへの投資妙味増大。"
       },
       "keywords": [
         "GaN",
         "SiC",
         "EV",
-        "AI",
-        "産業機器"
+        "ロボット",
+        "データセンター",
+        "工場自動化"
       ],
       "companies_mentioned": [
+        "Allegro",
         "STマイクロエレクトロニクス",
         "TDK",
-        "EPC"
+        "EPC",
+        "ローム",
+        "Infineon"
       ]
     },
     {
-      "name": "AI・HPC向け冷却技術の進化",
+      "name": "AI・チップレットによる設計革新",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "logic",
         "datacenter",
+        "frontend",
         "equipment"
       ],
-      "summary": "AI/HPCの高性能化に伴う発熱増大に対し、チップ直結型液体冷却などの革新的な冷却技術が開発・導入されています。",
+      "summary": "AIは半導体設計・検証プロセスを効率化し、チップレット技術はモジュール化による開発加速と性能向上を推進しています。",
       "analysis": {
-        "short_term": "データセンター投資と連動して需要増。",
-        "mid_term": "冷却ソリューションの標準化が進む。",
-        "investment_implications": "冷却技術・装置メーカーに注目。"
+        "short_term": "AIツール導入による設計期間短縮が進む。",
+        "mid_term": "チップレットエコシステムの成熟と標準化。",
+        "investment_implications": "AI設計ツール、チップレット関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "HPC",
-        "液体冷却",
-        "データセンター"
+        "チップレット",
+        "FPGA",
+        "EDA",
+        "設計自動化"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "KAIST",
+        "ケイデンス",
+        "ルネサス"
+      ]
     },
     {
-      "name": "車載半導体の高性能・高信頼化",
-      "confidence": 0.88,
+      "name": "車載半導体の高性能化・高機能化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "logic",
-        "memory",
-        "analog"
+        "power",
+        "datacenter"
       ],
-      "summary": "ADAS、自動運転、SDV（Software Defined Vehicle）化の進展により、車載SoCやセンサー向け半導体の高性能化、機能安全対応が不可欠となっています。",
+      "summary": "ADAS、自動運転、SDV（Software Defined Vehicle）の進化に伴い、高性能SoC、パワー半導体、センサーなどの需要が拡大しています。",
       "analysis": {
-        "short_term": "新型車への採用拡大が続く。",
-        "mid_term": "次世代プラットフォーム競争が激化。",
-        "investment_implications": "車載半導体メーカーの成長期待。"
+        "short_term": "新型車への採用拡大で需要堅調。",
+        "mid_term": "次世代プラットフォーム向け開発競争激化。",
+        "investment_implications": "車載SoC、ADAS関連技術に投資機会。"
       },
       "keywords": [
         "車載",
         "ADAS",
-        "自動運転",
+        "SoC",
         "SDV",
-        "SoC"
+        "自動運転"
       ],
       "companies_mentioned": [
         "TDK",
         "ルネサス",
-        "Vishay"
+        "トヨタ"
       ]
     },
     {
-      "name": "チップレット技術の標準化と普及",
-      "confidence": 0.85,
+      "name": "EUVリソグラフィ技術の重要性増大",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "backend",
         "frontend",
-        "ai",
-        "logic",
-        "memory"
-      ],
-      "summary": "高性能化・低コスト化のため、チップレット技術の採用が進み、標準化やエコシステム構築に向けた動きが活発化しています。",
-      "analysis": {
-        "short_term": "先端分野での採用事例が増加。",
-        "mid_term": "標準インターフェース普及で設計容易化。",
-        "investment_implications": "チップレット関連技術・IPに注目。"
-      },
-      "keywords": [
-        "チップレット",
-        "標準化",
-        "AI",
-        "高性能化"
-      ],
-      "companies_mentioned": [
-        "UALink",
-        "HBM",
-        "HBF"
-      ]
-    },
-    {
-      "name": "半導体設計・製造へのAI活用拡大",
-      "confidence": 0.82,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "frontend",
-        "backend",
         "equipment",
+        "foundry",
         "logic"
       ],
-      "summary": "AIの進化に追いつくため、設計・検証の自動化や製造プロセスの最適化にAI技術の導入が加速しています。",
+      "summary": "最先端ロジック半導体製造に不可欠なEUVリソグラフィ技術において、フォトレジストや関連材料の開発競争が激化しています。",
       "analysis": {
-        "short_term": "設計生産性向上への期待高まる。",
-        "mid_term": "製造現場でのAI活用が本格化。",
-        "investment_implications": "AIソリューション提供企業に注目。"
+        "short_term": "材料開発競争が加速し、供給体制が強化。",
+        "mid_term": "EUV対応装置・材料メーカーの成長期待。",
+        "investment_implications": "先端プロセス関連企業への投資妙味。"
       },
       "keywords": [
-        "AI",
-        "設計自動化",
-        "製造最適化",
-        "LLM"
+        "EUV",
+        "リソグラフィ",
+        "フォトレジスト",
+        "材料",
+        "最先端"
       ],
       "companies_mentioned": [
-        "ケイデンス",
-        "日立",
-        "東工大"
+        "東京応化工業",
+        "Irresistible Materials"
+      ]
+    },
+    {
+      "name": "データセンターの冷却・効率化技術",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "power",
+        "ai",
+        "equipment"
+      ],
+      "summary": "AI・HPCの普及に伴う電力消費増大に対応するため、直接チップ冷却などの高効率冷却技術や、データセンター全体の最適化が求められています。",
+      "analysis": {
+        "short_term": "液冷ソリューションの導入が進展。",
+        "mid_term": "省電力化技術がデータセンター設計の鍵に。",
+        "investment_implications": "冷却技術、高効率電源関連企業に注目。"
+      },
+      "keywords": [
+        "データセンター",
+        "液冷",
+        "AI",
+        "HPC",
+        "冷却技術",
+        "省電力"
+      ],
+      "companies_mentioned": [
+        "Infineon"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・HPC向け高性能半導体需要の継続",
+      "GaN/SiCパワー半導体の需要急増",
+      "AI関連半導体への投資活発化",
       "車載半導体市場の堅調な成長",
-      "パワー半導体（GaN/SiC）の用途拡大",
-      "データセンター投資の活発化"
+      "先端ロジック半導体への需要継続"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "先端製造装置へのアクセス制限（一部地域）"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "一部汎用品の在庫調整懸念"
     ],
     "neutral": [
-      "メモリ市場の需給バランス",
-      "PC・スマートフォン市場の回復ペース"
+      "半導体製造装置市場の動向",
+      "中国半導体産業の自給自足の進捗"
     ]
   },
   "source_count": 42

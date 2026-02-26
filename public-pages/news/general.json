@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-26T06:12:34.859962+09:00",
+  "generated_at": "2026-02-27T06:13:34.724843+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Direct-to-Chip Liquid Cooling Technology for HPC",
-    "summary": "AIデータセンターやHPC向けに、チップに直接液体を当てる冷却技術を紹介。冷却アーキテクチャを解説。",
+    "title": "Bourns Launches Four New Multilayer Chip Inductor Series",
+    "summary": "BournsがRF・モバイル向けの新積層チップインダクタ4シリーズを発表。小型、高SRF、安定性能が特徴。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/direct-to-chip-liquid-cooling-technology-for-hpc"
+        "url": "https://www.powerelectronicsnews.com/bourns-launches-four-new-multilayer-chip-inductor-series"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "シリコン材料で量子ビットを高精度に制御、日立",
-        "blurb": "日立と東工大は、シリコン量子ビットをマイクロ波で高精度に制御する技術を開発。ノイズ環境下でも安定動作が可能に。",
+        "title": "Bourns Launches Four New Multilayer Chip Inductor Series",
+        "blurb": "BournsがRF・モバイル向けの新積層チップインダクタ4シリーズを発表。小型、高SRF、安定性能が特徴。",
         "category": "company",
-        "date": "2026-02-25",
+        "date": "2026-02-26",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news042.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/bourns-launches-four-new-multilayer-chip-inductor-series"
         },
         "field": {
           "primary": "general",
@@ -35,14 +35,32 @@
         }
       },
       {
-        "title": "半導体設計／検証向けエージェント型AI、生産性を10倍向上",
-        "blurb": "ケイデンスが半導体設計・検証向けAI「Cadence ChipStack AI Super Agent」を発表。RTL設計やテストベンチ作成などを自動化し、生産性を最大10倍向上させる。",
+        "title": "AI Energy Gap And Chiplets: Why Data Movement Matters",
+        "blurb": "AIチップレットの効率的な動作には、アーキテクチャとセマンティック層での明確化が不可欠。データ移動が重要。",
         "category": "company",
-        "date": "2026-02-25",
+        "date": "2026-02-26",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news040.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-energy-gap-and-chiplets-why-data-movement-matters"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors",
+        "blurb": "酸化物半導体の近赤外線検出能力をCMOS互換で拡張する新技術が発表された。IGZOトランジスタの酸素欠陥を利用。",
+        "category": "company",
+        "date": "2026-02-27",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/cmos-compatible-approach-to-extending-the-spectral-response-of-oxide-semiconductors"
         },
         "field": {
           "primary": "general",
@@ -55,14 +73,50 @@
     ],
     "tech": [
       {
-        "title": "40 PCB Design Tips Every Designer Should Know: eBook",
-        "blurb": "PCB設計者必見の40のヒント集。効率的で信頼性の高い設計のための実践戦略、落とし穴、解決策を解説。",
+        "title": "Using Data And AI More Effectively In EDA",
+        "blurb": "EDAで生成される大量のデータをAIがより有効活用するための新手法が検討されている。",
         "category": "tools",
-        "date": "2026-02-25",
+        "date": "2026-02-26",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/40-pcb-design-tips-every-designer-should-know-ebook"
+          "url": "https://semiengineering.com/using-data-and-ai-more-effectively-in-eda"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI Starting To Simplify Design Of Programmable Logic",
+        "blurb": "AIがFPGAやDSPの設計を簡略化し、市場投入までの時間を短縮。専門知識は依然必要。",
+        "category": "tools",
+        "date": "2026-02-26",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-starting-to-simplify-design-of-programmable-logic"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis",
+        "blurb": "回路設計、シミュレーション、機能安全分析を統合し、時間とエラーを削減するワークフロー。",
+        "category": "tools",
+        "date": "2026-02-26",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/an-integrated-workflow-for-circuit-design-simulation-and-functional-safety-analysis"
         },
         "field": {
           "primary": "general",
@@ -75,14 +129,14 @@
     ],
     "market": [
       {
-        "title": "Direct-to-Chip Liquid Cooling Technology for HPC",
-        "blurb": "AIデータセンターやHPC向けに、チップに直接液体を当てる冷却技術を紹介。冷却アーキテクチャを解説。",
+        "title": "How IP Subsystems For Chiplets Will Unlock Your Next Wave Of Innovation",
+        "blurb": "チップレット設計におけるIPサブシステムの重要性が増している。IP再利用が進化し、イノベーションを加速させる。",
         "category": "business",
-        "date": "2026-02-25",
+        "date": "2026-02-26",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/direct-to-chip-liquid-cooling-technology-for-hpc"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-ip-subsystems-for-chiplets-will-unlock-your-next-wave-of-innovation"
         },
         "field": {
           "primary": "general",
@@ -93,32 +147,14 @@
         }
       },
       {
-        "title": "Back-End Automation Tackles Growing Complexity",
-        "blurb": "半導体パッケージングの複雑化に伴うデータ、検査、プロセス統合の課題に対し、バックエンド自動化が解決策となる。",
+        "title": "Verifying Scale-Up And Scale-Out In Data Centers",
+        "blurb": "データセンターにおけるスケールアップ・スケールアウトの検証方法について、ラック内およびラック間の標準と選択肢を解説。",
         "category": "business",
-        "date": "2026-02-25",
+        "date": "2026-02-26",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/back-end-automation-tackles-growing-complexity"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Purpose-Built Tools for Connected Design",
-        "blurb": "半導体業界の競争力維持のため、接続された設計データ管理ツールがボトルネック解消とイノベーション加速を支援。",
-        "category": "business",
-        "date": "2026-02-25",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/purpose-built-tools-for-connected-design"
+          "url": "https://semiengineering.com/verifying-scale-up-and-scale-out-in-data-centers"
         },
         "field": {
           "primary": "general",
