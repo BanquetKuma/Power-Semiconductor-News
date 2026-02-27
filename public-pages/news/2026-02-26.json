@@ -1,46 +1,28 @@
 {
-  "generated_at": "2026-02-27T06:13:34.720710+09:00",
+  "generated_at": "2026-02-26T06:12:34.856104+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Corner: Allegro’s Vijay Mangtani Explains Power-Thru Isolated Gate Driver Technology",
-    "summary": "Allegro社のPower-Thru技術は、次世代電源システムに革新をもたらす絶縁ゲートドライバ技術。",
+    "title": "ST Introduces MasterGaN6 GaN Power ICs",
+    "summary": "STマイクロエレクトロニクスが、小型・高効率な電源コンバーター向けに、ドライバーや保護機能を統合したGaNパワーIC「MasterGaN6」を発表しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-corner-allegros-vijay-mangtani-explains-power-thru-isolated-gate-driver-technology"
+        "url": "https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Power Corner: Allegro’s Vijay Mangtani Explains Power-Thru Isolated Gate Driver Technology",
-        "blurb": "Allegro社のPower-Thru技術は、次世代電源システムに革新をもたらす絶縁ゲートドライバ技術。",
+        "title": "Direct-to-Chip Liquid Cooling Technology for HPC",
+        "blurb": "AIデータセンターやHPC向けに、チップに直接液体を当てる冷却技術を紹介。冷却アーキテクチャを解説。",
         "category": "business",
-        "date": "2026-02-26",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-allegros-vijay-mangtani-explains-power-thru-isolated-gate-driver-technology"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "How IP Subsystems For Chiplets Will Unlock Your Next Wave Of Innovation",
-        "blurb": "チップレット設計におけるIPサブシステムの重要性が増している。IP再利用が進化し、イノベーションを加速させる。",
-        "category": "business",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-ip-subsystems-for-chiplets-will-unlock-your-next-wave-of-innovation"
+          "url": "https://www.powerelectronicsnews.com/direct-to-chip-liquid-cooling-technology-for-hpc"
         },
         "field": {
           "primary": "general",
@@ -51,14 +33,14 @@
         }
       },
       {
-        "title": "Verifying Scale-Up And Scale-Out In Data Centers",
-        "blurb": "データセンターにおけるスケールアップ・スケールアウトの検証方法について、ラック内およびラック間の標準と選択肢を解説。",
+        "title": "Back-End Automation Tackles Growing Complexity",
+        "blurb": "半導体パッケージングの複雑化に伴うデータ、検査、プロセス統合の課題に対し、バックエンド自動化が解決策となる。",
         "category": "business",
-        "date": "2026-02-26",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/verifying-scale-up-and-scale-out-in-data-centers"
+          "url": "https://semiengineering.com/back-end-automation-tackles-growing-complexity"
         },
         "field": {
           "primary": "general",
@@ -69,76 +51,88 @@
         }
       },
       {
-        "title": "Data Center Digital Twins: How Simulation Improves Design And Performance",
-        "blurb": "データセンターのデジタルツインは、仮想レプリカで容量計画を最適化し、無駄を削減。設計と性能向上に貢献。",
+        "title": "Blog Review: Feb. 25",
+        "blurb": "半導体業界の最新動向：チップレット、LPDDR6、AIグラフィックスレンダリングなどについて解説。",
         "category": "business",
-        "date": "2026-02-26",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/data-center-digital-twins-how-simulation-improves-design-and-performance"
+          "url": "https://semiengineering.com/blog-review-feb-25-2"
         },
         "field": {
-          "primary": "datacenter",
+          "primary": "backend",
           "device": null,
-          "process": null,
-          "market": "datacenter",
+          "process": "backend",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Power Tips #150: Overcoming high-voltage monitoring challenges in gigawatt-scale data centers",
-        "blurb": "ギガワット級データセンターにおける高電圧監視の課題克服。次世代DCアーキテクチャ展開を支える信頼性、精度、高速応答性を確保。",
+        "title": "Purpose-Built Tools for Connected Design",
+        "blurb": "半導体業界の競争力維持のため、接続された設計データ管理ツールがボトルネック解消とイノベーション加速を支援。",
         "category": "business",
-        "date": "2026-02-26",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/power-tips-150-overcoming-high-voltage-monitoring-challenges-in-gigawatt-scale-data-centers"
-        },
-        "field": null
-      },
-      {
-        "title": "Low-loss MLCCs deliver wideband RF performance",
-        "blurb": "京セラAVXが広帯域MLCCを拡張、高速・広帯域光通信システムに対応。低損失でRF性能を向上。",
-        "category": "business",
-        "date": "2026-02-27",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/low-loss-mlccs-deliver-wideband-rf-performance"
-        },
-        "field": null
-      },
-      {
-        "title": "5G RedCap module enables high-speed IoT connectivity",
-        "blurb": "Cavliの5G RedCapモジュールCQM220は、IoT向けに低コスト・低消費電力で高速な5G接続を提供します。",
-        "category": "business",
-        "date": "2026-02-27",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/5g-redcap-module-enables-high-speed-iot-connectivity"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/purpose-built-tools-for-connected-design"
         },
         "field": {
-          "primary": "industrial",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "industrial",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "中国が「半導体製造装置の自給自足」に苦戦している理由（前編）",
+        "blurb": "中国は国内半導体メーカーに製造装置の国内調達を義務付けたが、国内産業の育成に苦戦している。",
+        "category": "business",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news069.html"
+        },
+        "field": {
+          "primary": "equipment",
+          "device": null,
+          "process": "equipment",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "MIPI Alliance Upgrades Specs for JEDEC UFS",
+        "blurb": "MIPI AllianceがJEDEC UFS 5.0向けにUniProとM-PHY仕様を更新。モバイル、PC、車載分野のAI処理性能向上を目指す。",
+        "category": "business",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mipi-alliance-upgrades-specs-for-jedec-ufs"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
     "tools": [
       {
-        "title": "Using Data And AI More Effectively In EDA",
-        "blurb": "EDAで生成される大量のデータをAIがより有効活用するための新手法が検討されている。",
+        "title": "40 PCB Design Tips Every Designer Should Know: eBook",
+        "blurb": "PCB設計者必見の40のヒント集。効率的で信頼性の高い設計のための実践戦略、落とし穴、解決策を解説。",
         "category": "tools",
-        "date": "2026-02-26",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/using-data-and-ai-more-effectively-in-eda"
+          "url": "https://semiengineering.com/40-pcb-design-tips-every-designer-should-know-ebook"
         },
         "field": {
           "primary": "general",
@@ -149,74 +143,14 @@
         }
       },
       {
-        "title": "AI Starting To Simplify Design Of Programmable Logic",
-        "blurb": "AIがFPGAやDSPの設計を簡略化し、市場投入までの時間を短縮。専門知識は依然必要。",
+        "title": "What Designers Need to Know About UALink for Scalable AI Systems",
+        "blurb": "GPU統合、メモリプーリング、高帯域通信でAIシステムを拡張するUALinkの基本とアーキテクチャを解説。",
         "category": "tools",
-        "date": "2026-02-26",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-starting-to-simplify-design-of-programmable-logic"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "An Integrated Workflow For Circuit Design, Simulation, And Functional Safety Analysis",
-        "blurb": "回路設計、シミュレーション、機能安全分析を統合し、時間とエラーを削減するワークフロー。",
-        "category": "tools",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/an-integrated-workflow-for-circuit-design-simulation-and-functional-safety-analysis"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Jumping the Jeep: An alternative cost-effective solar cell example app",
-        "blurb": "安価な太陽電池充電キットで、遠隔地の車両バッテリーを維持する実用例を紹介。",
-        "category": "tools",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/jumping-the-jeep-an-alternative-cost-effective-solar-cell-example-app"
-        },
-        "field": null
-      },
-      {
-        "title": "Variable‑reluctance sensors: From fundamentals to speed sensing",
-        "blurb": "VRセンサーは外部励磁不要で正確な運動フィードバックを提供し、速度・位置検出にコスト効率が良い。",
-        "category": "tools",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/variable-reluctance-sensors-from-fundamentals-to-speed-sensing"
-        },
-        "field": null
-      },
-      {
-        "title": "An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)",
-        "blurb": "KAISTらの研究チームが、GNN推論のボトルネックである前処理を高速化するFPGAベースのアクセラレータ「AutoGNN」を発表しました。",
-        "category": "tools",
-        "date": "2026-02-27",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/an-fpga-based-accelerator-addressing-bottlenecks-in-gnn-preprocessing-kaist-et-al"
+          "url": "https://semiengineering.com/what-designers-need-to-know-about-ualink-for-scalable-ai-systems"
         },
         "field": {
           "primary": "logic",
@@ -227,46 +161,94 @@
         }
       },
       {
-        "title": "Scope boosts high-speed interface validation",
-        "blurb": "KeysightのXR8オシロスコープは、強力な並列・マルチコア解析で高速インターフェースのデバッグとコンプライアンス検証を加速します。",
+        "title": "Three New ALD/MLD Processes for Co-organic Thin Films (Aalto University, RUB et al.)",
+        "blurb": "ALD/MLD技術でコバルト系有機薄膜を形成する新プロセスを開発。酸化コバルト膜への変換も可能。",
         "category": "tools",
-        "date": "2026-02-27",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/scope-boosts-high-speed-interface-validation"
-        },
-        "field": null
-      },
-      {
-        "title": "GaN half-bridge simplifies 650-V power stages",
-        "blurb": "ST社のMasterGaN6は、650V GaNトランジスタ2個をハーフブリッジ構成に統合し、小型で高効率なパワーステージを実現します。",
-        "category": "tools",
-        "date": "2026-02-27",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/gan-half-bridge-simplifies-650-v-power-stages"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/three-new-ald-mld-processes-for-co-organic-thin-films-aalto-university-rub-et-al"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "An LM317-based 0-20mA to 4-20mA 2-wire converter",
+        "blurb": "LM317レギュレータを使用し、0-20mA入力を4-20mAの2線式伝送器に変換する回路。",
+        "category": "tools",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/an-lm317-based-0-20ma-to-4-20ma-2-wire-converter"
+        },
+        "field": null
       }
     ],
     "company": [
       {
-        "title": "Bourns Launches Four New Multilayer Chip Inductor Series",
-        "blurb": "BournsがRF・モバイル向けの新積層チップインダクタ4シリーズを発表。小型、高SRF、安定性能が特徴。",
+        "title": "TDK Introduces New DC Link Capacitors",
+        "blurb": "TDKはEV車載充電器向けに、信頼性と効率を高める新型DCリンクコンデンサを発表しました。",
         "category": "company",
-        "date": "2026-02-26",
+        "date": "2026-02-25",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/bourns-launches-four-new-multilayer-chip-inductor-series"
+          "url": "https://www.powerelectronicsnews.com/tdk-introduces-new-dc-link-capacitors"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Survey of DL-Based LiDAR Super-Resolution For Autonomous Driving (University College London)",
+        "blurb": "UCLの研究者らが、自動運転向けLiDARの深層学習による超解像技術のサーベイ論文を発表。低解像度LiDARの課題解決に貢献。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/survey-of-dl-based-lidar-super-resolution-for-autonomous-driving-university-college-london"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "「世界初」量子着想のアルゴリズムを自律ロボットに搭載",
+        "blurb": "東芝とミライズテクノロジーズは、量子着想の計算機を自律ロボットに搭載し、高度な制御への有効性を実証した。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news098.html"
+        },
+        "field": null
+      },
+      {
+        "title": "シリコン材料で量子ビットを高精度に制御、日立",
+        "blurb": "日立と東工大は、シリコン量子ビットをマイクロ波で高精度に制御する技術を開発。ノイズ環境下でも安定動作が可能に。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news042.html"
         },
         "field": {
           "primary": "general",
@@ -277,8 +259,62 @@
         }
       },
       {
+        "title": "ルネサス「R-Car V4H」、トヨタ新型「RAV4」に採用",
+        "blurb": "ルネサス製SoC「R-Car V4H」がトヨタ新型RAV4に採用。主要ADAS機能の信号処理を担い、安全性能向上に貢献。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news123.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "半導体設計／検証向けエージェント型AI、生産性を10倍向上",
+        "blurb": "ケイデンスが半導体設計・検証向けAI「Cadence ChipStack AI Super Agent」を発表。RTL設計やテストベンチ作成などを自動化し、生産性を最大10倍向上させる。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/25/news040.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Radxa NX4 Packs 6 TOPS AI Power into a Compact RK3576J SoM",
+        "blurb": "Radxa NX4は、コンパクトなRK3576J SoMに6 TOPSのAI処理能力を搭載し、産業用エッジAIやマルチメディア用途向けに55ドルから提供。",
+        "category": "company",
+        "date": "2026-02-25",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/radxa-nx4-packs-6-tops-ai-power-into-a-compact-rk3576j-som"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
         "title": "ST Introduces MasterGaN6 GaN Power ICs",
-        "blurb": "STマイクロエレクトロニクスが、小型・高効率な電源コンバーター向けに、ドライバーと保護機能を統合したGaNパワーIC「MasterGaN6」を発表しました。",
+        "blurb": "STマイクロエレクトロニクスが、小型・高効率な電源コンバーター向けに、ドライバーや保護機能を統合したGaNパワーIC「MasterGaN6」を発表しました。",
         "category": "company",
         "date": "2026-02-26",
         "stars": 3,
@@ -295,172 +331,16 @@
         }
       },
       {
-        "title": "AI Energy Gap And Chiplets: Why Data Movement Matters",
-        "blurb": "AIチップレットの効率的な動作には、アーキテクチャとセマンティック層での明確化が不可欠。データ移動が重要。",
+        "title": "Schurter Releases Ultra-Thin, High-Power Coin Cell Supercapacitors",
+        "blurb": "シュルター社が薄型・高出力コイン型スーパーキャパシタを発表。1500mF、5.5Vで電源、医療機器、ウェアラブル等に活用。",
         "category": "company",
         "date": "2026-02-26",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-energy-gap-and-chiplets-why-data-movement-matters"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「TSN over 5G」の接続実証「世界初」成功、村田製作所ら",
-        "blurb": "村田製作所、ソフトバンク、CLPAは、5G上で高精度な時刻同期を実現する「TSN over 5G」の接続実証に世界で初めて成功した。",
-        "category": "company",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/26/news039.html"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/schurter-releases-ultra-thin-high-power-coin-cell-supercapacitors"
         },
         "field": null
-      },
-      {
-        "title": "ローム、TSMCライセンス受けGaN一貫生産へ　27年目標",
-        "blurb": "ロームはTSMCからGaN技術ライセンスを取得し、2027年までにGaNパワーデバイスの一貫生産体制を構築する。",
-        "category": "company",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/26/news080.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "東京応化がEUV向けフォトレジスト開発強化、英IMに出資",
-        "blurb": "東京応化工業はEUV向けフォトレジスト開発加速のため、英Irresistible Materialsに投資し共同開発で提携した。",
-        "category": "company",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/26/news040.html"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "3nmチップ搭載の最新スマホ3機種を分解　三者三様の設計思想とは",
-        "blurb": "3nmチップ搭載スマホ3機種を分解。基本構成は近いが、コア数など内訳は各社で異なり、設計思想の違いが浮き彫りに。",
-        "category": "company",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/24/news022.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "人生の棚卸しと「恥辱プレイ」でつかんだ合格証明書",
-        "blurb": "大学院博士課程入学までの苦闘。人生とキャリアの棚卸し、自己点検を経て合格を掴む。",
-        "category": "company",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news037.html"
-        },
-        "field": null
-      },
-      {
-        "title": "中国が「半導体製造装置の自給自足」に苦戦している理由（後編）",
-        "blurb": "中国は半導体製造装置の国内調達を義務付けたが、国内メーカーが欧米競合に追随できるか疑問視されている。",
-        "category": "company",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/26/news032.html"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Kioxia Samples UFS 5.0 Flash Memory Devices",
-        "blurb": "キオクシアが次世代スマホ向けUFS 5.0規格準拠のフラッシュメモリサンプル出荷を開始。AI対応など高性能化に対応。",
-        "category": "company",
-        "date": "2026-02-26",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/kioxia-samples-ufs-5-0-flash-memory-devices"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "CMOS-Compatible Approach to Extending the Spectral Response of Oxide Semiconductors",
-        "blurb": "酸化物半導体の近赤外線検出能力をCMOS互換で拡張する新技術が発表された。IGZOトランジスタの酸素欠陥を利用。",
-        "category": "company",
-        "date": "2026-02-27",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cmos-compatible-approach-to-extending-the-spectral-response-of-oxide-semiconductors"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "3-in-1 IoT module cuts complexity",
-        "blurb": "イリジウム社が衛星・LTE-M・GNSSを統合した小型IoTモジュール「9604」を発表。開発の複雑さを軽減。",
-        "category": "company",
-        "date": "2026-02-27",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/3-in-1-iot-module-cuts-complexity"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
       }
     ],
     "sns": []

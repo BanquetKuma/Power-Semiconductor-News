@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-02-27T06:13:34.722742+09:00",
+  "generated_at": "2026-02-28T06:09:13.242144+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Kioxia Samples UFS 5.0 Flash Memory Devices",
-    "summary": "キオクシアが次世代スマホ向けUFS 5.0規格準拠のフラッシュメモリサンプル出荷を開始。AI対応など高性能化に対応。",
+    "title": "Chip Industry Week In Review",
+    "summary": "Rapidusに17億ドル、インテル・UMCの幹部交代、EUV高速化、GPU大型契約、AIチップ資金調達など、半導体業界の最新動向。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/kioxia-samples-ufs-5-0-flash-memory-devices"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-127"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Kioxia Samples UFS 5.0 Flash Memory Devices",
-        "blurb": "キオクシアが次世代スマホ向けUFS 5.0規格準拠のフラッシュメモリサンプル出荷を開始。AI対応など高性能化に対応。",
+        "title": "UFS 5.0対応の評価用フラッシュメモリ、キオクシアがサンプル出荷",
+        "blurb": "キオクシアは2026年2月、次世代モバイル機器向け「UFS 5.0」対応の評価用フラッシュメモリのサンプル出荷を開始。512GB品から順次展開。",
         "category": "company",
-        "date": "2026-02-26",
+        "date": "2026-02-27",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/kioxia-samples-ufs-5-0-flash-memory-devices"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/26/news087.html"
         },
         "field": {
           "primary": "memory",
@@ -36,6 +36,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "Rapidusに17億ドル、インテル・UMCの幹部交代、EUV高速化、GPU大型契約、AIチップ資金調達など、半導体業界の最新動向。",
+        "category": "business",
+        "date": "2026-02-27",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-127"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "equipment",
+          "market": "ai",
+          "industry": "foundry"
+        }
+      }
+    ]
   }
 }
