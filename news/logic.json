@@ -1,68 +1,31 @@
 {
-  "generated_at": "2026-02-28T06:09:13.242538+09:00",
+  "generated_at": "2026-03-02T06:06:45.253878+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)",
-    "summary": "KAISTらの研究チームが、GNN推論のボトルネックである前処理を高速化するFPGAベースのアクセラレータ「AutoGNN」を発表しました。",
+    "title": "A GPU Microarchitecture Optimized for Fully Homomorphic Encryption",
+    "summary": "FHE計算に特化したGPUマイクロアーキテクチャ「FHECore」が発表。暗号化されたまま計算可能だが、計算・メモリ負荷を大幅に軽減。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/an-fpga-based-accelerator-addressing-bottlenecks-in-gnn-preprocessing-kaist-et-al"
+        "url": "https://semiengineering.com/a-gpu-microarchitecture-optimized-for-fully-homomorphic-encryption"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Menlo Micro’s High-Speed Loopback Switch Delivers 80 Gbps Differential Signaling",
-        "blurb": "Menlo Microは、AI GPU/ICテスト検証向けに80Gbps差動信号対応の高速ループバックスイッチ「MM5627」を発表しました。",
-        "category": "company",
-        "date": "2026-02-27",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/menlo-micros-high-speed-loopback-switch-delivers-80-gbps-differential-signaling"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Forlinx FET1126Bx-S: Rockchip RV1126 Edge AI SoM for Vision Systems",
-        "blurb": "ForlinxがAI画像処理向けSoM「FET1126Bx-S」を発表。RV1126搭載、4K動画・デュアルカメラ対応。",
-        "category": "company",
-        "date": "2026-02-27",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/forlinx-fet1126bx-s-rockchip-rv1126-edge-ai-som-for-vision-systems"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "An FPGA-based Accelerator Addressing Bottlenecks in GNN Preprocessing (KAIST et al.)",
-        "blurb": "KAISTらの研究チームが、GNN推論のボトルネックである前処理を高速化するFPGAベースのアクセラレータ「AutoGNN」を発表しました。",
+        "title": "A GPU Microarchitecture Optimized for Fully Homomorphic Encryption",
+        "blurb": "FHE計算に特化したGPUマイクロアーキテクチャ「FHECore」が発表。暗号化されたまま計算可能だが、計算・メモリ負荷を大幅に軽減。",
         "category": "tools",
-        "date": "2026-02-27",
+        "date": "2026-03-01",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/an-fpga-based-accelerator-addressing-bottlenecks-in-gnn-preprocessing-kaist-et-al"
+          "url": "https://semiengineering.com/a-gpu-microarchitecture-optimized-for-fully-homomorphic-encryption"
         },
         "field": {
           "primary": "logic",

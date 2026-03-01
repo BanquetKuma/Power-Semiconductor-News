@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-01T06:06:00.417799+09:00",
-  "date": "2026-03-01",
+  "generated_at": "2026-03-02T06:06:49.614319+09:00",
+  "date": "2026-03-02",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体（GaN/SiC）の普及加速",
+      "name": "広帯域ギャップ材料の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,113 +12,113 @@
         "industrial",
         "datacenter"
       ],
-      "summary": "GaN/SiC技術は、高効率化、小型化、高速化を実現し、EV、工場自動化、データセンターなど幅広い分野で採用が進む。",
+      "summary": "SiCおよびGaN材料の採用が、高効率・高性能化が求められる電源、EV、産業機器、データセンター分野で急速に拡大している。",
       "analysis": {
-        "short_term": "技術開発と製品投入が活発化。採用拡大の兆し。",
-        "mid_term": "主要デバイスとして地位確立。サプライチェーン強化が鍵。",
-        "investment_implications": "関連企業への投資妙味増大。技術力と生産能力が評価指標。"
+        "short_term": "需要拡大と供給能力増強の動きが続く。",
+        "mid_term": "コスト競争力向上と応用分野のさらなる拡大が期待される。",
+        "investment_implications": "材料メーカー、デバイスメーカーへの投資妙味あり。"
       },
       "keywords": [
-        "GaN",
         "SiC",
+        "GaN",
         "EV",
-        "工場自動化",
-        "データセンター"
+        "電源",
+        "高効率"
       ],
       "companies_mentioned": [
         "TDK",
         "Allegro",
-        "STマイクロエレクトロニクス",
+        "STMicroelectronics",
         "ローム"
       ]
     },
     {
-      "name": "AI・HPC向け高性能化と冷却技術の進化",
+      "name": "AI・HPC向け高性能化と冷却技術",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
+        "ai",
         "datacenter",
         "logic",
-        "ai",
-        "power"
+        "memory",
+        "equipment"
       ],
-      "summary": "AI/HPCの計算需要増大に伴い、チップ性能向上と発熱対策としての液冷技術が重要視されている。",
+      "summary": "AIやHPCの計算負荷増大に伴い、GPU、専用AIチップ、メモリなどの高性能化と、それに伴う発熱対策としての液冷技術が重要視されている。",
       "analysis": {
-        "short_term": "高性能チップと液冷ソリューションの連携強化が進む。",
-        "mid_term": "データセンターの標準技術として液冷が普及する可能性。",
-        "investment_implications": "高性能チップメーカー、冷却技術関連企業に注目。"
+        "short_term": "高性能チップの需要は引き続き堅調。",
+        "mid_term": "冷却技術の進化が性能向上の鍵となる。",
+        "investment_implications": "AIチップ、HPC関連、冷却ソリューション企業に注目。"
       },
       "keywords": [
         "AI",
         "HPC",
+        "GPU",
         "液冷",
-        "データセンター",
-        "チップレット"
+        "高性能"
       ],
       "companies_mentioned": [
-        "TDK",
+        "STMicroelectronics",
         "Rapidus",
-        "Intel"
+        "Intel",
+        "UMC"
       ]
     },
     {
-      "name": "チップレット技術による設計・製造の柔軟化",
+      "name": "チップレット技術の進化と標準化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "logic",
+        "memory",
         "datacenter",
         "ai",
         "foundry",
         "fabless"
       ],
-      "summary": "チップレット技術は、IPサブシステムの再利用やデータ移動効率化により、AIチップ開発の柔軟性と性能を向上させる。",
+      "summary": "チップレット技術が、高性能・高機能な半導体設計の実現に不可欠となり、IPサブシステムやシステム・製造協調最適化（STCO）などの技術開発が進んでいる。",
       "analysis": {
-        "short_term": "チップレット設計・検証ツールの進化が加速。",
-        "mid_term": "多様なAIチップアーキテクチャが登場し、市場競争が激化。",
-        "investment_implications": "チップレット設計・IPベンダー、先進パッケージング技術に注目。"
+        "short_term": "先進パッケージング技術への投資が活発化。",
+        "mid_term": "エコシステム構築と標準化が競争力の源泉となる。",
+        "investment_implications": "ファウンドリ、パッケージング、IPベンダーに機会。"
       },
       "keywords": [
         "チップレット",
-        "AI",
+        "先進パッケージ",
+        "STCO",
         "IPサブシステム",
-        "データ移動",
-        "先進パッケージ"
+        "マルチダイ"
       ],
       "companies_mentioned": [
         "TSMC",
-        "Rapidus",
-        "Intel",
-        "キオクシア"
+        "Rapidus"
       ]
     },
     {
-      "name": "EDA・設計プロセスのAI活用拡大",
+      "name": "EDAとAIの融合による設計効率化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "logic",
-        "ai",
         "equipment",
+        "ai",
         "frontend",
         "backend"
       ],
-      "summary": "AIがEDAツールや回路設計プロセスに導入され、設計期間短縮、効率化、機能安全分析の精度向上に貢献。",
+      "summary": "AI技術がEDA（電子設計自動化）分野で活用され、回路設計、シミュレーション、検証などのプロセスを効率化し、開発期間の短縮に貢献している。",
       "analysis": {
-        "short_term": "AIによる設計支援ツールの導入が進む。",
-        "mid_term": "AIが半導体設計の標準プロセスとなる可能性。",
-        "investment_implications": "AIを活用したEDAベンダー、設計自動化ソリューションに注目。"
+        "short_term": "AIを活用したEDAツールの導入が進む。",
+        "mid_term": "設計の複雑化に対応する上でAIの役割は増大。",
+        "investment_implications": "EDAベンダー、AIを活用する半導体設計企業に注目。"
       },
       "keywords": [
-        "AI",
         "EDA",
-        "回路設計",
-        "FPGA",
-        "自動化"
+        "AI",
+        "設計効率化",
+        "シミュレーション",
+        "開発期間短縮"
       ],
       "companies_mentioned": [
-        "東京応化工業",
-        "Rapidus"
+        "東京応化工業"
       ]
     },
     {
@@ -132,42 +132,44 @@
         "frontend",
         "backend"
       ],
-      "summary": "地政学的な要因から、半導体サプライチェーンの国内回帰や複数国分散化が進み、製造装置・材料分野での動きが活発化。",
+      "summary": "地政学的な要因や国家安全保障の観点から、半導体サプライチェーンの安定化と国内生産能力強化に向けた動きが加速している。",
       "analysis": {
-        "short_term": "各国政府の支援策と企業間の提携・M&Aが継続。",
-        "mid_term": "サプライチェーンの安定化とリスク分散が進む。",
-        "investment_implications": "国内生産拠点強化や材料供給網安定化に貢献する企業に注目。"
+        "short_term": "各国政府の支援策が継続。",
+        "mid_term": "サプライチェーンの多様化とリスク分散が進む。",
+        "investment_implications": "国内生産拠点を持つ企業や、サプライチェーンの要となる企業に影響。"
       },
       "keywords": [
         "地政学",
         "サプライチェーン",
-        "Rapidus",
         "国内生産",
-        "製造装置"
+        "Rapidus",
+        "JX金属"
       ],
       "companies_mentioned": [
         "Rapidus",
         "JX金属",
-        "東邦チタニウム",
-        "東京応化工業"
+        "東邦チタニウム"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体市場全体の成長継続",
-      "EVシフトに伴うパワー半導体需要の拡大",
+      "AI需要による半導体需要の継続的な増加",
+      "広帯域ギャップ材料（SiC, GaN）の採用拡大",
+      "EV市場の成長と車載半導体需要の増加",
       "データセンター投資の活発化",
-      "各国政府による半導体産業への支援強化"
+      "先進パッケージング技術への期待"
     ],
     "bearish": [
       "地政学リスクによるサプライチェーンの不確実性",
-      "先端技術開発競争の激化による先行投資負担増"
+      "中国の半導体製造装置自給自足への課題",
+      "一部分野における過剰在庫リスク（ただし全体としては逼迫気味）"
     ],
     "neutral": [
-      "メモリ市場の需給バランスの変動",
-      "スマートフォン市場の成熟化"
+      "スマートフォン市場の成熟と買い替えサイクルの長期化",
+      "メモリ市場の回復ペース",
+      "半導体設計における専門知識の必要性（AIによる簡略化の限界）"
     ]
   },
-  "source_count": 59
+  "source_count": 54
 }
