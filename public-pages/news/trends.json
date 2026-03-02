@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-02T06:06:49.614319+09:00",
-  "date": "2026-03-02",
+  "generated_at": "2026-03-03T06:12:14.864731+09:00",
+  "date": "2026-03-03",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ材料の普及加速",
+      "name": "広帯域ギャップ材料の進化と応用拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,164 +12,158 @@
         "industrial",
         "datacenter"
       ],
-      "summary": "SiCおよびGaN材料の採用が、高効率・高性能化が求められる電源、EV、産業機器、データセンター分野で急速に拡大している。",
+      "summary": "SiCおよびGaN材料の信頼性向上とコスト低減が進み、EV、産業機器、データセンターなど幅広い分野での採用が加速している。",
       "analysis": {
-        "short_term": "需要拡大と供給能力増強の動きが続く。",
-        "mid_term": "コスト競争力向上と応用分野のさらなる拡大が期待される。",
-        "investment_implications": "材料メーカー、デバイスメーカーへの投資妙味あり。"
+        "short_term": "需要増に伴う供給逼迫の可能性。技術革新が価格動向を左右。",
+        "mid_term": "性能優位性が確立され、標準化が進む。新応用分野が開拓される。",
+        "investment_implications": "材料メーカー、デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "電源",
-        "高効率"
+        "効率化"
       ],
       "companies_mentioned": [
+        "ローム",
         "TDK",
-        "Allegro",
-        "STMicroelectronics",
-        "ローム"
+        "Allegro"
       ]
     },
     {
-      "name": "AI・HPC向け高性能化と冷却技術",
+      "name": "AI特化型半導体の多様化と性能向上",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "datacenter",
         "logic",
         "memory",
-        "equipment"
+        "datacenter",
+        "frontend",
+        "backend"
       ],
-      "summary": "AIやHPCの計算負荷増大に伴い、GPU、専用AIチップ、メモリなどの高性能化と、それに伴う発熱対策としての液冷技術が重要視されている。",
+      "summary": "AI計算に最適化されたGPU、ニューラルネットワーク向け新アーキテクチャ、HBMメモリの重要性が増し、多様なソリューションが登場。",
       "analysis": {
-        "short_term": "高性能チップの需要は引き続き堅調。",
-        "mid_term": "冷却技術の進化が性能向上の鍵となる。",
-        "investment_implications": "AIチップ、HPC関連、冷却ソリューション企業に注目。"
+        "short_term": "HBM4への期待が高まる。AIチップ開発競争が激化。",
+        "mid_term": "特定用途向けAIチップの性能向上が続く。メモリ帯域幅が鍵。",
+        "investment_implications": "AIチップ設計・製造関連企業への注目。"
       },
       "keywords": [
         "AI",
-        "HPC",
         "GPU",
-        "液冷",
-        "高性能"
+        "HBM",
+        "ニューラルネットワーク",
+        "FHE"
       ],
       "companies_mentioned": [
-        "STMicroelectronics",
         "Rapidus",
         "Intel",
-        "UMC"
+        "UMC",
+        "Lexar",
+        "キオクシア"
       ]
     },
     {
-      "name": "チップレット技術の進化と標準化",
+      "name": "先端パッケージング技術の進化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
+        "backend",
         "logic",
         "memory",
-        "datacenter",
         "ai",
-        "foundry",
-        "fabless"
+        "datacenter"
       ],
-      "summary": "チップレット技術が、高性能・高機能な半導体設計の実現に不可欠となり、IPサブシステムやシステム・製造協調最適化（STCO）などの技術開発が進んでいる。",
+      "summary": "チップレット設計の普及に伴い、ハイブリッドボンディングやシステム・製造協調最適化（STCO）などの先端パッケージング技術が重要性を増している。",
       "analysis": {
-        "short_term": "先進パッケージング技術への投資が活発化。",
-        "mid_term": "エコシステム構築と標準化が競争力の源泉となる。",
-        "investment_implications": "ファウンドリ、パッケージング、IPベンダーに機会。"
+        "short_term": "チップレットエコシステムの構築が進む。歩留まり向上が課題。",
+        "mid_term": "異種集積化がさらに進展し、高性能化・低消費電力化に貢献。",
+        "investment_implications": "パッケージング技術を持つ企業や関連装置メーカーに機会。"
       },
       "keywords": [
         "チップレット",
-        "先進パッケージ",
+        "ハイブリッドボンディング",
         "STCO",
-        "IPサブシステム",
-        "マルチダイ"
+        "異種集積化",
+        "高性能化"
       ],
       "companies_mentioned": [
-        "TSMC",
-        "Rapidus"
+        "TSMC"
       ]
     },
     {
-      "name": "EDAとAIの融合による設計効率化",
+      "name": "次世代メモリ技術の開発競争",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "equipment",
+        "memory",
         "ai",
-        "frontend",
-        "backend"
+        "datacenter",
+        "frontend"
       ],
-      "summary": "AI技術がEDA（電子設計自動化）分野で活用され、回路設計、シミュレーション、検証などのプロセスを効率化し、開発期間の短縮に貢献している。",
+      "summary": "AI需要を背景に、HBM4や酸化物半導体を用いたゲインセルメモリなど、高性能・高効率な次世代メモリ技術の開発が活発化している。",
       "analysis": {
-        "short_term": "AIを活用したEDAツールの導入が進む。",
-        "mid_term": "設計の複雑化に対応する上でAIの役割は増大。",
-        "investment_implications": "EDAベンダー、AIを活用する半導体設計企業に注目。"
+        "short_term": "HBM4の標準化と量産体制構築が焦点。供給不足懸念も。",
+        "mid_term": "新メモリ技術がAI、高性能コンピューティングの性能を左右。",
+        "investment_implications": "メモリメーカー、材料サプライヤーへの投資機会。"
       },
       "keywords": [
-        "EDA",
-        "AI",
-        "設計効率化",
-        "シミュレーション",
-        "開発期間短縮"
+        "HBM4",
+        "ゲインセルメモリ",
+        "酸化物半導体",
+        "AIメモリ",
+        "UFS 5.0"
       ],
       "companies_mentioned": [
-        "東京応化工業"
+        "キオクシア",
+        "Lexar"
       ]
     },
     {
-      "name": "地政学リスクとサプライチェーン再編",
+      "name": "EUVリソグラフィ技術の高度化",
       "confidence": 0.75,
-      "momentum": "stable",
+      "momentum": "rising",
       "related_fields": [
-        "geopolitics",
+        "frontend",
         "foundry",
         "equipment",
-        "frontend",
-        "backend"
+        "logic"
       ],
-      "summary": "地政学的な要因や国家安全保障の観点から、半導体サプライチェーンの安定化と国内生産能力強化に向けた動きが加速している。",
+      "summary": "EUV向けフォトレジストの開発強化や、EUV露光装置の高速化が進み、最先端ロジック半導体の製造能力向上に貢献している。",
       "analysis": {
-        "short_term": "各国政府の支援策が継続。",
-        "mid_term": "サプライチェーンの多様化とリスク分散が進む。",
-        "investment_implications": "国内生産拠点を持つ企業や、サプライチェーンの要となる企業に影響。"
+        "short_term": "フォトレジスト材料の性能向上が鍵。供給安定性が重要。",
+        "mid_term": "EUVプロセスの歩留まり向上とコスト削減が進む。",
+        "investment_implications": "フォトレジストメーカー、露光装置メーカーへの注目。"
       },
       "keywords": [
-        "地政学",
-        "サプライチェーン",
-        "国内生産",
-        "Rapidus",
-        "JX金属"
+        "EUV",
+        "フォトレジスト",
+        "リソグラフィ",
+        "先端プロセス",
+        "東京応化工業"
       ],
       "companies_mentioned": [
-        "Rapidus",
-        "JX金属",
-        "東邦チタニウム"
+        "東京応化工業",
+        "Irresistible Materials"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体需要の継続的な増加",
-      "広帯域ギャップ材料（SiC, GaN）の採用拡大",
-      "EV市場の成長と車載半導体需要の増加",
-      "データセンター投資の活発化",
-      "先進パッケージング技術への期待"
+      "AI需要によるメモリ・GPU市場の拡大",
+      "EVシフト加速によるパワー半導体需要の増加",
+      "先端パッケージング技術への投資活発化",
+      "日本政府による半導体産業支援強化（Rapidusへの出資）"
     ],
     "bearish": [
       "地政学リスクによるサプライチェーンの不確実性",
-      "中国の半導体製造装置自給自足への課題",
-      "一部分野における過剰在庫リスク（ただし全体としては逼迫気味）"
+      "メモリ市場の周期的な変動リスク"
     ],
     "neutral": [
-      "スマートフォン市場の成熟と買い替えサイクルの長期化",
-      "メモリ市場の回復ペース",
-      "半導体設計における専門知識の必要性（AIによる簡略化の限界）"
+      "産業用電源市場の安定的な成長",
+      "IoTデバイス向けモジュールの多様化"
     ]
   },
-  "source_count": 54
+  "source_count": 37
 }

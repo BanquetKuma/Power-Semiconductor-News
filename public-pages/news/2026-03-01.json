@@ -1,68 +1,84 @@
 {
-  "generated_at": "2026-03-02T06:06:45.253274+09:00",
+  "generated_at": "2026-03-01T06:05:56.404736+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Optimal Heterogeneous Memory Configs for AI Tasks Under Specified Performance Metrics (Stanford, UCSC)",
-    "summary": "スタンフォード大とUCサンタクルーズ大がAI向けヘテロジニアスメモリ最適化手法を発表。GCRAM活用でコストと電力効率向上。",
+    "title": "DTC Liquid Cooling, PoL Converter Reliability Estimation, GaN and SiC in Factory Automation: Power Electronics Week Insights",
+    "summary": "パワーエレクトロニクスウィークの最新情報。DTC液冷、PoLコンバータ信頼性、工場自動化におけるGaN/SiC技術に注目。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/optimal-heterogeneous-memory-configs-for-ai-tasks-under-specified-performance-metrics-stanford-ucsc"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/dtc-liquid-cooling-pol-converter-reliability-estimation-gan-and-sic-in-factory-automation-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Europe Is Learning An Uncomfortable Truth About Local Battery Production",
-        "blurb": "欧州はEVバッテリーの現地生産を目指すが、サプライチェーン構築は困難であることが判明。",
+        "title": "DTC Liquid Cooling, PoL Converter Reliability Estimation, GaN and SiC in Factory Automation: Power Electronics Week Insights",
+        "blurb": "パワーエレクトロニクスウィークの最新情報。DTC液冷、PoLコンバータ信頼性、工場自動化におけるGaN/SiC技術に注目。",
         "category": "business",
-        "date": "2026-03-01",
+        "date": "2026-02-28",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/788575/europe-ev-battery-production-uncomfortable-truth"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/dtc-liquid-cooling-pol-converter-reliability-estimation-gan-and-sic-in-factory-automation-power-electronics-week-insights"
         },
         "field": {
-          "primary": "geopolitics",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
-          "industry": "geopolitics"
+          "industry": null
         }
-      }
-    ],
-    "tools": [
+      },
       {
-        "title": "A GPU Microarchitecture Optimized for Fully Homomorphic Encryption",
-        "blurb": "FHE計算に特化したGPUマイクロアーキテクチャ「FHECore」が発表。暗号化されたまま計算可能だが、計算・メモリ負荷を大幅に軽減。",
-        "category": "tools",
-        "date": "2026-03-01",
+        "title": "Wide Bandgap Monthly Insights – February 2026",
+        "blurb": "2026年2月の広帯域ギャップ材料（SiC、GaN）に関する主要ニュースまとめ。",
+        "category": "business",
+        "date": "2026-02-28",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-gpu-microarchitecture-optimized-for-fully-homomorphic-encryption"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-february-2026"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "UFS 5.0 Flash Memory Devices, MIPI Spec Upgrades: Embedded Week Insights",
+        "blurb": "UFS 5.0フラッシュメモリとMIPI規格の最新動向。新たな存在検知ソリューションやAIツールキットも紹介。",
+        "category": "business",
+        "date": "2026-02-28",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/ufs-5-0-flash-memory-devices-mipi-spec-upgrades-embedded-week-insights"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": null,
           "industry": null
         }
       }
     ],
-    "company": [
+    "tools": [
       {
-        "title": "Optimal Heterogeneous Memory Configs for AI Tasks Under Specified Performance Metrics (Stanford, UCSC)",
-        "blurb": "スタンフォード大とUCサンタクルーズ大がAI向けヘテロジニアスメモリ最適化手法を発表。GCRAM活用でコストと電力効率向上。",
-        "category": "company",
-        "date": "2026-03-01",
+        "title": "Siemens Agentic Toolkit Automates Chip Verification Workflows",
+        "blurb": "シーメンスがAIで半導体検証を自動化する新ツールキットを発表。設計・検証ワークフローの効率化を目指す。",
+        "category": "tools",
+        "date": "2026-02-28",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/optimal-heterogeneous-memory-configs-for-ai-tasks-under-specified-performance-metrics-stanford-ucsc"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/siemens-agentic-toolkit-automates-chip-verification-workflows"
         },
         "field": {
           "primary": "general",
@@ -71,10 +87,60 @@
           "market": null,
           "industry": null
         }
+      }
+    ],
+    "company": [
+      {
+        "title": "BYD Appears To Be Rolling Out A New, Even More Powerful Generation Of Megawatt Chargers",
+        "blurb": "BYDが新型メガワット級充電器を導入。昨年発表のモデルとは異なるT字型デザイン。",
+        "category": "company",
+        "date": "2026-02-28",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/788458/byd-1-mw-charging-network"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Why Lamborghini Canceling Its EV Actually Makes Sense",
+        "blurb": "ランボルギーニがEV計画を中止した理由について、プラグドイン・ポッドキャストで解説。スーパーカーの電動化、Uberの自動運転への賭け、LucidのEV戦略についても言及。",
+        "category": "company",
+        "date": "2026-02-28",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/788462/lamborghini-ev-plans-canceled-uber-podcast"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Rivian’s New RAD Division Is Here. But What Is It Really?",
+        "blurb": "Rivianが新部門「RAD」を発表。高性能モデル開発の可能性を示唆する。",
+        "category": "company",
+        "date": "2026-02-28",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/788520/rivian-rad-performance-divison-announced"
+        },
+        "field": null
       },
       {
         "title": "Tesla's Megawatt Chargers Are Coming Soon. Here's Where The First Ones Will Go",
-        "blurb": "テスラは米国内に64箇所のメガワット充電器設置場所を「近日公開」とリスト化。年内に多数開設予定。",
+        "blurb": "テスラ、米国でメガワット充電器を近く展開。年内に多数開設予定。最初の設置場所64カ所を公開。",
         "category": "company",
         "date": "2026-03-01",
         "stars": 3,
@@ -86,7 +152,7 @@
       },
       {
         "title": "A Software Glitched Turned Off The Lights, Then The Car Crashed",
-        "blurb": "ソフトウェアの不具合で、音声コマンドで室内灯を消そうとしたところ、ヘッドライトが消灯し、事故につながった。",
+        "blurb": "ソフトウェアの不具合で、音声コマンドで室内灯を消そうとしたらヘッドライトが消え、車が事故を起こした。",
         "category": "company",
         "date": "2026-03-01",
         "stars": 3,

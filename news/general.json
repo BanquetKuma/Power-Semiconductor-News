@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-02T06:06:45.254403+09:00",
+  "generated_at": "2026-03-03T06:12:07.922828+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Optimal Heterogeneous Memory Configs for AI Tasks Under Specified Performance Metrics (Stanford, UCSC)",
-    "summary": "スタンフォード大とUCサンタクルーズ大がAI向けヘテロジニアスメモリ最適化手法を発表。GCRAM活用でコストと電力効率向上。",
+    "title": "Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)",
+    "summary": "SNUとKAISTの研究者らが、次世代オンチップメモリとして酸化物半導体を用いたゲインセルメモリを発表。スケーラビリティと電力効率の向上を目指す。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/optimal-heterogeneous-memory-configs-for-ai-tasks-under-specified-performance-metrics-stanford-ucsc"
+        "url": "https://semiengineering.com/oxide-semiconductors-for-gain-cell-memory-applications-snu-kaist"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Optimal Heterogeneous Memory Configs for AI Tasks Under Specified Performance Metrics (Stanford, UCSC)",
-        "blurb": "スタンフォード大とUCサンタクルーズ大がAI向けヘテロジニアスメモリ最適化手法を発表。GCRAM活用でコストと電力効率向上。",
+        "title": "Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)",
+        "blurb": "SNUとKAISTの研究者らが、次世代オンチップメモリとして酸化物半導体を用いたゲインセルメモリを発表。スケーラビリティと電力効率の向上を目指す。",
         "category": "company",
-        "date": "2026-03-01",
+        "date": "2026-03-03",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/optimal-heterogeneous-memory-configs-for-ai-tasks-under-specified-performance-metrics-stanford-ucsc"
+          "url": "https://semiengineering.com/oxide-semiconductors-for-gain-cell-memory-applications-snu-kaist"
         },
         "field": {
           "primary": "general",
@@ -35,7 +35,44 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Accelerate Your IP Selection With Smart Solido Library Profiler",
+        "blurb": "Smart Solido Library Profilerは、IP選択のワークフローと課題を効率化し、IP選択を加速します。",
+        "category": "tools",
+        "date": "2026-03-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/accelerate-your-ip-selection-with-smart-solido-library-profiler"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Extending Formal Verification to Sequential Circuits (U. of Bremen)",
+        "blurb": "ブレーメン大学の研究者が、重み付きAIGを用いたシーケンシャル回路の線形形式検証手法を発表。複雑な現代システムでも高速な検証を目指す。",
+        "category": "tools",
+        "date": "2026-03-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/extending-formal-verification-to-sequential-circuits-u-of-bremen"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }
