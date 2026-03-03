@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-03-03T06:12:07.922828+09:00",
+  "generated_at": "2026-03-04T06:11:57.387819+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)",
-    "summary": "SNUとKAISTの研究者らが、次世代オンチップメモリとして酸化物半導体を用いたゲインセルメモリを発表。スケーラビリティと電力効率の向上を目指す。",
+    "title": "New Challenges In Signoff",
+    "summary": "製造前に考慮すべき新たな課題。設計の最終承認（サインオフ）における課題について解説。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/oxide-semiconductors-for-gain-cell-memory-applications-snu-kaist"
+        "url": "https://semiengineering.com/new-challenges-in-signoff"
       }
     ]
   },
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Oxide-Semiconductors For Gain Cell Memory Applications (SNU, KAIST)",
-        "blurb": "SNUとKAISTの研究者らが、次世代オンチップメモリとして酸化物半導体を用いたゲインセルメモリを発表。スケーラビリティと電力効率の向上を目指す。",
+        "blurb": "SNUとKAISTの研究者らが、次世代オンチップメモリとして酸化物半導体を用いたゲインセルメモリを発表。スケーラビリティと電力効率の課題解決に期待。",
         "category": "company",
         "date": "2026-03-03",
         "stars": 3,
@@ -33,18 +33,36 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "ロームが半導体製造でインド新興と協業、タタに続き",
+        "blurb": "ロームはインド新興半導体メーカーとパワーデバイス等の後工程で協業。2026年量産出荷へ技術評価を進める。",
+        "category": "company",
+        "date": "2026-03-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/03/news066.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "tech": [
       {
-        "title": "Accelerate Your IP Selection With Smart Solido Library Profiler",
-        "blurb": "Smart Solido Library Profilerは、IP選択のワークフローと課題を効率化し、IP選択を加速します。",
+        "title": "Research Bits: Mar. 3",
+        "blurb": "計算電子顕微鏡、複数特性同時計測、六方晶窒化ホウ素欠陥の研究。半導体工学。",
         "category": "tools",
-        "date": "2026-03-02",
+        "date": "2026-03-03",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/accelerate-your-ip-selection-with-smart-solido-library-profiler"
+          "url": "https://semiengineering.com/research-bits-march-3"
         },
         "field": {
           "primary": "general",
@@ -56,7 +74,7 @@
       },
       {
         "title": "Extending Formal Verification to Sequential Circuits (U. of Bremen)",
-        "blurb": "ブレーメン大学の研究者が、重み付きAIGを用いたシーケンシャル回路の線形形式検証手法を発表。複雑な現代システムでも高速な検証を目指す。",
+        "blurb": "ブレーメン大学の研究者が、重み付きAIGを用いたシーケンシャル回路の線形形式検証手法を発表。複雑な現代システムでも効率的な検証を目指す。",
         "category": "tools",
         "date": "2026-03-03",
         "stars": 3,
@@ -73,6 +91,43 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "New Challenges In Signoff",
+        "blurb": "製造前に考慮すべき新たな課題。設計の最終承認（サインオフ）における課題について解説。",
+        "category": "business",
+        "date": "2026-03-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/new-challenges-in-signoff"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Follow The AI Leader",
+        "blurb": "AIとEDAの統合をリードするのは誰か？まだ定まっていないが、意外な候補者がいる。",
+        "category": "business",
+        "date": "2026-03-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/follow-the-ai-leader"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

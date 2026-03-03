@@ -1,58 +1,39 @@
 {
-  "generated_at": "2026-03-03T06:12:07.921797+09:00",
+  "generated_at": "2026-03-04T06:11:57.385585+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "2026年のメモリ市場は「制御された供給不足」に　主役はHBM4",
-    "summary": "2026年のメモリ市場はAI需要増で「制御された供給不足」に。HBM4が主役。メーカーは過去の教訓から規律ある増産姿勢。",
+    "title": "Chip Industry Technical Paper Roundup: Mar. 3",
+    "summary": "半導体技術論文まとめ：GNN、LiDAR、ALD、レーザー、ReRAM、GenAI等、多岐にわたる最新研究。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/02/news025.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-3"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "PCからロボットまで「AI機器に最適なストレージ」 Lexarの構想",
-        "blurb": "LexarはAI対応デバイス向けストレージ構想「AIストレージコア」を発表。PCからロボットまで最適なストレージを提供する。",
-        "category": "company",
-        "date": "2026-03-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2602/27/news095.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "2026年のメモリ市場は「制御された供給不足」に　主役はHBM4",
-        "blurb": "2026年のメモリ市場はAI需要増で「制御された供給不足」に。HBM4が主役。メーカーは過去の教訓から規律ある増産姿勢。",
+        "title": "Chip Industry Technical Paper Roundup: Mar. 3",
+        "blurb": "半導体技術論文まとめ：GNN、LiDAR、ALD、レーザー、ReRAM、GenAI等、多岐にわたる最新研究。",
         "category": "business",
-        "date": "2026-03-02",
+        "date": "2026-03-03",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/02/news025.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-3"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "geopolitics"
+          "process": "miniaturization",
+          "market": "automotive",
+          "industry": null
         }
       }
     ]
