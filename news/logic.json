@@ -1,41 +1,59 @@
 {
-  "generated_at": "2026-03-02T06:06:45.253878+09:00",
+  "generated_at": "2026-03-05T06:11:05.605592+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A GPU Microarchitecture Optimized for Fully Homomorphic Encryption",
-    "summary": "FHE計算に特化したGPUマイクロアーキテクチャ「FHECore」が発表。暗号化されたまま計算可能だが、計算・メモリ負荷を大幅に軽減。",
+    "title": "AI PCでクラウド×ローカルの「ハイブリッドAI」実現",
+    "summary": "インテルは2026年2月、AI PC向けプロセッサやエンタープライズ向けAI製品の展開を紹介するイベントを開催。クラウドとローカルを組み合わせた「ハイブリッドAI」の実現を目指す。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/a-gpu-microarchitecture-optimized-for-fully-homomorphic-encryption"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news064.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "A GPU Microarchitecture Optimized for Fully Homomorphic Encryption",
-        "blurb": "FHE計算に特化したGPUマイクロアーキテクチャ「FHECore」が発表。暗号化されたまま計算可能だが、計算・メモリ負荷を大幅に軽減。",
-        "category": "tools",
-        "date": "2026-03-01",
+        "title": "AI PCでクラウド×ローカルの「ハイブリッドAI」実現",
+        "blurb": "インテルは2026年2月、AI PC向けプロセッサやエンタープライズ向けAI製品の展開を紹介するイベントを開催。クラウドとローカルを組み合わせた「ハイブリッドAI」の実現を目指す。",
+        "category": "company",
+        "date": "2026-03-04",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-gpu-microarchitecture-optimized-for-fully-homomorphic-encryption"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news064.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "datacenter",
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "ARIA Sensing, Algorized Unveil AI-Enabled UWB Radar Platform",
+        "blurb": "ARIA SensingとAlgorizedがAI搭載UWBレーダープラットフォームを発表。車載用子供検知システムに活用。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/aria-sensing-algorized-unveil-ai-enabled-uwb-radar-platform"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

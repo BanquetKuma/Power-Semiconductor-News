@@ -1,61 +1,64 @@
 {
-  "generated_at": "2026-03-04T06:12:01.297904+09:00",
-  "date": "2026-03-04",
+  "generated_at": "2026-03-05T06:11:11.353556+09:00",
+  "date": "2026-03-05",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ材料の進化と応用拡大",
+      "name": "広帯域ギャップ材料の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
         "industrial"
       ],
-      "summary": "SiCとGaNの技術革新が進み、モーター駆動、工場自動化、次世代ニューラルネットワークなど、多様な分野での応用が加速している。",
+      "summary": "SiCおよびGaNデバイスの性能向上とコスト低減が進み、EV、産業機器、データセンターなど幅広い分野での採用が拡大している。",
       "analysis": {
-        "short_term": "SiC/GaNデバイスの性能向上とコスト低減が進む。",
-        "mid_term": "EV、データセンター、産業機器での採用がさらに拡大する。",
-        "investment_implications": "SiC/GaN関連材料・製造装置・デバイスメーカーに注目。"
+        "short_term": "新製品投入と技術革新が継続。採用拡大の兆し。",
+        "mid_term": "主要分野での標準化が進み、市場シェアを拡大。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "パワーエレクトロニクス",
         "EV",
-        "AI"
+        "パワーデバイス"
       ],
       "companies_mentioned": [
-        "ノベルクリスタル",
-        "STマイクロエレクトロニクス",
-        "ローム"
+        "NoMIS Power",
+        "STMicroelectronics",
+        "ノベルクリスタル"
       ]
     },
     {
-      "name": "AI向けメモリ・ストレージ需要の継続",
+      "name": "AIと半導体の融合深化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "memory",
         "ai",
-        "datacenter"
+        "memory",
+        "logic",
+        "datacenter",
+        "backend"
       ],
-      "summary": "AI処理の高度化に伴い、HBM4などの高性能メモリやAI最適化ストレージへの需要が継続し、市場は「制御された供給不足」となる見込み。",
+      "summary": "AI処理能力の向上に向け、HBM、チップレット、AI特化型プロセッサなどの開発が活発化し、メモリボトルネック解消や性能向上が図られている。",
       "analysis": {
-        "short_term": "HBM4関連の技術開発と供給体制構築が進む。",
-        "mid_term": "AI機器全般で最適化されたストレージソリューションが求められる。",
-        "investment_implications": "HBM、DRAM、NANDフラッシュメーカーの動向を注視。"
+        "short_term": "HBM4への期待高まる。チップレット技術進化。",
+        "mid_term": "AI PCやデータセンター向け高性能チップが市場を牽引。",
+        "investment_implications": "AI関連メモリ・プロセッサ企業に注目。"
       },
       "keywords": [
         "AI",
-        "HBM4",
-        "メモリ",
-        "ストレージ",
-        "データセンター"
+        "HBM",
+        "チップレット",
+        "LLM",
+        "AI PC"
       ],
       "companies_mentioned": [
-        "キオクシア",
-        "Lexar"
+        "Intel",
+        "Apple",
+        "Google",
+        "SambaNova",
+        "Harvard University"
       ]
     },
     {
@@ -64,94 +67,105 @@
       "momentum": "rising",
       "related_fields": [
         "backend",
+        "equipment",
         "foundry",
-        "ai",
-        "memory"
+        "fabless",
+        "logic"
       ],
-      "summary": "マルチダイアセンブリに不可欠なハイブリッドボンディング技術の改善が進み、AIチップなどの高性能化を支える基盤技術として重要性が増している。",
+      "summary": "2.5D/3D ICやチップレットアーキテクチャの普及に伴い、システムレベルの信頼性検証や製造自動化技術の進化が求められている。",
       "analysis": {
-        "short_term": "ハイブリッドボンディングの歩留まり向上とコスト削減が焦点。",
-        "mid_term": "チップレット技術の普及と共に、先端パッケージングの需要が拡大。",
-        "investment_implications": "先端パッケージング関連の装置・材料メーカーに注目。"
+        "short_term": "多層実装技術の検証手法が進化。",
+        "mid_term": "歩留まり向上と市場投入期間短縮が鍵。",
+        "investment_implications": "先端パッケージング関連技術・装置に投資機会。"
       },
       "keywords": [
-        "ハイブリッドボンディング",
-        "マルチダイ",
+        "2.5D/3D IC",
         "チップレット",
-        "AI",
-        "バックエンド"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "EDAとAIの融合による設計効率化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "general",
-        "foundry",
-        "fabless"
-      ],
-      "summary": "AI技術がEDA（電子設計自動化）分野に統合され、設計の最終承認（サインオフ）やIP選択の効率化が進む可能性があり、業界リーダーの動向が注目される。",
-      "analysis": {
-        "short_term": "AIを活用した設計検証ツールの開発競争が激化。",
-        "mid_term": "設計サイクルの短縮と複雑な回路設計への対応力が向上。",
-        "investment_implications": "AIとEDAを組み合わせたソリューションを提供する企業に期待。"
-      },
-      "keywords": [
-        "AI",
-        "EDA",
-        "設計",
-        "サインオフ",
-        "IP"
+        "信頼性検証",
+        "製造自動化"
       ],
       "companies_mentioned": [
-        "Smart Solido"
+        "Cadence",
+        "Synopsys",
+        "Rapidus"
       ]
     },
     {
-      "name": "次世代メモリ・ストレージ技術の研究開発",
-      "confidence": 0.75,
+      "name": "EV向け半導体技術の進化と標準化",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "general",
-        "ai"
+        "power",
+        "automotive",
+        "logic"
       ],
-      "summary": "酸化物半導体を用いたゲインセルメモリや、AIタスクに最適化された異種メモリ構成など、スケーラビリティと電力効率を改善する新技術の研究が進む。",
+      "summary": "EVのバッテリー電圧移行や、モーター駆動、車載レーダーなど、EV性能向上に不可欠な半導体技術開発が進展している。",
       "analysis": {
-        "short_term": "酸化物半導体やGCRAMなどの性能評価が進む。",
-        "mid_term": "次世代オンチップメモリやAI向けメモリソリューションの実用化へ。",
-        "investment_implications": "革新的なメモリ技術を持つスタートアップや研究機関に注目。"
+        "short_term": "800Vシステムへの移行は緩やか。SiC/GaN採用拡大。",
+        "mid_term": "次世代EV向け半導体ソリューションが競争優位性を確立。",
+        "investment_implications": "車載半導体メーカー、特にパワー半導体分野に注目。"
       },
       "keywords": [
-        "酸化物半導体",
-        "ゲインセルメモリ",
-        "異種メモリ",
-        "AI",
-        "メモリ"
+        "EV",
+        "バッテリー電圧",
+        "SiC",
+        "GaN",
+        "モーター駆動"
       ],
       "companies_mentioned": [
-        "SNU",
-        "KAIST",
-        "Stanford",
-        "UCSC"
+        "ルネサス",
+        "GF",
+        "ARIA Sensing",
+        "Algorized"
+      ]
+    },
+    {
+      "name": "製造業におけるサプライチェーン再編と協業",
+      "confidence": 0.75,
+      "momentum": "stable",
+      "related_fields": [
+        "foundry",
+        "fabless",
+        "geopolitics",
+        "equipment",
+        "industrial"
+      ],
+      "summary": "地政学リスクや供給網強化のため、国内装置メーカーの業績は厳しい状況ながらも、海外企業との協業や新興国での生産体制構築が進む。",
+      "analysis": {
+        "short_term": "国内装置メーカーは厳しい決算続く。",
+        "mid_term": "グローバルな協業による供給網強化が加速。",
+        "investment_implications": "サプライチェーンの安定化に貢献する企業に注目。"
+      },
+      "keywords": [
+        "サプライチェーン",
+        "協業",
+        "製造装置",
+        "インド"
+      ],
+      "companies_mentioned": [
+        "ローム",
+        "サトー",
+        "桜井グラフィックシステムズ",
+        "ルネサス",
+        "GF"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要によるメモリ・ストレージ市場の堅調な見通し",
-      "SiC/GaNの広範な応用拡大によるパワー半導体市場の成長",
-      "先端パッケージング技術への投資増加"
+      "広帯域ギャップ材料（SiC/GaN）の採用拡大と技術革新。",
+      "AI需要によるHBMメモリ市場の成長期待。",
+      "チップレット技術の進展とAI向けプロセッサの性能向上。",
+      "EV市場の拡大に伴う車載半導体需要の増加。"
     ],
     "bearish": [
-      "国内半導体装置メーカーの業績低迷"
+      "国内半導体装置メーカーの業績低迷。",
+      "EVバッテリー電圧移行における技術的・コスト的課題。"
     ],
     "neutral": [
-      "Rapidusの巨額調達と日本経済への貢献期待"
+      "電子戦分野における技術競争の激化。",
+      "設計製造前のサインオフにおける新たな課題の出現。"
     ]
   },
-  "source_count": 45
+  "source_count": 38
 }

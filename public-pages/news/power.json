@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-04T06:11:57.385326+09:00",
+  "generated_at": "2026-03-05T06:11:05.605290+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Open-End Winding Configuration for SiC-based Motor Drives",
-    "summary": "SiCを用いたモーター駆動における過電圧と急峻な立ち上がり時間の課題を、オープンエンド巻線構成で解決する。",
+    "title": "NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs",
+    "summary": "NoMIS Powerが、低損失・高dv/dt・175℃動作のSiC MOSFET2種を発表。MVコンバータ向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/open-end-winding-configuration-for-sic-based-motor-drives"
+        "url": "https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "150mm酸化ガリウムウエハーをサンプル出荷、ノベルクリスタル",
-        "blurb": "ノベルクリスタル、次世代パワー半導体向け150mm酸化ガリウムウエハーのサンプル出荷を開始。2029年の本格量産を目指す。",
+        "title": "NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs",
+        "blurb": "NoMIS Powerが、低損失・高dv/dt・175℃動作のSiC MOSFET2種を発表。MVコンバータ向け。",
         "category": "company",
-        "date": "2026-03-03",
+        "date": "2026-03-05",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/03/news036.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets"
         },
         "field": {
           "primary": "power",
@@ -35,12 +35,11 @@
         }
       }
     ],
-    "tech": [],
-    "market": [
+    "tech": [
       {
         "title": "Open-End Winding Configuration for SiC-based Motor Drives",
-        "blurb": "SiCを用いたモーター駆動における過電圧と急峻な立ち上がり時間の課題を、オープンエンド巻線構成で解決する。",
-        "category": "business",
+        "blurb": "SiCを用いたモーター駆動における過電圧と急峻な立上り時間を、オープンエンド巻線構成で解決する技術。",
+        "category": "tools",
         "date": "2026-03-04",
         "stars": 3,
         "source": {
@@ -55,6 +54,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

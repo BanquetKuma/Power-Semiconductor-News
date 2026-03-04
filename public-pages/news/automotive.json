@@ -1,84 +1,32 @@
 {
-  "generated_at": "2026-03-04T06:11:57.386287+09:00",
+  "generated_at": "2026-03-05T06:11:05.605939+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Sales Numbers Are In: The Hyundai Ioniq 5 Is Cooking Again",
-    "summary": "現代自動車のEV「アイオニック5」が販売台数で好調。EV需要回復の兆し。",
+    "title": "EV design: The truth about 400-V to 800-V battery transition",
+    "summary": "EVのバッテリー電圧、400V系がコスト面で主流を維持。800V系は急速充電や軽量化に利点があるが、普及には課題。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/news/788854/hyundai-kia-february-sales-ioniq-5"
+        "name": "edn.com",
+        "url": "https://www.edn.com/ev-design-the-truth-about-400-v-to-800-v-battery-transition"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "A YouTuber Made An EV Powered By 500 Vape Batteries",
-        "blurb": "あるYouTuberが、使い捨て電子タバコ約500個のバッテリーを改造し、USB-C充電可能なEVを製作した。",
-        "category": "company",
-        "date": "2026-03-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/788826/ev-500-vape-batteries"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Volkswagen Is A Sneaky EV Success Story",
-        "blurb": "フォルクスワーゲン、EV販売200万台達成。2026年にはさらに成長見込む。",
-        "category": "company",
-        "date": "2026-03-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/788767/vw-ev-sales-2-million-2026"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Toyota Highlander Vs. Hyundai Ioniq 9 Vs. Kia EV9: Which Three-Row EV Is Best?",
-        "blurb": "トヨタ・ハイランダー、ヒュンダイ・アイオニック9、キアEV9の3列EV比較。トヨタは韓国勢と互角だが、ヒュンダイとキアに優位性あり。",
-        "category": "company",
-        "date": "2026-03-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/788539/highlander-ev-ev9-ioniq9-comparison"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Sales Numbers Are In: The Hyundai Ioniq 5 Is Cooking Again",
-        "blurb": "現代自動車のEV「アイオニック5」が販売台数で好調。EV需要回復の兆し。",
-        "category": "company",
+        "title": "EV design: The truth about 400-V to 800-V battery transition",
+        "blurb": "EVのバッテリー電圧、400V系がコスト面で主流を維持。800V系は急速充電や軽量化に利点があるが、普及には課題。",
+        "category": "business",
         "date": "2026-03-04",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/788854/hyundai-kia-february-sales-ioniq-5"
+          "name": "edn.com",
+          "url": "https://www.edn.com/ev-design-the-truth-about-400-v-to-800-v-battery-transition"
         },
         "field": {
           "primary": "automotive",
@@ -88,8 +36,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
