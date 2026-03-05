@@ -1,28 +1,46 @@
 {
-  "generated_at": "2026-03-05T06:11:05.603856+09:00",
+  "generated_at": "2026-03-06T06:12:01.850269+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs",
-    "summary": "NoMIS Powerが、低損失・高dv/dt・175℃動作のSiC MOSFET2種を発表。MVコンバータ向け。",
+    "title": "Wolfspeed Unveils 10 kV SiC Power MOSFET",
+    "summary": "Wolfspeedが10kV SiCパワーMOSFETを発表。中電圧コンバータ、グリッドインフラ、パルス電力システム向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets"
+        "url": "https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Multi-Channel Ultra Ethernet TSS Complete Layer",
-        "blurb": "1.6Tbps対応のマルチチャネルUltra Ethernet TSSプロトコル完全ソリューションが登場。",
+        "title": "25G Ethernet: Scaling Data Movement For ADAS, Industry 4.0, And 5G Systems",
+        "blurb": "25Gイーサネットは、ADAS、インダストリー4.0、5Gシステム向けに、エッジシステムでのリアルタイムAI推論とテラバイト級データ処理を可能にします。",
         "category": "business",
-        "date": "2026-03-04",
+        "date": "2026-03-05",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/multi-channel-ultra-ethernet-tss-complete-layer"
+          "url": "https://semiengineering.com/25g-ethernet-scaling-data-movement-for-adas-industry-4-0-and-5g-systems"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Across The Vast Reaches Of The 3D Stack: Mastering ESD Verification In Advanced Semiconductor Design",
+        "blurb": "3D積層設計におけるESD検証の重要性が増している。水平・垂直電流の流れが新たな故障モードを生むため、高度な検証が不可欠だ。",
+        "category": "business",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/across-the-vast-reaches-of-the-3d-stack-mastering-esd-verification-in-advanced-semiconductor-design"
         },
         "field": {
           "primary": "general",
@@ -33,50 +51,122 @@
         }
       },
       {
-        "title": "Blog Review: Mar. 4",
-        "blurb": "AIメモリのトレードオフ、形式的確実性、7nm大学チップ、熱制約、プロセスモデルのキャリブレーションに関するブログレビュー。",
+        "title": "Power, Not Area: Why Edge GPU Design Is Entering A New Era",
+        "blurb": "エッジGPU設計は、面積ではなく電力効率が最重要課題となり、新たな時代を迎える。",
         "category": "business",
-        "date": "2026-03-04",
+        "date": "2026-03-05",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-mar-4"
+          "url": "https://semiengineering.com/power-not-area-why-edge-gpu-design-is-entering-a-new-era"
         },
         "field": {
-          "primary": "miniaturization",
-          "device": null,
-          "process": "miniaturization",
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "銀や銅ナノ材料使わないRFID回路印刷実用化へ、サトーら提携",
-        "blurb": "サトーと桜井グラフィックシステムズは、銅粉を用いたRFID回路印刷技術で提携。コストと環境負荷低減を目指す。",
+        "title": "The New Design Advantage: Why Unifying Processing And Connectivity Simplifies The Design Experience",
+        "blurb": "無線チップとマイコン統合で設計簡素化、電力管理向上。半導体エンジニアリングの記事。",
         "category": "business",
-        "date": "2026-03-04",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-new-design-advantage-why-unifying-processing-and-connectivity-simplifies-the-design-experience"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "New Automotive Architectures Are Shaking Up Processor And Memory Choices",
+        "blurb": "自動車業界でデータ増加と性能要求の変化により、プロセッサとメモリの選択肢が見直されています。",
+        "category": "business",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/new-automotive-architectures-are-shaking-up-processors-and-memory-choices"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Edge And Micro Data Centers: Powering The Real-Time Digital World",
+        "blurb": "データ生成源に近い場所に設置されるローカルコンピューティング施設が増加。リアルタイムデジタル世界を支える。",
+        "category": "business",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/edge-and-micro-data-centers-powering-the-real-time-digital-world"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "25年4QのDRAM市場、SamsungがSKから首位奪還",
+        "blurb": "25年4QのDRAM市場で、SamsungがSKを抜き首位を奪還。Samsungは前四半期比43.0％増の成長を記録した。",
+        "category": "business",
+        "date": "2026-03-05",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news044.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news057.html"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "idm"
         }
       },
       {
-        "title": "EV design: The truth about 400-V to 800-V battery transition",
-        "blurb": "EVのバッテリー電圧、400V系がコスト面で主流を維持。800V系は急速充電や軽量化に利点があるが、普及には課題。",
+        "title": "米国がAIチップの対中輸出を再開　米中は「管理された相互依存」に",
+        "blurb": "米国、AIチップの対中輸出を一部再開。個別審査と高関税、国産チップ購入義務など厳格管理下で「管理された相互依存」へ。",
         "category": "business",
-        "date": "2026-03-04",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news048.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "EV system design from components to modules to software",
+        "blurb": "EVのシステム設計における課題と解決策について、業界専門家がコンポーネントからソフトウェアまで解説。",
+        "category": "business",
+        "date": "2026-03-05",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/ev-design-the-truth-about-400-v-to-800-v-battery-transition"
+          "url": "https://www.edn.com/ev-system-design-from-components-to-modules-to-software"
         },
         "field": {
           "primary": "automotive",
@@ -87,227 +177,137 @@
         }
       },
       {
-        "title": "Embedded Systems Are Pivotal to Smart Factories",
-        "blurb": "組み込みシステムはスマートファクトリー進化の鍵。製造業の自動化・効率化に不可欠な技術。",
+        "title": "VNAs perform production test up to 9 GHz",
+        "blurb": "Copper MountainのSCシリーズVNAは、9GHzまで対応し、25µs/点の測定速度で研究開発・製造テストを効率化します。",
         "category": "business",
-        "date": "2026-03-04",
+        "date": "2026-03-06",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/embedded-systems-are-pivotal-to-smart-factories"
+          "name": "edn.com",
+          "url": "https://www.edn.com/vnas-perform-production-test-up-to-9-ghz"
         },
         "field": null
       },
       {
-        "title": "Car Debt Is Crushing American Buyers",
-        "blurb": "米国の自動車購入者のローン債務が深刻化。中古車の下取り額が過去最高水準のマイナスとなり、返済困難な状況に陥っている。",
+        "title": "Passive limiter shields electronics from RF threats",
+        "blurb": "Teledyne Microwave UKの新製品B3LT98026は、広帯域リミッターで、防衛・軍事通信システムの受信機フロントエンドをRF脅威から保護する。",
         "category": "business",
-        "date": "2026-03-05",
+        "date": "2026-03-06",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/788982/car-loan-debt"
+          "name": "edn.com",
+          "url": "https://www.edn.com/passive-limiter-shields-electronics-from-rf-threats"
         },
         "field": null
+      },
+      {
+        "title": "Nordic debuts multiple cellular IoT products",
+        "blurb": "Nordicが、Cat 1 bis、衛星NTN、エッジAI対応LTE-M/NB-IoT製品を発表し、低消費電力セルラーIoT製品群を拡充。",
+        "category": "business",
+        "date": "2026-03-06",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/nordic-debuts-multiple-cellular-iot-products"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
       }
     ],
     "tools": [
       {
-        "title": "Open-End Winding Configuration for SiC-based Motor Drives",
-        "blurb": "SiCを用いたモーター駆動における過電圧と急峻な立上り時間を、オープンエンド巻線構成で解決する技術。",
+        "title": "Limiting AI/ML Tools To Ensure Physical AI Safety, Security",
+        "blurb": "物理AIの安全性・セキュリティ確保のため、AI/MLツールの利用制限と人間の監視が不可欠。事故や予期せぬ動作を防ぐ。",
         "category": "tools",
-        "date": "2026-03-04",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/limiting-ai-ml-tools-to-ensure-physical-ai-safety-security"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Cardiac monitors: Inconspicuous, robust data collectors",
+        "blurb": "ウェアラブル心臓モニターは、目立たず頑丈なデータ収集装置として、1ヶ月間装着したエンジニアの体験談を共有。",
+        "category": "tools",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/cardiac-monitors-inconspicuous-robust-data-collectors"
+        },
+        "field": null
+      },
+      {
+        "title": "VU GPSDR: RK3399 Touchscreen SBC with GPS-Disciplined SDR",
+        "blurb": "RK3399搭載タッチスクリーンSBCとGPS同期SDRを組み合わせたVU GPSDRが登場。広帯域受信と高精度クロックを実現。",
+        "category": "tools",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/vu-gpsdr-rk3399-touchscreen-sbc-with-gps-disciplined-sdr"
+        },
+        "field": null
+      },
+      {
+        "title": "MCU brings USB-C power to embedded devices",
+        "blurb": "インフィニオン、USB-C PDコントローラと昇降圧コントローラを統合したMCUを発表。組み込み機器への給電を容易に。",
+        "category": "tools",
+        "date": "2026-03-06",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/mcu-brings-usb-c-power-to-embedded-devices"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "ROHM Integrates TSMC GaN Process for In-House Production",
+        "blurb": "ローム、TSMCのGaNプロセスを導入し、AIサーバーやEV向けに内製化。供給安定化を目指す。",
+        "category": "company",
+        "date": "2026-03-05",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/open-end-winding-configuration-for-sic-based-motor-drives"
+          "url": "https://www.powerelectronicsnews.com/rohm-integrates-tsmc-gan-process-for-in-house-production"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
-          "industry": null
+          "market": "automotive",
+          "industry": "foundry"
         }
       },
       {
-        "title": "System-level Reliability Verification for 2.5D/3D ICs Using Innovator3D IC and Calibre 3DPERC",
-        "blurb": "2.5D/3D IC向けシステムレベル信頼性検証をInnovator3D ICとCalibre 3DPERCで実現するエンドツーエンドのアプローチ。",
-        "category": "tools",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/system-level-reliability-verification-for-2-5d-3d-ics-using-innovator3d-ic-and-calibre-3dperc"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Stretching a bit",
-        "blurb": "マイコンのGPIOポート1つでNビットの並列バイナリ出力を制御する方法。マルチデジタル表示などに活用。",
-        "category": "tools",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/stretching-a-bit"
-        },
-        "field": null
-      },
-      {
-        "title": "8devices Maca 2 Long-Range Wireless Radio Reaches 80 km",
-        "blurb": "8devices Maca 2は、最大80kmの通信が可能な長距離無線通信機器。ドローンや産業用IoT、防衛分野での利用を想定。",
-        "category": "tools",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/8devices-maca-2-long-range-wireless-radio-reaches-80-km"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ],
-    "company": [
-      {
-        "title": "Simplifying Motor Control for Drones with ESC Reference Design",
-        "blurb": "インフィニオンがドローン向けESCリファレンスデザインを発表。24V～60V対応でモーター制御を簡素化。",
+        "title": "Power Corner: Cyient Semiconductors’ CEO Suman Narayan on Building an Intelligent Power Silicon Platform",
+        "blurb": "サイエント・セミコンダクターズCEOが、戦略的提携によるインテリジェント電源シリコンプラットフォーム構築について語る。",
         "category": "company",
-        "date": "2026-03-04",
+        "date": "2026-03-05",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/simplifying-motor-control-for-drones-with-esc-reference-design"
-        },
-        "field": null
-      },
-      {
-        "title": "Electronic Warfare: Vying for Control of the Electromagnetic Spectrum",
-        "blurb": "高度な脅威に対応するため、電子戦分野で電磁スペクトルの制御を巡る競争が激化。オープンアーキテクチャと新分析が鍵となる。",
-        "category": "company",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/electronic-warfare-vying-for-control-of-the-electromagnetic-spectrum"
+          "url": "https://www.powerelectronicsnews.com/power-corner-cyient-semiconductors-ceo-suman-narayan-on-building-an-intelligent-power-silicon-platform"
         },
         "field": {
           "primary": "general",
           "device": null,
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "スズキ、カナデビアの全固体電池事業を買収へ",
-        "blurb": "スズキがカナデビアの全固体電池事業を買収。2026年7月1日付で、技術継承と発展を目指す。",
-        "category": "company",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news157.html"
-        },
-        "field": null
-      },
-      {
-        "title": "「世界初」半金属で高い熱電性能を示す物質の電子構造を観測",
-        "blurb": "岡山大などの研究グループは、高い熱電性能を持つ半金属「Ta2PdSe6」で、新しい準粒子状態「プラズモニックポーラロン」を世界で初めて観測した。",
-        "category": "company",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news045.html"
-        },
-        "field": null
-      },
-      {
-        "title": "来場でギフトカードプレゼント！　製造業向けオンライン展示会「ITmedia Virtual EXPO 2026 冬」開催中",
-        "blurb": "製造業向けオンライン展示会「ITmedia Virtual EXPO 2026 冬」が開催中。来場者にはギフトカードをプレゼント。",
-        "category": "company",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news113.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "技術主権と供給体制に注目　2026年2月の記事ランキング",
-        "blurb": "2026年2月のEE Times Japan人気記事ランキングトップ10を発表。技術主権と供給体制に関する記事が注目を集めました。",
-        "category": "company",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news021.html"
-        },
-        "field": null
-      },
-      {
-        "title": "法的責任も調査、ニデック不正会計の衝撃　減損2500億円の恐れ",
-        "blurb": "ニデックは不正会計の調査報告書を受領。社長は「重大な会計不正事案」と謝罪し、株主・投資家の信頼を裏切ったと述べた。",
-        "category": "company",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news081.html"
-        },
-        "field": null
-      },
-      {
-        "title": "AI PCでクラウド×ローカルの「ハイブリッドAI」実現",
-        "blurb": "インテルは2026年2月、AI PC向けプロセッサやエンタープライズ向けAI製品の展開を紹介するイベントを開催。クラウドとローカルを組み合わせた「ハイブリッドAI」の実現を目指す。",
-        "category": "company",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news064.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "datacenter",
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "キヤノンと日本シノプシスがRapidusに委託へ",
-        "blurb": "キヤノンと日本シノプシスは、Rapidusの2nmプロセスを活用し、次世代半導体の設計技術開発プロジェクトに参画する。",
-        "category": "company",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/04/news082.html"
-        },
-        "field": {
-          "primary": "miniaturization",
-          "device": null,
-          "process": "miniaturization",
           "market": null,
           "industry": null
         }
@@ -331,19 +331,139 @@
         }
       },
       {
-        "title": "RPU: A Chiplet-Based Architecture To Address The Challenges of the Modern Memory Wall  (Harvard University)",
-        "blurb": "ハーバード大がLLM推論のメモリボトルネックを解消するチップレット型RPUを発表。GPUの性能限界を克服する。",
+        "title": "Ultra Ethernet Security (UET‑TSS) Tailored For AI And HPC",
+        "blurb": "AI・HPC向けに、次世代ネットワークの規模と信頼性に対応するUltra Ethernet Security (UET‑TSS)が登場。",
         "category": "company",
         "date": "2026-03-05",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rpu-a-chiplet-based-architecture-to-address-the-challenges-of-the-modern-memory-wall-harvard-university"
+          "url": "https://semiengineering.com/ultra-ethernet-security-uet-tss-tailored-for-ai-and-hpc"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Auto Security Accelerates With Standardization And Certified Silicon",
+        "blurb": "自動車OEMは、車両アーキテクチャとコンプライアンス要件の進化に対応し、設計サイクルとセキュリティを加速させている。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/auto-security-accelerates-with-standardization-and-certified-silicon"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Learnings From The Polish Energy Sector Attacks",
+        "blurb": "ポーランドのエネルギー分野へのサイバー攻撃から学ぶ。アクセス遮断を狙う攻撃者から分散型重要システムを守る教訓。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/learnings-from-the-polish-energy-sector-attacks"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "アドバンテスト、サイバー攻撃の影響は「ほぼ解消」",
+        "blurb": "アドバンテストはサイバー攻撃の影響がほぼ解消したと発表。中核業務は稼働し、システム復旧を進めている。不正侵入者は排除され、データ公開も確認されていない。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news102.html"
+        },
+        "field": null
+      },
+      {
+        "title": "田中貴金属が金バンプの転写技術確立、複雑形状の基板に対応",
+        "blurb": "田中貴金属が金バンプ転写技術を確立。複雑形状基板に対応し、次世代実装や光電融合デバイスへの活用を目指す。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news036.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "遠隔GPUで低遅延AI映像解析、NTTが実証　IOWN APN活用",
+        "blurb": "NTTドコモとNTTは、INCを活用し遠隔GPUでの低遅延AI映像解析に成功。6G時代のロボット制御などへの応用が期待される。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news044.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ミニダイ（チップレット）間接続におけるSTCO",
+        "blurb": "TSMCがIEDM 2025で発表した、ミニダイ間接続におけるSTCO（システム・製造協調最適化）技術について解説。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news029.html"
         },
         "field": {
           "primary": "backend",
           "device": null,
           "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "先端半導体検査用プローブ、タカノが開発",
+        "blurb": "タカノは、MEMS技術で狭ピッチ・高周波対応の先端半導体検査用プローブを開発。高集積・高性能化に貢献。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news034.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
           "market": null,
           "industry": null
         }
@@ -367,6 +487,24 @@
         }
       },
       {
+        "title": "Grinn, Renesas Launch SOM for Edge AI Vision Systems",
+        "blurb": "Grinnとルネサスが、AI・ビジョンエッジデバイス開発を加速するSoM「ReneSOM-V2H」を発表。開発期間短縮に貢献。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/grinn-renesas-launch-som-for-edge-ai-vision-systems"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
         "title": "ARIA Sensing, Algorized Unveil AI-Enabled UWB Radar Platform",
         "blurb": "ARIA SensingとAlgorizedがAI搭載UWBレーダープラットフォームを発表。車載用子供検知システムに活用。",
         "category": "company",
@@ -385,50 +523,14 @@
         }
       },
       {
-        "title": "Which Automakers Build The Cleanest EVs? This Study Has Answers",
-        "blurb": "EVメーカーのサプライチェーンのクリーンさと責任を評価した新研究。勝者と敗者が明らかに。",
+        "title": "Hitachi Energy and Pakal Technologies Produce High-Voltage Power Modules",
+        "blurb": "日立エナジーとパカル・テクノロジーズは、鉄道、再生可能エネルギー、データセンター向けに、IGBTより導通損失を30%低減する高電圧パワーモジュールを開発しました。",
         "category": "company",
         "date": "2026-03-05",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/788992/cleanest-evs-automakers-supply-chain-study"
-        },
-        "field": null
-      },
-      {
-        "title": "Volkswagen Dealers Are Really Not Happy With Scout Motors",
-        "blurb": "フォルクスワーゲンのディーラーらが、Scout Motorsの直販戦略阻止のため、同社とフォルクスワーゲンを提訴した。",
-        "category": "company",
-        "date": "2026-03-05",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/788995/scout-motors-lawsuit-volkswagen-dealers-2026"
-        },
-        "field": null
-      },
-      {
-        "title": "VinFast's New Ultra-Luxury Models Look Great",
-        "blurb": "ベトナムのVinFastが超高級車「ラックホン」モデルを発表。デザインは魅力的だが、実際の走行性能は未知数。",
-        "category": "company",
-        "date": "2026-03-05",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/788980/vinfast-lac-hong-restructure-brand"
-        },
-        "field": null
-      },
-      {
-        "title": "Tool And Methodology Changes Coming In Fab And Package Automation",
-        "blurb": "How new equipment and methodologies are improving reliability, yield, and time-to-market for multi-die assemblies. The p",
-        "category": "company",
-        "date": "2026-03-04",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/tool-and-methodology-changes-coming-in-fab-and-package-automation"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/hitachi-energy-and-pakal-technologies-produce-high-voltage-power-modules"
         },
         "field": {
           "primary": "general",
@@ -437,6 +539,54 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Wolfspeed Unveils 10 kV SiC Power MOSFET",
+        "blurb": "Wolfspeedが10kV SiCパワーMOSFETを発表。中電圧コンバータ、グリッドインフラ、パルス電力システム向け。",
+        "category": "company",
+        "date": "2026-03-06",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Infineon Launches CoolGaN Drive 600V G5 Integrated Half-Bridge",
+        "blurb": "インフィニオンが、部品点数削減とレイアウト簡素化を実現する600V GaN駆動G5統合ハーフブリッジを発表。",
+        "category": "company",
+        "date": "2026-03-06",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/infineon-launches-coolgan-drive-600v-g5-integrated-half-bridge"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "MCU enables ASIL D safety and control",
+        "blurb": "ルネサス、車載MCU「RH850/U2C」を発表。ASIL D対応で高度な安全・制御機能を実現。",
+        "category": "company",
+        "date": "2026-03-06",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/mcu-enables-asil-d-safety-and-control"
+        },
+        "field": null
       }
     ],
     "sns": []

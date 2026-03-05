@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-05T06:11:05.606895+09:00",
+  "generated_at": "2026-03-06T06:12:01.854135+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "RPU: A Chiplet-Based Architecture To Address The Challenges of the Modern Memory Wall  (Harvard University)",
-    "summary": "ハーバード大がLLM推論のメモリボトルネックを解消するチップレット型RPUを発表。GPUの性能限界を克服する。",
+    "title": "ミニダイ（チップレット）間接続におけるSTCO",
+    "summary": "TSMCがIEDM 2025で発表した、ミニダイ間接続におけるSTCO（システム・製造協調最適化）技術について解説。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/rpu-a-chiplet-based-architecture-to-address-the-challenges-of-the-modern-memory-wall-harvard-university"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news029.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "RPU: A Chiplet-Based Architecture To Address The Challenges of the Modern Memory Wall  (Harvard University)",
-        "blurb": "ハーバード大がLLM推論のメモリボトルネックを解消するチップレット型RPUを発表。GPUの性能限界を克服する。",
+        "title": "ミニダイ（チップレット）間接続におけるSTCO",
+        "blurb": "TSMCがIEDM 2025で発表した、ミニダイ間接続におけるSTCO（システム・製造協調最適化）技術について解説。",
         "category": "company",
         "date": "2026-03-05",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rpu-a-chiplet-based-architecture-to-address-the-challenges-of-the-modern-memory-wall-harvard-university"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news029.html"
         },
         "field": {
           "primary": "backend",
@@ -35,26 +35,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "System-level Reliability Verification for 2.5D/3D ICs Using Innovator3D IC and Calibre 3DPERC",
-        "blurb": "2.5D/3D IC向けシステムレベル信頼性検証をInnovator3D ICとCalibre 3DPERCで実現するエンドツーエンドのアプローチ。",
-        "category": "tools",
-        "date": "2026-03-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/system-level-reliability-verification-for-2-5d-3d-ics-using-innovator3d-ic-and-calibre-3dperc"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": []
   }
 }

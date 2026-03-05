@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-03-05T06:11:05.605290+09:00",
+  "generated_at": "2026-03-06T06:12:01.852100+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs",
-    "summary": "NoMIS Powerが、低損失・高dv/dt・175℃動作のSiC MOSFET2種を発表。MVコンバータ向け。",
+    "title": "Wolfspeed Unveils 10 kV SiC Power MOSFET",
+    "summary": "Wolfspeedが10kV SiCパワーMOSFETを発表。中電圧コンバータ、グリッドインフラ、パルス電力システム向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets"
+        "url": "https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet"
       }
     ]
   },
   "sections": {
     "news": [
+      {
+        "title": "ROHM Integrates TSMC GaN Process for In-House Production",
+        "blurb": "ローム、TSMCのGaNプロセスを導入し、AIサーバーやEV向けに内製化。供給安定化を目指す。",
+        "category": "company",
+        "date": "2026-03-05",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/rohm-integrates-tsmc-gan-process-for-in-house-production"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": "foundry"
+        }
+      },
       {
         "title": "NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs",
         "blurb": "NoMIS Powerが、低損失・高dv/dt・175℃動作のSiC MOSFET2種を発表。MVコンバータ向け。",
@@ -33,18 +51,34 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "tech": [
+      },
       {
-        "title": "Open-End Winding Configuration for SiC-based Motor Drives",
-        "blurb": "SiCを用いたモーター駆動における過電圧と急峻な立上り時間を、オープンエンド巻線構成で解決する技術。",
-        "category": "tools",
-        "date": "2026-03-04",
+        "title": "Wolfspeed Unveils 10 kV SiC Power MOSFET",
+        "blurb": "Wolfspeedが10kV SiCパワーMOSFETを発表。中電圧コンバータ、グリッドインフラ、パルス電力システム向け。",
+        "category": "company",
+        "date": "2026-03-06",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/open-end-winding-configuration-for-sic-based-motor-drives"
+          "url": "https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Infineon Launches CoolGaN Drive 600V G5 Integrated Half-Bridge",
+        "blurb": "インフィニオンが、部品点数削減とレイアウト簡素化を実現する600V GaN駆動G5統合ハーフブリッジを発表。",
+        "category": "company",
+        "date": "2026-03-06",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/infineon-launches-coolgan-drive-600v-g5-integrated-half-bridge"
         },
         "field": {
           "primary": "power",
@@ -55,6 +89,7 @@
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }
