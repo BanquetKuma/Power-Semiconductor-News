@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-06T06:12:07.317878+09:00",
-  "date": "2026-03-06",
+  "generated_at": "2026-03-07T06:09:41.589284+09:00",
+  "date": "2026-03-07",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の高性能化と普及",
+      "name": "SiC/GaNパワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,137 +12,140 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaNを用いたパワー半導体の高性能化が進み、EV、データセンター、産業機器など幅広い分野での採用が加速している。",
+      "summary": "SiCとGaN技術の採用がデータセンター、EV、産業機器で加速。高効率・高電力密度化が進む。",
       "analysis": {
-        "short_term": "需要増と供給能力拡大の競争が激化。",
-        "mid_term": "コスト競争力と技術革新が普及の鍵。",
-        "investment_implications": "SiC/GaNメーカーへの投資妙味増大。"
+        "short_term": "新製品投入活発化、採用事例拡大。",
+        "mid_term": "コスト低下と性能向上で主流化へ。",
+        "investment_implications": "SiC/GaNメーカー、関連材料・装置に注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "高効率",
-        "低損失"
+        "データセンター",
+        "高効率"
       ],
       "companies_mentioned": [
         "Wolfspeed",
         "Infineon",
         "ROHM",
-        "NoMIS Power"
+        "Navitas",
+        "EPC"
       ]
     },
     {
-      "name": "AI・HPC向け次世代ネットワーク技術",
+      "name": "AI向けハードウェア開発競争激化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
         "logic",
-        "frontend",
-        "backend"
+        "memory",
+        "fabless",
+        "idm"
       ],
-      "summary": "AIやHPCのデータ処理能力向上に伴い、Ultra Ethernet Security (UET-TSS)のような、より高速でセキュアなネットワーク技術が求められている。",
+      "summary": "AI処理能力向上のため、GPU、AIチップ、メモリ、インターコネクト技術の開発が加速。",
       "analysis": {
-        "short_term": "標準化と技術開発が並行して進む。",
-        "mid_term": "AIインフラ投資の拡大が追い風。",
-        "investment_implications": "ネットワークインフラ関連企業に注目。"
+        "short_term": "NVIDIA中心に供給逼迫続く可能性。",
+        "mid_term": "新興メーカーや特定用途向けチップ台頭。",
+        "investment_implications": "AIチップ設計・製造企業、高性能メモリに投資妙味。"
       },
       "keywords": [
         "AI",
+        "GPU",
+        "チップレット",
         "HPC",
-        "Ethernet",
-        "セキュリティ",
-        "高速化"
+        "データセンター"
       ],
       "companies_mentioned": [
-        "Ultra Ethernet Consortium"
-      ]
-    },
-    {
-      "name": "エッジAIとローカル処理の重要性増大",
-      "confidence": 0.88,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "automotive",
-        "industrial",
-        "datacenter"
-      ],
-      "summary": "エッジデバイスやマイクロデータセンターでのAI処理が増加し、低遅延、高電力効率、リアルタイム性が求められている。",
-      "analysis": {
-        "short_term": "エッジAIチップの性能競争が激化。",
-        "mid_term": "IoTデバイスや自動運転分野での需要拡大。",
-        "investment_implications": "エッジAIソリューション提供企業に期待。"
-      },
-      "keywords": [
-        "Edge AI",
-        "ローカル処理",
-        "低遅延",
-        "電力効率",
-        "IoT"
-      ],
-      "companies_mentioned": [
+        "NVIDIA",
+        "Micron",
         "Intel",
-        "NTTドコモ",
-        "NTT"
+        "TSMC"
       ]
     },
     {
-      "name": "自動車分野における半導体アーキテクチャ刷新",
+      "name": "車載半導体の高度化とセキュリティ強化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "logic",
-        "memory",
-        "power",
-        "ai"
+        "analog",
+        "security",
+        "idm"
       ],
-      "summary": "ADAS、自動運転、電動化の進展により、自動車業界ではデータ処理能力向上と電力効率改善のため、プロセッサやメモリの選択肢が見直されている。",
+      "summary": "ADAS、自動運転、電動化に伴い、高性能マイコン、センサー、セキュリティチップの需要が増加。",
       "analysis": {
-        "short_term": "車載半導体メーカー間の競争激化。",
-        "mid_term": "新アーキテクチャ採用による性能向上が期待。",
-        "investment_implications": "次世代車載半導体関連企業に注目。"
+        "short_term": "車載マイコンの新製品投入活発。",
+        "mid_term": "ソフトウェア定義車両への移行加速。",
+        "investment_implications": "車載半導体メーカー、セキュリティソリューションに注目。"
       },
       "keywords": [
-        "自動車",
+        "車載",
         "ADAS",
         "自動運転",
-        "プロセッサ",
-        "メモリ"
+        "マイコン",
+        "セキュリティ"
       ],
       "companies_mentioned": [
-        "Rapidus",
-        "キヤノン",
-        "日本シノプシス"
+        "ルネサス",
+        "Infineon",
+        "NVIDIA"
       ]
     },
     {
-      "name": "半導体設計・製造における高度化と協調",
+      "name": "インメモリコンピューティングの進展",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "memory",
+        "datacenter",
+        "logic"
+      ],
+      "summary": "AI/HPCの高速化のため、メモリ内で演算を行うインメモリコンピューティング技術の研究開発が進む。",
+      "analysis": {
+        "short_term": "研究開発段階だが、注目度高まる。",
+        "mid_term": "特定用途での実用化が期待される。",
+        "investment_implications": "次世代メモリ、AIアクセラレータ関連企業を注視。"
+      },
+      "keywords": [
+        "インメモリ",
+        "AI",
+        "HPC",
+        "メモリ",
+        "アクセラレータ"
+      ],
+      "companies_mentioned": [
+        "KAUST",
+        "Compumacy"
+      ]
+    },
+    {
+      "name": "高度化する半導体設計・製造技術",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "frontend",
         "backend",
+        "miniaturization",
         "foundry",
-        "equipment",
-        "miniaturization"
+        "equipment"
       ],
-      "summary": "3D積層設計、チップレット技術、ESD検証など、先端半導体設計・製造プロセスは複雑化しており、サプライヤー間の協調と高度な検証技術が不可欠。",
+      "summary": "3D積層、チップレット、微細化に対応するため、ESD検証、プローブ技術、製造協調最適化が重要に。",
       "analysis": {
-        "short_term": "設計・製造技術の標準化が課題。",
-        "mid_term": "歩留まり向上とコスト削減が競争力に影響。",
-        "investment_implications": "先端プロセス技術を持つ企業に投資妙味。"
+        "short_term": "先端プロセス向け新技術発表続く。",
+        "mid_term": "設計・製造の複雑化に対応するソリューションが鍵。",
+        "investment_implications": "先端プロセス技術を持つファウンドリ、装置、EDA企業に注目。"
       },
       "keywords": [
         "3D積層",
         "チップレット",
-        "ESD検証",
-        "TSMC",
-        "実装技術"
+        "ESD",
+        "プローブ",
+        "STCO"
       ],
       "companies_mentioned": [
         "TSMC",
@@ -154,18 +157,18 @@
   "market_signals": {
     "bullish": [
       "SiC/GaNパワー半導体の需要拡大",
-      "AI/HPCインフラ投資の増加",
-      "EV市場の成長継続",
-      "エッジAIソリューションの普及"
+      "AI向け高性能チップの需要旺盛",
+      "車載半導体市場の成長継続",
+      "メモリ市場の回復基調"
     ],
     "bearish": [
-      "国内半導体装置メーカーの業績低迷（一部）",
-      "米中間の半導体貿易摩擦（限定的ながら継続）"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "一部メモリ価格の変動リスク"
     ],
     "neutral": [
-      "DRAM市場におけるSamsungの首位奪還（競争激化の兆候）",
-      "自動車OEMにおけるセキュリティ標準化の進展（コスト増要因の可能性）"
+      "半導体製造装置への投資は引き続き堅調",
+      "米中間のAIチップ規制緩和の動向"
     ]
   },
-  "source_count": 42
+  "source_count": 40
 }

@@ -1,60 +1,24 @@
 {
-  "generated_at": "2026-03-06T06:12:01.852100+09:00",
+  "generated_at": "2026-03-07T06:09:35.739102+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Wolfspeed Unveils 10 kV SiC Power MOSFET",
-    "summary": "Wolfspeedが10kV SiCパワーMOSFETを発表。中電圧コンバータ、グリッドインフラ、パルス電力システム向け。",
+    "title": "PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights",
+    "summary": "PEN eBook 2026、SiCモーター駆動、QSPICEコースなど、パワーエレクトロニクス週間の最新情報。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet"
+        "url": "https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "ROHM Integrates TSMC GaN Process for In-House Production",
-        "blurb": "ローム、TSMCのGaNプロセスを導入し、AIサーバーやEV向けに内製化。供給安定化を目指す。",
-        "category": "company",
-        "date": "2026-03-05",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/rohm-integrates-tsmc-gan-process-for-in-house-production"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs",
-        "blurb": "NoMIS Powerが、低損失・高dv/dt・175℃動作のSiC MOSFET2種を発表。MVコンバータ向け。",
-        "category": "company",
-        "date": "2026-03-05",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Wolfspeed Unveils 10 kV SiC Power MOSFET",
-        "blurb": "Wolfspeedが10kV SiCパワーMOSFETを発表。中電圧コンバータ、グリッドインフラ、パルス電力システム向け。",
+        "blurb": "Wolfspeedが10kV SiCパワーMOSFETを発表。中電圧コンバーター、グリッドインフラ、パルス電力システム向け。",
         "category": "company",
         "date": "2026-03-06",
         "stars": 3,
@@ -72,7 +36,7 @@
       },
       {
         "title": "Infineon Launches CoolGaN Drive 600V G5 Integrated Half-Bridge",
-        "blurb": "インフィニオンが、部品点数削減とレイアウト簡素化を実現する600V GaN駆動G5統合ハーフブリッジを発表。",
+        "blurb": "インフィニオン、600V GaNハーフブリッジIC「CoolGaN Drive 600V G5」を発表。ドライバ内蔵で部品点数と基板レイアウトを削減。",
         "category": "company",
         "date": "2026-03-06",
         "stars": 3,
@@ -90,6 +54,61 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Navitas, EPFL to Showcase 250 kW SST at APEC",
+        "blurb": "NavitasとEPFLは、AIデータセンター向け250kWの次世代電力変換器（SST）をAPECで発表。SiCデバイス採用。",
+        "category": "business",
+        "date": "2026-03-06",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/navitas-epfl-to-showcase-250-kw-sst-at-apec"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights",
+        "blurb": "PEN eBook 2026、SiCモーター駆動、QSPICEコースなど、パワーエレクトロニクス週間の最新情報。",
+        "category": "business",
+        "date": "2026-03-07",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How NVIDIA’s 800V Data Center Vision and GaN Innovation Are Re-shaping High-Density Power Delivery",
+        "blurb": "NVIDIAは800Vデータセンター構想とGaN技術で高密度電力供給を革新。EPC社は6kW 800V-12.5V DC/DCコンバーターを発表。",
+        "category": "business",
+        "date": "2026-03-07",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/how-nvidias-800v-data-center-vision-and-gan-innovation-are-re-shaping-high-density-power-delivery"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "datacenter",
+          "industry": "fabless"
+        }
+      }
+    ]
   }
 }

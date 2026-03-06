@@ -1,39 +1,58 @@
 {
-  "generated_at": "2026-03-06T06:12:01.852395+09:00",
+  "generated_at": "2026-03-07T06:09:35.739415+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "25年4QのDRAM市場、SamsungがSKから首位奪還",
-    "summary": "25年4QのDRAM市場で、SamsungがSKを抜き首位を奪還。Samsungは前四半期比43.0％増の成長を記録した。",
+    "title": "Chip Industry Week In Review",
+    "summary": "半導体業界の週刊レビュー：AI不正、ローム買収、米国のAIチップ権限強化、車載半導体、新チップなど。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news057.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-128"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "25年4QのDRAM市場、SamsungがSKから首位奪還",
-        "blurb": "25年4QのDRAM市場で、SamsungがSKを抜き首位を奪還。Samsungは前四半期比43.0％増の成長を記録した。",
-        "category": "business",
-        "date": "2026-03-05",
+        "title": "28nmプロセス採用「RH850」のローエンド品、ルネサス",
+        "blurb": "ルネサスは28nmプロセス採用の車載マイコン「RH850/U2C」を発売。ローエンド品で最新E/Eアーキテクチャに対応。",
+        "category": "company",
+        "date": "2026-03-06",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news057.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/06/news047.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": "idm"
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の週刊レビュー：AI不正、ローム買収、米国のAIチップ権限強化、車載半導体、新チップなど。",
+        "category": "business",
+        "date": "2026-03-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-128"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "ai",
+          "industry": null
         }
       }
     ]

@@ -1,105 +1,32 @@
 {
-  "generated_at": "2026-03-06T06:12:01.852782+09:00",
+  "generated_at": "2026-03-07T06:09:35.739655+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power, Not Area: Why Edge GPU Design Is Entering A New Era",
-    "summary": "エッジGPU設計は、面積ではなく電力効率が最重要課題となり、新たな時代を迎える。",
+    "title": "Last-level cache has become a critical SoC design element",
+    "summary": "SoC設計において、外部メモリと内部サブシステム間のLLC（ラストレベルキャッシュ）は、頻繁にアクセスされるデータを計算リソースの近くに保存する重要な要素となった。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/power-not-area-why-edge-gpu-design-is-entering-a-new-era"
+        "name": "edn.com",
+        "url": "https://www.edn.com/last-level-cache-has-become-a-critical-soc-design-element"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "遠隔GPUで低遅延AI映像解析、NTTが実証　IOWN APN活用",
-        "blurb": "NTTドコモとNTTは、INCを活用し遠隔GPUでの低遅延AI映像解析に成功。6G時代のロボット制御などへの応用が期待される。",
-        "category": "company",
-        "date": "2026-03-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/05/news044.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Grinn, Renesas Launch SOM for Edge AI Vision Systems",
-        "blurb": "Grinnとルネサスが、AI・ビジョンエッジデバイス開発を加速するSoM「ReneSOM-V2H」を発表。開発期間短縮に貢献。",
-        "category": "company",
-        "date": "2026-03-05",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/grinn-renesas-launch-som-for-edge-ai-vision-systems"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "ARIA Sensing, Algorized Unveil AI-Enabled UWB Radar Platform",
-        "blurb": "ARIA SensingとAlgorizedがAI搭載UWBレーダープラットフォームを発表。車載用子供検知システムに活用。",
-        "category": "company",
-        "date": "2026-03-05",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/aria-sensing-algorized-unveil-ai-enabled-uwb-radar-platform"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "Power, Not Area: Why Edge GPU Design Is Entering A New Era",
-        "blurb": "エッジGPU設計は、面積ではなく電力効率が最重要課題となり、新たな時代を迎える。",
+        "title": "Last-level cache has become a critical SoC design element",
+        "blurb": "SoC設計において、外部メモリと内部サブシステム間のLLC（ラストレベルキャッシュ）は、頻繁にアクセスされるデータを計算リソースの近くに保存する重要な要素となった。",
         "category": "business",
-        "date": "2026-03-05",
+        "date": "2026-03-06",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/power-not-area-why-edge-gpu-design-is-entering-a-new-era"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "New Automotive Architectures Are Shaking Up Processor And Memory Choices",
-        "blurb": "自動車業界でデータ増加と性能要求の変化により、プロセッサとメモリの選択肢が見直されています。",
-        "category": "business",
-        "date": "2026-03-05",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/new-automotive-architectures-are-shaking-up-processors-and-memory-choices"
+          "name": "edn.com",
+          "url": "https://www.edn.com/last-level-cache-has-become-a-critical-soc-design-element"
         },
         "field": {
           "primary": "logic",
