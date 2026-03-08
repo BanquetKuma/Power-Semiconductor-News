@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-08T06:05:58.952702+09:00",
-  "date": "2026-03-08",
+  "generated_at": "2026-03-09T06:07:02.895739+09:00",
+  "date": "2026-03-09",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化",
+      "name": "SiC/GaNによる次世代パワー半導体",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,29 +12,31 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCやGaNといった次世代パワー半導体の高性能化が進み、EV、データセンター、産業機器など幅広い分野で採用が拡大している。",
+      "summary": "SiCとGaN技術がEV、データセンター、産業機器の電力効率と性能を向上させる。高電圧・高密度化が進む。",
       "analysis": {
-        "short_term": "新製品発表が活発化。採用拡大が加速。",
-        "mid_term": "サプライヤー間の競争激化と技術革新が進む。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味増す。"
+        "short_term": "新製品発表と採用拡大が続く。",
+        "mid_term": "サプライヤー間の競争激化とコスト低下が期待。",
+        "investment_implications": "関連企業への投資妙味あり。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "高効率化"
+        "高効率"
       ],
       "companies_mentioned": [
         "NVIDIA",
+        "EPC",
+        "Navitas",
         "Wolfspeed",
         "Infineon",
         "ROHM",
-        "Navitas"
+        "NoMIS Power"
       ]
     },
     {
-      "name": "AIとハードウェアの融合加速",
+      "name": "AIハードウェア開発の加速と連携",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -42,128 +44,135 @@
         "logic",
         "datacenter",
         "memory",
+        "fabless",
         "frontend",
         "backend"
       ],
-      "summary": "AI処理に特化したハードウェア開発が加速し、AIチップ、アクセラレータ、インメモリコンピューティングなどが進化。AI PCやデータセンターでの活用が進む。",
+      "summary": "AIとハードウェアの長期ロードマップ策定が進み、大学や企業が連携して次世代技術開発を推進。",
       "analysis": {
-        "short_term": "AIチップの性能競争が激化。",
-        "mid_term": "AIハードウェアエコシステムがさらに拡大。",
-        "investment_implications": "AIハードウェア関連企業に注目。"
+        "short_term": "研究開発投資の増加が見込まれる。",
+        "mid_term": "革新的なAIチップやアクセラレータが登場。",
+        "investment_implications": "AI関連技術を持つ企業に注目。"
       },
       "keywords": [
         "AI",
-        "GPU",
+        "ハードウェア",
+        "ロードマップ",
         "アクセラレータ",
-        "AI PC",
-        "データセンター"
+        "研究開発"
       ],
       "companies_mentioned": [
-        "NVIDIA",
-        "Intel",
-        "Micron"
+        "UIUC",
+        "UCLA",
+        "Stanford",
+        "KAUST",
+        "Compumacy",
+        "Intel"
       ]
     },
     {
-      "name": "車載半導体の高度化と標準化",
+      "name": "データセンター向け高密度・高効率化",
+      "confidence": 0.88,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "power",
+        "memory",
+        "logic"
+      ],
+      "summary": "AI/HPC需要増に対応するため、データセンターでは電力供給の800V化や高密度メモリ採用が進む。",
+      "analysis": {
+        "short_term": "高容量メモリや高効率電源の需要増。",
+        "mid_term": "データセンターインフラ全体の最適化が進む。",
+        "investment_implications": "データセンター関連インフラ企業に追い風。"
+      },
+      "keywords": [
+        "データセンター",
+        "800V",
+        "高密度メモリ",
+        "AI",
+        "HPC"
+      ],
+      "companies_mentioned": [
+        "NVIDIA",
+        "Micron",
+        "Samsung",
+        "SK Hynix"
+      ]
+    },
+    {
+      "name": "自動車分野の高度化とセキュリティ強化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "logic",
-        "power",
-        "security"
+        "security",
+        "analog",
+        "power"
       ],
-      "summary": "ADAS、自動運転、電動化の進展に伴い、車載半導体の高性能化、高信頼性化、セキュリティ強化が進んでいる。標準化も加速。",
+      "summary": "ADAS、次世代E/Eアーキテクチャ対応のため、車載半導体の性能向上とセキュリティ標準化が進む。",
       "analysis": {
-        "short_term": "新世代ECU向け半導体開発活発化。",
-        "mid_term": "サイバーセキュリティ標準化が普及。",
+        "short_term": "車載マイコンやセンサーの需要が堅調。",
+        "mid_term": "自動運転・コネクテッドカー向け技術開発が加速。",
         "investment_implications": "車載半導体メーカーの成長期待。"
       },
       "keywords": [
+        "自動車",
         "ADAS",
-        "自動運転",
-        "EV",
+        "セキュリティ",
         "車載マイコン",
-        "セキュリティ"
+        "E/Eアーキテクチャ"
       ],
       "companies_mentioned": [
         "Renesas",
-        "Infineon"
+        "Cyient Semiconductors"
       ]
     },
     {
-      "name": "先端パッケージング技術の重要性増大",
+      "name": "先端パッケージングとチップレット技術",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "backend",
-        "miniaturization",
         "logic",
-        "ai"
+        "miniaturization",
+        "frontend",
+        "foundry"
       ],
-      "summary": "チップレット（ミニダイ）間接続や3D積層技術が進化し、高性能化と小型化を実現。ESD検証など設計課題も顕在化。",
+      "summary": "チップレット（ミニダイ）間接続技術や3D積層設計が進展し、高性能化と小型化を実現する。",
       "analysis": {
-        "short_term": "チップレット技術の標準化が進む。",
-        "mid_term": "異種材料・異種プロセス統合が鍵に。",
-        "investment_implications": "先端パッケージング関連技術に注目。"
+        "short_term": "チップレット関連技術への投資が増加。",
+        "mid_term": "より複雑なシステムインパッケージが登場。",
+        "investment_implications": "ファウンドリやパッケージング技術企業に注目。"
       },
       "keywords": [
         "チップレット",
+        "パッケージング",
         "3D積層",
         "STCO",
-        "ESD",
-        "小型化"
+        "ミニダイ"
       ],
       "companies_mentioned": [
         "TSMC",
         "田中貴金属"
       ]
-    },
-    {
-      "name": "地政学リスクとサプライチェーン再編",
-      "confidence": 0.75,
-      "momentum": "stable",
-      "related_fields": [
-        "geopolitics",
-        "foundry",
-        "fabless",
-        "idm"
-      ],
-      "summary": "米中対立など地政学リスクが継続し、半導体サプライチェーンの再編が進む。各国・地域での生産能力増強や技術移転が進む。",
-      "analysis": {
-        "short_term": "輸出規制の動向を注視。",
-        "mid_term": "サプライチェーンの二極化が進む可能性。",
-        "investment_implications": "リスク分散と地域別投資戦略が重要。"
-      },
-      "keywords": [
-        "地政学リスク",
-        "サプライチェーン",
-        "米中対立",
-        "生産能力",
-        "技術移転"
-      ],
-      "companies_mentioned": [
-        "米国政府",
-        "中国政府"
-      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体（SiC/GaN）の需要拡大",
-      "AI関連ハードウェア市場の成長",
-      "車載半導体市場の回復と高性能化",
-      "先端パッケージング技術への投資増加"
+      "SiC/GaNパワー半導体の需要拡大",
+      "AI関連ハードウェアへの投資活発化",
+      "データセンターインフラ投資の継続",
+      "車載半導体市場の成長"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "メモリ市場の価格変動リスク"
+      "地政学的リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "半導体製造装置の需要は安定推移",
-      "ファウンドリの稼働率変動"
+      "メモリ市場の価格変動",
+      "半導体製造装置の需要動向"
     ]
   },
-  "source_count": 39
+  "source_count": 43
 }
