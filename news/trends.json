@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-09T06:07:02.895739+09:00",
-  "date": "2026-03-09",
+  "generated_at": "2026-03-10T06:10:34.997335+09:00",
+  "date": "2026-03-10",
   "meta_trends": [
     {
-      "name": "SiC/GaNによる次世代パワー半導体",
+      "name": "SiC/GaNパワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,11 +12,11 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCとGaN技術がEV、データセンター、産業機器の電力効率と性能を向上させる。高電圧・高密度化が進む。",
+      "summary": "SiCやGaNといった次世代パワー半導体の採用がデータセンター、EV、産業機器で急速に拡大。高効率化と小型化に貢献。",
       "analysis": {
-        "short_term": "新製品発表と採用拡大が続く。",
-        "mid_term": "サプライヤー間の競争激化とコスト低下が期待。",
-        "investment_implications": "関連企業への投資妙味あり。"
+        "short_term": "需要拡大継続。供給能力が鍵。",
+        "mid_term": "EV・データセンター向けが牽引。",
+        "investment_implications": "SiC/GaNメーカーに注目。"
       },
       "keywords": [
         "SiC",
@@ -32,147 +32,149 @@
         "Wolfspeed",
         "Infineon",
         "ROHM",
+        "富士通",
         "NoMIS Power"
       ]
     },
     {
-      "name": "AIハードウェア開発の加速と連携",
+      "name": "AIインフラの進化とデータ転送",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "logic",
         "datacenter",
+        "logic",
+        "analog",
         "memory",
-        "fabless",
-        "frontend",
         "backend"
       ],
-      "summary": "AIとハードウェアの長期ロードマップ策定が進み、大学や企業が連携して次世代技術開発を推進。",
+      "summary": "AI/HPC向けに、データセンターの電力供給、ネットワーク、チップ間接続技術が進化。低遅延・高帯域幅が重要視される。",
       "analysis": {
-        "short_term": "研究開発投資の増加が見込まれる。",
-        "mid_term": "革新的なAIチップやアクセラレータが登場。",
-        "investment_implications": "AI関連技術を持つ企業に注目。"
+        "short_term": "次世代ネットワーク・インターコネクト開発活発。",
+        "mid_term": "AI処理能力向上に不可欠な要素。",
+        "investment_implications": "AIインフラ関連技術に投資妙味。"
       },
       "keywords": [
         "AI",
-        "ハードウェア",
-        "ロードマップ",
-        "アクセラレータ",
-        "研究開発"
-      ],
-      "companies_mentioned": [
-        "UIUC",
-        "UCLA",
-        "Stanford",
-        "KAUST",
-        "Compumacy",
-        "Intel"
-      ]
-    },
-    {
-      "name": "データセンター向け高密度・高効率化",
-      "confidence": 0.88,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "power",
-        "memory",
-        "logic"
-      ],
-      "summary": "AI/HPC需要増に対応するため、データセンターでは電力供給の800V化や高密度メモリ採用が進む。",
-      "analysis": {
-        "short_term": "高容量メモリや高効率電源の需要増。",
-        "mid_term": "データセンターインフラ全体の最適化が進む。",
-        "investment_implications": "データセンター関連インフラ企業に追い風。"
-      },
-      "keywords": [
         "データセンター",
-        "800V",
-        "高密度メモリ",
-        "AI",
-        "HPC"
+        "Ultra Ethernet",
+        "チップレット",
+        "低遅延"
       ],
       "companies_mentioned": [
         "NVIDIA",
         "Micron",
-        "Samsung",
-        "SK Hynix"
+        "NTT",
+        "TSMC"
       ]
     },
     {
-      "name": "自動車分野の高度化とセキュリティ強化",
+      "name": "車載半導体の高度化とE/Eアーキテクチャ変革",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
+        "power",
         "logic",
-        "security",
         "analog",
-        "power"
+        "idm"
       ],
-      "summary": "ADAS、次世代E/Eアーキテクチャ対応のため、車載半導体の性能向上とセキュリティ標準化が進む。",
+      "summary": "EV化、自動運転化に伴い、車載半導体は高性能化・高機能化が進む。次世代E/Eアーキテクチャへの対応が急務。",
       "analysis": {
-        "short_term": "車載マイコンやセンサーの需要が堅調。",
-        "mid_term": "自動運転・コネクテッドカー向け技術開発が加速。",
-        "investment_implications": "車載半導体メーカーの成長期待。"
+        "short_term": "車載マイコンの高性能化・低消費電力化。",
+        "mid_term": "ADAS/自動運転向けIC需要増。",
+        "investment_implications": "車載半導体メーカーの動向を注視。"
       },
       "keywords": [
-        "自動車",
+        "車載",
+        "EV",
         "ADAS",
-        "セキュリティ",
-        "車載マイコン",
-        "E/Eアーキテクチャ"
+        "E/Eアーキテクチャ",
+        "マイコン"
       ],
       "companies_mentioned": [
-        "Renesas",
-        "Cyient Semiconductors"
+        "ルネサス",
+        "デンソー",
+        "ローム",
+        "三菱電機"
       ]
     },
     {
-      "name": "先端パッケージングとチップレット技術",
+      "name": "半導体業界の再編と戦略的提携",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "logic",
-        "miniaturization",
-        "frontend",
-        "foundry"
+        "power",
+        "foundry",
+        "idm",
+        "geopolitics"
       ],
-      "summary": "チップレット（ミニダイ）間接続技術や3D積層設計が進展し、高性能化と小型化を実現する。",
+      "summary": "パワー半導体分野を中心に、国内でのM&Aや提携の動きが活発化。グローバル競争力強化と供給網安定化が目的。",
       "analysis": {
-        "short_term": "チップレット関連技術への投資が増加。",
-        "mid_term": "より複雑なシステムインパッケージが登場。",
-        "investment_implications": "ファウンドリやパッケージング技術企業に注目。"
+        "short_term": "国内パワー半導体メーカーの再編進む可能性。",
+        "mid_term": "グローバルサプライチェーン再編の一環。",
+        "investment_implications": "業界再編による企業価値変動に注意。"
       },
       "keywords": [
-        "チップレット",
-        "パッケージング",
-        "3D積層",
-        "STCO",
-        "ミニダイ"
+        "再編",
+        "M&A",
+        "パワー半導体",
+        "提携",
+        "サプライチェーン"
       ],
       "companies_mentioned": [
-        "TSMC",
-        "田中貴金属"
+        "ローム",
+        "デンソー",
+        "東芝",
+        "三菱電機"
+      ]
+    },
+    {
+      "name": "新材料・新構造による性能向上",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "backend",
+        "miniaturization",
+        "analog",
+        "logic"
+      ],
+      "summary": "二次元半導体、酸化物半導体、カーボンナノチューブなどの新材料や、3D積層、モアレ構造といった新構造の研究が進展。",
+      "analysis": {
+        "short_term": "基礎研究段階だが、将来的なブレークスルー期待。",
+        "mid_term": "特定用途での実用化に向けた開発加速。",
+        "investment_implications": "先端材料・プロセス技術を持つ企業に注目。"
+      },
+      "keywords": [
+        "新材料",
+        "二次元半導体",
+        "3D積層",
+        "モアレ構造",
+        "先端技術"
+      ],
+      "companies_mentioned": [
+        "東京大学",
+        "田中貴金属",
+        "TSMC"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大",
-      "AI関連ハードウェアへの投資活発化",
-      "データセンターインフラ投資の継続",
-      "車載半導体市場の成長"
+      "SiC/GaNパワー半導体の需要急増",
+      "AIインフラ関連投資の拡大",
+      "車載半導体市場の成長継続",
+      "先端ロジック・メモリの技術革新"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性"
+      "米中対立による輸出規制の影響（一部緩和の動きも）",
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "メモリ市場の価格変動",
-      "半導体製造装置の需要動向"
+      "半導体業界全体の技術変革期における投資判断の難しさ",
+      "宇宙データセンターなど、現時点ではニッチな市場"
     ]
   },
-  "source_count": 43
+  "source_count": 41
 }

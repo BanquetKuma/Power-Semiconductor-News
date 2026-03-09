@@ -1,32 +1,51 @@
 {
-  "generated_at": "2026-03-07T06:09:35.739655+09:00",
+  "generated_at": "2026-03-10T06:10:29.484023+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Last-level cache has become a critical SoC design element",
-    "summary": "SoC設計において、外部メモリと内部サブシステム間のLLC（ラストレベルキャッシュ）は、頻繁にアクセスされるデータを計算リソースの近くに保存する重要な要素となった。",
+    "title": "Chip Industry Technical Paper Roundup: Mar. 9",
+    "summary": "GPU、異種メモリ、酸化物半導体、AIハードウェア等の技術論文を紹介。半導体業界の最新動向を網羅。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/last-level-cache-has-become-a-critical-soc-design-element"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-9"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "Nordic Adds Entry-Level Bluetooth LE SoCs",
+        "blurb": "NordicがエントリーレベルのBluetooth LE SoCを発表。メインまたはコンパニオンデバイスとして機能。",
+        "category": "company",
+        "date": "2026-03-10",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nordic-adds-entry-level-bluetooth-le-socs"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "Last-level cache has become a critical SoC design element",
-        "blurb": "SoC設計において、外部メモリと内部サブシステム間のLLC（ラストレベルキャッシュ）は、頻繁にアクセスされるデータを計算リソースの近くに保存する重要な要素となった。",
+        "title": "Chip Industry Technical Paper Roundup: Mar. 9",
+        "blurb": "GPU、異種メモリ、酸化物半導体、AIハードウェア等の技術論文を紹介。半導体業界の最新動向を網羅。",
         "category": "business",
-        "date": "2026-03-06",
+        "date": "2026-03-09",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/last-level-cache-has-become-a-critical-soc-design-element"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-9"
         },
         "field": {
           "primary": "logic",

@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-03-09T06:06:58.122931+09:00",
+  "generated_at": "2026-03-10T06:10:29.483778+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights",
-    "summary": "PEN eBook 2026、SiCモーター駆動、QSPICEコースなど、パワーエレクトロニクス週間の最新動向をまとめた記事。",
+    "title": "ロームとデンソー、東芝、三菱電機……国内パワー半導体再編の行方",
+    "summary": "デンソーがローム買収提案か。国内パワー半導体業界に大きな波紋が広がっている。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news060.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights",
-        "blurb": "PEN eBook 2026、SiCモーター駆動、QSPICEコースなど、パワーエレクトロニクス週間の最新動向をまとめた記事。",
-        "category": "business",
-        "date": "2026-03-07",
+        "title": "「世界最高」電力効率74.3％のGaNパワーアンプ、富士通",
+        "blurb": "富士通は、窒化ガリウム（GaN）パワーアンプで電力変換効率74.3%を達成。6G候補周波数帯での利用が期待される。",
+        "category": "company",
+        "date": "2026-03-09",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news034.html"
         },
         "field": {
           "primary": "power",
@@ -35,23 +33,26 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [],
+    "market": [
       {
-        "title": "How NVIDIA’s 800V Data Center Vision and GaN Innovation Are Re-shaping High-Density Power Delivery",
-        "blurb": "NVIDIAはデータセンター向けに800VとGaN技術を活用し、高密度電力供給を革新。EPC社が6kW 800V-12.5V DC/DCコンバーターを発表。",
+        "title": "ロームとデンソー、東芝、三菱電機……国内パワー半導体再編の行方",
+        "blurb": "デンソーがローム買収提案か。国内パワー半導体業界に大きな波紋が広がっている。",
         "category": "business",
-        "date": "2026-03-07",
+        "date": "2026-03-09",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/how-nvidias-800v-data-center-vision-and-gan-innovation-are-re-shaping-high-density-power-delivery"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news060.html"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "datacenter",
-          "industry": "fabless"
+          "market": null,
+          "industry": null
         }
       }
     ]

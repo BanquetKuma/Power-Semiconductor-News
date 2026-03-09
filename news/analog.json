@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-03-06T06:12:01.853114+09:00",
+  "generated_at": "2026-03-10T06:10:29.484362+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "25G Ethernet: Scaling Data Movement For ADAS, Industry 4.0, And 5G Systems",
-    "summary": "25Gイーサネットは、ADAS、インダストリー4.0、5Gシステム向けに、エッジシステムでのリアルタイムAI推論とテラバイト級データ処理を可能にします。",
+    "title": "Research Bits: Mar. 9",
+    "summary": "低ノイズクロック生成、オンチップ熱センサー、カーボンナノチューブ研磨紙に関する研究。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/25g-ethernet-scaling-data-movement-for-adas-industry-4-0-and-5g-systems"
+        "url": "https://semiengineering.com/research-bits-mar-9"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "25G Ethernet: Scaling Data Movement For ADAS, Industry 4.0, And 5G Systems",
-        "blurb": "25Gイーサネットは、ADAS、インダストリー4.0、5Gシステム向けに、エッジシステムでのリアルタイムAI推論とテラバイト級データ処理を可能にします。",
-        "category": "business",
-        "date": "2026-03-05",
+        "title": "100℃前後でも透過性能が高いPd水素透過膜を開発、田中貴金属",
+        "blurb": "田中貴金属が100℃前後で高透過性能のPd水素膜「HPM-L111」を開発。水素センサーや燃料電池等へ展開。",
+        "category": "company",
+        "date": "2026-03-09",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/25g-ethernet-scaling-data-movement-for-adas-industry-4-0-and-5g-systems"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news031.html"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [
+      {
+        "title": "Research Bits: Mar. 9",
+        "blurb": "低ノイズクロック生成、オンチップ熱センサー、カーボンナノチューブ研磨紙に関する研究。",
+        "category": "tools",
+        "date": "2026-03-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-mar-9"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": []
   }
 }
