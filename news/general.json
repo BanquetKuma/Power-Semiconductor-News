@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-10T06:10:29.485151+09:00",
+  "generated_at": "2026-03-11T06:11:04.548264+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Future of Semiconductors: Engineering in the Convergence era",
-    "summary": "半導体業界は数十年来最大の変革期を迎えている。エンジニアリングの未来は収束時代にある。",
+    "title": "Analog Scan: Unlocking A New Era In Mixed-Signal Test",
+    "summary": "アナログスキャン技術により、製造コストとテスト漏れを削減する効率的な混合信号テスト手法が開発された。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/the-future-of-semiconductors-engineering-in-the-convergence-era"
+        "url": "https://semiengineering.com/analog-scan-unlocking-a-new-era-in-mixed-signal-test"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "二次元半導体の折り畳み手法を開発、東京大学ら",
-        "blurb": "東大らは液滴で二重構造TMDCを作製し、モアレ構造形成を確認。二次元半導体の折り畳み手法開発に貢献。",
+        "title": "目指すは500nm RDL　太陽HDがimecと挑む次世代パッケージング材料",
+        "blurb": "太陽HDはimecと次世代パッケージング材料「FPIMシリーズ」で3層RDL形成に成功。500nmCDを目指す。",
         "category": "company",
-        "date": "2026-03-09",
+        "date": "2026-03-10",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news033.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news009.html"
         },
         "field": {
           "primary": "general",
@@ -35,17 +35,16 @@
         }
       }
     ],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "The Future of Semiconductors: Engineering in the Convergence era",
-        "blurb": "半導体業界は数十年来最大の変革期を迎えている。エンジニアリングの未来は収束時代にある。",
-        "category": "business",
-        "date": "2026-03-09",
+        "title": "Analog Scan: Unlocking A New Era In Mixed-Signal Test",
+        "blurb": "アナログスキャン技術により、製造コストとテスト漏れを削減する効率的な混合信号テスト手法が開発された。",
+        "category": "tools",
+        "date": "2026-03-10",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-future-of-semiconductors-engineering-in-the-convergence-era"
+          "url": "https://semiengineering.com/analog-scan-unlocking-a-new-era-in-mixed-signal-test"
         },
         "field": {
           "primary": "general",
@@ -56,14 +55,106 @@
         }
       },
       {
-        "title": "Data Centers In Space?",
-        "blurb": "宇宙データセンターの実現はまだ遠い。半導体業界は現時点では宇宙向け設計を急ぐ必要はない。",
-        "category": "business",
-        "date": "2026-03-09",
+        "title": "Ensuring AI Reliability: Mitigating OCP’s Silent Data Corruption Risks",
+        "blurb": "AIの信頼性確保：OCPのサイレントデータ破損リスク軽減。学習投資を守るため、破損前のマージン低下検出が重要。",
+        "category": "tools",
+        "date": "2026-03-10",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/data-centers-in-space"
+          "url": "https://semiengineering.com/ensuring-ai-reliability-mitigating-ocps-silent-data-corruption-risks"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "CD Step Application in Edge Air Layer Structure Measurement for Bulk Acoustic Resonator",
+        "blurb": "バルク音響共振器のエッジエア層構造測定にCDステップを応用した光学計測システム。",
+        "category": "tools",
+        "date": "2026-03-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/cd-step-application-in-edge-air-layer-structure-measurement-for-bulk-acoustic-resonator"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "The Petabyte Problem: How AI Is Finally Making Semiconductor Manufacturing Data Actionable",
+        "blurb": "半導体製造におけるペタバイト級のデータをAIで活用し、競争優位性を確立する。",
+        "category": "business",
+        "date": "2026-03-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-petabyte-problem-how-ai-is-finally-making-semiconductor-manufacturing-data-actionable"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Singulated Die Test Ensures Stacked Die Quality As Power Density Rises",
+        "blurb": "積層チップの電力密度上昇に伴い、個片化後の欠陥検出が重要に。チップ間接続の不具合などを特定。",
+        "category": "business",
+        "date": "2026-03-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/singulated-die-test-ensures-stacked-die-quality-as-power-density-rises"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Detecting Chemical Variability At Advanced Nodes",
+        "blurb": "先端ノードでは、従来の検査では見えない分子レベルのばらつきが歩留まり低下の原因となっている。",
+        "category": "business",
+        "date": "2026-03-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/detecting-chemical-variability-at-advanced-nodes"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How AI Is Changing Computing And Why Testing Is Critical",
+        "blurb": "AIの進化はコンピューティングを変革し、テスト戦略の重要性を高めている。特にパッケージの複雑化に伴い、より慎重なテストが不可欠となっている。",
+        "category": "business",
+        "date": "2026-03-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-ai-is-changing-computing-and-why-testing-is-critical"
         },
         "field": {
           "primary": "general",
