@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-11T06:11:09.898978+09:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-12T06:11:11.070472+09:00",
+  "date": "2026-03-12",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の高性能化と普及",
+      "name": "SiC/GaNパワー半導体の高性能化と用途拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,11 +12,11 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaN技術の進化により、高電圧・高効率化が進み、EV、データセンター、産業機器など幅広い分野での採用が加速している。",
+      "summary": "SiC・GaN技術の進化により、高電圧・高効率化が進み、EV、データセンター、産業機器など幅広い分野での採用が加速している。",
       "analysis": {
-        "short_term": "SiC/GaNデバイスの供給能力増強とコスト低減が鍵。",
-        "mid_term": "次世代パワー半導体市場の拡大が続く見込み。",
-        "investment_implications": "関連メーカーへの投資妙味が高い。"
+        "short_term": "NVIDIA、Wolfspeed、EPCなどの動向に注目。データセンター向け800V技術が先行。",
+        "mid_term": "EV向けSiCインバータの普及、再生可能エネルギー分野での需要増が期待される。",
+        "investment_implications": "SiC/GaNデバイスメーカー、関連材料・装置メーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
@@ -26,160 +26,156 @@
         "高効率"
       ],
       "companies_mentioned": [
+        "Wolfspeed",
         "NVIDIA",
         "EPC",
         "Navitas",
-        "Wolfspeed",
-        "Infineon",
-        "ROHM",
         "富士通",
-        "デンソー",
-        "三菱電機"
-      ]
-    },
-    {
-      "name": "AIによる半導体製造プロセスの高度化",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "frontend",
-        "backend",
-        "equipment",
-        "wafer",
-        "logic",
-        "memory"
-      ],
-      "summary": "AI技術が半導体製造におけるデータ分析、歩留まり改善、テスト効率化に活用され、先端プロセス開発や品質管理の精度向上に貢献している。",
-      "analysis": {
-        "short_term": "AI活用による歩留まり改善・コスト削減効果に期待。",
-        "mid_term": "AIは半導体製造の競争優位性を左右する要因に。",
-        "investment_implications": "AIソリューション提供企業やAI活用進展企業に注目。"
-      },
-      "keywords": [
-        "AI",
-        "製造データ",
-        "歩留まり",
-        "テスト",
-        "先端ノード"
-      ],
-      "companies_mentioned": [
-        "Apple",
-        "田中貴金属",
-        "東京大学",
-        "imec",
-        "FUJI"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術の重要性増大",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "logic",
-        "memory",
-        "ai",
-        "datacenter",
-        "automotive"
-      ],
-      "summary": "チップレット化や3D積層技術が進展し、高性能化・高密度化を実現する先進パッケージング技術（HBM, UCIe, RDL等）がSoC設計の鍵となっている。",
-      "analysis": {
-        "short_term": "積層チップの品質管理・テスト技術が重要。",
-        "mid_term": "パッケージング技術が性能向上のボトルネックに。",
-        "investment_implications": "先端パッケージング材料・装置メーカーに注目。"
-      },
-      "keywords": [
-        "パッケージング",
-        "チップレット",
-        "HBM",
-        "UCIe",
-        "積層チップ"
-      ],
-      "companies_mentioned": [
-        "Micron",
-        "太陽HD",
-        "imec",
-        "FUJI"
-      ]
-    },
-    {
-      "name": "車載半導体市場の継続的な成長",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "power",
-        "logic",
-        "analog",
-        "industrial"
-      ],
-      "summary": "電動化、自動運転、コネクテッド機能の進展により、車載半導体（特にパワー半導体、マイコン）の需要が拡大し続けている。",
-      "analysis": {
-        "short_term": "車載向けマイコンの供給逼迫が一部継続。",
-        "mid_term": "ADAS・電動化関連の半導体需要は堅調。",
-        "investment_implications": "車載半導体メーカーの成長が期待される。"
-      },
-      "keywords": [
-        "車載",
-        "EV",
-        "ADAS",
-        "マイコン",
-        "パワー半導体"
-      ],
-      "companies_mentioned": [
-        "ルネサス",
         "ローム",
         "デンソー",
         "三菱電機"
       ]
     },
     {
-      "name": "特殊デバイス向けウェハー技術の進化",
-      "confidence": 0.75,
+      "name": "AI・HPC向け高性能コンピューティング需要増",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "wafer",
-        "frontend",
-        "power",
-        "analog",
-        "industrial"
+        "ai",
+        "datacenter",
+        "logic",
+        "memory",
+        "fabless"
       ],
-      "summary": "特殊デバイス（パワー半導体、RFデバイス等）の需要増に伴い、ウェハーサイズの移行やプロセス制御技術の進化が求められている。",
+      "summary": "AI/HPC分野の急速な成長が、高性能CPU、GPU、メモリ、ストレージへの需要を牽引し、半導体業界全体の成長を後押ししている。",
       "analysis": {
-        "short_term": "特殊ウェハーの供給能力が課題となる可能性。",
-        "mid_term": "ウェハー技術の革新がデバイス性能を左右。",
-        "investment_implications": "特殊ウェハーメーカーや関連装置メーカーに注目。"
+        "short_term": "NVIDIA、GroqなどのAIチップ開発競争が激化。SoCのLLC重要性が増す。",
+        "mid_term": "ニューロモーフィックコンピューティングやエッジAIの普及が進む可能性。",
+        "investment_implications": "AIチップメーカー、高性能メモリ・ストレージ関連企業に注目。"
       },
       "keywords": [
-        "ウェハー",
-        "特殊デバイス",
-        "プロセス制御",
-        "パワー半導体"
+        "AI",
+        "HPC",
+        "GPU",
+        "SoC",
+        "エッジAI"
       ],
       "companies_mentioned": [
-        "ROHM",
+        "NVIDIA",
+        "Groq",
+        "Apple",
+        "Grinn",
+        "UCSD",
+        "Rutgers"
+      ]
+    },
+    {
+      "name": "半導体製造の自動化・データ駆動型最適化",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "equipment",
+        "frontend",
+        "backend",
+        "industrial",
+        "foundry"
+      ],
+      "summary": "製造プロセスの自動化、テスト・製造データの共有による歩留まり向上、データ駆動型最適化が競争優位性の鍵となっている。",
+      "analysis": {
+        "short_term": "後工程自動化、ダイ実装技術の研究開発が進展。混合信号テストの効率化。",
+        "mid_term": "AIを活用した製造プロセス最適化がさらに進むと予想される。",
+        "investment_implications": "半導体製造装置メーカー、テストソリューションプロバイダーに注目。"
+      },
+      "keywords": [
+        "自動化",
+        "歩留まり向上",
+        "データ駆動",
+        "後工程",
+        "テスト"
+      ],
+      "companies_mentioned": [
+        "FUJI",
+        "SATAS",
+        "IAR"
+      ]
+    },
+    {
+      "name": "次世代パッケージング技術の進化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "miniaturization",
+        "datacenter",
+        "ai",
+        "memory"
+      ],
+      "summary": "高密度実装、マルチダイ設計、3D積層技術の進化が、AI/HPC、データセンター向け高性能化に不可欠となっている。",
+      "analysis": {
+        "short_term": "300mm SiCウエハー検討、RDL形成技術、HBM/UCIe接続性向上が進む。",
+        "mid_term": "チップレット技術の普及と、それに対応するパッケージング技術の重要性が増す。",
+        "investment_implications": "先端パッケージング材料・装置メーカー、ファウンドリの動向を注視。"
+      },
+      "keywords": [
+        "パッケージング",
+        "3D積層",
+        "チップレット",
+        "マルチダイ",
+        "RDL"
+      ],
+      "companies_mentioned": [
         "Wolfspeed",
-        "Infineon"
+        "太陽HD",
+        "imec",
+        "Georgia Tech"
+      ]
+    },
+    {
+      "name": "車載半導体の高性能化と機能統合",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "logic",
+        "power",
+        "ai"
+      ],
+      "summary": "ADAS、自動運転、電動化の進展に伴い、車載MCU、センサー、パワー半導体の高性能化・高機能統合が進んでいる。",
+      "analysis": {
+        "short_term": "車載MCUのリアルタイム処理能力強化、AI機能統合が進む。",
+        "mid_term": "次世代EV向けパワー半導体、高信頼性センサーの需要が拡大。",
+        "investment_implications": "インフィニオン、NXPなどの車載半導体メーカーに注目。"
+      },
+      "keywords": [
+        "車載",
+        "ADAS",
+        "自動運転",
+        "MCU",
+        "電動化"
+      ],
+      "companies_mentioned": [
+        "Infineon",
+        "NXP",
+        "ローム",
+        "デンソー",
+        "三菱電機"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大",
-      "AIによる半導体製造プロセスの効率化進展",
-      "車載半導体市場の堅調な成長見通し",
-      "先端パッケージング技術への投資活発化",
-      "データセンター向け高性能メモリ需要増"
+      "世界半導体市場の堅調な成長（前年比46.1%増）",
+      "AI/HPC分野の旺盛な需要",
+      "SiC/GaNパワー半導体の用途拡大と技術進化",
+      "車載半導体市場の回復と高性能化需要"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "一部メモリ市場の価格変動リスク"
+      "日本市場のみ減少（2026年1月）"
     ],
     "neutral": [
-      "先端ロジック半導体の開発競争激化",
-      "アナログ・ミックスドシグナル分野でのテスト効率化の進展"
+      "半導体製造における歩留まり向上とデータ共有の重要性増大",
+      "次世代パッケージング技術の複雑化と課題"
     ]
   },
-  "source_count": 42
+  "source_count": 39
 }

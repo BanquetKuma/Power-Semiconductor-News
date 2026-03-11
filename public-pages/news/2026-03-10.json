@@ -1,64 +1,70 @@
 {
-  "generated_at": "2026-03-11T06:11:04.544491+09:00",
+  "generated_at": "2026-03-10T06:10:29.482712+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Releases ML-Based Motor Control Software Pack",
-    "summary": "STマイクロエレクトロニクスは、モーター制御に機械学習を統合したソフトウェアを発表。予知保全や状態監視を強化。",
+    "title": "Solid-State Transformers in the Spotlight",
+    "summary": "固体変圧器（SST）への投資が加速。Heron Power、DG Matrix、Amperesandなどの企業が巨額の資金調達に成功。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/st-releases-ml-based-motor-control-software-pack"
+        "url": "https://www.powerelectronicsnews.com/solid-state-transformers-in-the-spotlight"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "The Specialty Device Surge, Part 1: Wafer Size Transitions Are Powering The Future Of Specialty Devices And Bringing New Challenges",
-        "blurb": "特殊デバイスの需要増。ウェハーサイズの移行が将来を支える一方、プロセス制御に新たな課題が生じている。",
+        "title": "Solid-State Transformers in the Spotlight",
+        "blurb": "固体変圧器（SST）への投資が加速。Heron Power、DG Matrix、Amperesandなどの企業が巨額の資金調達に成功。",
         "category": "business",
-        "date": "2026-03-10",
+        "date": "2026-03-09",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/solid-state-transformers-in-the-spotlight"
+        },
+        "field": null
+      },
+      {
+        "title": "Russelectric Centralized Paralleling Systems for Critical Power",
+        "blurb": "Russelectricの集中型パラレルシステムは、重要施設で冗長性、制御整合性、拡張性を向上させます。",
+        "category": "business",
+        "date": "2026-03-09",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/russelectric-centralized-paralleling-systems-for-critical-power"
+        },
+        "field": null
+      },
+      {
+        "title": "Chip Industry Technical Paper Roundup: Mar. 9",
+        "blurb": "GPU、異種メモリ、酸化物半導体、AIハードウェア等の技術論文を紹介。半導体業界の最新動向を網羅。",
+        "category": "business",
+        "date": "2026-03-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-specialty-device-surge-part-1-wafer-size-transitions-are-powering-the-future-of-specialty-devices-and-bringing-new-challenges"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-9"
         },
         "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Maximize Your Revenue With High-Speed Test Performance Optimization",
-        "blurb": "テスト性能の最適化は、ウェーハの収益を大きく左右する。高速化が重要。",
+        "title": "The Future of Semiconductors: Engineering in the Convergence era",
+        "blurb": "半導体業界は数十年来最大の変革期を迎えている。エンジニアリングの未来は収束時代にある。",
         "category": "business",
-        "date": "2026-03-10",
+        "date": "2026-03-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/maximize-your-revenue-with-high-speed-test-performance-optimization"
-        },
-        "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The Petabyte Problem: How AI Is Finally Making Semiconductor Manufacturing Data Actionable",
-        "blurb": "半導体製造におけるペタバイト級のデータをAIで活用し、競争優位性を確立する。",
-        "category": "business",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-petabyte-problem-how-ai-is-finally-making-semiconductor-manufacturing-data-actionable"
+          "url": "https://semiengineering.com/the-future-of-semiconductors-engineering-in-the-convergence-era"
         },
         "field": {
           "primary": "general",
@@ -69,14 +75,14 @@
         }
       },
       {
-        "title": "Singulated Die Test Ensures Stacked Die Quality As Power Density Rises",
-        "blurb": "積層チップの電力密度上昇に伴い、個片化後の欠陥検出が重要に。チップ間接続の不具合などを特定。",
+        "title": "Data Centers In Space?",
+        "blurb": "宇宙データセンターの実現はまだ遠い。半導体業界は現時点では宇宙向け設計を急ぐ必要はない。",
         "category": "business",
-        "date": "2026-03-10",
+        "date": "2026-03-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/singulated-die-test-ensures-stacked-die-quality-as-power-density-rises"
+          "url": "https://semiengineering.com/data-centers-in-space"
         },
         "field": {
           "primary": "general",
@@ -87,40 +93,34 @@
         }
       },
       {
-        "title": "Detecting Chemical Variability At Advanced Nodes",
-        "blurb": "先端ノードでは、従来の検査では見えない分子レベルのばらつきが歩留まり低下の原因となっている。",
+        "title": "ロームとデンソー、東芝、三菱電機……国内パワー半導体再編の行方",
+        "blurb": "デンソーがローム買収提案か。国内パワー半導体業界に大きな波紋が広がっている。",
         "category": "business",
-        "date": "2026-03-10",
+        "date": "2026-03-09",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/detecting-chemical-variability-at-advanced-nodes"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news060.html"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "How AI Is Changing Computing And Why Testing Is Critical",
-        "blurb": "AIの進化はコンピューティングを変革し、テスト戦略の重要性を高めている。特にパッケージの複雑化に伴い、より慎重なテストが不可欠となっている。",
+        "title": "Analog IC longevity is an underappreciated reality",
+        "blurb": "アナログIC設計者は、古い部品でも成功実績があれば使い続ける傾向があり、これは見過ごされがちな現実である。",
         "category": "business",
-        "date": "2026-03-10",
+        "date": "2026-03-09",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-ai-is-changing-computing-and-why-testing-is-critical"
+          "name": "edn.com",
+          "url": "https://www.edn.com/analog-ic-longevity-is-an-underappreciated-reality"
         },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
         "title": "AMD Powers SolidRun's COM Express Type 6 Modules",
@@ -141,265 +141,9 @@
         }
       },
       {
-        "title": "Renault Bets On Next-Gen EVs And EREVs For Its Future",
-        "blurb": "ルノーは次世代EVとEREVに注力し、欧州市場でのEV販売拡大を目指す。",
-        "category": "business",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/789531/renault-new-evs-erev-800v-architecture"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "The New Porsche Cayenne S Electric Undercuts The Top-Spec Turbo By $36,000",
-        "blurb": "新型ポルシェ・カイエンS・エレクトリックは、ターボモデルより36,000ドル安く、ベースモデルとターボの間に位置する。",
-        "category": "business",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/789475/porsche-cayenne-s-electric-range-price-specs"
-        },
-        "field": null
-      },
-      {
-        "title": "Toyota’s New EVs Already Come With Huge Discounts",
-        "blurb": "トヨタは新型EV「bZ」「C-HR」「bZ4X」に大幅な割引を提供し、市場での魅力を高めている。",
-        "category": "business",
-        "date": "2026-03-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/789576/toyota-bz-woodland-chr-ev-special-offers"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "Power Electronics Course with QSPICE (Episode 06): Power Diodes and Rectifiers",
-        "blurb": "QSPICEを用いたパワーエレクトロニクス講座第6回。大電流を流せるパワーダイオードと整流器の電子挙動をシミュレーションで解説。",
-        "category": "tools",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-06-power-diodes-and-rectifiers"
-        },
-        "field": null
-      },
-      {
-        "title": "Analog Scan: Unlocking A New Era In Mixed-Signal Test",
-        "blurb": "アナログスキャン技術により、製造コストとテスト漏れを削減する効率的な混合信号テスト手法が開発された。",
-        "category": "tools",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/analog-scan-unlocking-a-new-era-in-mixed-signal-test"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Enabling Seamless Monitoring, Test, And Repair In Multi-Die Designs",
-        "blurb": "マルチダイ設計におけるHBMとUCIeの接続性を、フィールドでの監視、テスト、修理を可能にする技術。",
-        "category": "tools",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enabling-seamless-monitoring-test-and-repair-in-multi-die-designs"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Ensuring AI Reliability: Mitigating OCP’s Silent Data Corruption Risks",
-        "blurb": "AIの信頼性確保：OCPのサイレントデータ破損リスク軽減。学習投資を守るため、破損前のマージン低下検出が重要。",
-        "category": "tools",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ensuring-ai-reliability-mitigating-ocps-silent-data-corruption-risks"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "CD Step Application in Edge Air Layer Structure Measurement for Bulk Acoustic Resonator",
-        "blurb": "バルク音響共振器のエッジエア層構造測定にCDステップを応用した光学計測システム。",
-        "category": "tools",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cd-step-application-in-edge-air-layer-structure-measurement-for-bulk-acoustic-resonator"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Newer, shinier DMM RTDs—part 1",
-        "blurb": "DMM出力1mV/℃の補償Pt100 RTD回路。正帰還による線形化。温度安定性は次号で。",
-        "category": "tools",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/newer-shinier-dmm-rtds-part-1"
-        },
-        "field": null
-      },
-      {
-        "title": "TP-Link’s Kasa EP10: If at first it doesn’t connect, buy, buy again",
-        "blurb": "TP-LinkのスマートプラグKasa EP10の新旧世代で接続性に違い。ハードかソフトか原因究明が必要。",
-        "category": "tools",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/tp-links-kasa-ep10-if-at-first-it-doesnt-connect-buy-buy-again"
-        },
-        "field": null
-      },
-      {
-        "title": "ST Releases ML-Based Motor Control Software Pack",
-        "blurb": "STマイクロエレクトロニクスは、モーター制御に機械学習を統合したソフトウェアを発表。予知保全や状態監視を強化。",
-        "category": "tools",
-        "date": "2026-03-11",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-releases-ml-based-motor-control-software-pack"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "InfineonとSUBARUが車載マイコンで協業　統合ECUに搭載",
-        "blurb": "インフィニオンとSUBARUが次世代車向け統合ECU用マイコンで協業。インフィニオンの「AURIX TC4x」を共同開発し搭載へ。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/10/news047.html"
-        },
-        "field": null
-      },
-      {
-        "title": "後工程自動化「SATAS」、FUJIがダイ実装の研究開発",
-        "blurb": "FUJIは、半導体後工程の自動化・標準化技術研究組合（SATAS）において、ダイ実装工程の研究開発を担当。製造装置には自社製ロボット「NXTR Aモデル」を採用する。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/10/news041.html"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "IntelとSambaNova、提携の行く末――「最もあり得るシナリオ」は？",
-        "blurb": "IntelとSambaNovaの提携は、買収から出資・提携へ転換し、両社にとって幸運だった可能性が高い。今後の展開が注目される。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/10/news050.html"
-        },
-        "field": null
-      },
-      {
-        "title": "目指すは500nm RDL　太陽HDがimecと挑む次世代パッケージング材料",
-        "blurb": "太陽HDはimecと次世代パッケージング材料「FPIMシリーズ」で3層RDL形成に成功。500nmCDを目指す。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news009.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "電流印加で不安定な方位にスピンを安定化、東北大ら",
-        "blurb": "東北大らは、電流印加で不安定な方位のスピンを安定化させることに成功。制限ボルツマンマシンの動作原理への応用も期待される。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/10/news040.html"
-        },
-        "field": null
-      },
-      {
-        "title": "IAR Adds Long-Term Support Services to Development Platform",
-        "blurb": "IAR、組み込み開発プラットフォームにLTSサービスを追加。安全性が重要な分野で長期間の安定したツールチェーン維持を支援。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/iar-adds-long-term-support-services-to-development-platform"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
         "title": "ST Delivers AI-Enhanced Motor Control Software",
         "blurb": "STマイクロがAI搭載モーター制御ソフトを発表。産業用駆動装置の最適化や予知保全を容易にし、スマート化を促進。",
-        "category": "company",
+        "category": "business",
         "date": "2026-03-10",
         "stars": 3,
         "source": {
@@ -411,6 +155,118 @@
           "device": null,
           "process": null,
           "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Research Bits: Mar. 9",
+        "blurb": "低ノイズクロック生成、オンチップ熱センサー、カーボンナノチューブ研磨紙に関する研究。",
+        "category": "tools",
+        "date": "2026-03-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-mar-9"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "MATSim実践編――「あなた」というエージェントを作って散歩させてみよう",
+        "blurb": "MATSim実践編。3つのファイルで「あなた」というエージェントを作成し、自宅周辺を散歩させる方法を解説。",
+        "category": "tools",
+        "date": "2026-03-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news012.html"
+        },
+        "field": null
+      },
+      {
+        "title": "TP-Link’s Kasa EP10: If at first it doesn’t connect, buy, buy again",
+        "blurb": "TP-LinkのスマートプラグKasa EP10の世代間比較。接続問題の原因はハードウェアかソフトウェアか。",
+        "category": "tools",
+        "date": "2026-03-10",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/tp-links-kasa-ep10-if-at-first-it-doesnt-connect-buy-buy-again"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "歩留まり改善を加速、SCREEN PE初の基板リペア装置",
+        "blurb": "SCREEN PEが初の基板リペア装置「SpairD」を発表。歩留まり改善を加速し、リペア工程にソリューションを提供。",
+        "category": "company",
+        "date": "2026-03-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news041.html"
+        },
+        "field": null
+      },
+      {
+        "title": "二次元半導体の折り畳み手法を開発、東京大学ら",
+        "blurb": "東大らは液滴で二重構造TMDCを作製し、モアレ構造形成を確認。二次元半導体の折り畳み手法開発に貢献。",
+        "category": "company",
+        "date": "2026-03-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news033.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「世界最高」電力効率74.3％のGaNパワーアンプ、富士通",
+        "blurb": "富士通は、窒化ガリウム（GaN）パワーアンプで電力変換効率74.3%を達成。6G候補周波数帯での利用が期待される。",
+        "category": "company",
+        "date": "2026-03-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news034.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "100℃前後でも透過性能が高いPd水素透過膜を開発、田中貴金属",
+        "blurb": "田中貴金属が100℃前後で高透過性能のPd水素膜「HPM-L111」を開発。水素センサーや燃料電池等へ展開。",
+        "category": "company",
+        "date": "2026-03-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/09/news031.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
           "industry": null
         }
       },
@@ -429,84 +285,6 @@
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Toshiba Targets Automotive Power Safety With New Ideal Diode Controller",
-        "blurb": "東芝は、車載システムの電源安全性を高める新しいダイオードコントローラー「TPD7110F」を発表。逆電流遮断と逆接続保護機能を搭載。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/toshiba-targets-automotive-power-safety-with-new-ideal-diode-controller"
-        },
-        "field": null
-      },
-      {
-        "title": "TOPST D3-G SBC With Telechips TCC8050 And Quad DisplayPort",
-        "blurb": "TOPST D3-Gは、9コアSoC搭載の車載グレードSBC。クアッドDisplayPort、デュアルMIPI-CSI、トリプルCANバス対応。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/topst-d3-g-sbc-with-telechips-tcc8050-and-quad-displayport"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Donut Lab's Latest Solid-State Battery Test Proves It Isn't A Supercapacitor",
-        "blurb": "Donut Labの最新試験で、同社の全固体電池がスーパーキャパシタではないことが証明された。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/789455/donut-lab-solid-state-battery-supercapacitor-test"
-        },
-        "field": null
-      },
-      {
-        "title": "2027 Chevy Bolt EV Charging Test Proves GM Understood The Assignment",
-        "blurb": "2027年型シボレー・ボルトEVは、先代より大幅な充電性能向上を実現。小型EVでも長距離走行が可能であることを証明した。",
-        "category": "company",
-        "date": "2026-03-10",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/789511/2027-chevrolet-bolt-ev-charging-test-10-80"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Can This Luxurious Mercedes Electric Van Take On The American SUV?",
-        "blurb": "メルセデスが新型EVバン「VLE」を発表。高級志向で、アメリカのSUV市場への参入を目指す。",
-        "category": "company",
-        "date": "2026-03-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/789508/mercedes-vle-electric-mpv"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
           "industry": null
         }
       }
