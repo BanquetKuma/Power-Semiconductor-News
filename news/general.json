@@ -1,24 +1,42 @@
 {
-  "generated_at": "2026-03-12T06:11:05.838098+09:00",
+  "generated_at": "2026-03-13T06:11:14.974163+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Neuromorphic Computing Platform In Perovskite Nickelates (UCSD, Rutgers)",
-    "summary": "UCSDとラトガース大学の研究者が、ペロブスカイトニッケル酸塩を用いたニューロモーフィックコンピューティングプラットフォームを発表しました。",
+    "title": "iDEAL Semiconductor Introduces 200-V SuperQ MOSFETs",
+    "summary": "iDEAL Semiconductorが、高電流モーター駆動・電力変換向けの200V SuperQ MOSFETを発表。TOLLとTO-220パッケージで提供。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/neuromorphic-computing-platform-in-perovskite-nickelates-ucsd-rutgers"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/ideal-semiconductor-introduces-200-v-superq-mosfets"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "iDEAL Semiconductor Introduces 200-V SuperQ MOSFETs",
+        "blurb": "iDEAL Semiconductorが、高電流モーター駆動・電力変換向けの200V SuperQ MOSFETを発表。TOLLとTO-220パッケージで提供。",
+        "category": "company",
+        "date": "2026-03-12",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ideal-semiconductor-introduces-200-v-superq-mosfets"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Neuromorphic Computing Platform In Perovskite Nickelates (UCSD, Rutgers)",
-        "blurb": "UCSDとラトガース大学の研究者が、ペロブスカイトニッケル酸塩を用いたニューロモーフィックコンピューティングプラットフォームを発表しました。",
+        "blurb": "UCSDとラトガース大学の研究者が、ペロブスカイトニッケル酸塩を用いたニューロモルフィックコンピューティングプラットフォームを発表しました。",
         "category": "company",
         "date": "2026-03-12",
         "stars": 3,
@@ -37,14 +55,50 @@
     ],
     "tech": [
       {
-        "title": "Accelerating 4D Imaging Radar with Vision 4DR",
-        "blurb": "次世代4Dイメージングレーダーの計算需要増に対応するVision 4DR。",
+        "title": "Human-Centered Agentic AI Comes To RTL Verification",
+        "blurb": "人間中心のエージェントAIがRTL検証に導入され、エンジニアの負担軽減と重要業務への集中を支援。",
         "category": "tools",
-        "date": "2026-03-11",
+        "date": "2026-03-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/accelerating-4d-imaging-radar-with-vision-4dr"
+          "url": "https://semiengineering.com/human-centered-agentic-ai-comes-to-rtl-verification"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Rethinking Voice AI At The Edge: A Practical Offline Pipeline",
+        "blurb": "エッジでの音声AIを再考。ローカル環境外にデータを送信せず、低遅延で人間らしい対話を実現する。",
+        "category": "tools",
+        "date": "2026-03-12",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/rethinking-voice-ai-at-the-edge-a-practical-offline-pipeline"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems",
+        "blurb": "ARMシステム向けに、ピン数を最小限に抑えつつデバッグ・トレース機能へ効率的にアクセスできる2線式インターフェース「SWD」プロトコル。",
+        "category": "tools",
+        "date": "2026-03-12",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/serial-wire-debug-swd-protocol-efficient-debug-interface-for-arm-based-systems"
         },
         "field": {
           "primary": "general",
@@ -57,14 +111,14 @@
     ],
     "market": [
       {
-        "title": "Improving Yield Through Shared Data",
-        "blurb": "半導体製造における歩留まり向上には、テスト、製造、設計データの共有が不可欠である。",
+        "title": "CPO Is Extending The Limits Of What’s Possible In AI Data Centers",
+        "blurb": "AIデータセンター向けに、コパッケージドオプティクス（CPO）技術が電力効率とデータ転送コストを大幅に改善する。",
         "category": "business",
-        "date": "2026-03-11",
+        "date": "2026-03-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/improving-yield-through-shared-data"
+          "url": "https://semiengineering.com/cpo-is-extending-the-limits-of-whats-possible-in-ai-data-centers"
         },
         "field": {
           "primary": "general",
@@ -75,32 +129,14 @@
         }
       },
       {
-        "title": "Security in Data Centers for AI Applications",
-        "blurb": "AI向けデータセンターの信頼性、責任、信頼性が重要。セキュリティ対策が不可欠。",
+        "title": "Customizing Foundation IP For Ultra-Low-Voltage Designs",
+        "blurb": "超低電圧設計向けに、メモリコンパイラとロジックライブラリを電力重視の光ネットワークチップに適応させる事例。",
         "category": "business",
-        "date": "2026-03-11",
+        "date": "2026-03-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/security-in-data-centers-for-ai-applications"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "26年1月の世界半導体市場は前年比46.1％増　減少は日本のみ",
-        "blurb": "2026年1月の世界半導体市場は前年同月比46.1％増の825億ドル。日本のみ減少した。",
-        "category": "business",
-        "date": "2026-03-11",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/11/news031.html"
+          "url": "https://semiengineering.com/customizing-foundation-ip-for-ultra-low-voltage-designs"
         },
         "field": {
           "primary": "general",
@@ -112,13 +148,67 @@
       },
       {
         "title": "Data-Driven Optimization In Semiconductor Manufacturing",
-        "blurb": "半導体製造におけるデータ駆動型最適化。信頼性が競争優位性となり、その達成に必要な要素について解説。",
+        "blurb": "半導体製造におけるデータ駆動型最適化は、信頼性を競争優位性にするために不可欠です。",
         "category": "business",
         "date": "2026-03-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
           "url": "https://semiengineering.com/data-driven-optimization-in-semiconductor-manufacturing"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "乾式で電極製造のEV用液系LiB、40年に2.6兆円台へ",
+        "blurb": "富士経済によると、EV用液系LiBのドライ式電極製造市場は2040年に2.6兆円規模に達する見通し。",
+        "category": "business",
+        "date": "2026-03-12",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news050.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AIの競争軸は半導体から電力へ――日本の戦略の「死角」に",
+        "blurb": "AIの競争軸が半導体から電力へ移行。AIの計算能力拡大が電力需要を急増させ、日本の半導体戦略の死角となっている。",
+        "category": "business",
+        "date": "2026-03-12",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news033.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Arrow, NXP Partner on Secure Design",
+        "blurb": "ArrowとNXPは、EUサイバーレジリエンス法に対応するため、セキュアな製品設計を支援する提携を発表しました。",
+        "category": "business",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/arrow-nxp-partner-on-secure-design"
         },
         "field": {
           "primary": "general",

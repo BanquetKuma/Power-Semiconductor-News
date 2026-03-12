@@ -1,50 +1,48 @@
 {
-  "generated_at": "2026-03-12T06:11:05.835605+09:00",
+  "generated_at": "2026-03-13T06:11:14.971336+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Wolfspeed Explores 300 mm SiC Platform for AI Packaging",
-    "summary": "WolfspeedはAI・HPC向けパッケージングに300mm SiCウエハーを検討。次世代技術への対応を進める。",
+    "title": "Navitas Adds QDPAK and TO-247-4L for 1200 V SiC MOSFETs",
+    "summary": "Navitasは1200V SiC MOSFET向けにQDPAKとTO-247-4Lパッケージを追加。AIデータセンターや産業用電力向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/wolfspeed-explores-300-mm-sic-platform-for-ai-packaging"
+        "url": "https://www.powerelectronicsnews.com/navitas-adds-qdpak-and-to-247-4l-for-1200-v-sic-mosfets"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Wolfspeed Explores 300 mm SiC Platform for AI Packaging",
-        "blurb": "WolfspeedはAI・HPC向けパッケージングに300mm SiCウエハーを検討。次世代技術への対応を進める。",
+        "title": "Navitas Adds QDPAK and TO-247-4L for 1200 V SiC MOSFETs",
+        "blurb": "Navitasは1200V SiC MOSFET向けにQDPAKとTO-247-4Lパッケージを追加。AIデータセンターや産業用電力向け。",
         "category": "company",
-        "date": "2026-03-11",
+        "date": "2026-03-12",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wolfspeed-explores-300-mm-sic-platform-for-ai-packaging"
+          "url": "https://www.powerelectronicsnews.com/navitas-adds-qdpak-and-to-247-4l-for-1200-v-sic-mosfets"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
-      }
-    ],
-    "tech": [
+      },
       {
-        "title": "Current Source Inverter for Wound Field Synchronous Motor Drives",
-        "blurb": "巻線界磁同期電動機駆動向け電流源インバータは、中・高速用途で電圧源インバータより優位性を持つ。",
-        "category": "tools",
-        "date": "2026-03-11",
+        "title": "200-V MOSFETs cut conduction losses",
+        "blurb": "iDEAL SemiconductorがSuperQ 200V MOSFET製品群に低RDS(on)の2製品を追加し、伝導損失を削減。",
+        "category": "company",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/current-source-inverter-for-wound-field-synchronous-motor-drives"
+          "name": "edn.com",
+          "url": "https://www.edn.com/200-v-mosfets-cut-conduction-losses"
         },
         "field": {
           "primary": "power",
@@ -55,6 +53,26 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "GaN fundamentals: 2DEG, crystal structure, and figure of merit",
+        "blurb": "窒化ガリウム(GaN)は、100-650VクラスのパワーデバイスにおいてシリコンMOSFETの後継となる理由を解説。2DEG、結晶構造、性能指数に焦点を当てる。",
+        "category": "business",
+        "date": "2026-03-12",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/gan-fundamentals-2deg-crustal-structure-and-figure-of-merit"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

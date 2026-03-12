@@ -1,181 +1,167 @@
 {
-  "generated_at": "2026-03-12T06:11:11.070472+09:00",
-  "date": "2026-03-12",
+  "generated_at": "2026-03-13T06:11:20.465118+09:00",
+  "date": "2026-03-13",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の高性能化と用途拡大",
-      "confidence": 0.95,
+      "name": "SiCパワー半導体のAI・データセンター用途拡大",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
+        "ai",
         "datacenter",
-        "industrial"
+        "automotive"
       ],
-      "summary": "SiC・GaN技術の進化により、高電圧・高効率化が進み、EV、データセンター、産業機器など幅広い分野での採用が加速している。",
+      "summary": "SiC MOSFETの高性能化とパッケージ技術進化により、AIデータセンターや産業用電力、EV向けでの採用が加速しています。",
       "analysis": {
-        "short_term": "NVIDIA、Wolfspeed、EPCなどの動向に注目。データセンター向け800V技術が先行。",
-        "mid_term": "EV向けSiCインバータの普及、再生可能エネルギー分野での需要増が期待される。",
-        "investment_implications": "SiC/GaNデバイスメーカー、関連材料・装置メーカーへの投資妙味。"
+        "short_term": "需要増により供給逼迫の可能性。価格上昇圧力。",
+        "mid_term": "300mm SiCウエハーへの移行が性能とコストを改善。",
+        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
-        "GaN",
-        "EV",
+        "MOSFET",
+        "AI",
         "データセンター",
-        "高効率"
+        "EV"
       ],
       "companies_mentioned": [
-        "Wolfspeed",
-        "NVIDIA",
-        "EPC",
         "Navitas",
-        "富士通",
+        "Wolfspeed",
+        "iDEAL Semiconductor",
         "ローム",
         "デンソー",
+        "東芝",
         "三菱電機"
       ]
     },
     {
-      "name": "AI・HPC向け高性能コンピューティング需要増",
-      "confidence": 0.9,
+      "name": "エッジAIの性能・効率向上と普及",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "datacenter",
         "logic",
-        "memory",
-        "fabless"
+        "miniaturization",
+        "datacenter"
       ],
-      "summary": "AI/HPC分野の急速な成長が、高性能CPU、GPU、メモリ、ストレージへの需要を牽引し、半導体業界全体の成長を後押ししている。",
+      "summary": "エッジAIは、小型・低消費電力化が進み、IoT機器や自動運転など多様な分野での活用が拡大しています。",
       "analysis": {
-        "short_term": "NVIDIA、GroqなどのAIチップ開発競争が激化。SoCのLLC重要性が増す。",
-        "mid_term": "ニューロモーフィックコンピューティングやエッジAIの普及が進む可能性。",
-        "investment_implications": "AIチップメーカー、高性能メモリ・ストレージ関連企業に注目。"
+        "short_term": "NPU統合SoCの多様化と性能競争が激化。",
+        "mid_term": "クラウドAIとの連携・補完が進み、新たなユースケース創出。",
+        "investment_implications": "エッジAIチップ・ソリューションプロバイダーに注目。"
       },
       "keywords": [
-        "AI",
-        "HPC",
-        "GPU",
+        "エッジAI",
+        "NPU",
         "SoC",
-        "エッジAI"
+        "IoT",
+        "低遅延"
       ],
       "companies_mentioned": [
-        "NVIDIA",
-        "Groq",
-        "Apple",
         "Grinn",
-        "UCSD",
-        "Rutgers"
+        "TI",
+        "NXP",
+        "Infineon"
       ]
     },
     {
-      "name": "半導体製造の自動化・データ駆動型最適化",
-      "confidence": 0.85,
+      "name": "AIデータセンターの高速・高効率化技術",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "ai",
+        "power",
+        "equipment"
+      ],
+      "summary": "CPO技術やPCIe 6.0対応モジュールにより、データセンターの電力効率とデータ転送速度が飛躍的に向上しています。",
+      "analysis": {
+        "short_term": "CPO、光電集積モジュールの標準化と普及が鍵。",
+        "mid_term": "データセンターのインフラ投資が活発化する可能性。",
+        "investment_implications": "データセンター向け光通信・集積技術関連企業に期待。"
+      },
+      "keywords": [
+        "データセンター",
+        "CPO",
+        "PCIe 6.0",
+        "光電集積",
+        "高速通信"
+      ],
+      "companies_mentioned": [
+        "京セラ"
+      ]
+    },
+    {
+      "name": "次世代メモリ帯域幅の重要性増大",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter"
+      ],
+      "summary": "AI処理の高速化には、HBM4Eのような次世代メモリによる大幅な帯域幅向上が不可欠となっています。",
+      "analysis": {
+        "short_term": "HBM4Eの量産体制確立が焦点。",
+        "mid_term": "AIチップ性能向上とメモリ帯域幅のバランスが重要に。",
+        "investment_implications": "HBMメモリサプライヤーへの投資機会。"
+      },
+      "keywords": [
+        "HBM4E",
+        "メモリ帯域幅",
+        "AI",
+        "高速化"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "半導体製造における自動化と材料革新",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
         "equipment",
         "frontend",
         "backend",
-        "industrial",
-        "foundry"
+        "foundry",
+        "idm"
       ],
-      "summary": "製造プロセスの自動化、テスト・製造データの共有による歩留まり向上、データ駆動型最適化が競争優位性の鍵となっている。",
+      "summary": "後工程の自動化や次世代パッケージング材料の開発が進み、製造効率と信頼性の向上が図られています。",
       "analysis": {
-        "short_term": "後工程自動化、ダイ実装技術の研究開発が進展。混合信号テストの効率化。",
-        "mid_term": "AIを活用した製造プロセス最適化がさらに進むと予想される。",
-        "investment_implications": "半導体製造装置メーカー、テストソリューションプロバイダーに注目。"
+        "short_term": "後工程自動化技術の標準化と導入が進展。",
+        "mid_term": "次世代パッケージング材料がチップ性能を左右。",
+        "investment_implications": "自動化装置メーカー、材料メーカーに注目。"
       },
       "keywords": [
-        "自動化",
-        "歩留まり向上",
-        "データ駆動",
-        "後工程",
-        "テスト"
+        "後工程自動化",
+        "パッケージング",
+        "RDL",
+        "ダイ実装",
+        "imec"
       ],
       "companies_mentioned": [
         "FUJI",
-        "SATAS",
-        "IAR"
-      ]
-    },
-    {
-      "name": "次世代パッケージング技術の進化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "miniaturization",
-        "datacenter",
-        "ai",
-        "memory"
-      ],
-      "summary": "高密度実装、マルチダイ設計、3D積層技術の進化が、AI/HPC、データセンター向け高性能化に不可欠となっている。",
-      "analysis": {
-        "short_term": "300mm SiCウエハー検討、RDL形成技術、HBM/UCIe接続性向上が進む。",
-        "mid_term": "チップレット技術の普及と、それに対応するパッケージング技術の重要性が増す。",
-        "investment_implications": "先端パッケージング材料・装置メーカー、ファウンドリの動向を注視。"
-      },
-      "keywords": [
-        "パッケージング",
-        "3D積層",
-        "チップレット",
-        "マルチダイ",
-        "RDL"
-      ],
-      "companies_mentioned": [
-        "Wolfspeed",
         "太陽HD",
-        "imec",
-        "Georgia Tech"
-      ]
-    },
-    {
-      "name": "車載半導体の高性能化と機能統合",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "logic",
-        "power",
-        "ai"
-      ],
-      "summary": "ADAS、自動運転、電動化の進展に伴い、車載MCU、センサー、パワー半導体の高性能化・高機能統合が進んでいる。",
-      "analysis": {
-        "short_term": "車載MCUのリアルタイム処理能力強化、AI機能統合が進む。",
-        "mid_term": "次世代EV向けパワー半導体、高信頼性センサーの需要が拡大。",
-        "investment_implications": "インフィニオン、NXPなどの車載半導体メーカーに注目。"
-      },
-      "keywords": [
-        "車載",
-        "ADAS",
-        "自動運転",
-        "MCU",
-        "電動化"
-      ],
-      "companies_mentioned": [
-        "Infineon",
-        "NXP",
-        "ローム",
-        "デンソー",
-        "三菱電機"
+        "imec"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の堅調な成長（前年比46.1%増）",
-      "AI/HPC分野の旺盛な需要",
-      "SiC/GaNパワー半導体の用途拡大と技術進化",
-      "車載半導体市場の回復と高性能化需要"
+      "AI需要による半導体市場全体の成長加速",
+      "SiC、GaN等パワー半導体のEV・データセンター向け需要増",
+      "エッジAI市場の急速な拡大",
+      "次世代メモリ（HBM等）の需要増",
+      "データセンター向け高速通信技術への投資活発化"
     ],
     "bearish": [
-      "日本市場のみ減少（2026年1月）"
+      "地政学リスクによるサプライチェーンの不安定化",
+      "一部地域（日本）における市場の相対的低迷"
     ],
     "neutral": [
-      "半導体製造における歩留まり向上とデータ共有の重要性増大",
-      "次世代パッケージング技術の複雑化と課題"
+      "半導体製造装置市場のサイクル変動",
+      "RTL検証等、開発プロセスにおけるAI活用進展"
     ]
   },
-  "source_count": 39
+  "source_count": 43
 }

@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-03-12T06:11:05.836191+09:00",
+  "generated_at": "2026-03-13T06:11:14.971694+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "FeFETs With Laminated Gate Stacks For Radiation Resilience in Vertical NAND (Georgia Tech)",
-    "summary": "ジョージア工科大学の研究者らが、放射線耐性を持つ垂直NAND用FeFETゲートスタックを発表。AI用途の信頼性向上に期待。",
+    "title": "HBM4E Raises The Bar For AI Memory Bandwidth",
+    "summary": "AI向け次世代メモリHBM4Eが登場。AI処理の高速化に不可欠なメモリ帯域幅を大幅に向上させる。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/fefets-with-laminated-gate-stacks-for-radiation-resilience-in-vertical-nand-georgia-tech"
+        "url": "https://semiengineering.com/hbm4e-raises-the-bar-for-ai-memory-bandwidth"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "FeFETs With Laminated Gate Stacks For Radiation Resilience in Vertical NAND (Georgia Tech)",
-        "blurb": "ジョージア工科大学の研究者らが、放射線耐性を持つ垂直NAND用FeFETゲートスタックを発表。AI用途の信頼性向上に期待。",
-        "category": "company",
-        "date": "2026-03-11",
+        "title": "HBM4E Raises The Bar For AI Memory Bandwidth",
+        "blurb": "AI向け次世代メモリHBM4Eが登場。AI処理の高速化に不可欠なメモリ帯域幅を大幅に向上させる。",
+        "category": "business",
+        "date": "2026-03-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/fefets-with-laminated-gate-stacks-for-radiation-resilience-in-vertical-nand-georgia-tech"
+          "url": "https://semiengineering.com/hbm4e-raises-the-bar-for-ai-memory-bandwidth"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GigaDevice Expands Density of SPI NOR Flash",
+        "blurb": "GigaDeviceがSPI NOR Flashメモリのラインナップを8Mbから256Mbに拡充。低消費電力のAI、エッジ、バッテリー駆動機器向け。",
+        "category": "business",
+        "date": "2026-03-12",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/gigadevice-expands-density-of-spi-nor-flash"
         },
         "field": {
           "primary": "memory",
@@ -34,8 +54,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

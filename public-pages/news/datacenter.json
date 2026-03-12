@@ -1,50 +1,69 @@
 {
-  "generated_at": "2026-03-07T06:09:35.740105+09:00",
+  "generated_at": "2026-03-13T06:11:14.973282+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Micron、256GBの大容量LRDRAM SOCAMM2をサンプル出荷",
-    "summary": "Micronはデータセンター向けに256GB LPDRAM SOCAMM2のサンプル出荷を開始。従来比1.3倍の容量で、消費電力と実装面積を3分の1に削減。",
+    "title": "Scale-Up, Scale-Out Get a New Partner",
+    "summary": "データセンター間の連携を強化する「スケールアクロス」が登場。スケールアップ・アウトに続く新概念。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/06/news064.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/scale-up-scale-out-get-a-new-partner"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Micron、256GBの大容量LRDRAM SOCAMM2をサンプル出荷",
-        "blurb": "Micronはデータセンター向けに256GB LPDRAM SOCAMM2のサンプル出荷を開始。従来比1.3倍の容量で、消費電力と実装面積を3分の1に削減。",
-        "category": "business",
-        "date": "2026-03-06",
+        "title": "Sfera Labs debuts industrial Raspberry Pi edge systems",
+        "blurb": "Sfera Labsが産業用IoT・エッジ向けにRaspberry Piベースの産業用エッジサーバーとPLCを発表。",
+        "category": "company",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/06/news064.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/sfera-labs-debuts-industrial-raspberry-pi-edge-systems"
         },
         "field": {
           "primary": "datacenter",
           "device": null,
           "process": null,
           "market": "datacenter",
-          "industry": "idm"
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Scale-Up, Scale-Out Get a New Partner",
+        "blurb": "データセンター間の連携を強化する「スケールアクロス」が登場。スケールアップ・アウトに続く新概念。",
+        "category": "business",
+        "date": "2026-03-12",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scale-up-scale-out-get-a-new-partner"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
         }
       },
       {
-        "title": "Marvell Unveils 1.6T ZR/ZR+ Pluggable and 2-nm Coherent DSPs",
-        "blurb": "MarvellがAIデータセンター向けに1.6Tプラグ可能なモジュールと2nmプロセス採用のコヒーレントDSPを発表。帯域幅とセキュリティ要件に対応。",
+        "title": "PCIe 6.0対応プラガブル光電集積モジュール、京セラが開発",
+        "blurb": "京セラはPCIe 6.0対応の光電集積モジュール「OSFP-XD」を開発。データセンターの高速・大容量・省電力通信を実現。",
         "category": "business",
-        "date": "2026-03-06",
+        "date": "2026-03-12",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/marvell-unveils-1-6t-zr-zr-pluggable-and-2-nm-coherent-dsps"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news051.html"
         },
         "field": {
           "primary": "datacenter",

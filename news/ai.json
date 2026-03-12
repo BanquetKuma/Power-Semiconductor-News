@@ -1,48 +1,31 @@
 {
-  "generated_at": "2026-03-12T06:11:05.836835+09:00",
+  "generated_at": "2026-03-13T06:11:14.972903+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "「NVIDIAとGroqの取引」がAI新興にもたらした2つの効果",
-    "summary": "NVIDIAによるGroqの事実上買収が、AI半導体スタートアップに大きな影響を与えている。",
+    "title": "AI Power on the Edge",
+    "summary": "エッジAIはクラウドの代替ではなく、ハードウェア・ソフトウェア・モデルの共同開発問題である。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/11/news064.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/ai-power-on-the-edge"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "「NVIDIAとGroqの取引」がAI新興にもたらした2つの効果",
-        "blurb": "NVIDIAによるGroqの事実上買収が、AI半導体スタートアップに大きな影響を与えている。",
-        "category": "company",
-        "date": "2026-03-11",
+        "title": "AI Power on the Edge",
+        "blurb": "エッジAIはクラウドの代替ではなく、ハードウェア・ソフトウェア・モデルの共同開発問題である。",
+        "category": "tools",
+        "date": "2026-03-12",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/11/news064.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "「世界最小」25×25mmの1TOPS エッジAI SoM",
-        "blurb": "Grinnが世界最小25×25mmのエッジAI SoM「Grinn AstraSOM-261x」を開発。組み込み技術展で公開し、小型化と効率性の新基準を目指す。",
-        "category": "company",
-        "date": "2026-03-11",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/11/news061.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-power-on-the-edge"
         },
         "field": {
           "primary": "ai",
@@ -53,7 +36,6 @@
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }
