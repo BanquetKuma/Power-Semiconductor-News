@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-03-13T06:11:14.973282+09:00",
+  "generated_at": "2026-03-14T06:11:08.465545+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Scale-Up, Scale-Out Get a New Partner",
-    "summary": "データセンター間の連携を強化する「スケールアクロス」が登場。スケールアップ・アウトに続く新概念。",
+    "title": "200GHz動作の受光素子、NTTが開発　次世代光通信の基盤に",
+    "summary": "NTTが200GHz級の次世代光通信向け受光素子を開発。3.2Tb/s通信の基盤となる。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/scale-up-scale-out-get-a-new-partner"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news057.html"
       }
     ]
   },
   "sections": {
     "news": [
+      {
+        "title": "200GHz動作の受光素子、NTTが開発　次世代光通信の基盤に",
+        "blurb": "NTTが200GHz級の次世代光通信向け受光素子を開発。3.2Tb/s通信の基盤となる。",
+        "category": "company",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news057.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
       {
         "title": "Sfera Labs debuts industrial Raspberry Pi edge systems",
         "blurb": "Sfera Labsが産業用IoT・エッジ向けにRaspberry Piベースの産業用エッジサーバーとPLCを発表。",
@@ -35,17 +53,16 @@
         }
       }
     ],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Scale-Up, Scale-Out Get a New Partner",
-        "blurb": "データセンター間の連携を強化する「スケールアクロス」が登場。スケールアップ・アウトに続く新概念。",
-        "category": "business",
-        "date": "2026-03-12",
+        "title": "Designing the voice AI stack: Integrating spatial hearing AI with edge-based intent gating",
+        "blurb": "ハイブリッド音声AIは、オンデバイス処理とクラウド推論を組み合わせ、信頼性の高いスマートホーム音声制御を実現します。",
+        "category": "tools",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scale-up-scale-out-get-a-new-partner"
+          "name": "edn.com",
+          "url": "https://www.edn.com/designing-the-voice-ai-stack-integrating-spatial-hearing-ai-with-edge-based-intent-gating"
         },
         "field": {
           "primary": "datacenter",
@@ -54,23 +71,25 @@
           "market": "datacenter",
           "industry": null
         }
-      },
+      }
+    ],
+    "market": [
       {
-        "title": "PCIe 6.0対応プラガブル光電集積モジュール、京セラが開発",
-        "blurb": "京セラはPCIe 6.0対応の光電集積モジュール「OSFP-XD」を開発。データセンターの高速・大容量・省電力通信を実現。",
+        "title": "Silicon Motion Introduces PCIe Gen5 SSD Controller",
+        "blurb": "Silicon Motionがデータセンター向けPCIe Gen5 SSDコントローラー「SM8008」を発表。電力効率と性能を重視。",
         "category": "business",
-        "date": "2026-03-12",
+        "date": "2026-03-14",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news051.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/silicon-motion-introduces-pcie-gen5-ssd-controller"
         },
         "field": {
           "primary": "datacenter",
           "device": null,
           "process": null,
           "market": "datacenter",
-          "industry": null
+          "industry": "foundry"
         }
       }
     ]

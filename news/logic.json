@@ -1,96 +1,24 @@
 {
-  "generated_at": "2026-03-13T06:11:14.972238+09:00",
+  "generated_at": "2026-03-14T06:11:08.465106+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Corner: Empower Semiconductor CEO Tim Phillips on Closing the Gap Between Power and Processor",
-    "summary": "Empower SemiconductorのCEOが、同社のCrescendoプラットフォームが電力とプロセッサのギャップを埋める方法について語る。",
+    "title": "TinyEngine NPU powers AI in TI MCUs",
+    "summary": "TIのMCUにTinyEngine NPUが統合され、エッジAIが効率化。IoT機器などへの応用が期待される。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-corner-empower-semiconductor-ceo-tim-phillips-on-closing-the-gap-between-power-and-processor"
+        "name": "edn.com",
+        "url": "https://www.edn.com/tinyengine-npu-powers-ai-in-ti-mcus"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Power Corner: Empower Semiconductor CEO Tim Phillips on Closing the Gap Between Power and Processor",
-        "blurb": "Empower SemiconductorのCEOが、同社のCrescendoプラットフォームが電力とプロセッサのギャップを埋める方法について語る。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-empower-semiconductor-ceo-tim-phillips-on-closing-the-gap-between-power-and-processor"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Digi Launches SOM Platform for Connected Products",
-        "blurb": "Digi InternationalがNXP製プロセッサ搭載の統合プラットフォーム「Digi ConnectCore 95」を発表。IoTデバイス開発向け。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/digi-launches-som-platform-for-connected-products"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "STMicroelectronics Introduces Entry-Level MCU Series for Smart Devices",
-        "blurb": "STマイクロエレクトロニクスが、低コスト設計向けの新MCUシリーズ「STM32C5」を発表。Arm Cortex-M33搭載。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/stmicroelectronics-introduces-entry-level-mcu-series-for-smart-devices"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Telink ML9118A RISC-V IoT Module with Wi-Fi 6 and Matter",
-        "blurb": "TelinkがWi-Fi 6とMatter対応のRISC-V IoTモジュールML9118Aを発表。トリプル無線搭載。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/telink-ml9118a-risc-v-iot-module-with-wi-fi-6-and-matter"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
         "title": "TinyEngine NPU powers AI in TI MCUs",
-        "blurb": "TIのMCUにTinyEngine NPUが統合され、エッジAIが効率化。IoT機器などへのAI実装が進む。",
+        "blurb": "TIのMCUにTinyEngine NPUが統合され、エッジAIが効率化。IoT機器などへの応用が期待される。",
         "category": "company",
         "date": "2026-03-13",
         "stars": 3,
@@ -108,7 +36,7 @@
       },
       {
         "title": "Edge AI SoC integrates tri-radio",
-        "blurb": "NXPのi.MX 93Wは、AI推論用NPUと3つの無線通信機能を統合したSoC。エッジAI用途に最適。",
+        "blurb": "NXPのi.MX 93Wは、AI処理用NPUと無線通信機能を統合したSoC。IoT機器の省電力化と高機能化に貢献。",
         "category": "company",
         "date": "2026-03-13",
         "stars": 3,
@@ -126,7 +54,7 @@
       },
       {
         "title": "MediaTek Unveils Genio Chipsets for IoT",
-        "blurb": "MediaTekがIoT向け新チップセット「Genio」を発表。高性能IoT機器や組み込み機器をターゲットに、Genio Pro、Genio 420、Genio 360などを展開。",
+        "blurb": "MediaTekがIoT向け新チップセット「Genio」を発表。高性能から汎用まで幅広い製品に対応。",
         "category": "company",
         "date": "2026-03-13",
         "stars": 3,

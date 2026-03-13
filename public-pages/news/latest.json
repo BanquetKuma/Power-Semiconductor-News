@@ -1,190 +1,58 @@
 {
-  "generated_at": "2026-03-13T06:11:14.969444+09:00",
+  "generated_at": "2026-03-14T06:11:08.463091+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Navitas Adds QDPAK and TO-247-4L for 1200 V SiC MOSFETs",
-    "summary": "Navitasは1200V SiC MOSFET向けにQDPAKとTO-247-4Lパッケージを追加。AIデータセンターや産業用電力向け。",
+    "title": "Panasonic Introduces FineX Transparent EMI Shielding Film",
+    "summary": "パナソニックが、高透明・低抵抗・柔軟な電磁波シールドフィルム「FineX」を発表。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/navitas-adds-qdpak-and-to-247-4l-for-1200-v-sic-mosfets"
+        "url": "https://www.powerelectronicsnews.com/panasonic-introduces-finex-transparent-emi-shielding-film"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "HBM4E Raises The Bar For AI Memory Bandwidth",
-        "blurb": "AI向け次世代メモリHBM4Eが登場。AI処理の高速化に不可欠なメモリ帯域幅を大幅に向上させる。",
+        "title": "Innovations in Grid-to-Rack Make Data Centers More Efficient",
+        "blurb": "データセンターの電力伝送効率を向上させるグリッド・トゥ・ラック技術の革新について解説。電力損失を低減し、効率を高める。",
         "category": "business",
-        "date": "2026-03-12",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hbm4e-raises-the-bar-for-ai-memory-bandwidth"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/innovations-in-grid-to-rack-make-data-centers-more-efficient"
         },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "CPO Is Extending The Limits Of What’s Possible In AI Data Centers",
-        "blurb": "AIデータセンター向けに、コパッケージドオプティクス（CPO）技術が電力効率とデータ転送コストを大幅に改善する。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の最新動向：サブ1nm準備、イラン情勢の影響、Embedded World発表、日本での生産拡大、ファウンドリランキングなど。",
         "category": "business",
-        "date": "2026-03-12",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cpo-is-extending-the-limits-of-whats-possible-in-ai-data-centers"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-129"
         },
         "field": {
-          "primary": "general",
+          "primary": "foundry",
           "device": null,
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "foundry"
         }
       },
       {
-        "title": "Scale-Up, Scale-Out Get a New Partner",
-        "blurb": "データセンター間の連携を強化する「スケールアクロス」が登場。スケールアップ・アウトに続く新概念。",
+        "title": "ロームと東芝、半導体事業の提携強化へ「協議を継続中」",
+        "blurb": "ロームと東芝はパワー半導体事業の提携強化に向け協議中。報道は否定しつつ、様々な選択肢を継続協議。",
         "category": "business",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scale-up-scale-out-get-a-new-partner"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Customizing Foundation IP For Ultra-Low-Voltage Designs",
-        "blurb": "超低電圧設計向けに、メモリコンパイラとロジックライブラリを電力重視の光ネットワークチップに適応させる事例。",
-        "category": "business",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/customizing-foundation-ip-for-ultra-low-voltage-designs"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Data-Driven Optimization In Semiconductor Manufacturing",
-        "blurb": "半導体製造におけるデータ駆動型最適化は、信頼性を競争優位性にするために不可欠です。",
-        "category": "business",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/data-driven-optimization-in-semiconductor-manufacturing"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "POL-LESS構造OLED、26年から急成長　Samsungも採用",
-        "blurb": "偏光板レスOLEDは2026年から急成長し、2032年には2億4400万台に達する見込み。Samsungも採用。",
-        "category": "business",
-        "date": "2026-03-12",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news083.html"
-        },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "乾式で電極製造のEV用液系LiB、40年に2.6兆円台へ",
-        "blurb": "富士経済によると、EV用液系LiBのドライ式電極製造市場は2040年に2.6兆円規模に達する見通し。",
-        "category": "business",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news050.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AIの競争軸は半導体から電力へ――日本の戦略の「死角」に",
-        "blurb": "AIの競争軸が半導体から電力へ移行。AIの計算能力拡大が電力需要を急増させ、日本の半導体戦略の死角となっている。",
-        "category": "business",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news033.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "PCIe 6.0対応プラガブル光電集積モジュール、京セラが開発",
-        "blurb": "京セラはPCIe 6.0対応の光電集積モジュール「OSFP-XD」を開発。データセンターの高速・大容量・省電力通信を実現。",
-        "category": "business",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news051.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "GaN fundamentals: 2DEG, crystal structure, and figure of merit",
-        "blurb": "窒化ガリウム(GaN)は、100-650VクラスのパワーデバイスにおいてシリコンMOSFETの後継となる理由を解説。2DEG、結晶構造、性能指数に焦点を当てる。",
-        "category": "business",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/gan-fundamentals-2deg-crustal-structure-and-figure-of-merit"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news090.html"
         },
         "field": {
           "primary": "power",
@@ -195,14 +63,32 @@
         }
       },
       {
-        "title": "GigaDevice Expands Density of SPI NOR Flash",
-        "blurb": "GigaDeviceがSPI NOR Flashメモリのラインナップを8Mbから256Mbに拡充。低消費電力のAI、エッジ、バッテリー駆動機器向け。",
+        "title": "ダイヤモンドMOSFETで初の200V、1AのSW動作を達成",
+        "blurb": "Power Diamond Systemsが、耐圧550VのダイヤモンドMOSFETで200V、1Aのスイッチング動作を初達成しました。",
         "category": "business",
-        "date": "2026-03-12",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/gigadevice-expands-density-of-spi-nor-flash"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news039.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI/HPCシステムのメモリ/ストレージ階層とHBMの高性能化",
+        "blurb": "IEDM 2025でTSMCが講演。AI/HPCシステムにおけるメモリ帯域幅拡張性とHBMの高性能化について解説。",
+        "category": "business",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news055.html"
         },
         "field": {
           "primary": "memory",
@@ -211,30 +97,6 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "Bluetooth LE HDT: Rohde & Schwarz and Realtek Showcase Test Solution",
-        "blurb": "ローデ・シュワルツとリアルテックが、Bluetooth LE HDTの業界初テストソリューションを実証。データレートを7.5Mbpsに向上。",
-        "category": "business",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/bluetooth-le-hdt-rohde-schwarz-and-realtek-showcase-test-solution"
-        },
-        "field": null
-      },
-      {
-        "title": "Low-cost MCUs enable smarter embedded devices",
-        "blurb": "ST社の低コストMCU「STM32C5」は、Arm Cortex-M33コア搭載で高速化を実現し、コスト重視の組み込み機器をよりスマートにします。",
-        "category": "business",
-        "date": "2026-03-13",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/low-cost-mcus-enable-smarter-embedded-devices"
-        },
-        "field": null
       },
       {
         "title": "Arrow, NXP Partner on Secure Design",
@@ -253,290 +115,140 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Human-Centered Agentic AI Comes To RTL Verification",
-        "blurb": "人間中心のエージェントAIがRTL検証に導入され、エンジニアの負担軽減と重要業務への集中を支援。",
-        "category": "tools",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/human-centered-agentic-ai-comes-to-rtl-verification"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       },
       {
-        "title": "Rethinking Voice AI At The Edge: A Practical Offline Pipeline",
-        "blurb": "エッジでの音声AIを再考。ローカル環境外にデータを送信せず、低遅延で人間らしい対話を実現する。",
-        "category": "tools",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rethinking-voice-ai-at-the-edge-a-practical-offline-pipeline"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Serial Wire Debug (SWD) Protocol: Efficient Debug Interface For Arm-Based Systems",
-        "blurb": "ARMシステム向けに、ピン数を最小限に抑えつつデバッグ・トレース機能へ効率的にアクセスできる2線式インターフェース「SWD」プロトコル。",
-        "category": "tools",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/serial-wire-debug-swd-protocol-efficient-debug-interface-for-arm-based-systems"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI Power on the Edge",
-        "blurb": "エッジAIはクラウドの代替ではなく、ハードウェア・ソフトウェア・モデルの共同開発問題である。",
-        "category": "tools",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-power-on-the-edge"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "A long-ago blow leads to water overflow: Who could know?",
-        "blurb": "過去の衝撃が原因で水漏れが発生。電子回路の内部短絡に例えられる事象。",
-        "category": "tools",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-long-ago-blow-leads-to-water-overflow-who-could-know"
-        },
-        "field": null
-      },
-      {
-        "title": "On-Device Voice AI: Turning Speech into the New Keyboard",
-        "blurb": "オンデバイス音声AIが進化し、音声が新たなキーボードとなる。小型言語モデル（SLM）がその推進力となっている。",
-        "category": "tools",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/on-device-voice-ai-turning-speech-into-the-new-keyboard"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Navitas Adds QDPAK and TO-247-4L for 1200 V SiC MOSFETs",
-        "blurb": "Navitasは1200V SiC MOSFET向けにQDPAKとTO-247-4Lパッケージを追加。AIデータセンターや産業用電力向け。",
-        "category": "company",
-        "date": "2026-03-12",
+        "title": "Solid-State Transformers, Current Source Inverter in Motor Drives, Innovations in Grid-to-Rack: Power Electronics Week Insights",
+        "blurb": "パワーエレクトロニクス週間の最新動向：固体ステートトランス、モーター駆動用電流源インバータ、グリッド・トゥ・ラック技術の革新について解説。",
+        "category": "business",
+        "date": "2026-03-14",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-adds-qdpak-and-to-247-4l-for-1200-v-sic-mosfets"
+          "url": "https://www.powerelectronicsnews.com/solid-state-transformers-current-source-inverter-in-motor-drives-innovations-in-grid-to-rack-power-electronics-week-insights"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Power Corner: Empower Semiconductor CEO Tim Phillips on Closing the Gap Between Power and Processor",
-        "blurb": "Empower SemiconductorのCEOが、同社のCrescendoプラットフォームが電力とプロセッサのギャップを埋める方法について語る。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-empower-semiconductor-ceo-tim-phillips-on-closing-the-gap-between-power-and-processor"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "iDEAL Semiconductor Introduces 200-V SuperQ MOSFETs",
-        "blurb": "iDEAL Semiconductorが、高電流モーター駆動・電力変換向けの200V SuperQ MOSFETを発表。TOLLとTO-220パッケージで提供。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/ideal-semiconductor-introduces-200-v-superq-mosfets"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Neuromorphic Computing Platform In Perovskite Nickelates (UCSD, Rutgers)",
-        "blurb": "UCSDとラトガース大学の研究者が、ペロブスカイトニッケル酸塩を用いたニューロモルフィックコンピューティングプラットフォームを発表しました。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/neuromorphic-computing-platform-in-perovskite-nickelates-ucsd-rutgers"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "JDI、車載ディスプレイ事業分割を中止「中長期的に最善」",
-        "blurb": "ジャパンディスプレイは車載ディスプレイ事業を分割する計画を中止。中長期的に最善と判断。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news106.html"
-        },
-        "field": null
-      },
-      {
-        "title": "日本政府支援もフィジカルAIに軸足へ　「アナログ／レガシーも重要」",
-        "blurb": "日本政府もAIの軸足をフィジカルAIへ。数年後にはAI搭載ロボットが主流になる可能性。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news100.html"
-        },
-        "field": null
-      },
-      {
-        "title": "カメラベースで雪道をハンズオフ走行、SUBARUとInfineon協業の意義",
-        "blurb": "SUBARUはInfineonの車載MCUを採用。カメラのみで雪道をハンズオフ走行するプロトタイプを公開した。",
-        "category": "company",
-        "date": "2026-03-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news067.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Digi Launches SOM Platform for Connected Products",
-        "blurb": "Digi InternationalがNXP製プロセッサ搭載の統合プラットフォーム「Digi ConnectCore 95」を発表。IoTデバイス開発向け。",
-        "category": "company",
-        "date": "2026-03-12",
+        "title": "Silicon Motion Introduces PCIe Gen5 SSD Controller",
+        "blurb": "Silicon Motionがデータセンター向けPCIe Gen5 SSDコントローラー「SM8008」を発表。電力効率と性能を重視。",
+        "category": "business",
+        "date": "2026-03-14",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/digi-launches-som-platform-for-connected-products"
+          "url": "https://www.embedded.com/silicon-motion-introduces-pcie-gen5-ssd-controller"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": "foundry"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Balun transformers: Linking balanced to unbalanced",
+        "blurb": "バルトランスはRF・高周波設計でインピーダンス整合、信号歪み抑制、コモンモードノイズ低減を可能にする。",
+        "category": "tools",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/balun-transformers-linking-balanced-to-unbalanced"
+        },
+        "field": null
+      },
+      {
+        "title": "Designing the voice AI stack: Integrating spatial hearing AI with edge-based intent gating",
+        "blurb": "ハイブリッド音声AIは、オンデバイス処理とクラウド推論を組み合わせ、信頼性の高いスマートホーム音声制御を実現します。",
+        "category": "tools",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/designing-the-voice-ai-stack-integrating-spatial-hearing-ai-with-edge-based-intent-gating"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
           "process": null,
           "market": "datacenter",
           "industry": null
         }
       },
       {
-        "title": "Renesas 365 Development Platform Supports RA MCUs",
-        "blurb": "ルネサス、組み込み開発プラットフォーム「Renesas 365」を発表。RAマイクロコントローラをサポートし、開発効率向上へ。",
-        "category": "company",
-        "date": "2026-03-12",
+        "title": "Low-cost MCUs enable smarter embedded devices",
+        "blurb": "ST社の低コストMCU「STM32C5」は、Arm Cortex-M33コア搭載で、コスト重視の組み込み機器の性能向上を実現。",
+        "category": "tools",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/renesas-365-development-platform-supports-ra-mcus"
+          "name": "edn.com",
+          "url": "https://www.edn.com/low-cost-mcus-enable-smarter-embedded-devices"
         },
         "field": null
       },
       {
-        "title": "STMicroelectronics Introduces Entry-Level MCU Series for Smart Devices",
-        "blurb": "STマイクロエレクトロニクスが、低コスト設計向けの新MCUシリーズ「STM32C5」を発表。Arm Cortex-M33搭載。",
-        "category": "company",
-        "date": "2026-03-12",
+        "title": "Qualinx's Digital RF Architecture Simplifies GNSS Chip Design",
+        "blurb": "QualinxのデジタルRFアーキテクチャは、GNSSチップ設計を簡素化し、機能統合を向上させる。",
+        "category": "tools",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/stmicroelectronics-introduces-entry-level-mcu-series-for-smart-devices"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/qualinxs-digital-rf-architecture-simplifies-gnss-chip-design"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "company": [
       {
-        "title": "Telink ML9118A RISC-V IoT Module with Wi-Fi 6 and Matter",
-        "blurb": "TelinkがWi-Fi 6とMatter対応のRISC-V IoTモジュールML9118Aを発表。トリプル無線搭載。",
+        "title": "200GHz動作の受光素子、NTTが開発　次世代光通信の基盤に",
+        "blurb": "NTTが200GHz級の次世代光通信向け受光素子を開発。3.2Tb/s通信の基盤となる。",
         "category": "company",
-        "date": "2026-03-12",
+        "date": "2026-03-13",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/telink-ml9118a-risc-v-iot-module-with-wi-fi-6-and-matter"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news057.html"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "datacenter",
+          "device": null,
           "process": null,
-          "market": "industrial",
+          "market": "datacenter",
           "industry": null
         }
       },
       {
+        "title": "廃太陽光パネルガラスをLiBの電極材料に転換、日本大ら",
+        "blurb": "日大らの研究グループは、廃太陽光パネルのガラスをリチウムイオン電池の電極材料に転換する技術を開発した。",
+        "category": "company",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news033.html"
+        },
+        "field": null
+      },
+      {
         "title": "TinyEngine NPU powers AI in TI MCUs",
-        "blurb": "TIのMCUにTinyEngine NPUが統合され、エッジAIが効率化。IoT機器などへのAI実装が進む。",
+        "blurb": "TIのMCUにTinyEngine NPUが統合され、エッジAIが効率化。IoT機器などへの応用が期待される。",
         "category": "company",
         "date": "2026-03-13",
         "stars": 3,
@@ -554,7 +266,7 @@
       },
       {
         "title": "Edge AI SoC integrates tri-radio",
-        "blurb": "NXPのi.MX 93Wは、AI推論用NPUと3つの無線通信機能を統合したSoC。エッジAI用途に最適。",
+        "blurb": "NXPのi.MX 93Wは、AI処理用NPUと無線通信機能を統合したSoC。IoT機器の省電力化と高機能化に貢献。",
         "category": "company",
         "date": "2026-03-13",
         "stars": 3,
@@ -608,7 +320,7 @@
       },
       {
         "title": "MediaTek Unveils Genio Chipsets for IoT",
-        "blurb": "MediaTekがIoT向け新チップセット「Genio」を発表。高性能IoT機器や組み込み機器をターゲットに、Genio Pro、Genio 420、Genio 360などを展開。",
+        "blurb": "MediaTekがIoT向け新チップセット「Genio」を発表。高性能から汎用まで幅広い製品に対応。",
         "category": "company",
         "date": "2026-03-13",
         "stars": 3,
@@ -623,6 +335,30 @@
           "market": "industrial",
           "industry": "fabless"
         }
+      },
+      {
+        "title": "Panasonic Introduces FineX Transparent EMI Shielding Film",
+        "blurb": "パナソニックが、高透明・低抵抗・柔軟な電磁波シールドフィルム「FineX」を発表。",
+        "category": "company",
+        "date": "2026-03-14",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/panasonic-introduces-finex-transparent-emi-shielding-film"
+        },
+        "field": null
+      },
+      {
+        "title": "Embedded World, On-Device Voice AI, Digi Acquires Particle: Embedded Week Insights",
+        "blurb": "Embedded Worldでの新技術、オンデバイス音声AI、DigiによるParticle買収など、組み込み業界の最新動向をまとめた週刊インサイト。",
+        "category": "company",
+        "date": "2026-03-14",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/embedded-world-on-device-voice-ai-digi-acquires-particle-embedded-week-insights"
+        },
+        "field": null
       }
     ],
     "sns": []

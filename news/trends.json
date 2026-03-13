@@ -1,167 +1,157 @@
 {
-  "generated_at": "2026-03-13T06:11:20.465118+09:00",
-  "date": "2026-03-13",
+  "generated_at": "2026-03-14T06:11:14.506968+09:00",
+  "date": "2026-03-14",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体のAI・データセンター用途拡大",
-      "confidence": 0.9,
+      "name": "SiCパワー半導体の高性能化と普及",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "ai",
+        "automotive",
         "datacenter",
-        "automotive"
+        "industrial"
       ],
-      "summary": "SiC MOSFETの高性能化とパッケージ技術進化により、AIデータセンターや産業用電力、EV向けでの採用が加速しています。",
+      "summary": "SiC MOSFETの高性能化（高耐圧、高電流）とパッケージ技術の進化が進み、EV、データセンター、産業機器での採用が拡大している。",
       "analysis": {
-        "short_term": "需要増により供給逼迫の可能性。価格上昇圧力。",
-        "mid_term": "300mm SiCウエハーへの移行が性能とコストを改善。",
+        "short_term": "SiCウェハ供給逼迫の可能性。新パッケージ技術が注目。",
+        "mid_term": "量産効果によるコスト低下と用途拡大が加速。",
         "investment_implications": "SiC材料・デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
         "MOSFET",
-        "AI",
-        "データセンター",
-        "EV"
+        "EV",
+        "データセンター"
       ],
       "companies_mentioned": [
         "Navitas",
         "Wolfspeed",
         "iDEAL Semiconductor",
         "ローム",
-        "デンソー",
         "東芝",
-        "三菱電機"
+        "Power Diamond Systems"
       ]
     },
     {
-      "name": "エッジAIの性能・効率向上と普及",
+      "name": "AI向け高性能メモリ・インターコネクト需要増",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter",
+        "logic"
+      ],
+      "summary": "AI/HPCの計算能力向上に伴い、HBM4Eのような次世代メモリや、CPO、光通信技術による高速・大容量データ転送が不可欠になっている。",
+      "analysis": {
+        "short_term": "HBM4Eの性能向上と量産体制構築が焦点。",
+        "mid_term": "データセンターのインフラ投資がメモリ・インターコネクト分野を牽引。",
+        "investment_implications": "HBM、光通信関連技術への投資機会。"
+      },
+      "keywords": [
+        "AI",
+        "HBM",
+        "CPO",
+        "光通信"
+      ],
+      "companies_mentioned": [
+        "TSMC",
+        "NTT",
+        "京セラ"
+      ]
+    },
+    {
+      "name": "エッジAIのハードウェア・ソフトウェア最適化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
-        "miniaturization",
-        "datacenter"
+        "analog",
+        "miniaturization"
       ],
-      "summary": "エッジAIは、小型・低消費電力化が進み、IoT機器や自動運転など多様な分野での活用が拡大しています。",
+      "summary": "エッジAIでは、低遅延、低消費電力、プライバシー保護のため、ハードウェア（SoM、MCU）とソフトウェア（オフラインパイプライン）の共同開発が重要になっている。",
       "analysis": {
-        "short_term": "NPU統合SoCの多様化と性能競争が激化。",
-        "mid_term": "クラウドAIとの連携・補完が進み、新たなユースケース創出。",
-        "investment_implications": "エッジAIチップ・ソリューションプロバイダーに注目。"
+        "short_term": "小型・高効率なエッジAI SoMの登場が注目される。",
+        "mid_term": "ハードウェアとAIモデルの最適化が進み、多様なエッジ応用が実現。",
+        "investment_implications": "エッジAIチップ、組み込みシステム関連への投資。"
       },
       "keywords": [
         "エッジAI",
-        "NPU",
-        "SoC",
-        "IoT",
+        "SoM",
+        "オフライン音声AI",
         "低遅延"
       ],
       "companies_mentioned": [
+        "Empower Semiconductor",
         "Grinn",
-        "TI",
-        "NXP",
         "Infineon"
       ]
     },
     {
-      "name": "AIデータセンターの高速・高効率化技術",
+      "name": "AI計算能力拡大と電力インフラの重要性",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
         "ai",
         "power",
-        "equipment"
+        "datacenter",
+        "geopolitics"
       ],
-      "summary": "CPO技術やPCIe 6.0対応モジュールにより、データセンターの電力効率とデータ転送速度が飛躍的に向上しています。",
+      "summary": "AIの計算能力向上は膨大な電力需要を生み出し、電力供給能力がAI開発・展開のボトルネックとなる可能性。電力インフラへの投資が重要視される。",
       "analysis": {
-        "short_term": "CPO、光電集積モジュールの標準化と普及が鍵。",
-        "mid_term": "データセンターのインフラ投資が活発化する可能性。",
-        "investment_implications": "データセンター向け光通信・集積技術関連企業に期待。"
+        "short_term": "電力不足懸念が一部地域で顕在化する可能性。",
+        "mid_term": "電力効率の高い半導体技術と、安定した電力供給網の構築が急務。",
+        "investment_implications": "電力インフラ、高効率電源技術への投資。"
       },
       "keywords": [
-        "データセンター",
-        "CPO",
-        "PCIe 6.0",
-        "光電集積",
-        "高速通信"
-      ],
-      "companies_mentioned": [
-        "京セラ"
-      ]
-    },
-    {
-      "name": "次世代メモリ帯域幅の重要性増大",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "memory",
-        "ai",
-        "datacenter"
-      ],
-      "summary": "AI処理の高速化には、HBM4Eのような次世代メモリによる大幅な帯域幅向上が不可欠となっています。",
-      "analysis": {
-        "short_term": "HBM4Eの量産体制確立が焦点。",
-        "mid_term": "AIチップ性能向上とメモリ帯域幅のバランスが重要に。",
-        "investment_implications": "HBMメモリサプライヤーへの投資機会。"
-      },
-      "keywords": [
-        "HBM4E",
-        "メモリ帯域幅",
         "AI",
-        "高速化"
+        "電力",
+        "データセンター",
+        "計算能力"
       ],
       "companies_mentioned": []
     },
     {
-      "name": "半導体製造における自動化と材料革新",
-      "confidence": 0.7,
+      "name": "半導体製造装置・後工程の自動化・効率化",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "equipment",
         "frontend",
         "backend",
-        "foundry",
-        "idm"
+        "foundry"
       ],
-      "summary": "後工程の自動化や次世代パッケージング材料の開発が進み、製造効率と信頼性の向上が図られています。",
+      "summary": "半導体製造の自動化・標準化が進み、特に後工程におけるダイ実装などの効率化が求められている。製造装置メーカーの技術革新が鍵となる。",
       "analysis": {
-        "short_term": "後工程自動化技術の標準化と導入が進展。",
-        "mid_term": "次世代パッケージング材料がチップ性能を左右。",
-        "investment_implications": "自動化装置メーカー、材料メーカーに注目。"
+        "short_term": "後工程自動化技術の研究開発が活発化。",
+        "mid_term": "製造装置の高度化により、生産性向上とコスト削減に寄与。",
+        "investment_implications": "自動化技術を持つ製造装置メーカーへの注目。"
       },
       "keywords": [
-        "後工程自動化",
-        "パッケージング",
-        "RDL",
+        "自動化",
+        "後工程",
         "ダイ実装",
-        "imec"
+        "製造装置"
       ],
       "companies_mentioned": [
-        "FUJI",
-        "太陽HD",
-        "imec"
+        "FUJI"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体市場全体の成長加速",
-      "SiC、GaN等パワー半導体のEV・データセンター向け需要増",
-      "エッジAI市場の急速な拡大",
-      "次世代メモリ（HBM等）の需要増",
-      "データセンター向け高速通信技術への投資活発化"
+      "世界半導体市場の急成長（前年同月比46.1%増）",
+      "AI/HPC関連技術への旺盛な需要",
+      "EV市場の拡大に伴うパワー半導体需要増"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不安定化",
-      "一部地域（日本）における市場の相対的低迷"
+      "日本市場のみ減少傾向（2026年1月）"
     ],
     "neutral": [
-      "半導体製造装置市場のサイクル変動",
-      "RTL検証等、開発プロセスにおけるAI活用進展"
+      "地政学リスク（イラン情勢など）の影響は限定的か"
     ]
   },
-  "source_count": 43
+  "source_count": 42
 }
