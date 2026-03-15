@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T06:08:58.419551+09:00",
+  "generated_at": "2026-03-14T06:11:08.463091+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
@@ -15,8 +15,110 @@
   "sections": {
     "business": [
       {
+        "title": "Innovations in Grid-to-Rack Make Data Centers More Efficient",
+        "blurb": "データセンターの電力伝送効率を向上させるグリッド・トゥ・ラック技術の革新について解説。電力損失を低減し、効率を高める。",
+        "category": "business",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/innovations-in-grid-to-rack-make-data-centers-more-efficient"
+        },
+        "field": null
+      },
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の最新動向：サブ1nm準備、イラン情勢の影響、Embedded World発表、日本での生産拡大、ファウンドリランキングなど。",
+        "category": "business",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-129"
+        },
+        "field": {
+          "primary": "foundry",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "ロームと東芝、半導体事業の提携強化へ「協議を継続中」",
+        "blurb": "ロームと東芝はパワー半導体事業の提携強化に向け協議中。報道は否定しつつ、様々な選択肢を継続協議。",
+        "category": "business",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news090.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ダイヤモンドMOSFETで初の200V、1AのSW動作を達成",
+        "blurb": "Power Diamond Systemsが、耐圧550VのダイヤモンドMOSFETで200V、1Aのスイッチング動作を初達成しました。",
+        "category": "business",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news039.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI/HPCシステムのメモリ/ストレージ階層とHBMの高性能化",
+        "blurb": "IEDM 2025でTSMCが講演。AI/HPCシステムにおけるメモリ帯域幅拡張性とHBMの高性能化について解説。",
+        "category": "business",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news055.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Arrow, NXP Partner on Secure Design",
+        "blurb": "ArrowとNXPは、EUサイバーレジリエンス法に対応するため、セキュアな製品設計を支援する提携を発表しました。",
+        "category": "business",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/arrow-nxp-partner-on-secure-design"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Solid-State Transformers, Current Source Inverter in Motor Drives, Innovations in Grid-to-Rack: Power Electronics Week Insights",
-        "blurb": "パワーエレクトロニクスウィークでは、固体ステートトランス、モーター駆動用電流源インバータ、グリッド・トゥ・ラック技術の最新動向が紹介された。",
+        "blurb": "パワーエレクトロニクス週間の最新動向：固体ステートトランス、モーター駆動用電流源インバータ、グリッド・トゥ・ラック技術の革新について解説。",
         "category": "business",
         "date": "2026-03-14",
         "stars": 3,
@@ -51,8 +153,189 @@
         }
       }
     ],
-    "tools": [],
+    "tools": [
+      {
+        "title": "Balun transformers: Linking balanced to unbalanced",
+        "blurb": "バルトランスはRF・高周波設計でインピーダンス整合、信号歪み抑制、コモンモードノイズ低減を可能にする。",
+        "category": "tools",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/balun-transformers-linking-balanced-to-unbalanced"
+        },
+        "field": null
+      },
+      {
+        "title": "Designing the voice AI stack: Integrating spatial hearing AI with edge-based intent gating",
+        "blurb": "ハイブリッド音声AIは、オンデバイス処理とクラウド推論を組み合わせ、信頼性の高いスマートホーム音声制御を実現します。",
+        "category": "tools",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/designing-the-voice-ai-stack-integrating-spatial-hearing-ai-with-edge-based-intent-gating"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Low-cost MCUs enable smarter embedded devices",
+        "blurb": "ST社の低コストMCU「STM32C5」は、Arm Cortex-M33コア搭載で、コスト重視の組み込み機器の性能向上を実現。",
+        "category": "tools",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/low-cost-mcus-enable-smarter-embedded-devices"
+        },
+        "field": null
+      },
+      {
+        "title": "Qualinx's Digital RF Architecture Simplifies GNSS Chip Design",
+        "blurb": "QualinxのデジタルRFアーキテクチャは、GNSSチップ設計を簡素化し、機能統合を向上させる。",
+        "category": "tools",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/qualinxs-digital-rf-architecture-simplifies-gnss-chip-design"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "company": [
+      {
+        "title": "200GHz動作の受光素子、NTTが開発　次世代光通信の基盤に",
+        "blurb": "NTTが200GHz級の次世代光通信向け受光素子を開発。3.2Tb/s通信の基盤となる。",
+        "category": "company",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news057.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "廃太陽光パネルガラスをLiBの電極材料に転換、日本大ら",
+        "blurb": "日大らの研究グループは、廃太陽光パネルのガラスをリチウムイオン電池の電極材料に転換する技術を開発した。",
+        "category": "company",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news033.html"
+        },
+        "field": null
+      },
+      {
+        "title": "TinyEngine NPU powers AI in TI MCUs",
+        "blurb": "TIのMCUにTinyEngine NPUが統合され、エッジAIが効率化。IoT機器などへの応用が期待される。",
+        "category": "company",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/tinyengine-npu-powers-ai-in-ti-mcus"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Edge AI SoC integrates tri-radio",
+        "blurb": "NXPのi.MX 93Wは、AI処理用NPUと無線通信機能を統合したSoC。IoT機器の省電力化と高機能化に貢献。",
+        "category": "company",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/edge-ai-soc-integrates-tri-radio"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "200-V MOSFETs cut conduction losses",
+        "blurb": "iDEAL SemiconductorがSuperQ 200V MOSFET製品群に低RDS(on)の2製品を追加し、伝導損失を削減。",
+        "category": "company",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/200-v-mosfets-cut-conduction-losses"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Sfera Labs debuts industrial Raspberry Pi edge systems",
+        "blurb": "Sfera Labsが産業用IoT・エッジ向けにRaspberry Piベースの産業用エッジサーバーとPLCを発表。",
+        "category": "company",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/sfera-labs-debuts-industrial-raspberry-pi-edge-systems"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "MediaTek Unveils Genio Chipsets for IoT",
+        "blurb": "MediaTekがIoT向け新チップセット「Genio」を発表。高性能から汎用まで幅広い製品に対応。",
+        "category": "company",
+        "date": "2026-03-13",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mediatek-unveils-genio-chipsets-for-iot"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": "fabless"
+        }
+      },
       {
         "title": "Panasonic Introduces FineX Transparent EMI Shielding Film",
         "blurb": "パナソニックが、高透明・低抵抗・柔軟な電磁波シールドフィルム「FineX」を発表。",
@@ -67,7 +350,7 @@
       },
       {
         "title": "Embedded World, On-Device Voice AI, Digi Acquires Particle: Embedded Week Insights",
-        "blurb": "Embedded Worldの最新動向、オンデバイス音声AI、DigiによるParticle買収など、Embedded Weekの注目記事をまとめた。",
+        "blurb": "Embedded Worldでの新技術、オンデバイス音声AI、DigiによるParticle買収など、組み込み業界の最新動向をまとめた週刊インサイト。",
         "category": "company",
         "date": "2026-03-14",
         "stars": 3,
