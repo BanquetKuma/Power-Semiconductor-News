@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-16T06:09:25.912415+09:00",
-  "date": "2026-03-16",
+  "generated_at": "2026-03-17T06:15:06.309611+09:00",
+  "date": "2026-03-17",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体の高性能化と普及",
-      "confidence": 0.9,
+      "name": "SiCパワー半導体の進化と応用拡大",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
@@ -12,18 +12,17 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiC MOSFETの高性能化（高耐圧、高電流）と、AIデータセンターや産業用途、EV向けパッケージング技術の進化が進んでいる。",
+      "summary": "SiC技術の進化により、高電圧・高効率化が進み、EV、データセンター、産業機器など幅広い分野での採用が加速しています。",
       "analysis": {
-        "short_term": "SiCデバイスの供給拡大とコスト低減が焦点。",
-        "mid_term": "EV、再生可能エネルギー、データセンターでの採用が加速。",
-        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味。"
+        "short_term": "SiCデバイスの供給能力増強が鍵。価格競争も激化。",
+        "mid_term": "次世代EVやデータセンターインフラで需要増。新材料・パッケージ技術も重要。",
+        "investment_implications": "SiC材料・デバイスメーカーに注目。垂直統合型企業も有利。"
       },
       "keywords": [
         "SiC",
-        "MOSFET",
         "EV",
-        "AI",
-        "データセンター"
+        "データセンター",
+        "パワー半導体"
       ],
       "companies_mentioned": [
         "Navitas",
@@ -35,123 +34,132 @@
       ]
     },
     {
-      "name": "AI向けメモリ帯域幅の拡張",
-      "confidence": 0.95,
+      "name": "AI向け高性能メモリ需要の増大",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
-        "datacenter"
+        "datacenter",
+        "logic"
       ],
-      "summary": "AI/HPCの計算能力向上に伴い、HBM4Eなどの次世代メモリがメモリ帯域幅のボトルネック解消に不可欠となっている。",
+      "summary": "AI/HPCの計算能力向上に伴い、HBMなどの高性能メモリの帯域幅と容量への要求が飛躍的に高まっています。",
       "analysis": {
-        "short_term": "HBM4Eの量産化に向けた技術開発が加速。",
-        "mid_term": "AIチップ性能向上にメモリ帯域幅が重要因子となる。",
-        "investment_implications": "HBMサプライヤーへの注目度が高まる。"
+        "short_term": "HBM供給不足が継続。DRAMメーカーの増産計画が焦点。",
+        "mid_term": "HBM4Eなどの次世代メモリ開発競争が激化。3D積層技術が鍵。",
+        "investment_implications": "HBMサプライヤー、DRAMメーカー、関連製造装置メーカーに投資機会。"
       },
       "keywords": [
         "HBM",
         "AI",
         "メモリ",
-        "帯域幅",
-        "HPC"
+        "帯域幅"
       ],
       "companies_mentioned": [
-        "TSMC"
+        "Micron",
+        "TSMC",
+        "Georgia Tech"
       ]
     },
     {
-      "name": "データセンターの高速・高効率化",
+      "name": "AI設計・検証プロセスの変革",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
         "ai",
-        "power"
+        "logic",
+        "frontend",
+        "backend",
+        "equipment"
       ],
-      "summary": "AI処理によるデータトラフィック増大に対応するため、CPO、光電集積モジュール、スケールアクロスといった新技術が導入されている。",
+      "summary": "AIが半導体設計ワークフロー、データ管理、検証プロセスに深く浸透し、効率化と高度化を推進しています。",
       "analysis": {
-        "short_term": "データセンター向け高速インターフェース規格の普及が進む。",
-        "mid_term": "AIインフラの省電力化・高密度化が重要課題となる。",
-        "investment_implications": "データセンターインフラ関連技術への投資機会。"
+        "short_term": "AI設計ツールの導入が加速。EDAベンダーの動向が重要。",
+        "mid_term": "AIによる設計自動化が進み、開発期間短縮と性能向上が期待される。",
+        "investment_implications": "AIを活用したEDAツール、IPベンダー、設計サービス企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "設計",
+        "検証",
+        "EDA"
+      ],
+      "companies_mentioned": [
+        "Empower Semiconductor",
+        "UCLA",
+        "エプソン",
+        "Manz Asia"
+      ]
+    },
+    {
+      "name": "データセンター向け新技術の台頭",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "power",
+        "logic",
+        "memory"
+      ],
+      "summary": "AI/HPCの普及により、データセンターでは電力効率、データ転送速度、冷却技術など、システム全体の最適化が求められています。",
+      "analysis": {
+        "short_term": "CPO、高速インターコネクト技術の標準化が進む。",
+        "mid_term": "電力効率とデータ処理能力の向上が競争力の源泉となる。",
+        "investment_implications": "データセンターインフラ、光通信部品、高効率電源関連企業に投資機会。"
       },
       "keywords": [
         "データセンター",
         "AI",
         "CPO",
-        "光通信",
-        "高速化"
+        "電力効率"
       ],
       "companies_mentioned": [
-        "NTT",
-        "京セラ"
+        "NVIDIA",
+        "NTT"
       ]
     },
     {
-      "name": "エッジAIの進化と実装",
-      "confidence": 0.8,
+      "name": "エッジAIの進化と普及",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
-        "miniaturization"
+        "automotive",
+        "industrial"
       ],
-      "summary": "エッジAIはクラウドの代替ではなく補完関係にあり、低遅延・プライバシー保護のため、ハードウェア・ソフトウェア・モデルの共同開発が進む。",
+      "summary": "低遅延、プライバシー保護、低消費電力の要求から、エッジデバイス上でのAI処理能力向上が進んでいます。",
       "analysis": {
-        "short_term": "小型・低消費電力のエッジAI SoMが登場。",
-        "mid_term": "音声AIなどの応用で、ローカル処理の重要性が増す。",
-        "investment_implications": "エッジAI向けSoC/SoMメーカーに注目。"
+        "short_term": "エッジAI SoCの性能向上と低価格化が進む。",
+        "mid_term": "音声AI、画像認識など、多様なアプリケーションでエッジAIが普及。",
+        "investment_implications": "エッジAI SoCメーカー、関連センサー、ソフトウェア企業に注目。"
       },
       "keywords": [
         "エッジAI",
-        "SoM",
-        "音声AI",
+        "SoC",
         "低遅延",
         "プライバシー"
       ],
       "companies_mentioned": [
-        "Grinn"
-      ]
-    },
-    {
-      "name": "次世代パワーエレクトロニクス技術",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "industrial",
-        "automotive"
-      ],
-      "summary": "固体ステートトランス、電流源インバータ、グリッド・トゥ・ラック技術など、電力変換効率と性能向上を目指す革新的な技術が登場。",
-      "analysis": {
-        "short_term": "高効率・小型化が求められる産業機器・EV向けに期待。",
-        "mid_term": "次世代電力インフラ構築に貢献する可能性。",
-        "investment_implications": "パワーエレクトロニクス関連技術・部品メーカー。"
-      },
-      "keywords": [
-        "パワーエレクトロニクス",
-        "インバータ",
-        "固体ステートトランス",
-        "電力変換"
-      ],
-      "companies_mentioned": [
-        "Empower Semiconductor"
+        "EMASS",
+        "Georgia Tech"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の堅調な成長（前年同月比46.1%増）",
-      "AI関連技術（メモリ、データセンター、エッジAI）への投資活発化",
-      "SiCパワー半導体の需要拡大（EV、産業、データセンター）"
+      "AI/HPC向け半導体需要の継続的な拡大",
+      "SiCパワー半導体の市場浸透加速",
+      "データセンター投資の活発化"
     ],
     "bearish": [
-      "日本市場の半導体市場成長率が他国に遅れをとっている可能性（2026年1月データ）"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "一部メモリ製品の価格下落リスク"
     ],
     "neutral": [
-      "半導体製造装置（後工程）の自動化・標準化に向けた取り組み",
-      "EV用バッテリー技術（ドライ式電極製造）の市場拡大見通し"
+      "半導体製造装置メーカーの受注動向",
+      "ファウンドリの稼働率変動"
     ]
   },
-  "source_count": 36
+  "source_count": 28
 }

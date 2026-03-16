@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-14T06:11:08.465106+09:00",
+  "generated_at": "2026-03-17T06:15:00.460618+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "TinyEngine NPU powers AI in TI MCUs",
-    "summary": "TIのMCUにTinyEngine NPUが統合され、エッジAIが効率化。IoT機器などへの応用が期待される。",
+    "title": "NVIDIA製GPU搭載サーバのコスト／スペックを分析してみた",
+    "summary": "NVIDIA製GPU搭載AIサーバのコストとスペックを分析。大手ITベンダーのデータセンタへの搭載状況を考察。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/tinyengine-npu-powers-ai-in-ti-mcus"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news039.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "TinyEngine NPU powers AI in TI MCUs",
-        "blurb": "TIのMCUにTinyEngine NPUが統合され、エッジAIが効率化。IoT機器などへの応用が期待される。",
+        "title": "「モデル圧縮機能」でメモリ制約を解消　EMASSのエッジAI SoC",
+        "blurb": "EMASSは、メモリ制約を解消するモデル圧縮機能を備えたエッジAI SoC「ECS-DoT」を発表。低消費電力で高い演算性能を実現。",
         "category": "company",
-        "date": "2026-03-13",
+        "date": "2026-03-16",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/tinyengine-npu-powers-ai-in-ti-mcus"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news065.html"
         },
         "field": {
           "primary": "logic",
@@ -32,46 +32,29 @@
           "process": null,
           "market": "ai",
           "industry": null
-        }
-      },
-      {
-        "title": "Edge AI SoC integrates tri-radio",
-        "blurb": "NXPのi.MX 93Wは、AI処理用NPUと無線通信機能を統合したSoC。IoT機器の省電力化と高機能化に貢献。",
-        "category": "company",
-        "date": "2026-03-13",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/edge-ai-soc-integrates-tri-radio"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "MediaTek Unveils Genio Chipsets for IoT",
-        "blurb": "MediaTekがIoT向け新チップセット「Genio」を発表。高性能から汎用まで幅広い製品に対応。",
-        "category": "company",
-        "date": "2026-03-13",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mediatek-unveils-genio-chipsets-for-iot"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": "fabless"
         }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "NVIDIA製GPU搭載サーバのコスト／スペックを分析してみた",
+        "blurb": "NVIDIA製GPU搭載AIサーバのコストとスペックを分析。大手ITベンダーのデータセンタへの搭載状況を考察。",
+        "category": "business",
+        "date": "2026-03-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news039.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ]
   }
 }
