@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-03-17T06:15:00.460277+09:00",
+  "generated_at": "2026-03-18T06:14:41.796024+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "3D DRAM with CBA Technology (Georgia Tech)",
-    "summary": "ジョージア工科大の研究者らが、配線とハイブリッドボンディングの制約を克服する3D DRAM技術を発表。集積度向上の可能性を示唆。",
+    "title": "Identifying Read Disturbance Threshold of DRAM Chips (ETH Zurich, Rutgers)",
+    "summary": "ETH ZurichとRutgers大学が、DRAMチップの読み出し妨害閾値を発見する新手法「DiscoRD」を発表しました。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/3d-dram-with-cba-technology-georgia-tech"
+        "url": "https://semiengineering.com/identifying-read-disturbance-threshold-of-dram-chips-eth-zurich-rutgers"
       }
     ]
   },
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "3D DRAM with CBA Technology (Georgia Tech)",
-        "blurb": "ジョージア工科大の研究者らが、配線とハイブリッドボンディングの制約を克服する3D DRAM技術を発表。集積度向上の可能性を示唆。",
+        "blurb": "ジョージア工科大の研究者らが、配線とハイブリッドボンディングの制約を克服する3D DRAM技術を発表しました。",
         "category": "company",
         "date": "2026-03-17",
         "stars": 3,
@@ -30,6 +30,24 @@
           "primary": "memory",
           "device": "memory",
           "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Identifying Read Disturbance Threshold of DRAM Chips (ETH Zurich, Rutgers)",
+        "blurb": "ETH ZurichとRutgers大学が、DRAMチップの読み出し妨害閾値を発見する新手法「DiscoRD」を発表しました。",
+        "category": "company",
+        "date": "2026-03-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/identifying-read-disturbance-threshold-of-dram-chips-eth-zurich-rutgers"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
           "market": null,
           "industry": null
         }

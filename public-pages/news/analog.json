@@ -1,41 +1,78 @@
 {
-  "generated_at": "2026-03-13T06:11:14.972617+09:00",
+  "generated_at": "2026-03-18T06:14:41.797000+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "カメラベースで雪道をハンズオフ走行、SUBARUとInfineon協業の意義",
-    "summary": "SUBARUはInfineonの車載MCUを採用。カメラのみで雪道をハンズオフ走行するプロトタイプを公開した。",
+    "title": "Analysis of the Evolving Landscape of Ultra-low-power Edge AI Processors (U. of Austria, ETH Zurich)",
+    "summary": "オーストリア大学とETHチューリッヒが超低消費電力エッジAIプロセッサに関する技術論文を発表。異種SoC、ニューラルアクセラレータ等を比較分析。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news067.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/analysis-of-the-evolving-landscape-of-ultra-low-power-edge-ai-processors-u-of-austria-eth-zurich"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "カメラベースで雪道をハンズオフ走行、SUBARUとInfineon協業の意義",
-        "blurb": "SUBARUはInfineonの車載MCUを採用。カメラのみで雪道をハンズオフ走行するプロトタイプを公開した。",
+        "title": "「これまでにないダイナミックレンジ」 ソニーのLOFIC画素4Kセンサー",
+        "blurb": "ソニーがLOFIC画素採用の4Kセンサー開発。小型ながら高ダイナミックレンジを実現し、業界最小の単一画素を実現。",
         "category": "company",
-        "date": "2026-03-12",
+        "date": "2026-03-17",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/12/news067.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news058.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ST Partners with Nvidia on Physical AI",
+        "blurb": "STマイクロエレクトロニクスはNvidiaと提携し、ロボティクス分野でAI開発を加速。両社のエコシステムにST部品のモデルを統合し、研究開発を支援する。",
+        "category": "company",
+        "date": "2026-03-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/st-partners-with-nvidia-on-physical-ai"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
           "market": null,
+          "industry": "fabless"
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Analysis of the Evolving Landscape of Ultra-low-power Edge AI Processors (U. of Austria, ETH Zurich)",
+        "blurb": "オーストリア大学とETHチューリッヒが超低消費電力エッジAIプロセッサに関する技術論文を発表。異種SoC、ニューラルアクセラレータ等を比較分析。",
+        "category": "tools",
+        "date": "2026-03-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/analysis-of-the-evolving-landscape-of-ultra-low-power-edge-ai-processors-u-of-austria-eth-zurich"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }

@@ -1,38 +1,75 @@
 {
-  "generated_at": "2026-03-17T06:15:00.460022+09:00",
+  "generated_at": "2026-03-18T06:14:41.795720+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "「再編待ったなし」のパワー半導体業界",
-    "summary": "パワー半導体業界は、基礎研究から実用化までのスピードアップが急務。再編が避けられない状況。",
+    "title": "Navitas Unveils 800V–6V DC-DC Power Board for AI Servers",
+    "summary": "NavitasがAIサーバー向け800V-6V DC-DC電源基板を発表。高効率・高密度化を実現。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news050.html"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "「再編待ったなし」のパワー半導体業界",
-        "blurb": "パワー半導体業界は、基礎研究から実用化までのスピードアップが急務。再編が避けられない状況。",
-        "category": "business",
-        "date": "2026-03-16",
+        "title": "EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board",
+        "blurb": "EPCが窒化ガリウム（GaN）ベースの3相BLDCインバータ評価ボード「EPC91202」を発表。高効率モーター駆動向け。",
+        "category": "company",
+        "date": "2026-03-17",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news050.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/epc-unveils-epc91202-gan-based-3-phase-bldc-inverter-board"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "東芝との協議やデンソー提案への対応、ロームが新声明",
+        "blurb": "ロームはデンソーの買収提案や東芝とのパワー半導体事業統合協議に関する新たな声明を発表した。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news099.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Navitas Unveils 800V–6V DC-DC Power Board for AI Servers",
+        "blurb": "NavitasがAIサーバー向け800V-6V DC-DC電源基板を発表。高効率・高密度化を実現。",
+        "category": "business",
+        "date": "2026-03-18",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "datacenter",
           "industry": null
         }
       }

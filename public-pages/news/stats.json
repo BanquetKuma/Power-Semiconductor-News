@@ -1,26 +1,33 @@
 {
-  "generated_at": "2026-03-17T06:15:00.462143+09:00",
-  "date": "2026-03-17",
-  "total_items": 37,
-  "semiconductor_items": 9,
+  "generated_at": "2026-03-18T06:14:41.799546+09:00",
+  "date": "2026-03-18",
+  "total_items": 63,
+  "semiconductor_items": 21,
   "by_field": {
-    "power": 1,
-    "memory": 1,
-    "logic": 2,
+    "power": 3,
+    "memory": 2,
+    "logic": 1,
+    "analog": 3,
     "automotive": 1,
-    "idm": 1,
-    "backend": 1,
-    "general": 2
+    "industrial": 1,
+    "fabless": 1,
+    "backend": 2,
+    "equipment": 1,
+    "wafer": 1,
+    "general": 5
   },
   "sources": [
+    "edn.com",
+    "electronics-lab.com",
+    "embedded.com",
     "itmedia.co.jp",
     "powerelectronicsnews.com",
     "semiengineering.com"
   ],
   "sections": {
-    "business": 3,
-    "tools": 2,
-    "company": 8,
+    "business": 5,
+    "tools": 6,
+    "company": 14,
     "sns": 0
   }
 }

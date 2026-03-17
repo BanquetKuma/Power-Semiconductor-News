@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-17T06:15:00.461715+09:00",
+  "generated_at": "2026-03-18T06:14:41.799311+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AI Design Reshapes Data Management",
-    "summary": "AIが半導体設計のワークフロー、役割、データ管理に影響を与え、変革をもたらしています。",
+    "title": "How AI Will Automate Chip Design",
+    "summary": "AIがEDA（電子設計自動化）のチップ設計プロセスを段階的に自動化する。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ai-design-reshapes-data-management"
+        "url": "https://semiengineering.com/how-ai-will-automate-chip-design"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "AI Design Reshapes Data Management",
-        "blurb": "AIが半導体設計のワークフロー、役割、データ管理に影響を与え、変革をもたらしています。",
+        "title": "Optimizing Oxide Interfaces To Preserve Device Performance in TMDC-based Transistors (imec, ETH Zurich)",
+        "blurb": "TMDCトランジスタの性能低下は酸化膜との界面欠陥が原因。imecとETH Zurichの研究者が界面最適化で性能維持の道を探る。",
         "category": "company",
-        "date": "2026-03-16",
+        "date": "2026-03-17",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-design-reshapes-data-management"
+          "url": "https://semiengineering.com/optimizing-oxide-interfaces-to-preserve-device-performance-in-tmdc-based-transistors-imec-eth-zurich"
         },
         "field": {
           "primary": "general",
@@ -35,14 +35,14 @@
         }
       },
       {
-        "title": "次世代半導体製造プロセスを共同開発、エプソンとManz Asia",
-        "blurb": "エプソンとManz Asiaがインクジェット技術応用で次世代半導体製造プロセスを共同開発。",
+        "title": "オキサイド、量子コンピュータ向けレーザー開発でVexlumと協業",
+        "blurb": "オキサイドはVexlumと量子コンピュータ向けレーザー開発で協業。両社の技術統合で、量子コンピュータ用途に最適化されたレーザー光源の実現を目指す。",
         "category": "company",
-        "date": "2026-03-16",
+        "date": "2026-03-17",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news031.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news110.html"
         },
         "field": {
           "primary": "general",
@@ -53,7 +53,63 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "How AI Will Automate Chip Design",
+        "blurb": "AIがEDA（電子設計自動化）のチップ設計プロセスを段階的に自動化する。",
+        "category": "tools",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-ai-will-automate-chip-design"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Human-Centered Agentic AI Workflows For RTL Verification",
+        "blurb": "AIエージェントを組み込み、信頼性を犠牲にすることなくRTL検証の生産性を向上させる。",
+        "category": "tools",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/human-centered-agentic-ai-workflows-for-rtl-verification"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Research Bits: Mar. 17",
+        "blurb": "フォトニクス分野で、スキーのジャンプ構造、オンチップナノレーザー、ニューラルネットワークに関する研究が進展。",
+        "category": "business",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-mar-17"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }
