@@ -1,30 +1,51 @@
 {
-  "generated_at": "2026-03-18T06:14:41.795720+09:00",
+  "generated_at": "2026-03-19T06:13:37.855519+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Navitas Unveils 800V–6V DC-DC Power Board for AI Servers",
-    "summary": "NavitasがAIサーバー向け800V-6V DC-DC電源基板を発表。高効率・高密度化を実現。",
+    "title": "The Rise of GaN Bidirectional Switches",
+    "summary": "窒化ガリウム（GaN）双方向スイッチは、電力双方向の流れを効率的に処理するソリューションとして注目されています。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers"
+        "url": "https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board",
-        "blurb": "EPCが窒化ガリウム（GaN）ベースの3相BLDCインバータ評価ボード「EPC91202」を発表。高効率モーター駆動向け。",
+        "title": "Infineon Unveils 800-V CoolGaN HV IBC Reference Designs",
+        "blurb": "インフィニオンが800V対応のCoolGaN HV IBCリファレンスデザインを発表。次世代AIサーバー向け高効率電力変換を実現。",
         "category": "company",
-        "date": "2026-03-17",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/epc-unveils-epc91202-gan-based-3-phase-bldc-inverter-board"
+          "url": "https://www.powerelectronicsnews.com/infineon-unveils-800-v-coolgan-hv-ibc-reference-designs"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "H3TRB Reliability Tests for SiC Power Devices",
+        "blurb": "SiCパワーデバイスは、湿度信頼性試験でシリコンを上回る。パッシベーション設計が長期性能に重要。",
+        "category": "business",
+        "date": "2026-03-18",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/h3trb-reliability-tests-for-sic-power-devices"
         },
         "field": {
           "primary": "power",
@@ -34,27 +55,6 @@
           "industry": null
         }
       },
-      {
-        "title": "東芝との協議やデンソー提案への対応、ロームが新声明",
-        "blurb": "ロームはデンソーの買収提案や東芝とのパワー半導体事業統合協議に関する新たな声明を発表した。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news099.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [],
-    "market": [
       {
         "title": "Navitas Unveils 800V–6V DC-DC Power Board for AI Servers",
         "blurb": "NavitasがAIサーバー向け800V-6V DC-DC電源基板を発表。高効率・高密度化を実現。",
@@ -70,6 +70,42 @@
           "device": "power",
           "process": null,
           "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "ダイヤモンドMOSFETを用いたDC-DCコンの動作を実証",
+        "blurb": "Power Diamond Systemsは、ダイヤモンドMOSFETを用いたDC-DCコンバーターの動作を世界で初めて実証。連続スイッチングに対応可能。",
+        "category": "business",
+        "date": "2026-03-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news080.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The Rise of GaN Bidirectional Switches",
+        "blurb": "窒化ガリウム（GaN）双方向スイッチは、電力双方向の流れを効率的に処理するソリューションとして注目されています。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }

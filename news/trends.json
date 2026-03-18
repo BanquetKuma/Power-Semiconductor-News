@@ -1,165 +1,172 @@
 {
-  "generated_at": "2026-03-18T06:14:45.862796+09:00",
-  "date": "2026-03-18",
+  "generated_at": "2026-03-19T06:13:42.807138+09:00",
+  "date": "2026-03-19",
   "meta_trends": [
     {
-      "name": "AIサーバー向け高効率電源",
+      "name": "次世代パワー半導体の台頭",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
+        "automotive",
         "datacenter",
-        "logic"
+        "industrial"
       ],
-      "summary": "AIサーバーの電力需要増大に対応するため、800VDCアーキテクチャやGaN/SiCデバイスを用いた高効率・高密度電源技術が急速に進化している。",
+      "summary": "GaNやSiCといった次世代パワー半導体が、AIサーバーやEV向けに高効率・高耐圧化を実現し、急速に普及・進化している。",
       "analysis": {
-        "short_term": "需要増で関連部品の供給逼迫の可能性。",
-        "mid_term": "技術革新によるコスト競争激化。",
-        "investment_implications": "高効率電源メーカーに注目。"
+        "short_term": "高効率化ニーズで採用加速。技術競争激化。",
+        "mid_term": "800Vアーキテクチャ普及で需要拡大。新材料も登場。",
+        "investment_implications": "GaN/SiC関連企業に注目。技術力と供給能力が鍵。"
       },
       "keywords": [
-        "AI",
-        "800VDC",
         "GaN",
         "SiC",
-        "電源"
+        "AIサーバー",
+        "EV",
+        "800V"
       ],
       "companies_mentioned": [
+        "Infineon",
         "Navitas",
         "EPC",
-        "Nvidia"
+        "ローム",
+        "Power Diamond Systems"
       ]
     },
     {
-      "name": "AIによる半導体設計自動化",
+      "name": "AIによる半導体設計・検証の自動化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
+        "ai",
         "logic",
-        "analog",
-        "frontend",
-        "backend",
         "equipment",
-        "ai"
+        "frontend",
+        "backend"
       ],
-      "summary": "AI技術がEDAツールや検証プロセスに導入され、チップ設計の効率化、高速化、複雑化への対応が進んでいる。",
+      "summary": "AI技術がEDAツールや検証プロセスに導入され、チップ設計の複雑化に対応し、開発期間短縮と信頼性向上に貢献している。",
       "analysis": {
-        "short_term": "EDAツールの需要増。",
-        "mid_term": "設計期間短縮による開発サイクルの加速。",
-        "investment_implications": "AIを活用するEDA企業や設計サービスに注目。"
+        "short_term": "検証効率化ツールが注目。導入進む。",
+        "mid_term": "設計自動化が本格化。新手法が標準化へ。",
+        "investment_implications": "AI-EDA関連企業、設計自動化ソリューションに投資妙味。"
       },
       "keywords": [
         "AI",
         "EDA",
-        "設計自動化",
-        "検証"
+        "チップ設計",
+        "検証",
+        "自動化"
       ],
       "companies_mentioned": [
-        "Nvidia",
-        "Empower Semiconductor"
+        "Intel",
+        "Synopsys",
+        "NVIDIA",
+        "IBM",
+        "Lam Research",
+        "エプソン",
+        "Manz Asia"
       ]
     },
     {
-      "name": "次世代パワー半導体の材料・構造革新",
+      "name": "HBM需要の爆発的増加",
+      "confidence": 0.95,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter",
+        "logic"
+      ],
+      "summary": "AIアクセラレータの性能向上に不可欠なHBM（High Bandwidth Memory）のビット需要が急増しており、HBM3E以降の次世代規格への進化が期待される。",
+      "analysis": {
+        "short_term": "HBM3E供給逼迫。価格上昇圧力。",
+        "mid_term": "HBM4/4E開発競争激化。カスタムHBM需要増。",
+        "investment_implications": "HBM関連メモリメーカー、サプライヤーに恩恵。"
+      },
+      "keywords": [
+        "HBM",
+        "AI",
+        "メモリ",
+        "データセンター",
+        "GPU"
+      ],
+      "companies_mentioned": [
+        "Micron",
+        "SK Hynix",
+        "Samsung"
+      ]
+    },
+    {
+      "name": "チップレット・3D-ICの普及",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "automotive",
-        "industrial",
-        "wafer"
-      ],
-      "summary": "SiC、GaNに加え、酸化ガリウムなどの新材料やダイヤモンドMOSFET、3D積層技術などが登場し、高性能化・高耐圧化が進む。",
-      "analysis": {
-        "short_term": "新材料・新技術の量産化に向けた投資活発化。",
-        "mid_term": "EV、再生可能エネルギー分野での採用拡大。",
-        "investment_implications": "新材料・新技術を持つメーカーに注目。"
-      },
-      "keywords": [
-        "SiC",
-        "GaN",
-        "酸化ガリウム",
-        "ダイヤモンド",
-        "パワー半導体"
-      ],
-      "companies_mentioned": [
-        "Navitas",
-        "EPC",
-        "ローム",
-        "東芝",
-        "名大"
-      ]
-    },
-    {
-      "name": "エッジAI向け低消費電力SoC",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
         "logic",
-        "analog",
-        "ai",
-        "miniaturization"
-      ],
-      "summary": "エッジデバイスでのAI処理能力向上のため、超低消費電力化やモデル圧縮技術を取り入れたSoC開発が進んでいる。",
-      "analysis": {
-        "short_term": "IoT、ウェアラブル分野での需要増。",
-        "mid_term": "AI処理の分散化が進む。",
-        "investment_implications": "低消費電力SoCメーカーに注目。"
-      },
-      "keywords": [
-        "エッジAI",
-        "低消費電力",
-        "SoC",
-        "モデル圧縮"
-      ],
-      "companies_mentioned": [
-        "オーストリア大学",
-        "ETH Zurich",
-        "EMASS"
-      ]
-    },
-    {
-      "name": "チップレット技術と相互接続",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
+        "miniaturization",
+        "datacenter",
         "frontend",
-        "backend",
-        "datacenter"
+        "backend"
       ],
-      "summary": "チップレット間の高速・高信頼なデータ転送を実現するため、ECCオーバーヘッドを考慮した経路探索法などの研究が進展している。",
+      "summary": "チップレット技術と3D-IC（積層型IC）が、高性能化と小型化の両立を実現するソリューションとして、AI・グラフィックス分野を中心に採用が進んでいる。",
       "analysis": {
-        "short_term": "高性能コンピューティング分野での採用拡大。",
-        "mid_term": "標準化の進展とエコシステム拡大。",
-        "investment_implications": "チップレット関連技術を持つ企業に注目。"
+        "short_term": "検証手法の確立が急務。技術開発加速。",
+        "mid_term": "高性能CPU/GPUで標準化へ。熱設計が課題。",
+        "investment_implications": "チップレット設計・製造関連企業に成長機会。"
       },
       "keywords": [
         "チップレット",
-        "相互接続",
-        "ECC",
-        "UCLA"
+        "3D-IC",
+        "AI",
+        "GPU",
+        "検証"
       ],
       "companies_mentioned": [
-        "UCLA"
+        "Intel",
+        "Synopsys",
+        "NVIDIA"
       ]
+    },
+    {
+      "name": "地政学リスクとサプライチェーン再編",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "geopolitics",
+        "foundry",
+        "idm",
+        "equipment",
+        "general"
+      ],
+      "summary": "中東情勢の緊迫化が、半導体製造に必要な原材料供給に影響を与える懸念があり、サプライチェーンの安定化に向けた再編やリスク分散の動きが加速している。",
+      "analysis": {
+        "short_term": "原材料供給懸念で価格変動。調達リスク増。",
+        "mid_term": "サプライチェーン多様化・国内回帰が進む。",
+        "investment_implications": "サプライチェーン強靭化関連企業、代替材料開発企業に注目。"
+      },
+      "keywords": [
+        "地政学リスク",
+        "サプライチェーン",
+        "原材料",
+        "ヘリウム",
+        "臭素"
+      ],
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIサーバー向け電源需要の急増",
-      "AIによる設計自動化の進展",
-      "次世代パワー半導体材料への期待",
-      "エッジAI市場の拡大"
+      "AI関連半導体（GPU、HBM）の需要拡大",
+      "次世代パワー半導体（GaN/SiC）の採用加速",
+      "AIによる半導体設計・検証プロセスの効率化"
     ],
     "bearish": [
-      "パワー半導体業界の再編圧力"
+      "地政学リスクによる原材料供給不安",
+      "半導体製造装置への投資サイクルの不確実性"
     ],
     "neutral": [
-      "DRAMの読み出し妨害閾値に関する研究",
-      "量子コンピュータ向けレーザー開発",
-      "3D DRAM技術の研究"
+      "メモリ市場の需給バランス",
+      "先端ロジックファウンドリの設備投資動向"
     ]
   },
-  "source_count": 47
+  "source_count": 53
 }

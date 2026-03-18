@@ -1,146 +1,80 @@
 {
-  "generated_at": "2026-03-18T06:14:41.794239+09:00",
+  "generated_at": "2026-03-17T06:15:00.459045+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Navitas Unveils 800V–6V DC-DC Power Board for AI Servers",
-    "summary": "NavitasがAIサーバー向け800V-6V DC-DC電源基板を発表。高効率・高密度化を実現。",
+    "title": "Software Support Closes the Gap in Power Conversion Design",
+    "summary": "ソフトウェアがハードウェア設計者のデジタル制御の障壁を下げ、電源設計の迅速化を支援。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers"
+        "url": "https://www.powerelectronicsnews.com/software-support-closes-the-gap-in-power-conversion-design"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Planar Magnetics in 800VDC Datacenter Power Architecture",
-        "blurb": "Nvidiaの800VDCデータセンター向けAI電源アーキテクチャにおいて、平面磁気部品が主要な磁気ソリューションとして登場。",
+        "title": "SeagateのHDD戦略、HAMR採用で2032年に100TB目指す",
+        "blurb": "シーゲイト、HAMR技術で2032年までにHDD 1台あたり100TBを目指す次世代プラットフォーム「Mozaic4＋」を発表。",
         "category": "business",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Research Bits: Mar. 17",
-        "blurb": "フォトニクス分野で、スキーのジャンプ構造、オンチップナノレーザー、ニューラルネットワークに関する研究が進展。",
-        "category": "business",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-mar-17"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "IBMとLamが「サブ1nmチップ」で協業　高NA EUV導入加速へ",
-        "blurb": "IBMとLam Researchは、1nm世代以降の半導体チップ実現に向け協業。高NA EUV装置の導入加速を目指す。",
-        "category": "business",
-        "date": "2026-03-17",
+        "date": "2026-03-16",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news062.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news077.html"
         },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "What the special section on chiplets design has to offer",
-        "blurb": "チップレット設計の特別セクションでは、誇大広告と現実を切り分け、主要な構成要素をレビューします。",
+        "title": "「再編待ったなし」のパワー半導体業界",
+        "blurb": "パワー半導体業界は、基礎研究から実用化までのスピードアップが急務。再編が避けられない状況。",
         "category": "business",
-        "date": "2026-03-17",
+        "date": "2026-03-16",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/what-the-special-section-on-chiplets-design-has-to-offer"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Navitas Unveils 800V–6V DC-DC Power Board for AI Servers",
-        "blurb": "NavitasがAIサーバー向け800V-6V DC-DC電源基板を発表。高効率・高密度化を実現。",
-        "category": "business",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news050.html"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "datacenter",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "NVIDIA製GPU搭載サーバのコスト／スペックを分析してみた",
+        "blurb": "NVIDIA製GPU搭載AIサーバのコストとスペックを分析。大手ITベンダーのデータセンタへの搭載状況を考察。",
+        "category": "business",
+        "date": "2026-03-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news039.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
     "tools": [
       {
-        "title": "How AI Will Automate Chip Design",
-        "blurb": "AIがEDA（電子設計自動化）のチップ設計プロセスを段階的に自動化する。",
+        "title": "Software Support Closes the Gap in Power Conversion Design",
+        "blurb": "ソフトウェアがハードウェア設計者のデジタル制御の障壁を下げ、電源設計の迅速化を支援。",
         "category": "tools",
-        "date": "2026-03-17",
+        "date": "2026-03-16",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-ai-will-automate-chip-design"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/software-support-closes-the-gap-in-power-conversion-design"
         },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Human-Centered Agentic AI Workflows For RTL Verification",
-        "blurb": "AIエージェントを組み込み、信頼性を犠牲にすることなくRTL検証の生産性を向上させる。",
-        "category": "tools",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/human-centered-agentic-ai-workflows-for-rtl-verification"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
         "title": "Systematic Training and Validation of AI-based Systems With Digital Twins and Scenario Engineering",
@@ -159,78 +93,30 @@
           "market": "automotive",
           "industry": null
         }
-      },
-      {
-        "title": "Newer, shinier DMM RTDs—part 2",
-        "blurb": "DMM RTD回路で高精度オペアンプが熱ドリフト問題を解決し、広範囲で正確な温度測定を実現。",
-        "category": "tools",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/newer-shinier-dmm-rtds-part-2"
-        },
-        "field": null
-      },
-      {
-        "title": "A battery charger that loudly hums: Dump it or just make it dumb?",
-        "blurb": "古いバッテリー充電器の異音問題。修理して再利用するか、機能を単純化して使い続けるか、ハッキングによる復活の価値を問う。",
-        "category": "tools",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-battery-charger-that-loudly-hums-dump-it-or-just-make-it-dumb"
-        },
-        "field": null
-      },
-      {
-        "title": "Analysis of the Evolving Landscape of Ultra-low-power Edge AI Processors (U. of Austria, ETH Zurich)",
-        "blurb": "オーストリア大学とETHチューリッヒが超低消費電力エッジAIプロセッサに関する技術論文を発表。異種SoC、ニューラルアクセラレータ等を比較分析。",
-        "category": "tools",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/analysis-of-the-evolving-landscape-of-ultra-low-power-edge-ai-processors-u-of-austria-eth-zurich"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
       }
     ],
     "company": [
       {
-        "title": "EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board",
-        "blurb": "EPCが窒化ガリウム（GaN）ベースの3相BLDCインバータ評価ボード「EPC91202」を発表。高効率モーター駆動向け。",
+        "title": "Bourns Expands SRN3010BTA Automotive Inductor Series",
+        "blurb": "Bournsは、AEC-Q200準拠の半密閉型パワーインダクタ「SRN3010BTA」シリーズを拡充。機械的信頼性も向上。",
         "category": "company",
-        "date": "2026-03-17",
+        "date": "2026-03-16",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/epc-unveils-epc91202-gan-based-3-phase-bldc-inverter-board"
+          "url": "https://www.powerelectronicsnews.com/bourns-expands-srn3010bta-automotive-inductor-series"
         },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "Optimizing Oxide Interfaces To Preserve Device Performance in TMDC-based Transistors (imec, ETH Zurich)",
-        "blurb": "TMDCトランジスタの性能低下は酸化膜との界面欠陥が原因。imecとETH Zurichの研究者が界面最適化で性能維持の道を探る。",
+        "title": "AI Design Reshapes Data Management",
+        "blurb": "AIが半導体設計のワークフロー、役割、データ管理に影響を与え、変革をもたらしています。",
         "category": "company",
-        "date": "2026-03-17",
+        "date": "2026-03-16",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/optimizing-oxide-interfaces-to-preserve-device-performance-in-tmdc-based-transistors-imec-eth-zurich"
+          "url": "https://semiengineering.com/ai-design-reshapes-data-management"
         },
         "field": {
           "primary": "general",
@@ -241,8 +127,74 @@
         }
       },
       {
+        "title": "Micron、PSMCの300mm工場買収完了　第2工場も建設へ",
+        "blurb": "Micronが台湾のPSMC工場買収を完了。2026年度末までに同敷地に第2工場建設開始予定。",
+        "category": "company",
+        "date": "2026-03-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news112.html"
+        },
+        "field": {
+          "primary": "idm",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "次世代半導体製造プロセスを共同開発、エプソンとManz Asia",
+        "blurb": "エプソンとManz Asiaがインクジェット技術応用で次世代半導体製造プロセスを共同開発。",
+        "category": "company",
+        "date": "2026-03-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news031.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「モデル圧縮機能」でメモリ制約を解消　EMASSのエッジAI SoC",
+        "blurb": "EMASSは、メモリ制約を解消するモデル圧縮機能を備えたエッジAI SoC「ECS-DoT」を発表。低消費電力で高い演算性能を実現。",
+        "category": "company",
+        "date": "2026-03-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/13/news065.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "量子化学用量子回路シミュレーションで限界突破、大阪大ら",
+        "blurb": "大阪大とフィックスターズが量子化学向けシミュレーターで、問題サイズ・量子回路サイズともに世界最大級のシミュレーションに成功した。",
+        "category": "company",
+        "date": "2026-03-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news030.html"
+        },
+        "field": null
+      },
+      {
         "title": "3D DRAM with CBA Technology (Georgia Tech)",
-        "blurb": "ジョージア工科大の研究者らが、配線とハイブリッドボンディングの制約を克服する3D DRAM技術を発表しました。",
+        "blurb": "ジョージア工科大の研究者らが、配線とハイブリッドボンディングの制約を克服する3D DRAM技術を発表。集積度向上の可能性を示唆。",
         "category": "company",
         "date": "2026-03-17",
         "stars": 3,
@@ -274,174 +226,6 @@
           "process": "backend",
           "market": null,
           "industry": null
-        }
-      },
-      {
-        "title": "東芝との協議やデンソー提案への対応、ロームが新声明",
-        "blurb": "ロームはデンソーの買収提案や東芝とのパワー半導体事業統合協議に関する新たな声明を発表した。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news099.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「世界初」酸化ガリウムをSi基板にエピ成長、名大ら",
-        "blurb": "名大ら、世界初となる酸化ガリウムをSi基板にエピ成長させる技術を発表。応用物理学会で成果を披露。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news033.html"
-        },
-        "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「これまでにないダイナミックレンジ」 ソニーのLOFIC画素4Kセンサー",
-        "blurb": "ソニーがLOFIC画素採用の4Kセンサー開発。小型ながら高ダイナミックレンジを実現し、業界最小の単一画素を実現。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news058.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "オキサイド、量子コンピュータ向けレーザー開発でVexlumと協業",
-        "blurb": "オキサイドはVexlumと量子コンピュータ向けレーザー開発で協業。両社の技術統合で、量子コンピュータ用途に最適化されたレーザー光源の実現を目指す。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news110.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "2μm帯赤外線レーザー発振に成功、AKMら",
-        "blurb": "AKMと京大、2μm帯赤外線PCSEL発振に成功。生体内物質センシングなど新用途に期待。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news030.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Nordic Expands nRF54L Series with Edge AI SoC",
-        "blurb": "ノルディックがAI処理向け新SoC「nRF54LM20B」を発表。低消費電力でエッジAIを強化し、バッテリー駆動デバイスでのローカル処理を可能にする。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/nordic-expands-nrf54l-series-with-edge-ai-soc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "What Will Shape Robotics in the Next 3 Years?",
-        "blurb": "D-RoboticsがEmbedded World 2026でロボティクスと組み込みAIの未来を形作る革新的な発表を行う。注目のイベント。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/what-will-shape-robotics-in-the-next-3-years"
-        },
-        "field": null
-      },
-      {
-        "title": "WINSYSTEMS SBC-ZETA-3950 Industrial Embedded SBC with Atom E3950",
-        "blurb": "WINSYSTEMSが産業・車載向けにAtom E3950搭載のCOM Express Miniボード「SBC-ZETA-3950」を発表。広範な温度・電圧に対応。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/winsystems-sbc-zeta-3950-industrial-embedded-sbc-with-atom-e3950"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Identifying Read Disturbance Threshold of DRAM Chips (ETH Zurich, Rutgers)",
-        "blurb": "ETH ZurichとRutgers大学が、DRAMチップの読み出し妨害閾値を発見する新手法「DiscoRD」を発表しました。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/identifying-read-disturbance-threshold-of-dram-chips-eth-zurich-rutgers"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ST Partners with Nvidia on Physical AI",
-        "blurb": "STマイクロエレクトロニクスはNvidiaと提携し、ロボティクス分野でAI開発を加速。両社のエコシステムにST部品のモデルを統合し、研究開発を支援する。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/st-partners-with-nvidia-on-physical-ai"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
         }
       }
     ],

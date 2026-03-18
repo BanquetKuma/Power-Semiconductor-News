@@ -1,31 +1,48 @@
 {
-  "generated_at": "2026-03-18T06:14:41.797295+09:00",
+  "generated_at": "2026-03-19T06:13:37.857436+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Systematic Training and Validation of AI-based Systems With Digital Twins and Scenario Engineering",
-    "summary": "AIシステムの体系的な訓練・検証にデジタルツインとシナリオエンジニアリングを活用する新技術論文が発表された。",
+    "title": "Five Underrated Used EVs To Help You Through The Impending Gas Crisis",
+    "summary": "ガソリン価格高騰の懸念に対し、手頃な価格の中古EVが燃料費の心配を解消する選択肢となる。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/systematic-training-and-validation-of-ai-based-systems-with-digital-twins-and-scenario-engineering"
+        "name": "insideevs.com",
+        "url": "https://insideevs.com/news/790394/used-ev-gas-crisis-2026"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Systematic Training and Validation of AI-based Systems With Digital Twins and Scenario Engineering",
-        "blurb": "AIシステムの体系的な訓練・検証にデジタルツインとシナリオエンジニアリングを活用する新技術論文が発表された。",
-        "category": "tools",
-        "date": "2026-03-17",
+        "title": "Rivian’s R2 Will Be Its First Global EV–And It’s Hiding A Cost-Cutting Trick",
+        "blurb": "Rivianの新型EV「R2」は、グローバル展開とコスト削減を両立。部品共通化で価格を抑える戦略。",
+        "category": "company",
+        "date": "2026-03-18",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/systematic-training-and-validation-of-ai-based-systems-with-digital-twins-and-scenario-engineering"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790388/rivian-r2-global-ev-cost-cutting-5g-hardware"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "VinFast Pushes Ahead With U.S. EV Plant Despite Industry Slowdown",
+        "blurb": "ベトナムのEVメーカー、VinFastは米国内でのEV販売が不明瞭な中、ノースカロライナ州の工場建設再開を目指す。",
+        "category": "company",
+        "date": "2026-03-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790362/vinfast-us-factory-construction-restart"
         },
         "field": {
           "primary": "automotive",
@@ -36,6 +53,44 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "Gas Car Drivers Hit 5 Times Harder By Iran Oil Shock Than EV Owners",
+        "blurb": "イランの石油ショック、EV所有者よりガソリン車所有者の方が5倍の影響を受けるとの研究結果。",
+        "category": "business",
+        "date": "2026-03-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790317/ev-drivers-protected-oil-prices"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Five Underrated Used EVs To Help You Through The Impending Gas Crisis",
+        "blurb": "ガソリン価格高騰の懸念に対し、手頃な価格の中古EVが燃料費の心配を解消する選択肢となる。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790394/used-ev-gas-crisis-2026"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }

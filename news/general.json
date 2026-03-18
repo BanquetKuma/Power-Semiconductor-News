@@ -1,86 +1,31 @@
 {
-  "generated_at": "2026-03-18T06:14:41.799311+09:00",
+  "generated_at": "2026-03-19T06:13:37.858743+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "How AI Will Automate Chip Design",
-    "summary": "AIがEDA（電子設計自動化）のチップ設計プロセスを段階的に自動化する。",
+    "title": "From Reactive to Predictive: AI-Driven Optimization for ATE Performance & Reliability",
+    "summary": "AIがATEシステムの性能と信頼性を、事後対応から予測・自己最適化へと進化させます。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/how-ai-will-automate-chip-design"
+        "url": "https://semiengineering.com/from-reactive-to-predictive-ai-driven-optimization-for-ate-performance-reliability"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Optimizing Oxide Interfaces To Preserve Device Performance in TMDC-based Transistors (imec, ETH Zurich)",
-        "blurb": "TMDCトランジスタの性能低下は酸化膜との界面欠陥が原因。imecとETH Zurichの研究者が界面最適化で性能維持の道を探る。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/optimizing-oxide-interfaces-to-preserve-device-performance-in-tmdc-based-transistors-imec-eth-zurich"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "オキサイド、量子コンピュータ向けレーザー開発でVexlumと協業",
-        "blurb": "オキサイドはVexlumと量子コンピュータ向けレーザー開発で協業。両社の技術統合で、量子コンピュータ用途に最適化されたレーザー光源の実現を目指す。",
-        "category": "company",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news110.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "How AI Will Automate Chip Design",
-        "blurb": "AIがEDA（電子設計自動化）のチップ設計プロセスを段階的に自動化する。",
+        "title": "From Reactive to Predictive: AI-Driven Optimization for ATE Performance & Reliability",
+        "blurb": "AIがATEシステムの性能と信頼性を、事後対応から予測・自己最適化へと進化させます。",
         "category": "tools",
-        "date": "2026-03-17",
+        "date": "2026-03-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-ai-will-automate-chip-design"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Human-Centered Agentic AI Workflows For RTL Verification",
-        "blurb": "AIエージェントを組み込み、信頼性を犠牲にすることなくRTL検証の生産性を向上させる。",
-        "category": "tools",
-        "date": "2026-03-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/human-centered-agentic-ai-workflows-for-rtl-verification"
+          "url": "https://semiengineering.com/from-reactive-to-predictive-ai-driven-optimization-for-ate-performance-reliability"
         },
         "field": {
           "primary": "general",
@@ -93,14 +38,32 @@
     ],
     "market": [
       {
-        "title": "Research Bits: Mar. 17",
-        "blurb": "フォトニクス分野で、スキーのジャンプ構造、オンチップナノレーザー、ニューラルネットワークに関する研究が進展。",
+        "title": "Blog Review: Mar. 18",
+        "blurb": "UALink、AI主権、3D-IC熱挙動、UARTセキュリティ、SystemVerilogカバレッジ拡張に関するブログレビュー。",
         "category": "business",
-        "date": "2026-03-17",
+        "date": "2026-03-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-mar-17"
+          "url": "https://semiengineering.com/blog-review-mar-18"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "イラン戦争の長期化が半導体業界に及ぼす深刻な影響",
+        "blurb": "中東戦争の長期化は、半導体製造に不可欠なヘリウムや臭素の供給を妨げ、AIブームによるチップ需要に深刻な影響を与える恐れがある。",
+        "category": "business",
+        "date": "2026-03-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news067.html"
         },
         "field": {
           "primary": "general",
