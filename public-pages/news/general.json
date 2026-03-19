@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-03-19T06:13:37.858743+09:00",
+  "generated_at": "2026-03-20T06:13:06.045239+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "From Reactive to Predictive: AI-Driven Optimization for ATE Performance & Reliability",
-    "summary": "AIがATEシステムの性能と信頼性を、事後対応から予測・自己最適化へと進化させます。",
+    "title": "Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages",
+    "summary": "半導体組立工程における重力によるストリップ反りの影響を定量化し、シミュレーションと実測データの乖離を縮小する。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/from-reactive-to-predictive-ai-driven-optimization-for-ate-performance-reliability"
+        "url": "https://semiengineering.com/quantifying-the-impact-of-gravity-on-strip-warpage-across-assembly-stages"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "From Reactive to Predictive: AI-Driven Optimization for ATE Performance & Reliability",
-        "blurb": "AIがATEシステムの性能と信頼性を、事後対応から予測・自己最適化へと進化させます。",
-        "category": "tools",
-        "date": "2026-03-18",
+        "title": "2D Semiconductors Inch Forward",
+        "blurb": "2次元半導体の開発は着実に進展しているが、根本的な課題は未解決のままである。",
+        "category": "company",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-reactive-to-predictive-ai-driven-optimization-for-ate-performance-reliability"
+          "url": "https://semiengineering.com/2d-semiconductors-inch-forward"
         },
         "field": {
           "primary": "general",
@@ -36,16 +35,17 @@
         }
       }
     ],
+    "tech": [],
     "market": [
       {
-        "title": "Blog Review: Mar. 18",
-        "blurb": "UALink、AI主権、3D-IC熱挙動、UARTセキュリティ、SystemVerilogカバレッジ拡張に関するブログレビュー。",
+        "title": "Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages",
+        "blurb": "半導体組立工程における重力によるストリップ反りの影響を定量化し、シミュレーションと実測データの乖離を縮小する。",
         "category": "business",
-        "date": "2026-03-18",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-mar-18"
+          "url": "https://semiengineering.com/quantifying-the-impact-of-gravity-on-strip-warpage-across-assembly-stages"
         },
         "field": {
           "primary": "general",
@@ -56,14 +56,68 @@
         }
       },
       {
-        "title": "イラン戦争の長期化が半導体業界に及ぼす深刻な影響",
-        "blurb": "中東戦争の長期化は、半導体製造に不可欠なヘリウムや臭素の供給を妨げ、AIブームによるチップ需要に深刻な影響を与える恐れがある。",
+        "title": "Scaling AI Infrastructure: Overcoming Interconnect Bottlenecks Via CPO And Heterogeneous Integration",
+        "blurb": "AIインフラの拡張には、CPOと異種集積による相互接続のボトルネック解消が課題。帯域幅密度、組立、光ファイバー配置の精度が求められる。",
         "category": "business",
-        "date": "2026-03-18",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news067.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scaling-ai-infrastructure-overcoming-interconnect-bottlenecks-via-cpo-and-heterogeneous-integration"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Liquid Cooling Drives Other Localized Cooling",
+        "blurb": "液冷技術が局所冷却を牽引。従来不要だったチップにも冷却が必要になる時代に。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/liquid-cooling-drives-other-localized-cooling"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Aligning The Semiconductor Value Chain In A Virtuous AI Cycle At SEMICON Korea 2026",
+        "blurb": "AIが半導体産業を変革し、次世代AIシステムを推進する好循環がSEMICON Korea 2026で議論される。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/aligning-the-semiconductor-value-chain-in-a-virtuous-ai-cycle-at-semicon-korea-2026"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Single-stage design removes 48-V bus in servers",
+        "blurb": "Navitas SemiconductorのDC/DC電源基板は、800Vから6Vへの直接変換を一段階で実現し、サーバーの48Vバスを不要にします。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/single-stage-design-removes-48-v-bus-in-servers"
         },
         "field": {
           "primary": "general",

@@ -1,33 +1,87 @@
 {
-  "generated_at": "2026-03-19T06:13:37.853905+09:00",
+  "generated_at": "2026-03-18T06:14:41.794239+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Rise of GaN Bidirectional Switches",
-    "summary": "窒化ガリウム（GaN）双方向スイッチは、電力双方向の流れを効率的に処理するソリューションとして注目されています。",
+    "title": "Navitas Unveils 800V–6V DC-DC Power Board for AI Servers",
+    "summary": "NavitasがAIサーバー向け800V-6V DC-DC電源基板を発表。高効率・高密度化を実現。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches"
+        "url": "https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "H3TRB Reliability Tests for SiC Power Devices",
-        "blurb": "SiCパワーデバイスは、湿度信頼性試験でシリコンを上回る。パッシベーション設計が長期性能に重要。",
+        "title": "Planar Magnetics in 800VDC Datacenter Power Architecture",
+        "blurb": "Nvidiaの800VDCデータセンター向けAI電源アーキテクチャにおいて、平面磁気部品が主要な磁気ソリューションとして登場。",
         "category": "business",
-        "date": "2026-03-18",
+        "date": "2026-03-17",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/h3trb-reliability-tests-for-sic-power-devices"
+          "url": "https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "fabless",
+          "device": null,
           "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Research Bits: Mar. 17",
+        "blurb": "フォトニクス分野で、スキーのジャンプ構造、オンチップナノレーザー、ニューラルネットワークに関する研究が進展。",
+        "category": "business",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-mar-17"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "IBMとLamが「サブ1nmチップ」で協業　高NA EUV導入加速へ",
+        "blurb": "IBMとLam Researchは、1nm世代以降の半導体チップ実現に向け協業。高NA EUV装置の導入加速を目指す。",
+        "category": "business",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news062.html"
+        },
+        "field": {
+          "primary": "equipment",
+          "device": null,
+          "process": "equipment",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "What the special section on chiplets design has to offer",
+        "blurb": "チップレット設計の特別セクションでは、誇大広告と現実を切り分け、主要な構成要素をレビューします。",
+        "category": "business",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/what-the-special-section-on-chiplets-design-has-to-offer"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
           "market": null,
           "industry": null
         }
@@ -49,198 +103,18 @@
           "market": "datacenter",
           "industry": null
         }
-      },
-      {
-        "title": "Memory For AI At The Edge",
-        "blurb": "AIエッジ向けにLPDDRの新リリースが最適なメモリとなる理由。",
-        "category": "business",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/memory-for-ai-at-the-edge"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Blog Review: Mar. 18",
-        "blurb": "UALink、AI主権、3D-IC熱挙動、UARTセキュリティ、SystemVerilogカバレッジ拡張に関するブログレビュー。",
-        "category": "business",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-mar-18"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ダイヤモンドMOSFETを用いたDC-DCコンの動作を実証",
-        "blurb": "Power Diamond Systemsは、ダイヤモンドMOSFETを用いたDC-DCコンバーターの動作を世界で初めて実証。連続スイッチングに対応可能。",
-        "category": "business",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news080.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "イラン戦争の長期化が半導体業界に及ぼす深刻な影響",
-        "blurb": "中東戦争の長期化は、半導体製造に不可欠なヘリウムや臭素の供給を妨げ、AIブームによるチップ需要に深刻な影響を与える恐れがある。",
-        "category": "business",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news067.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ASIC向けHBMビット需要、2028年には35倍に",
-        "blurb": "AIサーバー向けHBMビット需要は2028年までに35倍増。HBM3Eが過半数を占め、今後はHBM4/4Eへの進化とカスタムHBMの消費増が見込まれる。",
-        "category": "business",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news041.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Chiplet innovation isn’t waiting for perfect standards",
-        "blurb": "チップレット技術は標準化を待たず進化。モジュール設計、既存IP活用、自動化ツールの導入が重要。",
-        "category": "business",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/chiplet-innovation-isnt-waiting-for-perfect-standards"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Gas Car Drivers Hit 5 Times Harder By Iran Oil Shock Than EV Owners",
-        "blurb": "イランの石油ショック、EV所有者よりガソリン車所有者の方が5倍の影響を受けるとの研究結果。",
-        "category": "business",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790317/ev-drivers-protected-oil-prices"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Rise of GaN Bidirectional Switches",
-        "blurb": "窒化ガリウム（GaN）双方向スイッチは、電力双方向の流れを効率的に処理するソリューションとして注目されています。",
-        "category": "business",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Nvidia GTC: More Support for 800-VDC Data Centers",
-        "blurb": "Nvidia GTCで800VDCデータセンター向けの新電源ポートフォリオを発表。電力効率向上とコスト削減を目指す。",
-        "category": "business",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/nvidia-gtc-more-support-for-800-vdc-data-centers"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Five Underrated Used EVs To Help You Through The Impending Gas Crisis",
-        "blurb": "ガソリン価格高騰の懸念に対し、手頃な価格の中古EVが燃料費の心配を解消する選択肢となる。",
-        "category": "business",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790394/used-ev-gas-crisis-2026"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
       }
     ],
     "tools": [
       {
-        "title": "From Reactive to Predictive: AI-Driven Optimization for ATE Performance & Reliability",
-        "blurb": "AIがATEシステムの性能と信頼性を、事後対応から予測・自己最適化へと進化させます。",
+        "title": "How AI Will Automate Chip Design",
+        "blurb": "AIがEDA（電子設計自動化）のチップ設計プロセスを段階的に自動化する。",
         "category": "tools",
-        "date": "2026-03-18",
+        "date": "2026-03-17",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-reactive-to-predictive-ai-driven-optimization-for-ate-performance-reliability"
+          "url": "https://semiengineering.com/how-ai-will-automate-chip-design"
         },
         "field": {
           "primary": "general",
@@ -249,6 +123,66 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Human-Centered Agentic AI Workflows For RTL Verification",
+        "blurb": "AIエージェントを組み込み、信頼性を犠牲にすることなくRTL検証の生産性を向上させる。",
+        "category": "tools",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/human-centered-agentic-ai-workflows-for-rtl-verification"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Systematic Training and Validation of AI-based Systems With Digital Twins and Scenario Engineering",
+        "blurb": "AIシステムの体系的な訓練・検証にデジタルツインとシナリオエンジニアリングを活用する新技術論文が発表された。",
+        "category": "tools",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/systematic-training-and-validation-of-ai-based-systems-with-digital-twins-and-scenario-engineering"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Newer, shinier DMM RTDs—part 2",
+        "blurb": "DMM RTD回路で高精度オペアンプが熱ドリフト問題を解決し、広範囲で正確な温度測定を実現。",
+        "category": "tools",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/newer-shinier-dmm-rtds-part-2"
+        },
+        "field": null
+      },
+      {
+        "title": "A battery charger that loudly hums: Dump it or just make it dumb?",
+        "blurb": "古いバッテリー充電器の異音問題。修理して再利用するか、機能を単純化して使い続けるか、ハッキングによる復活の価値を問う。",
+        "category": "tools",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/a-battery-charger-that-loudly-hums-dump-it-or-just-make-it-dumb"
+        },
+        "field": null
       },
       {
         "title": "Analysis of the Evolving Landscape of Ultra-low-power Edge AI Processors (U. of Austria, ETH Zurich)",
@@ -267,33 +201,213 @@
           "market": "ai",
           "industry": null
         }
-      },
-      {
-        "title": "Improve 555 frequency linearity",
-        "blurb": "LMC555タイマーの電流制御発振器を単一抵抗で線形化し、5桁の範囲で内部遅延を補正。",
-        "category": "tools",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/improve-555-frequency-linearity"
-        },
-        "field": null
-      },
-      {
-        "title": "Exaviz Cruiser Board v1.0 For Raspberry Pi CM5 with 8x PoE+ and 2.5GbE",
-        "blurb": "Exaviz Cruiser Board v1.0はRaspberry Pi CM5向けMini-ITXボード。PoE+8ポート、2.5GbE、NVMe、SATA等を搭載。",
-        "category": "tools",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/exaviz-cruiser-board-v1-0-for-raspberry-pi-cm5-with-8x-poe-and-2-5gbe"
-        },
-        "field": null
       }
     ],
     "company": [
+      {
+        "title": "EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board",
+        "blurb": "EPCが窒化ガリウム（GaN）ベースの3相BLDCインバータ評価ボード「EPC91202」を発表。高効率モーター駆動向け。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/epc-unveils-epc91202-gan-based-3-phase-bldc-inverter-board"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Optimizing Oxide Interfaces To Preserve Device Performance in TMDC-based Transistors (imec, ETH Zurich)",
+        "blurb": "TMDCトランジスタの性能低下は酸化膜との界面欠陥が原因。imecとETH Zurichの研究者が界面最適化で性能維持の道を探る。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/optimizing-oxide-interfaces-to-preserve-device-performance-in-tmdc-based-transistors-imec-eth-zurich"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "3D DRAM with CBA Technology (Georgia Tech)",
+        "blurb": "ジョージア工科大の研究者らが、配線とハイブリッドボンディングの制約を克服する3D DRAM技術を発表しました。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/3d-dram-with-cba-technology-georgia-tech"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Pathfinding Method That Models ECC Overhead for Chiplet Interconnects (UCLA)",
+        "blurb": "UCLAの研究者がチップレット接続におけるECCオーバーヘッドを考慮した経路探索法を発表。BER目標達成に貢献。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/pathfinding-method-that-models-ecc-overhead-for-chiplet-interconnects-ucla"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "東芝との協議やデンソー提案への対応、ロームが新声明",
+        "blurb": "ロームはデンソーの買収提案や東芝とのパワー半導体事業統合協議に関する新たな声明を発表した。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news099.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「世界初」酸化ガリウムをSi基板にエピ成長、名大ら",
+        "blurb": "名大ら、世界初となる酸化ガリウムをSi基板にエピ成長させる技術を発表。応用物理学会で成果を披露。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news033.html"
+        },
+        "field": {
+          "primary": "wafer",
+          "device": null,
+          "process": "wafer",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「これまでにないダイナミックレンジ」 ソニーのLOFIC画素4Kセンサー",
+        "blurb": "ソニーがLOFIC画素採用の4Kセンサー開発。小型ながら高ダイナミックレンジを実現し、業界最小の単一画素を実現。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news058.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "オキサイド、量子コンピュータ向けレーザー開発でVexlumと協業",
+        "blurb": "オキサイドはVexlumと量子コンピュータ向けレーザー開発で協業。両社の技術統合で、量子コンピュータ用途に最適化されたレーザー光源の実現を目指す。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/16/news110.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "2μm帯赤外線レーザー発振に成功、AKMら",
+        "blurb": "AKMと京大、2μm帯赤外線PCSEL発振に成功。生体内物質センシングなど新用途に期待。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/17/news030.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Nordic Expands nRF54L Series with Edge AI SoC",
+        "blurb": "ノルディックがAI処理向け新SoC「nRF54LM20B」を発表。低消費電力でエッジAIを強化し、バッテリー駆動デバイスでのローカル処理を可能にする。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nordic-expands-nrf54l-series-with-edge-ai-soc"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "What Will Shape Robotics in the Next 3 Years?",
+        "blurb": "D-RoboticsがEmbedded World 2026でロボティクスと組み込みAIの未来を形作る革新的な発表を行う。注目のイベント。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/what-will-shape-robotics-in-the-next-3-years"
+        },
+        "field": null
+      },
+      {
+        "title": "WINSYSTEMS SBC-ZETA-3950 Industrial Embedded SBC with Atom E3950",
+        "blurb": "WINSYSTEMSが産業・車載向けにAtom E3950搭載のCOM Express Miniボード「SBC-ZETA-3950」を発表。広範な温度・電圧に対応。",
+        "category": "company",
+        "date": "2026-03-17",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/winsystems-sbc-zeta-3950-industrial-embedded-sbc-with-atom-e3950"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
       {
         "title": "Identifying Read Disturbance Threshold of DRAM Chips (ETH Zurich, Rutgers)",
         "blurb": "ETH ZurichとRutgers大学が、DRAMチップの読み出し妨害閾値を発見する新手法「DiscoRD」を発表しました。",
@@ -313,56 +427,8 @@
         }
       },
       {
-        "title": "13824心の超多心光ファイバーケーブルを量産開始、古河電工",
-        "blurb": "古河電工グループが、データセンター向けに伝送容量2倍の超多心光ファイバーケーブル量産を開始。新工場も稼働。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news042.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "全固体二次電池の「200℃動作」を実演、日本電気硝子",
-        "blurb": "日本電気硝子が200℃で動作する全固体ナトリウムイオン二次電池を開発。独自の技術で高い耐熱性を実現した。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news081.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Micron Unveils HBM4, SOCAMM2, and PCIe Gen6 SSD for AI",
-        "blurb": "マイクロン、AI向け次世代メモリ・ストレージHBM4、SOCAMM2、PCIe Gen6 SSDの量産開始。NVIDIAプラットフォーム向け。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/micron-unveils-hbm4-socamm2-and-pcie-gen6-ssd-for-ai"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
         "title": "ST Partners with Nvidia on Physical AI",
-        "blurb": "STマイクロエレクトロニクスはNvidiaと提携し、ロボティクスポートフォリオをNvidia Holoscanプラットフォームに統合。AI開発を加速。",
+        "blurb": "STマイクロエレクトロニクスはNvidiaと提携し、ロボティクス分野でAI開発を加速。両社のエコシステムにST部品のモデルを統合し、研究開発を支援する。",
         "category": "company",
         "date": "2026-03-18",
         "stars": 3,
@@ -377,138 +443,6 @@
           "market": null,
           "industry": "fabless"
         }
-      },
-      {
-        "title": "Rivian’s R2 Will Be Its First Global EV–And It’s Hiding A Cost-Cutting Trick",
-        "blurb": "Rivianの新型EV「R2」は、グローバル展開とコスト削減を両立。部品共通化で価格を抑える戦略。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790388/rivian-r2-global-ev-cost-cutting-5g-hardware"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "VinFast Pushes Ahead With U.S. EV Plant Despite Industry Slowdown",
-        "blurb": "ベトナムのEVメーカー、VinFastは米国内でのEV販売が不明瞭な中、ノースカロライナ州の工場建設再開を目指す。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790362/vinfast-us-factory-construction-restart"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "The New BMW i3 Has More Range Than Any Tesla",
-        "blurb": "新型BMW i3、航続距離でテスラを凌駕。800Vアーキテクチャと超急速充電に対応し、ビジネス用途にも最適。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790278/2027-bmw-i3-official-range-specs-photos"
-        },
-        "field": null
-      },
-      {
-        "title": "The DS DS N°7 Is A Compact Electric Crossover With A Huge Battery",
-        "blurb": "DSの新型クロスオーバー「DS 7」は、最大460マイル（約740km）の航続距離を持つコンパクトEV。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790349/ds-no-7-big-battery"
-        },
-        "field": null
-      },
-      {
-        "title": "Ford CEO Says China's Electrified Pickups Are 'Different Animals'",
-        "blurb": "フォードCEOは、中国製電動ピックアップトラックは「全く異なるもの」と述べ、中国ブランドの競争力を認めた。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790198/ford-ceo-farley-chinese-pickups"
-        },
-        "field": null
-      },
-      {
-        "title": "Infineon Unveils 800-V CoolGaN HV IBC Reference Designs",
-        "blurb": "インフィニオンが800V対応のCoolGaN HV IBCリファレンスデザインを発表。次世代AIサーバー向け高効率電力変換を実現。",
-        "category": "company",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-unveils-800-v-coolgan-hv-ibc-reference-designs"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Replay‑based Validation as a Scalable Methodology for Chiplet‑based Systems (Intel, Synopsys)",
-        "blurb": "Intel、Nvidia、Synopsysがチップレットベースシステムの検証手法を発表。AI・グラフィックス向け。",
-        "category": "company",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/replay-based-validation-as-a-scalable-methodology-for-chiplet-based-systems-intel-synopsys"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "backend",
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Everspin’s UNISYST MRAM Combines Code and Data Storage for Embedded Systems",
-        "blurb": "Everspinが、コードとデータストレージを統合した新MRAM「UNISYST」を発表。組み込みシステム向けに高密度・高速アクセスを実現。",
-        "category": "company",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/everspins-unisyst-mram-combines-code-and-data-storage-for-embedded-systems"
-        },
-        "field": null
-      },
-      {
-        "title": "It Just Got Way Easier To Buy A Rivian In This State",
-        "blurb": "リビアン、直販可能州拡大でEV購入容易に。R2発売への追い風となる。",
-        "category": "company",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790404/rivian-buying-easier-two-states"
-        },
-        "field": null
       }
     ],
     "sns": []

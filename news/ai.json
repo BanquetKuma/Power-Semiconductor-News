@@ -1,31 +1,50 @@
 {
-  "generated_at": "2026-03-13T06:11:14.972903+09:00",
+  "generated_at": "2026-03-20T06:13:06.042990+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AI Power on the Edge",
-    "summary": "エッジAIはクラウドの代替ではなく、ハードウェア・ソフトウェア・モデルの共同開発問題である。",
+    "title": "AOS Introduces 25V and 80V MOSFETs for AI Server Power",
+    "summary": "AOSはAIサーバー向けに、放熱性能と電力密度を高めた25V/80Vの新型MOSFETを発表しました。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ai-power-on-the-edge"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/aos-introduces-25v-and-80v-mosfets-for-ai-server-power"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "AI Power on the Edge",
-        "blurb": "エッジAIはクラウドの代替ではなく、ハードウェア・ソフトウェア・モデルの共同開発問題である。",
-        "category": "tools",
-        "date": "2026-03-12",
+        "title": "Hybrid LIC + BBU: Solving AI Server Power Gaps",
+        "blurb": "AIサーバーの電力不足を解消するハイブリッドスーパーキャパシタ（LIC+BBU）が登場。ミリ秒単位の電力補償、小型・高速・長寿命を実現。",
+        "category": "business",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-power-on-the-edge"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/hybrid-lic-bbu-solving-ai-server-power-gaps"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "AOS Introduces 25V and 80V MOSFETs for AI Server Power",
+        "blurb": "AOSはAIサーバー向けに、放熱性能と電力密度を高めた25V/80Vの新型MOSFETを発表しました。",
+        "category": "business",
+        "date": "2026-03-20",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/aos-introduces-25v-and-80v-mosfets-for-ai-server-power"
         },
         "field": {
           "primary": "ai",
@@ -35,7 +54,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

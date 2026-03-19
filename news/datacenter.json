@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-03-19T06:13:37.857745+09:00",
+  "generated_at": "2026-03-20T06:13:06.043645+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "13824心の超多心光ファイバーケーブルを量産開始、古河電工",
-    "summary": "古河電工グループが、データセンター向けに伝送容量2倍の超多心光ファイバーケーブル量産を開始。新工場も稼働。",
+    "title": "Double-side cooled MOSFETs reduce server heat",
+    "summary": "AOSが、サーバーの放熱を改善する両面冷却MOSFETを発表しました。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news042.html"
+        "name": "edn.com",
+        "url": "https://www.edn.com/double-side-cooled-mosfets-reduce-server-heat"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "13824心の超多心光ファイバーケーブルを量産開始、古河電工",
-        "blurb": "古河電工グループが、データセンター向けに伝送容量2倍の超多心光ファイバーケーブル量産を開始。新工場も稼働。",
+        "title": "Double-side cooled MOSFETs reduce server heat",
+        "blurb": "AOSが、サーバーの放熱を改善する両面冷却MOSFETを発表しました。",
         "category": "company",
-        "date": "2026-03-18",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news042.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/double-side-cooled-mosfets-reduce-server-heat"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "224G ICs optimize signal integrity in linear optics",
+        "blurb": "Semtech’s 224-Gbps/lane TIAs and drivers power 800G–3.2T transceivers and optical engines for AI/ML clusters and cloud d",
+        "category": "company",
+        "date": "2026-03-19",
+        "stars": 2,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/224g-ics-optimize-signal-integrity-in-linear-optics"
         },
         "field": {
           "primary": "datacenter",
@@ -36,6 +54,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Buck ICs improve AI data center power",
+        "blurb": "インフィニオンの新バックICはAIデータセンターの電力効率を向上させ、電圧調整を簡素化する。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/buck-ics-improve-ai-data-center-power"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ]
   }
 }

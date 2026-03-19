@@ -1,93 +1,38 @@
 {
-  "generated_at": "2026-03-19T06:13:37.856270+09:00",
+  "generated_at": "2026-03-20T06:13:06.041880+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Memory For AI At The Edge",
-    "summary": "AIエッジ向けにLPDDRの新リリースが最適なメモリとなる理由。",
+    "title": "Scoping out the chiplet-based design flow",
+    "summary": "チップレット設計はIPアクセス、インターポーザー技術、HBMサプライヤー等との連携が鍵。設計フローを概観。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/memory-for-ai-at-the-edge"
+        "name": "edn.com",
+        "url": "https://www.edn.com/scoping-out-the-chiplet-based-design-flow"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Identifying Read Disturbance Threshold of DRAM Chips (ETH Zurich, Rutgers)",
-        "blurb": "ETH ZurichとRutgers大学が、DRAMチップの読み出し妨害閾値を発見する新手法「DiscoRD」を発表しました。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/identifying-read-disturbance-threshold-of-dram-chips-eth-zurich-rutgers"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Micron Unveils HBM4, SOCAMM2, and PCIe Gen6 SSD for AI",
-        "blurb": "マイクロン、AI向け次世代メモリ・ストレージHBM4、SOCAMM2、PCIe Gen6 SSDの量産開始。NVIDIAプラットフォーム向け。",
-        "category": "company",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/micron-unveils-hbm4-socamm2-and-pcie-gen6-ssd-for-ai"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "Memory For AI At The Edge",
-        "blurb": "AIエッジ向けにLPDDRの新リリースが最適なメモリとなる理由。",
+        "title": "Scoping out the chiplet-based design flow",
+        "blurb": "チップレット設計はIPアクセス、インターポーザー技術、HBMサプライヤー等との連携が鍵。設計フローを概観。",
         "category": "business",
-        "date": "2026-03-18",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/memory-for-ai-at-the-edge"
+          "name": "edn.com",
+          "url": "https://www.edn.com/scoping-out-the-chiplet-based-design-flow"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": null,
+          "process": "backend",
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ASIC向けHBMビット需要、2028年には35倍に",
-        "blurb": "AIサーバー向けHBMビット需要は2028年までに35倍増。HBM3Eが過半数を占め、今後はHBM4/4Eへの進化とカスタムHBMの消費増が見込まれる。",
-        "category": "business",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/18/news041.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "ai",
           "industry": null
         }
       }
