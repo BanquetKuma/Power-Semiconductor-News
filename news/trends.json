@@ -1,40 +1,39 @@
 {
-  "generated_at": "2026-03-20T06:13:10.942729+09:00",
-  "date": "2026-03-20",
+  "generated_at": "2026-03-21T06:09:59.545291+09:00",
+  "date": "2026-03-21",
   "meta_trends": [
     {
-      "name": "AIインフラ向け高効率電源技術",
+      "name": "AIインフラの電力効率向上",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "ai",
-        "datacenter"
+        "datacenter",
+        "logic"
       ],
-      "summary": "AIサーバーの電力需要増大に対応するため、800VDC、GaN、SiC、高密度化技術を活用した高効率・高電力密度電源ソリューションが急速に進化。",
+      "summary": "AIサーバーの電力消費増大に対応するため、高効率な電源技術（GaN、SiC、800Vシステム、ハイブリッド電源）への需要が急増している。",
       "analysis": {
-        "short_term": "需要拡大で関連部品の供給逼迫の可能性。",
-        "mid_term": "技術革新によるコスト低下と普及が進む。",
+        "short_term": "高効率電源部品の需要増が続く。",
+        "mid_term": "次世代AIチップの性能向上と電力効率の両立が鍵。",
         "investment_implications": "高効率電源技術を持つ企業に注目。"
       },
       "keywords": [
-        "800VDC",
+        "AI",
         "GaN",
         "SiC",
-        "AIサーバー",
+        "800V",
         "電源効率"
       ],
       "companies_mentioned": [
         "Nvidia",
         "AOS",
         "Infineon",
-        "Navitas",
-        "EPC",
-        "Power Diamond Systems"
+        "ローム"
       ]
     },
     {
-      "name": "先端リソグラフィと微細化技術",
+      "name": "次世代リソグラフィ技術の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -43,128 +42,114 @@
         "logic",
         "miniaturization"
       ],
-      "summary": "High-NA EUVの産業規模での導入が進み、微細化技術の限界を押し広げる。チップレットや異種集積との連携も重要。",
+      "summary": "High-NA EUV露光装置の産業規模での導入が進み、微細化技術の限界突破とチップ性能向上が期待される。",
       "analysis": {
-        "short_term": "高NA EUV装置の供給と歩留まりが鍵。",
-        "mid_term": "次世代チップの性能向上とコスト削減に寄与。",
-        "investment_implications": "露光装置、マスク、プロセス技術企業に期待。"
+        "short_term": "高NA EUV関連装置・材料への投資が加速。",
+        "mid_term": "1nm世代以降のチップ製造競争が激化。",
+        "investment_implications": "露光装置メーカーや関連材料企業に追い風。"
       },
       "keywords": [
         "High-NA EUV",
         "リソグラフィ",
         "微細化",
-        "チップレット",
-        "プロセス技術"
-      ],
-      "companies_mentioned": [
-        "imec",
         "ASML",
-        "IBM",
-        "Lam Research",
-        "Intel",
-        "Synopsys"
-      ]
-    },
-    {
-      "name": "AI向け先端パッケージングと相互接続",
-      "confidence": 0.88,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "ai",
-        "datacenter",
-        "logic",
-        "miniaturization"
-      ],
-      "summary": "AIインフラの帯域幅ボトルネック解消のため、CPOや異種集積といった先端パッケージング技術が不可欠。製造限界も顕在化。",
-      "analysis": {
-        "short_term": "製造上の課題解決が量産化の鍵。",
-        "mid_term": "高性能AIチップの実現に不可欠な技術となる。",
-        "investment_implications": "先端パッケージング技術を持つ企業に注目。"
-      },
-      "keywords": [
-        "先端パッケージング",
-        "CPO",
-        "異種集積",
-        "相互接続",
-        "帯域幅"
+        "imec"
       ],
       "companies_mentioned": [
-        "Intel",
-        "Synopsys"
+        "ASML",
+        "imec",
+        "IBM",
+        "Lam Research"
       ]
     },
     {
-      "name": "次世代素材（GaN, SiC, ダイヤモンド）の活用",
+      "name": "EV向け次世代バッテリー技術",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "power",
         "automotive",
-        "ai",
-        "wafer"
+        "power"
       ],
-      "summary": "GaN、SiC、ダイヤモンドなどの次世代パワー半導体材料が、高効率化、小型化、高耐圧化を実現し、AIやEV分野で採用拡大。",
+      "summary": "全固体電池が安全性と航続距離を向上させ、EV普及を加速させる。関連材料・製造技術の開発競争が激化。",
       "analysis": {
-        "short_term": "材料開発と製造プロセスの確立が急務。",
-        "mid_term": "既存シリコン技術からの置き換えが進む。",
-        "investment_implications": "新素材開発・製造企業に成長機会。"
+        "short_term": "全固体電池関連の技術開発・実用化が加速。",
+        "mid_term": "EVの性能向上とコスト低減が両立。",
+        "investment_implications": "次世代バッテリー材料・技術企業に注目。"
       },
       "keywords": [
-        "GaN",
-        "SiC",
-        "ダイヤモンド",
-        "パワー半導体",
-        "次世代素材"
+        "全固体電池",
+        "EV",
+        "航続距離",
+        "安全性"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "AIセキュリティとハードウェア脆弱性",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "idm"
+      ],
+      "summary": "LLMに対するソフトウェアとハードウェアの脆弱性を組み合わせた攻撃手法が登場し、AIシステムのセキュリティリスクが増大。",
+      "analysis": {
+        "short_term": "AIセキュリティ対策の重要性が高まる。",
+        "mid_term": "ハードウェアレベルでのセキュリティ強化が必須に。",
+        "investment_implications": "AIセキュリティソリューション企業に需要増。"
+      },
+      "keywords": [
+        "AI",
+        "LLM",
+        "セキュリティ",
+        "脆弱性"
       ],
       "companies_mentioned": [
-        "Infineon",
-        "Navitas",
-        "EPC",
-        "Power Diamond Systems",
-        "名大"
+        "Intel"
       ]
     },
     {
-      "name": "地政学リスクとサプライチェーンの再編",
-      "confidence": 0.75,
+      "name": "HBM需要の爆発的増加",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "geopolitics",
-        "foundry",
-        "equipment",
-        "general"
+        "memory",
+        "ai",
+        "datacenter"
       ],
-      "summary": "中東情勢の緊迫化が、半導体製造に必要な原材料（ヘリウム等）の供給リスクを高め、AIブームによる需要増に影響。",
+      "summary": "AIサーバー向けHBMビット需要が2028年までに35倍増と予測。HBM4以降への進化とカスタムHBMの需要増が見込まれる。",
       "analysis": {
-        "short_term": "原材料供給の不安定化によるコスト上昇。",
-        "mid_term": "サプライチェーンの多様化・国内回帰が進む。",
-        "investment_implications": "サプライチェーン強靭化策を講じる企業が有利。"
+        "short_term": "HBMサプライヤーへの供給逼迫が継続。",
+        "mid_term": "HBM4/4EおよびカスタムHBMの競争が激化。",
+        "investment_implications": "HBM関連メモリメーカーに業績拡大期待。"
       },
       "keywords": [
-        "地政学リスク",
-        "サプライチェーン",
-        "原材料",
-        "ヘリウム",
-        "AI需要"
+        "HBM",
+        "AI",
+        "メモリ",
+        "DDR5"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "SKハイニックス",
+        "Micron"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIインフラ投資の継続的な拡大",
-      "高効率・高性能半導体への需要増",
-      "先端製造技術への投資活発化"
+      "AIインフラ投資の継続",
+      "高効率電源技術への需要増",
+      "次世代リソグラフィ技術の進展",
+      "EV市場の拡大",
+      "HBM需要の急増"
     ],
     "bearish": [
-      "地政学リスクによる原材料供給不安",
-      "先端パッケージングの製造限界とコスト増"
+      "地政学的リスク（中東紛争）によるサプライチェーンへの影響懸念"
     ],
     "neutral": [
-      "半導体組立工程における物理的課題の解決",
-      "2次元半導体の実用化に向けた長期的な開発"
+      "2D半導体技術の着実な進展だが、実用化への課題は残る"
     ]
   },
-  "source_count": 54
+  "source_count": 56
 }

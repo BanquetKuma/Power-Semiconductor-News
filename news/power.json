@@ -1,69 +1,50 @@
 {
-  "generated_at": "2026-03-20T06:13:06.041578+09:00",
+  "generated_at": "2026-03-21T06:09:55.083594+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Corner: Infineon’s Johannes Schoiswohl on GaN Integration, Bidirectional Switches, and 300 mm Manufacturing",
-    "summary": "インフィニオンのシュワイスヴォール氏がGaN技術、双方向スイッチ、300mm製造について語る。",
+    "title": "Nvidia GTC 2026, GaN Bidirectional Switches, H3TRB Reliability Tests for SiC Power Devices: Power Electronics Week Insights",
+    "summary": "Nvidia GTC 2026、GaN双方向スイッチ、SiCパワーデバイスのH3TRB信頼性試験など、パワーエレクトロニクス分野の最新動向をまとめた。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-corner-infineons-johannes-schoiswohl-on-gan-integration-bidirectional-switches-and-300-mm-manufacturing"
+        "url": "https://www.powerelectronicsnews.com/nvidia-gtc-2026-gan-bidirectional-switches-h3trb-reliability-tests-for-sic-power-devices-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Power Corner: Infineon’s Johannes Schoiswohl on GaN Integration, Bidirectional Switches, and 300 mm Manufacturing",
-        "blurb": "インフィニオンのシュワイスヴォール氏がGaN技術、双方向スイッチ、300mm製造について語る。",
-        "category": "company",
-        "date": "2026-03-19",
+        "title": "Nvidia GTC 2026, GaN Bidirectional Switches, H3TRB Reliability Tests for SiC Power Devices: Power Electronics Week Insights",
+        "blurb": "Nvidia GTC 2026、GaN双方向スイッチ、SiCパワーデバイスのH3TRB信頼性試験など、パワーエレクトロニクス分野の最新動向をまとめた。",
+        "category": "business",
+        "date": "2026-03-20",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-infineons-johannes-schoiswohl-on-gan-integration-bidirectional-switches-and-300-mm-manufacturing"
+          "url": "https://www.powerelectronicsnews.com/nvidia-gtc-2026-gan-bidirectional-switches-h3trb-reliability-tests-for-sic-power-devices-power-electronics-week-insights"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "fabless"
         }
       },
       {
-        "title": "Infineon Unveils 800-V CoolGaN HV IBC Reference Designs",
-        "blurb": "インフィニオンがAIサーバー向け800V高電圧IBCリファレンスデザインを発表。次世代AIサーバーの効率的な電力変換を実現。",
-        "category": "company",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-unveils-800-v-coolgan-hv-ibc-reference-designs"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
-    "tech": [],
-    "market": [
-      {
-        "title": "The Rise of GaN Bidirectional Switches",
-        "blurb": "窒化ガリウム（GaN）双方向スイッチは、電力双方向の流れを効率的に処理するソリューションとして注目されています。",
+        "title": "GaN fundamentals: Hybrid structures, HEMT, and substrate choices",
+        "blurb": "窒化ガリウム(GaN)の基礎解説。ハイブリッド構造、HEMT、基板選択について詳述。",
         "category": "business",
-        "date": "2026-03-19",
+        "date": "2026-03-20",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches"
+          "name": "edn.com",
+          "url": "https://www.edn.com/gan-fundamentals-hybrid-structures-hemt-and-substrate-choices"
         },
         "field": {
           "primary": "power",

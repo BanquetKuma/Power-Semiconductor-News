@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-20T06:13:06.045239+09:00",
+  "generated_at": "2026-03-21T06:09:55.086324+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages",
-    "summary": "半導体組立工程における重力によるストリップ反りの影響を定量化し、シミュレーションと実測データの乖離を縮小する。",
+    "title": "Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)",
+    "summary": "POSTECHの研究者らが、超薄型テリウムトランジスタにおける接点由来のノイズを解明・制御する技術を発表しました。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/quantifying-the-impact-of-gravity-on-strip-warpage-across-assembly-stages"
+        "url": "https://semiengineering.com/bias-and-temperature-dependent-noise-measurements-to-investigate-carrier-transport-at-the-tellurium-interface-pohang-university"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "2D Semiconductors Inch Forward",
-        "blurb": "2次元半導体の開発は着実に進展しているが、根本的な課題は未解決のままである。",
+        "title": "Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)",
+        "blurb": "POSTECHの研究者らが、超薄型テリウムトランジスタにおける接点由来のノイズを解明・制御する技術を発表しました。",
         "category": "company",
-        "date": "2026-03-19",
+        "date": "2026-03-21",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/2d-semiconductors-inch-forward"
+          "url": "https://semiengineering.com/bias-and-temperature-dependent-noise-measurements-to-investigate-carrier-transport-at-the-tellurium-interface-pohang-university"
         },
         "field": {
           "primary": "general",
@@ -35,89 +35,16 @@
         }
       }
     ],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages",
-        "blurb": "半導体組立工程における重力によるストリップ反りの影響を定量化し、シミュレーションと実測データの乖離を縮小する。",
-        "category": "business",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/quantifying-the-impact-of-gravity-on-strip-warpage-across-assembly-stages"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Scaling AI Infrastructure: Overcoming Interconnect Bottlenecks Via CPO And Heterogeneous Integration",
-        "blurb": "AIインフラの拡張には、CPOと異種集積による相互接続のボトルネック解消が課題。帯域幅密度、組立、光ファイバー配置の精度が求められる。",
-        "category": "business",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scaling-ai-infrastructure-overcoming-interconnect-bottlenecks-via-cpo-and-heterogeneous-integration"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Liquid Cooling Drives Other Localized Cooling",
-        "blurb": "液冷技術が局所冷却を牽引。従来不要だったチップにも冷却が必要になる時代に。",
-        "category": "business",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/liquid-cooling-drives-other-localized-cooling"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Aligning The Semiconductor Value Chain In A Virtuous AI Cycle At SEMICON Korea 2026",
-        "blurb": "AIが半導体産業を変革し、次世代AIシステムを推進する好循環がSEMICON Korea 2026で議論される。",
-        "category": "business",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/aligning-the-semiconductor-value-chain-in-a-virtuous-ai-cycle-at-semicon-korea-2026"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Single-stage design removes 48-V bus in servers",
-        "blurb": "Navitas SemiconductorのDC/DC電源基板は、800Vから6Vへの直接変換を一段階で実現し、サーバーの48Vバスを不要にします。",
-        "category": "business",
-        "date": "2026-03-19",
+        "title": "Vcc delay",
+        "blurb": "TLV431回路でLSIの電源投入失敗を解決。5V電源の急峻な立ち上がり時間を確保。",
+        "category": "tools",
+        "date": "2026-03-20",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/single-stage-design-removes-48-v-bus-in-servers"
+          "url": "https://www.edn.com/vcc-delay"
         },
         "field": {
           "primary": "general",
@@ -127,6 +54,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

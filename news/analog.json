@@ -1,60 +1,41 @@
 {
-  "generated_at": "2026-03-19T06:13:37.856999+09:00",
+  "generated_at": "2026-03-21T06:09:55.084718+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Analysis of the Evolving Landscape of Ultra-low-power Edge AI Processors (U. of Austria, ETH Zurich)",
-    "summary": "オーストリア大学とETHチューリッヒが超低消費電力エッジAIプロセッサに関する技術論文を発表。異種SoC、ニューラルアクセラレータ等を比較分析。",
+    "title": "Imec Unveils Wireline ADC for Next-Generation Optical Links",
+    "summary": "imecが次世代光通信向けワイヤラインADCを発表。高速サンプリング速度と低消費電力を小型フォームファクタで実現。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/analysis-of-the-evolving-landscape-of-ultra-low-power-edge-ai-processors-u-of-austria-eth-zurich"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/imec-unveils-wireline-adc-for-next-generation-optical-links"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "ST Partners with Nvidia on Physical AI",
-        "blurb": "STマイクロエレクトロニクスはNvidiaと提携し、ロボティクスポートフォリオをNvidia Holoscanプラットフォームに統合。AI開発を加速。",
-        "category": "company",
-        "date": "2026-03-18",
+        "title": "Imec Unveils Wireline ADC for Next-Generation Optical Links",
+        "blurb": "imecが次世代光通信向けワイヤラインADCを発表。高速サンプリング速度と低消費電力を小型フォームファクタで実現。",
+        "category": "business",
+        "date": "2026-03-20",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/st-partners-with-nvidia-on-physical-ai"
+          "url": "https://www.embedded.com/imec-unveils-wireline-adc-for-next-generation-optical-links"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
           "market": null,
-          "industry": "fabless"
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Analysis of the Evolving Landscape of Ultra-low-power Edge AI Processors (U. of Austria, ETH Zurich)",
-        "blurb": "オーストリア大学とETHチューリッヒが超低消費電力エッジAIプロセッサに関する技術論文を発表。異種SoC、ニューラルアクセラレータ等を比較分析。",
-        "category": "tools",
-        "date": "2026-03-18",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/analysis-of-the-evolving-landscape-of-ultra-low-power-edge-ai-processors-u-of-austria-eth-zurich"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "ai",
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

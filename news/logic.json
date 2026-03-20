@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-20T06:13:06.042321+09:00",
+  "generated_at": "2026-03-21T06:09:55.084227+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Nvidia GTC 2026: 800 VDC Power Partnerships From Grid to Processor",
-    "summary": "Nvidia GTC 2026では、施設レベルのSSTから800V-6V変換まで、電力関連の発表があった。",
+    "summary": "Nvidia GTC 2026では、施設レベルのSSTから800V-6V変換まで、電力関連の発表が多数あった。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -17,44 +17,8 @@
   "sections": {
     "news": [
       {
-        "title": "Replay‑based Validation as a Scalable Methodology for Chiplet‑based Systems (Intel, Synopsys)",
-        "blurb": "Intel、Nvidia、Synopsysがチップレットベースシステムの検証手法を発表。AI・グラフィックス向けCPU-GPU統合の効率化を目指す。",
-        "category": "company",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/replay-based-validation-as-a-scalable-methodology-for-chiplet-based-systems-intel-synopsys"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "backend",
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "フィジカルAIを加速　NPUとトライラジオ接続を1チップに",
-        "blurb": "NXPがNPUとトライラジオを統合した新プロセッサ「i.MX 93W」を発表。フィジカルAIの普及加速を目指す。",
-        "category": "company",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/19/news065.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Nvidia GTC 2026: 800 VDC Power Partnerships From Grid to Processor",
-        "blurb": "Nvidia GTC 2026では、施設レベルのSSTから800V-6V変換まで、電力関連の発表があった。",
+        "blurb": "Nvidia GTC 2026では、施設レベルのSSTから800V-6V変換まで、電力関連の発表が多数あった。",
         "category": "company",
         "date": "2026-03-20",
         "stars": 3,
@@ -72,7 +36,7 @@
       },
       {
         "title": "BrainChip Launches Wearables Reference Platform",
-        "blurb": "BrainChipがウェアラブル向け参照プラットフォーム「AkidaTag」を発表。低消費電力で常時稼働AIを実現。",
+        "blurb": "BrainChipがウェアラブル向け参照プラットフォーム「AkidaTag」を発表。低消費電力で常時稼働AIセンサーを実現。",
         "category": "company",
         "date": "2026-03-20",
         "stars": 3,
@@ -91,20 +55,20 @@
     ],
     "tech": [
       {
-        "title": "PocketBeagle 2 Industrial SBC Launches with 1GB DDR4 and 64GB eMMC",
-        "blurb": "産業用PocketBeagle 2が発売。TI AM6254 SoC、1GB DDR4、64GB eMMC搭載で、産業用途に適したリアルタイムサブシステムと広範な温度サポートを備える。",
+        "title": "Meet the Arduino VENTUNO Q: A “Dual-Brain” Architecture on a Single Board",
+        "blurb": "Arduino VENTUNO Qは、Dragonwing IQ8とSTM32H5を搭載したデュアルコアボード。エッジAI、ロボティクス、モーション制御向け。",
         "category": "tools",
-        "date": "2026-03-19",
+        "date": "2026-03-20",
         "stars": 3,
         "source": {
           "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/pocketbeagle-2-industrial-sbc-launches-with-1gb-ddr4-and-64gb-emmc"
+          "url": "https://www.electronics-lab.com/meet-the-arduino-ventuno-q-a-dual-brain-architecture-on-a-single-board"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "industrial",
+          "market": "ai",
           "industry": null
         }
       }
