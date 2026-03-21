@@ -1,58 +1,304 @@
 {
-  "generated_at": "2026-03-21T06:09:55.082177+09:00",
+  "generated_at": "2026-03-20T06:13:06.039612+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Bourns Expands Modular Contacts Portfolio with 5–8 A Options",
-    "summary": "Bournsがモジュラーコンタクト製品群を拡張し、5A、6A、8Aオプションを追加。高電力密度、スケーラブルな設計、効率的なエネルギー伝送をサポート。",
+    "title": "Nvidia GTC 2026: 800 VDC Power Partnerships From Grid to Processor",
+    "summary": "Nvidia GTC 2026では、施設レベルのSSTから800V-6V変換まで、電力関連の発表があった。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/bourns-expands-modular-contacts-portfolio-with-5-8-a-options"
+        "url": "https://www.powerelectronicsnews.com/nvidia-gtc-2026-800-vdc-power-partnerships-from-grid-to-processor"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Nvidia GTC 2026, GaN Bidirectional Switches, H3TRB Reliability Tests for SiC Power Devices: Power Electronics Week Insights",
-        "blurb": "Nvidia GTC 2026、GaN双方向スイッチ、SiCパワーデバイスのH3TRB信頼性試験など、パワーエレクトロニクス分野の最新動向をまとめた。",
+        "title": "Hybrid LIC + BBU: Solving AI Server Power Gaps",
+        "blurb": "AIサーバーの電力不足を解消するハイブリッドスーパーキャパシタ（LIC+BBU）が登場。ミリ秒単位の電力補償、小型・高速・長寿命を実現。",
         "category": "business",
-        "date": "2026-03-20",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/nvidia-gtc-2026-gan-bidirectional-switches-h3trb-reliability-tests-for-sic-power-devices-power-electronics-week-insights"
+          "url": "https://www.powerelectronicsnews.com/hybrid-lic-bbu-solving-ai-server-power-gaps"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "The Rise of GaN Bidirectional Switches",
+        "blurb": "窒化ガリウム（GaN）双方向スイッチは、電力双方向の流れを効率的に処理するソリューションとして注目されています。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Solid-State Batteries Increase Energy Density While Enhancing Safety and EV Range",
-        "blurb": "全固体電池はエネルギー密度を高め、安全性とEV航続距離を向上させる。これによりEV普及が加速する見込みだ。",
-        "category": "business",
-        "date": "2026-03-20",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/solid-state-batteries-increase-energy-density-while-enhancing-safety-and-ev-range"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
           "industry": null
         }
       },
       {
+        "title": "Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages",
+        "blurb": "半導体組立工程における重力によるストリップ反りの影響を定量化し、シミュレーションと実測データの乖離を縮小する。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/quantifying-the-impact-of-gravity-on-strip-warpage-across-assembly-stages"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Exploring The Frontiers Of Lithography And Patterning: Highlights From SPIE Advanced Lithography + Patterning 2026",
+        "blurb": "SPIE Advanced Lithography + Patterning 2026では、High-NA EUVの小面積化がOPCやマスク合成の革新を促進。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/exploring-the-frontiers-of-lithography-and-patterning-highlights-from-spie-advanced-lithography-patterning-2026"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Process Model Precision: Calibrating For Accurate Predictions Of FinFET Device Profiles",
+        "blurb": "FinFETデバイスの正確な予測のため、サブナノメートル精度でシミュレーションと実機を一致させるプロセスモデルの精度調整。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/process-model-precision-calibrating-for-accurate-predictions-of-finfet-device-profiles"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Scaling AI Infrastructure: Overcoming Interconnect Bottlenecks Via CPO And Heterogeneous Integration",
+        "blurb": "AIインフラの拡張には、CPOと異種集積による相互接続のボトルネック解消が課題。帯域幅密度、組立、光ファイバー配置の精度が求められる。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scaling-ai-infrastructure-overcoming-interconnect-bottlenecks-via-cpo-and-heterogeneous-integration"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Liquid Cooling Drives Other Localized Cooling",
+        "blurb": "液冷技術が局所冷却を牽引。従来不要だったチップにも冷却が必要になる時代に。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/liquid-cooling-drives-other-localized-cooling"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Aligning The Semiconductor Value Chain In A Virtuous AI Cycle At SEMICON Korea 2026",
+        "blurb": "AIが半導体産業を変革し、次世代AIシステムを推進する好循環がSEMICON Korea 2026で議論される。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/aligning-the-semiconductor-value-chain-in-a-virtuous-ai-cycle-at-semicon-korea-2026"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Advanced Packaging Limits Come Into Focus",
+        "blurb": "先端パッケージングの製造限界が、機械的・プロセス制御上の課題により顕在化。量産化への影響が焦点。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/advanced-packaging-limits-come-into-focus"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI/HPCシステムの死命を制する消費電力・放熱設計（前編）",
+        "blurb": "AI/HPCシステムの鍵となる消費電力・放熱設計について、IEDM 2025のTSMC講演内容を解説する前編。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/19/news038.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Single-stage design removes 48-V bus in servers",
+        "blurb": "Navitas SemiconductorのDC/DC電源基板は、800Vから6Vへの直接変換を一段階で実現し、サーバーの48Vバスを不要にします。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/single-stage-design-removes-48-v-bus-in-servers"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "UWB SoCs extend ranging and radar performance",
+        "blurb": "STの超広帯域UWB SoC「ST64UWB」は、自動車用途で測距・レーダー性能を向上。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/uwb-socs-extend-ranging-and-radar-performance"
+        },
+        "field": null
+      },
+      {
+        "title": "Buck ICs improve AI data center power",
+        "blurb": "インフィニオンの新バックICはAIデータセンターの電力効率を向上させ、電圧調整を簡素化する。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/buck-ics-improve-ai-data-center-power"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Cellular hotspots: Multi-option evaluation thoughts",
+        "blurb": "携帯データサービス更新のため、4台のセルラーホットスポットデバイスを新規購入。その評価と選択肢について考察。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/cellular-hotspots-multi-option-evaluation-thoughts"
+        },
+        "field": null
+      },
+      {
+        "title": "Scoping out the chiplet-based design flow",
+        "blurb": "チップレット設計はIPアクセス、インターポーザー技術、HBMサプライヤー等との連携が鍵。設計フローを概観。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/scoping-out-the-chiplet-based-design-flow"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Nvidia GTC: More Support for 800-VDC Data Centers",
+        "blurb": "Nvidia GTCで800VDCデータセンター向けの新電源ポートフォリオを発表。電力効率向上に貢献。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nvidia-gtc-more-support-for-800-vdc-data-centers"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Rivian Wins Big With Up To 50,000 R2 Robotaxis Set To Hit The Uber App",
+        "blurb": "UberがRivianに最大12.5億ドル投資、5年間で最大5万台のR2ロボタクシーを導入へ。初期ロット1万台発注済み。",
+        "category": "business",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790503/uber-rivian-r2-robotaxi-deal"
+        },
+        "field": null
+      },
+      {
         "title": "AOS Introduces 25V and 80V MOSFETs for AI Server Power",
-        "blurb": "AOSがAIサーバー向けに25V/80V MOSFETを発表。両面冷却パッケージで熱性能と電力密度を向上。",
+        "blurb": "AOSはAIサーバー向けに、放熱性能と電力密度を高めた25V/80Vの新型MOSFETを発表しました。",
         "category": "business",
         "date": "2026-03-20",
         "stars": 3,
@@ -69,32 +315,48 @@
         }
       },
       {
-        "title": "Chip Industry Week In Review",
-        "blurb": "HBM4契約、サプライチェーンへの影響、米AI枠組み、GPU密輸、中国向けH200再開、SKハイニックス予測など、半導体業界の最新動向。",
+        "title": "This One Brand's EVs Beat Their EPA Range Ratings Better Than The Rest",
+        "blurb": "コンシューマー・リポートの調査で、EVの実際の航続距離がEPA推定値を上回るブランドが判明。上位・下位の結果を公開。",
         "category": "business",
         "date": "2026-03-20",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-130"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790449/epa-range-estimation-test-results"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "PocketBeagle 2 Industrial SBC Launches with 1GB DDR4 and 64GB eMMC",
+        "blurb": "産業用PocketBeagle 2が発売。TI AM6254 SoC、1GB DDR4、64GB eMMC搭載で、産業用途に適したリアルタイムサブシステムと広範な温度サポートを備える。",
+        "category": "tools",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/pocketbeagle-2-industrial-sbc-launches-with-1gb-ddr4-and-64gb-emmc"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
+          "primary": "logic",
+          "device": "logic",
           "process": null,
-          "market": null,
-          "industry": "idm"
+          "market": "industrial",
+          "industry": null
         }
-      },
+      }
+    ],
+    "company": [
       {
-        "title": "GaN fundamentals: Hybrid structures, HEMT, and substrate choices",
-        "blurb": "窒化ガリウム(GaN)の基礎解説。ハイブリッド構造、HEMT、基板選択について詳述。",
-        "category": "business",
-        "date": "2026-03-20",
+        "title": "Power Corner: Infineon’s Johannes Schoiswohl on GaN Integration, Bidirectional Switches, and 300 mm Manufacturing",
+        "blurb": "インフィニオンのシュワイスヴォール氏がGaN技術、双方向スイッチ、300mm製造について語る。",
+        "category": "company",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/gan-fundamentals-hybrid-structures-hemt-and-substrate-choices"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-infineons-johannes-schoiswohl-on-gan-integration-bidirectional-switches-and-300-mm-manufacturing"
         },
         "field": {
           "primary": "power",
@@ -105,88 +367,32 @@
         }
       },
       {
-        "title": "Imec Unveils Wireline ADC for Next-Generation Optical Links",
-        "blurb": "imecが次世代光通信向けワイヤラインADCを発表。高速サンプリング速度と低消費電力を小型フォームファクタで実現。",
-        "category": "business",
-        "date": "2026-03-20",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/imec-unveils-wireline-adc-for-next-generation-optical-links"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "This Is Why So Many EVs Are Getting Canceled",
-        "blurb": "EV販売台数の低迷、BMW i3の生産終了、ガソリン価格の高騰がEVキャンセル増加の原因として議論されている。",
-        "category": "business",
-        "date": "2026-03-20",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/790570/why-evs-getting-canceled-2026"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "This One Brand's EVs Beat Their EPA Range Ratings Better Than The Rest",
-        "blurb": "コンシューマー・リポートの調査で、EVの実際の航続距離がEPA推定値を上回るブランドが判明。約30車種をテストした結果を公開。",
-        "category": "business",
-        "date": "2026-03-20",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790449/epa-range-estimation-test-results"
-        },
-        "field": null
-      },
-      {
-        "title": "Jeep, Dodge, And Ram EVs Can Now Charge At Tesla Superchargers",
-        "blurb": "StellantisのEV、Jeep、Dodge、Ramがテスラのスーパーチャージャーを利用可能に。米国最大級の充電網へのアクセスが実現。",
-        "category": "business",
-        "date": "2026-03-20",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790525/stellantis-jeep-dodge-ram-evs-tesla-superchargers"
-        },
-        "field": null
-      },
-      {
-        "title": "Bourns Expands Modular Contacts Portfolio with 5–8 A Options",
-        "blurb": "Bournsがモジュラーコンタクト製品群を拡張し、5A、6A、8Aオプションを追加。高電力密度、スケーラブルな設計、効率的なエネルギー伝送をサポート。",
-        "category": "business",
-        "date": "2026-03-21",
+        "title": "Infineon Unveils 800-V CoolGaN HV IBC Reference Designs",
+        "blurb": "インフィニオンがAIサーバー向け800V高電圧IBCリファレンスデザインを発表。次世代AIサーバーの効率的な電力変換を実現。",
+        "category": "company",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/bourns-expands-modular-contacts-portfolio-with-5-8-a-options"
+          "url": "https://www.powerelectronicsnews.com/infineon-unveils-800-v-coolgan-hv-ibc-reference-designs"
         },
-        "field": null
-      }
-    ],
-    "tools": [
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
       {
-        "title": "Vcc delay",
-        "blurb": "TLV431回路でLSIの電源投入失敗を解決。5V電源の急峻な立ち上がり時間を確保。",
-        "category": "tools",
-        "date": "2026-03-20",
+        "title": "2D Semiconductors Inch Forward",
+        "blurb": "2次元半導体の開発は着実に進展しているが、根本的な課題は未解決のままである。",
+        "category": "company",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/vcc-delay"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/2d-semiconductors-inch-forward"
         },
         "field": {
           "primary": "general",
@@ -197,52 +403,140 @@
         }
       },
       {
-        "title": "Meet the Arduino VENTUNO Q: A “Dual-Brain” Architecture on a Single Board",
-        "blurb": "Arduino VENTUNO Qは、Dragonwing IQ8とSTM32H5を搭載したデュアルコアボード。エッジAI、ロボティクス、モーション制御向け。",
-        "category": "tools",
-        "date": "2026-03-20",
+        "title": "Replay‑based Validation as a Scalable Methodology for Chiplet‑based Systems (Intel, Synopsys)",
+        "blurb": "Intel、Nvidia、Synopsysがチップレットベースシステムの検証手法を発表。AI・グラフィックス向けCPU-GPU統合の効率化を目指す。",
+        "category": "company",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/meet-the-arduino-ventuno-q-a-dual-brain-architecture-on-a-single-board"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/replay-based-validation-as-a-scalable-methodology-for-chiplet-based-systems-intel-synopsys"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "backend",
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "高NA EUVを「産業規模へ拡張」、imecがEXE:5200導入",
+        "blurb": "imecがASMLの次世代EUV露光装置「EXE:5200」を受領。産業規模での高NA EUV技術確立を目指す。",
+        "category": "company",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/19/news074.html"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "フィジカルAIを加速　NPUとトライラジオ接続を1チップに",
+        "blurb": "NXPがNPUとトライラジオを統合した新プロセッサ「i.MX 93W」を発表。フィジカルAIの普及加速を目指す。",
+        "category": "company",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/19/news065.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "The Ford Mustang Mach-E Can Now Precondition Its Battery Via CarPlay",
-        "blurb": "フォードのマスタングMach-E、CarPlay経由でバッテリー予熱が可能に。Android Autoでは既に利用可能でした。",
-        "category": "tools",
-        "date": "2026-03-20",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790597/2026-ford-mustang-mach-e-carplay-precondition"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Diodes Introduces Automotive Multi-Phase Boost Controller",
-        "blurb": "Diodes社が、車載用マルチフェーズブーストコントローラーを発表。アダプティブヘッドライト向けに最大400W出力に対応。",
+        "title": "波長265nmの深紫外LEDで発光効率を3倍に、スタンレー電気",
+        "blurb": "スタンレー電気は深紫外LEDで発光効率を3倍に向上させ、2026年度中に10%達成を目指す。水除菌などの処理能力拡大に貢献。",
         "category": "company",
-        "date": "2026-03-20",
+        "date": "2026-03-19",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/diodes-introduces-automotive-multi-phase-boost-controller"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/19/news037.html"
         },
         "field": null
       },
       {
+        "title": "Double-side cooled MOSFETs reduce server heat",
+        "blurb": "AOSが、サーバーの放熱を改善する両面冷却MOSFETを発表しました。",
+        "category": "company",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/double-side-cooled-mosfets-reduce-server-heat"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Infineon, Nvidia Advance Humanoid Robotics with Digital Twins",
+        "blurb": "インフィニオンとNVIDIA、デジタルツイン技術で人型ロボットの安全性・展開を加速する協業を拡大。",
+        "category": "company",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/infineon-nvidia-advance-humanoid-robotics-with-digital-twins"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Everspin’s UNISYST MRAM Combines Code and Data Storage for Embedded Systems",
+        "blurb": "Everspinが、コードとデータストレージを統合した新MRAM「UNISYST」を発表。組み込みシステム向けに高密度・高速化を実現。",
+        "category": "company",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/everspins-unisyst-mram-combines-code-and-data-storage-for-embedded-systems"
+        },
+        "field": null
+      },
+      {
+        "title": "Bentley Abandons Its Ambitious EV Plans",
+        "blurb": "ベントレー、2035年までに5車種のEVを発表する計画を中止。高級EV市場への参入戦略を見直し。",
+        "category": "company",
+        "date": "2026-03-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790495/bentley-ev-plans-canceled"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
         "title": "Nvidia GTC 2026: 800 VDC Power Partnerships From Grid to Processor",
-        "blurb": "Nvidia GTC 2026では、施設レベルのSSTから800V-6V変換まで、電力関連の発表が多数あった。",
+        "blurb": "Nvidia GTC 2026では、施設レベルのSSTから800V-6V変換まで、電力関連の発表があった。",
         "category": "company",
         "date": "2026-03-20",
         "stars": 3,
@@ -278,7 +572,7 @@
       },
       {
         "title": "BrainChip Launches Wearables Reference Platform",
-        "blurb": "BrainChipがウェアラブル向け参照プラットフォーム「AkidaTag」を発表。低消費電力で常時稼働AIセンサーを実現。",
+        "blurb": "BrainChipがウェアラブル向け参照プラットフォーム「AkidaTag」を発表。低消費電力で常時稼働AIを実現。",
         "category": "company",
         "date": "2026-03-20",
         "stars": 3,
@@ -295,54 +589,6 @@
         }
       },
       {
-        "title": "SECO Launches Pi Vision 10.1 CM5 Industrial HMI Panel Powered by Raspberry Pi CM5",
-        "blurb": "SECOがRaspberry Pi CM5搭載の産業用HMIパネル「Pi Vision 10.1 CM5」を発表。産業制御やIoTダッシュボード向け。",
-        "category": "company",
-        "date": "2026-03-20",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/seco-launches-pi-vision-10-1-cm5-industrial-hmi-panel-powered-by-raspberry-pi-cm5"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Electric Lexus ES Is Officially On Sale, With 307 Miles Of Range",
-        "blurb": "レクサスESのEVモデルが発売開始。航続距離は307マイル（約494km）。ハイブリッドモデルも今後登場予定。",
-        "category": "company",
-        "date": "2026-03-20",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790571/lexus-es-ev-on-sale-range-2026"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Xiaomi YU7 GT Aims At Porsche With 990 Horsepower And 438 Miles Of Range",
-        "blurb": "Xiaomi YU7 GT、ポルシェ越えの990馬力と航続距離700km超。中国MIITが公開。",
-        "category": "company",
-        "date": "2026-03-20",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790563/xiaomi-yu7-gt-miit-china-exposed"
-        },
-        "field": null
-      },
-      {
         "title": "I’ve Tried All Of The ‘High Performance’ SUVs. The Polestar 3 Drives Better Than Any Of Them",
         "blurb": "ポルシェ3は、BMW X5 Mやランボルギーニ・ウルスよりもコーナリング性能が高く、運転が楽しい。",
         "category": "company",
@@ -355,74 +601,32 @@
         "field": null
       },
       {
-        "title": "How SW and HW Vulnerabilities Can Complement LLM-Specific Algorithmic Attacks (UT Austin, Intel et al.)",
-        "blurb": "UTオースティン等の研究者らが、LLM攻撃にソフトウェアとハードウェアの脆弱性を組み合わせる手法を発表。AIシステムの脅威増幅を狙う。",
+        "title": "Jeep, Dodge, And Ram EVs Can Now Charge At Tesla Superchargers",
+        "blurb": "StellantisのEV、Jeep、Dodge、Ramがテスラのスーパーチャージャーを利用可能に。米国最大級の充電網にアクセス可能となった。",
         "category": "company",
-        "date": "2026-03-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-sw-and-hw-vulnerabilities-can-complement-llm-specific-algorithmic-attacks-ut-austin-intel-et-al"
-        },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Bias- and Temperature-Dependent Noise Measurements to Investigate Carrier Transport at the Tellurium Interface (POSTECH)",
-        "blurb": "POSTECHの研究者らが、超薄型テリウムトランジスタにおける接点由来のノイズを解明・制御する技術を発表しました。",
-        "category": "company",
-        "date": "2026-03-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/bias-and-temperature-dependent-noise-measurements-to-investigate-carrier-transport-at-the-tellurium-interface-pohang-university"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Nvidia GTC, Humanoid Robots, Digital RF Architecture: Embedded Week Insights",
-        "blurb": "Nvidia GTC、人型ロボット、デジタルRFアーキテクチャに関する最新動向をまとめた記事。",
-        "category": "company",
-        "date": "2026-03-21",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/nvidia-gtc-humanoid-robots-digital-rf-architecture-embedded-week-insights"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "The New BMW i3 Is A Bigger Deal Than The iX3. Here's Why.",
-        "blurb": "BMWのEV戦略の核となる「i3」は、既存の「iX3」よりも重要度が高い。3シリーズのEV化はブランドにとって大きな意味を持つ。",
-        "category": "company",
-        "date": "2026-03-21",
+        "date": "2026-03-20",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/features/790391/bmw-i3-bigger-deal-ix3"
+          "url": "https://insideevs.com/news/790525/stellantis-jeep-dodge-ram-evs-tesla-superchargers"
+        },
+        "field": null
+      },
+      {
+        "title": "224G ICs optimize signal integrity in linear optics",
+        "blurb": "Semtech’s 224-Gbps/lane TIAs and drivers power 800G–3.2T transceivers and optical engines for AI/ML clusters and cloud d",
+        "category": "company",
+        "date": "2026-03-19",
+        "stars": 2,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/224g-ics-optimize-signal-integrity-in-linear-optics"
         },
         "field": {
-          "primary": "automotive",
+          "primary": "datacenter",
           "device": null,
           "process": null,
-          "market": "automotive",
+          "market": "datacenter",
           "industry": null
         }
       }

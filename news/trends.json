@@ -1,154 +1,168 @@
 {
-  "generated_at": "2026-03-21T06:09:59.545291+09:00",
-  "date": "2026-03-21",
+  "generated_at": "2026-03-22T06:08:08.863761+09:00",
+  "date": "2026-03-22",
   "meta_trends": [
     {
-      "name": "AIインフラの電力効率向上",
+      "name": "次世代パワー半導体の進化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "ai",
-        "datacenter",
-        "logic"
+        "automotive",
+        "datacenter"
       ],
-      "summary": "AIサーバーの電力消費増大に対応するため、高効率な電源技術（GaN、SiC、800Vシステム、ハイブリッド電源）への需要が急増している。",
+      "summary": "GaNやSiCといった次世代パワー半導体技術が、AIサーバー、EV、データセンター向けに急速に進化・普及している。高電圧化、高効率化が鍵。",
       "analysis": {
-        "short_term": "高効率電源部品の需要増が続く。",
-        "mid_term": "次世代AIチップの性能向上と電力効率の両立が鍵。",
-        "investment_implications": "高効率電源技術を持つ企業に注目。"
+        "short_term": "需要拡大が続く。供給能力が追いつくか注視。",
+        "mid_term": "技術革新が競争を加速。標準化の動きも重要。",
+        "investment_implications": "関連企業への投資妙味あり。技術力と生産能力が評価指標。"
       },
       "keywords": [
-        "AI",
         "GaN",
         "SiC",
-        "800V",
-        "電源効率"
+        "AIサーバー",
+        "EV",
+        "高電圧"
       ],
       "companies_mentioned": [
         "Nvidia",
-        "AOS",
         "Infineon",
+        "AOS",
+        "Power Diamond Systems",
         "ローム"
       ]
     },
     {
-      "name": "次世代リソグラフィ技術の進化",
+      "name": "AIインフラの高度化とボトルネック解消",
       "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "datacenter",
+        "equipment",
+        "memory",
+        "frontend"
+      ],
+      "summary": "AI処理能力向上に伴い、データセンターの相互接続、冷却、HBMメモリの需要が急増。CPOや液冷技術がボトルネック解消に貢献。",
+      "analysis": {
+        "short_term": "HBM需要逼迫。供給体制の強化が急務。",
+        "mid_term": "CPO、液冷技術の標準化と普及が進む。",
+        "investment_implications": "インフラ関連技術を持つ企業に注目。メモリ、インターコネクトが鍵。"
+      },
+      "keywords": [
+        "AI",
+        "データセンター",
+        "HBM",
+        "CPO",
+        "液冷"
+      ],
+      "companies_mentioned": [
+        "Nvidia",
+        "SKハイニックス",
+        "古河電工",
+        "imec"
+      ]
+    },
+    {
+      "name": "先端露光技術の産業規模化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "frontend",
         "equipment",
         "logic",
-        "miniaturization"
+        "wafer"
       ],
-      "summary": "High-NA EUV露光装置の産業規模での導入が進み、微細化技術の限界突破とチップ性能向上が期待される。",
+      "summary": "High-NA EUV露光技術が産業規模での適用を目指し、imecやIBM、Lam Researchが導入・協業を進めている。微細化の限界突破へ。",
       "analysis": {
-        "short_term": "高NA EUV関連装置・材料への投資が加速。",
-        "mid_term": "1nm世代以降のチップ製造競争が激化。",
-        "investment_implications": "露光装置メーカーや関連材料企業に追い風。"
+        "short_term": "装置メーカーの供給能力と歩留まりが焦点。",
+        "mid_term": "量産適用にはコストと技術的課題の克服が必要。",
+        "investment_implications": "露光装置・関連材料メーカーへの期待。微細化技術の進展が株価を左右。"
       },
       "keywords": [
         "High-NA EUV",
-        "リソグラフィ",
+        "露光技術",
         "微細化",
         "ASML",
         "imec"
       ],
       "companies_mentioned": [
-        "ASML",
         "imec",
         "IBM",
-        "Lam Research"
+        "Lam Research",
+        "ASML"
       ]
-    },
-    {
-      "name": "EV向け次世代バッテリー技術",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "power"
-      ],
-      "summary": "全固体電池が安全性と航続距離を向上させ、EV普及を加速させる。関連材料・製造技術の開発競争が激化。",
-      "analysis": {
-        "short_term": "全固体電池関連の技術開発・実用化が加速。",
-        "mid_term": "EVの性能向上とコスト低減が両立。",
-        "investment_implications": "次世代バッテリー材料・技術企業に注目。"
-      },
-      "keywords": [
-        "全固体電池",
-        "EV",
-        "航続距離",
-        "安全性"
-      ],
-      "companies_mentioned": []
     },
     {
       "name": "AIセキュリティとハードウェア脆弱性",
-      "confidence": 0.8,
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "logic",
-        "idm"
+        "idm",
+        "logic"
       ],
-      "summary": "LLMに対するソフトウェアとハードウェアの脆弱性を組み合わせた攻撃手法が登場し、AIシステムのセキュリティリスクが増大。",
+      "summary": "LLMに対するソフトウェアとハードウェアの脆弱性を組み合わせた攻撃手法が研究されており、AIシステムのセキュリティリスクが増大。",
       "analysis": {
-        "short_term": "AIセキュリティ対策の重要性が高まる。",
-        "mid_term": "ハードウェアレベルでのセキュリティ強化が必須に。",
-        "investment_implications": "AIセキュリティソリューション企業に需要増。"
+        "short_term": "セキュリティ対策の重要性が増す。",
+        "mid_term": "ハードウェアレベルでのセキュリティ強化が求められる。",
+        "investment_implications": "セキュリティソリューション企業に追い風。IDMの対策も重要。"
       },
       "keywords": [
-        "AI",
+        "AIセキュリティ",
         "LLM",
-        "セキュリティ",
-        "脆弱性"
+        "脆弱性",
+        "ハードウェア攻撃"
       ],
       "companies_mentioned": [
-        "Intel"
+        "Intel",
+        "UT Austin"
       ]
     },
     {
-      "name": "HBM需要の爆発的増加",
-      "confidence": 0.95,
+      "name": "新材料・新構造半導体の研究開発",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "ai",
-        "datacenter"
+        "wafer",
+        "frontend",
+        "power",
+        "general"
       ],
-      "summary": "AIサーバー向けHBMビット需要が2028年までに35倍増と予測。HBM4以降への進化とカスタムHBMの需要増が見込まれる。",
+      "summary": "酸化ガリウム、ダイヤモンド、2次元半導体など、既存材料に代わる新材料や、FinFETのような新構造デバイスの研究開発が進展。",
       "analysis": {
-        "short_term": "HBMサプライヤーへの供給逼迫が継続。",
-        "mid_term": "HBM4/4EおよびカスタムHBMの競争が激化。",
-        "investment_implications": "HBM関連メモリメーカーに業績拡大期待。"
+        "short_term": "実用化に向けた技術的課題の解決が鍵。",
+        "mid_term": "一部材料は特定用途で実用化が進む可能性。",
+        "investment_implications": "基礎研究段階だが、将来的なブレークスルーに期待。"
       },
       "keywords": [
-        "HBM",
-        "AI",
-        "メモリ",
-        "DDR5"
+        "酸化ガリウム",
+        "ダイヤモンド",
+        "2D半導体",
+        "FinFET",
+        "新材料"
       ],
       "companies_mentioned": [
-        "SKハイニックス",
-        "Micron"
+        "名大",
+        "Power Diamond Systems"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIインフラ投資の継続",
-      "高効率電源技術への需要増",
-      "次世代リソグラフィ技術の進展",
-      "EV市場の拡大",
-      "HBM需要の急増"
+      "AI関連投資の継続的な拡大",
+      "次世代パワー半導体（GaN/SiC）の需要増",
+      "データセンター向けHBMメモリの需要逼迫",
+      "先端露光装置（High-NA EUV）への投資活発化"
     ],
     "bearish": [
-      "地政学的リスク（中東紛争）によるサプライチェーンへの影響懸念"
+      "中東情勢の緊迫化によるサプライチェーンリスク",
+      "地政学的リスクによる一部地域への輸出規制継続"
     ],
     "neutral": [
-      "2D半導体技術の着実な進展だが、実用化への課題は残る"
+      "半導体製造装置の供給能力と需要のバランス",
+      "2次元半導体の実用化に向けた技術的課題"
     ]
   },
   "source_count": 56
