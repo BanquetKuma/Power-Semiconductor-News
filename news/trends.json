@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T06:08:08.863761+09:00",
-  "date": "2026-03-22",
+  "generated_at": "2026-03-23T06:08:18.223355+09:00",
+  "date": "2026-03-23",
   "meta_trends": [
     {
       "name": "次世代パワー半導体の進化",
@@ -12,157 +12,139 @@
         "automotive",
         "datacenter"
       ],
-      "summary": "GaNやSiCといった次世代パワー半導体技術が、AIサーバー、EV、データセンター向けに急速に進化・普及している。高電圧化、高効率化が鍵。",
+      "summary": "GaNやSiCなどの新材料、高電圧化、双方向スイッチ化が進み、AIサーバー、EV、データセンターの電力効率向上に貢献。",
       "analysis": {
-        "short_term": "需要拡大が続く。供給能力が追いつくか注視。",
-        "mid_term": "技術革新が競争を加速。標準化の動きも重要。",
-        "investment_implications": "関連企業への投資妙味あり。技術力と生産能力が評価指標。"
+        "short_term": "新製品発表とパートナーシップ強化が続く。",
+        "mid_term": "量産体制の確立とコスト競争力が鍵となる。",
+        "investment_implications": "材料・デバイスメーカーへの投資妙味あり。"
       },
       "keywords": [
         "GaN",
         "SiC",
-        "AIサーバー",
-        "EV",
-        "高電圧"
+        "800V",
+        "Bidirectional Switch"
       ],
       "companies_mentioned": [
         "Nvidia",
         "Infineon",
         "AOS",
         "Power Diamond Systems",
-        "ローム"
+        "Rohm"
       ]
     },
     {
-      "name": "AIインフラの高度化とボトルネック解消",
+      "name": "AIインフラの相互接続性向上",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
         "equipment",
-        "memory",
         "frontend"
       ],
-      "summary": "AI処理能力向上に伴い、データセンターの相互接続、冷却、HBMメモリの需要が急増。CPOや液冷技術がボトルネック解消に貢献。",
+      "summary": "AIサーバーの性能向上には、CPOや異種集積による相互接続のボトルネック解消が不可欠。高NA EUVも重要。",
       "analysis": {
-        "short_term": "HBM需要逼迫。供給体制の強化が急務。",
-        "mid_term": "CPO、液冷技術の標準化と普及が進む。",
-        "investment_implications": "インフラ関連技術を持つ企業に注目。メモリ、インターコネクトが鍵。"
+        "short_term": "技術開発と標準化の動きが加速する。",
+        "mid_term": "CPO、異種集積ソリューションの普及が進む。",
+        "investment_implications": "インターコネクト技術関連企業に注目。"
       },
       "keywords": [
-        "AI",
-        "データセンター",
-        "HBM",
         "CPO",
-        "液冷"
-      ],
-      "companies_mentioned": [
-        "Nvidia",
-        "SKハイニックス",
-        "古河電工",
-        "imec"
-      ]
-    },
-    {
-      "name": "先端露光技術の産業規模化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "frontend",
-        "equipment",
-        "logic",
-        "wafer"
-      ],
-      "summary": "High-NA EUV露光技術が産業規模での適用を目指し、imecやIBM、Lam Researchが導入・協業を進めている。微細化の限界突破へ。",
-      "analysis": {
-        "short_term": "装置メーカーの供給能力と歩留まりが焦点。",
-        "mid_term": "量産適用にはコストと技術的課題の克服が必要。",
-        "investment_implications": "露光装置・関連材料メーカーへの期待。微細化技術の進展が株価を左右。"
-      },
-      "keywords": [
-        "High-NA EUV",
-        "露光技術",
-        "微細化",
-        "ASML",
-        "imec"
+        "Heterogeneous Integration",
+        "Interconnect",
+        "High-NA EUV"
       ],
       "companies_mentioned": [
         "imec",
         "IBM",
-        "Lam Research",
-        "ASML"
+        "Lam Research"
       ]
     },
     {
-      "name": "AIセキュリティとハードウェア脆弱性",
-      "confidence": 0.75,
+      "name": "AI・HBM需要の爆発的増加",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "idm",
-        "logic"
+        "memory",
+        "datacenter",
+        "fabless"
       ],
-      "summary": "LLMに対するソフトウェアとハードウェアの脆弱性を組み合わせた攻撃手法が研究されており、AIシステムのセキュリティリスクが増大。",
+      "summary": "AIサーバー向けASICのHBMビット需要が急増。HBM4/4Eへの進化とカスタムHBMの需要増が見込まれる。",
       "analysis": {
-        "short_term": "セキュリティ対策の重要性が増す。",
-        "mid_term": "ハードウェアレベルでのセキュリティ強化が求められる。",
-        "investment_implications": "セキュリティソリューション企業に追い風。IDMの対策も重要。"
+        "short_term": "HBM3Eの供給逼迫が続く可能性。",
+        "mid_term": "HBM4/4Eへの移行とカスタムHBMの普及。",
+        "investment_implications": "HBMサプライヤーへの集中投資。"
       },
       "keywords": [
-        "AIセキュリティ",
-        "LLM",
-        "脆弱性",
-        "ハードウェア攻撃"
+        "HBM",
+        "AI Server",
+        "ASIC",
+        "HBM4"
       ],
       "companies_mentioned": [
-        "Intel",
-        "UT Austin"
+        "SK Hynix",
+        "Micron"
       ]
     },
     {
-      "name": "新材料・新構造半導体の研究開発",
-      "confidence": 0.7,
+      "name": "冷却技術の高度化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "wafer",
-        "frontend",
-        "power",
-        "general"
+        "datacenter",
+        "ai",
+        "equipment"
       ],
-      "summary": "酸化ガリウム、ダイヤモンド、2次元半導体など、既存材料に代わる新材料や、FinFETのような新構造デバイスの研究開発が進展。",
+      "summary": "AIチップの高密度化・高性能化に伴い、冷却需要が増加。液体冷却が局所冷却技術を牽引する。",
       "analysis": {
-        "short_term": "実用化に向けた技術的課題の解決が鍵。",
-        "mid_term": "一部材料は特定用途で実用化が進む可能性。",
-        "investment_implications": "基礎研究段階だが、将来的なブレークスルーに期待。"
+        "short_term": "冷却ソリューションの導入が進む。",
+        "mid_term": "液体冷却技術の標準化と普及。",
+        "investment_implications": "冷却ソリューションプロバイダーに注目。"
       },
       "keywords": [
-        "酸化ガリウム",
-        "ダイヤモンド",
-        "2D半導体",
-        "FinFET",
-        "新材料"
+        "Liquid Cooling",
+        "AI Chip",
+        "Data Center"
       ],
-      "companies_mentioned": [
-        "名大",
-        "Power Diamond Systems"
-      ]
+      "companies_mentioned": []
+    },
+    {
+      "name": "地政学リスクとサプライチェーン",
+      "confidence": 0.75,
+      "momentum": "stable",
+      "related_fields": [
+        "geopolitics",
+        "wafer",
+        "equipment"
+      ],
+      "summary": "中東情勢悪化による材料供給懸念がAIブームに影響。サプライチェーンの安定化が喫緊の課題。",
+      "analysis": {
+        "short_term": "地政学リスクによる短期的な供給不安。",
+        "mid_term": "サプライチェーンの多様化・再編が進む。",
+        "investment_implications": "リスク分散と代替サプライヤーの検討。"
+      },
+      "keywords": [
+        "Geopolitics",
+        "Supply Chain",
+        "AI Boom"
+      ],
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続的な拡大",
-      "次世代パワー半導体（GaN/SiC）の需要増",
-      "データセンター向けHBMメモリの需要逼迫",
-      "先端露光装置（High-NA EUV）への投資活発化"
+      "AI関連半導体（GPU, HBM, AIチップ）の需要拡大",
+      "次世代パワー半導体（GaN, SiC）の技術革新と市場投入",
+      "データセンター向け高速インターコネクト技術の進展"
     ],
     "bearish": [
-      "中東情勢の緊迫化によるサプライチェーンリスク",
-      "地政学的リスクによる一部地域への輸出規制継続"
+      "地政学リスクによる原材料供給の不安定化懸念",
+      "高NA EUV導入コストと技術的課題"
     ],
     "neutral": [
-      "半導体製造装置の供給能力と需要のバランス",
-      "2次元半導体の実用化に向けた技術的課題"
+      "2次元半導体の実用化に向けた課題",
+      "半導体組立工程における重力影響の定量化"
     ]
   },
   "source_count": 56
