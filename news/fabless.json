@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-03-20T06:13:06.044000+09:00",
+  "generated_at": "2026-03-24T06:13:37.915027+09:00",
   "field": "fabless",
   "field_label": "ファブレス",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Infineon, Nvidia Advance Humanoid Robotics with Digital Twins",
-    "summary": "インフィニオンとNVIDIA、デジタルツイン技術で人型ロボットの安全性・展開を加速する協業を拡大。",
+    "title": "TI Unveils 800 VDC Power Architecture for AI Data Centers",
+    "summary": "TIがAIデータセンター向けに800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/infineon-nvidia-advance-humanoid-robotics-with-digital-twins"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/ti-unveils-800-vdc-power-architecture-for-ai-data-centers"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Infineon, Nvidia Advance Humanoid Robotics with Digital Twins",
-        "blurb": "インフィニオンとNVIDIA、デジタルツイン技術で人型ロボットの安全性・展開を加速する協業を拡大。",
+        "title": "キオクシアが超高IOPS SSD開発 NVIDIA Storage-Nextに対応",
+        "blurb": "キオクシアはAI向け超高IOPS SSD「GPシリーズ」を開発。NVIDIA Storage-Nextに対応し、2026年末までに評価サンプル出荷開始。",
         "category": "company",
-        "date": "2026-03-19",
+        "date": "2026-03-23",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/infineon-nvidia-advance-humanoid-robotics-with-digital-twins"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news031.html"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "TI Unveils 800 VDC Power Architecture for AI Data Centers",
+        "blurb": "TIがAIデータセンター向けに800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
+        "category": "company",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ti-unveils-800-vdc-power-architecture-for-ai-data-centers"
         },
         "field": {
           "primary": "fabless",
@@ -36,25 +54,6 @@
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "Nvidia GTC: More Support for 800-VDC Data Centers",
-        "blurb": "Nvidia GTCで800VDCデータセンター向けの新電源ポートフォリオを発表。電力効率向上に貢献。",
-        "category": "business",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/nvidia-gtc-more-support-for-800-vdc-data-centers"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      }
-    ]
+    "market": []
   }
 }
