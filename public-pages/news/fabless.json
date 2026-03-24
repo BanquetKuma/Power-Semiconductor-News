@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-24T06:13:37.915027+09:00",
+  "generated_at": "2026-03-25T06:14:46.227684+09:00",
   "field": "fabless",
   "field_label": "ファブレス",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "TI Unveils 800 VDC Power Architecture for AI Data Centers",
-    "summary": "TIがAIデータセンター向けに800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
+    "summary": "TIがAIデータセンター向け800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -17,26 +17,8 @@
   "sections": {
     "news": [
       {
-        "title": "キオクシアが超高IOPS SSD開発 NVIDIA Storage-Nextに対応",
-        "blurb": "キオクシアはAI向け超高IOPS SSD「GPシリーズ」を開発。NVIDIA Storage-Nextに対応し、2026年末までに評価サンプル出荷開始。",
-        "category": "company",
-        "date": "2026-03-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news031.html"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
         "title": "TI Unveils 800 VDC Power Architecture for AI Data Centers",
-        "blurb": "TIがAIデータセンター向けに800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
+        "blurb": "TIがAIデータセンター向け800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
         "category": "company",
         "date": "2026-03-24",
         "stars": 3,
@@ -53,7 +35,26 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Waveshare Dual-Channel GMSL Camera Adapter Board for Raspberry Pi 5 and Jetson Orin Nano/NX",
+        "blurb": "WaveshareがRaspberry Pi 5/Jetson Orin向けにGMSLカメラアダプターを発表。デュアルカメラ接続を可能に。",
+        "category": "tools",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/waveshare-dual-channel-gmsl-camera-adapter-board-for-raspberry-pi-5-and-jetson-orin-nano-nx"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      }
+    ],
     "market": []
   }
 }

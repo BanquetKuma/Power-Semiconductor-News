@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-03-21T06:09:55.083844+09:00",
+  "generated_at": "2026-03-25T06:14:46.226490+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Week In Review",
-    "summary": "HBM4契約、サプライチェーンへの影響、米AI枠組み、GPU密輸、中国向けH200再開、SKハイニックス予測など、半導体業界の最新動向。",
+    "title": "Chip Industry Technical Paper Roundup: Mar. 24",
+    "summary": "半導体設計、車載半導体リスク評価、ハイブリッド接合、ニューロモルフィック計算など、最新技術論文を紹介。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-week-in-review-130"
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-24"
       }
     ]
   },
@@ -19,21 +19,21 @@
     "tech": [],
     "market": [
       {
-        "title": "Chip Industry Week In Review",
-        "blurb": "HBM4契約、サプライチェーンへの影響、米AI枠組み、GPU密輸、中国向けH200再開、SKハイニックス予測など、半導体業界の最新動向。",
+        "title": "Chip Industry Technical Paper Roundup: Mar. 24",
+        "blurb": "半導体設計、車載半導体リスク評価、ハイブリッド接合、ニューロモルフィック計算など、最新技術論文を紹介。",
         "category": "business",
-        "date": "2026-03-20",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-130"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-24"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "idm"
+          "process": "backend",
+          "market": "automotive",
+          "industry": null
         }
       }
     ]

@@ -1,134 +1,46 @@
 {
-  "generated_at": "2026-03-24T06:13:37.912545+09:00",
+  "generated_at": "2026-03-25T06:14:46.224766+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "TI Unveils 800 VDC Power Architecture for AI Data Centers",
-    "summary": "TIがAIデータセンター向けに800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
+    "title": "Paralleling GaN FETs: Current Sharing Challenges and Solutions",
+    "summary": "GaN FETの並列接続における電流共有の課題と解決策について解説。高電流スイッチ実現のため、複数のトランジスタを並列化する際の難しさに焦点を当てる。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/ti-unveils-800-vdc-power-architecture-for-ai-data-centers"
+        "url": "https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Auto Ethernet 10BASE-T1s Steps Up, With Tbps On The Horizon",
-        "blurb": "次世代車載通信向けに10BASE-T1sが進化。Tbps級の高速化が期待されるが、光通信など課題も残る。",
-        "category": "business",
-        "date": "2026-03-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/auto-ethernet-10base-t1s-steps-up-with-tbps-on-the-horizon"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「友だち登録で割引」、どうする？　面倒くささの値段を考える",
-        "blurb": "「友だち登録で割引」は、面倒くささに見合うお得か？ 過去に逃した「お得」の総額を考える。",
-        "category": "business",
-        "date": "2026-03-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news063.html"
-        },
-        "field": null
-      },
-      {
-        "title": "2026年3月期第3四半期 国内半導体商社 業績まとめ",
-        "blurb": "国内半導体商社18社の2026年3月期第3四半期業績は、8社が増収増益。全体的に厳しい状況が続く。",
-        "category": "business",
-        "date": "2026-03-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news039.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Jay Leno Says The Tesla Semi’s Biggest Advantage Isn’t Its Range",
-        "blurb": "ジェイ・レノは、テスラ・セミの航続距離よりも、低いランニングコストが最大の利点だと指摘。",
+        "title": "Chip Industry Technical Paper Roundup: Mar. 24",
+        "blurb": "半導体設計、車載半導体リスク評価、ハイブリッド接合、ニューロモルフィック計算など、最新技術論文を紹介。",
         "category": "business",
         "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790849/jay-leno-drives-tesla-semi"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "A scale that tells inconsistent-weight tales",
-        "blurb": "体重計が示す数値にばらつきがある場合、最も低い数値を選ぶのは不正か？EDNの記事で考察。",
-        "category": "tools",
-        "date": "2026-03-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-scale-that-tells-inconsistent-weight-tales"
-        },
-        "field": null
-      },
-      {
-        "title": "GPS-free systems to spur highly advanced sensors, fusion",
-        "blurb": "GPSに頼らないシステムが、高度なセンサーとセンサーフュージョンを促進する可能性。GPS代替技術の動向に注目が集まる。",
-        "category": "tools",
-        "date": "2026-03-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/gps-free-systems-to-spur-highly-advanced-sensors-fusion"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "High-k Gate Oxide Improves 1,200-V Vertical GaN Performance",
-        "blurb": "サンディア国立研究所は、HfO2ゲート酸化膜を用いた1200V垂直GaN MOSFETの性能向上を発表しました。",
-        "category": "company",
-        "date": "2026-03-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/high-k-gate-oxide-improves-1200-v-vertical-gan-performance"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-24"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
+          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "ST Introduces 3A Buck Converter in Compact SOT23 Package",
-        "blurb": "STマイクロエレクトロニクスが、小型SOT23パッケージに3A降圧コンバーターを統合したDCP3603を発表。高効率と低BOMを実現。",
-        "category": "company",
-        "date": "2026-03-23",
+        "title": "デンソー、ロームに対する株式取得提案を正式表明",
+        "blurb": "デンソーはロームに対し、株式取得の提案を正式に表明。両社の技術・知見を生かし、半導体事業での貢献拡大を目指す。",
+        "category": "business",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-introduces-3a-buck-converter-in-compact-sot23-package"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news132.html"
         },
         "field": {
           "primary": "industrial",
@@ -139,50 +51,202 @@
         }
       },
       {
-        "title": "STが「中国製STM32」量産開始、供給網を現地完結",
-        "blurb": "STマイクロが中国製STM32マイコンの量産を開始。高性能H7シリーズから、26年末までにH5、C5シリーズも展開し、供給網を現地完結させる。",
-        "category": "company",
-        "date": "2026-03-23",
+        "title": "半導体ウエハーの状態で絶縁膜の電気的特性を評価",
+        "blurb": "東レリサーチセンターは、極薄絶縁膜の電気的特性をウエハー状態で評価するサービスを開始。開発サイクルを大幅に短縮可能。",
+        "category": "business",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news103.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news033.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "次世代パワー半導体　「期待の5材料」の現在地――電子版2026年3月号",
+        "blurb": "次世代パワー半導体向け期待の5材料の現状を解説。電子版2026年3月号に掲載。",
+        "category": "business",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news029.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "NVIDIAとメモリ3社、世界半導体売上高の42％占める",
+        "blurb": "2025年の世界半導体市場は8300億ドル超。NVIDIAとメモリ3社で売上高の42％を占める見込み。",
+        "category": "business",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news063.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Demystifying 3D ICs: A practical framework for heterogeneous integration",
+        "blurb": "3D ICとヘテロジニアスインテグレーションは、複数の特殊チップレットを統合し、2Dスケーリングの限界を克服します。",
+        "category": "business",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/demystifying-3d-ics-a-practical-framework-for-heterogeneous-integration"
         },
         "field": null
       },
       {
-        "title": "ボンド精度3μm、FUJIグループが次世代ダイボンダー開発",
-        "blurb": "FUJIグループが次世代ダイボンダー「XERDIA」を世界初公開。ボンド精度3μm、生産性UPH5500を実現。",
-        "category": "company",
-        "date": "2026-03-23",
+        "title": "Toyota Will Invest $800 Million To Build A Second EV In The U.S. What Could It Be?",
+        "blurb": "トヨタは米国で2番目のEV生産のため8億ドルを投資。競合がEV投資を縮小する中、同社の戦略が注目される。",
+        "category": "business",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790948/toyota-1-billion-kentucky-indiana-investment-evs"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Debugging Large-Scale Semiconductor Design Models",
+        "blurb": "HLSとシステムレベルモデルはチップ設計を加速させる。デバッグでテープアウトを遅らせないようにしよう。",
+        "category": "business",
+        "date": "2026-03-25",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/debugging-large-scale-semiconductor-design-models"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Paralleling GaN FETs: Current Sharing Challenges and Solutions",
+        "blurb": "GaN FETの並列接続における電流共有の課題と解決策について解説。高電流スイッチ実現のため、複数のトランジスタを並列化する際の難しさに焦点を当てる。",
+        "category": "tools",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Research Bits: Mar. 24",
+        "blurb": "デュアル変調トランジスタ、グラフェンFETバイオセンサー、より堅牢な印刷トランジスタに関する研究。",
+        "category": "tools",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-mar-24"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "スマホのウォレットがデジタルキーに　新規格「Aliro」とは",
+        "blurb": "CSAがスマートキー共通規格「Aliro 1.0」を発表。スマホウォレットがデジタルキーとして利用可能に。",
+        "category": "tools",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news032.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news049.html"
         },
         "field": null
       },
       {
-        "title": "「Renesas 365」がついに始動 「不可能だった規模」の検証、数分で",
-        "blurb": "ルネサスが電子機器開発プラットフォーム「Renesas 365」の一般提供を開始。数分で大規模検証が可能に。",
-        "category": "company",
-        "date": "2026-03-23",
+        "title": "アンチアイランディング試験を数週間から数時間に短縮、キーサイト",
+        "blurb": "キーサイトがアンチアイランディング試験を数週間から数時間に短縮するソリューションを開発。BATTERY JAPANで紹介。",
+        "category": "tools",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news054.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news052.html"
         },
-        "field": null
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "キオクシアが超高IOPS SSD開発 NVIDIA Storage-Nextに対応",
-        "blurb": "キオクシアはAI向け超高IOPS SSD「GPシリーズ」を開発。NVIDIA Storage-Nextに対応し、2026年末までに評価サンプル出荷開始。",
-        "category": "company",
-        "date": "2026-03-23",
+        "title": "Is your PLC/DCS reading the field contacts reliably?",
+        "blurb": "PLC/DCSがフィールド接点開閉を確実に読み取るための、経済的で信頼性の高いソリューションを紹介。",
+        "category": "tools",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news031.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/is-your-plc-dcs-reading-the-field-contacts-reliably"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Waveshare Dual-Channel GMSL Camera Adapter Board for Raspberry Pi 5 and Jetson Orin Nano/NX",
+        "blurb": "WaveshareがRaspberry Pi 5/Jetson Orin向けにGMSLカメラアダプターを発表。デュアルカメラ接続を可能に。",
+        "category": "tools",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/waveshare-dual-channel-gmsl-camera-adapter-board-for-raspberry-pi-5-and-jetson-orin-nano-nx"
         },
         "field": {
           "primary": "fabless",
@@ -191,40 +255,30 @@
           "market": null,
           "industry": "fabless"
         }
-      },
+      }
+    ],
+    "company": [
       {
-        "title": "Intelligent Tire Monitoring: BANF Integrates Silicon Labs’ Bluetooth LE SoC Into iSensor",
-        "blurb": "BANF社がシリコン・ラボのBluetooth LE SoCをiSensorに統合し、バッテリー不要のインテリジェントタイヤモニタリングを実現。",
+        "title": "SemiQ Launches 1200-V SiC Dual3 Modules",
+        "blurb": "SemiQが、産業・エネルギーシステム向けに低RDS(on)で高効率・高電力密度の1200V SiCデュアル3モジュールを発表。",
         "category": "company",
-        "date": "2026-03-23",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/intelligent-tire-monitoring-banf-integrates-silicon-labs-bluetooth-le-soc-into-isensor"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/semiq-launches-1200-v-sic-dual3-modules"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "power",
+          "device": "power",
           "process": null,
-          "market": "automotive",
+          "market": "industrial",
           "industry": null
         }
       },
       {
-        "title": "Cadence’s Tensilica HiFi iQ DSP Features Voice AI and Audio Processing",
-        "blurb": "CadenceがAI・音声処理向け新DSPコア「Tensilica HiFi iQ」を発表。低消費電力で性能向上。",
-        "category": "company",
-        "date": "2026-03-23",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/cadences-tensilica-hifi-iq-dsp-features-voice-ai-and-audio-processing"
-        },
-        "field": null
-      },
-      {
         "title": "TI Unveils 800 VDC Power Architecture for AI Data Centers",
-        "blurb": "TIがAIデータセンター向けに800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
+        "blurb": "TIがAIデータセンター向け800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
         "category": "company",
         "date": "2026-03-24",
         "stars": 3,
@@ -259,8 +313,44 @@
         }
       },
       {
+        "title": "検出感度340倍の超小型光回路モニター、早稲田大",
+        "blurb": "早稲田大が検出感度340倍の超小型光回路モニターを開発。マルチモード干渉で低損失と高感度化を両立。",
+        "category": "company",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news032.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "EPC Launches GaN-Based BLDC Motor Drive Evaluation Board",
+        "blurb": "EPCがGaN技術搭載のBLDCモーター駆動評価ボードを発表。ドローン、ロボット等での高速プロトタイピングを支援。",
+        "category": "company",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/epc-launches-gan-based-bldc-motor-drive-evaluation-board"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
         "title": "Lumotive Demonstrates 2D Photonic Beamforming Chip",
-        "blurb": "Lumotiveが、光を2次元で制御する初のプログラマブルなフォトニックビームフォーミングチップを発表。機械部品なしで光の動的な制御が可能に。",
+        "blurb": "Lumotiveが、機械部品なしで光を自在に制御できる2Dフォトニックビームフォーミングチップを発表。LCM技術で実現。",
         "category": "company",
         "date": "2026-03-24",
         "stars": 3,
@@ -277,26 +367,14 @@
         }
       },
       {
-        "title": "Subaru's Next Electric SUV Will Be Revealed Next Week. Here's A Teaser.",
-        "blurb": "スバルは来週、新型EV SUVを発表します。今年すでに2台のEVを追加しており、さらなるラインナップ拡充となります。",
+        "title": "The Kia EV2 Is Another Cool, Small, Affordable EV That You Can't Have",
+        "blurb": "キアEV2は、手頃な価格の小型EVだが、米国では購入できない。",
         "category": "company",
-        "date": "2026-03-24",
+        "date": "2026-03-25",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790856/subaru-electric-suv-reveal"
-        },
-        "field": null
-      },
-      {
-        "title": "The Mercedes GLC EV Isn’t Just A Great Electric Car. It’s A Great Mercedes",
-        "blurb": "メルセデス GLC EVは、優れたEVであるだけでなく、優れたメルセデス車でもある。開発は成功した。",
-        "category": "company",
-        "date": "2026-03-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/790787/mercedes-glc-ev-first-drive"
+          "url": "https://insideevs.com/news/790980/kia-ev2-pricing"
         },
         "field": {
           "primary": "automotive",
@@ -305,6 +383,30 @@
           "market": "automotive",
           "industry": null
         }
+      },
+      {
+        "title": "Maybach Is Making An Ultra-Luxury Minivan. Here's Our First Glimpse",
+        "blurb": "メルセデス・マイバッハが超高級EVミニバン「VLS」を発表。富裕層向け。",
+        "category": "company",
+        "date": "2026-03-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790984/mercedes-maybach-vls-teaser-image"
+        },
+        "field": null
+      },
+      {
+        "title": "Cadillac Is Testing 'Eyes-Off' Driving For The Escalade. Here's When You'll Be Able To Buy It",
+        "blurb": "キャデラック、新型EV「エスカレード」にハンズオフ運転機能を2028年までに導入へ。他社も開発競争。",
+        "category": "company",
+        "date": "2026-03-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790981/cadillac-escalade-eyes-off-driving-gm-2028"
+        },
+        "field": null
       }
     ],
     "sns": []

@@ -1,181 +1,166 @@
 {
-  "generated_at": "2026-03-24T06:13:42.640059+09:00",
-  "date": "2026-03-24",
+  "generated_at": "2026-03-25T06:14:50.836416+09:00",
+  "date": "2026-03-25",
   "meta_trends": [
     {
-      "name": "AIインフラと高効率電源",
+      "name": "次世代パワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "datacenter",
         "power",
-        "logic",
-        "fabless",
-        "idm"
+        "automotive",
+        "industrial",
+        "datacenter"
       ],
-      "summary": "AIデータセンターの電力需要増大に対応するため、800VDCアーキテクチャやGaN/SiCなどの高効率・高電力密度電源技術が急速に進化している。",
+      "summary": "GaNやSiCといった新材料を用いた高効率・高電力密度のパワー半導体開発が加速。AIデータセンターやEV、産業機器での採用が進む。",
       "analysis": {
-        "short_term": "Nvidia GTC発表関連銘柄に注目。",
-        "mid_term": "データセンター投資拡大で関連部品需要増。",
-        "investment_implications": "電源IC、パワー半導体メーカーに投資妙味。"
+        "short_term": "新モジュール発表や性能向上発表が続く。採用事例の拡大に注目。",
+        "mid_term": "EV、再生可能エネルギー、データセンター向け需要が堅調に推移。",
+        "investment_implications": "材料メーカー、モジュールメーカーへの投資妙味あり。"
       },
       "keywords": [
-        "AI",
-        "800VDC",
         "GaN",
         "SiC",
-        "電源IC"
+        "EV",
+        "AI",
+        "データセンター"
       ],
       "companies_mentioned": [
-        "TI",
-        "Nvidia",
-        "AOS",
-        "STMicroelectronics",
+        "SemiQ",
         "Microchip",
-        "Rohm",
-        "Toshiba",
-        "Kioxia"
+        "STMicroelectronics",
+        "TI",
+        "キーサイト",
+        "Power Diamond Systems"
       ]
     },
     {
-      "name": "次世代半導体製造技術の進化",
+      "name": "AIインフラの相互接続 bottleneck 解消",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "equipment",
-        "logic",
-        "miniaturization",
-        "foundry",
-        "idm"
+        "ai",
+        "datacenter",
+        "memory",
+        "equipment"
       ],
-      "summary": "High-NA EUV露光技術の産業規模への拡張が進み、サブ1nm世代のチップ製造に向けたプロセスモデルの精度向上や新材料開発が加速している。",
+      "summary": "AI処理能力向上に伴い、データセンター内の相互接続帯域幅がボトルネックに。CPOや異種集積による解決策が模索されている。",
       "analysis": {
-        "short_term": "imec、ASML、IBM、Lam Researchの動向を注視。",
-        "mid_term": "先端ロジック・メモリの性能向上が期待される。",
-        "investment_implications": "露光装置、材料、プロセス技術関連企業に注目。"
+        "short_term": "CPO、光インターコネクト関連技術開発が活発化。",
+        "mid_term": "AIチップ性能向上とデータセンターインフラ投資が連動。",
+        "investment_implications": "光部品、インターコネクト技術関連企業に注目。"
       },
       "keywords": [
-        "High-NA EUV",
-        "リソグラフィ",
-        "サブ1nm",
-        "imec",
-        "ASML"
+        "AI",
+        "データセンター",
+        "CPO",
+        "異種集積",
+        "光インターコネクト"
       ],
       "companies_mentioned": [
-        "ASML",
-        "imec",
-        "IBM",
-        "Lam Research",
-        "STMicroelectronics"
+        "NVIDIA",
+        "キオクシア",
+        "古河電工"
       ]
     },
     {
-      "name": "EV普及と車載半導体の高度化",
+      "name": "先端リソグラフィ技術の産業規模化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
-        "power",
+        "frontend",
+        "foundry",
         "logic",
-        "memory",
-        "analog",
-        "industrial"
+        "memory"
       ],
-      "summary": "全固体電池によるEV航続距離向上や、車載イーサネットの高速化、NPU統合プロセッサなど、EVの性能向上と普及を支える技術開発が進展している。",
+      "summary": "High-NA EUVなどの先端リソグラフィ技術が、微細化の限界を突破し、次世代ロジック・メモリ製造の鍵となる。",
       "analysis": {
-        "short_term": "全固体電池関連技術の進展に注目。",
-        "mid_term": "車載半導体市場の成長が継続。",
-        "investment_implications": "EV関連部品、車載半導体メーカーに投資機会。"
+        "short_term": "imecによる次世代EUV装置の導入が進む。",
+        "mid_term": "先端プロセス開発競争が激化し、ファウンドリの技術力格差が拡大。",
+        "investment_implications": "露光装置、マスク関連企業への投資機会。"
       },
       "keywords": [
-        "EV",
+        "EUV",
+        "High-NA",
+        "リソグラフィ",
+        "微細化",
+        "ファウンドリ"
+      ],
+      "companies_mentioned": [
+        "imec",
+        "ASML"
+      ]
+    },
+    {
+      "name": "車載半導体の高度化とリスク評価",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "logic",
+        "geopolitics"
+      ],
+      "summary": "自動運転やコネクテッドカーの普及により、車載半導体への要求が高まる。サプライチェーンリスク評価も重要性を増す。",
+      "analysis": {
+        "short_term": "車載Ethernet規格の進化や全固体電池技術の進展。",
+        "mid_term": "高機能化に伴う車載半導体市場の拡大と、地政学リスクへの対応。",
+        "investment_implications": "車載半導体メーカー、関連技術開発企業に注目。"
+      },
+      "keywords": [
+        "車載",
+        "自動運転",
         "全固体電池",
-        "車載イーサネット",
-        "NPU",
-        "パワー半導体"
+        "Ethernet",
+        "サプライチェーン"
       ],
       "companies_mentioned": [
         "NXP",
-        "Rohm",
-        "Microchip",
-        "STMicroelectronics"
+        "デンソー",
+        "ローム"
       ]
     },
     {
-      "name": "HBM需要の爆発的増加",
-      "confidence": 0.9,
+      "name": "AIセキュリティの脅威と対策",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
-        "memory",
         "ai",
-        "datacenter",
         "logic",
-        "fabless",
-        "idm"
+        "geopolitics"
       ],
-      "summary": "AIサーバー向けHBMビット需要が2028年までに35倍増と予測され、HBM4/4Eへの進化やカスタムHBMの重要性が増している。",
+      "summary": "LLM（大規模言語モデル）に対するソフトウェア・ハードウェア両面からの攻撃手法が研究されており、AIシステムのセキュリティ対策が急務。",
       "analysis": {
-        "short_term": "HBM4/4E関連のサプライヤー動向を注視。",
-        "mid_term": "AIチップ性能向上の鍵としてHBMの重要性が増す。",
-        "investment_implications": "HBMサプライヤー、メモリメーカーに注目。"
+        "short_term": "AIセキュリティに関する研究発表が増加。",
+        "mid_term": "AIシステムの普及に伴い、サイバーセキュリティ市場が拡大。",
+        "investment_implications": "AIセキュリティソリューション提供企業への投資妙味。"
       },
       "keywords": [
-        "HBM",
         "AI",
-        "メモリ",
-        "GPU",
-        "SK Hynix"
+        "LLM",
+        "セキュリティ",
+        "脆弱性",
+        "サイバー攻撃"
       ],
       "companies_mentioned": [
-        "SK Hynix",
-        "Nvidia",
-        "Kioxia"
+        "UT Austin",
+        "Intel"
       ]
-    },
-    {
-      "name": "地政学リスクとサプライチェーン",
-      "confidence": 0.75,
-      "momentum": "stable",
-      "related_fields": [
-        "geopolitics",
-        "general",
-        "equipment",
-        "wafer",
-        "frontend",
-        "backend"
-      ],
-      "summary": "中東情勢の悪化が半導体材料供給に懸念をもたらし、AIブームへの影響が深刻化する可能性が指摘されている。",
-      "analysis": {
-        "short_term": "中東情勢の動向を注視する必要がある。",
-        "mid_term": "サプライチェーンの多様化・強靭化が引き続き重要。",
-        "investment_implications": "リスク管理能力の高い企業を選別。"
-      },
-      "keywords": [
-        "地政学リスク",
-        "サプライチェーン",
-        "材料供給",
-        "AI"
-      ],
-      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIインフラ投資の拡大",
-      "データセンター向け高効率電源需要の増加",
-      "EV市場の成長と車載半導体需要の増加",
-      "HBM需要の爆発的増加"
+      "AI関連半導体（特にGPU、HBM）の需要拡大",
+      "パワー半導体（SiC, GaN）のEV・再生可能エネルギー分野での採用加速",
+      "データセンター向けインフラ投資の継続"
     ],
     "bearish": [
-      "半導体商社の業績低迷（一部）",
+      "一部の半導体商社の業績低迷",
       "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "2D半導体の実用化に向けた課題",
-      "半導体組立工程における重力影響の定量化"
+      "先端リソグラフィ技術の導入コストと技術的課題",
+      "メモリ市場の需給バランスの変動"
     ]
   },
-  "source_count": 52
+  "source_count": 54
 }
