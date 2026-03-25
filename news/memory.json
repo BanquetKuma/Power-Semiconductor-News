@@ -1,38 +1,57 @@
 {
-  "generated_at": "2026-03-25T06:14:46.226490+09:00",
+  "generated_at": "2026-03-26T06:13:37.904076+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Technical Paper Roundup: Mar. 24",
-    "summary": "半導体設計、車載半導体リスク評価、ハイブリッド接合、ニューロモルフィック計算など、最新技術論文を紹介。",
+    "title": "キオクシアがNanyaに774億円出資、DRAM長期供給契約を締結",
+    "summary": "キオクシアHDは台湾Nanyaに約774億円出資し、DRAMの長期供給契約を締結した。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-24"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news138.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Chip Industry Technical Paper Roundup: Mar. 24",
-        "blurb": "半導体設計、車載半導体リスク評価、ハイブリッド接合、ニューロモルフィック計算など、最新技術論文を紹介。",
-        "category": "business",
-        "date": "2026-03-24",
+        "title": "GigaDevice Unveils Motor Control MCU and Expands 1.2 V SPI NOR Flash to 256 Mb",
+        "blurb": "GigaDeviceがモーター制御MCUと1.2V SPI NORフラッシュを新発表。AIコンピューティング向けに256Mbまで拡張。",
+        "category": "company",
+        "date": "2026-03-26",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-24"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/gigadevice-unveils-motor-control-mcu-and-expands-1-2-v-spi-nor-flash-to-256-mb"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "backend",
-          "market": "automotive",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "キオクシアがNanyaに774億円出資、DRAM長期供給契約を締結",
+        "blurb": "キオクシアHDは台湾Nanyaに約774億円出資し、DRAMの長期供給契約を締結した。",
+        "category": "business",
+        "date": "2026-03-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news138.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }

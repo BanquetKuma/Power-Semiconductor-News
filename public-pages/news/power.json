@@ -1,68 +1,30 @@
 {
-  "generated_at": "2026-03-25T06:14:46.226182+09:00",
+  "generated_at": "2026-03-26T06:13:37.903711+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Paralleling GaN FETs: Current Sharing Challenges and Solutions",
-    "summary": "GaN FETの並列接続における電流共有の課題と解決策について解説。高電流スイッチ実現のため、複数のトランジスタを並列化する際の難しさに焦点を当てる。",
+    "title": "Vishay Introduces Space-Grade Common Mode Choke",
+    "summary": "Vishayが、EMIフィルタリング用のナノ結晶コアを備えた宇宙グレードコモンモードチョークを発表。GaN/SiC電源用途に適しています。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions"
+        "url": "https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "SemiQ Launches 1200-V SiC Dual3 Modules",
-        "blurb": "SemiQが、産業・エネルギーシステム向けに低RDS(on)で高効率・高電力密度の1200V SiCデュアル3モジュールを発表。",
+        "title": "Vishay Introduces Space-Grade Common Mode Choke",
+        "blurb": "Vishayが、EMIフィルタリング用のナノ結晶コアを備えた宇宙グレードコモンモードチョークを発表。GaN/SiC電源用途に適しています。",
         "category": "company",
-        "date": "2026-03-24",
+        "date": "2026-03-25",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/semiq-launches-1200-v-sic-dual3-modules"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "EPC Launches GaN-Based BLDC Motor Drive Evaluation Board",
-        "blurb": "EPCがGaN技術搭載のBLDCモーター駆動評価ボードを発表。ドローン、ロボット等での高速プロトタイピングを支援。",
-        "category": "company",
-        "date": "2026-03-24",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/epc-launches-gan-based-bldc-motor-drive-evaluation-board"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Paralleling GaN FETs: Current Sharing Challenges and Solutions",
-        "blurb": "GaN FETの並列接続における電流共有の課題と解決策について解説。高電流スイッチ実現のため、複数のトランジスタを並列化する際の難しさに焦点を当てる。",
-        "category": "tools",
-        "date": "2026-03-24",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions"
+          "url": "https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke"
         },
         "field": {
           "primary": "power",
@@ -73,14 +35,32 @@
         }
       },
       {
-        "title": "アンチアイランディング試験を数週間から数時間に短縮、キーサイト",
-        "blurb": "キーサイトがアンチアイランディング試験を数週間から数時間に短縮するソリューションを開発。BATTERY JAPANで紹介。",
-        "category": "tools",
-        "date": "2026-03-24",
+        "title": "ST Unveils GaN Motor-Control Reference Design for 600-W Drives",
+        "blurb": "STマイクロエレクトロニクスが、ヒートシンク不要で600W超の動作が可能なGaNモーター制御リファレンスデザインを発表。家電や産業用ドライブ向け。",
+        "category": "company",
+        "date": "2026-03-25",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-unveils-gan-motor-control-reference-design-for-600-w-drives"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "500Wまで供給可能なGaN電源ソリューション、ルネサス",
+        "blurb": "ルネサスが500W対応GaN電源ソリューションを開発。電動工具や高速充電器向け。",
+        "category": "company",
+        "date": "2026-03-25",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news052.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news039.html"
         },
         "field": {
           "primary": "power",
@@ -91,22 +71,23 @@
         }
       }
     ],
+    "tech": [],
     "market": [
       {
-        "title": "次世代パワー半導体　「期待の5材料」の現在地――電子版2026年3月号",
-        "blurb": "次世代パワー半導体向け期待の5材料の現状を解説。電子版2026年3月号に掲載。",
+        "title": "Are SiC Inverters Suitable For Sensorless Vector Motor Control?",
+        "blurb": "SiCインバータはセンサーレスベクトル制御に適しているか？EVモーターの効率化にはWBGパワーエレクトロニクスと高精度制御が不可欠。",
         "category": "business",
-        "date": "2026-03-24",
+        "date": "2026-03-25",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news029.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/are-sic-inverters-suitable-for-sensorless-vector-motor-control"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
       }

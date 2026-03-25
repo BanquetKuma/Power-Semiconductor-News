@@ -1,76 +1,39 @@
 {
-  "generated_at": "2026-03-20T06:13:06.043645+09:00",
+  "generated_at": "2026-03-26T06:13:37.905854+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Double-side cooled MOSFETs reduce server heat",
-    "summary": "AOSが、サーバーの放熱を改善する両面冷却MOSFETを発表しました。",
+    "title": "MediaTek, Microsoft Develop Active Optical Cable for Data Centers",
+    "summary": "MediaTekとMicrosoftがデータセンター向け次世代アクティブ光ケーブルを開発。マイクロLED技術で電力効率、信頼性、拡張性を向上。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/double-side-cooled-mosfets-reduce-server-heat"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/mediatek-microsoft-develop-active-optical-cable-for-data-centers"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Double-side cooled MOSFETs reduce server heat",
-        "blurb": "AOSが、サーバーの放熱を改善する両面冷却MOSFETを発表しました。",
-        "category": "company",
-        "date": "2026-03-19",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/double-side-cooled-mosfets-reduce-server-heat"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "224G ICs optimize signal integrity in linear optics",
-        "blurb": "Semtech’s 224-Gbps/lane TIAs and drivers power 800G–3.2T transceivers and optical engines for AI/ML clusters and cloud d",
-        "category": "company",
-        "date": "2026-03-19",
-        "stars": 2,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/224g-ics-optimize-signal-integrity-in-linear-optics"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "Buck ICs improve AI data center power",
-        "blurb": "インフィニオンの新バックICはAIデータセンターの電力効率を向上させ、電圧調整を簡素化する。",
+        "title": "MediaTek, Microsoft Develop Active Optical Cable for Data Centers",
+        "blurb": "MediaTekとMicrosoftがデータセンター向け次世代アクティブ光ケーブルを開発。マイクロLED技術で電力効率、信頼性、拡張性を向上。",
         "category": "business",
-        "date": "2026-03-19",
+        "date": "2026-03-25",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/buck-ics-improve-ai-data-center-power"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mediatek-microsoft-develop-active-optical-cable-for-data-centers"
         },
         "field": {
           "primary": "datacenter",
           "device": null,
           "process": null,
           "market": "datacenter",
-          "industry": null
+          "industry": "fabless"
         }
       }
     ]
