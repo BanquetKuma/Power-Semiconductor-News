@@ -1,166 +1,46 @@
 {
-  "generated_at": "2026-03-26T06:13:37.901933+09:00",
+  "generated_at": "2026-03-25T06:14:46.224766+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Vishay Introduces Space-Grade Common Mode Choke",
-    "summary": "Vishayが、EMIフィルタリング用のナノ結晶コアを備えた宇宙グレードコモンモードチョークを発表。GaN/SiC電源用途に適しています。",
+    "title": "Paralleling GaN FETs: Current Sharing Challenges and Solutions",
+    "summary": "GaN FETの並列接続における電流共有の課題と解決策について解説。高電流スイッチ実現のため、複数のトランジスタを並列化する際の難しさに焦点を当てる。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke"
+        "url": "https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Are SiC Inverters Suitable For Sensorless Vector Motor Control?",
-        "blurb": "SiCインバータはセンサーレスベクトル制御に適しているか？EVモーターの効率化にはWBGパワーエレクトロニクスと高精度制御が不可欠。",
+        "title": "Chip Industry Technical Paper Roundup: Mar. 24",
+        "blurb": "半導体設計、車載半導体リスク評価、ハイブリッド接合、ニューロモルフィック計算など、最新技術論文を紹介。",
         "category": "business",
-        "date": "2026-03-25",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/are-sic-inverters-suitable-for-sensorless-vector-motor-control"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-24"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
           "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "Scale AI: Engineering the Next Leap in LPDDR6 Low-Power Memory",
-        "blurb": "Scale AIは、AIシステム向けに帯域幅効率、予測可能なレイテンシ、プラットフォーム信頼性を向上させるLPDDR6低消費電力メモリを開発しています。",
+        "title": "デンソー、ロームに対する株式取得提案を正式表明",
+        "blurb": "デンソーはロームに対し、株式取得の提案を正式に表明。両社の技術・知見を生かし、半導体事業での貢献拡大を目指す。",
         "category": "business",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scale-ai-engineering-the-next-leap-in-lpddr6-low-power-memory"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Beating The Heat In 3D Packages",
-        "blurb": "3Dパッケージにおける熱管理は、性能と信頼性の最大のボトルネックとなっている。",
-        "category": "business",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beating-the-heat-in-3d-packages"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Extraction Challenges of CFET and Backside Power Delivery",
-        "blurb": "CFETと裏面給電の抽出課題。ワークフロー設定、抵抗モデリング、RLCK抽出を支援し、次世代デバイス設計の信頼性、電力効率、成功を位置づける。",
-        "category": "business",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/extraction-challenges-of-cfet-and-backside-power-delivery"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Blog Review: Mar. 25",
-        "blurb": "半導体エンジニアリングのブログレビュー。MBSE、トレーサビリティ、UALink、EMシミュレーション、コード移行、SOIなどについて。",
-        "category": "business",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-mar-25"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "キオクシアがNanyaに774億円出資、DRAM長期供給契約を締結",
-        "blurb": "キオクシアHDは台湾Nanyaに約774億円出資し、DRAMの長期供給契約を締結した。",
-        "category": "business",
-        "date": "2026-03-25",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news138.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Micronの四半期業績、利益額と利益率がともに過去最高を更新",
-        "blurb": "Micronの2026年度第2四半期決算は、利益額・利益率ともに過去最高を更新した。",
-        "category": "business",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news031.html"
-        },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Chiplets: 8 best practices for engineering multi-die designs",
-        "blurb": "チップレット設計では、パッケージ、検証、熱設計に新たな複雑さが伴う。マルチダイ設計の8つのベストプラクティスを紹介。",
-        "category": "business",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/chiplets-8-best-practices-for-engineering-multi-die-designs"
-        },
-        "field": null
-      },
-      {
-        "title": "Designing Industrial IoT Systems Under the Cyber Resilience Act",
-        "blurb": "欧州のサイバーレジリエンス法（CRA）により、産業IoTシステムは設計、文書化、保守方法が変化。サイバーセキュリティはシステムレベルの要件となる。",
-        "category": "business",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/designing-industrial-iot-systems-under-the-cyber-resilience-act"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news132.html"
         },
         "field": {
           "primary": "industrial",
@@ -171,26 +51,92 @@
         }
       },
       {
-        "title": "MediaTek, Microsoft Develop Active Optical Cable for Data Centers",
-        "blurb": "MediaTekとMicrosoftがデータセンター向け次世代アクティブ光ケーブルを開発。マイクロLED技術で電力効率、信頼性、拡張性を向上。",
+        "title": "半導体ウエハーの状態で絶縁膜の電気的特性を評価",
+        "blurb": "東レリサーチセンターは、極薄絶縁膜の電気的特性をウエハー状態で評価するサービスを開始。開発サイクルを大幅に短縮可能。",
         "category": "business",
-        "date": "2026-03-25",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mediatek-microsoft-develop-active-optical-cable-for-data-centers"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news033.html"
         },
         "field": {
-          "primary": "datacenter",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "datacenter",
-          "industry": "fabless"
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "次世代パワー半導体　「期待の5材料」の現在地――電子版2026年3月号",
+        "blurb": "次世代パワー半導体向け期待の5材料の現状を解説。電子版2026年3月号に掲載。",
+        "category": "business",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news029.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "NVIDIAとメモリ3社、世界半導体売上高の42％占める",
+        "blurb": "2025年の世界半導体市場は8300億ドル超。NVIDIAとメモリ3社で売上高の42％を占める見込み。",
+        "category": "business",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news063.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Demystifying 3D ICs: A practical framework for heterogeneous integration",
+        "blurb": "3D ICとヘテロジニアスインテグレーションは、複数の特殊チップレットを統合し、2Dスケーリングの限界を克服します。",
+        "category": "business",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/demystifying-3d-ics-a-practical-framework-for-heterogeneous-integration"
+        },
+        "field": null
+      },
+      {
+        "title": "Toyota Will Invest $800 Million To Build A Second EV In The U.S. What Could It Be?",
+        "blurb": "トヨタは米国で2番目のEV生産のため8億ドルを投資。競合がEV投資を縮小する中、同社の戦略が注目される。",
+        "category": "business",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790948/toyota-1-billion-kentucky-indiana-investment-evs"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
         }
       },
       {
         "title": "Debugging Large-Scale Semiconductor Design Models",
-        "blurb": "HLSとシステムレベルモデルはチップ設計を加速する。デバッグがテープアウトを遅らせないように。半導体設計モデルのデバッグ。",
+        "blurb": "HLSとシステムレベルモデルはチップ設計を加速させる。デバッグでテープアウトを遅らせないようにしよう。",
         "category": "business",
         "date": "2026-03-25",
         "stars": 3,
@@ -209,82 +155,14 @@
     ],
     "tools": [
       {
-        "title": "Building an AI Chip: Security, Software Development, and Lifecycle Management",
-        "blurb": "AIチップのセキュリティ、ソフトウェア開発、ライフサイクル管理の重要側面について解説。",
+        "title": "Paralleling GaN FETs: Current Sharing Challenges and Solutions",
+        "blurb": "GaN FETの並列接続における電流共有の課題と解決策について解説。高電流スイッチ実現のため、複数のトランジスタを並列化する際の難しさに焦点を当てる。",
         "category": "tools",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-an-ai-chip-security-software-development-and-lifecycle-management"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "1MHz 555 VFC",
-        "blurb": "LMC555の遅延を抵抗1つで補正し、最小部品で1MHzの線形VFCを実現。EDN掲載。",
-        "category": "tools",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/1mhz-555-vfc"
-        },
-        "field": null
-      },
-      {
-        "title": "RAKwireless 1W Booster Starter Kit Offers High-Power Meshtastic LoRa Node",
-        "blurb": "RAKwirelessがLoRa通信ノード用1Wブースターキットを発表。長距離メッシュ通信を強化する。",
-        "category": "tools",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/rakwireless-1w-booster-starter-kit-offers-high-power-meshtastic-lora-node"
-        },
-        "field": null
-      },
-      {
-        "title": "Google’s Android Is About To Take Over Your Entire Car–Not Just the Screens",
-        "blurb": "GoogleのAndroid OSが、車の座席や空調、照明など、画面外の機能制御も可能になり、車全体を掌握する。",
-        "category": "tools",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791053/google-android-os-sdv-open-source"
-        },
-        "field": null
-      },
-      {
-        "title": "PLS Streamlines Debugging with UDE 2026",
-        "blurb": "PLSがUDE 2026を発表。デバッグとトレース分析を効率化し、対応MCUを拡充。",
-        "category": "tools",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/pls-streamlines-debugging-with-ude-2026"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Vishay Introduces Space-Grade Common Mode Choke",
-        "blurb": "Vishayが、EMIフィルタリング用のナノ結晶コアを備えた宇宙グレードコモンモードチョークを発表。GaN/SiC電源用途に適しています。",
-        "category": "company",
-        "date": "2026-03-25",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke"
+          "url": "https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions"
         },
         "field": {
           "primary": "power",
@@ -295,74 +173,14 @@
         }
       },
       {
-        "title": "Advanced Energy Launches 600-W Full-Bridge 48-V AC-DC Supply",
-        "blurb": "Advanced Energyが、高効率・高密度な600Wフルブリッジ48V AC-DC電源を発表。",
-        "category": "company",
-        "date": "2026-03-25",
+        "title": "Research Bits: Mar. 24",
+        "blurb": "デュアル変調トランジスタ、グラフェンFETバイオセンサー、より堅牢な印刷トランジスタに関する研究。",
+        "category": "tools",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/advanced-energy-launches-600-w-full-bridge-48-v-ac-dc-supply"
-        },
-        "field": null
-      },
-      {
-        "title": "TI Launches IsoShield Power Modules for High-Density Isolation",
-        "blurb": "TIがデータセンターやEV向けに高密度絶縁対応のIsoShieldパワーモジュールを発表。電力密度、効率、安全性を向上。",
-        "category": "company",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/ti-launches-isoshield-power-modules-for-high-density-isolation"
-        },
-        "field": null
-      },
-      {
-        "title": "ST Unveils GaN Motor-Control Reference Design for 600-W Drives",
-        "blurb": "STマイクロエレクトロニクスが、ヒートシンク不要で600W超の動作が可能なGaNモーター制御リファレンスデザインを発表。家電や産業用ドライブ向け。",
-        "category": "company",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-unveils-gan-motor-control-reference-design-for-600-w-drives"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "ソニー・ホンダモビリティ、EV「AFEELA」開発中止",
-        "blurb": "ソニー・ホンダモビリティがEV「AFEELA」の開発中止を発表。第2弾モデルも開発・発売中止。",
-        "category": "company",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news136.html"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "ADI、タイに後工程の新工場開設　グローバル戦略の重要基軸",
-        "blurb": "ADIはタイに後工程の新工場を開設。テストやパッケージング工程を強化し、グローバル戦略の重要拠点とする。",
-        "category": "company",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news099.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-mar-24"
         },
         "field": {
           "primary": "general",
@@ -373,44 +191,26 @@
         }
       },
       {
-        "title": "量子コンピュータ開発で天然シリコンが利用可能に、東京科学大",
-        "blurb": "東工大と日立、天然シリコン量子ビット制御の新方式を開発。環境雑音に強く、量子コンピュータ開発に貢献。",
-        "category": "company",
-        "date": "2026-03-25",
+        "title": "スマホのウォレットがデジタルキーに　新規格「Aliro」とは",
+        "blurb": "CSAがスマートキー共通規格「Aliro 1.0」を発表。スマホウォレットがデジタルキーとして利用可能に。",
+        "category": "tools",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news041.html"
-        },
-        "field": {
-          "primary": "image",
-          "device": "image",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「国内初」Matter対応ルーター、スマートホームの司令塔に",
-        "blurb": "NECプラットフォームズは国内初となるMatter対応ルーターを参考出展。スマートホームの司令塔として普及に貢献。",
-        "category": "company",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news049.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news049.html"
         },
         "field": null
       },
       {
-        "title": "500Wまで供給可能なGaN電源ソリューション、ルネサス",
-        "blurb": "ルネサスが500W対応GaN電源ソリューションを開発。電動工具や高速充電器向け。",
-        "category": "company",
-        "date": "2026-03-25",
+        "title": "アンチアイランディング試験を数週間から数時間に短縮、キーサイト",
+        "blurb": "キーサイトがアンチアイランディング試験を数週間から数時間に短縮するソリューションを開発。BATTERY JAPANで紹介。",
+        "category": "tools",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news039.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news052.html"
         },
         "field": {
           "primary": "power",
@@ -421,32 +221,14 @@
         }
       },
       {
-        "title": "Armが半導体の自社開発に参入、AIデータセンター向けCPU発表",
-        "blurb": "ArmがAIデータセンター向けCPU「Arm AGI CPU」を発表。自社開発で、エージェント型AIワークロードに対応。MetaやOpenAIに供給。",
-        "category": "company",
-        "date": "2026-03-25",
+        "title": "Is your PLC/DCS reading the field contacts reliably?",
+        "blurb": "PLC/DCSがフィールド接点開閉を確実に読み取るための、経済的で信頼性の高いソリューションを紹介。",
+        "category": "tools",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news066.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Industrial Robotics at the Edge: Building Smart, Resilient, Physically‑Intelligent systems",
-        "blurb": "産業用ロボットがエッジAIで進化。マルチモーダル認識と分散アーキテクチャで、スマートで強靭な物理的知能システムを構築。",
-        "category": "company",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/industrial-robotics-at-the-edge-building-smart-resilient-physically-intelligent-systems"
+          "name": "edn.com",
+          "url": "https://www.edn.com/is-your-plc-dcs-reading-the-field-contacts-reliably"
         },
         "field": {
           "primary": "industrial",
@@ -457,56 +239,136 @@
         }
       },
       {
-        "title": "Sony And Honda's Afeela EVs Are Dead",
-        "blurb": "ソニー・ホンダのEV「アフィーラ」計画が中止。セダンとSUVの開発が進んでいた。",
-        "category": "company",
-        "date": "2026-03-25",
+        "title": "Waveshare Dual-Channel GMSL Camera Adapter Board for Raspberry Pi 5 and Jetson Orin Nano/NX",
+        "blurb": "WaveshareがRaspberry Pi 5/Jetson Orin向けにGMSLカメラアダプターを発表。デュアルカメラ接続を可能に。",
+        "category": "tools",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791060/sony-honda-afeela-evs-canceled"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/waveshare-dual-channel-gmsl-camera-adapter-board-for-raspberry-pi-5-and-jetson-orin-nano-nx"
         },
-        "field": null
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "SemiQ Launches 1200-V SiC Dual3 Modules",
+        "blurb": "SemiQが、産業・エネルギーシステム向けに低RDS(on)で高効率・高電力密度の1200V SiCデュアル3モジュールを発表。",
+        "category": "company",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/semiq-launches-1200-v-sic-dual3-modules"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
       },
       {
-        "title": "Zoox Is The Latest Robotaxi Company Targeting Austin, Texas",
-        "blurb": "Amazon傘下の自動運転車開発企業Zooxが、テキサス州オースティンへの事業拡大を計画。サンフランシスコ、ラスベガスに続き、新たな市場を開拓。",
+        "title": "TI Unveils 800 VDC Power Architecture for AI Data Centers",
+        "blurb": "TIがAIデータセンター向け800VDC電源アーキテクチャを発表。Nvidiaリファレンスデザインと連携。",
         "category": "company",
-        "date": "2026-03-25",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791024/zoox-robotaxi-expansion-austin-miami"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ti-unveils-800-vdc-power-architecture-for-ai-data-centers"
         },
-        "field": null
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
       },
       {
-        "title": "Could The Cybercab Preview Tesla's New Door Release?",
-        "blurb": "テスラは、サイバーキャブでドアリリース機構の刷新を示唆。顧客からの批判を受け、デザイン変更の可能性。",
+        "title": "Microchip Introduces BZPACK mSiC Power Modules",
+        "blurb": "マイクロチップが産業・再生可能エネルギー向けの新mSiC電源モジュール「BZPACK」を発表。",
         "category": "company",
-        "date": "2026-03-25",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790975/tesla-door-handles-cybercab-look"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/microchip-introduces-bzpack-msic-power-modules"
         },
-        "field": null
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
       },
       {
-        "title": "The Xiaomi SU7 Was Already Dominating The Market. Reviewers Say The Updated Version Is Even Better",
-        "blurb": "XiaomiのEV「SU7」が市場を席巻。改良版はさらに性能向上と評価されている。",
+        "title": "検出感度340倍の超小型光回路モニター、早稲田大",
+        "blurb": "早稲田大が検出感度340倍の超小型光回路モニターを開発。マルチモード干渉で低損失と高感度化を両立。",
         "category": "company",
-        "date": "2026-03-25",
+        "date": "2026-03-24",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/790997/youtube-xiaomi-su7-sedan-update"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/24/news032.html"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "EPC Launches GaN-Based BLDC Motor Drive Evaluation Board",
+        "blurb": "EPCがGaN技術搭載のBLDCモーター駆動評価ボードを発表。ドローン、ロボット等での高速プロトタイピングを支援。",
+        "category": "company",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/epc-launches-gan-based-bldc-motor-drive-evaluation-board"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Lumotive Demonstrates 2D Photonic Beamforming Chip",
+        "blurb": "Lumotiveが、機械部品なしで光を自在に制御できる2Dフォトニックビームフォーミングチップを発表。LCM技術で実現。",
+        "category": "company",
+        "date": "2026-03-24",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/lumotive-demonstrates-2d-photonic-beamforming-chip"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
         "title": "The Kia EV2 Is Another Cool, Small, Affordable EV That You Can't Have",
-        "blurb": "キアEV2は、手頃な価格の小型EVだが、残念ながらアメリカでは購入できない。",
+        "blurb": "キアEV2は、手頃な価格の小型EVだが、米国では購入できない。",
         "category": "company",
         "date": "2026-03-25",
         "stars": 3,
@@ -535,22 +397,16 @@
         "field": null
       },
       {
-        "title": "GigaDevice Unveils Motor Control MCU and Expands 1.2 V SPI NOR Flash to 256 Mb",
-        "blurb": "GigaDeviceがモーター制御MCUと1.2V SPI NORフラッシュを新発表。AIコンピューティング向けに256Mbまで拡張。",
+        "title": "Cadillac Is Testing 'Eyes-Off' Driving For The Escalade. Here's When You'll Be Able To Buy It",
+        "blurb": "キャデラック、新型EV「エスカレード」にハンズオフ運転機能を2028年までに導入へ。他社も開発競争。",
         "category": "company",
-        "date": "2026-03-26",
+        "date": "2026-03-25",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/gigadevice-unveils-motor-control-mcu-and-expands-1-2-v-spi-nor-flash-to-256-mb"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/790981/cadillac-escalade-eyes-off-driving-gm-2028"
         },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       }
     ],
     "sns": []

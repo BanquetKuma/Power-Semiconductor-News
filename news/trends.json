@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-26T06:13:42.539485+09:00",
-  "date": "2026-03-26",
+  "generated_at": "2026-03-27T06:11:17.328868+09:00",
+  "date": "2026-03-27",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の普及加速",
+      "name": "広帯域ギャップ半導体の普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,158 +12,158 @@
         "industrial",
         "datacenter"
       ],
-      "summary": "SiCやGaNといったワイドバンドギャップ（WBG）パワー半導体の採用がEV、産業機器、データセンター向け電源で拡大。効率向上と小型化に貢献。",
+      "summary": "SiCおよびGaN技術がAIデータセンター、EV、産業用駆動装置など、高効率・高性能が求められる分野で急速に普及しています。",
       "analysis": {
-        "short_term": "WBGデバイスの性能向上とコスト低減が進む。リファレンスデザインが増加。",
-        "mid_term": "EVインバータやデータセンター電源での標準化が進む。新材料開発も活発化。",
-        "investment_implications": "WBG材料・デバイスメーカー、関連ソリューションプロバイダーに注目。"
+        "short_term": "需要拡大が継続。供給能力が追いつくか注視。",
+        "mid_term": "技術進化とコスト低下で採用分野が拡大。",
+        "investment_implications": "WBG関連企業に注目。サプライチェーンの安定性も重要。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "WBG",
-        "EV",
-        "電源"
+        "AI",
+        "EV"
       ],
       "companies_mentioned": [
-        "Vishay",
+        "Navitas",
+        "Renesas",
         "STMicroelectronics",
-        "SemiQ",
-        "Microchip",
-        "ルネサス",
-        "キーサイト"
+        "Vishay",
+        "TechInsights"
       ]
     },
     {
-      "name": "AI向け半導体需要の継続拡大",
+      "name": "AIによる半導体設計・検証の高度化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "logic",
-        "memory",
-        "datacenter",
-        "idm",
-        "fabless"
+        "frontend",
+        "backend",
+        "ai",
+        "equipment"
       ],
-      "summary": "AIチップ、特にデータセンター向けCPUやメモリの需要が急増。NVIDIAが市場を牽引し、Armも自社開発CPUで参入。",
+      "summary": "AIツールが設計検証の早期化・効率化を推進し、複雑化するチップ設計（3D積層、CFETなど）に対応しています。",
       "analysis": {
-        "short_term": "AIチップの供給逼迫が続く可能性。NVIDIA以外のプレイヤーも注力。",
-        "mid_term": "AI向けメモリ（LPDDR6など）や特殊プロセッサの開発競争が激化。",
-        "investment_implications": "AIチップ設計・製造、高性能メモリメーカーに投資妙味。"
+        "short_term": "AI検証IPの活用が進む。",
+        "mid_term": "設計サイクルの短縮と複雑な相互作用の管理が鍵。",
+        "investment_implications": "AIを活用するEDAツールベンダーや設計サービス企業に妙味。"
       },
       "keywords": [
         "AI",
-        "CPU",
-        "データセンター",
-        "メモリ",
-        "NVIDIA",
-        "Arm"
+        "EDA",
+        "Verification IP",
+        "3D IC",
+        "CFET"
       ],
       "companies_mentioned": [
         "NVIDIA",
-        "Arm",
-        "TI",
-        "Scale AI",
-        "Micron"
+        "Arm"
       ]
     },
     {
-      "name": "先進パッケージング技術の重要性増大",
+      "name": "データセンターネットワークの進化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "miniaturization",
-        "logic",
-        "memory",
+        "datacenter",
         "ai",
-        "automotive"
+        "memory",
+        "logic",
+        "equipment"
       ],
-      "summary": "3DパッケージングやCFETなどの先進技術が、性能向上と小型化の鍵。熱管理や給電技術が課題。",
+      "summary": "AIワークロードの増大がデータセンターネットワークにメモリ・ストレージ統合を要求し、新たなネットワーク要件を生み出しています。",
       "analysis": {
-        "short_term": "熱管理ソリューションや新しいパッケージング材料への関心が高まる。",
-        "mid_term": "CFETや裏面給電技術の実用化に向けた研究開発が進展。",
-        "investment_implications": "先進パッケージング技術を持つ企業や、関連材料・装置メーカーに注目。"
+        "short_term": "NoC・ファブリックへの負荷増大。",
+        "mid_term": "適応型メッシュNoCなど、データ移動最適化技術が重要に。",
+        "investment_implications": "データセンターインフラ、ネットワークソリューション関連に注目。"
       },
       "keywords": [
-        "3Dパッケージ",
-        "CFET",
-        "熱管理",
-        "裏面給電"
+        "AI",
+        "Data Center",
+        "Network Fabric",
+        "NoC",
+        "Memory"
       ],
       "companies_mentioned": [
-        "ADI",
-        "東レリサーチセンター"
+        "NVIDIA"
       ]
     },
     {
-      "name": "車載半導体市場の進化と再編",
+      "name": "車載半導体の需要と技術革新",
       "confidence": 0.8,
-      "momentum": "stable",
+      "momentum": "rising",
       "related_fields": [
         "automotive",
-        "power",
         "logic",
-        "industrial"
+        "power",
+        "idm"
       ],
-      "summary": "EV開発の動向に影響を受けつつも、車載イーサネットの高速化や、デンソー・ローム間の連携など、技術進化と業界再編の動きが見られる。",
+      "summary": "EVモーター制御やADAS向けに、WBGパワー半導体やTCAM搭載SoCなど、高性能・高信頼性半導体の需要が高まっています。",
       "analysis": {
-        "short_term": "EV開発中止のニュースは一時的な懸念材料。技術標準化は継続。",
-        "mid_term": "自動運転・コネクテッド技術の進展に伴い、高性能・高信頼性半導体の需要は堅調。",
-        "investment_implications": "車載半導体メーカー、特にADAS・インフォテインメント向けに強みを持つ企業に注目。"
+        "short_term": "一部EV開発中止の動きも、全体的な車載半導体需要は底堅い。",
+        "mid_term": "自動運転、電動化の進展で高性能SoCの重要性が増す。",
+        "investment_implications": "車載半導体メーカー、特に高付加価値製品に強みを持つ企業に注目。"
       },
       "keywords": [
-        "車載",
+        "Automotive",
         "EV",
-        "イーサネット",
-        "ADAS"
+        "ADAS",
+        "TCAM",
+        "WBG"
       ],
       "companies_mentioned": [
-        "ソニー・ホンダモビリティ",
-        "デンソー",
-        "ローム"
+        "Renesas",
+        "Denso",
+        "Rohm",
+        "Sony Honda Mobility"
       ]
     },
     {
-      "name": "量子コンピュータ開発の進展",
+      "name": "メモリ市場の回復と再編",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "equipment",
         "memory",
-        "ai"
+        "idm",
+        "foundry"
       ],
-      "summary": "天然シリコンを用いた量子ビット制御の新方式開発など、実用化に向けた基礎研究が進展。半導体技術が貢献。",
+      "summary": "Micronの過去最高益更新や、キオクシアとNanyaのDRAM供給契約など、メモリ市場の回復基調と資本提携の動きが見られます。",
       "analysis": {
-        "short_term": "基礎研究段階だが、ブレークスルーの可能性を秘める。",
-        "mid_term": "特定分野での応用（創薬、材料開発など）が先行する可能性。",
-        "investment_implications": "長期的な視点で、量子コンピュータ関連技術を持つ企業や研究機関に注目。"
+        "short_term": "DRAM・NANDの価格上昇基調が続く可能性。",
+        "mid_term": "AI需要によるメモリ需要の構造的増加が期待される。",
+        "investment_implications": "メモリメーカーの収益改善に期待。供給安定化に向けた提携も注視。"
       },
       "keywords": [
-        "量子コンピュータ",
-        "天然シリコン",
-        "量子ビット"
+        "Memory",
+        "DRAM",
+        "NAND",
+        "Micron",
+        "Kioxia"
       ],
       "companies_mentioned": [
-        "東京科学大",
-        "日立"
+        "Micron",
+        "Kioxia",
+        "Nanya"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "WBGパワー半導体の需要拡大と技術革新",
-      "AI向け半導体の継続的な需要増",
-      "先進パッケージング技術の重要性向上"
+      "広帯域ギャップ半導体の需要拡大と技術進展",
+      "AIによる半導体設計・検証プロセスの効率化",
+      "データセンター向け高性能ネットワークソリューションの需要増",
+      "車載半導体市場の回復と高性能化ニーズ",
+      "メモリ市場の回復基調とAI需要による構造的増加期待"
     ],
     "bearish": [
-      "EV市場の不確実性（一部プロジェクト中止）"
+      "一部EV開発中止による関連半導体への影響（限定的か）"
     ],
     "neutral": [
-      "半導体業界全体の売上高予測は堅調"
+      "半導体製造装置メーカーの設備投資動向",
+      "地政学リスクによるサプライチェーンの不確実性"
     ]
   },
-  "source_count": 50
+  "source_count": 51
 }

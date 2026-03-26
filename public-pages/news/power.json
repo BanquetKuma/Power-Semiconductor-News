@@ -1,72 +1,36 @@
 {
-  "generated_at": "2026-03-26T06:13:37.903711+09:00",
+  "generated_at": "2026-03-27T06:11:13.200126+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Vishay Introduces Space-Grade Common Mode Choke",
-    "summary": "Vishayが、EMIフィルタリング用のナノ結晶コアを備えた宇宙グレードコモンモードチョークを発表。GaN/SiC電源用途に適しています。",
+    "title": "APEC 2026: Navitas CEO Weighs In On the Future of AI Power",
+    "summary": "Navitas CEOがAPEC2026でAIデータセンターの電力アーキテクチャについて語る。次世代SiCやGaN技術の将来性に言及。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke"
+        "url": "https://www.powerelectronicsnews.com/apec-2026-navitas-ceo-weighs-in-on-the-future-of-ai-power"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Vishay Introduces Space-Grade Common Mode Choke",
-        "blurb": "Vishayが、EMIフィルタリング用のナノ結晶コアを備えた宇宙グレードコモンモードチョークを発表。GaN/SiC電源用途に適しています。",
+        "title": "Renesas Introduces 650V Bidirectional GaN Switch",
+        "blurb": "ルネサスが650V双方向GaNスイッチを発表。太陽光、EV、AIシステムで電力変換を簡素化し効率向上。",
         "category": "company",
-        "date": "2026-03-25",
+        "date": "2026-03-26",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke"
+          "url": "https://www.powerelectronicsnews.com/renesas-introduces-650v-bidirectional-gan-switch"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ST Unveils GaN Motor-Control Reference Design for 600-W Drives",
-        "blurb": "STマイクロエレクトロニクスが、ヒートシンク不要で600W超の動作が可能なGaNモーター制御リファレンスデザインを発表。家電や産業用ドライブ向け。",
-        "category": "company",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-unveils-gan-motor-control-reference-design-for-600-w-drives"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "500Wまで供給可能なGaN電源ソリューション、ルネサス",
-        "blurb": "ルネサスが500W対応GaN電源ソリューションを開発。電動工具や高速充電器向け。",
-        "category": "company",
-        "date": "2026-03-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/25/news039.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
       }
@@ -74,20 +38,38 @@
     "tech": [],
     "market": [
       {
-        "title": "Are SiC Inverters Suitable For Sensorless Vector Motor Control?",
-        "blurb": "SiCインバータはセンサーレスベクトル制御に適しているか？EVモーターの効率化にはWBGパワーエレクトロニクスと高精度制御が不可欠。",
+        "title": "APEC 2026: Navitas CEO Weighs In On the Future of AI Power",
+        "blurb": "Navitas CEOがAPEC2026でAIデータセンターの電力アーキテクチャについて語る。次世代SiCやGaN技術の将来性に言及。",
         "category": "business",
-        "date": "2026-03-25",
+        "date": "2026-03-26",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/are-sic-inverters-suitable-for-sensorless-vector-motor-control"
+          "url": "https://www.powerelectronicsnews.com/apec-2026-navitas-ceo-weighs-in-on-the-future-of-ai-power"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "automotive",
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Power Corner: TechInsights’ Cédric Malaquin on the State of Wide Bandgap Semiconductors",
+        "blurb": "TechInsightsのアナリスト、セドリック・マラキン氏が広帯域ギャップ半導体の現状について解説。市場の成長と技術動向に焦点を当てる。",
+        "category": "business",
+        "date": "2026-03-26",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-techinsights-cedric-malaquin-on-the-state-of-wide-bandgap-semiconductors"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
