@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-27T06:11:13.200911+09:00",
+  "generated_at": "2026-03-28T06:12:46.138191+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A Look into Commercially Available IVRs",
-    "summary": "市販のIVR技術を比較し、電力変換をプロセッサに近づける。パワーエレクトロニクスニュースの記事。",
+    "title": "APEC 2026: The Race to Deliver 800 VDC Power Straight towards the GPU",
+    "summary": "APEC 2026で、AIプロセッサ向け800V電源コンバータ技術が進展。InfineonやNavitasなどがGPUへの直接給電を競う。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/a-look-into-commercially-available-ivrs"
+        "url": "https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "「車載SoCにTCAM」は標準となるか　ルネサスの新技術詳細を聞く",
-        "blurb": "ルネサスが車載SoC向けTCAM技術を発表。高密度・低消費電力を実現し、次世代車載システムでの標準化を目指す。",
+        "title": "What does Arm’s own chip stand for?",
+        "blurb": "ArmがAI向け独自CPUを発表。エージェンティックAIワークロードに対応し、戦略転換を図る。",
         "category": "company",
-        "date": "2026-03-26",
+        "date": "2026-03-27",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/26/news039.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/what-does-arms-own-chip-stand-for"
         },
         "field": {
           "primary": "logic",
@@ -35,34 +35,14 @@
         }
       },
       {
-        "title": "NXP Launches Omlox RTLS Starter Kit with UWB SoC",
-        "blurb": "NXPがomlox RTLSスターターキットを発表。UWB SoCを統合し、産業用リアルタイム位置特定システムの迅速な展開を支援します。",
+        "title": "Systematic Analysis of CPU-Induced Slowdowns in Multi-GPU LLM Inference (Georgia Tech)",
+        "blurb": "ジョージア工科大学が、マルチGPUでのLLM推論におけるCPU起因の遅延を分析した論文を発表。CPUのボトルネックが性能を制限する可能性を指摘。",
         "category": "company",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/nxp-launches-omlox-rtls-starter-kit-with-uwb-soc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Removing The Accuracy And Time Tradeoff In EM Simulation",
-        "blurb": "GPU活用で電磁界シミュレーションの精度と時間のトレードオフを解消。大規模FEM計算を効率化。",
-        "category": "tools",
-        "date": "2026-03-26",
+        "date": "2026-03-28",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/removing-the-accuracy-and-time-tradeoff-in-em-simulation"
+          "url": "https://semiengineering.com/systematic-analysis-of-cpu-induced-slowdowns-in-multi-gpu-llm-inference-georgia-tech"
         },
         "field": {
           "primary": "logic",
@@ -73,16 +53,17 @@
         }
       }
     ],
+    "tech": [],
     "market": [
       {
-        "title": "A Look into Commercially Available IVRs",
-        "blurb": "市販のIVR技術を比較し、電力変換をプロセッサに近づける。パワーエレクトロニクスニュースの記事。",
+        "title": "APEC 2026: The Race to Deliver 800 VDC Power Straight towards the GPU",
+        "blurb": "APEC 2026で、AIプロセッサ向け800V電源コンバータ技術が進展。InfineonやNavitasなどがGPUへの直接給電を競う。",
         "category": "business",
-        "date": "2026-03-26",
+        "date": "2026-03-27",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/a-look-into-commercially-available-ivrs"
+          "url": "https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu"
         },
         "field": {
           "primary": "logic",

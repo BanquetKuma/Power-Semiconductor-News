@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-03-27T06:11:13.203096+09:00",
+  "generated_at": "2026-03-28T06:12:46.140256+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "IP Requirements Evolve For 3D Multi-Die Designs",
-    "summary": "3D積層チップ設計では、垂直信号経路が複雑な寄生相互作用を生み、モデリングと制御が困難になっている。",
+    "title": "半導体製造を支える高純度蛍石、回収SF6ガスから生成",
+    "summary": "住友電設は回収SF6ガスから高純度蛍石を生成するプラントを製作。年間2トンから3.2トンを生成可能。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ip-requirements-evolve-for-3d-multi-die-designs"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/27/news040.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "魚津はTower、砺波はNuvotonに　TPSCo事業の再編を発表",
-        "blurb": "TowerとNuvotonは、合弁会社TPSCoの事業運営を再編することで基本合意した。魚津はTower、砺波はNuvotonの傘下となる。",
+        "title": "全固体電池の製造プロセス簡素化、東北大が新手法",
+        "blurb": "東北大学は、超音波接合法で全固体電池の製造プロセスを簡素化する新手法を開発。室温・短時間でリチウム金属と固体電解質の界面形成が可能に。",
         "category": "company",
-        "date": "2026-03-26",
+        "date": "2026-03-27",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/26/news072.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "もはや半導体メーカーの域を超えた　NVIDIA最新エッジ機器を分解",
-        "blurb": "NVIDIAは最新エッジ機器「JETSON AGX Thor」などを発売。半導体メーカーの枠を超え、最終製品に近いキットを提供する。",
-        "category": "company",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/23/news019.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/27/news039.html"
         },
         "field": {
           "primary": "general",
@@ -53,144 +35,17 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "Detect, Diagnose, And Debug Using Sensors And Functional Monitoring",
-        "blurb": "センサーと機能監視で半導体開発の検出、診断、デバッグを支援。物理的電力供給網の変化と機能動作を相関させる。",
-        "category": "tools",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/detect-diagnose-and-debug-using-sensors-and-functional-monitoring"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Shift Verification Left: AI Tools For Faster, Smarter Chip Design",
-        "blurb": "AIツールで半導体設計の検証を早期化・高度化。個々のブロック検証を先行させ、システムレベルの複雑な相互作用に注力する。",
-        "category": "tools",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/shift-verification-left-ai-tools-for-faster-smarter-chip-design"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": [
       {
-        "title": "IP Requirements Evolve For 3D Multi-Die Designs",
-        "blurb": "3D積層チップ設計では、垂直信号経路が複雑な寄生相互作用を生み、モデリングと制御が困難になっている。",
+        "title": "半導体製造を支える高純度蛍石、回収SF6ガスから生成",
+        "blurb": "住友電設は回収SF6ガスから高純度蛍石を生成するプラントを製作。年間2トンから3.2トンを生成可能。",
         "category": "business",
-        "date": "2026-03-26",
+        "date": "2026-03-27",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ip-requirements-evolve-for-3d-multi-die-designs"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Importance Of Hardware Security Verification In Pre-Silicon Design",
-        "blurb": "複雑化するハードウェア設計において、シリコン製造前の段階でのセキュリティ検証が不可欠です。",
-        "category": "business",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/importance-of-hardware-security-verification-in-pre-silicon-design"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Data Boom Puts Pressure On NoCs, Fabrics",
-        "blurb": "データ量の増加により、NoCやファブリックに負荷がかかっています。適応型メッシュNoCトポロジーがデータ移動の最適化を可能にします。",
-        "category": "business",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/data-boom-puts-pressure-on-nocs-fabrics"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Precision In Depth: Extraction Workflows For CFETs And Buried Power Rails",
-        "blurb": "CFETや埋め込み電源レール向け抽出ワークフローは、最先端ノードでの半導体革新を強化する。",
-        "category": "business",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/precision-in-depth-extraction-workflows-for-cfets-and-buried-power-rails"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI Won’t Kill Verification IP, But It Will Redefine It",
-        "blurb": "AIは検証IPを殺さないが、再定義する。AIは生産性を向上させ、検証のボトルネックを変化させるが、信頼できる検証IPはプロトコル専門知識の基盤であり続ける。",
-        "category": "business",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-wont-kill-verification-ip-but-it-will-redefine-it"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The 6G clock ticking: Why silicon architecture for 2030 must start in 2026",
-        "blurb": "2030年商用開始の6Gに向け、シリコンアーキテクチャ開発は2026年開始が必須。無線開発者にはタイトなスケジュール。",
-        "category": "business",
-        "date": "2026-03-26",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/the-6g-clock-ticking-why-silicon-architecture-for-2030-must-start-in-2026"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/27/news040.html"
         },
         "field": {
           "primary": "general",
