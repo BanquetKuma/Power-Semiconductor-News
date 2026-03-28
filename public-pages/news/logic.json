@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-28T06:12:46.138191+09:00",
+  "generated_at": "2026-03-29T06:09:27.476307+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "APEC 2026: The Race to Deliver 800 VDC Power Straight towards the GPU",
-    "summary": "APEC 2026で、AIプロセッサ向け800V電源コンバータ技術が進展。InfineonやNavitasなどがGPUへの直接給電を競う。",
+    "title": "Integrating Error Propagation Theory Into the FMEDA Framework (Robert Bosch GmbH)",
+    "summary": "ボッシュがFMEDAフレームワークに誤差伝播理論を統合し、ASIC検証の安全性指標の不確実性を定量化する新技術論文を発表。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/integrating-error-propagation-theory-into-the-fmeda-framework-robert-bosch-gmbh"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "What does Arm’s own chip stand for?",
-        "blurb": "ArmがAI向け独自CPUを発表。エージェンティックAIワークロードに対応し、戦略転換を図る。",
+        "title": "Integrating Error Propagation Theory Into the FMEDA Framework (Robert Bosch GmbH)",
+        "blurb": "ボッシュがFMEDAフレームワークに誤差伝播理論を統合し、ASIC検証の安全性指標の不確実性を定量化する新技術論文を発表。",
         "category": "company",
-        "date": "2026-03-27",
+        "date": "2026-03-28",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/what-does-arms-own-chip-stand-for"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/integrating-error-propagation-theory-into-the-fmeda-framework-robert-bosch-gmbh"
         },
         "field": {
           "primary": "logic",
@@ -36,7 +36,7 @@
       },
       {
         "title": "Systematic Analysis of CPU-Induced Slowdowns in Multi-GPU LLM Inference (Georgia Tech)",
-        "blurb": "ジョージア工科大学が、マルチGPUでのLLM推論におけるCPU起因の遅延を分析した論文を発表。CPUのボトルネックが性能を制限する可能性を指摘。",
+        "blurb": "ジョージア工科大学が、マルチGPUでのLLM推論におけるCPUによる性能低下を分析した論文を発表。CPUのボトルネックを指摘。",
         "category": "company",
         "date": "2026-03-28",
         "stars": 3,
@@ -54,25 +54,6 @@
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "APEC 2026: The Race to Deliver 800 VDC Power Straight towards the GPU",
-        "blurb": "APEC 2026で、AIプロセッサ向け800V電源コンバータ技術が進展。InfineonやNavitasなどがGPUへの直接給電を競う。",
-        "category": "business",
-        "date": "2026-03-27",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

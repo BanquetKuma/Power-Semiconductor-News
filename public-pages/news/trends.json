@@ -1,166 +1,168 @@
 {
-  "generated_at": "2026-03-28T06:12:50.888453+09:00",
-  "date": "2026-03-28",
+  "generated_at": "2026-03-29T06:09:31.267349+09:00",
+  "date": "2026-03-29",
   "meta_trends": [
     {
-      "name": "AIとデータセンター向け高効率電源技術",
+      "name": "次世代パワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
+        "automotive",
         "datacenter",
         "ai"
       ],
-      "summary": "AIワークロードの増大に伴い、GPUへの直接給電や800V変換技術など、データセンターにおける電力変換効率の向上が急務となっている。",
+      "summary": "GaNやSiCといった広帯域ギャップ半導体の信頼性向上、高電圧化、高密度化が進み、AIデータセンターやEV、産業機器での採用が加速している。",
       "analysis": {
-        "short_term": "APEC 2026での技術発表が市場の注目を集める。",
-        "mid_term": "GaN/SiC技術の進化と普及がデータセンターの省電力化を牽引。",
-        "investment_implications": "高効率電源関連企業への投資妙味が増す。"
+        "short_term": "APECでの技術発表が活発化。採用拡大への期待高まる。",
+        "mid_term": "性能・コスト競争が進み、市場での地位確立へ。",
+        "investment_implications": "関連企業への投資妙味増す。"
       },
       "keywords": [
-        "AI",
-        "800V",
         "GaN",
         "SiC",
-        "データセンター"
+        "800V",
+        "AI",
+        "EV"
       ],
       "companies_mentioned": [
         "Infineon",
         "Navitas",
-        "Texas Instruments",
         "EPC",
+        "Texas Instruments",
         "Renesas"
       ]
     },
     {
-      "name": "広帯域ギャップ(WBG)半導体の進化と応用拡大",
+      "name": "AIによる半導体設計・検証の高度化",
       "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "ai",
+        "frontend",
+        "backend",
+        "equipment"
+      ],
+      "summary": "AIツールが半導体設計の検証を早期化・高度化し、複雑な3D積層設計やハードウェアセキュリティ検証の効率を高めている。",
+      "analysis": {
+        "short_term": "AIツール導入による設計期間短縮の事例が増加。",
+        "mid_term": "設計の複雑化に対応するAI技術の重要性が増す。",
+        "investment_implications": "AI設計ツール関連企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "設計検証",
+        "3D積層",
+        "セキュリティ"
+      ],
+      "companies_mentioned": [
+        "NVIDIA",
+        "Robert Bosch GmbH"
+      ]
+    },
+    {
+      "name": "データセンターの電力・ネットワーク革新",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "power",
+        "ai"
+      ],
+      "summary": "AIワークロードの増大により、データセンターでは高効率な800V電源変換や、ネットワークとメモリ・ストレージの統合が進んでいる。",
+      "analysis": {
+        "short_term": "高効率電源技術への需要がデータセンター投資を牽引。",
+        "mid_term": "ネットワークアーキテクチャの再定義が進む。",
+        "investment_implications": "データセンターインフラ関連に追い風。"
+      },
+      "keywords": [
+        "AI",
+        "データセンター",
+        "800V",
+        "ネットワーク",
+        "メモリ"
+      ],
+      "companies_mentioned": [
+        "Navitas",
+        "Texas Instruments"
+      ]
+    },
+    {
+      "name": "パワー半導体業界の再編と統合",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "industrial",
-        "ai"
+        "idm"
       ],
-      "summary": "GaN技術は高密度電源変換で10年を経て進化し、信頼性データも拡充。モーター駆動やEV、AIシステムでの応用が加速している。",
+      "summary": "競争激化と技術革新に対応するため、主要パワー半導体メーカー間で事業統合や提携の動きが本格化している。",
       "analysis": {
-        "short_term": "WBG半導体の信頼性向上とコスト低減が進む。",
-        "mid_term": "EV、再生可能エネルギー、AIインフラでの採用が拡大。",
-        "investment_implications": "WBG材料・デバイスメーカーの成長が期待される。"
-      },
-      "keywords": [
-        "GaN",
-        "SiC",
-        "EV",
-        "モーター駆動",
-        "高効率"
-      ],
-      "companies_mentioned": [
-        "EPC",
-        "Renesas",
-        "Infineon",
-        "Navitas"
-      ]
-    },
-    {
-      "name": "AIによる半導体設計・検証の高度化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "frontend",
-        "backend",
-        "ai"
-      ],
-      "summary": "AIツールが半導体設計の検証を早期化・高度化し、複雑な3D積層やCFETなどの新技術開発を支援。シリコン製造前のセキュリティ検証も重要視。",
-      "analysis": {
-        "short_term": "AI設計ツールの導入が加速し、開発期間短縮に貢献。",
-        "mid_term": "複雑な先端プロセス開発におけるAIの役割が増大。",
-        "investment_implications": "AIを活用したEDAツールベンダーに注目。"
-      },
-      "keywords": [
-        "AI",
-        "設計自動化",
-        "検証",
-        "EDA",
-        "3D積層"
-      ],
-      "companies_mentioned": [
-        "NVIDIA",
-        "Georgia Tech"
-      ]
-    },
-    {
-      "name": "パワー半導体業界の再編と連携強化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "idm",
-        "automotive",
-        "industrial"
-      ],
-      "summary": "ローム、東芝、三菱電機がパワー半導体事業統合を協議開始。キオクシアとNanyaはDRAM供給契約を締結し、業界連携が強化されている。",
-      "analysis": {
-        "short_term": "大手企業間の事業統合・提携の動きが活発化。",
-        "mid_term": "競争力強化とサプライチェーン安定化に向けた再編が進む。",
-        "investment_implications": "再編によるシナジー効果や市場シェア変動に注視。"
+        "short_term": "主要メーカー間の協議開始で、業界再編への関心高まる。",
+        "mid_term": "統合によるシナジー効果と競争力強化が焦点に。",
+        "investment_implications": "再編の成否が企業価値に影響。"
       },
       "keywords": [
         "パワー半導体",
         "再編",
         "統合",
-        "DRAM",
-        "サプライチェーン"
+        "EV",
+        "産業機器"
       ],
       "companies_mentioned": [
         "ローム",
         "東芝",
-        "三菱電機",
-        "キオクシア",
-        "Nanya"
+        "三菱電機"
       ]
     },
     {
-      "name": "データセンターネットワークの進化",
+      "name": "ハードウェアセキュリティ検証の重要性増大",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
-        "ai",
         "logic",
-        "memory"
+        "automotive",
+        "industrial",
+        "frontend",
+        "backend",
+        "geopolitics"
       ],
-      "summary": "AI推論がデータセンターネットワークにメモリとストレージの統合を要求し、新たなネットワーク要件を生み出している。データ量増大でNoC負荷も増加。",
+      "summary": "複雑化する半導体設計において、シリコン製造前の段階でのセキュリティ検証が不可欠となり、リバースエンジニアリング対策も重要視されている。",
       "analysis": {
-        "short_term": "AIワークロードに対応するネットワーク技術開発が進む。",
-        "mid_term": "メモリ・ストレージ統合型ネットワークアーキテクチャが普及。",
-        "investment_implications": "次世代ネットワークインフラ関連企業に注目。"
+        "short_term": "セキュリティ脆弱性への懸念が設計プロセスに影響。",
+        "mid_term": "セキュアな設計・製造プロセスの確立が競争力に。",
+        "investment_implications": "セキュリティソリューションに注目。"
       },
       "keywords": [
-        "AI",
-        "データセンター",
-        "ネットワーク",
-        "メモリ",
-        "ストレージ"
+        "セキュリティ",
+        "検証",
+        "リバースエンジニアリング",
+        "ASIC",
+        "SoC"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Robert Bosch GmbH",
+        "Ruhr U.",
+        "MPI"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連半導体需要の継続的な増加",
-      "高効率電源技術への投資拡大",
-      "WBG半導体の市場浸透加速"
+      "次世代パワー半導体（GaN/SiC）の需要拡大",
+      "AI関連半導体・インフラへの投資活発化",
+      "データセンターの電力効率向上技術への期待"
     ],
     "bearish": [
-      "メモリ市場の価格変動リスク",
-      "地政学リスクによるサプライチェーンの不安定化"
+      "ソニー・ホンダモビリティのEV開発中止による市場への影響",
+      "メモリ市場における価格変動リスク"
     ],
     "neutral": [
-      "車載半導体市場の回復ペース",
-      "先端ロジックファウンドリの設備投資動向"
+      "半導体製造装置・材料分野における安定した需要",
+      "地政学リスクによるサプライチェーンへの影響"
     ]
   },
-  "source_count": 52
+  "source_count": 53
 }
