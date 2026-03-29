@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-29T06:09:31.267349+09:00",
-  "date": "2026-03-29",
+  "generated_at": "2026-03-30T06:10:23.257907+09:00",
+  "date": "2026-03-30",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化と普及",
+      "name": "次世代パワー半導体技術の進化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,80 +12,87 @@
         "datacenter",
         "ai"
       ],
-      "summary": "GaNやSiCといった広帯域ギャップ半導体の信頼性向上、高電圧化、高密度化が進み、AIデータセンターやEV、産業機器での採用が加速している。",
+      "summary": "GaN、SiCなどの広帯域ギャップ半導体技術がAI、データセンター、EV向けに急速に進化。高効率化と小型化が進む。",
       "analysis": {
-        "short_term": "APECでの技術発表が活発化。採用拡大への期待高まる。",
-        "mid_term": "性能・コスト競争が進み、市場での地位確立へ。",
-        "investment_implications": "関連企業への投資妙味増す。"
+        "short_term": "技術開発競争が激化。性能向上とコスト低減が焦点。",
+        "mid_term": "採用が拡大し、市場が本格的に成長。サプライチェーンの安定化が課題。",
+        "investment_implications": "GaN/SiC関連企業への投資妙味増大。技術力と生産能力が鍵。"
       },
       "keywords": [
         "GaN",
         "SiC",
         "800V",
         "AI",
-        "EV"
+        "EV",
+        "データセンター"
       ],
       "companies_mentioned": [
         "Infineon",
         "Navitas",
         "EPC",
         "Texas Instruments",
-        "Renesas"
+        "Renesas",
+        "ローム",
+        "東芝",
+        "三菱電機"
       ]
     },
     {
-      "name": "AIによる半導体設計・検証の高度化",
+      "name": "AIとデータセンターの電力最適化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "logic",
         "ai",
-        "frontend",
-        "backend",
-        "equipment"
-      ],
-      "summary": "AIツールが半導体設計の検証を早期化・高度化し、複雑な3D積層設計やハードウェアセキュリティ検証の効率を高めている。",
-      "analysis": {
-        "short_term": "AIツール導入による設計期間短縮の事例が増加。",
-        "mid_term": "設計の複雑化に対応するAI技術の重要性が増す。",
-        "investment_implications": "AI設計ツール関連企業に注目。"
-      },
-      "keywords": [
-        "AI",
-        "設計検証",
-        "3D積層",
-        "セキュリティ"
-      ],
-      "companies_mentioned": [
-        "NVIDIA",
-        "Robert Bosch GmbH"
-      ]
-    },
-    {
-      "name": "データセンターの電力・ネットワーク革新",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
         "datacenter",
         "power",
-        "ai"
+        "logic"
       ],
-      "summary": "AIワークロードの増大により、データセンターでは高効率な800V電源変換や、ネットワークとメモリ・ストレージの統合が進んでいる。",
+      "summary": "AIワークロードの増大に伴い、データセンターの電力効率とアーキテクチャが重要視。800V電源やIVR技術が注目される。",
       "analysis": {
-        "short_term": "高効率電源技術への需要がデータセンター投資を牽引。",
-        "mid_term": "ネットワークアーキテクチャの再定義が進む。",
-        "investment_implications": "データセンターインフラ関連に追い風。"
+        "short_term": "高効率電源ソリューションへの需要が高まる。",
+        "mid_term": "データセンターの電力インフラ刷新が進む可能性。",
+        "investment_implications": "データセンター向け電源・半導体メーカーに追い風。"
       },
       "keywords": [
         "AI",
         "データセンター",
         "800V",
-        "ネットワーク",
-        "メモリ"
+        "IVR",
+        "電力効率"
       ],
       "companies_mentioned": [
         "Navitas",
-        "Texas Instruments"
+        "Texas Instruments",
+        "Infineon"
+      ]
+    },
+    {
+      "name": "半導体設計・検証の高度化とAI活用",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "ai",
+        "frontend",
+        "backend"
+      ],
+      "summary": "複雑化するチップ設計において、AIツールを用いた検証の早期化・高度化が進む。セキュリティ検証も重要視される。",
+      "analysis": {
+        "short_term": "AI設計ツールの導入が進む。",
+        "mid_term": "開発期間短縮と品質向上が期待される。",
+        "investment_implications": "AIを活用したEDAツール企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "設計検証",
+        "EDA",
+        "セキュリティ",
+        "LLM"
+      ],
+      "companies_mentioned": [
+        "Robert Bosch GmbH",
+        "Georgia Tech",
+        "NVIDIA"
       ]
     },
     {
@@ -98,71 +105,67 @@
         "industrial",
         "idm"
       ],
-      "summary": "競争激化と技術革新に対応するため、主要パワー半導体メーカー間で事業統合や提携の動きが本格化している。",
+      "summary": "競争激化と技術革新に対応するため、大手メーカー間でパワー半導体事業の統合・再編の動きが加速している。",
       "analysis": {
-        "short_term": "主要メーカー間の協議開始で、業界再編への関心高まる。",
-        "mid_term": "統合によるシナジー効果と競争力強化が焦点に。",
-        "investment_implications": "再編の成否が企業価値に影響。"
+        "short_term": "M&Aや事業提携のニュースが増加する可能性。",
+        "mid_term": "業界構造が変化し、競争力のある企業が台頭。",
+        "investment_implications": "再編によるシナジー効果や事業ポートフォリオの変化に注目。"
       },
       "keywords": [
         "パワー半導体",
         "再編",
         "統合",
-        "EV",
-        "産業機器"
+        "M&A"
       ],
       "companies_mentioned": [
         "ローム",
         "東芝",
-        "三菱電機"
+        "三菱電機",
+        "Tower",
+        "Nuvoton"
       ]
     },
     {
-      "name": "ハードウェアセキュリティ検証の重要性増大",
+      "name": "3D積層・異種チップ統合の複雑化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "logic",
-        "automotive",
-        "industrial",
+        "memory",
+        "miniaturization",
         "frontend",
-        "backend",
-        "geopolitics"
+        "backend"
       ],
-      "summary": "複雑化する半導体設計において、シリコン製造前の段階でのセキュリティ検証が不可欠となり、リバースエンジニアリング対策も重要視されている。",
+      "summary": "3D積層やマルチダイ設計が進化する一方、垂直信号経路の寄生効果など、設計・検証上の課題が増加している。",
       "analysis": {
-        "short_term": "セキュリティ脆弱性への懸念が設計プロセスに影響。",
-        "mid_term": "セキュアな設計・製造プロセスの確立が競争力に。",
-        "investment_implications": "セキュリティソリューションに注目。"
+        "short_term": "モデリング技術や設計ツールの進化が求められる。",
+        "mid_term": "高度なパッケージング技術が競争力の源泉となる。",
+        "investment_implications": "先端パッケージング関連技術を持つ企業に注目。"
       },
       "keywords": [
-        "セキュリティ",
-        "検証",
-        "リバースエンジニアリング",
-        "ASIC",
-        "SoC"
+        "3D積層",
+        "マルチダイ",
+        "パッケージング",
+        "寄生効果"
       ],
-      "companies_mentioned": [
-        "Robert Bosch GmbH",
-        "Ruhr U.",
-        "MPI"
-      ]
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体（GaN/SiC）の需要拡大",
-      "AI関連半導体・インフラへの投資活発化",
-      "データセンターの電力効率向上技術への期待"
+      "AIおよびデータセンター向け高性能半導体需要の継続的な増加",
+      "EVおよび再生可能エネルギー分野におけるパワー半導体の需要拡大",
+      "先端プロセスおよびパッケージング技術への投資活発化"
     ],
     "bearish": [
-      "ソニー・ホンダモビリティのEV開発中止による市場への影響",
-      "メモリ市場における価格変動リスク"
+      "地政学的リスクによるサプライチェーンの不安定化懸念",
+      "メモリ市場の周期的な変動リスク",
+      "一部分野における過剰在庫のリスク（ただし、AI関連は除く）"
     ],
     "neutral": [
-      "半導体製造装置・材料分野における安定した需要",
-      "地政学リスクによるサプライチェーンへの影響"
+      "半導体製造装置市場の安定成長",
+      "車載半導体市場の緩やかな回復基調"
     ]
   },
-  "source_count": 53
+  "source_count": 52
 }
