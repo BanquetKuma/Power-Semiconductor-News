@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-03-27T06:11:13.201533+09:00",
+  "generated_at": "2026-03-31T06:17:02.832743+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AIサーバ機器製造をOKIが「丸ごと」受託　独自の熱対策や実装技術で",
-    "summary": "OKIはAIサーバ機器の製造を丸ごと受託するサービスを開始。熱対策や実装技術で歩留まり向上や顧客の「持たない経営」に貢献。",
+    "title": "ロームが新ESD保護ダイオード開発、AIサーバなどに向け",
+    "summary": "ロームは10Gbps超に対応するESD保護ダイオードを開発。USB4や車載イーサネットなど高速通信用途向け。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/26/news074.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/30/news046.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "AIサーバ機器製造をOKIが「丸ごと」受託　独自の熱対策や実装技術で",
-        "blurb": "OKIはAIサーバ機器の製造を丸ごと受託するサービスを開始。熱対策や実装技術で歩留まり向上や顧客の「持たない経営」に貢献。",
-        "category": "business",
-        "date": "2026-03-26",
+        "title": "ロームが新ESD保護ダイオード開発、AIサーバなどに向け",
+        "blurb": "ロームは10Gbps超に対応するESD保護ダイオードを開発。USB4や車載イーサネットなど高速通信用途向け。",
+        "category": "company",
+        "date": "2026-03-30",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/26/news074.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/30/news046.html"
         },
         "field": {
           "primary": "ai",
@@ -35,7 +33,27 @@
           "market": "ai",
           "industry": null
         }
+      },
+      {
+        "title": "MediaTek Genio Edge AI SoCs: 5100, 420, 360 Platform Overview",
+        "blurb": "MediaTekがAIoT向け新チップ「Genio 5100/420/360」を発表。ロボットや産業IoT、スマートデバイス向けに性能とコスト効率を両立。",
+        "category": "company",
+        "date": "2026-03-30",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/mediatek-genio-edge-ai-socs-5100-420-360-platform-overview"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": "miniaturization",
+          "market": "ai",
+          "industry": "fabless"
+        }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

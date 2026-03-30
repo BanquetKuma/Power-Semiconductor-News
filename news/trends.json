@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-30T06:10:23.257907+09:00",
-  "date": "2026-03-30",
+  "generated_at": "2026-03-31T06:17:07.538202+09:00",
+  "date": "2026-03-31",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体技術の進化",
+      "name": "GaN・SiCによる高効率・高電力密度化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,110 +12,113 @@
         "datacenter",
         "ai"
       ],
-      "summary": "GaN、SiCなどの広帯域ギャップ半導体技術がAI、データセンター、EV向けに急速に進化。高効率化と小型化が進む。",
+      "summary": "GaN・SiCといった広帯域ギャップ半導体技術が進化し、電源ICやモーター駆動など高効率・小型化が求められる分野で採用が拡大。AIデータセンターやEV向けに重要性が増している。",
       "analysis": {
-        "short_term": "技術開発競争が激化。性能向上とコスト低減が焦点。",
-        "mid_term": "採用が拡大し、市場が本格的に成長。サプライチェーンの安定化が課題。",
-        "investment_implications": "GaN/SiC関連企業への投資妙味増大。技術力と生産能力が鍵。"
+        "short_term": "新製品発表と技術検証が進む。採用拡大の兆し。",
+        "mid_term": "コスト競争力向上と用途拡大が鍵。市場成長が期待。",
+        "investment_implications": "関連技術を持つ企業に注目。サプライヤーも重要。"
       },
       "keywords": [
         "GaN",
         "SiC",
-        "800V",
+        "power electronics",
+        "efficiency",
         "AI",
-        "EV",
-        "データセンター"
+        "EV"
       ],
       "companies_mentioned": [
+        "Power Integrations",
         "Infineon",
         "Navitas",
         "EPC",
-        "Texas Instruments",
-        "Renesas",
         "ローム",
-        "東芝",
+        "Power Diamond Systems",
         "三菱電機"
       ]
     },
     {
-      "name": "AIとデータセンターの電力最適化",
+      "name": "AI・データセンター向けインフラ進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "datacenter",
-        "power",
-        "logic"
-      ],
-      "summary": "AIワークロードの増大に伴い、データセンターの電力効率とアーキテクチャが重要視。800V電源やIVR技術が注目される。",
-      "analysis": {
-        "short_term": "高効率電源ソリューションへの需要が高まる。",
-        "mid_term": "データセンターの電力インフラ刷新が進む可能性。",
-        "investment_implications": "データセンター向け電源・半導体メーカーに追い風。"
-      },
-      "keywords": [
-        "AI",
-        "データセンター",
-        "800V",
-        "IVR",
-        "電力効率"
-      ],
-      "companies_mentioned": [
-        "Navitas",
-        "Texas Instruments",
-        "Infineon"
-      ]
-    },
-    {
-      "name": "半導体設計・検証の高度化とAI活用",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
         "ai",
-        "frontend",
-        "backend"
+        "logic",
+        "power"
       ],
-      "summary": "複雑化するチップ設計において、AIツールを用いた検証の早期化・高度化が進む。セキュリティ検証も重要視される。",
+      "summary": "AIワークロードの増大がデータセンターのネットワーク、電源アーキテクチャに革新を要求。GPUへの直接給電や800V電源技術などが注目されている。",
       "analysis": {
-        "short_term": "AI設計ツールの導入が進む。",
-        "mid_term": "開発期間短縮と品質向上が期待される。",
-        "investment_implications": "AIを活用したEDAツール企業に注目。"
+        "short_term": "AIインフラ投資は継続。技術開発競争が激化。",
+        "mid_term": "データセンターの電力効率とスケーラビリティが課題。",
+        "investment_implications": "AIインフラ関連企業への投資妙味。"
       },
       "keywords": [
         "AI",
-        "設計検証",
-        "EDA",
-        "セキュリティ",
-        "LLM"
+        "data center",
+        "GPU",
+        "800V",
+        "network",
+        "power architecture"
       ],
       "companies_mentioned": [
-        "Robert Bosch GmbH",
-        "Georgia Tech",
+        "Infineon",
+        "Navitas",
+        "テキサス・インスツルメンツ",
+        "OKI",
         "NVIDIA"
       ]
     },
     {
-      "name": "パワー半導体業界の再編と統合",
+      "name": "チップレット・3D積層化の複雑化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "automotive",
-        "industrial",
-        "idm"
+        "miniaturization",
+        "logic",
+        "frontend",
+        "backend"
       ],
-      "summary": "競争激化と技術革新に対応するため、大手メーカー間でパワー半導体事業の統合・再編の動きが加速している。",
+      "summary": "微細化の限界に近づく中、チップレットや3D積層技術が性能向上に不可欠。しかし、設計・製造の複雑化や寄生効果の制御が新たな課題となっている。",
       "analysis": {
-        "short_term": "M&Aや事業提携のニュースが増加する可能性。",
-        "mid_term": "業界構造が変化し、競争力のある企業が台頭。",
-        "investment_implications": "再編によるシナジー効果や事業ポートフォリオの変化に注目。"
+        "short_term": "設計・検証ツールの進化が求められる。",
+        "mid_term": "歩留まり向上とコスト削減が普及の鍵。",
+        "investment_implications": "先端パッケージング技術を持つ企業に注目。"
       },
       "keywords": [
-        "パワー半導体",
-        "再編",
-        "統合",
-        "M&A"
+        "chiplet",
+        "3D stacking",
+        "advanced packaging",
+        "miniaturization",
+        "design complexity"
+      ],
+      "companies_mentioned": [
+        "NVIDIA",
+        "Robert Bosch GmbH",
+        "Georgia Tech"
+      ]
+    },
+    {
+      "name": "パワー半導体業界の再編加速",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "idm",
+        "automotive",
+        "industrial"
+      ],
+      "summary": "電力需要の増大と技術革新に対応するため、パワー半導体メーカー間の再編・統合の動きが本格化。競争力強化と事業効率化を目指す。",
+      "analysis": {
+        "short_term": "主要プレイヤー間の協議が進展する可能性。",
+        "mid_term": "業界構造の変化がサプライチェーンに影響。",
+        "investment_implications": "再編対象企業やM&A動向を注視。"
+      },
+      "keywords": [
+        "power semiconductor",
+        "consolidation",
+        "M&A",
+        "industry structure",
+        "supply chain"
       ],
       "companies_mentioned": [
         "ローム",
@@ -126,46 +129,48 @@
       ]
     },
     {
-      "name": "3D積層・異種チップ統合の複雑化",
+      "name": "ハードウェアセキュリティとリバースエンジニアリング",
       "confidence": 0.75,
-      "momentum": "rising",
+      "momentum": "stable",
       "related_fields": [
         "logic",
-        "memory",
-        "miniaturization",
-        "frontend",
-        "backend"
+        "security",
+        "equipment"
       ],
-      "summary": "3D積層やマルチダイ設計が進化する一方、垂直信号経路の寄生効果など、設計・検証上の課題が増加している。",
+      "summary": "ハードウェアリバースエンジニアリングは、セキュリティの基盤技術として重要性を増している。ASIC検証における安全性向上も進められている。",
       "analysis": {
-        "short_term": "モデリング技術や設計ツールの進化が求められる。",
-        "mid_term": "高度なパッケージング技術が競争力の源泉となる。",
-        "investment_implications": "先端パッケージング関連技術を持つ企業に注目。"
+        "short_term": "研究開発は継続。標準化の動きも。",
+        "mid_term": "サイバーセキュリティ脅威の増大で需要増。",
+        "investment_implications": "セキュリティソリューション関連企業に機会。"
       },
       "keywords": [
-        "3D積層",
-        "マルチダイ",
-        "パッケージング",
-        "寄生効果"
+        "hardware security",
+        "reverse engineering",
+        "ASIC verification",
+        "cybersecurity"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Robert Bosch GmbH",
+        "Ruhr U.",
+        "MPI"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIおよびデータセンター向け高性能半導体需要の継続的な増加",
-      "EVおよび再生可能エネルギー分野におけるパワー半導体の需要拡大",
-      "先端プロセスおよびパッケージング技術への投資活発化"
+      "AI・データセンター投資の継続的な拡大",
+      "EV・再生可能エネルギー分野におけるパワー半導体需要の増加",
+      "広帯域ギャップ半導体（GaN/SiC）の技術進化と採用拡大"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不安定化懸念",
-      "メモリ市場の周期的な変動リスク",
-      "一部分野における過剰在庫のリスク（ただし、AI関連は除く）"
+      "先端プロセス微細化におけるコスト増と技術的課題",
+      "地政学的リスクによるサプライチェーンの不安定化",
+      "メモリ市場の周期的な変動リスク"
     ],
     "neutral": [
-      "半導体製造装置市場の安定成長",
-      "車載半導体市場の緩やかな回復基調"
+      "半導体製造装置の技術革新と需要の安定性",
+      "ソフトウェアとハードウェアの連携強化の必要性"
     ]
   },
-  "source_count": 52
+  "source_count": 45
 }

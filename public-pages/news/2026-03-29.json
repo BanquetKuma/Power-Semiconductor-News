@@ -1,57 +1,178 @@
 {
-  "generated_at": "2026-03-30T06:10:19.006606+09:00",
+  "generated_at": "2026-03-29T06:09:27.475503+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Kia EV5 Is The Boxier, Cheaper Alternative To The EV6. With One Catch.",
-    "summary": "中国製EV「キアEV5」はEV6より安価でSUVらしい外観だが、EV6の利点全ては持たない。",
+    "title": "Integrating Error Propagation Theory Into the FMEDA Framework (Robert Bosch GmbH)",
+    "summary": "ボッシュがFMEDAフレームワークに誤差伝播理論を統合し、ASIC検証の安全性指標の不確実性を定量化する新技術論文を発表。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/reviews/791259/kia-ev5-review"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/integrating-error-propagation-theory-into-the-fmeda-framework-robert-bosch-gmbh"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "2027 Chevy Bolt EV 75 MPH Highway Range Test. Here’s How America's Cheapest EV Performs.",
-        "blurb": "2027年型シボレー・ボルトEVの高速道路での航続距離テスト結果。EPA評価262マイルに対し、時速75マイルではそれ以下になることが判明。",
+        "title": "Arrow Electronics Releases Single-Pair Ethernet Reference Design",
+        "blurb": "アロー・エレクトロニクスがシングルペア・イーサネット評価ボードを発表。産業用イーサネット設計の信号品質、EMC、ノイズ耐性をテスト可能。",
         "category": "business",
-        "date": "2026-03-29",
+        "date": "2026-03-28",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/arrow-electronics-releases-single-pair-ethernet-reference-design"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Industrial IoT Systems, Large-Scale Semiconductor Design: Embedded Week Insights",
+        "blurb": "産業用IoTのサイバーセキュリティ、大規模半導体設計のデバッグ、ImecのワイヤラインADCに関する最新動向をまとめた記事。",
+        "category": "business",
+        "date": "2026-03-28",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/industrial-iot-systems-large-scale-semiconductor-design-embedded-week-insights"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "industrial",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "China's EV Companies Aren't Just Making Great Cars. They're Making Money",
+        "blurb": "中国のEV企業が、欧米勢と異なり、利益を上げている。競争力のある価格と技術革新が要因か。",
+        "category": "business",
+        "date": "2026-03-28",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791343/2027-chevy-bolt-ev-75-mph-range-test"
+          "url": "https://insideevs.com/news/791403/multiple-chinese-ev-makers-profitable"
         },
         "field": {
           "primary": "automotive",
           "device": null,
           "process": null,
           "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "$10,000 Leapmotor A10 is the new-age Neon Stellantis needs in the US",
+        "blurb": "ステランティスは、米国市場で2万ドル以下の手頃なEV「リープモーターA10」を求めている。新世代ネオンとして新規顧客獲得に期待。",
+        "category": "business",
+        "date": "2026-03-28",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/03/28/10000-leapmotor-a10-is-the-new-age-neon-stellantis-needs-in-the-us"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "In-Depth Analysis of 187 Publications on Hardware Reverse Engineering (Ruhr U., MPI)",
+        "blurb": "ルール大学とマックス・プランク研究所がハードウェアリバースエンジニアリング研究の論文187件を分析。セキュリティの根幹をなす技術の現状と課題を詳述。",
+        "category": "tools",
+        "date": "2026-03-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/in-depth-analysis-of-187-publications-on-hardware-reverse-engineering-ruhr-u-mpi"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
     ],
-    "tools": [],
     "company": [
       {
-        "title": "The Kia EV5 Is The Boxier, Cheaper Alternative To The EV6. With One Catch.",
-        "blurb": "中国製EV「キアEV5」はEV6より安価でSUVらしい外観だが、EV6の利点全ては持たない。",
+        "title": "Integrating Error Propagation Theory Into the FMEDA Framework (Robert Bosch GmbH)",
+        "blurb": "ボッシュがFMEDAフレームワークに誤差伝播理論を統合し、ASIC検証の安全性指標の不確実性を定量化する新技術論文を発表。",
         "category": "company",
-        "date": "2026-03-29",
+        "date": "2026-03-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/integrating-error-propagation-theory-into-the-fmeda-framework-robert-bosch-gmbh"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Systematic Analysis of CPU-Induced Slowdowns in Multi-GPU LLM Inference (Georgia Tech)",
+        "blurb": "ジョージア工科大学が、マルチGPUでのLLM推論におけるCPUによる性能低下を分析した論文を発表。CPUのボトルネックを指摘。",
+        "category": "company",
+        "date": "2026-03-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/systematic-analysis-of-cpu-induced-slowdowns-in-multi-gpu-llm-inference-georgia-tech"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "DEEPX x Avnet Silica & 10+ Global Partners at Embedded World 2026",
+        "blurb": "DEEPXは、Avnet Silicaおよび10以上のグローバルパートナーと協力し、Embedded World 2026で物理AIハードウェアを展示。",
+        "category": "company",
+        "date": "2026-03-28",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/deepx-x-avnet-silica-10-global-partners-at-embedded-world-2026"
+        },
+        "field": null
+      },
+      {
+        "title": "Porsche's Wild Curved Display Is The Car Touchscreen Done Right",
+        "blurb": "ポルシェはダッシュボードにタブレットを置くのではなく、湾曲したディスプレイで車載タッチスクリーンの新しい形を提案。",
+        "category": "company",
+        "date": "2026-03-28",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/791259/kia-ev5-review"
+          "url": "https://insideevs.com/reviews/791400/porsche-cayenne-curved-touchscreen"
         },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
+        "field": null
+      },
+      {
+        "title": "BMW Pioneered Range Extended EVs. Now It’s Not So Sure",
+        "blurb": "BMWはレンジエクステンダーEVの導入を検討中だが、米国でのトレンドに乗るかは未定。",
+        "category": "company",
+        "date": "2026-03-28",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/791254/bmw-range-extenders-under-consideration"
+        },
+        "field": null
       }
     ],
     "sns": []

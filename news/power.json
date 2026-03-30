@@ -1,31 +1,48 @@
 {
-  "generated_at": "2026-03-28T06:12:46.137464+09:00",
+  "generated_at": "2026-03-31T06:17:02.832002+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "From Little Box to Big Impact: GaN’s Decade in High-Density Power Conversion",
-    "summary": "窒化ガリウム(GaN)技術は、2016年の「Little Box Challenge」から高密度電源変換分野で大きな影響を与え、10年を経て進化を続けている。",
+    "title": "Power Integrations Launches GaN-Based 440W Flyback ICs",
+    "summary": "Power Integrationsが、高効率・小型化を実現するGaNベースの440WフライバックICを発表。コスト削減にも貢献。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/from-little-box-to-big-impact-gans-decade-in-high-density-power-conversion"
+        "url": "https://www.powerelectronicsnews.com/power-integrations-launches-gan-based-440w-flyback-ics"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Power Tips #151: Improving efficiency in 48V-input multiphase buck converters with GaN",
-        "blurb": "48V入力マルチフェーズ降圧コンバータの効率改善には、スイッチング周波数、熱管理、バイアス電源、インダクタ選定の微調整が有効です。",
-        "category": "tools",
-        "date": "2026-03-27",
+        "title": "Power Integrations Launches GaN-Based 440W Flyback ICs",
+        "blurb": "Power Integrationsが、高効率・小型化を実現するGaNベースの440WフライバックICを発表。コスト削減にも貢献。",
+        "category": "company",
+        "date": "2026-03-30",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/power-tips-151-improving-efficiency-in-48v-input-multiphase-buck-converters-with-gan"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-integrations-launches-gan-based-440w-flyback-ics"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「究極の半導体」ダイヤモンドを社会へ　動態展示も実現の早大発新興",
+        "blurb": "早大発の新興企業Power Diamond Systemsが、次世代パワー半導体として期待されるダイヤモンド半導体の社会実装を目指している。電力需要増大に対応する性能向上に貢献。",
+        "category": "company",
+        "date": "2026-03-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/30/news063.html"
         },
         "field": {
           "primary": "power",
@@ -36,70 +53,17 @@
         }
       }
     ],
+    "tech": [],
     "market": [
       {
-        "title": "From Little Box to Big Impact: GaN’s Decade in High-Density Power Conversion",
-        "blurb": "窒化ガリウム(GaN)技術は、2016年の「Little Box Challenge」から高密度電源変換分野で大きな影響を与え、10年を経て進化を続けている。",
+        "title": "SiC modules raise power density for AI servers",
+        "blurb": "AIサーバー向けに、SiCモジュールが電力密度を向上。液冷データセンターの効率と熱要求に対応。",
         "category": "business",
-        "date": "2026-03-27",
+        "date": "2026-03-30",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/from-little-box-to-big-impact-gans-decade-in-high-density-power-conversion"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "EPC Extends GaN Reliability Data and Launches Motor Drive Eval Board",
-        "blurb": "EPC、GaN信頼性データを拡充し、モーター駆動評価ボードを発表。パワー半導体設計を推進。",
-        "category": "business",
-        "date": "2026-03-27",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/epc-extends-gan-reliability-data-and-launches-motor-drive-eval-board"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Solid-State Batteries, Paralleling GaN FETs, High-k Gate Oxide: Power Electronics Week Insights",
-        "blurb": "次世代バッテリー、GaN FETの並列化、高誘電率ゲート酸化膜に関する最新技術動向。",
-        "category": "business",
-        "date": "2026-03-27",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/solid-state-batteries-paralleling-gan-fets-high-k-gate-oxide-power-electronics-week-insights"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "パワー半導体再編が本格化　ローム・東芝・三菱電機が協議開始へ",
-        "blurb": "ローム、東芝、三菱電機がパワー半導体事業の統合に向け協議開始に合意。業界再編が本格化する見通し。",
-        "category": "business",
-        "date": "2026-03-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/27/news118.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/sic-modules-raise-power-density-for-ai-servers"
         },
         "field": {
           "primary": "power",
