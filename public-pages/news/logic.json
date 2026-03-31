@@ -1,62 +1,25 @@
 {
-  "generated_at": "2026-03-31T06:17:02.832366+09:00",
+  "generated_at": "2026-04-01T06:14:38.344316+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Automotive HMI SiP packs MPU and DDR2 memory",
-    "summary": "マイクロチップ社がARM926EJ-S 32ビットプロセッサとDDR2 SDRAMを統合した車載HMI用SiP「SAM9X75D5M」を発表。",
+    "title": "Why Co-Packaged Optics Should be Viewed as an Architectural Commitment (UW-Madison, MIT et al.)",
+    "summary": "AI需要増でデータセンターの光インターコネクト再考。コパッケージド・オプティクスはアーキテクチャ上のコミットメントと指摘。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/automotive-hmi-sip-packs-mpu-and-ddr2-memory"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/why-co-packaged-optics-should-be-viewed-as-an-architectural-commitment-uw-madison-mit-et-al"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Automotive HMI SiP packs MPU and DDR2 memory",
-        "blurb": "マイクロチップ社がARM926EJ-S 32ビットプロセッサとDDR2 SDRAMを統合した車載HMI用SiP「SAM9X75D5M」を発表。",
-        "category": "company",
-        "date": "2026-03-30",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/automotive-hmi-sip-packs-mpu-and-ddr2-memory"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Grinn Delivers High-Performance Edge AI in Tiny 25 x 25 mm System-on-Module",
-        "blurb": "Grinnが、25x25mmの超小型フォームファクタに1TOPs NPUと高性能グラフィックスを搭載したエッジAI SoM「AstraSOM-261x」を発表しました。",
-        "category": "company",
-        "date": "2026-03-30",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/grinn-delivers-high-performance-edge-ai-in-tiny-25-x-25-mm-system-on-module"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
         "title": "UDE from PLS - Debugging, tracing, and RTOS analysis for microcontrollers and embedded processors",
-        "blurb": "PLSがRTOS解析強化の新UDE 2026を発表。CPU測定など開発者向け新機能に期待。",
+        "blurb": "PLSがUDE 2026を発表。RTOS解析機能強化で、組み込み開発者のデバッグ・トレースを支援。",
         "category": "tools",
         "date": "2026-03-31",
         "stars": 3,
@@ -73,6 +36,25 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "Why Co-Packaged Optics Should be Viewed as an Architectural Commitment (UW-Madison, MIT et al.)",
+        "blurb": "AI需要増でデータセンターの光インターコネクト再考。コパッケージド・オプティクスはアーキテクチャ上のコミットメントと指摘。",
+        "category": "business",
+        "date": "2026-04-01",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/why-co-packaged-optics-should-be-viewed-as-an-architectural-commitment-uw-madison-mit-et-al"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }

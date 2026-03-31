@@ -1,176 +1,167 @@
 {
-  "generated_at": "2026-03-31T06:17:07.538202+09:00",
-  "date": "2026-03-31",
+  "generated_at": "2026-04-01T06:14:42.284850+09:00",
+  "date": "2026-04-01",
   "meta_trends": [
     {
-      "name": "GaN・SiCによる高効率・高電力密度化",
+      "name": "ワイドバンドギャップ材料の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "ai"
+        "datacenter"
       ],
-      "summary": "GaN・SiCといった広帯域ギャップ半導体技術が進化し、電源ICやモーター駆動など高効率・小型化が求められる分野で採用が拡大。AIデータセンターやEV向けに重要性が増している。",
+      "summary": "SiC、GaNなどのワイドバンドギャップ材料が、高効率化・小型化ニーズに応え、EV、データセンター、AIサーバー等で採用拡大。",
       "analysis": {
-        "short_term": "新製品発表と技術検証が進む。採用拡大の兆し。",
-        "mid_term": "コスト競争力向上と用途拡大が鍵。市場成長が期待。",
-        "investment_implications": "関連技術を持つ企業に注目。サプライヤーも重要。"
+        "short_term": "新製品投入活発化、信頼性データ拡充が進む。",
+        "mid_term": "自動車・データセンター向けで需要増、供給体制強化が鍵。",
+        "investment_implications": "関連メーカーへの投資妙味増大。"
       },
       "keywords": [
-        "GaN",
         "SiC",
-        "power electronics",
-        "efficiency",
-        "AI",
-        "EV"
+        "GaN",
+        "EV",
+        "AIサーバー",
+        "データセンター"
       ],
       "companies_mentioned": [
         "Power Integrations",
-        "Infineon",
-        "Navitas",
         "EPC",
+        "インフィニオン",
+        "ナヴィタス",
         "ローム",
-        "Power Diamond Systems",
-        "三菱電機"
+        "三菱電機",
+        "東芝"
       ]
     },
     {
-      "name": "AI・データセンター向けインフラ進化",
+      "name": "AI・データセンター向け高電圧化・高密度化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
-        "ai",
-        "logic",
-        "power"
+        "power",
+        "logic"
       ],
-      "summary": "AIワークロードの増大がデータセンターのネットワーク、電源アーキテクチャに革新を要求。GPUへの直接給電や800V電源技術などが注目されている。",
+      "summary": "GPUへの直接給電やデータセンターの効率化のため、800V電源技術や高密度電源変換が注目され、競争が激化。",
       "analysis": {
-        "short_term": "AIインフラ投資は継続。技術開発競争が激化。",
-        "mid_term": "データセンターの電力効率とスケーラビリティが課題。",
-        "investment_implications": "AIインフラ関連企業への投資妙味。"
+        "short_term": "APEC 2026で技術発表相次ぐ。",
+        "mid_term": "インフラ投資と技術開発が並行して進む。",
+        "investment_implications": "高電圧対応IC、電源モジュールメーカーに注目。"
       },
       "keywords": [
         "AI",
-        "data center",
-        "GPU",
+        "データセンター",
         "800V",
-        "network",
-        "power architecture"
+        "GPU",
+        "高密度電源"
       ],
       "companies_mentioned": [
-        "Infineon",
-        "Navitas",
-        "テキサス・インスツルメンツ",
-        "OKI",
-        "NVIDIA"
+        "インフィニオン",
+        "ナヴィタス",
+        "テキサス・インスツルメンツ"
       ]
     },
     {
-      "name": "チップレット・3D積層化の複雑化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "miniaturization",
-        "logic",
-        "frontend",
-        "backend"
-      ],
-      "summary": "微細化の限界に近づく中、チップレットや3D積層技術が性能向上に不可欠。しかし、設計・製造の複雑化や寄生効果の制御が新たな課題となっている。",
-      "analysis": {
-        "short_term": "設計・検証ツールの進化が求められる。",
-        "mid_term": "歩留まり向上とコスト削減が普及の鍵。",
-        "investment_implications": "先端パッケージング技術を持つ企業に注目。"
-      },
-      "keywords": [
-        "chiplet",
-        "3D stacking",
-        "advanced packaging",
-        "miniaturization",
-        "design complexity"
-      ],
-      "companies_mentioned": [
-        "NVIDIA",
-        "Robert Bosch GmbH",
-        "Georgia Tech"
-      ]
-    },
-    {
-      "name": "パワー半導体業界の再編加速",
+      "name": "車載半導体の高度化と集積化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "idm",
         "automotive",
-        "industrial"
+        "logic",
+        "power"
       ],
-      "summary": "電力需要の増大と技術革新に対応するため、パワー半導体メーカー間の再編・統合の動きが本格化。競争力強化と事業効率化を目指す。",
+      "summary": "自動運転、HMI、電動化に対応するため、高性能プロセッサ、SiP、信頼性の高いパワー半導体への需要が増加。",
       "analysis": {
-        "short_term": "主要プレイヤー間の協議が進展する可能性。",
-        "mid_term": "業界構造の変化がサプライチェーンに影響。",
-        "investment_implications": "再編対象企業やM&A動向を注視。"
+        "short_term": "車載向け新規格対応製品開発活発。",
+        "mid_term": "ADAS・自動運転レベル向上で需要拡大。",
+        "investment_implications": "車載向け開発力を持つ企業に投資機会。"
       },
       "keywords": [
-        "power semiconductor",
-        "consolidation",
-        "M&A",
-        "industry structure",
-        "supply chain"
+        "自動運転",
+        "EV",
+        "HMI",
+        "SiP",
+        "レーダーIC"
       ],
       "companies_mentioned": [
-        "ローム",
-        "東芝",
-        "三菱電機",
-        "Tower",
-        "Nuvoton"
+        "NXP",
+        "マイクロチップ",
+        "太陽HD"
       ]
     },
     {
-      "name": "ハードウェアセキュリティとリバースエンジニアリング",
-      "confidence": 0.75,
-      "momentum": "stable",
+      "name": "半導体製造プロセスの効率化・高度化",
+      "confidence": 0.8,
+      "momentum": "rising",
       "related_fields": [
-        "logic",
-        "security",
-        "equipment"
+        "foundry",
+        "fabless",
+        "equipment",
+        "frontend",
+        "backend"
       ],
-      "summary": "ハードウェアリバースエンジニアリングは、セキュリティの基盤技術として重要性を増している。ASIC検証における安全性向上も進められている。",
+      "summary": "AIによる設計最適化、製造スケジューリング、新材料・新技術（2Dハードマスク、フォトニックパッケージング）の研究が進む。",
       "analysis": {
-        "short_term": "研究開発は継続。標準化の動きも。",
-        "mid_term": "サイバーセキュリティ脅威の増大で需要増。",
-        "investment_implications": "セキュリティソリューション関連企業に機会。"
+        "short_term": "研究開発論文発表が継続。",
+        "mid_term": "製造コスト・リードタイム短縮への貢献期待。",
+        "investment_implications": "製造装置・材料メーカー、EDAツール企業に注目。"
       },
       "keywords": [
-        "hardware security",
-        "reverse engineering",
-        "ASIC verification",
-        "cybersecurity"
+        "AI",
+        "製造プロセス",
+        "スケジューリング",
+        "フォトニックパッケージング",
+        "EDA"
       ],
       "companies_mentioned": [
-        "Robert Bosch GmbH",
-        "Ruhr U.",
-        "MPI"
+        "IBM",
+        "インフィニオン",
+        "クラーゲンフルト大学"
+      ]
+    },
+    {
+      "name": "次世代材料・技術への期待",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "frontend",
+        "miniaturization"
+      ],
+      "summary": "ダイヤモンド半導体、ペロブスカイト太陽電池、量子ビット読み出し技術など、将来的な性能向上・新市場創出が期待される。",
+      "analysis": {
+        "short_term": "基礎研究・実用化に向けた開発段階。",
+        "mid_term": "一部技術は早期実用化の可能性。",
+        "investment_implications": "長期的な視点での技術シーズ投資。"
+      },
+      "keywords": [
+        "ダイヤモンド半導体",
+        "ペロブスカイト",
+        "量子ビット",
+        "次世代材料"
+      ],
+      "companies_mentioned": [
+        "Power Diamond Systems",
+        "富士経済",
+        "帝京大学",
+        "理研"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター投資の継続的な拡大",
-      "EV・再生可能エネルギー分野におけるパワー半導体需要の増加",
-      "広帯域ギャップ半導体（GaN/SiC）の技術進化と採用拡大"
+      "AI・データセンター向け需要の継続的な拡大",
+      "EVシフトに伴う車載半導体需要の増加",
+      "ワイドバンドギャップ材料の採用拡大による高付加価値化"
     ],
     "bearish": [
-      "先端プロセス微細化におけるコスト増と技術的課題",
-      "地政学的リスクによるサプライチェーンの不安定化",
-      "メモリ市場の周期的な変動リスク"
+      "半導体製造装置への投資サイクルの不確実性",
+      "地政学リスクによるサプライチェーンの不安定化"
     ],
     "neutral": [
-      "半導体製造装置の技術革新と需要の安定性",
-      "ソフトウェアとハードウェアの連携強化の必要性"
+      "微細化技術のコスト増と技術的課題"
     ]
   },
-  "source_count": 45
+  "source_count": 46
 }
