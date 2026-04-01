@@ -1,60 +1,41 @@
 {
-  "generated_at": "2026-04-01T06:14:38.344316+09:00",
+  "generated_at": "2026-04-02T06:17:41.719179+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Why Co-Packaged Optics Should be Viewed as an Architectural Commitment (UW-Madison, MIT et al.)",
-    "summary": "AI需要増でデータセンターの光インターコネクト再考。コパッケージド・オプティクスはアーキテクチャ上のコミットメントと指摘。",
+    "title": "Forlinx FET-MX9596-C NXP i.MX95 SoM With 2 TOPS AI And 10GbE",
+    "summary": "ForlinxがNXP i.MX95搭載SoMを発表。2 TOPSのAI性能と10GbE対応でエッジAIや産業システム向け。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/why-co-packaged-optics-should-be-viewed-as-an-architectural-commitment-uw-madison-mit-et-al"
+        "name": "electronics-lab.com",
+        "url": "https://www.electronics-lab.com/forlinx-fet-mx9596-c-nxp-i-mx95-som-with-2-tops-ai-and-10gbe"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "UDE from PLS - Debugging, tracing, and RTOS analysis for microcontrollers and embedded processors",
-        "blurb": "PLSがUDE 2026を発表。RTOS解析機能強化で、組み込み開発者のデバッグ・トレースを支援。",
-        "category": "tools",
-        "date": "2026-03-31",
+        "title": "Forlinx FET-MX9596-C NXP i.MX95 SoM With 2 TOPS AI And 10GbE",
+        "blurb": "ForlinxがNXP i.MX95搭載SoMを発表。2 TOPSのAI性能と10GbE対応でエッジAIや産業システム向け。",
+        "category": "company",
+        "date": "2026-04-01",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/ude-from-pls-debugging-tracing-and-rtos-analysis-for-microcontrollers-and-embedded-processors"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/forlinx-fet-mx9596-c-nxp-i-mx95-som-with-2-tops-ai-and-10gbe"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
-    "market": [
-      {
-        "title": "Why Co-Packaged Optics Should be Viewed as an Architectural Commitment (UW-Madison, MIT et al.)",
-        "blurb": "AI需要増でデータセンターの光インターコネクト再考。コパッケージド・オプティクスはアーキテクチャ上のコミットメントと指摘。",
-        "category": "business",
-        "date": "2026-04-01",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-co-packaged-optics-should-be-viewed-as-an-architectural-commitment-uw-madison-mit-et-al"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }

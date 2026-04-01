@@ -1,116 +1,79 @@
 {
-  "generated_at": "2026-04-01T06:14:38.345968+09:00",
+  "generated_at": "2026-04-02T06:17:41.721125+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Causal Inference for AMS Design (U. of Florida)",
-    "summary": "フロリダ大学がAMS回路設計向け因果推論の技術論文を発表。非線形性が高くデータ駆動AIでのモデリングが困難なAMS回路の課題解決を目指す。",
+    "title": "Secure at First Silicon: Reducing Cost and Risk",
+    "summary": "シリコン設計段階でサイドチャネル解析を統合し、コストとリスクを削減。初めからセキュリティ要件を満たす。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/causal-inference-for-ams-design-u-of-florida"
+        "url": "https://semiengineering.com/secure-at-first-silicon-reducing-cost-and-risk"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "「CES 2026」 フィジカルAI黎明期――電子版2026年2月号",
-        "blurb": "CES 2026では、ロボット、半導体、自動車、電池、家電、ディスプレイ分野でフィジカルAIの黎明期が示された。",
-        "category": "company",
-        "date": "2026-03-31",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/31/news001.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "JDIが鳥取工場を売却、車載用液晶パネル拠点",
-        "blurb": "ジャパンディスプレイは、車載用液晶パネルを製造していた鳥取工場を、同市の八幡東栄エステートに売却すると発表した。売却額は非公開。",
-        "category": "company",
-        "date": "2026-03-31",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/31/news116.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "原子1層の半導体から生じる光信号を40倍以上に増強、京大ら",
-        "blurb": "京大らは、原子1層の半導体とシリコンナノ球を組み合わせ、光信号を40倍以上に増強することに成功した。",
-        "category": "company",
-        "date": "2026-03-31",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2603/31/news048.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "An Exploration of Agent Scaling for HLS Design Space Exploration (IBM)",
-        "blurb": "IBMが、ハードウェア特化学習なしで汎用コーディングエージェントがHLS設計を最適化できるか探る論文を発表。エージェントファクトリを導入。",
-        "category": "company",
-        "date": "2026-04-01",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/an-exploration-of-agent-scaling-for-hls-design-space-exploration-ibm"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "CP-Based Lot Scheduling Solutions For a Semiconductor Manufacturing (Infineon, U. of Klagenfurt)",
-        "blurb": "インフィニオンとクラーゲンフルト大学が半導体製造におけるCPベースのロットスケジューリング手法を発表。リソース配分の最適化効率向上に貢献。",
-        "category": "company",
-        "date": "2026-04-01",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cp-based-lot-scheduling-solutions-for-a-semiconductor-manufacturing-infineon-u-of-klagenfurt"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
+        "title": "Enabling Physical AI and Robotics: Platform for the Intelligent Edge",
+        "blurb": "物理AIとロボティクスは、センサー、エッジ処理、接続性を組み合わせ、ロボット等でリアルタイムな意思決定を可能にする。",
+        "category": "tools",
+        "date": "2026-04-01",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/enabling-physical-ai-and-robotics-platform-for-the-intelligent-edge"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Ensuring Trustworthiness of AI-Enhanced Embedded Systems",
+        "blurb": "AI搭載組み込みシステムの信頼性確保へ。安全性が重要な分野向けに、AI安全ライフサイクルと堅牢性・回復力統合の指針を提示。",
+        "category": "tools",
+        "date": "2026-04-01",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ensuring-trustworthiness-of-ai-enhanced-embedded-systems"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Hardware Deployment for Secure AI Using Confidential Computing",
+        "blurb": "機密コンピューティングを用いたセキュアAIのハードウェア展開における考慮事項、限界、および克服策。",
+        "category": "tools",
+        "date": "2026-04-01",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hardware-deployment-for-secure-ai-using-confidential-computing"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Causal Inference for AMS Design (U. of Florida)",
-        "blurb": "フロリダ大学がAMS回路設計向け因果推論の技術論文を発表。非線形性が高くデータ駆動AIでのモデリングが困難なAMS回路の課題解決を目指す。",
+        "blurb": "フロリダ大学がAMS回路設計向け因果推論の技術論文を発表。非線形性が高くAIでのモデル化が困難なAMS回路の設計データギャップを埋める。",
         "category": "tools",
         "date": "2026-04-01",
         "stars": 3,
@@ -129,14 +92,50 @@
     ],
     "market": [
       {
-        "title": "Research Bits: Mar. 31",
-        "blurb": "半導体製造における2Dハードマスク材料、欠陥特定、フォトニックパッケージングの研究開発動向。",
+        "title": "Secure at First Silicon: Reducing Cost and Risk",
+        "blurb": "シリコン設計段階でサイドチャネル解析を統合し、コストとリスクを削減。初めからセキュリティ要件を満たす。",
         "category": "business",
-        "date": "2026-03-31",
+        "date": "2026-04-01",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-mar-31"
+          "url": "https://semiengineering.com/secure-at-first-silicon-reducing-cost-and-risk"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI’s Potential And Limitations In Chip Design",
+        "blurb": "AIは半導体設計の自動化に貢献するが、当面は人間の関与が不可欠である。",
+        "category": "business",
+        "date": "2026-04-01",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ais-potential-and-limitations-in-chip-design"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Preparing For The Multiphysics Future of 3D ICs",
+        "blurb": "3D ICsでは、電気・熱・機械現象の複合影響管理が課題。2D設計より複雑化。",
+        "category": "business",
+        "date": "2026-04-01",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/preparing-for-the-multiphysics-future-of-3d-ics-3"
         },
         "field": {
           "primary": "general",

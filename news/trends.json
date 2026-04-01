@@ -1,167 +1,170 @@
 {
-  "generated_at": "2026-04-01T06:14:42.284850+09:00",
-  "date": "2026-04-01",
+  "generated_at": "2026-04-02T06:17:45.933890+09:00",
+  "date": "2026-04-02",
   "meta_trends": [
     {
-      "name": "ワイドバンドギャップ材料の普及加速",
+      "name": "ワイドバンドギャップ材料の普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "SiC、GaNなどのワイドバンドギャップ材料が、高効率化・小型化ニーズに応え、EV、データセンター、AIサーバー等で採用拡大。",
+      "summary": "SiCおよびGaN技術がEV、データセンター、産業機器向けパワー半導体で採用拡大。高効率・小型化・高耐圧化を実現。",
       "analysis": {
-        "short_term": "新製品投入活発化、信頼性データ拡充が進む。",
-        "mid_term": "自動車・データセンター向けで需要増、供給体制強化が鍵。",
-        "investment_implications": "関連メーカーへの投資妙味増大。"
+        "short_term": "新製品発表が継続し、採用事例が増加。",
+        "mid_term": "コスト競争力向上で、さらに広範な用途へ浸透。",
+        "investment_implications": "関連材料・デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "AIサーバー",
-        "データセンター"
+        "OBC",
+        "800V"
       ],
       "companies_mentioned": [
+        "Apex",
         "Power Integrations",
-        "EPC",
-        "インフィニオン",
-        "ナヴィタス",
-        "ローム",
-        "三菱電機",
-        "東芝"
+        "Infineon",
+        "Navitas",
+        "エレファンテック",
+        "Power Diamond Systems"
       ]
     },
     {
-      "name": "AI・データセンター向け高電圧化・高密度化",
+      "name": "AI・エッジコンピューティングの進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
-        "power",
-        "logic"
+        "ai",
+        "logic",
+        "industrial",
+        "automotive",
+        "datacenter"
       ],
-      "summary": "GPUへの直接給電やデータセンターの効率化のため、800V電源技術や高密度電源変換が注目され、競争が激化。",
+      "summary": "AI処理能力の向上とエッジデバイスでのリアルタイム処理が重要視。物理AI、ロボティクス、セキュアAIの基盤技術が発展。",
       "analysis": {
-        "short_term": "APEC 2026で技術発表相次ぐ。",
-        "mid_term": "インフラ投資と技術開発が並行して進む。",
-        "investment_implications": "高電圧対応IC、電源モジュールメーカーに注目。"
+        "short_term": "AIチップ設計・検証ツールの需要が増加。",
+        "mid_term": "エッジAI向けSoC、センサー、組み込みシステムが成長。",
+        "investment_implications": "AI向け半導体、開発ツール、センサー関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "データセンター",
-        "800V",
-        "GPU",
-        "高密度電源"
+        "Edge AI",
+        "Robotics",
+        "Embedded Systems",
+        "Confidential Computing"
       ],
       "companies_mentioned": [
-        "インフィニオン",
-        "ナヴィタス",
-        "テキサス・インスツルメンツ"
+        "University of Florida",
+        "京大",
+        "ローム",
+        "Congatec"
       ]
     },
     {
-      "name": "車載半導体の高度化と集積化",
-      "confidence": 0.85,
+      "name": "車載半導体の高度化と信頼性向上",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "automotive",
+        "power",
         "logic",
-        "power"
+        "memory",
+        "analog"
       ],
-      "summary": "自動運転、HMI、電動化に対応するため、高性能プロセッサ、SiP、信頼性の高いパワー半導体への需要が増加。",
+      "summary": "自動運転、電動化の進展に伴い、車載SoCの高性能化、高信頼性、高耐熱性が求められる。SRAM、MOSFET、ESD保護ダイオードなどが進化。",
       "analysis": {
-        "short_term": "車載向け新規格対応製品開発活発。",
-        "mid_term": "ADAS・自動運転レベル向上で需要拡大。",
-        "investment_implications": "車載向け開発力を持つ企業に投資機会。"
+        "short_term": "車載向け新規格対応製品の開発が加速。",
+        "mid_term": "ADAS・自動運転向け高性能SoCの需要が拡大。",
+        "investment_implications": "車載半導体メーカー、IPベンダーへの投資機会。"
       },
       "keywords": [
-        "自動運転",
+        "Automotive",
+        "SoC",
+        "ADAS",
         "EV",
-        "HMI",
-        "SiP",
-        "レーダーIC"
+        "Reliability"
       ],
       "companies_mentioned": [
-        "NXP",
-        "マイクロチップ",
-        "太陽HD"
+        "TSMC",
+        "ダイオード社",
+        "太陽HD",
+        "JDI",
+        "ローム"
       ]
     },
     {
-      "name": "半導体製造プロセスの効率化・高度化",
-      "confidence": 0.8,
+      "name": "3D ICsと先進パッケージング技術",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
-        "fabless",
-        "equipment",
-        "frontend",
-        "backend"
+        "backend",
+        "miniaturization",
+        "logic",
+        "datacenter"
       ],
-      "summary": "AIによる設計最適化、製造スケジューリング、新材料・新技術（2Dハードマスク、フォトニックパッケージング）の研究が進む。",
+      "summary": "チップレット、3D ICsの採用が進み、電気・熱・機械的複合影響の管理が重要課題に。先進パッケージング技術が性能向上を支える。",
       "analysis": {
-        "short_term": "研究開発論文発表が継続。",
-        "mid_term": "製造コスト・リードタイム短縮への貢献期待。",
-        "investment_implications": "製造装置・材料メーカー、EDAツール企業に注目。"
+        "short_term": "チップレット設計・検証技術の重要性が増す。",
+        "mid_term": "3D ICsの量産技術確立とコスト低減が進む。",
+        "investment_implications": "パッケージング技術、インターコネクト関連企業に注目。"
       },
       "keywords": [
-        "AI",
-        "製造プロセス",
-        "スケジューリング",
-        "フォトニックパッケージング",
-        "EDA"
+        "3D ICs",
+        "Chiplets",
+        "Advanced Packaging",
+        "Multiphysics"
       ],
       "companies_mentioned": [
-        "IBM",
-        "インフィニオン",
-        "クラーゲンフルト大学"
+        "Arrow Electronics"
       ]
     },
     {
-      "name": "次世代材料・技術への期待",
-      "confidence": 0.75,
+      "name": "次世代エネルギー・通信技術",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
         "power",
         "frontend",
-        "miniaturization"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "ダイヤモンド半導体、ペロブスカイト太陽電池、量子ビット読み出し技術など、将来的な性能向上・新市場創出が期待される。",
+      "summary": "ペロブスカイト太陽電池、浮体式データセンター、シングルペア・イーサネットなど、次世代のエネルギー・通信インフラ関連技術が注目。",
       "analysis": {
-        "short_term": "基礎研究・実用化に向けた開発段階。",
-        "mid_term": "一部技術は早期実用化の可能性。",
-        "investment_implications": "長期的な視点での技術シーズ投資。"
+        "short_term": "新エネルギー・通信関連の技術開発が活発化。",
+        "mid_term": "実用化・商用化に向けた投資が拡大する可能性。",
+        "investment_implications": "新興エネルギー、通信インフラ関連企業に注目。"
       },
       "keywords": [
-        "ダイヤモンド半導体",
-        "ペロブスカイト",
-        "量子ビット",
-        "次世代材料"
+        "Perovskite Solar Cells",
+        "Floating Data Centers",
+        "Single-Pair Ethernet",
+        "Energy"
       ],
       "companies_mentioned": [
-        "Power Diamond Systems",
         "富士経済",
-        "帝京大学",
-        "理研"
+        "商船三井",
+        "日立",
+        "アロー・エレクトロニクス"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け需要の継続的な拡大",
-      "EVシフトに伴う車載半導体需要の増加",
-      "ワイドバンドギャップ材料の採用拡大による高付加価値化"
+      "ワイドバンドギャップ材料の需要拡大",
+      "AI・エッジコンピューティング市場の成長",
+      "車載半導体市場の堅調な需要"
     ],
     "bearish": [
-      "半導体製造装置への投資サイクルの不確実性",
-      "地政学リスクによるサプライチェーンの不安定化"
+      "地政学的リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "微細化技術のコスト増と技術的課題"
+      "半導体設計の複雑化と開発コストの上昇"
     ]
   },
-  "source_count": 46
+  "source_count": 39
 }

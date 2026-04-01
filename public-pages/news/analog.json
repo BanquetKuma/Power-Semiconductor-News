@@ -1,41 +1,59 @@
 {
-  "generated_at": "2026-03-29T06:09:27.476531+09:00",
+  "generated_at": "2026-04-02T06:17:41.719468+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Industrial IoT Systems, Large-Scale Semiconductor Design: Embedded Week Insights",
-    "summary": "産業用IoTのサイバーセキュリティ、大規模半導体設計のデバッグ、ImecのワイヤラインADCに関する最新動向をまとめた記事。",
+    "title": "Radar SLAM Application on Vision DSPs based on Novel IO-ICP",
+    "summary": "新IO-ICPによるレーダーSLAMは、他のセンサーSLAMより高精度。ビジョンDSP上で動作。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/industrial-iot-systems-large-scale-semiconductor-design-embedded-week-insights"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/radar-slam-application-on-vision-dsps-based-on-novel-io-icp"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Industrial IoT Systems, Large-Scale Semiconductor Design: Embedded Week Insights",
-        "blurb": "産業用IoTのサイバーセキュリティ、大規模半導体設計のデバッグ、ImecのワイヤラインADCに関する最新動向をまとめた記事。",
-        "category": "business",
-        "date": "2026-03-28",
+        "title": "Radar SLAM Application on Vision DSPs based on Novel IO-ICP",
+        "blurb": "新IO-ICPによるレーダーSLAMは、他のセンサーSLAMより高精度。ビジョンDSP上で動作。",
+        "category": "tools",
+        "date": "2026-04-01",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/industrial-iot-systems-large-scale-semiconductor-design-embedded-week-insights"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/radar-slam-application-on-vision-dsps-based-on-novel-io-icp"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": "industrial",
-          "industry": "fabless"
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "High-res linear sensor tracks small displacements",
+        "blurb": "Vishayの新型リニアセンサーは、0-40mmのストロークを±1%の高精度で測定可能。",
+        "category": "tools",
+        "date": "2026-04-02",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/high-res-linear-sensor-tracks-small-displacements"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

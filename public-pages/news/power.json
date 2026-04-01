@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-04-01T06:14:38.343756+09:00",
+  "generated_at": "2026-04-02T06:17:41.718594+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Wide Bandgap Monthly Insights – March 2026",
-    "summary": "SiC、GaN、ワイドバンドギャップ材料に関する2026年3月の注目ニュースまとめ。",
+    "title": "Apex Expands Power Modules with 3-Phase SiC Solution",
+    "summary": "Apexが3相SiCパワーモジュールを発表。モーター駆動やインバータ設計の小型化・高効率化に貢献。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-march-2026"
+        "url": "https://www.powerelectronicsnews.com/apex-expands-power-modules-with-3-phase-sic-solution"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Status of WBG Wide Bandgap Device Reliability in Automotive (U. Bremen et al.)",
-        "blurb": "自動車向け次世代半導体WBGの信頼性に関する技術論文が発表された。欧州大学と自動車・半導体企業が共同で執筆。",
+        "title": "次世代パワー半導体向け接合材を開発、エレファンテック",
+        "blurb": "エレファンテックは、次世代パワー半導体向けに、自己組織化銅ナノ粒子を用いた低温焼結型ナノペースト「Saphire D」を開発した。",
         "category": "company",
         "date": "2026-04-01",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/status-of-wbg-wide-bandgap-device-reliability-in-automotive-u-bremen-et-al"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/01/news028.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "MOSFET ensures automotive thermal reliability",
+        "blurb": "ダイオード社が、車載システム向けに100VのMOSFETを発表。8×8mmのガルウィングリードパッケージで、熱信頼性を確保。",
+        "category": "company",
+        "date": "2026-04-02",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/mosfet-ensures-automotive-thermal-reliability"
         },
         "field": {
           "primary": "power",
@@ -38,14 +56,32 @@
     "tech": [],
     "market": [
       {
-        "title": "Wide Bandgap Monthly Insights – March 2026",
-        "blurb": "SiC、GaN、ワイドバンドギャップ材料に関する2026年3月の注目ニュースまとめ。",
+        "title": "Apex Expands Power Modules with 3-Phase SiC Solution",
+        "blurb": "Apexが3相SiCパワーモジュールを発表。モーター駆動やインバータ設計の小型化・高効率化に貢献。",
         "category": "business",
-        "date": "2026-03-31",
+        "date": "2026-04-01",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-march-2026"
+          "url": "https://www.powerelectronicsnews.com/apex-expands-power-modules-with-3-phase-sic-solution"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Vertical GaN simplifies 800V OBC design topologies",
+        "blurb": "窒化ガリウム（GaN）技術により、EVの800V車載充電器（OBC）設計が簡素化され、高電圧化と効率向上が実現。",
+        "category": "business",
+        "date": "2026-04-01",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/vertical-gan-simplifies-800v-obc-design-topologies"
         },
         "field": {
           "primary": "power",
