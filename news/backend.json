@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-04-02T06:17:41.720640+09:00",
+  "generated_at": "2026-04-03T06:13:41.710695+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Blog Review: Apr. 1",
-    "summary": "半導体検証の複雑化、動的電圧降下解析、チップレット、車載イーサネットに関するブログレビュー。",
+    "title": "Developing A Security Framework For Chiplet-Based Systems",
+    "summary": "チップレットベースシステムでは、プラットフォームレベルでのセキュリティ確保が不可欠。各チップレットのID検証を徹底する必要がある。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/blog-review-apr-1"
+        "url": "https://semiengineering.com/developing-a-security-framework-for-chiplet-based-systems"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Blog Review: Apr. 1",
-        "blurb": "半導体検証の複雑化、動的電圧降下解析、チップレット、車載イーサネットに関するブログレビュー。",
-        "category": "business",
-        "date": "2026-04-01",
+        "title": "Developing A Security Framework For Chiplet-Based Systems",
+        "blurb": "チップレットベースシステムでは、プラットフォームレベルでのセキュリティ確保が不可欠。各チップレットのID検証を徹底する必要がある。",
+        "category": "company",
+        "date": "2026-04-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-apr-1"
+          "url": "https://semiengineering.com/developing-a-security-framework-for-chiplet-based-systems"
         },
         "field": {
           "primary": "backend",
@@ -36,6 +34,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

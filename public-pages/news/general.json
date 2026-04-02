@@ -1,31 +1,86 @@
 {
-  "generated_at": "2026-04-02T06:17:41.721125+09:00",
+  "generated_at": "2026-04-03T06:13:41.711239+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Secure at First Silicon: Reducing Cost and Risk",
-    "summary": "シリコン設計段階でサイドチャネル解析を統合し、コストとリスクを削減。初めからセキュリティ要件を満たす。",
+    "title": "Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks",
+    "summary": "三菱電機、ローム、東芝などが半導体・パワーデバイス事業統合交渉を開始。世界競争力を持つ日本企業を目指す。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/secure-at-first-silicon-reducing-cost-and-risk"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "TDKと日本化学、MLCC材料開発会社を設立",
+        "blurb": "TDKと日本化学工業は、MLCC向けセラミック材料開発の合弁会社「TDK-NCIアドバンスドマテリアルズ」を設立した。",
+        "category": "company",
+        "date": "2026-04-02",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news116.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Intelがアイルランド工場を完全子会社化、Apolloから49％買い戻し",
+        "blurb": "Intelはアイルランド工場「Fab 34」の株式49%をApolloから142億ドルで買い戻し、完全子会社化すると発表した。",
+        "category": "company",
+        "date": "2026-04-02",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news067.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks",
+        "blurb": "三菱電機、ローム、東芝などが半導体・パワーデバイス事業統合交渉を開始。世界競争力を持つ日本企業を目指す。",
+        "category": "company",
+        "date": "2026-04-03",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
-        "title": "Enabling Physical AI and Robotics: Platform for the Intelligent Edge",
-        "blurb": "物理AIとロボティクスは、センサー、エッジ処理、接続性を組み合わせ、ロボット等でリアルタイムな意思決定を可能にする。",
+        "title": "Automated Multiphysics For Successful 3D-IC Design",
+        "blurb": "3D-IC設計における電力、熱、複雑性の管理と信頼性・性能向上のための自動化されたマルチフィジックス解析。",
         "category": "tools",
-        "date": "2026-04-01",
+        "date": "2026-04-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enabling-physical-ai-and-robotics-platform-for-the-intelligent-edge"
+          "url": "https://semiengineering.com/automated-multiphysics-for-successful-3d-ic-design"
         },
         "field": {
           "primary": "general",
@@ -36,50 +91,14 @@
         }
       },
       {
-        "title": "Ensuring Trustworthiness of AI-Enhanced Embedded Systems",
-        "blurb": "AI搭載組み込みシステムの信頼性確保へ。安全性が重要な分野向けに、AI安全ライフサイクルと堅牢性・回復力統合の指針を提示。",
+        "title": "Agent Card Poisoning: A Metadata Injection Vulnerability In The Systems Using Google A2A Protocol",
+        "blurb": "Google A2Aプロトコルに脆弱性「Agent Card Poisoning」が見つかりました。攻撃者は機密情報を盗む可能性があります。",
         "category": "tools",
-        "date": "2026-04-01",
+        "date": "2026-04-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ensuring-trustworthiness-of-ai-enhanced-embedded-systems"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Hardware Deployment for Secure AI Using Confidential Computing",
-        "blurb": "機密コンピューティングを用いたセキュアAIのハードウェア展開における考慮事項、限界、および克服策。",
-        "category": "tools",
-        "date": "2026-04-01",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hardware-deployment-for-secure-ai-using-confidential-computing"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Causal Inference for AMS Design (U. of Florida)",
-        "blurb": "フロリダ大学がAMS回路設計向け因果推論の技術論文を発表。非線形性が高くAIでのモデル化が困難なAMS回路の設計データギャップを埋める。",
-        "category": "tools",
-        "date": "2026-04-01",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/causal-inference-for-ams-design-u-of-florida"
+          "url": "https://semiengineering.com/agent-card-poisoning-a-metadata-injection-vulnerability-in-the-systems-using-google-a2a-protocol"
         },
         "field": {
           "primary": "general",
@@ -92,14 +111,14 @@
     ],
     "market": [
       {
-        "title": "Secure at First Silicon: Reducing Cost and Risk",
-        "blurb": "シリコン設計段階でサイドチャネル解析を統合し、コストとリスクを削減。初めからセキュリティ要件を満たす。",
+        "title": "World First: MACsec IP Receives ISO/PAS 8800 Certification For Automotive And Physical AI Security",
+        "blurb": "MACsec IPが自動車・物理AIセキュリティ分野でISO/PAS 8800認証を取得。AI駆動システムに必要な予測可能なタイミングを維持しつつ、データを保護。",
         "category": "business",
-        "date": "2026-04-01",
+        "date": "2026-04-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/secure-at-first-silicon-reducing-cost-and-risk"
+          "url": "https://semiengineering.com/world-first-macsec-ip-receives-iso-pas-8800-certification-for-automotive-and-physical-ai-security"
         },
         "field": {
           "primary": "general",
@@ -110,14 +129,14 @@
         }
       },
       {
-        "title": "AI’s Potential And Limitations In Chip Design",
-        "blurb": "AIは半導体設計の自動化に貢献するが、当面は人間の関与が不可欠である。",
+        "title": "Moving Electrons, Not Just Vehicles",
+        "blurb": "EVとエッジシステムでは、充電、バッテリー管理、電力変換の高度化が差別化の鍵となる。",
         "category": "business",
-        "date": "2026-04-01",
+        "date": "2026-04-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ais-potential-and-limitations-in-chip-design"
+          "url": "https://semiengineering.com/moving-electrons-not-just-vehicles"
         },
         "field": {
           "primary": "general",
@@ -128,14 +147,32 @@
         }
       },
       {
-        "title": "Preparing For The Multiphysics Future of 3D ICs",
-        "blurb": "3D ICsでは、電気・熱・機械現象の複合影響管理が課題。2D設計より複雑化。",
+        "title": "IC Security Threats Spike With Quantum, AI, And Automotive",
+        "blurb": "量子コンピュータ、AI、自動車分野でICセキュリティ脅威が増加。特にポスト量子暗号化が最重要課題。",
         "category": "business",
-        "date": "2026-04-01",
+        "date": "2026-04-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/preparing-for-the-multiphysics-future-of-3d-ics-3"
+          "url": "https://semiengineering.com/ic-security-threats-spike-with-quantum-ai-and-automotive"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The One Bit Problem That Can Break a System",
+        "blurb": "宇宙線や電圧異常、攻撃によるビット反転は、データ整合性や安全性を脅かし、ハードウェアセキュリティの根幹を揺るがす。",
+        "category": "business",
+        "date": "2026-04-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-one-bit-problem-that-can-break-a-system"
         },
         "field": {
           "primary": "general",

@@ -1,170 +1,164 @@
 {
-  "generated_at": "2026-04-02T06:17:45.933890+09:00",
-  "date": "2026-04-02",
+  "generated_at": "2026-04-03T06:13:45.880811+09:00",
+  "date": "2026-04-03",
   "meta_trends": [
     {
-      "name": "ワイドバンドギャップ材料の普及",
+      "name": "パワー半導体再編と技術革新",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaN技術がEV、データセンター、産業機器向けパワー半導体で採用拡大。高効率・小型化・高耐圧化を実現。",
+      "summary": "日本企業を中心にパワー半導体事業の統合・再編が進む一方、SiCやGaNといった次世代材料を用いた高効率・小型化技術開発が加速している。",
       "analysis": {
-        "short_term": "新製品発表が継続し、採用事例が増加。",
-        "mid_term": "コスト競争力向上で、さらに広範な用途へ浸透。",
-        "investment_implications": "関連材料・デバイスメーカーへの投資妙味。"
+        "short_term": "事業統合の進展と技術開発競争が激化。",
+        "mid_term": "再編された企業がグローバル競争力を強化。",
+        "investment_implications": "再編・技術革新を主導する企業に注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "OBC",
-        "800V"
+        "パワーデバイス",
+        "再編"
       ],
       "companies_mentioned": [
+        "三菱電機",
+        "ローム",
+        "東芝",
+        "デンソー",
         "Apex",
-        "Power Integrations",
-        "Infineon",
-        "Navitas",
-        "エレファンテック",
-        "Power Diamond Systems"
+        "Patentix"
       ]
     },
     {
-      "name": "AI・エッジコンピューティングの進化",
+      "name": "AIとエッジコンピューティングの融合",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "logic",
-        "industrial",
         "automotive",
-        "datacenter"
+        "industrial",
+        "memory"
       ],
-      "summary": "AI処理能力の向上とエッジデバイスでのリアルタイム処理が重要視。物理AI、ロボティクス、セキュアAIの基盤技術が発展。",
+      "summary": "AI需要がメモリ市場の優先順位を変え、エッジAIシステムがリアルタイム処理能力を高めている。チップレットや3D-IC設計も進化。",
       "analysis": {
-        "short_term": "AIチップ設計・検証ツールの需要が増加。",
-        "mid_term": "エッジAI向けSoC、センサー、組み込みシステムが成長。",
-        "investment_implications": "AI向け半導体、開発ツール、センサー関連企業に注目。"
+        "short_term": "AI向けメモリ供給逼迫とエッジAIデバイスの普及が進む。",
+        "mid_term": "チップレットや3D-ICの採用が拡大し、AI性能が向上。",
+        "investment_implications": "AI処理能力とデータ管理技術を持つ企業が有利。"
       },
       "keywords": [
         "AI",
-        "Edge AI",
-        "Robotics",
-        "Embedded Systems",
-        "Confidential Computing"
+        "エッジAI",
+        "メモリ",
+        "チップレット",
+        "3D-IC"
       ],
       "companies_mentioned": [
-        "University of Florida",
-        "京大",
-        "ローム",
-        "Congatec"
+        "Google",
+        "Vishay",
+        "TDK"
       ]
     },
     {
-      "name": "車載半導体の高度化と信頼性向上",
+      "name": "自動車分野における半導体セキュリティ強化",
       "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "automotive",
-        "power",
-        "logic",
-        "memory",
-        "analog"
+        "ai",
+        "geopolitics"
       ],
-      "summary": "自動運転、電動化の進展に伴い、車載SoCの高性能化、高信頼性、高耐熱性が求められる。SRAM、MOSFET、ESD保護ダイオードなどが進化。",
+      "summary": "自動運転やAI搭載車の普及に伴い、ICセキュリティへの脅威が増大。ISO/PAS 8800認証などがAI安全の基準として重要視されている。",
       "analysis": {
-        "short_term": "車載向け新規格対応製品の開発が加速。",
-        "mid_term": "ADAS・自動運転向け高性能SoCの需要が拡大。",
-        "investment_implications": "車載半導体メーカー、IPベンダーへの投資機会。"
+        "short_term": "サイバー攻撃リスクへの対応が急務となる。",
+        "mid_term": "AI安全規格の導入が進み、信頼性向上に貢献。",
+        "investment_implications": "セキュリティソリューション提供企業に成長機会。"
       },
       "keywords": [
-        "Automotive",
-        "SoC",
-        "ADAS",
-        "EV",
-        "Reliability"
+        "自動車",
+        "AI",
+        "セキュリティ",
+        "ISO/PAS 8800",
+        "サイバー攻撃"
       ],
       "companies_mentioned": [
-        "TSMC",
-        "ダイオード社",
-        "太陽HD",
-        "JDI",
-        "ローム"
+        "Waymo",
+        "MACsec IP"
       ]
     },
     {
-      "name": "3D ICsと先進パッケージング技術",
-      "confidence": 0.75,
+      "name": "次世代メモリ技術の進化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "miniaturization",
-        "logic",
+        "memory",
+        "ai",
         "datacenter"
       ],
-      "summary": "チップレット、3D ICsの採用が進み、電気・熱・機械的複合影響の管理が重要課題に。先進パッケージング技術が性能向上を支える。",
+      "summary": "AI需要によるメモリ市場の変化に加え、SRAMのスケーリング問題を解決する新アーキテクチャや、大容量HDDの開発が進んでいる。",
       "analysis": {
-        "short_term": "チップレット設計・検証技術の重要性が増す。",
-        "mid_term": "3D ICsの量産技術確立とコスト低減が進む。",
-        "investment_implications": "パッケージング技術、インターコネクト関連企業に注目。"
+        "short_term": "NORフラッシュ供給逼迫と、AI向けメモリへのシフト。",
+        "mid_term": "新メモリ技術が性能向上とコスト削減に寄与。",
+        "investment_implications": "革新的なメモリ技術を持つ企業に注目。"
       },
       "keywords": [
-        "3D ICs",
-        "Chiplets",
-        "Advanced Packaging",
-        "Multiphysics"
+        "メモリ",
+        "SRAM",
+        "HDD",
+        "AI",
+        "NAND",
+        "DRAM"
       ],
       "companies_mentioned": [
-        "Arrow Electronics"
+        "東芝D＆S"
       ]
     },
     {
-      "name": "次世代エネルギー・通信技術",
-      "confidence": 0.7,
+      "name": "物理的AI（フィジカルAI）の台頭",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "frontend",
-        "datacenter",
-        "industrial"
+        "ai",
+        "automotive",
+        "industrial",
+        "robotics"
       ],
-      "summary": "ペロブスカイト太陽電池、浮体式データセンター、シングルペア・イーサネットなど、次世代のエネルギー・通信インフラ関連技術が注目。",
+      "summary": "CES 2026で示されたように、ロボットや自動車など物理的な世界でAIが自律的に判断・行動するフィジカルAIの時代が到来しつつある。",
       "analysis": {
-        "short_term": "新エネルギー・通信関連の技術開発が活発化。",
-        "mid_term": "実用化・商用化に向けた投資が拡大する可能性。",
-        "investment_implications": "新興エネルギー、通信インフラ関連企業に注目。"
+        "short_term": "フィジカルAI関連技術への関心が高まる。",
+        "mid_term": "ロボットや自動運転車などでの実用化が進展。",
+        "investment_implications": "フィジカルAI関連ハードウェア・ソフトウェア企業に投資機会。"
       },
       "keywords": [
-        "Perovskite Solar Cells",
-        "Floating Data Centers",
-        "Single-Pair Ethernet",
-        "Energy"
+        "フィジカルAI",
+        "ロボット",
+        "自動運転",
+        "CES 2026",
+        "エッジAI"
       ],
-      "companies_mentioned": [
-        "富士経済",
-        "商船三井",
-        "日立",
-        "アロー・エレクトロニクス"
-      ]
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "ワイドバンドギャップ材料の需要拡大",
-      "AI・エッジコンピューティング市場の成長",
-      "車載半導体市場の堅調な需要"
+      "パワー半導体分野での日本企業の再編と競争力強化への期待",
+      "EVおよび産業機器向け次世代パワー半導体（SiC, GaN）の需要拡大",
+      "AIおよびエッジコンピューティング市場の継続的な成長",
+      "自動運転技術の進展に伴う車載半導体需要の増加"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性"
+      "AI需要による特定メモリ（NORフラッシュ）の供給逼迫と価格上昇リスク",
+      "半導体製造における地政学的リスクとサプライチェーンの不安定性",
+      "高度なICセキュリティ脅威の増加による開発・運用コスト増大"
     ],
     "neutral": [
-      "半導体設計の複雑化と開発コストの上昇"
+      "3D-ICやチップレットといった先進パッケージング技術の採用動向",
+      "データセンター市場におけるHDDとSSDの競争・共存",
+      "量子コンピュータ、AI、自動車分野におけるICセキュリティ標準化の進展"
     ]
   },
-  "source_count": 39
+  "source_count": 42
 }

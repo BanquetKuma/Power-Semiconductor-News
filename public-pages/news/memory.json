@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-02T06:17:41.718890+09:00",
+  "generated_at": "2026-04-03T06:13:41.708242+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Accelerating Automotive Innovation: SRAM Compiler Breakthroughs for 5nm and 3nm SoCs",
-    "summary": "次世代SRAMコンパイラIPがTSMCの5nm/3nmプロセスに対応し、車載SoCのPPA、信頼性、堅牢性を向上。",
+    "title": "AI Demand Resets Memory Market Priorities, Tightening NOR Flash Availability",
+    "summary": "AI需要がDRAMとNANDへの注力を促し、NORフラッシュの供給が逼迫。ウェーハ容量とテストリソースが圧迫されている。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/accelerating-automotive-innovation-sram-compiler-breakthroughs-for-5nm-and-3nm-socs"
+        "url": "https://semiengineering.com/ai-demand-resets-memory-market-priorities-tightening-nor-flash-availability"
       }
     ]
   },
@@ -19,21 +19,39 @@
     "tech": [],
     "market": [
       {
-        "title": "Accelerating Automotive Innovation: SRAM Compiler Breakthroughs for 5nm and 3nm SoCs",
-        "blurb": "次世代SRAMコンパイラIPがTSMCの5nm/3nmプロセスに対応し、車載SoCのPPA、信頼性、堅牢性を向上。",
+        "title": "AI Demand Resets Memory Market Priorities, Tightening NOR Flash Availability",
+        "blurb": "AI需要がDRAMとNANDへの注力を促し、NORフラッシュの供給が逼迫。ウェーハ容量とテストリソースが圧迫されている。",
         "category": "business",
-        "date": "2026-04-01",
+        "date": "2026-04-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/accelerating-automotive-innovation-sram-compiler-breakthroughs-for-5nm-and-3nm-socs"
+          "url": "https://semiengineering.com/ai-demand-resets-memory-market-priorities-tightening-nor-flash-availability"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "miniaturization",
+          "process": "wafer",
           "market": null,
-          "industry": "foundry"
+          "industry": null
+        }
+      },
+      {
+        "title": "Reinventing Embedded Memory: Solving The SRAM Scaling Wall",
+        "blurb": "SRAMのスケーリング問題を解決する、3トランジスタセルを用いた新しい組込みメモリアーキテクチャが登場。",
+        "category": "business",
+        "date": "2026-04-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/reinventing-embedded-memory-solving-the-sram-scaling-wall"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
         }
       }
     ]
