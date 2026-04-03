@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T06:13:41.711239+09:00",
+  "generated_at": "2026-04-04T06:11:45.074145+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
@@ -17,50 +17,14 @@
   "sections": {
     "news": [
       {
-        "title": "TDKと日本化学、MLCC材料開発会社を設立",
-        "blurb": "TDKと日本化学工業は、MLCC向けセラミック材料開発の合弁会社「TDK-NCIアドバンスドマテリアルズ」を設立した。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news116.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Intelがアイルランド工場を完全子会社化、Apolloから49％買い戻し",
-        "blurb": "Intelはアイルランド工場「Fab 34」の株式49%をApolloから142億ドルで買い戻し、完全子会社化すると発表した。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news067.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks",
-        "blurb": "三菱電機、ローム、東芝などが半導体・パワーデバイス事業統合交渉を開始。世界競争力を持つ日本企業を目指す。",
+        "title": "新世代半導体の開発や製造で共同体、産総研が設立",
+        "blurb": "産総研は新世代半導体の開発・製造連携のため、技術交流コンソーシアムを設立。会員を募集している。",
         "category": "company",
         "date": "2026-04-03",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/03/news030.html"
         },
         "field": {
           "primary": "general",
@@ -73,32 +37,14 @@
     ],
     "tech": [
       {
-        "title": "Automated Multiphysics For Successful 3D-IC Design",
-        "blurb": "3D-IC設計における電力、熱、複雑性の管理と信頼性・性能向上のための自動化されたマルチフィジックス解析。",
+        "title": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
+        "blurb": "フロリダ大学がLLMを用いた自動セキュリティ検証フレームワーク「Assertain」を発表。複雑化するSoC設計のセキュリティリスク増大に対応。",
         "category": "tools",
-        "date": "2026-04-02",
+        "date": "2026-04-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/automated-multiphysics-for-successful-3d-ic-design"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Agent Card Poisoning: A Metadata Injection Vulnerability In The Systems Using Google A2A Protocol",
-        "blurb": "Google A2Aプロトコルに脆弱性「Agent Card Poisoning」が見つかりました。攻撃者は機密情報を盗む可能性があります。",
-        "category": "tools",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/agent-card-poisoning-a-metadata-injection-vulnerability-in-the-systems-using-google-a2a-protocol"
+          "url": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida"
         },
         "field": {
           "primary": "general",
@@ -111,68 +57,14 @@
     ],
     "market": [
       {
-        "title": "World First: MACsec IP Receives ISO/PAS 8800 Certification For Automotive And Physical AI Security",
-        "blurb": "MACsec IPが自動車・物理AIセキュリティ分野でISO/PAS 8800認証を取得。AI駆動システムに必要な予測可能なタイミングを維持しつつ、データを保護。",
+        "title": "Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks",
+        "blurb": "三菱電機、ローム、東芝などが半導体・パワーデバイス事業統合交渉を開始。世界競争力を持つ日本企業を目指す。",
         "category": "business",
-        "date": "2026-04-02",
+        "date": "2026-04-03",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/world-first-macsec-ip-receives-iso-pas-8800-certification-for-automotive-and-physical-ai-security"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Moving Electrons, Not Just Vehicles",
-        "blurb": "EVとエッジシステムでは、充電、バッテリー管理、電力変換の高度化が差別化の鍵となる。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/moving-electrons-not-just-vehicles"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "IC Security Threats Spike With Quantum, AI, And Automotive",
-        "blurb": "量子コンピュータ、AI、自動車分野でICセキュリティ脅威が増加。特にポスト量子暗号化が最重要課題。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ic-security-threats-spike-with-quantum-ai-and-automotive"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The One Bit Problem That Can Break a System",
-        "blurb": "宇宙線や電圧異常、攻撃によるビット反転は、データ整合性や安全性を脅かし、ハードウェアセキュリティの根幹を揺るがす。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-one-bit-problem-that-can-break-a-system"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks"
         },
         "field": {
           "primary": "general",

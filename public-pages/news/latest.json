@@ -1,603 +1,41 @@
 {
-  "generated_at": "2026-04-03T06:13:41.705955+09:00",
+  "generated_at": "2026-04-04T06:11:45.071918+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks",
-    "summary": "三菱電機、ローム、東芝などが半導体・パワーデバイス事業統合交渉を開始。世界競争力を持つ日本企業を目指す。",
+    "title": "Infineon Launches TLVR Quad-Phase AI Power Module",
+    "summary": "インフィニオン、AIプロセッサ向けに高効率・高密度なTLVRクワッドフェーズ電源モジュールを発表。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks"
+        "url": "https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "AI Demand Resets Memory Market Priorities, Tightening NOR Flash Availability",
-        "blurb": "AI需要がDRAMとNANDへの注力を促し、NORフラッシュの供給が逼迫。ウェーハ容量とテストリソースが圧迫されている。",
+        "title": "APEC 2026, Vertical GaN in OBC Design, Rectifier Diode Simulation in QSPICE: Power Electronics Week Insights",
+        "blurb": "APEC 2026、垂直GaN、QSPICEでのダイオードシミュレーションなど、パワーエレクトロニクス週の最新動向をまとめた記事。",
         "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-demand-resets-memory-market-priorities-tightening-nor-flash-availability"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "World First: MACsec IP Receives ISO/PAS 8800 Certification For Automotive And Physical AI Security",
-        "blurb": "MACsec IPが自動車・物理AIセキュリティ分野でISO/PAS 8800認証を取得。AI駆動システムに必要な予測可能なタイミングを維持しつつ、データを保護。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/world-first-macsec-ip-receives-iso-pas-8800-certification-for-automotive-and-physical-ai-security"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Moving Electrons, Not Just Vehicles",
-        "blurb": "EVとエッジシステムでは、充電、バッテリー管理、電力変換の高度化が差別化の鍵となる。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/moving-electrons-not-just-vehicles"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Reinventing Embedded Memory: Solving The SRAM Scaling Wall",
-        "blurb": "SRAMのスケーリング問題を解決する、3トランジスタセルを用いた新しい組込みメモリアーキテクチャが登場。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/reinventing-embedded-memory-solving-the-sram-scaling-wall"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "IC Security Threats Spike With Quantum, AI, And Automotive",
-        "blurb": "量子コンピュータ、AI、自動車分野でICセキュリティ脅威が増加。特にポスト量子暗号化が最重要課題。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ic-security-threats-spike-with-quantum-ai-and-automotive"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The One Bit Problem That Can Break a System",
-        "blurb": "宇宙線や電圧異常、攻撃によるビット反転は、データ整合性や安全性を脅かし、ハードウェアセキュリティの根幹を揺るがす。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-one-bit-problem-that-can-break-a-system"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「世界2位」は実現するか、ローム、東芝、三菱電機とデンソーの選択は",
-        "blurb": "ローム、東芝、三菱電機がパワー半導体事業統合へ協議開始。デンソーも買収提案。業界再編の行方に注目。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news066.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "パワー半導体再編の行方は　2026年3月の記事ランキング",
-        "blurb": "2026年3月のEE Times Japan人気記事ランキングトップ10。パワー半導体の再編動向が注目される。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/01/news118.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Lightning-resistant TVS diodes safeguard avionics",
-        "blurb": "Littelfuseの新TVSダイオードは、航空電子機器などにDO-160レベル5の雷保護を提供し、システムを安全に保ちます。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/lightning-resistant-tvs-diodes-safeguard-avionics"
-        },
-        "field": null
-      },
-      {
-        "title": "TLVR power module supplies 320 A for AI processors",
-        "blurb": "インフィニオン、AI向けに320A供給可能なTLVR電源モジュール「TDM24745T」を発表。高電流密度を実現。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/tlvr-power-module-supplies-320-a-for-ai-processors"
-        },
-        "field": null
-      },
-      {
-        "title": "Isolated DC/DC modules raise power density",
-        "blurb": "TIの絶縁型DC/DCモジュールは、IsoShield技術で電力密度を3倍向上させました。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/isolated-dc-dc-modules-raise-power-density"
-        },
-        "field": null
-      },
-      {
-        "title": "A Look at Agentic AI in the EDA Engineering Workflow",
-        "blurb": "EDA大手3社が、エージェント型AIプラットフォーム開発の複数年計画を発表。エンジニアリングワークフローへの応用が期待される。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/a-look-at-agentic-ai-in-the-eda-engineering-workflow"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla Sales Rebound In Q1 2026, But Fall Short Of Analyst Estimates",
-        "blurb": "テスラ、2026年第1四半期の販売台数は回復したが、アナリスト予想を下回る。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791928/tesla-first-quarter-ev-sales-recover"
-        },
-        "field": null
-      },
-      {
-        "title": "Honda Prologue's $7,500 Price Cut Means There's No Better Time To Buy",
-        "blurb": "ホンダ「プロローグ」、EV税額控除対象外でも7500ドル値下げ。購入の好機。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791856/honda-prologue-7500-off-price"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Vitrek Introduces V10X High-Voltage Safety Tester",
-        "blurb": "Vitrekが新高電圧安全テスターV10Xを発表。最大30kV出力、高分解能リーク測定、自動化対応。",
-        "category": "tools",
-        "date": "2026-04-02",
+        "date": "2026-04-03",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vitrek-introduces-v10x-high-voltage-safety-tester"
-        },
-        "field": null
-      },
-      {
-        "title": "Automated Multiphysics For Successful 3D-IC Design",
-        "blurb": "3D-IC設計における電力、熱、複雑性の管理と信頼性・性能向上のための自動化されたマルチフィジックス解析。",
-        "category": "tools",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/automated-multiphysics-for-successful-3d-ic-design"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Agent Card Poisoning: A Metadata Injection Vulnerability In The Systems Using Google A2A Protocol",
-        "blurb": "Google A2Aプロトコルに脆弱性「Agent Card Poisoning」が見つかりました。攻撃者は機密情報を盗む可能性があります。",
-        "category": "tools",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/agent-card-poisoning-a-metadata-injection-vulnerability-in-the-systems-using-google-a2a-protocol"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Why ISO/PAS 8800 is the new blueprint for AI safety in all critical industries",
-        "blurb": "ISO/PAS 8800は、自動車分野のAI安全規格だが、医療、産業、鉄道、防衛分野にも応用可能で、重要産業のAI安全の指針となる。",
-        "category": "tools",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/why-iso-pas-8800-is-the-new-blueprint-for-ai-safety-in-all-critical-industries"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Single-battery failures in multi-battery arrangements: diagnosing selective cell derangements",
-        "blurb": "複数バッテリーパックで、1つのセルだけが早く消耗する原因と、それが他のセルに与える影響を解説。",
-        "category": "tools",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/single-battery-failures-in-multi-battery-arrangements-diagnosing-selective-cell-derangements"
-        },
-        "field": null
-      },
-      {
-        "title": "High-res linear sensor tracks small displacements",
-        "blurb": "Vishayの新型リニアセンサーは、0-40mmのストロークを±1%の高精度で測定可能。",
-        "category": "tools",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/high-res-linear-sensor-tracks-small-displacements"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "company": [
-      {
-        "title": "Power Corner: Analog Devices’ Etienne Moulin on the Convergence of Robotics and Automotive Power Requirements",
-        "blurb": "アナログ・デバイセズのムーラン氏が、ロボティクスと自動車の電力要件の収束について解説。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-analog-devices-etienne-moulin-on-the-convergence-of-robotics-and-automotive-power-requirements"
-        },
-        "field": null
-      },
-      {
-        "title": "Developing A Security Framework For Chiplet-Based Systems",
-        "blurb": "チップレットベースシステムでは、プラットフォームレベルでのセキュリティ確保が不可欠。各チップレットのID検証を徹底する必要がある。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/developing-a-security-framework-for-chiplet-based-systems"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Embedded World 2026: Bringing Edge AI Into The Real World",
-        "blurb": "Embedded World 2026では、エッジAIがリアルタイムで文脈を理解し応答するシステムが登場。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/embedded-world-2026-bringing-edge-ai-into-the-real-world"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "TDKと日本化学、MLCC材料開発会社を設立",
-        "blurb": "TDKと日本化学工業は、MLCC向けセラミック材料開発の合弁会社「TDK-NCIアドバンスドマテリアルズ」を設立した。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news116.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "米Waymoの世界展開は東京から　「数カ月内に開始」見込み",
-        "blurb": "米Waymo、東京で自動運転サービスを数ヶ月内に開始。日本交通、Goと連携し実証実験を実施中。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news088.html"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "デプレッション型r-GeO2 MOSFETの動作を実証、Patentix",
-        "blurb": "Patentixがルチル型二酸化ゲルマニウムでデプレッション型MOSFET動作実証に成功。今後はp型作製とエンハンスメント型開発へ。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news039.html"
+          "url": "https://www.powerelectronicsnews.com/apec-2026-vertical-gan-in-obc-design-rectifier-diode-simulation-in-qspice-power-electronics-week-insights"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "SMR方式で30～34TBのニアラインHDD開発、東芝D＆S",
-        "blurb": "東芝D＆SはSMR方式で30～34TBのニアラインHDDを開発。大規模データセンター向けで、2026年半ばから供給開始。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news038.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Intelがアイルランド工場を完全子会社化、Apolloから49％買い戻し",
-        "blurb": "Intelはアイルランド工場「Fab 34」の株式49%をApolloから142億ドルで買い戻し、完全子会社化すると発表した。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/02/news067.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "MOSFET ensures automotive thermal reliability",
-        "blurb": "ダイオード社が、車載システム向けに100VのMOSFETを発表。8×8mmのパッケージで熱信頼性を確保。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/mosfet-ensures-automotive-thermal-reliability"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Congatec Expands COMs with Rugged Intel Core Ultra",
-        "blurb": "コンガテック、産業用温度範囲対応のIntel Core Ultra搭載COMを発表。AI処理に最適。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/congatec-expands-coms-with-rugged-intel-core-ultra"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "FriendlyElec NanoPi NEO3 Plus Single Board Computer Powered by Rockchip RK3528A SoC USB 3.0 and Gigabit LAN",
-        "blurb": "FriendlyElecがRK3528A搭載のシングルボードPC「NanoPi NEO3 Plus」を発表。USB 3.0、ギガビットLAN搭載で、ネットワークやIoTゲートウェイ等に適しています。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/friendlyelec-nanopi-neo3-plus-single-board-computer-powered-by-rockchip-rk3528a-soc-usb-3-0-and-gigabit-lan"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Hyundai Ioniq 5 Is Still Crushing It",
-        "blurb": "現代自動車のEV「アイオニック5」が米国で販売台数を伸ばし、好調を維持している。EV市場の減速にもかかわらず、二桁増を記録した。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791915/hyundai-ioniq-5-us-sales-q1-2026-increase"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Lucid Recalls Thousands Of Gravity SUVs Over Rear Seatbelt Issue",
-        "blurb": "Lucidは、後部シートベルト固定部の問題で、2月14日以前に製造されたGravity SUV数千台のリコールを発表しました。無償で点検・修理が行われます。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791906/lucid-gravity-seatbelt-anchor-recall"
-        },
-        "field": null
-      },
-      {
-        "title": "Uber Expands $4,000 Grants For Drivers Who Switch To EVs",
-        "blurb": "Uberは、米国全土のドライバーがEVに乗り換えるための4,000ドルの助成金プログラムを拡大しました。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791886/uber-4000-dollar-grant-expands-us"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Kia's Futuristic EV Van Could Become A New York Taxi",
-        "blurb": "キアとブラウンアビリティが共同開発した、車椅子対応のEVバンがニューヨークのタクシーになる可能性。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791862/nyc-pv5-taxi-ada-compliant"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
           "industry": null
         }
       },
       {
         "title": "Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks",
         "blurb": "三菱電機、ローム、東芝などが半導体・パワーデバイス事業統合交渉を開始。世界競争力を持つ日本企業を目指す。",
-        "category": "company",
+        "category": "business",
         "date": "2026-04-03",
         "stars": 3,
         "source": {
@@ -607,6 +45,154 @@
         "field": {
           "primary": "general",
           "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の週刊レビュー：DUV露光規制強化、アームとIBMの提携、インテルがアイルランド工場を完全制御、AIチップ開発、データセンターの熱問題、300mm製造装置投資、IC求人6.7万件など。",
+        "category": "business",
+        "date": "2026-04-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-132"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "「ファウンドリー2.0」市場、25年は3200億ドル規模　AI需要で",
+        "blurb": "2025年のファウンドリー2.0市場はAI需要増で3200億ドル規模に達する見込み。先端プロセスとパッケージング需要が堅調。",
+        "category": "business",
+        "date": "2026-04-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/03/news032.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "ネットワークの大規模化と高速化が電気から光への転換を促す",
+        "blurb": "ネットワークの大規模化・高速化に伴い、消費エネルギー効率向上のため、電気から光への転換が進む。",
+        "category": "business",
+        "date": "2026-04-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/03/news037.html"
+        },
+        "field": null
+      },
+      {
+        "title": "300mmファブ装置の投資額、2年連続で2桁成長へ",
+        "blurb": "SEMI予測：300mmファブ装置投資額、2026年18％増、2027年14％増と2年連続2桁成長の見込み。",
+        "category": "business",
+        "date": "2026-04-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/03/news050.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Cisco Report: Industrial AI Shifts to Live Deployments",
+        "blurb": "シスコの産業AIレポートによると、産業界ではAIの導入が進み、実稼働への移行期に入っている。課題と利点が明らかに。",
+        "category": "business",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/cisco-report-industrial-ai-shifts-to-live-deployments"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "How to design a digital-controlled PFC, Part 3",
+        "blurb": "デジタル制御PFC設計：オーバーサンプリング、高調波注入、フィードフォワード制御でTHD低減、力率改善。",
+        "category": "tools",
+        "date": "2026-04-03",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/how-to-design-a-digital-controlled-pfc-part-3"
+        },
+        "field": null
+      },
+      {
+        "title": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
+        "blurb": "フロリダ大学がLLMを用いた自動セキュリティ検証フレームワーク「Assertain」を発表。複雑化するSoC設計のセキュリティリスク増大に対応。",
+        "category": "tools",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "FPGAs in Space, Agentic AI in EDA Engineering Workflow, Thermal Management: Embedded Week Insights",
+        "blurb": "宇宙用FPGA、EDAワークフローへのAI導入、熱管理など、組み込み技術の最新動向を解説。",
+        "category": "tools",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/fpgas-in-space-agentic-ai-in-eda-engineering-workflow-thermal-management-embedded-week-insights"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "Reliability of the SiO2/SiC Interface in SiC Power Transistors",
+        "blurb": "SiCパワートランジスタにおけるSiO2/SiC界面の信頼性。格子欠陥と化学的課題が性能に影響。",
+        "category": "company",
+        "date": "2026-04-03",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/reliability-of-the-sio2-sic-interface-in-sic-power-transistors"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
@@ -625,64 +211,70 @@
         "field": null
       },
       {
-        "title": "A Guide to Safe Hiring Practices of Embedded Engineers in the AI Era",
-        "blurb": "AI時代、組み込みエンジニア採用でなりすまし詐欺が増加。電話番号偽装やAI面接代行に注意し、安全な採用プロセスを構築する必要がある。",
+        "title": "ローム、8インチSiC MOSFET開発の技術目標を2年前倒しで達成",
+        "blurb": "ロームは8インチSiC MOSFET開発で電力損失低減と低コスト化の技術目標を2年前倒しで達成した。",
         "category": "company",
         "date": "2026-04-03",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/a-guide-to-safe-hiring-practices-of-embedded-engineers-in-the-ai-era"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/03/news078.html"
         },
         "field": {
-          "primary": "industrial",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Microchip Gains Industrial Certification",
-        "blurb": "マイクロチップ社、IEC 62443-4-1 ML2認証取得。製品開発プロセスがサイバーセキュリティ基準を満たすことを証明。",
+        "title": "新世代半導体の開発や製造で共同体、産総研が設立",
+        "blurb": "産総研は新世代半導体の開発・製造連携のため、技術交流コンソーシアムを設立。会員を募集している。",
         "category": "company",
         "date": "2026-04-03",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-gains-industrial-certification"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/03/news030.html"
         },
         "field": {
-          "primary": "industrial",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "The Volkswagen ID. Buzz Isn't On Pause—And It Could Get A Camping Version, VW CEO Says",
-        "blurb": "VW CEOは、ID. Buzzの生産は継続し、キャンピング仕様も検討中だと述べた。",
+        "title": "Infineon Launches TLVR Quad-Phase AI Power Module",
+        "blurb": "インフィニオン、AIプロセッサ向けに高効率・高密度なTLVRクワッドフェーズ電源モジュールを発表。",
         "category": "company",
-        "date": "2026-04-03",
+        "date": "2026-04-04",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791958/vw-id-buzz-2027-model"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module"
         },
         "field": null
       },
       {
-        "title": "Mercedes-Benz Is Bringing This Wild-Looking Steering Wheel To The EQS. And I Tried It",
-        "blurb": "メルセデス・ベンツEQSに、運転体験を一変させる「ステア・バイ・ワイヤ」がオプションで登場。",
+        "title": "ST Introduces STripFET F8 MOSFET Series for Automotive",
+        "blurb": "STマイクロエレクトロニクスが、車載用電源・バッテリーシステム向けに、高効率・高熱性能・小型化を実現したSTripFET F8 MOSFETシリーズを発表。",
         "category": "company",
-        "date": "2026-04-03",
+        "date": "2026-04-04",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/791769/mercedes-eqs-steer-by-wire"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-introduces-stripfet-f8-mosfet-series-for-automotive"
         },
-        "field": null
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "sns": []

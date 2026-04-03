@@ -1,41 +1,59 @@
 {
-  "generated_at": "2026-04-03T06:13:41.708565+09:00",
+  "generated_at": "2026-04-04T06:11:45.073444+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "FriendlyElec NanoPi NEO3 Plus Single Board Computer Powered by Rockchip RK3528A SoC USB 3.0 and Gigabit LAN",
-    "summary": "FriendlyElecがRK3528A搭載のシングルボードPC「NanoPi NEO3 Plus」を発表。USB 3.0、ギガビットLAN搭載で、ネットワークやIoTゲートウェイ等に適しています。",
+    "title": "Chip Industry Week In Review",
+    "summary": "半導体業界の週刊レビュー：DUV露光規制強化、アームとIBMの提携、インテルがアイルランド工場を完全制御、AIチップ開発、データセンターの熱問題、300mm製造装置投資、IC求人6.7万件など。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/friendlyelec-nanopi-neo3-plus-single-board-computer-powered-by-rockchip-rk3528a-soc-usb-3-0-and-gigabit-lan"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-132"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "FriendlyElec NanoPi NEO3 Plus Single Board Computer Powered by Rockchip RK3528A SoC USB 3.0 and Gigabit LAN",
-        "blurb": "FriendlyElecがRK3528A搭載のシングルボードPC「NanoPi NEO3 Plus」を発表。USB 3.0、ギガビットLAN搭載で、ネットワークやIoTゲートウェイ等に適しています。",
-        "category": "company",
-        "date": "2026-04-02",
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の週刊レビュー：DUV露光規制強化、アームとIBMの提携、インテルがアイルランド工場を完全制御、AIチップ開発、データセンターの熱問題、300mm製造装置投資、IC求人6.7万件など。",
+        "category": "business",
+        "date": "2026-04-03",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/friendlyelec-nanopi-neo3-plus-single-board-computer-powered-by-rockchip-rk3528a-soc-usb-3-0-and-gigabit-lan"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-132"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "industrial",
-          "industry": null
+          "market": "ai",
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "「ファウンドリー2.0」市場、25年は3200億ドル規模　AI需要で",
+        "blurb": "2025年のファウンドリー2.0市場はAI需要増で3200億ドル規模に達する見込み。先端プロセスとパッケージング需要が堅調。",
+        "category": "business",
+        "date": "2026-04-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/03/news032.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

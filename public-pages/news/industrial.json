@@ -1,86 +1,31 @@
 {
-  "generated_at": "2026-04-03T06:13:41.710394+09:00",
+  "generated_at": "2026-04-04T06:11:45.073789+09:00",
   "field": "industrial",
   "field_label": "産業機器",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Why ISO/PAS 8800 is the new blueprint for AI safety in all critical industries",
-    "summary": "ISO/PAS 8800は、自動車分野のAI安全規格だが、医療、産業、鉄道、防衛分野にも応用可能で、重要産業のAI安全の指針となる。",
+    "title": "FPGAs in Space, Agentic AI in EDA Engineering Workflow, Thermal Management: Embedded Week Insights",
+    "summary": "宇宙用FPGA、EDAワークフローへのAI導入、熱管理など、組み込み技術の最新動向を解説。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/why-iso-pas-8800-is-the-new-blueprint-for-ai-safety-in-all-critical-industries"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/fpgas-in-space-agentic-ai-in-eda-engineering-workflow-thermal-management-embedded-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Congatec Expands COMs with Rugged Intel Core Ultra",
-        "blurb": "コンガテック、産業用温度範囲対応のIntel Core Ultra搭載COMを発表。AI処理に最適。",
-        "category": "company",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/congatec-expands-coms-with-rugged-intel-core-ultra"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "A Guide to Safe Hiring Practices of Embedded Engineers in the AI Era",
-        "blurb": "AI時代、組み込みエンジニア採用でなりすまし詐欺が増加。電話番号偽装やAI面接代行に注意し、安全な採用プロセスを構築する必要がある。",
-        "category": "company",
-        "date": "2026-04-03",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/a-guide-to-safe-hiring-practices-of-embedded-engineers-in-the-ai-era"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Microchip Gains Industrial Certification",
-        "blurb": "マイクロチップ社、IEC 62443-4-1 ML2認証取得。製品開発プロセスがサイバーセキュリティ基準を満たすことを証明。",
-        "category": "company",
-        "date": "2026-04-03",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-gains-industrial-certification"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "Why ISO/PAS 8800 is the new blueprint for AI safety in all critical industries",
-        "blurb": "ISO/PAS 8800は、自動車分野のAI安全規格だが、医療、産業、鉄道、防衛分野にも応用可能で、重要産業のAI安全の指針となる。",
+        "title": "FPGAs in Space, Agentic AI in EDA Engineering Workflow, Thermal Management: Embedded Week Insights",
+        "blurb": "宇宙用FPGA、EDAワークフローへのAI導入、熱管理など、組み込み技術の最新動向を解説。",
         "category": "tools",
-        "date": "2026-04-02",
+        "date": "2026-04-04",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/why-iso-pas-8800-is-the-new-blueprint-for-ai-safety-in-all-critical-industries"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/fpgas-in-space-agentic-ai-in-eda-engineering-workflow-thermal-management-embedded-week-insights"
         },
         "field": {
           "primary": "industrial",
@@ -91,6 +36,25 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "Cisco Report: Industrial AI Shifts to Live Deployments",
+        "blurb": "シスコの産業AIレポートによると、産業界ではAIの導入が進み、実稼働への移行期に入っている。課題と利点が明らかに。",
+        "category": "business",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/cisco-report-industrial-ai-shifts-to-live-deployments"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ]
   }
 }
