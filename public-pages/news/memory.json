@@ -1,59 +1,41 @@
 {
-  "generated_at": "2026-04-03T06:13:41.708242+09:00",
+  "generated_at": "2026-04-05T06:09:56.239572+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AI Demand Resets Memory Market Priorities, Tightening NOR Flash Availability",
-    "summary": "AI需要がDRAMとNANDへの注力を促し、NORフラッシュの供給が逼迫。ウェーハ容量とテストリソースが圧迫されている。",
+    "title": "BYD Has Already Built 5,000 Of Its New Megawatt 'Flash' Charging Stations",
+    "summary": "BYDは、わずか1ヶ月足らずで新型メガワット級「Flash」充電ステーションを5,000基建設した。これはEV充電速度を大幅に向上させる。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ai-demand-resets-memory-market-priorities-tightening-nor-flash-availability"
+        "name": "insideevs.com",
+        "url": "https://insideevs.com/news/791930/byd-charging-network-5000-flash"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "AI Demand Resets Memory Market Priorities, Tightening NOR Flash Availability",
-        "blurb": "AI需要がDRAMとNANDへの注力を促し、NORフラッシュの供給が逼迫。ウェーハ容量とテストリソースが圧迫されている。",
-        "category": "business",
-        "date": "2026-04-02",
+        "title": "BYD Has Already Built 5,000 Of Its New Megawatt 'Flash' Charging Stations",
+        "blurb": "BYDは、わずか1ヶ月足らずで新型メガワット級「Flash」充電ステーションを5,000基建設した。これはEV充電速度を大幅に向上させる。",
+        "category": "company",
+        "date": "2026-04-04",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-demand-resets-memory-market-priorities-tightening-nor-flash-availability"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Reinventing Embedded Memory: Solving The SRAM Scaling Wall",
-        "blurb": "SRAMのスケーリング問題を解決する、3トランジスタセルを用いた新しい組込みメモリアーキテクチャが登場。",
-        "category": "business",
-        "date": "2026-04-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/reinventing-embedded-memory-solving-the-sram-scaling-wall"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/791930/byd-charging-network-5000-flash"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

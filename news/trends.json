@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-04T06:11:48.266859+09:00",
-  "date": "2026-04-04",
+  "generated_at": "2026-04-05T06:10:00.928361+09:00",
+  "date": "2026-04-05",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体の高性能化と普及",
+      "name": "SiCパワー半導体の高性能化とコスト低減",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,89 +12,85 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiC（炭化ケイ素）パワー半導体の低損失化、高効率化、小型化が進み、EV、データセンター、産業機器など幅広い分野での採用が加速。",
+      "summary": "SiCパワー半導体の性能向上、信頼性向上、および製造コスト低減に向けた技術開発が加速。EV、データセンター、産業機器での採用拡大が見込まれる。",
       "analysis": {
-        "short_term": "供給逼迫とコスト高は続くが、技術革新で解消へ。",
-        "mid_term": "EVシフト加速で需要は堅調。日本勢の競争力強化が鍵。",
-        "investment_implications": "SiC材料・デバイスメーカーに注目。"
+        "short_term": "SiCウェーハ供給逼迫と価格高騰が継続する可能性。",
+        "mid_term": "8インチウェーハ化や新材料開発により、コスト競争力向上と普及加速。",
+        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味が増す。"
       },
       "keywords": [
         "SiC",
         "MOSFET",
         "EV",
         "インバーター",
-        "高効率"
+        "コスト低減"
       ],
       "companies_mentioned": [
-        "STマイクロエレクトロニクス",
-        "Apex",
         "ローム",
+        "STマイクロエレクトロニクス",
         "三菱電機",
         "東芝",
-        "デンソー"
+        "Apex"
       ]
     },
     {
-      "name": "AI需要によるメモリ市場の再編",
+      "name": "AI需要によるメモリ市場の構造変化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
-        "datacenter"
+        "datacenter",
+        "logic"
       ],
-      "summary": "AI需要がDRAMとNANDフラッシュに集中し、NORフラッシュなどの供給が逼迫。ウェーハ容量とテストリソースの圧迫が顕著。",
+      "summary": "AI需要がDRAM・NANDフラッシュへのリソース集中を促し、NORフラッシュなどの供給が逼迫。ウェーハ容量とテストリソースの圧迫が顕著。",
       "analysis": {
-        "short_term": "特定メモリへの需要集中と供給制約が継続。",
-        "mid_term": "AI向けメモリ投資は拡大するが、汎用メモリへの影響も。",
-        "investment_implications": "AI向けメモリ・ストレージ関連企業に妙味。"
+        "short_term": "AI向けメモリの供給不足と価格上昇が続く。",
+        "mid_term": "メモリメーカーはAI向け製品への投資を拡大し、供給能力を増強。",
+        "investment_implications": "AI向けメモリ・ストレージ関連企業に注目。"
       },
       "keywords": [
         "AI",
         "DRAM",
         "NAND",
         "NORフラッシュ",
-        "メモリ"
+        "供給逼迫"
       ],
       "companies_mentioned": []
     },
     {
-      "name": "半導体サプライチェーンの再編と連携強化",
-      "confidence": 0.85,
+      "name": "半導体・パワーデバイス事業の再編と統合",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
-        "idm",
+        "power",
         "automotive",
-        "geopolitics",
-        "frontend",
-        "backend"
+        "foundry",
+        "idm"
       ],
-      "summary": "世界的な競争激化と地政学リスクを受け、日本企業を中心に事業統合や連携の動きが活発化。国内サプライチェーンの強化を目指す。",
+      "summary": "日本企業を中心に、グローバル競争力強化のためパワー半導体事業の統合・再編の動きが活発化。M&Aや提携が進む可能性。",
       "analysis": {
-        "short_term": "M&Aや提携のニュースが増加傾向。",
-        "mid_term": "国内半導体産業の競争力向上に期待。",
-        "investment_implications": "再編・連携によるシナジー効果に注目。"
+        "short_term": "統合交渉の進展や提携発表が注目される。",
+        "mid_term": "再編により、特定の分野で世界的な競争力を持つ企業が登場。",
+        "investment_implications": "再編対象企業や関連サプライヤーの動向を注視。"
       },
       "keywords": [
+        "パワー半導体",
         "事業統合",
-        "連携",
-        "サプライチェーン",
-        "日本企業"
+        "再編",
+        "M&A",
+        "グローバル競争力"
       ],
       "companies_mentioned": [
         "三菱電機",
         "ローム",
         "東芝",
-        "デンソー",
-        "産総研",
-        "TDK",
-        "日本化学工業"
+        "デンソー"
       ]
     },
     {
       "name": "ICセキュリティ脅威の増大と対策強化",
-      "confidence": 0.8,
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "logic",
@@ -103,62 +99,67 @@
         "geopolitics",
         "backend"
       ],
-      "summary": "AI、量子コンピュータ、自動車分野の進化に伴い、ICに対するセキュリティ脅威が増大。LLMを用いた自動検証やISO認証取得が進む。",
+      "summary": "AI、量子コンピュータ、自動車分野の進化に伴い、ICセキュリティへの脅威が増大。ポスト量子暗号化やチップレットレベルでのセキュリティ確保が重要課題。",
       "analysis": {
-        "short_term": "セキュリティ脆弱性への対応が急務。",
-        "mid_term": "ポスト量子暗号化など、次世代セキュリティ技術が重要に。",
-        "investment_implications": "セキュリティソリューションプロバイダーに注目。"
+        "short_term": "新たな脆弱性発見やセキュリティ認証取得のニュースが増加。",
+        "mid_term": "セキュリティIPや検証ツールの需要が増加し、関連技術開発が加速。",
+        "investment_implications": "セキュリティソリューションプロバイダーに投資機会。"
       },
       "keywords": [
-        "セキュリティ",
+        "ICセキュリティ",
         "AI",
         "量子コンピュータ",
-        "自動車",
-        "LLM"
+        "チップレット",
+        "脆弱性"
       ],
       "companies_mentioned": [
         "フロリダ大学",
-        "Google",
-        "U. of Florida"
+        "Google"
       ]
     },
     {
-      "name": "3D-ICとチップレット技術の進化",
-      "confidence": 0.75,
+      "name": "次世代実装技術と3D-ICの重要性向上",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "logic",
         "backend",
         "miniaturization",
-        "datacenter"
+        "logic",
+        "datacenter",
+        "automotive"
       ],
-      "summary": "3D-IC設計における複雑性管理と信頼性向上のため、自動化されたマルチフィジックス解析が重要に。チップレットシステムでのセキュリティ確保も不可欠。",
+      "summary": "チップレットベースシステムや3D-IC設計において、プラットフォームレベルでのセキュリティ、電力・熱管理、マルチフィジックス解析の自動化が不可欠。",
       "analysis": {
-        "short_term": "設計・検証ツールの高度化が求められる。",
-        "mid_term": "高性能・高密度実装技術として普及が進む。",
-        "investment_implications": "先端パッケージング・インターコネクト技術に期待。"
+        "short_term": "3D-IC設計の複雑性に対応するツールの開発が進む。",
+        "mid_term": "チップレット間の連携を強化するインターコネクト技術が進化。",
+        "investment_implications": "先端パッケージング・実装技術関連企業に注目。"
       },
       "keywords": [
-        "3D-IC",
         "チップレット",
-        "マルチフィジックス",
-        "セキュリティ"
+        "3D-IC",
+        "実装技術",
+        "セキュリティ",
+        "マルチフィジックス"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "エレファンテック"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要によるメモリ・AIチップ市場の拡大",
-      "EVシフト加速によるパワー半導体需要の増加",
-      "データセンター投資の継続（HDD、浮体式DC）"
+      "AI需要によるメモリ・ロジック半導体需要の堅調さ",
+      "EV・自動運転普及に伴うパワー半導体・車載半導体需要の増加",
+      "先端プロセス・パッケージング需要の拡大"
     ],
     "bearish": [
-      "車載用液晶パネル拠点の売却（JDI）"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "一部メモリ（NORフラッシュ等）の供給逼迫による価格高騰リスク"
     ],
     "neutral": [
-      "DUV露光規制強化の影響は限定的か"
+      "半導体製造装置市場の動向（DUV露光規制の影響等）",
+      "ファウンドリー市場の競争激化"
     ]
   },
-  "source_count": 35
+  "source_count": 49
 }

@@ -1,44 +1,25 @@
 {
-  "generated_at": "2026-04-04T06:11:45.074145+09:00",
+  "generated_at": "2026-04-05T06:09:56.240509+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks",
-    "summary": "三菱電機、ローム、東芝などが半導体・パワーデバイス事業統合交渉を開始。世界競争力を持つ日本企業を目指す。",
+    "title": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
+    "summary": "フロリダ大学がLLMを用いた自動セキュリティ検証フレームワーク「Assertain」を発表。複雑化するSoC設計のセキュリティリスク低減に貢献。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "新世代半導体の開発や製造で共同体、産総研が設立",
-        "blurb": "産総研は新世代半導体の開発・製造連携のため、技術交流コンソーシアムを設立。会員を募集している。",
-        "category": "company",
-        "date": "2026-04-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/03/news030.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
         "title": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
-        "blurb": "フロリダ大学がLLMを用いた自動セキュリティ検証フレームワーク「Assertain」を発表。複雑化するSoC設計のセキュリティリスク増大に対応。",
+        "blurb": "フロリダ大学がLLMを用いた自動セキュリティ検証フレームワーク「Assertain」を発表。複雑化するSoC設計のセキュリティリスク低減に貢献。",
         "category": "tools",
         "date": "2026-04-04",
         "stars": 3,
@@ -55,25 +36,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks",
-        "blurb": "三菱電機、ローム、東芝などが半導体・パワーデバイス事業統合交渉を開始。世界競争力を持つ日本企業を目指す。",
-        "category": "business",
-        "date": "2026-04-03",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }
