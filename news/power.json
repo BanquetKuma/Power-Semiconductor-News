@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-04-05T06:09:56.239326+09:00",
+  "generated_at": "2026-04-07T06:14:08.956256+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Introduces STripFET F8 MOSFET Series for Automotive",
-    "summary": "STマイクロエレクトロニクスが、自動車向けに高効率・高熱性能のSTripFET F8 MOSFETシリーズを発表。",
+    "title": "Vishay Launches Automotive PV MOSFET Driver",
+    "summary": "VishayがEV・産業用電源向けに、高速スイッチング・高耐圧設計を簡素化する車載用PV MOSFETドライバーを発表。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/st-introduces-stripfet-f8-mosfet-series-for-automotive"
+        "url": "https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "ST Introduces STripFET F8 MOSFET Series for Automotive",
-        "blurb": "STマイクロエレクトロニクスが、自動車向けに高効率・高熱性能のSTripFET F8 MOSFETシリーズを発表。",
+        "title": "Vishay Launches Automotive PV MOSFET Driver",
+        "blurb": "VishayがEV・産業用電源向けに、高速スイッチング・高耐圧設計を簡素化する車載用PV MOSFETドライバーを発表。",
         "category": "company",
-        "date": "2026-04-04",
+        "date": "2026-04-07",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-introduces-stripfet-f8-mosfet-series-for-automotive"
+          "url": "https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "EPC’s CEO Analyzes GaN’s Move into Robotics and Data Centers",
+        "blurb": "EPC CEOがロボティクスとデータセンター市場へのGaN技術参入戦略と準備状況を分析。",
+        "category": "business",
+        "date": "2026-04-06",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/epcs-ceo-analyzes-gans-move-into-robotics-and-data-centers"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ]
   }
 }

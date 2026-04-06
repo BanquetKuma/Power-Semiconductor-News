@@ -1,28 +1,46 @@
 {
-  "generated_at": "2026-04-06T06:09:55.039837+09:00",
+  "generated_at": "2026-04-05T06:09:56.238559+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Europe's EV Market Is Doing Great. I Think These 4 European EVs Would Do Well In America",
-    "summary": "欧州で人気のEV、ルノー5やフィアット・パンダなどが米国市場で成功する可能性。手頃でシンプルな車種が求められている。",
+    "title": "Infineon Launches TLVR Quad-Phase AI Power Module",
+    "summary": "インフィニオン、AIプロセッサ向けに高効率・高密度なTLVRクワッドフェーズ電源モジュールを発表。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/features/792025/4-european-evs-that-would-probably-do-well-in-us"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Europe's EV Market Is Doing Great. I Think These 4 European EVs Would Do Well In America",
-        "blurb": "欧州で人気のEV、ルノー5やフィアット・パンダなどが米国市場で成功する可能性。手頃でシンプルな車種が求められている。",
+        "title": "Cisco Report: Industrial AI Shifts to Live Deployments",
+        "blurb": "シスコの年次調査によると、産業AIは本番稼働へ移行。企業はAI導入を進める一方、課題にも直面している。",
         "category": "business",
-        "date": "2026-04-05",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/cisco-report-industrial-ai-shifts-to-live-deployments"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "EV Depreciation Is Still Brutal. But Hybrids Should Give Us Hope",
+        "blurb": "EVの価値下落は依然として厳しいが、ハイブリッド車はかつての苦境を乗り越え、現在ではガソリン車よりも価値下落が少ない。",
+        "category": "business",
+        "date": "2026-04-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/features/792025/4-european-evs-that-would-probably-do-well-in-us"
+          "url": "https://insideevs.com/news/792049/evs-vs-hybrid-depreciation"
         },
         "field": {
           "primary": "automotive",
@@ -31,23 +49,114 @@
           "market": "automotive",
           "industry": null
         }
-      }
-    ],
-    "tools": [],
-    "company": [
+      },
       {
-        "title": "Mercedes-AMG Doesn’t Want Its New EV To Feel Like An EV",
-        "blurb": "メルセデスAMG、EVらしさを消した新GT 4ドアクーペを発表。3モーター搭載でドリフト走行も可能。",
-        "category": "company",
-        "date": "2026-04-05",
+        "title": "'Chinese Cars Are Ready For Prime Time In America': Geely SUV Crushes Every U.S. Competitor In New Test",
+        "blurb": "中国吉利の新型SUV「Galaxy M9」が、EV走行距離と加速性能で米国競合車を圧倒。米国市場での競争力に注目。",
+        "category": "business",
+        "date": "2026-04-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792093/mercedes-amg-gt-ev-drift"
+          "url": "https://insideevs.com/news/792060/geely-galaxy-m9-test-edmunds"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
+        "blurb": "フロリダ大学がLLMを用いた自動セキュリティ検証フレームワーク「Assertain」を発表。複雑化するSoC設計のセキュリティリスク低減に貢献。",
+        "category": "tools",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida"
         },
         "field": {
-          "primary": "automotive",
+          "primary": "general",
           "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "FPGAs in Space, Agentic AI in EDA Engineering Workflow, Thermal Management: Embedded Week Insights",
+        "blurb": "宇宙用FPGA、EDAワークフローへのAI導入、熱管理など、組み込み技術の最新動向をまとめた記事。",
+        "category": "tools",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/fpgas-in-space-agentic-ai-in-eda-engineering-workflow-thermal-management-embedded-week-insights"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "Infineon Launches TLVR Quad-Phase AI Power Module",
+        "blurb": "インフィニオン、AIプロセッサ向けに高効率・高密度なTLVRクワッドフェーズ電源モジュールを発表。",
+        "category": "company",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module"
+        },
+        "field": null
+      },
+      {
+        "title": "ST Introduces STripFET F8 MOSFET Series for Automotive",
+        "blurb": "STマイクロエレクトロニクスが、自動車向けに高効率・高熱性能のSTripFET F8 MOSFETシリーズを発表。",
+        "category": "company",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-introduces-stripfet-f8-mosfet-series-for-automotive"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Nissan's Turnaround Hinges On This Unique Hybrid System. It's Nothing Like Toyota's",
+        "blurb": "日産は米国で長年ハイブリッド車を避けてきたが、新型ローグe-POWERで状況を変えようとしている。",
+        "category": "company",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/792068/nissan-rogue-hybrid-e-power"
+        },
+        "field": null
+      },
+      {
+        "title": "BYD Has Already Built 5,000 Of Its New Megawatt 'Flash' Charging Stations",
+        "blurb": "BYDは、わずか1ヶ月足らずで新型メガワット級「Flash」充電ステーションを5,000基建設した。これはEV充電速度を大幅に向上させる。",
+        "category": "company",
+        "date": "2026-04-04",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/791930/byd-charging-network-5000-flash"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": "automotive",
           "industry": null

@@ -1,31 +1,48 @@
 {
-  "generated_at": "2026-04-05T06:09:56.240509+09:00",
+  "generated_at": "2026-04-07T06:14:08.957419+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
-    "summary": "フロリダ大学がLLMを用いた自動セキュリティ検証フレームワーク「Assertain」を発表。複雑化するSoC設計のセキュリティリスク低減に貢献。",
+    "title": "Research Bits: Apr. 6",
+    "summary": "半導体技術の最新動向：抵抗変化メモリ、2Dセレン化ビスマス、薄膜酸化ハフニウム。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida"
+        "url": "https://semiengineering.com/research-bits-apr-6"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
-        "blurb": "フロリダ大学がLLMを用いた自動セキュリティ検証フレームワーク「Assertain」を発表。複雑化するSoC設計のセキュリティリスク低減に貢献。",
-        "category": "tools",
-        "date": "2026-04-04",
+        "title": "Musk氏は「半導体製造の再定義」を目指すのか",
+        "blurb": "イーロン・マスク氏が発表した半導体複合施設「TeraFab」建設プロジェクトは、半導体製造の「再定義」を目指すものか注目されている。",
+        "category": "company",
+        "date": "2026-04-06",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/06/news052.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "高い性能を維持し光にも強い有機半導体材料を開発",
+        "blurb": "京大らは、高性能で光にも強い有機半導体材料「縮環ルブレン（FR）」を開発。分子の曲がり方で性質が変わることも判明。",
+        "category": "company",
+        "date": "2026-04-06",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/06/news029.html"
         },
         "field": {
           "primary": "general",
@@ -36,6 +53,44 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "Research Bits: Apr. 6",
+        "blurb": "半導体技術の最新動向：抵抗変化メモリ、2Dセレン化ビスマス、薄膜酸化ハフニウム。",
+        "category": "business",
+        "date": "2026-04-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-apr-6"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "世界半導体市場は26年2月に大幅成長、日本のみ9カ月連続マイナスに",
+        "blurb": "2026年2月の世界半導体市場は前年同月比61.8%増と大幅成長。日本市場は9カ月連続のマイナス成長となった。",
+        "category": "business",
+        "date": "2026-04-06",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/06/news047.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

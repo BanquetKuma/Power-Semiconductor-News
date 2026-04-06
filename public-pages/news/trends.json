@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-06T06:09:58.144495+09:00",
-  "date": "2026-04-06",
+  "generated_at": "2026-04-07T06:14:13.566765+09:00",
+  "date": "2026-04-07",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体の普及加速",
+      "name": "パワー半導体技術の進化と再編",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,144 +12,166 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiC（炭化ケイ素）パワー半導体の性能向上とコスト低減が進み、EV、データセンター、産業機器など幅広い分野での採用が加速している。",
+      "summary": "SiC、GaNなどの次世代パワー半導体技術がEV、データセンター、ロボティクス等で採用拡大。国内企業間での事業統合・再編も加速。",
       "analysis": {
-        "short_term": "SiCウェーハ供給逼迫が続く可能性。",
-        "mid_term": "8インチ化や新材料開発でさらなる性能向上とコストダウン。",
-        "investment_implications": "SiC関連企業への投資妙味増大。"
+        "short_term": "SiC/GaN関連材料・製造装置に注目。",
+        "mid_term": "事業統合による競争力強化と技術革新に期待。",
+        "investment_implications": "成長分野への積極投資を推奨。"
       },
       "keywords": [
         "SiC",
+        "GaN",
         "EV",
-        "インバータ",
-        "高効率"
+        "データセンター",
+        "事業統合"
       ],
       "companies_mentioned": [
-        "STマイクロエレクトロニクス",
-        "Apex",
-        "ローム",
+        "Vishay",
+        "EPC",
+        "STMicroelectronics",
         "三菱電機",
-        "東芝"
-      ]
-    },
-    {
-      "name": "AI需要によるメモリ市場再編",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "memory",
-        "ai",
-        "datacenter"
-      ],
-      "summary": "AI需要の急増により、DRAMやNANDフラッシュへの生産リソース集中が進み、NORフラッシュなどの供給が逼迫している。",
-      "analysis": {
-        "short_term": "NORフラッシュの品薄状態が継続。",
-        "mid_term": "DRAM/NANDへの投資拡大と、組込みメモリ技術の進化。",
-        "investment_implications": "AI向けメモリ関連企業に注目。"
-      },
-      "keywords": [
-        "AI",
-        "DRAM",
-        "NAND",
-        "NORフラッシュ"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "車載半導体セキュリティ強化",
-      "confidence": 0.88,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "logic",
-        "security"
-      ],
-      "summary": "自動運転やAI搭載の進展に伴い、車載半導体に対するサイバーセキュリティの重要性が増しており、新たな認証や技術開発が進んでいる。",
-      "analysis": {
-        "short_term": "ISO/PAS 8800認証取得が注目される。",
-        "mid_term": "量子コンピュータ、AI、自動車分野での脅威増大に対応。",
-        "investment_implications": "車載セキュリティソリューション企業に期待。"
-      },
-      "keywords": [
-        "自動車",
-        "セキュリティ",
-        "AI",
-        "ISO 8800"
-      ],
-      "companies_mentioned": [
-        "Waymo"
-      ]
-    },
-    {
-      "name": "日本企業によるパワー半導体再編",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "automotive",
-        "industrial",
-        "idm"
-      ],
-      "summary": "ローム、東芝、三菱電機などがパワー半導体事業の統合を協議しており、グローバル競争力強化を目指す動きが活発化している。",
-      "analysis": {
-        "short_term": "統合交渉の行方が市場の注目を集める。",
-        "mid_term": "再編によるシナジー効果と競争力向上に期待。",
-        "investment_implications": "再編対象企業および関連サプライヤーの動向を注視。"
-      },
-      "keywords": [
-        "パワー半導体",
-        "再編",
-        "日本企業",
-        "統合"
-      ],
-      "companies_mentioned": [
         "ローム",
         "東芝",
-        "三菱電機",
         "デンソー"
       ]
     },
     {
-      "name": "3D-IC設計の複雑性管理",
+      "name": "AI・データセンター向け高速化・高集積化",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "logic",
+        "frontend",
+        "backend",
+        "ai"
+      ],
+      "summary": "AI需要増により、データセンターの相互接続は光ファイバー化が進展。チップレット、3D-IC設計の自動化・高度化も重要性を増す。",
+      "analysis": {
+        "short_term": "光インターコネクト、CPO関連技術に注目。",
+        "mid_term": "3D-IC設計・製造技術の進展が性能向上を牽引。",
+        "investment_implications": "データセンターインフラ関連企業に妙味。"
+      },
+      "keywords": [
+        "AI",
+        "データセンター",
+        "光ファイバー",
+        "チップレット",
+        "3D-IC"
+      ],
+      "companies_mentioned": [
+        "InP",
+        "SiPho",
+        "CPO",
+        "OCS"
+      ]
+    },
+    {
+      "name": "半導体サプライチェーンの再編と国内連携強化",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "idm",
+        "geopolitics",
+        "frontend",
+        "backend"
+      ],
+      "summary": "世界的な競争激化の中、国内では大手企業間の事業統合や産総研による連携コンソーシアム設立が進む。",
+      "analysis": {
+        "short_term": "国内コンソーシアムの動向を注視。",
+        "mid_term": "事業統合によるシナジー効果の発現に期待。",
+        "investment_implications": "国策的な支援を受ける企業に注目。"
+      },
+      "keywords": [
+        "事業統合",
+        "コンソーシアム",
+        "国内連携",
+        "ファウンドリー"
+      ],
+      "companies_mentioned": [
+        "三菱電機",
+        "ローム",
+        "東芝",
+        "産総研",
+        "Intel"
+      ]
+    },
+    {
+      "name": "半導体セキュリティの重要性増大",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "backend",
-        "miniaturization",
-        "datacenter"
+        "automotive",
+        "ai",
+        "geopolitics"
       ],
-      "summary": "3D-IC設計における電力、熱、信頼性などの複雑な課題を解決するため、自動化ツールの活用が不可欠となっている。",
+      "summary": "SoC、チップレットシステム、AI駆動システムにおいて、LLMを用いた自動検証やISO認証取得など、セキュリティ対策が不可欠に。",
       "analysis": {
-        "short_term": "設計自動化ツールの導入が進む。",
-        "mid_term": "チップレット連携による高性能化・省スペース化が進展。",
-        "investment_implications": "3D-IC設計・EDAツール関連企業に注目。"
+        "short_term": "セキュリティIP・ソリューションプロバイダーに注目。",
+        "mid_term": "設計段階からのセキュリティ統合が標準化。",
+        "investment_implications": "高付加価値セキュリティ技術を持つ企業が有利。"
       },
       "keywords": [
-        "3D-IC",
+        "セキュリティ",
+        "LLM",
         "チップレット",
-        "設計自動化",
-        "高性能"
+        "SoC",
+        "ISO認証"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "フロリダ大学",
+        "Google",
+        "MACsec IP"
+      ]
+    },
+    {
+      "name": "新素材・新構造半導体の研究開発",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "memory",
+        "frontend",
+        "miniaturization"
+      ],
+      "summary": "有機半導体、ゲルマニウム系MOSFET、抵抗変化メモリなど、既存材料・構造にとらわれない次世代技術の研究が進展。",
+      "analysis": {
+        "short_term": "基礎研究段階の技術動向を注視。",
+        "mid_term": "実用化に向けたブレークスルーに期待。",
+        "investment_implications": "将来的な技術シーズを持つ企業に注目。"
+      },
+      "keywords": [
+        "有機半導体",
+        "ゲルマニウム",
+        "抵抗変化メモリ",
+        "新素材"
+      ],
+      "companies_mentioned": [
+        "京大",
+        "Patentix",
+        "TDK",
+        "日本化学工業"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiCパワー半導体市場の拡大",
-      "AI向けメモリ需要の堅調さ",
-      "車載半導体市場の成長",
-      "ファウンドリー2.0市場の拡大"
+      "AI需要による半導体市場全体の成長（記事17）",
+      "データセンター向け光インターコネクトの需要拡大（記事8）",
+      "EV・自動運転向けパワー半導体・センサー需要増（記事1, 3, 16, 24）",
+      "ファウンドリー2.0市場の拡大（記事21）"
     ],
     "bearish": [
-      "DUV露光規制強化による一部地域への影響懸念",
-      "半導体製造装置の投資サイクル",
-      "地政学的リスクによるサプライチェーンの不安定化"
+      "日本市場の9ヶ月連続マイナス成長（記事17）",
+      "NORフラッシュの供給逼迫によるウェーハ・テストリソース圧迫（記事13）"
     ],
     "neutral": [
-      "データセンター向けHDDの容量拡大",
-      "ペロブスカイト太陽電池市場の長期的な成長予測"
+      "DUV露光規制強化の影響（記事10）",
+      "半導体製造の再定義を目指す動き（記事18）"
     ]
   },
-  "source_count": 53
+  "source_count": 43
 }
