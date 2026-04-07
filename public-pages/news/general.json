@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-04-07T06:14:08.957419+09:00",
+  "generated_at": "2026-04-08T06:18:27.750065+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Research Bits: Apr. 6",
-    "summary": "半導体技術の最新動向：抵抗変化メモリ、2Dセレン化ビスマス、薄膜酸化ハフニウム。",
+    "title": "The Specialty Device Surge Part 2: The Process Control Challenges Of MEMS, Co-Packaged Optics, And More",
+    "summary": "MEMSやコパッケージドオプティクス等の特殊デバイスの量産化に伴い、狭いプロセスウィンドウ内での制御が課題となっている。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/research-bits-apr-6"
+        "url": "https://semiengineering.com/the-specialty-device-surge-part-2-the-process-control-challenges-of-mems-co-packaged-optics-and-more"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "Musk氏は「半導体製造の再定義」を目指すのか",
-        "blurb": "イーロン・マスク氏が発表した半導体複合施設「TeraFab」建設プロジェクトは、半導体製造の「再定義」を目指すものか注目されている。",
-        "category": "company",
-        "date": "2026-04-06",
+        "title": "Enhancing Silicon Reliability With In-System Test And SLM Data",
+        "blurb": "インシステムテストとSLMデータでシリコン信頼性を向上。DFT技術とインシリコンモニターの普及で、潜在的な故障を事前に検出。",
+        "category": "tools",
+        "date": "2026-04-07",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/06/news052.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/enhancing-silicon-reliability-with-in-system-test-and-slm-data"
         },
         "field": {
           "primary": "general",
@@ -35,14 +36,14 @@
         }
       },
       {
-        "title": "高い性能を維持し光にも強い有機半導体材料を開発",
-        "blurb": "京大らは、高性能で光にも強い有機半導体材料「縮環ルブレン（FR）」を開発。分子の曲がり方で性質が変わることも判明。",
-        "category": "company",
-        "date": "2026-04-06",
+        "title": "Mid-infrared Ellipsometry For Optical Critical Dimension Metrology",
+        "blurb": "中赤外線エリプソメトリは、半導体微細構造の寸法計測に革新をもたらす。",
+        "category": "tools",
+        "date": "2026-04-07",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/06/news029.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/mid-infrared-ellipsometry-for-optical-critical-dimension-metrology"
         },
         "field": {
           "primary": "general",
@@ -53,17 +54,16 @@
         }
       }
     ],
-    "tech": [],
     "market": [
       {
-        "title": "Research Bits: Apr. 6",
-        "blurb": "半導体技術の最新動向：抵抗変化メモリ、2Dセレン化ビスマス、薄膜酸化ハフニウム。",
+        "title": "The Specialty Device Surge Part 2: The Process Control Challenges Of MEMS, Co-Packaged Optics, And More",
+        "blurb": "MEMSやコパッケージドオプティクス等の特殊デバイスの量産化に伴い、狭いプロセスウィンドウ内での制御が課題となっている。",
         "category": "business",
-        "date": "2026-04-06",
+        "date": "2026-04-07",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-apr-6"
+          "url": "https://semiengineering.com/the-specialty-device-surge-part-2-the-process-control-challenges-of-mems-co-packaged-optics-and-more"
         },
         "field": {
           "primary": "general",
@@ -74,14 +74,68 @@
         }
       },
       {
-        "title": "世界半導体市場は26年2月に大幅成長、日本のみ9カ月連続マイナスに",
-        "blurb": "2026年2月の世界半導体市場は前年同月比61.8%増と大幅成長。日本市場は9カ月連続のマイナス成長となった。",
+        "title": "Breaking The Legacy Trap: How Semiconductor Executives Can Accelerate AI Adoption And Transform IT Applications At The Same Time",
+        "blurb": "半導体企業の経営者は、AI導入を加速しITアプリケーションを変革するため、レガシートラップを打破する必要がある。データ統合が鍵。",
         "category": "business",
-        "date": "2026-04-06",
+        "date": "2026-04-07",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/06/news047.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/breaking-the-legacy-trap-how-semiconductor-executives-can-accelerate-ai-adoption-and-transform-it-applications-at-the-same-time"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "What’s Failing At The Interface",
+        "blurb": "先端パッケージでは、インターフェースで問題が発生するが、その原因は他にあることが多い。",
+        "category": "business",
+        "date": "2026-04-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/whats-failing-at-the-interface"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI Accelerators Usher In New Era For IC Test",
+        "blurb": "AIアクセラレータの普及により、ICテストに新たな課題と時代が到来。テストインターフェースの増加や複雑化が要因。",
+        "category": "business",
+        "date": "2026-04-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-accelerators-usher-in-new-era-of-semiconductor-test"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Untrusted Analog Components Add Risks For Critical Infrastructure",
+        "blurb": "信頼できないアナログ部品は、重要インフラにリスクをもたらす。証明書ベースの改ざん防止システムが対策となるが、投資と連携が必要。",
+        "category": "business",
+        "date": "2026-04-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/untrusted-analog-components-add-risks-for-critical-infrastructure"
         },
         "field": {
           "primary": "general",
