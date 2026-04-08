@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-04-08T06:18:27.750065+09:00",
+  "generated_at": "2026-04-09T06:18:34.405326+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Specialty Device Surge Part 2: The Process Control Challenges Of MEMS, Co-Packaged Optics, And More",
-    "summary": "MEMSやコパッケージドオプティクス等の特殊デバイスの量産化に伴い、狭いプロセスウィンドウ内での制御が課題となっている。",
+    "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
+    "summary": "EDAとIPの数字は再び上昇したが、セグメントごとに強弱が見られた。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/the-specialty-device-surge-part-2-the-process-control-challenges-of-mems-co-packaged-optics-and-more"
+        "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Enhancing Silicon Reliability With In-System Test And SLM Data",
-        "blurb": "インシステムテストとSLMデータでシリコン信頼性を向上。DFT技術とインシリコンモニターの普及で、潜在的な故障を事前に検出。",
-        "category": "tools",
-        "date": "2026-04-07",
+        "title": "Intelがイーロン・マスク氏の「Terafab」プロジェクトに参画",
+        "blurb": "Intelがイーロン・マスク氏のテキサス州「TeraFab」プロジェクトに参画。半導体複合施設の建設を進める。",
+        "category": "company",
+        "date": "2026-04-08",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enhancing-silicon-reliability-with-in-system-test-and-slm-data"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/08/news058.html"
         },
         "field": {
           "primary": "general",
@@ -36,14 +35,34 @@
         }
       },
       {
-        "title": "Mid-infrared Ellipsometry For Optical Critical Dimension Metrology",
-        "blurb": "中赤外線エリプソメトリは、半導体微細構造の寸法計測に革新をもたらす。",
+        "title": "半導体生産ライン向け装置の新工場棟が竣工、ダイフク",
+        "blurb": "ダイフクは滋賀事業所に新工場棟を竣工。半導体生産ライン向け装置の国内生産能力が1.3倍に拡大する。",
+        "category": "company",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/08/news033.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Engineer’s Guide to Simulating Electronics Cooling: eBook",
+        "blurb": "電子機器の冷却問題を早期に予測・解決するための熱シミュレーション活用ガイドのeBookが公開されました。",
         "category": "tools",
-        "date": "2026-04-07",
+        "date": "2026-04-08",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/mid-infrared-ellipsometry-for-optical-critical-dimension-metrology"
+          "url": "https://semiengineering.com/engineers-guide-to-simulating-electronics-cooling"
         },
         "field": {
           "primary": "general",
@@ -56,14 +75,14 @@
     ],
     "market": [
       {
-        "title": "The Specialty Device Surge Part 2: The Process Control Challenges Of MEMS, Co-Packaged Optics, And More",
-        "blurb": "MEMSやコパッケージドオプティクス等の特殊デバイスの量産化に伴い、狭いプロセスウィンドウ内での制御が課題となっている。",
+        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
+        "blurb": "EDAとIPの数字は再び上昇したが、セグメントごとに強弱が見られた。",
         "category": "business",
-        "date": "2026-04-07",
+        "date": "2026-04-08",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-specialty-device-surge-part-2-the-process-control-challenges-of-mems-co-packaged-optics-and-more"
+          "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced"
         },
         "field": {
           "primary": "general",
@@ -74,68 +93,14 @@
         }
       },
       {
-        "title": "Breaking The Legacy Trap: How Semiconductor Executives Can Accelerate AI Adoption And Transform IT Applications At The Same Time",
-        "blurb": "半導体企業の経営者は、AI導入を加速しITアプリケーションを変革するため、レガシートラップを打破する必要がある。データ統合が鍵。",
+        "title": "Blog Review: Apr. 8",
+        "blurb": "LPDDR6、ISO 26262向けマルチフィジックス、推論スタックテレメトリ、フレームレートアップスケーリングについて解説。",
         "category": "business",
-        "date": "2026-04-07",
+        "date": "2026-04-08",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/breaking-the-legacy-trap-how-semiconductor-executives-can-accelerate-ai-adoption-and-transform-it-applications-at-the-same-time"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "What’s Failing At The Interface",
-        "blurb": "先端パッケージでは、インターフェースで問題が発生するが、その原因は他にあることが多い。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/whats-failing-at-the-interface"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI Accelerators Usher In New Era For IC Test",
-        "blurb": "AIアクセラレータの普及により、ICテストに新たな課題と時代が到来。テストインターフェースの増加や複雑化が要因。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-accelerators-usher-in-new-era-of-semiconductor-test"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Untrusted Analog Components Add Risks For Critical Infrastructure",
-        "blurb": "信頼できないアナログ部品は、重要インフラにリスクをもたらす。証明書ベースの改ざん防止システムが対策となるが、投資と連携が必要。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/untrusted-analog-components-add-risks-for-critical-infrastructure"
+          "url": "https://semiengineering.com/blog-review-apr-8"
         },
         "field": {
           "primary": "general",

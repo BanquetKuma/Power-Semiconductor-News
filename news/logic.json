@@ -1,59 +1,97 @@
 {
-  "generated_at": "2026-04-08T06:18:27.747707+09:00",
+  "generated_at": "2026-04-09T06:18:34.403926+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "300mVでエッジAIが動く、12nm FinFET採用SoC　Ambiq",
-    "summary": "Ambiqは、12nm FinFETプロセス採用の次世代SoCを開発。300mVでAI推論が可能で、2027年生産開始予定。",
+    "title": "Transistor-sized sensors tackle thermal management from GPUs to batteries",
+    "summary": "Digi-Coreが、トランジスタサイズの超小型センサーを開発。GPUの負荷分散やバッテリーの熱管理改善に貢献。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/07/news054.html"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/transistor-sized-sensors-tackle-thermal-management-from-gpus-to-batteries"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "300mVでエッジAIが動く、12nm FinFET採用SoC　Ambiq",
-        "blurb": "Ambiqは、12nm FinFETプロセス採用の次世代SoCを開発。300mVでAI推論が可能で、2027年生産開始予定。",
+        "title": "Abaco Systems Launches VP892 FPGA Processing Engine",
+        "blurb": "Abaco Systemsが、AMD製FPGA搭載の堅牢な3U VPX FPGA処理エンジン「VP892」を発表。防衛・通信・産業分野でのリアルタイム処理性能向上を目指す。",
         "category": "company",
-        "date": "2026-04-07",
+        "date": "2026-04-09",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/07/news054.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/abaco-systems-launches-vp892-fpga-processing-engine"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
-          "industry": null
+          "market": "industrial",
+          "industry": "fabless"
         }
       },
       {
-        "title": "Grinn ReneSOM-V2H System-on-Module Supports Renesas RZ/V2H Vision AI SoC",
-        "blurb": "Grinn社がRenesas RZ/V2H搭載のAI開発用SoMを発表。エッジAI、組み込みビジョン、ロボティクス向け。",
+        "title": "STMicroelectronics’ New Ultra-Wideband SoC Family Enhances Range and Power",
+        "blurb": "STマイクロエレクトロニクスが新UWB SoCを発表。次世代技術で自動車、家電、産業用途の範囲と電力を向上。",
         "category": "company",
-        "date": "2026-04-07",
+        "date": "2026-04-09",
         "stars": 3,
         "source": {
           "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/grinn-renesom-v2h-system-on-module-supports-renesas-rz-v2h-vision-ai-soc"
+          "url": "https://www.electronics-lab.com/stmicroelectronics-new-ultra-wideband-soc-family-enhances-range-and-power"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
+          "market": "industrial",
           "industry": null
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "Transistor-sized sensors tackle thermal management from GPUs to batteries",
+        "blurb": "Digi-Coreが、トランジスタサイズの超小型センサーを開発。GPUの負荷分散やバッテリーの熱管理改善に貢献。",
+        "category": "tools",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/transistor-sized-sensors-tackle-thermal-management-from-gpus-to-batteries"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Inside the AI Accelerator: Essential IP Design Solutions: eBook",
+        "blurb": "次世代AIアクセラレータは、高度IP、高速インターコネクト、メモリインターフェース、マルチダイアーキテクチャで単一チップの限界を超える。",
+        "category": "business",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/inside-the-ai-accelerator-essential-ip-design-solutions-ebook"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

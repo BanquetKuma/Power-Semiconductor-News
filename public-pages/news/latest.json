@@ -1,434 +1,46 @@
 {
-  "generated_at": "2026-04-08T06:18:27.745664+09:00",
+  "generated_at": "2026-04-09T06:18:34.402165+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Monolithic Bidirectional GaN Switch-Based Buck-Boost Converter",
-    "summary": "窒化ガリウム（GaN）を用いた双方向バックブーストコンバータは、中間バス電圧で入出力電圧を昇降圧可能。",
+    "title": "APEC 2026: AmberSemi’s Direct 48V-to-Load Architecture With CEO Thar Casey",
+    "summary": "APEC 2026で、AmberSemiのCEO Thar Casey氏が垂直電力供給と48V-to-Loadアーキテクチャについて語る。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/monolithic-bidirectional-gan-switch-based-buck-boost-converter"
+        "url": "https://www.powerelectronicsnews.com/apec-2026-ambersemis-direct-48v-to-load-architecture-with-ceo-thar-casey"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Monolithic Bidirectional GaN Switch-Based Buck-Boost Converter",
-        "blurb": "窒化ガリウム（GaN）を用いた双方向バックブーストコンバータは、中間バス電圧で入出力電圧を昇降圧可能。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/monolithic-bidirectional-gan-switch-based-buck-boost-converter"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The Specialty Device Surge Part 2: The Process Control Challenges Of MEMS, Co-Packaged Optics, And More",
-        "blurb": "MEMSやコパッケージドオプティクス等の特殊デバイスの量産化に伴い、狭いプロセスウィンドウ内での制御が課題となっている。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-specialty-device-surge-part-2-the-process-control-challenges-of-mems-co-packaged-optics-and-more"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Breaking The Legacy Trap: How Semiconductor Executives Can Accelerate AI Adoption And Transform IT Applications At The Same Time",
-        "blurb": "半導体企業の経営者は、AI導入を加速しITアプリケーションを変革するため、レガシートラップを打破する必要がある。データ統合が鍵。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/breaking-the-legacy-trap-how-semiconductor-executives-can-accelerate-ai-adoption-and-transform-it-applications-at-the-same-time"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI data Center Providers Seek Power and Bandwidth Promise in CPO",
-        "blurb": "AIデータセンター事業者、CPOに電力と帯域幅の供給を要求。スケーリングへの道筋を確保するためのテスト戦略が重要。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ontopic-ai-data-center-providers-seek-power-and-bandwidth-promise-in-cpo"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "What’s Failing At The Interface",
-        "blurb": "先端パッケージでは、インターフェースで問題が発生するが、その原因は他にあることが多い。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/whats-failing-at-the-interface"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI Accelerators Usher In New Era For IC Test",
-        "blurb": "AIアクセラレータの普及により、ICテストに新たな課題と時代が到来。テストインターフェースの増加や複雑化が要因。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-accelerators-usher-in-new-era-of-semiconductor-test"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Untrusted Analog Components Add Risks For Critical Infrastructure",
-        "blurb": "信頼できないアナログ部品は、重要インフラにリスクをもたらす。証明書ベースの改ざん防止システムが対策となるが、投資と連携が必要。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/untrusted-analog-components-add-risks-for-critical-infrastructure"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Platform-Led AI Analytics for the Semiconductor Ecosystem",
-        "blurb": "半導体サプライチェーン全体でAI分析を大規模に展開。パイロット段階を超え、設計・製造でのAI活用を推進。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/platform-led-ai-analytics-for-the-semiconductor-ecosystem"
-        },
-        "field": {
-          "primary": "geopolitics",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "geopolitics"
-        }
-      },
-      {
-        "title": "Harnessing Digital Twins And AI/ML For Smarter Semiconductor Test Optimization",
-        "blurb": "半導体テストの最適化にデジタルツインとAI/MLを活用。クラウド仮想化、リアルタイム同期、AI/ML展開でテストを近代化。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/harnessing-digital-twins-and-ai-ml-for-smarter-semiconductor-test-optimization"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "GeO2パワー半導体開発加速、Patentixが1.5億円資金調達",
-        "blurb": "立命館大発Patentixが1.5億円調達。二酸化ゲルマニウム(GeO2)パワーデバイス開発加速へ。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/07/news035.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Crank Windows And No Radio: Why American Cheap EVs May Be Far More Spartan Than Chinese Ones",
-        "blurb": "米国メーカーはEVの低価格化のため、パワーウィンドウやラジオなどの装備削減を検討。中国製EVとの差別化が課題。",
-        "category": "business",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792172/dodge-slate-cheaper-american-evs"
-        },
-        "field": null
-      },
-      {
-        "title": "This New Electric Car Nearly Fills Its Battery In Under 9 Minutes",
-        "blurb": "新型EV「Lynk & Co 10+」は、高出力充電器を使えば5分強で10%から80%まで充電可能。",
+        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
+        "blurb": "EDAとIPの数字は再び上昇したが、セグメントごとに強弱が見られた。",
         "category": "business",
         "date": "2026-04-08",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792274/lynk-co-10-charging-test"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "Tesla’s Huge Sales Spike In Korea Shows What EV Buyers Still Want",
-        "blurb": "テスラ、韓国で330%増の販売台数を記録。大幅な値下げが購入意欲を刺激し、EV購入者は価格を重視することが浮き彫りになった。",
+        "title": "State Of The Market For Edge Silicon",
+        "blurb": "エッジAI向け半導体の市場動向。AIチップの性能差を生む要因を探る。",
         "category": "business",
         "date": "2026-04-08",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792241/tesla-korea-sales-spike-march"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Enhancing Silicon Reliability With In-System Test And SLM Data",
-        "blurb": "インシステムテストとSLMデータでシリコン信頼性を向上。DFT技術とインシリコンモニターの普及で、潜在的な故障を事前に検出。",
-        "category": "tools",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enhancing-silicon-reliability-with-in-system-test-and-slm-data"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Mid-infrared Ellipsometry For Optical Critical Dimension Metrology",
-        "blurb": "中赤外線エリプソメトリは、半導体微細構造の寸法計測に革新をもたらす。",
-        "category": "tools",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/mid-infrared-ellipsometry-for-optical-critical-dimension-metrology"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Metasurface enables supersensitive, superfast thermal-based photodetector",
-        "blurb": "メタサーフェス技術により、超高感度・超高速な熱ベースのフォトディテクターが実現しました。",
-        "category": "tools",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/metasurface-enables-supersensitive-superfast-thermal-based-photodetector"
-        },
-        "field": null
-      },
-      {
-        "title": "A convenient desktop-accessible calculator of E-series component values",
-        "blurb": "デスクトップで使える計算アプリ。入力値から最も近い標準Eシリーズ部品値を見つけます。",
-        "category": "tools",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-convenient-desktop-accessible-calculator-of-e-series-component-values"
-        },
-        "field": null
-      },
-      {
-        "title": "NTX Embedded Launches Octolux Rapid Development System",
-        "blurb": "NTX Embeddedが、産業用制御・HMIシステム開発を加速する「Octolux RDS」を発表。約12週間でコンセプトから実証システムまでを構築可能。",
-        "category": "tools",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/ntx-embedded-launches-octolux-rapid-development-system"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ],
-    "company": [
-      {
-        "title": "Vishay Launches Automotive PV MOSFET Driver",
-        "blurb": "Vishayが、EV・産業用電源向けに高速スイッチング・絶縁強化・高電圧設計簡略化を実現する車載用PV MOSFETドライバーを発表。",
-        "category": "company",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "AIで「会社の先人と議論」　リコーのビジネス文書向けLMM",
-        "blurb": "リコーは、日本のビジネス文書読解に特化した大規模マルチモーダルモデル（LMM）を開発。企業向けAIプラットフォーム「Hi.DEEN」で提供予定。",
-        "category": "company",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/07/news097.html"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "300mVでエッジAIが動く、12nm FinFET採用SoC　Ambiq",
-        "blurb": "Ambiqは、12nm FinFETプロセス採用の次世代SoCを開発。300mVでAI推論が可能で、2027年生産開始予定。",
-        "category": "company",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/07/news054.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "ヒューマノイドはどこまで現実になっているのか",
-        "blurb": "CES 2026で多数のヒューマノイドロボットが展示。筆者が注目した機種を紹介し、その現実性を探る。",
-        "category": "company",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/06/news026.html"
-        },
-        "field": null
-      },
-      {
-        "title": "半導体工場でのAI活用をグローバル展開　GFが示す道筋",
-        "blurb": "GFは半導体工場でのAI活用をグローバル展開する道筋を示す。現場実装とグローバル展開の鍵は何か、バイスプレジデントに聞いた。",
-        "category": "company",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/07/news046.html"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "身近な材料と汎用プロセスで赤外センサー開発、茨城大",
-        "blurb": "茨城大学が安価な材料と汎用プロセスで近赤外センサーを開発。自動運転や非破壊検査への応用が期待される。",
-        "category": "company",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/07/news034.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": "equipment",
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Embedded World 2026: Cincoze Machine Vision Controller (MD-3000) Enabling Edge AI Applications",
-        "blurb": "Embedded World 2026で、Cincozeは産業用AI向けマシンビジョンコントローラーMD-3000を発表。エッジAIの実用化を推進。",
-        "category": "company",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/embedded-world-2026-cincoze-machine-vision-controller-md-3000-enabling-edge-ai-applications"
+          "url": "https://semiengineering.com/state-of-the-market-for-edge-silicon"
         },
         "field": {
           "primary": "ai",
@@ -439,94 +51,332 @@
         }
       },
       {
-        "title": "Grinn ReneSOM-V2H System-on-Module Supports Renesas RZ/V2H Vision AI SoC",
-        "blurb": "Grinn社がRenesas RZ/V2H搭載のAI開発用SoMを発表。エッジAI、組み込みビジョン、ロボティクス向け。",
-        "category": "company",
-        "date": "2026-04-07",
+        "title": "AI At The Edge Ubiquitous, Agentic, Multimodal, and Hardware-Accelerated",
+        "blurb": "エッジAIは、レイテンシ、帯域幅コスト、プライバシー懸念などから注目されている。ハードウェア加速も進む。",
+        "category": "business",
+        "date": "2026-04-08",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/grinn-renesom-v2h-system-on-module-supports-renesas-rz-v2h-vision-ai-soc"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-at-the-edge-ubiquitous-agentic-multimodal-and-hardware-accelerated"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "ai",
+          "device": null,
           "process": null,
           "market": "ai",
           "industry": null
         }
       },
       {
-        "title": "The Last Tesla Model S And Model X EVs Just Got $15,000 More Expensive",
-        "blurb": "テスラ、在庫のモデルSとモデルXの価格を1万5000ドル引き上げ。生産終了に伴う最終在庫の価格改定。",
-        "category": "company",
-        "date": "2026-04-07",
+        "title": "Inside the AI Accelerator: Essential IP Design Solutions: eBook",
+        "blurb": "次世代AIアクセラレータは、高度IP、高速インターコネクト、メモリインターフェース、マルチダイアーキテクチャで単一チップの限界を超える。",
+        "category": "business",
+        "date": "2026-04-08",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792256/last-tesla-model-s-model-x-inventory-price-hike"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/inside-the-ai-accelerator-essential-ip-design-solutions-ebook"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Blog Review: Apr. 8",
+        "blurb": "LPDDR6、ISO 26262向けマルチフィジックス、推論スタックテレメトリ、フレームレートアップスケーリングについて解説。",
+        "category": "business",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-apr-8"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AIと地政学リスクが招く深刻なメモリ危機",
+        "blurb": "AI需要と地政学リスクがメモリ不足を深刻化。サプライチェーンへの影響も懸念される。",
+        "category": "business",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/08/news095.html"
+        },
+        "field": {
+          "primary": "geopolitics",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "geopolitics"
+        }
+      },
+      {
+        "title": "EVに吹く逆風　デンソーの焦りとロームが求める勝機とは",
+        "blurb": "EV市場の減速を受け、デンソーのローム買収提案や業界再編の動きが活発化。パワー半導体の新たな成長戦略が模索されている。",
+        "category": "business",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/08/news015.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Peak Nano, Advanced Conversion Partner on SiC DC-Link Tech",
+        "blurb": "Peak NanoとAdvanced Conversionは、次世代SiC DCリンクコンデンサ開発で提携。EV等向け。",
+        "category": "business",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/peak-nano-advanced-conversion-partner-on-sic-dc-link-tech"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "APEC 2026: AmberSemi’s Direct 48V-to-Load Architecture With CEO Thar Casey",
+        "blurb": "APEC 2026で、AmberSemiのCEO Thar Casey氏が垂直電力供給と48V-to-Loadアーキテクチャについて語る。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/apec-2026-ambersemis-direct-48v-to-load-architecture-with-ceo-thar-casey"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "Transistor-sized sensors tackle thermal management from GPUs to batteries",
+        "blurb": "Digi-Coreが、トランジスタサイズの超小型センサーを開発。GPUの負荷分散やバッテリーの熱管理改善に貢献。",
+        "category": "tools",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/transistor-sized-sensors-tackle-thermal-management-from-gpus-to-batteries"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Engineer’s Guide to Simulating Electronics Cooling: eBook",
+        "blurb": "電子機器の冷却問題を早期に予測・解決するための熱シミュレーション活用ガイドのeBookが公開されました。",
+        "category": "tools",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/engineers-guide-to-simulating-electronics-cooling"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Top 10 DC/DC converters and modules",
+        "blurb": "産業、鉄道、衛星、通信、IT機器向けDC/DCコンバーター・モジュール10選。",
+        "category": "tools",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/top-10-dc-dc-converters-and-modules"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Antilog PWM and 2-way current mirror make buffered triangle and square waves",
+        "blurb": "アンチラグPWMと2ウェイ電流ミラーで、バッファ付き三角波と矩形波を生成する回路が開発されました。",
+        "category": "tools",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/antilog-pwm-and-2-way-current-mirror-make-buffered-triangle-and-square-waves"
         },
         "field": null
       },
       {
-        "title": "The Rivian R2’s EPA Numbers Are In, And It Beats The Model Y Where It Counts",
-        "blurb": "リビアンR2、EPA航続距離は推定超え、テスラModel Yより効率的。",
-        "category": "company",
-        "date": "2026-04-07",
+        "title": "IMUs demystified: The hidden sense of machines",
+        "blurb": "IMUは加速度と角速度を検知し、機械に「感覚」を与える技術。機械の認識能力向上に貢献。",
+        "category": "tools",
+        "date": "2026-04-08",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792230/rivian-r2-epa-range-efficiency"
+          "name": "edn.com",
+          "url": "https://www.edn.com/imus-demystified-the-hidden-sense-of-machines"
         },
         "field": null
-      },
+      }
+    ],
+    "company": [
       {
-        "title": "Tesla's 'ASS' Is Safe As Feds End Probe Into Remote Control Feature",
-        "blurb": "テスラの「ASS」機能に関するNHTSAの調査が終了。約260万台のEVが対象だったが、安全上の問題はないと判断された。",
-        "category": "company",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792206/tesla-ass-nhtsa-probe-closed"
-        },
-        "field": null
-      },
-      {
-        "title": "How The Kia EV3 Delivers 320 Miles Of Range Without Looking Like A Bar Of Soap",
-        "blurb": "キアEV3は、箱型SUVでありながら航続距離320マイルを実現。デザイン性と実用性を両立させた新型EV。",
-        "category": "company",
-        "date": "2026-04-07",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792182/2027-kia-ev3-impressive-range-aerodynamics"
-        },
-        "field": null
-      },
-      {
-        "title": "The Next BMW i7 Will Get Its Batteries From An Unexpected Source",
-        "blurb": "BMWは次期i7に、意外な供給元であるリマックのバッテリー技術を採用する。",
+        "title": "Renesas Rad-Hard ICs Power Artemis II Mission",
+        "blurb": "ルネサス製耐放射線性ICが月周回有人宇宙ミッション「アルテミスII」の電源・信号・制御システムを支える。",
         "category": "company",
         "date": "2026-04-08",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792296/bmw-i7-neue-klasse-rimac-batteries"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/renesas-rad-hard-ics-power-artemis-ii-mission"
         },
         "field": null
       },
       {
-        "title": "The 2026 Subaru Trailseeker Falls Short In Range Test",
-        "blurb": "2026年型スバル・トレイルシーカーは航続距離テストで期待を下回ったが、他の性能は優れている。",
+        "title": "電圧駆動型MRAMの大容量化を可能にする新技術",
+        "blurb": "産総研は、電圧駆動型MRAMの大容量化を可能にする新磁気情報書き込み技術「電圧誘起スタティック磁化反転法」を開発。安定した書き込みを実現。",
         "category": "company",
         "date": "2026-04-08",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/792272/2026-subaru-trailseeker-range-test"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/08/news036.html"
         },
         "field": null
+      },
+      {
+        "title": "Intelがイーロン・マスク氏の「Terafab」プロジェクトに参画",
+        "blurb": "Intelがイーロン・マスク氏のテキサス州「TeraFab」プロジェクトに参画。半導体複合施設の建設を進める。",
+        "category": "company",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/08/news058.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "半導体生産ライン向け装置の新工場棟が竣工、ダイフク",
+        "blurb": "ダイフクは滋賀事業所に新工場棟を竣工。半導体生産ライン向け装置の国内生産能力が1.3倍に拡大する。",
+        "category": "company",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/08/news033.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Beyond Static Analysis: Proving Automotive Cybersecurity and Functional Safety",
+        "blurb": "自動車サイバーセキュリティと機能安全の証明には、検出・緩和から予防へのシフトが必要。",
+        "category": "company",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/beyond-static-analysis-proving-automotive-cybersecurity-and-functional-safety"
+        },
+        "field": null
+      },
+      {
+        "title": "LILYGO T-Halow P4 and T5 E-Paper S3 Pro Lite ESP32 Development Board Target IoT and Portable Display Applications",
+        "blurb": "LILYGOがIoTとポータブル表示向けに、長距離Wi-Fiと低消費電力e-paperディスプレイ搭載のESP32開発ボード2種を発表。",
+        "category": "company",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/lilygo-t-halow-p4-and-t5-e-paper-s3-pro-lite-esp32-development-board-target-iot-and-portable-display-applications"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Abaco Systems Launches VP892 FPGA Processing Engine",
+        "blurb": "Abaco Systemsが、AMD製FPGA搭載の堅牢な3U VPX FPGA処理エンジン「VP892」を発表。防衛・通信・産業分野でのリアルタイム処理性能向上を目指す。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/abaco-systems-launches-vp892-fpga-processing-engine"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "STMicroelectronics’ New Ultra-Wideband SoC Family Enhances Range and Power",
+        "blurb": "STマイクロエレクトロニクスが新UWB SoCを発表。次世代技術で自動車、家電、産業用途の範囲と電力を向上。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/stmicroelectronics-new-ultra-wideband-soc-family-enhances-range-and-power"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
       }
     ],
     "sns": []

@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-04-08T06:18:27.748230+09:00",
+  "generated_at": "2026-04-09T06:18:34.404285+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Embedded World 2026: Cincoze Machine Vision Controller (MD-3000) Enabling Edge AI Applications",
-    "summary": "Embedded World 2026で、Cincozeは産業用AI向けマシンビジョンコントローラーMD-3000を発表。エッジAIの実用化を推進。",
+    "title": "State Of The Market For Edge Silicon",
+    "summary": "エッジAI向け半導体の市場動向。AIチップの性能差を生む要因を探る。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/embedded-world-2026-cincoze-machine-vision-controller-md-3000-enabling-edge-ai-applications"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/state-of-the-market-for-edge-silicon"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Embedded World 2026: Cincoze Machine Vision Controller (MD-3000) Enabling Edge AI Applications",
-        "blurb": "Embedded World 2026で、Cincozeは産業用AI向けマシンビジョンコントローラーMD-3000を発表。エッジAIの実用化を推進。",
-        "category": "company",
-        "date": "2026-04-07",
+        "title": "State Of The Market For Edge Silicon",
+        "blurb": "エッジAI向け半導体の市場動向。AIチップの性能差を生む要因を探る。",
+        "category": "business",
+        "date": "2026-04-08",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/embedded-world-2026-cincoze-machine-vision-controller-md-3000-enabling-edge-ai-applications"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/state-of-the-market-for-edge-silicon"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "AI At The Edge Ubiquitous, Agentic, Multimodal, and Hardware-Accelerated",
+        "blurb": "エッジAIは、レイテンシ、帯域幅コスト、プライバシー懸念などから注目されている。ハードウェア加速も進む。",
+        "category": "business",
+        "date": "2026-04-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-at-the-edge-ubiquitous-agentic-multimodal-and-hardware-accelerated"
         },
         "field": {
           "primary": "ai",
@@ -34,8 +54,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

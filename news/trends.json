@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-08T06:18:31.676174+09:00",
-  "date": "2026-04-08",
+  "generated_at": "2026-04-09T06:18:38.000312+09:00",
+  "date": "2026-04-09",
   "meta_trends": [
     {
-      "name": "パワー半導体の進化と新材料",
+      "name": "GaN・SiCパワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,18 +12,18 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "GaNやSiC、GeO2といった新材料を用いたパワー半導体の開発が加速。EV、データセンター、産業機器の効率向上に貢献。",
+      "summary": "GaN・SiC技術がEV、データセンター、ロボット等で採用拡大。高効率・高耐圧化が進み、性能向上とコスト削減に貢献。",
       "analysis": {
-        "short_term": "GaN/SiCデバイスの採用拡大続く。",
-        "mid_term": "新材料の量産化とコスト競争が進む。",
-        "investment_implications": "関連材料・デバイスメーカーに注目。"
+        "short_term": "EV市場の動向に左右されるが、データセンター需要は堅調。",
+        "mid_term": "次世代パワーデバイスとして地位確立へ、技術革新が続く。",
+        "investment_implications": "関連メーカーへの投資妙味あり、技術力と市場シェアを注視。"
       },
       "keywords": [
         "GaN",
         "SiC",
         "EV",
         "データセンター",
-        "GeO2"
+        "ロボット"
       ],
       "companies_mentioned": [
         "EPC",
@@ -34,141 +34,130 @@
       ]
     },
     {
-      "name": "AIによる半導体設計・製造の変革",
+      "name": "エッジAI向け半導体の需要増",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
+        "automotive",
+        "industrial"
+      ],
+      "summary": "レイテンシ、帯域幅、プライバシー懸念からエッジAIが注目。低消費電力・高性能なAIチップ開発が活発化。",
+      "analysis": {
+        "short_term": "AIチップの性能差が競争優位性に直結。",
+        "mid_term": "ハードウェア加速技術の進化が市場拡大を牽引。",
+        "investment_implications": "エッジAI向けSoC・IP開発企業に注目が集まる。"
+      },
+      "keywords": [
+        "エッジAI",
+        "AIチップ",
+        "SoC",
+        "低消費電力"
+      ],
+      "companies_mentioned": [
+        "Ambiq"
+      ]
+    },
+    {
+      "name": "AIによる半導体製造・設計の高度化",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
         "foundry",
         "frontend",
         "backend",
-        "datacenter"
+        "logic",
+        "equipment",
+        "ai"
       ],
-      "summary": "AIアクセラレータの普及とAI/ML技術の活用により、半導体の設計、テスト、製造プロセス全体が効率化・高度化。",
+      "summary": "AIがEDA、IP設計、製造プロセス制御、熱管理シミュレーション等に活用。生産性向上と信頼性強化に貢献。",
       "analysis": {
-        "short_term": "AIテストソリューションの需要増。",
-        "mid_term": "設計・製造工程でのAI活用が本格化。",
-        "investment_implications": "AI関連IP、EDA、テストソリューションに投資妙味。"
+        "short_term": "AI活用による効率化が競争力向上に不可欠。",
+        "mid_term": "半導体製造複合施設（TeraFab）等、新たな製造形態も登場。",
+        "investment_implications": "AI活用技術を持つファウンドリ・EDA・装置メーカーに期待。"
       },
       "keywords": [
         "AI",
-        "ICテスト",
-        "デジタルツイン",
-        "MLCC",
-        "ファウンドリー"
+        "EDA",
+        "IP設計",
+        "製造プロセス",
+        "熱管理"
       ],
       "companies_mentioned": [
+        "Intel",
         "GF",
-        "リコー",
-        "Ambiq",
-        "産総研",
-        "TDK"
+        "ダイフク",
+        "リコー"
       ]
     },
     {
-      "name": "先端パッケージングとインターフェース技術",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "datacenter",
-        "logic",
-        "ai",
-        "miniaturization"
-      ],
-      "summary": "AIデータセンターや高性能デバイス向けに、CPO（Co-Packaged Optics）などの先端パッケージング技術が重要視されている。",
-      "analysis": {
-        "short_term": "CPO関連の技術開発と標準化が進む。",
-        "mid_term": "インターフェースの信頼性・性能向上が課題。",
-        "investment_implications": "先端パッケージング関連企業に注目。"
-      },
-      "keywords": [
-        "CPO",
-        "先端パッケージ",
-        "インターフェース",
-        "データセンター",
-        "AIアクセラレータ"
-      ],
-      "companies_mentioned": [
-        "三菱電機",
-        "ローム",
-        "東芝"
-      ]
-    },
-    {
-      "name": "日本企業の事業再編と競争力強化",
+      "name": "特殊デバイス・新材料開発の進展",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "logic",
-        "automotive",
-        "geopolitics",
-        "foundry"
-      ],
-      "summary": "三菱電機、ローム、東芝などのパワーデバイス事業統合交渉や、産総研による新世代半導体開発連携など、競争力強化に向けた動きが活発化。",
-      "analysis": {
-        "short_term": "事業統合・連携の進展に注目。",
-        "mid_term": "グローバル市場での競争力向上を目指す。",
-        "investment_implications": "再編対象企業や連携コンソーシアムに注目。"
-      },
-      "keywords": [
-        "事業統合",
-        "パワーデバイス",
-        "コンソーシアム",
-        "日本企業",
-        "競争力"
-      ],
-      "companies_mentioned": [
-        "三菱電機",
-        "ローム",
-        "東芝",
-        "産総研",
-        "Patentix"
-      ]
-    },
-    {
-      "name": "特殊デバイスとプロセス制御の課題",
-      "confidence": 0.7,
-      "momentum": "stable",
-      "related_fields": [
         "analog",
         "logic",
-        "industrial",
-        "automotive",
-        "miniaturization"
+        "frontend",
+        "memory",
+        "geopolitics"
       ],
-      "summary": "MEMS、コパッケージドオプティクス、赤外センサーなどの特殊デバイスの量産化には、狭いプロセスウィンドウでの精密な制御が不可欠。",
+      "summary": "MEMS、コパッケージドオプティクス、有機半導体、近赤外センサー等、特殊デバイス・新材料開発が加速。",
       "analysis": {
-        "short_term": "特殊デバイスの量産化に向けた技術開発。",
-        "mid_term": "プロセス制御技術の向上が鍵となる。",
-        "investment_implications": "高精度なプロセス制御技術を持つ企業に注目。"
+        "short_term": "量産化に向けたプロセス制御が課題。",
+        "mid_term": "新材料が既存技術の限界を打破する可能性。",
+        "investment_implications": "ニッチ市場開拓に成功する企業に成長機会。"
       },
       "keywords": [
         "MEMS",
-        "コパッケージドオプティクス",
-        "プロセス制御",
-        "赤外センサー",
-        "特殊デバイス"
+        "有機半導体",
+        "新材料",
+        "センサー"
       ],
       "companies_mentioned": [
-        "茨城大学"
+        "茨城大",
+        "京大"
       ]
+    },
+    {
+      "name": "地政学リスクとサプライチェーンの課題",
+      "confidence": 0.8,
+      "momentum": "stable",
+      "related_fields": [
+        "geopolitics",
+        "memory",
+        "foundry",
+        "equipment"
+      ],
+      "summary": "AI需要増と地政学リスクがメモリ不足を深刻化。サプライチェーンの安定化が喫緊の課題。",
+      "analysis": {
+        "short_term": "メモリ不足は短期的な供給制約要因。",
+        "mid_term": "サプライチェーンの多様化・強靭化が求められる。",
+        "investment_implications": "地政学リスクに強い企業・地域への分散投資が有効。"
+      },
+      "keywords": [
+        "地政学リスク",
+        "メモリ不足",
+        "サプライチェーン"
+      ],
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIアクセラレータ需要によるICテスト市場の拡大。",
-      "EV・データセンター向けパワー半導体市場の成長。",
-      "ファウンドリー2.0市場のAI需要による拡大。"
+      "世界半導体市場の大幅成長（2026年2月）",
+      "GaN・SiC技術の採用拡大",
+      "エッジAI市場の成長性",
+      "AIによる製造・設計効率化"
     ],
     "bearish": [
-      "日本市場の9ヶ月連続マイナス成長。"
+      "日本市場のマイナス成長継続",
+      "EV市場の減速懸念",
+      "メモリ不足の深刻化"
     ],
     "neutral": [
-      "半導体製造の再定義を目指す動き（TeraFab）。",
-      "有機半導体材料の高性能化と光耐性向上。"
+      "EDA・IP市場のセグメント別強弱",
+      "特殊デバイスの量産化課題"
     ]
   },
   "source_count": 47
