@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-09T06:18:38.000312+09:00",
-  "date": "2026-04-09",
+  "generated_at": "2026-04-10T06:18:18.323142+09:00",
+  "date": "2026-04-10",
   "meta_trends": [
     {
-      "name": "GaN・SiCパワー半導体の普及加速",
-      "confidence": 0.95,
+      "name": "GaNパワー半導体の普及加速",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
@@ -12,152 +12,156 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "GaN・SiC技術がEV、データセンター、ロボット等で採用拡大。高効率・高耐圧化が進み、性能向上とコスト削減に貢献。",
+      "summary": "GaN（窒化ガリウム）技術は、高効率・高電力密度を実現し、EV、データセンター、産業機器など幅広い分野で採用が進んでいます。",
       "analysis": {
-        "short_term": "EV市場の動向に左右されるが、データセンター需要は堅調。",
-        "mid_term": "次世代パワーデバイスとして地位確立へ、技術革新が続く。",
-        "investment_implications": "関連メーカーへの投資妙味あり、技術力と市場シェアを注視。"
+        "short_term": "新製品投入と性能向上により、採用拡大が続く。",
+        "mid_term": "コスト競争力向上とサプライチェーン安定化が鍵。",
+        "investment_implications": "GaN関連技術・製品を持つ企業に注目。"
       },
       "keywords": [
         "GaN",
-        "SiC",
         "EV",
-        "データセンター",
-        "ロボット"
+        "高効率",
+        "電源"
       ],
       "companies_mentioned": [
         "EPC",
         "Vishay",
-        "STマイクロエレクトロニクス",
-        "ローム",
-        "Patentix"
+        "Infineon"
       ]
     },
     {
-      "name": "エッジAI向け半導体の需要増",
-      "confidence": 0.9,
+      "name": "AI特化型半導体・アーキテクチャ進化",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "datacenter",
         "logic",
-        "automotive",
-        "industrial"
-      ],
-      "summary": "レイテンシ、帯域幅、プライバシー懸念からエッジAIが注目。低消費電力・高性能なAIチップ開発が活発化。",
-      "analysis": {
-        "short_term": "AIチップの性能差が競争優位性に直結。",
-        "mid_term": "ハードウェア加速技術の進化が市場拡大を牽引。",
-        "investment_implications": "エッジAI向けSoC・IP開発企業に注目が集まる。"
-      },
-      "keywords": [
-        "エッジAI",
-        "AIチップ",
-        "SoC",
-        "低消費電力"
-      ],
-      "companies_mentioned": [
-        "Ambiq"
-      ]
-    },
-    {
-      "name": "AIによる半導体製造・設計の高度化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "foundry",
+        "memory",
         "frontend",
         "backend",
-        "logic",
-        "equipment",
-        "ai"
+        "fabless"
       ],
-      "summary": "AIがEDA、IP設計、製造プロセス制御、熱管理シミュレーション等に活用。生産性向上と信頼性強化に貢献。",
+      "summary": "AI処理の高速化・効率化のため、専用チップやコプロセッサ、データ移動を最適化する新アーキテクチャが次々と登場しています。",
       "analysis": {
-        "short_term": "AI活用による効率化が競争力向上に不可欠。",
-        "mid_term": "半導体製造複合施設（TeraFab）等、新たな製造形態も登場。",
-        "investment_implications": "AI活用技術を持つファウンドリ・EDA・装置メーカーに期待。"
+        "short_term": "HBM4などの次世代メモリ開発がAI性能を左右。",
+        "mid_term": "エッジAI向け低消費電力・高性能SoCの競争激化。",
+        "investment_implications": "AIチップ設計・製造技術を持つ企業に投資妙味。"
       },
       "keywords": [
         "AI",
-        "EDA",
-        "IP設計",
-        "製造プロセス",
-        "熱管理"
+        "HBM4",
+        "コプロセッサ",
+        "エッジAI"
       ],
       "companies_mentioned": [
-        "Intel",
-        "GF",
-        "ダイフク",
-        "リコー"
+        "Allegro",
+        "Ambiq",
+        "Intel"
       ]
     },
     {
-      "name": "特殊デバイス・新材料開発の進展",
+      "name": "地政学リスクとサプライチェーンの脆弱性",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "geopolitics",
+        "foundry",
+        "equipment",
+        "memory"
+      ],
+      "summary": "地政学リスク（中東情勢、ヘリウム供給危機）やEV市場の動向が、半導体サプライチェーンの安定性に影響を与えています。",
+      "analysis": {
+        "short_term": "ヘリウム供給不安が製造装置・製造プロセスに影響。",
+        "mid_term": "EV市場の減速が関連部品メーカーの再編を促す。",
+        "investment_implications": "サプライチェーンの多様化・安定化策が重要。"
+      },
+      "keywords": [
+        "ヘリウム",
+        "EV",
+        "サプライチェーン",
+        "地政学リスク"
+      ],
+      "companies_mentioned": [
+        "ローム",
+        "東芝",
+        "三菱電機",
+        "デンソー"
+      ]
+    },
+    {
+      "name": "日本勢の連携と産業復活への期待",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "analog",
-        "logic",
-        "frontend",
-        "memory",
-        "geopolitics"
+        "general",
+        "foundry",
+        "power",
+        "equipment"
       ],
-      "summary": "MEMS、コパッケージドオプティクス、有機半導体、近赤外センサー等、特殊デバイス・新材料開発が加速。",
+      "summary": "日本の大手電機メーカーが半導体分野で連携を強化し、国内産業の復活に向けた動きが加速しています。",
       "analysis": {
-        "short_term": "量産化に向けたプロセス制御が課題。",
-        "mid_term": "新材料が既存技術の限界を打破する可能性。",
-        "investment_implications": "ニッチ市場開拓に成功する企業に成長機会。"
+        "short_term": "連携による新技術・新製品開発への期待感。",
+        "mid_term": "国際競争力強化に向けた具体的な成果が問われる。",
+        "investment_implications": "日本国内の半導体関連企業に注目が集まる。"
       },
       "keywords": [
-        "MEMS",
-        "有機半導体",
-        "新材料",
-        "センサー"
+        "日本",
+        "連携",
+        "産業復活",
+        "パワー半導体"
       ],
       "companies_mentioned": [
-        "茨城大",
-        "京大"
+        "ローム",
+        "東芝",
+        "三菱電機",
+        "ダイフク"
       ]
     },
     {
-      "name": "地政学リスクとサプライチェーンの課題",
-      "confidence": 0.8,
-      "momentum": "stable",
+      "name": "3D-ICとシステムレベル設計の重要性",
+      "confidence": 0.7,
+      "momentum": "rising",
       "related_fields": [
-        "geopolitics",
-        "memory",
-        "foundry",
-        "equipment"
+        "frontend",
+        "backend",
+        "logic",
+        "datacenter",
+        "miniaturization"
       ],
-      "summary": "AI需要増と地政学リスクがメモリ不足を深刻化。サプライチェーンの安定化が喫緊の課題。",
+      "summary": "積層化が進む3D-ICにおいて、電源インテグリティや熱管理などのシステムレベルでの課題解決が重要になっています。",
       "analysis": {
-        "short_term": "メモリ不足は短期的な供給制約要因。",
-        "mid_term": "サプライチェーンの多様化・強靭化が求められる。",
-        "investment_implications": "地政学リスクに強い企業・地域への分散投資が有効。"
+        "short_term": "GPUやバッテリーの熱管理にトランジスタサイズセンサー活用。",
+        "mid_term": "3D-IC設計・検証技術の高度化が求められる。",
+        "investment_implications": "先進パッケージング・設計技術を持つ企業が有利。"
       },
       "keywords": [
-        "地政学リスク",
-        "メモリ不足",
-        "サプライチェーン"
+        "3D-IC",
+        "電源インテグリティ",
+        "熱管理",
+        "積層化"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Digi-Core",
+        "Intel"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の大幅成長（2026年2月）",
-      "GaN・SiC技術の採用拡大",
-      "エッジAI市場の成長性",
-      "AIによる製造・設計効率化"
+      "AI需要によるメモリ市場の急成長（2026年市場規模1.3兆ドル超、NAND価格高騰）",
+      "GaNパワー半導体の採用拡大による関連市場の成長",
+      "日本企業の半導体分野での連携強化による技術革新期待"
     ],
     "bearish": [
-      "日本市場のマイナス成長継続",
-      "EV市場の減速懸念",
-      "メモリ不足の深刻化"
+      "EV市場の減速による関連産業への影響",
+      "地政学リスク（ヘリウム供給不安）による製造コスト上昇懸念",
+      "DRAMセキュリティ問題（Rowhammer等）の恒久的解決までのリスク"
     ],
     "neutral": [
-      "EDA・IP市場のセグメント別強弱",
-      "特殊デバイスの量産化課題"
+      "量子コンピュータの実用化に向けた研究開発の進展",
+      "ロボティクス分野におけるAI・センサー技術の応用拡大"
     ]
   },
   "source_count": 47

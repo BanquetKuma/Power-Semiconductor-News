@@ -1,41 +1,95 @@
 {
-  "generated_at": "2026-04-05T06:09:56.239572+09:00",
+  "generated_at": "2026-04-10T06:18:12.982239+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "BYD Has Already Built 5,000 Of Its New Megawatt 'Flash' Charging Stations",
-    "summary": "BYDは、わずか1ヶ月足らずで新型メガワット級「Flash」充電ステーションを5,000基建設した。これはEV充電速度を大幅に向上させる。",
+    "title": "Early HBM4 Validation Points The Way For Next Generation AI And HPC Systems",
+    "summary": "HBM4の早期検証が次世代AI・HPCシステムの道を開く。シリコン単体では準備完了とは言えない。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/news/791930/byd-charging-network-5000-flash"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/early-hbm4-validation-points-the-way-for-next-generation-ai-and-hpc-systems"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "BYD Has Already Built 5,000 Of Its New Megawatt 'Flash' Charging Stations",
-        "blurb": "BYDは、わずか1ヶ月足らずで新型メガワット級「Flash」充電ステーションを5,000基建設した。これはEV充電速度を大幅に向上させる。",
-        "category": "company",
-        "date": "2026-04-04",
+        "title": "Early HBM4 Validation Points The Way For Next Generation AI And HPC Systems",
+        "blurb": "HBM4の早期検証が次世代AI・HPCシステムの道を開く。シリコン単体では準備完了とは言えない。",
+        "category": "business",
+        "date": "2026-04-09",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/791930/byd-charging-network-5000-flash"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/early-hbm4-validation-points-the-way-for-next-generation-ai-and-hpc-systems"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": "automotive",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "DRAM’s Whac‑A‑Mole Security Crisis",
+        "blurb": "DRAMのセキュリティ問題、RowhammerとRowpressに対する新たな対策コマンドが登場したが、恒久的な解決には数年かかる見込み。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/drams-whac-a-mole-security-crisis"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "26年の半導体市場は64％成長で1.3兆ドルに　NAND価格は234％上昇",
+        "blurb": "2026年の半導体市場は1.3兆ドル超、メモリ売上高は価格高騰で約3倍に。メモリ価格下落は2027年後半以降の見込み。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news043.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Advancing AI performance with HBM4, SPHBM4 DRAM solutions",
+        "blurb": "AIシステムでチップレット統合の成功例であるHBMが、HBM4/SPHBM4 DRAMソリューションで性能向上へ。",
+        "category": "business",
+        "date": "2026-04-10",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/advancing-ai-performance-with-hbm4-sphbm4-dram-solutions"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
+          "market": null,
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
