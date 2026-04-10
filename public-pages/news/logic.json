@@ -1,60 +1,24 @@
 {
-  "generated_at": "2026-04-10T06:18:12.982567+09:00",
+  "generated_at": "2026-04-11T06:13:33.839828+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A New Era For Co-Processing",
-    "summary": "AI開発の速さに追いつくため、コプロセッサ技術が進化。チップ設計者は将来を見据えた設計が求められる。",
+    "title": "RISC-V SoC supports voice-enabled IoT devices",
+    "summary": "EspressifがWi-Fi6等対応のRISC-V SoC「ESP32-S31」をサンプル出荷。音声IoT機器向け。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/a-new-era-for-co-processing"
+        "name": "edn.com",
+        "url": "https://www.edn.com/risc-v-soc-supports-voice-enabled-iot-devices"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Abaco Systems Launches VP892 FPGA Processing Engine",
-        "blurb": "Abaco Systemsが、AMD製FPGA搭載の堅牢な3U VPX FPGA処理エンジン「VP892」を発表。防衛・通信・産業分野でのリアルタイム処理性能向上を目指す。",
-        "category": "company",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/abaco-systems-launches-vp892-fpga-processing-engine"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "STMicroelectronics’ New Ultra-Wideband SoC Family Enhances Range and Power",
-        "blurb": "STマイクロエレクトロニクスが新UWB SoCを発表。次世代技術で車載、コンシューマー、産業用途の範囲と電力を強化。",
-        "category": "company",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/stmicroelectronics-new-ultra-wideband-soc-family-enhances-range-and-power"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
         "title": "RISC-V SoC supports voice-enabled IoT devices",
-        "blurb": "EspressifがWi-Fi6等対応のRISC-V SoC「ESP32-S31」のサンプル出荷を開始。音声IoT機器向け。",
+        "blurb": "EspressifがWi-Fi6等対応のRISC-V SoC「ESP32-S31」をサンプル出荷。音声IoT機器向け。",
         "category": "company",
         "date": "2026-04-10",
         "stars": 3,
@@ -72,25 +36,6 @@
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "A New Era For Co-Processing",
-        "blurb": "AI開発の速さに追いつくため、コプロセッサ技術が進化。チップ設計者は将来を見据えた設計が求められる。",
-        "category": "business",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-new-era-for-co-processing"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

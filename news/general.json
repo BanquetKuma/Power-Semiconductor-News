@@ -1,124 +1,32 @@
 {
-  "generated_at": "2026-04-10T06:18:12.983855+09:00",
+  "generated_at": "2026-04-11T06:13:33.841019+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "How the Rohm-Toshiba-Mitsubishi MOU Marks Japan’s Comeback",
-    "summary": "ローム、東芝、三菱電機が半導体分野で連携。日本の産業復活への期待が高まる。",
+    "title": "ヘリウム調達停止――AIブームを崩壊させる「見えない臨界点」（後編）",
+    "summary": "AIブームを支えるヘリウム調達停止の危機。半導体業界への影響と、フォース・マジュールの連鎖回避策を提言。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/how-the-rohm-toshiba-mitsubishi-mou-marks-japans-comeback"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news042.html"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "How the Rohm-Toshiba-Mitsubishi MOU Marks Japan’s Comeback",
-        "blurb": "ローム、東芝、三菱電機が半導体分野で連携。日本の産業復活への期待が高まる。",
-        "category": "company",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/how-the-rohm-toshiba-mitsubishi-mou-marks-japans-comeback"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Rethinking Robotics Reinforcement Learning: A Practical Humanoid Training Workflow",
-        "blurb": "単一ワークステーションで実行可能な、人間型ロボットが不整地を歩行する訓練パイプラインを開発。ロボット学習の新たなアプローチ。",
-        "category": "tools",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rethinking-robotics-reinforcement-learning-a-practical-humanoid-training-workflow"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
+    "tech": [],
     "market": [
       {
-        "title": "PCIe 8.0: Enabling The Next Generation Of High Bandwidth Systems",
-        "blurb": "PCIe 8.0は、データレートの向上に伴い、PHYとコントローラー間の連携で信頼性の高いリンクを維持する。",
+        "title": "ヘリウム調達停止――AIブームを崩壊させる「見えない臨界点」（後編）",
+        "blurb": "AIブームを支えるヘリウム調達停止の危機。半導体業界への影響と、フォース・マジュールの連鎖回避策を提言。",
         "category": "business",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/pcie-8-0-enabling-the-next-generation-of-high-bandwidth-systems"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Power Integrity Without Blind Spots: A System Level Approach To 3D-ICs",
-        "blurb": "3D-ICにおける電源インテグリティの課題を、システムレベルで解決するアプローチ。積層ダイやインターポーザー、パッケージ全体を考慮する。",
-        "category": "business",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/power-integrity-without-blind-spots-a-system-level-approach-to-3d-ics"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Redefining AI Inference With New Silicon Architecture",
-        "blurb": "AI推論を最適化するデータ移動アーキテクチャを発表。演算ユニットへのデータ供給を安定化。",
-        "category": "business",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/redefining-ai-inference-with-new-silicon-architecture"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ヘリウム調達停止――AIブームを崩壊させる「見えない臨界点」（前編）",
-        "blurb": "中東情勢悪化でヘリウム供給停止の危機。AIブームを支える半導体製造への影響を考察する。",
-        "category": "business",
-        "date": "2026-04-09",
+        "date": "2026-04-10",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news030.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news042.html"
         },
         "field": {
           "primary": "general",

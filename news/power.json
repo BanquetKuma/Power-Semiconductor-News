@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-10T06:18:12.981951+09:00",
+  "generated_at": "2026-04-11T06:13:33.839465+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "EPC Expands 100V GaN Power Stage IC Portfolio",
-    "summary": "EPCが100V GaNパワーICを発表。モーター駆動や電源システムで効率、安全性、設計を簡素化。",
+    "title": "GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights",
+    "summary": "パワーエレクトロニクスウィークでは、GaN、ナノスケールセンサーによる熱管理、そしてローム・東芝・三菱のMOUに関する最新動向が紹介された。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/epc-expands-100v-gan-power-stage-ic-portfolio"
+        "url": "https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "触覚はPSOC 4、関節にGaN、目や耳も――人型ロボット向けで攻めるInfineon",
-        "blurb": "Infineonは、人型ロボット向けにPSOC 4、GaN、センサーなどを提供し、知覚・制御・駆動を強化。開発加速に対応。",
+        "title": "ST Launches GaN Gate Drivers with Smart Protection",
+        "blurb": "STマイクロエレクトロニクスは、高効率・小型化を実現する窒化ガリウム（GaN）ゲートドライバを発表。保護・制御機能を統合。",
         "category": "company",
-        "date": "2026-04-09",
+        "date": "2026-04-10",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news061.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-launches-gan-gate-drivers-with-smart-protection"
         },
         "field": {
           "primary": "power",
@@ -37,6 +37,24 @@
     ],
     "tech": [],
     "market": [
+      {
+        "title": "The Case for GaN HEMTs in Class-D Audio",
+        "blurb": "GaN HEMTsは、オーディオ用途で優れた効率と高速スイッチングを実現し、クラスDアンプの性能を向上させます。",
+        "category": "business",
+        "date": "2026-04-10",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-case-for-gan-hemts-in-class-d-audio"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
       {
         "title": "EPC Expands 100V GaN Power Stage IC Portfolio",
         "blurb": "EPCが100V GaNパワーICを発表。モーター駆動や電源システムで効率、安全性、設計を簡素化。",
@@ -53,6 +71,24 @@
           "process": null,
           "market": null,
           "industry": null
+        }
+      },
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "Intelの提携、GPUの脆弱性、Samsungの新工場、台湾IC業界の備蓄要求、中国による人材引き抜きなど、半導体業界の最新動向。",
+        "category": "business",
+        "date": "2026-04-10",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-133"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "backend",
+          "market": null,
+          "industry": "idm"
         }
       },
       {
@@ -88,6 +124,24 @@
           "device": "power",
           "process": null,
           "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights",
+        "blurb": "パワーエレクトロニクスウィークでは、GaN、ナノスケールセンサーによる熱管理、そしてローム・東芝・三菱のMOUに関する最新動向が紹介された。",
+        "category": "business",
+        "date": "2026-04-11",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
