@@ -1,117 +1,102 @@
 {
-  "generated_at": "2026-04-11T06:13:39.476507+09:00",
-  "date": "2026-04-11",
+  "generated_at": "2026-04-12T06:11:08.376534+09:00",
+  "date": "2026-04-12",
   "meta_trends": [
     {
       "name": "GaNパワー半導体の普及加速",
-      "confidence": 0.9,
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "GaN技術は高効率・小型化を実現し、EV、データセンター、オーディオなど多岐にわたる分野で採用が進展。新ゲートドライバやパワーICも登場。",
+      "summary": "GaN技術は高効率・小型化を実現し、EV、データセンター、ロボットなど多岐にわたる分野で採用が進展。ゲートドライバやパワーICの製品ラインナップが拡充されている。",
       "analysis": {
-        "short_term": "採用拡大と製品ラインナップ拡充が続く。",
-        "mid_term": "既存シリコン技術からの置き換えが進む見込み。",
-        "investment_implications": "GaN関連企業への投資妙味が増す。"
+        "short_term": "製品投入と技術発表が相次ぎ、採用拡大の兆し。",
+        "mid_term": "コスト競争力向上とサプライチェーン安定化が鍵。",
+        "investment_implications": "GaN関連技術を持つ企業への投資妙味増す。"
       },
       "keywords": [
         "GaN",
+        "高効率",
+        "小型化",
         "EV",
-        "データセンター",
-        "高効率"
+        "データセンター"
       ],
       "companies_mentioned": [
         "Rohm",
         "Toshiba",
-        "Mitsubishi",
+        "Mitsubishi Electric",
         "STMicroelectronics",
         "EPC",
         "Infineon"
       ]
     },
     {
-      "name": "AIインフラ需要の継続と多様化",
-      "confidence": 0.85,
+      "name": "AIインフラ投資の継続と多様化",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "datacenter",
+        "ai",
+        "memory",
         "equipment",
-        "memory"
+        "backend"
       ],
-      "summary": "AIサーバー需要は製造装置市場を牽引。HBM4の検証が進み、AIとクラウドの分離、エッジAIの重要性も増している。",
+      "summary": "AI需要を背景としたデータセンター、GPU、HBMなどの投資が継続。液浸冷却やSSDエミュレータなど、インフラを支える周辺技術・装置への投資も活発化している。",
       "analysis": {
-        "short_term": "製造装置市場の拡大が続く見通し。",
-        "mid_term": "AIインフラの多様化（エッジ、量子）が進む。",
-        "investment_implications": "AIインフラ関連企業に引き続き注目。"
+        "short_term": "製造装置市場は堅調、HBM4の検証進む。",
+        "mid_term": "AIとクラウドの分離、エッジAIの台頭が新たな投資機会創出。",
+        "investment_implications": "AIインフラ関連企業への継続的な注目が必要。"
       },
       "keywords": [
         "AI",
         "データセンター",
-        "HBM4",
-        "製造装置",
-        "エッジAI"
+        "GPU",
+        "HBM",
+        "液浸冷却",
+        "製造装置"
       ],
       "companies_mentioned": [
-        "Quantum Mesh",
         "Intel",
-        "Allegro"
-      ]
-    },
-    {
-      "name": "日本半導体産業の復活期待",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "general",
-        "equipment",
-        "foundry"
-      ],
-      "summary": "ローム、東芝、三菱電機の連携MOUは日本の半導体産業復活への期待を高める。国内製造装置能力も拡大。",
-      "analysis": {
-        "short_term": "連携による具体的な成果が注目される。",
-        "mid_term": "国際競争力回復に向けた長期的な取り組みが必要。",
-        "investment_implications": "国内半導体関連企業への関心が高まる。"
-      },
-      "keywords": [
-        "日本",
-        "連携",
-        "製造装置",
-        "復活"
-      ],
-      "companies_mentioned": [
-        "Rohm",
-        "Toshiba",
-        "Mitsubishi",
+        "Samsung",
+        "KAIST",
+        "Quantum Mesh",
         "ダイフク"
       ]
     },
     {
-      "name": "次世代インターコネクト技術の進化",
-      "confidence": 0.7,
+      "name": "日本半導体産業の連携強化と復活期待",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
-        "logic",
-        "frontend",
-        "backend"
+        "general",
+        "power",
+        "foundry",
+        "equipment"
       ],
-      "summary": "PCIe 8.0は高帯域幅システムを実現し、3D-ICにおける電源インテグリティ確保が重要視されている。",
+      "summary": "ローム、東芝、三菱電機による連携や、村田製作所の車載MLCC投入など、日本企業が技術力で存在感を示し始めている。産業復活への期待が高まる。",
       "analysis": {
-        "short_term": "次世代インターコネクト規格への対応が進む。",
-        "mid_term": "3D-IC技術の発展と普及が期待される。",
-        "investment_implications": "高速インターコネクト・3D-IC関連技術に注目。"
+        "short_term": "大手連携による技術開発加速が期待される。",
+        "mid_term": "グローバル競争力強化に向けた継続的な投資と戦略が重要。",
+        "investment_implications": "国内有力企業への投資妙味再評価の可能性。"
       },
       "keywords": [
-        "PCIe 8.0",
-        "3D-IC",
-        "帯域幅",
-        "電源インテグリティ"
+        "日本",
+        "連携",
+        "パワー半導体",
+        "車載",
+        "産業復活"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Rohm",
+        "Toshiba",
+        "Mitsubishi Electric",
+        "村田製作所",
+        "デンソー"
+      ]
     },
     {
       "name": "地政学リスクとサプライチェーンの脆弱性",
@@ -120,34 +105,71 @@
       "related_fields": [
         "geopolitics",
         "general",
-        "memory"
+        "memory",
+        "ai"
       ],
-      "summary": "ヘリウム調達停止危機はAIブームを脅かし、メモリ不足を深刻化させる。サプライチェーンの安定化が急務。",
+      "summary": "中東情勢悪化によるヘリウム供給停止危機は、半導体製造、特にAIブームを支えるメモリ供給に深刻な影響を与える可能性があり、サプライチェーンの脆弱性が露呈している。",
       "analysis": {
-        "short_term": "ヘリウム供給問題の動向が注視される。",
-        "mid_term": "サプライチェーンの多様化・強靭化が求められる。",
-        "investment_implications": "サプライチェーンリスク管理が重要となる。"
+        "short_term": "ヘリウム調達問題はAIブームの足かせとなりうる。",
+        "mid_term": "代替材料・技術開発や調達先の多様化が急務。",
+        "investment_implications": "サプライチェーンリスク管理が投資判断の重要因子に。"
       },
       "keywords": [
-        "ヘリウム",
         "地政学リスク",
+        "ヘリウム",
         "サプライチェーン",
-        "メモリ危機"
+        "メモリ危機",
+        "AI"
       ],
       "companies_mentioned": []
+    },
+    {
+      "name": "次世代インターコネクトとパッケージング技術",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "backend",
+        "logic",
+        "datacenter",
+        "equipment"
+      ],
+      "summary": "EUVナノ構造解析、フォトニックパッケージング、3D-ICの電源インテグリティ、ルテニウム配線など、次世代デバイスの性能向上に不可欠な先端材料・製造・パッケージング技術の研究開発が進展。",
+      "analysis": {
+        "short_term": "先端計測・材料技術の研究発表が続く。",
+        "mid_term": "3D-ICやフォトニック技術の実用化・普及が期待される。",
+        "investment_implications": "先端技術を持つ企業や装置メーカーへの注目。"
+      },
+      "keywords": [
+        "EUV",
+        "フォトニック",
+        "3D-IC",
+        "ルテニウム",
+        "パッケージング"
+      ],
+      "companies_mentioned": [
+        "Intel",
+        "NIST",
+        "Bruker",
+        "Johns Hopkins University",
+        "University of Maryland"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "GaN技術の広範な採用拡大",
-      "AIインフラ投資の継続",
-      "半導体製造装置市場の成長予測"
+      "GaNパワー半導体の需要拡大と製品投入加速",
+      "AIインフラ投資の継続と製造装置市場の堅調",
+      "HBM4など次世代メモリ技術の開発進展",
+      "日本企業の連携強化と技術開発への期待"
     ],
     "bearish": [
-      "ヘリウム供給問題によるAIブームへの懸念"
+      "ヘリウム供給停止リスクによる半導体製造への影響懸念",
+      "EV市場の減速による関連部品メーカーへの影響"
     ],
     "neutral": [
-      "日本半導体産業の復活に向けた連携開始"
+      "量子コンピュータの実用化に向けたクラウドサービス開始",
+      "EUVナノ構造解析技術の進展"
     ]
   },
   "source_count": 35

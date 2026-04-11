@@ -1,95 +1,41 @@
 {
-  "generated_at": "2026-04-10T06:18:12.982239+09:00",
+  "generated_at": "2026-04-12T06:11:02.022954+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Early HBM4 Validation Points The Way For Next Generation AI And HPC Systems",
-    "summary": "HBM4の早期検証が次世代AI・HPCシステムの道を開く。シリコン単体では準備完了とは言えない。",
+    "title": "PDN Challenges In DRAM-Based Compute-In-Memory Systems (UT Austin)",
+    "summary": "UTオースティン大の研究者がDRAMベースの計算内メモリシステムにおける電力供給網の課題に関する論文を発表。データ移動削減と省エネ化に期待。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/early-hbm4-validation-points-the-way-for-next-generation-ai-and-hpc-systems"
+        "url": "https://semiengineering.com/pdn-challenges-in-dram-based-compute-in-memory-systems-ut-austin"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Early HBM4 Validation Points The Way For Next Generation AI And HPC Systems",
-        "blurb": "HBM4の早期検証が次世代AI・HPCシステムの道を開く。シリコン単体では準備完了とは言えない。",
-        "category": "business",
-        "date": "2026-04-09",
+        "title": "PDN Challenges In DRAM-Based Compute-In-Memory Systems (UT Austin)",
+        "blurb": "UTオースティン大の研究者がDRAMベースの計算内メモリシステムにおける電力供給網の課題に関する論文を発表。データ移動削減と省エネ化に期待。",
+        "category": "company",
+        "date": "2026-04-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/early-hbm4-validation-points-the-way-for-next-generation-ai-and-hpc-systems"
+          "url": "https://semiengineering.com/pdn-challenges-in-dram-based-compute-in-memory-systems-ut-austin"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "DRAM’s Whac‑A‑Mole Security Crisis",
-        "blurb": "DRAMのセキュリティ問題、RowhammerとRowpressに対する新たな対策コマンドが登場したが、恒久的な解決には数年かかる見込み。",
-        "category": "business",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/drams-whac-a-mole-security-crisis"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "26年の半導体市場は64％成長で1.3兆ドルに　NAND価格は234％上昇",
-        "blurb": "2026年の半導体市場は1.3兆ドル超、メモリ売上高は価格高騰で約3倍に。メモリ価格下落は2027年後半以降の見込み。",
-        "category": "business",
-        "date": "2026-04-09",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news043.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Advancing AI performance with HBM4, SPHBM4 DRAM solutions",
-        "blurb": "AIシステムでチップレット統合の成功例であるHBMが、HBM4/SPHBM4 DRAMソリューションで性能向上へ。",
-        "category": "business",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/advancing-ai-performance-with-hbm4-sphbm4-dram-solutions"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "backend",
           "market": null,
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

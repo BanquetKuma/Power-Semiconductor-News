@@ -1,36 +1,222 @@
 {
-  "generated_at": "2026-04-11T06:13:33.838048+09:00",
+  "generated_at": "2026-04-10T06:18:12.980421+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights",
-    "summary": "パワーエレクトロニクスウィークでは、GaN、ナノスケールセンサーによる熱管理、そしてローム・東芝・三菱のMOUに関する最新動向が紹介された。",
+    "title": "Infineon Talks Powering AI and Infrastructure",
+    "summary": "インフィニオン、AIとインフラを支える電力ソリューションについて語る。グリッドからコアまで、AIの電力供給を強化。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights"
+        "url": "https://www.powerelectronicsnews.com/infineon-talks-powering-ai-and-infrastructure"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "The Case for GaN HEMTs in Class-D Audio",
-        "blurb": "GaN HEMTsは、オーディオ用途で優れた効率と高速スイッチングを実現し、クラスDアンプの性能を向上させます。",
+        "title": "Power Corner: Allegro’s Anuj Jain on TMR—The New Frontier in Magnetic Sensing",
+        "blurb": "Allegro社のAnuj Jain氏が、車載、データセンター、ロボティクス分野における磁気センシングの新境地TMRについて、ホール効果との比較を解説。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-allegros-anuj-jain-on-tmr-the-new-frontier-in-magnetic-sensing"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "APEC 2026: AmberSemi’s Direct 48V-to-Load Architecture With CEO Thar Casey",
+        "blurb": "APEC 2026で、AmberSemiのCEO Thar Casey氏が、48Vから負荷への直接電力供給アーキテクチャについて語る。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/apec-2026-ambersemis-direct-48v-to-load-architecture-with-ceo-thar-casey"
+        },
+        "field": null
+      },
+      {
+        "title": "PCIe 8.0: Enabling The Next Generation Of High Bandwidth Systems",
+        "blurb": "PCIe 8.0は、データレートの向上に伴い、PHYとコントローラー間の連携で信頼性の高いリンクを維持する。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/pcie-8-0-enabling-the-next-generation-of-high-bandwidth-systems"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Early HBM4 Validation Points The Way For Next Generation AI And HPC Systems",
+        "blurb": "HBM4の早期検証が次世代AI・HPCシステムの道を開く。シリコン単体では準備完了とは言えない。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/early-hbm4-validation-points-the-way-for-next-generation-ai-and-hpc-systems"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Power Integrity Without Blind Spots: A System Level Approach To 3D-ICs",
+        "blurb": "3D-ICにおける電源インテグリティの課題を、システムレベルで解決するアプローチ。積層ダイやインターポーザー、パッケージ全体を考慮する。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/power-integrity-without-blind-spots-a-system-level-approach-to-3d-ics"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "DRAM’s Whac‑A‑Mole Security Crisis",
+        "blurb": "DRAMのセキュリティ問題、RowhammerとRowpressに対する新たな対策コマンドが登場したが、恒久的な解決には数年かかる見込み。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/drams-whac-a-mole-security-crisis"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "A New Era For Co-Processing",
+        "blurb": "AI開発の速さに追いつくため、コプロセッサ技術が進化。チップ設計者は将来を見据えた設計が求められる。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-new-era-for-co-processing"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Fast Isn’t Fast Enough: Redefining Metrics for Edge AI",
+        "blurb": "エッジAIでは、低遅延、メモリ移動、電力、迅速なモデル展開が重要。単なるTOPS性能だけでは不十分。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/fast-isnt-fast-enough-redefining-metrics-for-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Redefining AI Inference With New Silicon Architecture",
+        "blurb": "AI推論を最適化するデータ移動アーキテクチャを発表。演算ユニットへのデータ供給を安定化。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/redefining-ai-inference-with-new-silicon-architecture"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ヘリウム調達停止――AIブームを崩壊させる「見えない臨界点」（前編）",
+        "blurb": "中東情勢悪化でヘリウム供給停止の危機。AIブームを支える半導体製造への影響を考察する。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news030.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "26年の半導体市場は64％成長で1.3兆ドルに　NAND価格は234％上昇",
+        "blurb": "2026年の半導体市場は1.3兆ドル超、メモリ売上高は価格高騰で約3倍に。メモリ価格下落は2027年後半以降の見込み。",
+        "category": "business",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news043.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "At APEC 2026, AOS showcases its expanding portfolio with advanced controllers, power stages, and protection solutions",
+        "blurb": "APEC 2026でAOSがAIコア電源向けの新製品を発表。高度なコントローラー、パワー段、保護ソリューションで電力管理の課題に対応。",
         "category": "business",
         "date": "2026-04-10",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-case-for-gan-hemts-in-class-d-audio"
+          "url": "https://www.powerelectronicsnews.com/at-apec-2026-aos-showcases-its-expanding-portfolio-with-advanced-controllers-power-stages-and-protection-solutions"
         },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
         "title": "EPC Expands 100V GaN Power Stage IC Portfolio",
@@ -49,84 +235,6 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "Intelの提携、GPUの脆弱性、Samsungの新工場、台湾IC業界の備蓄要求、中国による人材引き抜きなど、半導体業界の最新動向。",
-        "category": "business",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-133"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "backend",
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "半導体製造装置販売額、2025年は1350億ドルに拡大",
-        "blurb": "2025年の半導体製造装置販売額は1351億ドルに達し、AI需要を背景に15%増加する見込みです。",
-        "category": "business",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/10/news041.html"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ヘリウム調達停止――AIブームを崩壊させる「見えない臨界点」（後編）",
-        "blurb": "AIブームを支えるヘリウム調達停止の危機。半導体業界への影響と、フォース・マジュールの連鎖回避策を提言。",
-        "category": "business",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news042.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI/HPCの性能を左右する電源供給網の安定化（前編）",
-        "blurb": "TSMCがIEDM 2025で発表したAI/HPC向け電源供給網の安定化技術について解説。今回は電源供給効率に焦点を当てる。",
-        "category": "business",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/10/news034.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Negative resistance amplification",
-        "blurb": "負の入力インピーダンスを持つ電源は、外部ノイズを増幅し、誤解を招く伝導エミッション障害を引き起こす可能性がある。",
-        "category": "business",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/negative-resistance-amplification"
-        },
-        "field": null
       },
       {
         "title": "GaN ICs drive robotics and motion control",
@@ -148,7 +256,7 @@
       },
       {
         "title": "Tiny filters curb 5-GHz audio-line noise",
-        "blurb": "TDKが5GHz帯のオーディオラインノイズを低減する小型フィルターを開発。低歪みフェライト材料を使用。",
+        "blurb": "TDKは、5GHz帯のオーディオラインノイズを低減する小型フェライトフィルタ「MAF0603GWY」シリーズを発表しました。",
         "category": "business",
         "date": "2026-04-10",
         "stars": 3,
@@ -190,7 +298,7 @@
       },
       {
         "title": "Leveling up Industry 4.0",
-        "blurb": "インダストリー4.0は、製造業のスマート化、データ接続、自動化による変革。デバイスなどが含まれる。",
+        "blurb": "インダストリー4.0は、製造業のプロセスをスマート化、データ接続、自動化で変革する。",
         "category": "business",
         "date": "2026-04-10",
         "stars": 3,
@@ -201,19 +309,19 @@
         "field": null
       },
       {
-        "title": "GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights",
-        "blurb": "パワーエレクトロニクスウィークでは、GaN、ナノスケールセンサーによる熱管理、そしてローム・東芝・三菱のMOUに関する最新動向が紹介された。",
+        "title": "Advancing AI performance with HBM4, SPHBM4 DRAM solutions",
+        "blurb": "AIシステムでチップレット統合の成功例であるHBMが、HBM4/SPHBM4 DRAMソリューションで性能向上へ。",
         "category": "business",
-        "date": "2026-04-11",
+        "date": "2026-04-10",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights"
+          "name": "edn.com",
+          "url": "https://www.edn.com/advancing-ai-performance-with-hbm4-sphbm4-dram-solutions"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
           "market": null,
           "industry": null
         }
@@ -221,32 +329,56 @@
     ],
     "tools": [
       {
-        "title": "Memory solutions for firmware OTA updates",
-        "blurb": "ファームウェアOTAアップデートを安全かつセキュアに実装する戦略について解説。EDN初出。",
+        "title": "Rethinking Robotics Reinforcement Learning: A Practical Humanoid Training Workflow",
+        "blurb": "単一ワークステーションで実行可能な、人間型ロボットが不整地を歩行する訓練パイプラインを開発。ロボット学習の新たなアプローチ。",
         "category": "tools",
-        "date": "2026-04-10",
+        "date": "2026-04-09",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/memory-solutions-for-firmware-ota-updates"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/rethinking-robotics-reinforcement-learning-a-practical-humanoid-training-workflow"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "Designer’s guide: Motor control and drivers",
-        "blurb": "スマート製造に不可欠なモーター制御ICとドライバーに関する設計者向けガイド。",
+        "title": "Rethinking machine vision in industrial automation",
+        "blurb": "産業オートメーションにおけるマシンビジョンの役割を再考。安全性、効率性、信頼性の向上に不可欠な技術の進化について論じている。",
         "category": "tools",
-        "date": "2026-04-10",
+        "date": "2026-04-09",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/designers-guide-motor-control-and-drivers"
+          "url": "https://www.edn.com/rethinking-machine-vision-in-industrial-automation"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Humidifiers and such: How much “smart” is too much?",
+        "blurb": "Wi-Fi対応の加湿器は「スマート」だが、その利点とトレードオフは何か？過剰なスマート化への疑問を投げかける。",
+        "category": "tools",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/humidifiers-and-such-how-much-smart-is-too-much"
         },
         "field": null
       },
       {
         "title": "METCASE expands accessory options for enclosures",
-        "blurb": "METCASEがエンクロージャー用アクセサリーを拡充。メタル製チルト/スイングアームなどを追加。",
+        "blurb": "METCASEがエンクロージャー用アクセサリーを拡充。メタル製チルト/スイングアームなどを追加し、選択肢を広げた。",
         "category": "tools",
         "date": "2026-04-10",
         "stars": 3,
@@ -259,14 +391,80 @@
     ],
     "company": [
       {
-        "title": "ST Launches GaN Gate Drivers with Smart Protection",
-        "blurb": "STマイクロエレクトロニクスは、高効率・小型化を実現する窒化ガリウム（GaN）ゲートドライバを発表。保護・制御機能を統合。",
+        "title": "How the Rohm-Toshiba-Mitsubishi MOU Marks Japan’s Comeback",
+        "blurb": "ローム、東芝、三菱電機が半導体分野で連携。日本の産業復活への期待が高まる。",
         "category": "company",
-        "date": "2026-04-10",
+        "date": "2026-04-09",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-launches-gan-gate-drivers-with-smart-protection"
+          "url": "https://www.powerelectronicsnews.com/how-the-rohm-toshiba-mitsubishi-mou-marks-japans-comeback"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The Coming Breakup Between AI And The Cloud",
+        "blurb": "AIとクラウドの分離が進行中。エッジAIは計算能力不足ではなく、その浪費が課題。セミコンダクターエンジニアリング発。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-coming-breakup-between-ai-and-the-cloud"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "東芝、「疑似量子計算機」を100倍高速化",
+        "blurb": "東芝は、新アルゴリズムで疑似量子計算機「SBM」の成功確率をほぼ100%に向上させ、前世代比10～100倍の高速化を実現した。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news036.html"
+        },
+        "field": null
+      },
+      {
+        "title": "144量子ビット国産量子コンピュータ「叡-II」 運用開始",
+        "blurb": "理研と阪大が144量子ビットの国産量子コンピュータ「叡-II」のクラウドサービスを開始。従来の「叡」と合わせ2台利用可能に。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news035.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "触覚はPSOC 4、関節にGaN、目や耳も――人型ロボット向けで攻めるInfineon",
+        "blurb": "Infineonは、人型ロボット向けにPSOC 4、GaN、センサーなどを提供し、知覚・制御・駆動を強化。開発加速に対応。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news061.html"
         },
         "field": {
           "primary": "power",
@@ -277,8 +475,92 @@
         }
       },
       {
+        "title": "半導体産業を下支え　台湾スタートアップの「3つの特徴」とは",
+        "blurb": "台湾の半導体産業は、製造やEMSで強さを誇る。その源泉を探る連載が開始された。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/09/news063.html"
+        },
+        "field": {
+          "primary": "foundry",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "QuEra Uses Neutral Atoms to Develop Quantum Computers",
+        "blurb": "QuEraは中性原子を用いた量子コンピュータを開発。常温・低消費電力で企業への普及を目指す。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/quera-uses-neutral-atoms-to-develop-quantum-computers"
+        },
+        "field": null
+      },
+      {
+        "title": "Abaco Systems Launches VP892 FPGA Processing Engine",
+        "blurb": "Abaco Systemsが、AMD製FPGA搭載の堅牢な3U VPX FPGA処理エンジン「VP892」を発表。防衛・通信・産業分野でのリアルタイム処理性能向上を目指す。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/abaco-systems-launches-vp892-fpga-processing-engine"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Quectel FGH200M Wi-Fi HaLow Module Supports Long-Range IoT Connectivity",
+        "blurb": "QuectelのWi-Fi HaLowモジュールFGH200Mは、長距離・低消費電力IoT通信を実現し、数千台のデバイスをサポートします。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/quectel-fgh200m-wi-fi-halow-module-supports-long-range-iot-connectivity"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "STMicroelectronics’ New Ultra-Wideband SoC Family Enhances Range and Power",
+        "blurb": "STマイクロエレクトロニクスが新UWB SoCを発表。次世代技術で車載、コンシューマー、産業用途の範囲と電力を強化。",
+        "category": "company",
+        "date": "2026-04-09",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/stmicroelectronics-new-ultra-wideband-soc-family-enhances-range-and-power"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
         "title": "Infineon Talks Powering AI and Infrastructure",
-        "blurb": "インフィニオン、AIとインフラを支える電力ソリューションについて語る。グリッドからコアまでAIの電力供給を担う。",
+        "blurb": "インフィニオン、AIとインフラを支える電力ソリューションについて語る。グリッドからコアまで、AIの電力供給を強化。",
         "category": "company",
         "date": "2026-04-10",
         "stars": 3,
@@ -289,68 +571,8 @@
         "field": null
       },
       {
-        "title": "At APEC 2026, AOS showcases its expanding portfolio with advanced controllers, power stages, and protection solutions",
-        "blurb": "APEC 2026でAOSがAIコア電源向けの新製品を発表。先進的なコントローラー、パワーステージ、保護ソリューションを展示。",
-        "category": "company",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/at-apec-2026-aos-showcases-its-expanding-portfolio-with-advanced-controllers-power-stages-and-protection-solutions"
-        },
-        "field": null
-      },
-      {
-        "title": "1社に1台AIサーバ！　電源さえあれば設置できる液浸冷却ラック",
-        "blurb": "Quantum Meshは、電源があればどこでも設置可能な液浸冷却AIサーバ「KAMUI γ」を発表。小型ながら高効率で、オフィスや工場などでの導入を想定。",
-        "category": "company",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/10/news083.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "人型重機で「フィジカル苦役を無用に」　実装目指す人機一体",
-        "blurb": "人機一体とAdvantechが協業開始。人型重機とエッジコンピューティング連携で「フィジカル苦役を無用」にすることを目指す。",
-        "category": "company",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/10/news063.html"
-        },
-        "field": null
-      },
-      {
-        "title": "「世界最大」静電容量の車載MLCC 7品番を一挙投入、村田製",
-        "blurb": "村田製作所は、車載MLCCの新製品7品番を投入。定格電圧・サイズ別に世界最大静電容量を実現し、自動運転・ADAS向けの高容量化・小型化要求に応える。",
-        "category": "company",
-        "date": "2026-04-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/10/news040.html"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
         "title": "RISC-V SoC supports voice-enabled IoT devices",
-        "blurb": "EspressifがWi-Fi6等対応のRISC-V SoC「ESP32-S31」をサンプル出荷。音声IoT機器向け。",
+        "blurb": "EspressifがWi-Fi6等対応のRISC-V SoC「ESP32-S31」のサンプル出荷を開始。音声IoT機器向け。",
         "category": "company",
         "date": "2026-04-10",
         "stars": 3,
@@ -364,6 +586,24 @@
           "process": null,
           "market": "industrial",
           "industry": null
+        }
+      },
+      {
+        "title": "ESMT's Complete Memory Portfolio Selection Most Suitable for Embedded/ Industrial/ Automotive Customers",
+        "blurb": "ESMTは、組み込み・産業・車載市場向けに、長期ライフサイクルに対応した多様なメモリソリューションを提供する。",
+        "category": "company",
+        "date": "2026-04-10",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/esmts-complete-memory-portfolio-selection-most-suitable-for-embedded-industrial-automotive-customers"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": "fabless"
         }
       }
     ],
