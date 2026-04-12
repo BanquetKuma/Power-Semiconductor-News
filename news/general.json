@@ -1,25 +1,63 @@
 {
-  "generated_at": "2026-04-12T06:11:02.023735+09:00",
+  "generated_at": "2026-04-13T06:11:48.678825+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. Of Maryland)",
-    "summary": "NISTらが極限環境に耐えるフォトニックパッケージ技術を発表。高精度・高拡張性のフォトニックセンサー応用へ期待。",
+    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
+    "summary": "大規模LLM学習で、ハードウェア起因の「サイレントデータ破損」が信頼性の課題となっている。ベルリン工科大学の研究者が論文を発表。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/photonic-packaging-resistant-to-extreme-environments-nist-johns-hopkins-u-of-maryland"
+        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. Of Maryland)",
-        "blurb": "NISTらが極限環境に耐えるフォトニックパッケージ技術を発表。高精度・高拡張性のフォトニックセンサー応用へ期待。",
+        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
+        "blurb": "Meta AIとKAUSTの研究者が「ニューラルコンピュータ」の技術論文を発表。計算、メモリ、I/Oを統合する新概念を提案。",
         "category": "company",
+        "date": "2026-04-12",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
+        "blurb": "大規模LLM学習で、ハードウェア起因の「サイレントデータ破損」が信頼性の課題となっている。ベルリン工科大学の研究者が論文を発表。",
+        "category": "company",
+        "date": "2026-04-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. Of Maryland)",
+        "blurb": "NISTらが極限環境に耐えるフォトニックパッケージ技術を発表。高精度なフォトニックセンサーの応用拡大に貢献。",
+        "category": "tools",
         "date": "2026-04-12",
         "stars": 3,
         "source": {
@@ -33,11 +71,13 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "market": [
       {
         "title": "Impact of Surface States And Band Modulations in Ruthenium Interconnects (Incheon, Hanyang, UT Dallas)",
-        "blurb": "半導体材料ルテニウムの薄膜配線に関する研究論文が発表され、次世代デバイスの性能向上が期待される。",
-        "category": "company",
+        "blurb": "半導体材料ルテニウムの配線特性に関する研究論文が発表された。次世代デバイスの性能向上が期待される。",
+        "category": "business",
         "date": "2026-04-12",
         "stars": 3,
         "source": {
@@ -52,8 +92,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
