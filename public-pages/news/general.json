@@ -1,42 +1,24 @@
 {
-  "generated_at": "2026-04-13T06:11:48.678825+09:00",
+  "generated_at": "2026-04-14T06:18:32.502183+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-    "summary": "大規模LLM学習で、ハードウェア起因の「サイレントデータ破損」が信頼性の課題となっている。ベルリン工科大学の研究者が論文を発表。",
+    "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
+    "summary": "EDAとIPの数字は再び上昇したが、セグメントごとに強弱が見られ、より詳細な分析が必要。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin"
+        "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-        "blurb": "Meta AIとKAUSTの研究者が「ニューラルコンピュータ」の技術論文を発表。計算、メモリ、I/Oを統合する新概念を提案。",
-        "category": "company",
-        "date": "2026-04-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-        "blurb": "大規模LLM学習で、ハードウェア起因の「サイレントデータ破損」が信頼性の課題となっている。ベルリン工科大学の研究者が論文を発表。",
+        "blurb": "大規模LLM学習における「サイレントデータ破損」は、ハードウェア起因の重大な信頼性課題。ベルリン工科大学が論文で指摘。",
         "category": "company",
         "date": "2026-04-13",
         "stars": 3,
@@ -51,18 +33,36 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "石炭灰から「レアアース元素」を回収、新日本繊維【訂正あり】",
+        "blurb": "新日本繊維は、石炭灰からレアアース元素の回収に成功。次世代繊維「BASHFIBER」製造工程で実現し、事業化へ向けパートナー拡大と資金調達を進める。",
+        "category": "company",
+        "date": "2026-04-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/13/news035.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "tech": [
       {
-        "title": "Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. Of Maryland)",
-        "blurb": "NISTらが極限環境に耐えるフォトニックパッケージ技術を発表。高精度なフォトニックセンサーの応用拡大に貢献。",
+        "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
+        "blurb": "ハードウェア監視はセンサーだけでなく、組み込み知能によるインフラが重要。これにより、障害発生前にシステムが対応可能になる。",
         "category": "tools",
-        "date": "2026-04-12",
+        "date": "2026-04-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/photonic-packaging-resistant-to-extreme-environments-nist-johns-hopkins-u-of-maryland"
+          "url": "https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors"
         },
         "field": {
           "primary": "general",
@@ -75,14 +75,32 @@
     ],
     "market": [
       {
-        "title": "Impact of Surface States And Band Modulations in Ruthenium Interconnects (Incheon, Hanyang, UT Dallas)",
-        "blurb": "半導体材料ルテニウムの配線特性に関する研究論文が発表された。次世代デバイスの性能向上が期待される。",
+        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
+        "blurb": "EDAとIPの数字は再び上昇したが、セグメントごとに強弱が見られ、より詳細な分析が必要。",
         "category": "business",
-        "date": "2026-04-12",
+        "date": "2026-04-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/impact-of-surface-states-and-band-modulations-in-ruthenium-interconnects-incheon-hanyang-ut-dallas"
+          "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Startup Funding: Q1 2026",
+        "blurb": "2026年第1四半期、AI・EDA・製造分野のスタートアップ80社が総額84億ドルを調達。",
+        "category": "business",
+        "date": "2026-04-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/startup-funding-q1-2026"
         },
         "field": {
           "primary": "general",

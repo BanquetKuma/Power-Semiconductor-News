@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-04-08T06:18:27.747993+09:00",
+  "generated_at": "2026-04-14T06:18:32.501248+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "身近な材料と汎用プロセスで赤外センサー開発、茨城大",
-    "summary": "茨城大学が安価な材料と汎用プロセスで近赤外センサーを開発。自動運転や非破壊検査への応用が期待される。",
+    "title": "GAAトランジスタで量子ビットの状態を読み取る、帝京大",
+    "summary": "帝京大、GAAトランジスタで量子ビット読み出しを実証。スマホ部品活用でコスト削減に期待。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/07/news034.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/13/news036.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "身近な材料と汎用プロセスで赤外センサー開発、茨城大",
-        "blurb": "茨城大学が安価な材料と汎用プロセスで近赤外センサーを開発。自動運転や非破壊検査への応用が期待される。",
+        "title": "GAAトランジスタで量子ビットの状態を読み取る、帝京大",
+        "blurb": "帝京大、GAAトランジスタで量子ビット読み出しを実証。スマホ部品活用でコスト削減に期待。",
         "category": "company",
-        "date": "2026-04-07",
+        "date": "2026-04-13",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/07/news034.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/13/news036.html"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
-          "process": "equipment",
-          "market": "automotive",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Lumotive Enables 180° Solid-State LiDAR at 30 FPS",
+        "blurb": "Lumotiveは、180°視野角のソリッドステートLiDARプラットフォームを30fpsで実現。ロボティクスやインフラ向け。",
+        "category": "tools",
+        "date": "2026-04-14",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/lumotive-enables-180-solid-state-lidar-at-30-fps"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

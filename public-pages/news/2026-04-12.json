@@ -1,80 +1,43 @@
 {
-  "generated_at": "2026-04-13T06:11:48.676735+09:00",
+  "generated_at": "2026-04-12T06:11:02.021964+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-    "summary": "大規模LLM学習で、ハードウェア起因の「サイレントデータ破損」が信頼性の課題となっている。ベルリン工科大学の研究者が論文を発表。",
+    "title": "GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights",
+    "summary": "パワーエレクトロニクスウィークでは、GaN、ナノスケールセンサーによる熱管理、そしてローム・東芝・三菱のMOUに関する最新動向が紹介された。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Impact of Surface States And Band Modulations in Ruthenium Interconnects (Incheon, Hanyang, UT Dallas)",
-        "blurb": "半導体材料ルテニウムの配線特性に関する研究論文が発表された。次世代デバイスの性能向上が期待される。",
+        "title": "GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights",
+        "blurb": "パワーエレクトロニクスウィークでは、GaN、ナノスケールセンサーによる熱管理、そしてローム・東芝・三菱のMOUに関する最新動向が紹介された。",
         "category": "business",
-        "date": "2026-04-12",
+        "date": "2026-04-11",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/impact-of-surface-states-and-band-modulations-in-ruthenium-interconnects-incheon-hanyang-ut-dallas"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
         }
       }
     ],
-    "tools": [
-      {
-        "title": "Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. Of Maryland)",
-        "blurb": "NISTらが極限環境に耐えるフォトニックパッケージ技術を発表。高精度なフォトニックセンサーの応用拡大に貢献。",
-        "category": "tools",
-        "date": "2026-04-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/photonic-packaging-resistant-to-extreme-environments-nist-johns-hopkins-u-of-maryland"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "tools": [],
     "company": [
       {
-        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-        "blurb": "Meta AIとKAUSTの研究者が「ニューラルコンピュータ」の技術論文を発表。計算、メモリ、I/Oを統合する新概念を提案。",
-        "category": "company",
-        "date": "2026-04-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Study of EUV Nanostructures Using AFM With High-Aspect Ratio Tip (Purdue, Intel, Bruker)",
-        "blurb": "Purdue大、Intel、BrukerがEUVナノ構造のAFM解析技術を発表。半導体製造の計測精度向上に貢献。",
+        "blurb": "パデュー大学、Intel、BrukerがEUVナノ構造のAFM解析技術を発表。半導体製造の計測精度向上に貢献。",
         "category": "company",
         "date": "2026-04-12",
         "stars": 3,
@@ -91,8 +54,44 @@
         }
       },
       {
+        "title": "Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. Of Maryland)",
+        "blurb": "NISTらが極限環境に耐えるフォトニックパッケージ技術を発表。高精度・高拡張性のフォトニックセンサー応用へ期待。",
+        "category": "company",
+        "date": "2026-04-12",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/photonic-packaging-resistant-to-extreme-environments-nist-johns-hopkins-u-of-maryland"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Impact of Surface States And Band Modulations in Ruthenium Interconnects (Incheon, Hanyang, UT Dallas)",
+        "blurb": "半導体材料ルテニウムの薄膜配線に関する研究論文が発表され、次世代デバイスの性能向上が期待される。",
+        "category": "company",
+        "date": "2026-04-12",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/impact-of-surface-states-and-band-modulations-in-ruthenium-interconnects-incheon-hanyang-ut-dallas"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "PDN Challenges In DRAM-Based Compute-In-Memory Systems (UT Austin)",
-        "blurb": "UTオースティン大の研究者がDRAMベースの計算内メモリシステムにおける電力供給網の課題に関する論文を発表。データ移動削減と省エネ化が期待される。",
+        "blurb": "UTオースティン大の研究者がDRAMベースの計算内メモリシステムにおける電力供給網の課題に関する論文を発表。データ移動削減と省エネ化に期待。",
         "category": "company",
         "date": "2026-04-12",
         "stars": 3,
@@ -110,7 +109,7 @@
       },
       {
         "title": "SSD Emulator For Massively Parallel, GPU-Centric Storage (KAIST)",
-        "blurb": "KAISTがGPU中心ストレージ向けSSDエミュレータ「SwarmIO」を発表。1億IOPS達成を目指す。",
+        "blurb": "KAISTがGPU中心ストレージ向けSSDエミュレータ「SwarmIO」を発表。1億IOPSを目指す。",
         "category": "company",
         "date": "2026-04-12",
         "stars": 3,
@@ -121,42 +120,6 @@
         "field": {
           "primary": "logic",
           "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「27年度後半の2nm量産誓う」 Rapidus、解析センター開設",
-        "blurb": "Rapidusは北海道千歳市に2nm半導体解析・評価センターと後工程R&D拠点を開設。2027年度後半の量産開始を目指す。",
-        "category": "company",
-        "date": "2026-04-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/11/news031.html"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-        "blurb": "大規模LLM学習で、ハードウェア起因の「サイレントデータ破損」が信頼性の課題となっている。ベルリン工科大学の研究者が論文を発表。",
-        "category": "company",
-        "date": "2026-04-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
           "process": null,
           "market": null,
           "industry": null

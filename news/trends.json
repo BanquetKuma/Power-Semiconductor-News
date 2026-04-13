@@ -1,39 +1,97 @@
 {
-  "generated_at": "2026-04-13T06:11:54.547216+09:00",
-  "date": "2026-04-13",
+  "generated_at": "2026-04-14T06:18:37.660436+09:00",
+  "date": "2026-04-14",
   "meta_trends": [
     {
-      "name": "GaNパワー半導体の普及加速",
-      "confidence": 0.9,
+      "name": "GaN技術の普及と高性能化",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "GaN技術は高効率・小型化を実現し、EV、データセンター、オーディオなど幅広い分野での採用が進展しています。",
+      "summary": "窒化ガリウム(GaN)技術が、高効率・小型化を実現し、パワーエレクトロニクス、AI、データセンター、車載分野で急速に採用されている。",
       "analysis": {
-        "short_term": "需要拡大と製品ラインナップ拡充が継続。",
-        "mid_term": "コスト競争力向上と標準化が普及の鍵。",
-        "investment_implications": "GaNデバイスメーカー、関連材料・装置メーカーに注目。"
+        "short_term": "GaNデバイスの性能向上とコスト競争力強化が進む。",
+        "mid_term": "次世代パワー半導体としての地位を確立し、多様な応用分野へ拡大。",
+        "investment_implications": "GaN関連技術を持つ企業への投資妙味が増す。"
       },
       "keywords": [
         "GaN",
-        "EV",
-        "データセンター",
-        "高効率"
+        "パワー半導体",
+        "高効率",
+        "小型化"
       ],
       "companies_mentioned": [
+        "Intel",
         "Rohm",
         "Toshiba",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "STMicroelectronics",
         "EPC",
         "Infineon"
       ]
     },
     {
-      "name": "AIインフラ向け需要の継続",
+      "name": "AIインフラと製造装置の需要拡大",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "datacenter",
+        "equipment",
+        "foundry",
+        "logic",
+        "memory"
+      ],
+      "summary": "AIの進化に伴い、AIサーバー、データセンター、およびそれらを支える半導体製造装置の需要が急増している。",
+      "analysis": {
+        "short_term": "AI需要が製造装置市場を牽引し、売上増が続く見込み。",
+        "mid_term": "AIチップの高性能化競争が激化し、関連インフラ投資が拡大。",
+        "investment_implications": "AIインフラ、製造装置メーカーへの投資が有望。"
+      },
+      "keywords": [
+        "AI",
+        "データセンター",
+        "製造装置",
+        "サーバー"
+      ],
+      "companies_mentioned": [
+        "Quantum Mesh",
+        "Rapidus"
+      ]
+    },
+    {
+      "name": "次世代半導体製造技術への巨額投資",
+      "confidence": 0.88,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "equipment",
+        "frontend",
+        "geopolitics"
+      ],
+      "summary": "各国政府や企業が、次世代半導体（2nmプロセス等）の国産化・量産化に向け、巨額の投資と支援を行っている。",
+      "analysis": {
+        "short_term": "Rapidusへの追加支援など、国産化に向けた動きが加速。",
+        "mid_term": "2nmプロセスの量産化に向けた技術開発・設備投資が本格化。",
+        "investment_implications": "国産化支援を受ける企業や関連サプライヤーに注目。"
+      },
+      "keywords": [
+        "2nmプロセス",
+        "Rapidus",
+        "国産化",
+        "政府支援"
+      ],
+      "companies_mentioned": [
+        "Rapidus",
+        "経産省"
+      ]
+    },
+    {
+      "name": "ハードウェア信頼性とデータ破損への懸念",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
@@ -41,134 +99,78 @@
         "datacenter",
         "memory",
         "logic",
-        "equipment"
+        "frontend"
       ],
-      "summary": "AI学習・推論に不可欠な高性能サーバー、HBMメモリ、GPUなどの需要が継続し、製造装置市場も拡大しています。",
+      "summary": "大規模LLM学習やGPU利用において、サイレントデータ破損やRowhammer攻撃など、ハードウェアの信頼性問題が顕在化している。",
       "analysis": {
-        "short_term": "HBM4の早期検証が進み、次世代AIシステムへの期待高まる。",
-        "mid_term": "データセンターの冷却技術（液浸冷却）や電力供給網の課題解決が重要。",
-        "investment_implications": "AIチップ、HBM、高性能サーバー、製造装置メーカーに恩恵。"
+        "short_term": "AIモデルの信頼性向上のため、ハードウェア監視・保護技術が重要に。",
+        "mid_term": "信頼性向上技術の開発競争が激化し、新たな標準化の動きも。",
+        "investment_implications": "信頼性向上技術やエラー検出・訂正技術を持つ企業に注目。"
       },
       "keywords": [
-        "AI",
-        "HBM",
-        "GPU",
-        "データセンター",
-        "製造装置"
-      ],
-      "companies_mentioned": [
-        "Intel",
-        "Samsung",
-        "Rapidus",
-        "Quantum Mesh",
-        "KAIST"
-      ]
-    },
-    {
-      "name": "地政学リスクとサプライチェーンの脆弱性",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "geopolitics",
-        "memory",
-        "equipment",
-        "foundry"
-      ],
-      "summary": "中東情勢悪化によるヘリウム供給停止危機は、半導体製造、特にAIブームを支えるメモリ供給に深刻な影響を与える可能性があります。",
-      "analysis": {
-        "short_term": "ヘリウム調達停止による製造ラインへの影響が懸念される。",
-        "mid_term": "サプライチェーンの多様化と代替材料・技術の模索が急務。",
-        "investment_implications": "サプライチェーンリスク管理能力の高い企業が有利。"
-      },
-      "keywords": [
-        "ヘリウム",
-        "地政学リスク",
-        "サプライチェーン",
-        "メモリ危機"
-      ],
-      "companies_mentioned": [
-        "Rapidus",
-        "台湾IC業界"
-      ]
-    },
-    {
-      "name": "日本半導体産業の再興への動き",
-      "confidence": 0.7,
-      "momentum": "rising",
-      "related_fields": [
-        "foundry",
-        "idm",
-        "equipment",
-        "general"
-      ],
-      "summary": "ローム・東芝・三菱電機の連携やRapidusの2nm量産計画など、日本の半導体産業復興に向けた動きが加速しています。",
-      "analysis": {
-        "short_term": "Rapidusの解析センター開設は量産化に向けた重要な一歩。",
-        "mid_term": "国際連携と国内技術力の強化が競争力維持の鍵。",
-        "investment_implications": "国内半導体関連企業、政府支援策の動向に注目。"
-      },
-      "keywords": [
-        "日本",
-        "Rapidus",
-        "連携",
-        "2nm"
-      ],
-      "companies_mentioned": [
-        "Rohm",
-        "Toshiba",
-        "Mitsubishi Electric",
-        "Rapidus",
-        "ダイフク"
-      ]
-    },
-    {
-      "name": "次世代コンピューティング技術の探求",
-      "confidence": 0.65,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "memory",
-        "logic",
-        "datacenter"
-      ],
-      "summary": "ニューラルコンピュータや量子コンピュータ、計算内メモリなど、既存の枠を超えた新しいコンピューティングアーキテクチャの研究開発が進んでいます。",
-      "analysis": {
-        "short_term": "量子コンピュータのクラウドサービス提供が開始。",
-        "mid_term": "計算内メモリはデータ移動削減と省エネ化に貢献。",
-        "investment_implications": "革新的技術を持つスタートアップや研究機関への投資機会。"
-      },
-      "keywords": [
-        "ニューラルコンピュータ",
-        "量子コンピュータ",
-        "計算内メモリ",
+        "サイレントデータ破損",
+        "Rowhammer",
+        "信頼性",
         "LLM"
       ],
       "companies_mentioned": [
-        "Meta AI",
-        "KAUST",
-        "TU Berlin",
-        "理研",
-        "阪大",
-        "UT Austin"
+        "U. of Toronto",
+        "TU Berlin"
+      ]
+    },
+    {
+      "name": "新素材・新技術による性能向上",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "analog",
+        "frontend",
+        "memory",
+        "datacenter"
+      ],
+      "summary": "ルテニウム配線、EUVナノ構造解析、フォトニックパッケージ、GAAトランジスタによる量子ビット読み出しなど、新素材・新技術が性能向上を牽引。",
+      "analysis": {
+        "short_term": "基礎研究段階の技術が実用化に向け進展。",
+        "mid_term": "次世代デバイスの性能向上に貢献し、新たな市場を創出。",
+        "investment_implications": "先端材料・技術開発企業への長期的な投資機会。"
+      },
+      "keywords": [
+        "ルテニウム",
+        "EUV",
+        "フォトニック",
+        "GAA",
+        "量子ビット"
+      ],
+      "companies_mentioned": [
+        "Purdue",
+        "Intel",
+        "Bruker",
+        "NIST",
+        "Johns Hopkins",
+        "U. Of Maryland",
+        "Incheon",
+        "Hanyang",
+        "UT Dallas",
+        "帝京大"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "GaNパワー半導体の需要拡大",
-      "AIインフラ向け半導体・装置需要の継続",
-      "次世代メモリ（HBM4）への期待",
-      "日本国内の半導体産業への投資活発化"
+      "AI需要による半導体製造装置市場の拡大",
+      "GaN技術の広範な応用と性能向上",
+      "次世代半導体製造への巨額投資と政府支援",
+      "メモリ市場の価格高騰と需要増（2026年）"
     ],
     "bearish": [
-      "地政学リスク（ヘリウム供給停止）によるサプライチェーンの脆弱性",
-      "EV市場の減速懸念"
+      "ヘリウム調達停止による半導体製造への影響懸念",
+      "AIと地政学リスクによるメモリ危機"
     ],
     "neutral": [
-      "EUVナノ構造解析技術の進展",
-      "極限環境向けフォトニックパッケージ技術",
-      "車載MLCCの高容量化・小型化要求"
+      "EDA・IP市場はセグメント毎に強弱あり、詳細分析が必要",
+      "スタートアップ資金調達はAI・EDA・製造分野に集中"
     ]
   },
-  "source_count": 32
+  "source_count": 35
 }
