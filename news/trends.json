@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T06:18:37.660436+09:00",
-  "date": "2026-04-14",
+  "generated_at": "2026-04-15T06:19:28.951585+09:00",
+  "date": "2026-04-15",
   "meta_trends": [
     {
       "name": "GaN技術の普及と高性能化",
@@ -8,82 +8,84 @@
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
         "datacenter",
-        "industrial"
+        "automotive",
+        "audio"
       ],
-      "summary": "窒化ガリウム(GaN)技術が、高効率・小型化を実現し、パワーエレクトロニクス、AI、データセンター、車載分野で急速に採用されている。",
+      "summary": "GaN（窒化ガリウム）技術は、高効率・小型化を実現し、データセンター、車載、オーディオなど多岐にわたる分野で採用が進んでいます。",
       "analysis": {
-        "short_term": "GaNデバイスの性能向上とコスト競争力強化が進む。",
-        "mid_term": "次世代パワー半導体としての地位を確立し、多様な応用分野へ拡大。",
-        "investment_implications": "GaN関連技術を持つ企業への投資妙味が増す。"
+        "short_term": "新製品投入と技術提携が活発化。",
+        "mid_term": "コスト競争力向上と用途拡大が期待。",
+        "investment_implications": "GaN関連企業への投資妙味増大。"
       },
       "keywords": [
         "GaN",
-        "パワー半導体",
         "高効率",
-        "小型化"
+        "小型化",
+        "ゲートドライバ",
+        "チップレット"
       ],
       "companies_mentioned": [
         "Intel",
+        "STMicroelectronics",
         "Rohm",
         "Toshiba",
-        "Mitsubishi",
-        "STMicroelectronics",
-        "EPC",
-        "Infineon"
+        "Mitsubishi"
       ]
     },
     {
-      "name": "AIインフラと製造装置の需要拡大",
+      "name": "AIインフラ投資の継続拡大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "datacenter",
+        "ai",
         "equipment",
         "foundry",
-        "logic",
-        "memory"
+        "logic"
       ],
-      "summary": "AIの進化に伴い、AIサーバー、データセンター、およびそれらを支える半導体製造装置の需要が急増している。",
+      "summary": "AI需要を背景に、データセンター向けインフラ、半導体製造装置、AIサーバへの投資が継続的に拡大しています。",
       "analysis": {
-        "short_term": "AI需要が製造装置市場を牽引し、売上増が続く見込み。",
-        "mid_term": "AIチップの高性能化競争が激化し、関連インフラ投資が拡大。",
-        "investment_implications": "AIインフラ、製造装置メーカーへの投資が有望。"
+        "short_term": "製造装置販売額の増加が続く見込み。",
+        "mid_term": "AIサーバの普及と冷却技術の進化。",
+        "investment_implications": "AIインフラ関連企業に注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
         "製造装置",
-        "サーバー"
+        "AIサーバ",
+        "液浸冷却"
       ],
       "companies_mentioned": [
+        "Rapidus",
         "Quantum Mesh",
-        "Rapidus"
+        "住友化学",
+        "住友電工グループ"
       ]
     },
     {
-      "name": "次世代半導体製造技術への巨額投資",
-      "confidence": 0.88,
+      "name": "次世代半導体製造技術への国家支援",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "foundry",
-        "equipment",
         "frontend",
+        "backend",
         "geopolitics"
       ],
-      "summary": "各国政府や企業が、次世代半導体（2nmプロセス等）の国産化・量産化に向け、巨額の投資と支援を行っている。",
+      "summary": "各国政府は、次世代半導体メーカーへの巨額支援を通じて、国内製造能力の強化と技術覇権を目指しています。",
       "analysis": {
-        "short_term": "Rapidusへの追加支援など、国産化に向けた動きが加速。",
-        "mid_term": "2nmプロセスの量産化に向けた技術開発・設備投資が本格化。",
-        "investment_implications": "国産化支援を受ける企業や関連サプライヤーに注目。"
+        "short_term": "Rapidusへの追加支援が決定。",
+        "mid_term": "2nm量産に向けた開発・評価体制強化。",
+        "investment_implications": "国家支援を受ける企業の成長性に期待。"
       },
       "keywords": [
-        "2nmプロセス",
         "Rapidus",
-        "国産化",
-        "政府支援"
+        "2nm",
+        "国家支援",
+        "製造能力",
+        "解析センター"
       ],
       "companies_mentioned": [
         "Rapidus",
@@ -91,86 +93,79 @@
       ]
     },
     {
-      "name": "ハードウェア信頼性とデータ破損への懸念",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "datacenter",
-        "memory",
-        "logic",
-        "frontend"
-      ],
-      "summary": "大規模LLM学習やGPU利用において、サイレントデータ破損やRowhammer攻撃など、ハードウェアの信頼性問題が顕在化している。",
-      "analysis": {
-        "short_term": "AIモデルの信頼性向上のため、ハードウェア監視・保護技術が重要に。",
-        "mid_term": "信頼性向上技術の開発競争が激化し、新たな標準化の動きも。",
-        "investment_implications": "信頼性向上技術やエラー検出・訂正技術を持つ企業に注目。"
-      },
-      "keywords": [
-        "サイレントデータ破損",
-        "Rowhammer",
-        "信頼性",
-        "LLM"
-      ],
-      "companies_mentioned": [
-        "U. of Toronto",
-        "TU Berlin"
-      ]
-    },
-    {
-      "name": "新素材・新技術による性能向上",
+      "name": "AI・EDA・製造分野のスタートアップ資金調達",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "analog",
+        "ai",
+        "equipment",
+        "foundry",
         "frontend",
-        "memory",
-        "datacenter"
+        "backend",
+        "logic",
+        "analog"
       ],
-      "summary": "ルテニウム配線、EUVナノ構造解析、フォトニックパッケージ、GAAトランジスタによる量子ビット読み出しなど、新素材・新技術が性能向上を牽引。",
+      "summary": "AI、EDA、製造技術分野のスタートアップが大型資金調達を成功させており、イノベーションの加速が期待されます。",
       "analysis": {
-        "short_term": "基礎研究段階の技術が実用化に向け進展。",
-        "mid_term": "次世代デバイスの性能向上に貢献し、新たな市場を創出。",
-        "investment_implications": "先端材料・技術開発企業への長期的な投資機会。"
+        "short_term": "大型調達案件が継続する可能性。",
+        "mid_term": "新技術の実用化と市場投入が進む。",
+        "investment_implications": "有望なスタートアップへの早期投資機会。"
       },
       "keywords": [
-        "ルテニウム",
-        "EUV",
-        "フォトニック",
-        "GAA",
-        "量子ビット"
+        "スタートアップ",
+        "資金調達",
+        "AI",
+        "EDA",
+        "製造技術"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "信頼性・セキュリティ課題への対応",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "datacenter",
+        "frontend",
+        "backend"
+      ],
+      "summary": "大規模AI学習におけるサイレントデータ破損やGPUのRowhammer攻撃など、信頼性・セキュリティ課題への対応が重要になっています。",
+      "analysis": {
+        "short_term": "脆弱性対策技術の研究開発が進展。",
+        "mid_term": "ハードウェアレベルでの信頼性向上策が必須。",
+        "investment_implications": "信頼性・セキュリティソリューション企業に注目。"
+      },
+      "keywords": [
+        "信頼性",
+        "セキュリティ",
+        "サイレントデータ破損",
+        "Rowhammer",
+        "AI学習"
       ],
       "companies_mentioned": [
-        "Purdue",
-        "Intel",
-        "Bruker",
-        "NIST",
-        "Johns Hopkins",
-        "U. Of Maryland",
-        "Incheon",
-        "Hanyang",
-        "UT Dallas",
-        "帝京大"
+        "TU Berlin",
+        "University of Toronto"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体製造装置市場の拡大",
-      "GaN技術の広範な応用と性能向上",
-      "次世代半導体製造への巨額投資と政府支援",
-      "メモリ市場の価格高騰と需要増（2026年）"
+      "GaN技術の採用拡大",
+      "AIインフラ投資の増加",
+      "次世代半導体への巨額支援",
+      "スタートアップの活発な資金調達",
+      "半導体製造装置市場の拡大"
     ],
     "bearish": [
-      "ヘリウム調達停止による半導体製造への影響懸念",
-      "AIと地政学リスクによるメモリ危機"
+      "ヘリウム調達リスク",
+      "大規模AI学習における信頼性課題"
     ],
     "neutral": [
-      "EDA・IP市場はセグメント毎に強弱あり、詳細分析が必要",
-      "スタートアップ資金調達はAI・EDA・製造分野に集中"
+      "台湾の半導体戦略の動向",
+      "EDA/IP市場のセグメント別動向"
     ]
   },
-  "source_count": 35
+  "source_count": 29
 }

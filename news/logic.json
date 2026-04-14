@@ -1,31 +1,32 @@
 {
-  "generated_at": "2026-04-14T06:18:32.500919+09:00",
+  "generated_at": "2026-04-15T06:19:24.644359+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-    "summary": "トロント大学の研究者がGPUのRowhammer攻撃で、データ破損を超え特権昇格が可能になる「GPUBreach」を発表。",
+    "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
+    "summary": "異種NPUのデータ移動は、アーキテクチャ境界がシステム動作にどう影響するかを示す具体例。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto"
+        "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-        "blurb": "トロント大学の研究者がGPUのRowhammer攻撃で、データ破損を超え特権昇格が可能になる「GPUBreach」を発表。",
-        "category": "tools",
-        "date": "2026-04-13",
+        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
+        "blurb": "異種NPUのデータ移動は、アーキテクチャ境界がシステム動作にどう影響するかを示す具体例。",
+        "category": "business",
+        "date": "2026-04-14",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto"
+          "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows"
         },
         "field": {
           "primary": "logic",
@@ -35,7 +36,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }
