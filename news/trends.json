@@ -1,91 +1,125 @@
 {
-  "generated_at": "2026-04-15T06:19:28.951585+09:00",
-  "date": "2026-04-15",
+  "generated_at": "2026-04-16T06:20:29.991796+09:00",
+  "date": "2026-04-16",
   "meta_trends": [
     {
-      "name": "GaN技術の普及と高性能化",
+      "name": "AIインフラと高性能半導体の需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "datacenter",
-        "automotive",
-        "audio"
-      ],
-      "summary": "GaN（窒化ガリウム）技術は、高効率・小型化を実現し、データセンター、車載、オーディオなど多岐にわたる分野で採用が進んでいます。",
-      "analysis": {
-        "short_term": "新製品投入と技術提携が活発化。",
-        "mid_term": "コスト競争力向上と用途拡大が期待。",
-        "investment_implications": "GaN関連企業への投資妙味増大。"
-      },
-      "keywords": [
-        "GaN",
-        "高効率",
-        "小型化",
-        "ゲートドライバ",
-        "チップレット"
-      ],
-      "companies_mentioned": [
-        "Intel",
-        "STMicroelectronics",
-        "Rohm",
-        "Toshiba",
-        "Mitsubishi"
-      ]
-    },
-    {
-      "name": "AIインフラ投資の継続拡大",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
         "ai",
-        "equipment",
-        "foundry",
-        "logic"
+        "datacenter",
+        "logic",
+        "power",
+        "equipment"
       ],
-      "summary": "AI需要を背景に、データセンター向けインフラ、半導体製造装置、AIサーバへの投資が継続的に拡大しています。",
+      "summary": "AI、特にエージェントAIやデータセンターの冷却、GPUソフトウェアスタックの進化により、CPU、NPU、高性能電源、冷却ソリューション、製造装置への需要が急増しています。",
       "analysis": {
-        "short_term": "製造装置販売額の増加が続く見込み。",
-        "mid_term": "AIサーバの普及と冷却技術の進化。",
+        "short_term": "AIチップ・装置メーカーは引き続き好調。",
+        "mid_term": "GPUエコシステム競争が激化、新技術採用進む。",
         "investment_implications": "AIインフラ関連企業に注目。"
       },
       "keywords": [
         "AI",
+        "CPU",
+        "GPU",
+        "NPU",
         "データセンター",
-        "製造装置",
-        "AIサーバ",
-        "液浸冷却"
+        "冷却"
       ],
       "companies_mentioned": [
-        "Rapidus",
-        "Quantum Mesh",
-        "住友化学",
-        "住友電工グループ"
+        "AMD",
+        "NVIDIA",
+        "Quantum Mesh"
       ]
     },
     {
-      "name": "次世代半導体製造技術への国家支援",
+      "name": "次世代パワー半導体の普及加速",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial",
+        "datacenter",
+        "frontend"
+      ],
+      "summary": "GaNやSiCといった次世代パワー半導体が、EV、ロボティクス、AIデータセンター冷却、太陽光発電インバータなど、高効率・高性能が求められる分野で採用を拡大しています。",
+      "analysis": {
+        "short_term": "SiC/GaNデバイスの供給増とコスト低下期待。",
+        "mid_term": "EV・再生可能エネルギー分野での採用が本格化。",
+        "investment_implications": "パワー半導体材料・デバイスメーカーに投資妙味。"
+      },
+      "keywords": [
+        "GaN",
+        "SiC",
+        "EV",
+        "インバータ",
+        "データセンター冷却"
+      ],
+      "companies_mentioned": [
+        "EPC",
+        "SemiQ",
+        "Sigenergy"
+      ]
+    },
+    {
+      "name": "半導体製造・設計の高度化とAI活用",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "foundry",
         "frontend",
         "backend",
+        "equipment",
+        "ai",
         "geopolitics"
       ],
-      "summary": "各国政府は、次世代半導体メーカーへの巨額支援を通じて、国内製造能力の強化と技術覇権を目指しています。",
+      "summary": "AIは半導体設計・製造プロセス（EDA、検査、計測）の効率化・高度化を推進し、GAA、光電融合チップレット、2nmプロセスなどの先端技術開発も加速しています。",
       "analysis": {
-        "short_term": "Rapidusへの追加支援が決定。",
-        "mid_term": "2nm量産に向けた開発・評価体制強化。",
-        "investment_implications": "国家支援を受ける企業の成長性に期待。"
+        "short_term": "EDA・設計ツール市場は堅調。",
+        "mid_term": "先端プロセス（2nm）開発競争が激化。",
+        "investment_implications": "先端製造技術・EDA企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "EDA",
+        "GAA",
+        "チップレット",
+        "2nmプロセス",
+        "検査・計測"
+      ],
+      "companies_mentioned": [
+        "Rapidus",
+        "住友化学",
+        "imec",
+        "LSTC"
+      ]
+    },
+    {
+      "name": "半導体サプライチェーンの国内回帰・強化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "frontend",
+        "backend",
+        "geopolitics",
+        "equipment",
+        "wafer"
+      ],
+      "summary": "各国政府による半導体産業への巨額投資が進み、特に日本（Rapidus）では前工程から後工程まで一貫した生産体制構築を目指す動きが加速しています。",
+      "analysis": {
+        "short_term": "政府支援による国内拠点構築が進展。",
+        "mid_term": "サプライチェーンの安定化と技術競争が焦点。",
+        "investment_implications": "国内半導体関連企業への支援拡大。"
       },
       "keywords": [
         "Rapidus",
+        "国内投資",
+        "サプライチェーン",
         "2nm",
-        "国家支援",
-        "製造能力",
-        "解析センター"
+        "後工程"
       ],
       "companies_mentioned": [
         "Rapidus",
@@ -93,79 +127,52 @@
       ]
     },
     {
-      "name": "AI・EDA・製造分野のスタートアップ資金調達",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "equipment",
-        "foundry",
-        "frontend",
-        "backend",
-        "logic",
-        "analog"
-      ],
-      "summary": "AI、EDA、製造技術分野のスタートアップが大型資金調達を成功させており、イノベーションの加速が期待されます。",
-      "analysis": {
-        "short_term": "大型調達案件が継続する可能性。",
-        "mid_term": "新技術の実用化と市場投入が進む。",
-        "investment_implications": "有望なスタートアップへの早期投資機会。"
-      },
-      "keywords": [
-        "スタートアップ",
-        "資金調達",
-        "AI",
-        "EDA",
-        "製造技術"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "信頼性・セキュリティ課題への対応",
+      "name": "実装関連部品・材料市場の成長",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "logic",
-        "datacenter",
-        "frontend",
-        "backend"
+        "backend",
+        "equipment",
+        "wafer",
+        "automotive",
+        "industrial"
       ],
-      "summary": "大規模AI学習におけるサイレントデータ破損やGPUのRowhammer攻撃など、信頼性・セキュリティ課題への対応が重要になっています。",
+      "summary": "半導体実装関連部品・材料・装置の世界市場は、高性能化・高機能化の要求に伴い、2031年には24兆円超に拡大すると予測されています。",
       "analysis": {
-        "short_term": "脆弱性対策技術の研究開発が進展。",
-        "mid_term": "ハードウェアレベルでの信頼性向上策が必須。",
-        "investment_implications": "信頼性・セキュリティソリューション企業に注目。"
+        "short_term": "実装技術の進化が市場を牽引。",
+        "mid_term": "車載・産業機器向け需要が拡大。",
+        "investment_implications": "実装関連企業への投資機会。"
       },
       "keywords": [
-        "信頼性",
-        "セキュリティ",
-        "サイレントデータ破損",
-        "Rowhammer",
-        "AI学習"
+        "実装",
+        "部品",
+        "材料",
+        "装置",
+        "市場拡大"
       ],
       "companies_mentioned": [
-        "TU Berlin",
-        "University of Toronto"
+        "富士キメラ総研",
+        "住友電工グループ",
+        "京セラ",
+        "ウシオ電機"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "GaN技術の採用拡大",
-      "AIインフラ投資の増加",
-      "次世代半導体への巨額支援",
-      "スタートアップの活発な資金調達",
-      "半導体製造装置市場の拡大"
+      "AI関連ハードウェア・ソフトウェア需要の継続的な増加",
+      "次世代パワー半導体（SiC/GaN）の採用拡大",
+      "半導体製造装置市場の堅調な見通し",
+      "政府による半導体産業への大規模投資と支援",
+      "半導体実装関連市場の成長予測"
     ],
     "bearish": [
-      "ヘリウム調達リスク",
-      "大規模AI学習における信頼性課題"
+      "ヘリウム調達停止のリスク（AIブームへの潜在的影響）"
     ],
     "neutral": [
-      "台湾の半導体戦略の動向",
-      "EDA/IP市場のセグメント別動向"
+      "EDA・IP市場のセグメントごとの強弱のばらつき",
+      "台湾の半導体戦略における強みと限界"
     ]
   },
-  "source_count": 29
+  "source_count": 35
 }

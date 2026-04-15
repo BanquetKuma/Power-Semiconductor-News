@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-15T06:19:24.644359+09:00",
+  "generated_at": "2026-04-16T06:20:23.889885+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-    "summary": "異種NPUのデータ移動は、アーキテクチャ境界がシステム動作にどう影響するかを示す具体例。",
+    "title": "AMD「ROCm」はNVIDIA「CUDA」に対抗できるのか",
+    "summary": "AMDがNVIDIAのCUDAに対抗するため、データセンター向けGPUソフトウェアスタック「ROCm」の戦略を強化。性能だけでなくソフトウェアエコシステムで勝負。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/15/news090.html"
       }
     ]
   },
@@ -19,21 +19,21 @@
     "tech": [],
     "market": [
       {
-        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-        "blurb": "異種NPUのデータ移動は、アーキテクチャ境界がシステム動作にどう影響するかを示す具体例。",
+        "title": "AMD「ROCm」はNVIDIA「CUDA」に対抗できるのか",
+        "blurb": "AMDがNVIDIAのCUDAに対抗するため、データセンター向けGPUソフトウェアスタック「ROCm」の戦略を強化。性能だけでなくソフトウェアエコシステムで勝負。",
         "category": "business",
-        "date": "2026-04-14",
+        "date": "2026-04-15",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/15/news090.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
-          "industry": null
+          "market": "datacenter",
+          "industry": "fabless"
         }
       }
     ]

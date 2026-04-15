@@ -1,106 +1,88 @@
 {
-  "generated_at": "2026-04-15T06:19:24.643148+09:00",
+  "generated_at": "2026-04-16T06:20:23.888235+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Sigenergy Debuts High-Power PV Inverter Platform",
-    "summary": "Sigenergyは、電力規模の太陽光発電向けに、効率向上とコスト削減を実現する506kWの新型PVインバーターを発表しました。",
+    "title": "EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives",
+    "summary": "EPCがモーター駆動向け5kW GaN 3相インバータを発表。ロボティクスや小型EV向けに高効率・高速スイッチングを実現。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/sigenergy-debuts-high-power-pv-inverter-platform"
+        "url": "https://www.powerelectronicsnews.com/epc-launches-5-kw-gan-3-phase-inverters-for-motor-drives"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Solid-state transformers’ path from concept to common",
-        "blurb": "固体変圧器(SST)は、データセンターで中期的現実となる見通し。業界投資や標準化が進む。",
+        "title": "EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives",
+        "blurb": "EPCがモーター駆動向け5kW GaN 3相インバータを発表。ロボティクスや小型EV向けに高効率・高速スイッチングを実現。",
         "category": "business",
-        "date": "2026-04-14",
+        "date": "2026-04-15",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/solid-state-transformers-path-from-concept-to-common"
+          "url": "https://www.powerelectronicsnews.com/epc-launches-5-kw-gan-3-phase-inverters-for-motor-drives"
         },
         "field": {
-          "primary": "datacenter",
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "RECOM Expands Portfolio with Discrete Power Solutions",
+        "blurb": "RECOMがディスクリート電源ソリューションで製品ラインを拡充。新ICとトランスで、絶縁型DC/DCコンバータの設計柔軟性が向上。",
+        "category": "business",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/recom-expands-portfolio-with-discrete-power-solutions"
+        },
+        "field": null
+      },
+      {
+        "title": "Magnetic Metals’ Tape Wound Cores Optimize the Performance of Sophisticated Electronic Components",
+        "blurb": "Magnetic Metals社のテープ巻きコアは、航空宇宙、EV、産業制御など高度な電子部品の性能を最大化し、電力エレクトロニクス分野に貢献。",
+        "category": "business",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/magnetic-metals-tape-wound-cores-optimize-the-performance-of-sophisticated-electronic-components"
+        },
+        "field": {
+          "primary": "industrial",
           "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "SemiQ SiC Gen3 technology empowers AI data center cooling",
+        "blurb": "SemiQの次世代SiC技術がAIデータセンターの冷却を強化。1200V SiCモジュールをチラー、ポンプ、ドライブに適用。",
+        "category": "business",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/semiq-sic-gen3-technology-empowers-ai-data-center-cooling"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": "datacenter",
           "industry": null
         }
       },
       {
-        "title": "AOS Protection Switches Support Type-C Extended Power Delivery",
-        "blurb": "AOSがUSB Type-C EPR対応の保護スイッチを発表。安全マージンを確保し、効率的で安全なUSB Type-C EPRを実現。",
-        "category": "business",
-        "date": "2026-04-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/aos-protection-switches-support-type-c-extended-power-delivery"
-        },
-        "field": null
-      },
-      {
-        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-        "blurb": "異種NPUのデータ移動は、アーキテクチャ境界がシステム動作にどう影響するかを示す具体例。",
-        "category": "business",
-        "date": "2026-04-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-        "blurb": "半導体業界の技術論文まとめ：GAAベースのシリコンスピン量子ビット、AMS設計向け因果AI、SiC車載信頼性、エージェントHLS、共包光、製造制約プログラミング、LLMによる自動セキュリティ検証。",
-        "category": "business",
-        "date": "2026-04-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14"
-        },
-        "field": {
-          "primary": "miniaturization",
-          "device": null,
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "京セラ、ウシオ電機の半導体レーザー事業を取得へ",
-        "blurb": "京セラがウシオ電機の半導体レーザー事業を10億円で取得。車載やARグラス向け技術基盤強化が狙い。2027年4月完了予定。",
-        "category": "business",
-        "date": "2026-04-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/14/news123.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Sigenergy Debuts High-Power PV Inverter Platform",
-        "blurb": "Sigenergyは、電力規模の太陽光発電向けに、効率向上とコスト削減を実現する506kWの新型PVインバーターを発表しました。",
+        "blurb": "Sigenergyが506kWの新型PVインバーターを発表。電力規模の太陽光発電向けに効率向上、コスト削減、制御強化を実現。",
         "category": "business",
         "date": "2026-04-15",
         "stars": 3,
@@ -115,128 +97,230 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Why More CPUs Are Needed For Agentic AI",
+        "blurb": "エージェントAIは機械同士の対話でCPU需要が急増。汎用処理能力の向上が不可欠となる。",
+        "category": "business",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/why-more-cpus-are-needed-for-agentic-ai"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Blog Review: Apr. 15",
+        "blurb": "eUSB2-V2の進歩、コンデンサの解説、カスタムAIチップ、GaNチップレット、プロンプトとインフラについて解説。",
+        "category": "business",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-apr-15"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI Growing Impact On Chip Design And EDA Tools",
+        "blurb": "AIが半導体設計とEDAツールに与える影響が増大。顧客はより高速な設計と自動化を求めている。",
+        "category": "business",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-growing-impact-on-chip-design-and-eda-tools"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "半導体の実装関連部品など、31年に24兆円市場へ",
+        "blurb": "富士キメラ総研は、半導体実装関連部品・材料・装置の世界市場が2031年に24兆円超に拡大すると予測。2025年比で約1.6倍の成長を見込む。",
+        "category": "business",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/15/news050.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AMD「ROCm」はNVIDIA「CUDA」に対抗できるのか",
+        "blurb": "AMDがNVIDIAのCUDAに対抗するため、データセンター向けGPUソフトウェアスタック「ROCm」の戦略を強化。性能だけでなくソフトウェアエコシステムで勝負。",
+        "category": "business",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/15/news090.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "datacenter",
+          "industry": "fabless"
+        }
       }
     ],
     "tools": [
       {
-        "title": "Research Bits: Apr. 14",
-        "blurb": "エッジデバイス認証、超高温動作、DNAとペロブスカイトを組み合わせたメモリスタ技術に関する研究。",
+        "title": "Give bare-metal multicore processing a try",
+        "blurb": "ベアメタルマルチコア処理は、性能とエネルギー効率を向上させます。この手法は多くのコーディング状況で利点があります。",
         "category": "tools",
-        "date": "2026-04-14",
+        "date": "2026-04-15",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-apr-14"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "company": [
-      {
-        "title": "TDK Launches Ultra-Small Filters for Audio Noise Suppression",
-        "blurb": "TDKは、スマートフォンやウェアラブル機器向けに、高周波ノイズを抑制し音質を保つ超小型フィルターを発売。",
-        "category": "company",
-        "date": "2026-04-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/tdk-launches-ultra-small-filters-for-audio-noise-suppression"
+          "name": "edn.com",
+          "url": "https://www.edn.com/give-bare-metal-multicore-processing-a-try"
         },
         "field": null
       },
       {
-        "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-        "blurb": "半導体製造におけるAI活用は、ディープラーニングにより検査・計測の精度を向上させ、見逃しや誤読を防ぐ。",
-        "category": "company",
-        "date": "2026-04-14",
+        "title": "8 Wi-Fi security guidelines issued by Wireless Broadband Alliance",
+        "blurb": "WBAがWi-Fiセキュリティガイドライン8項目を発表。公共、企業、IoT環境でのリスク低減とシームレスなローミングを支援。",
+        "category": "tools",
+        "date": "2026-04-15",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing"
+          "name": "edn.com",
+          "url": "https://www.edn.com/8-wi-fi-security-guidelines-issued-by-wireless-broadband-alliance"
         },
         "field": {
-          "primary": "general",
+          "primary": "industrial",
           "device": null,
           "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
       },
       {
-        "title": "タングステンの製造能力1.5倍に、住友電工グループ",
-        "blurb": "住友電工グループは、タングステン粉末等の製造能力を約1.5倍にするため、富山に新工場を建設。2028年度上期稼働予定で、投資額は約159億円。",
-        "category": "company",
-        "date": "2026-04-14",
+        "title": "Lightrun Report Reveals Reliability Issues in AI-Generated Code",
+        "blurb": "AI生成コードの信頼性に課題、ランタイム可視性の限界が原因。SRE・DevOpsリーダー200人調査。",
+        "category": "tools",
+        "date": "2026-04-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/14/news036.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/lightrun-report-reveals-reliability-issues-in-ai-generated-code"
         },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "Join Us for the ESD Tech Forum Virtual Event in April",
+        "blurb": "Embedded.comが4月28-29日にESD Tech Forumをオンライン開催。組み込みシステム設計の重要分野に焦点を当てる。",
+        "category": "company",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/join-us-for-the-esd-tech-forum-virtual-event-in-april"
+        },
+        "field": null
       },
       {
-        "title": "台湾の半導体戦略 強みと限界――電子版2026年4月号",
-        "blurb": "台湾の半導体戦略の強みと限界について、電子版2026年4月号でEE Exclusiveとして先行公開。",
+        "title": "Rapidus、IIM-1を「世界初の前／後工程一貫工場に」",
+        "blurb": "Rapidusは北海道千歳市に2nm半導体向け解析センターと後工程拠点を開設。世界初の前／後工程一貫工場を目指す。",
         "category": "company",
-        "date": "2026-04-14",
+        "date": "2026-04-15",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/15/news031.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/15/news044.html"
         },
         "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "先端半導体用フォトレジスト技術棟建設、住友化学",
-        "blurb": "住友化学は大阪工場に先端半導体用フォトレジストの技術棟を建設。2027年度末完成予定。",
-        "category": "company",
-        "date": "2026-04-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/14/news035.html"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "光電融合チップレットの技術開発を開始　LSTCとimec",
-        "blurb": "LSTCとimecが光電融合チップレット開発を開始。AI社会のデータ通信量増大と消費電力増大の解決を目指す。",
-        "category": "company",
-        "date": "2026-04-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/14/news051.html"
-        },
-        "field": {
-          "primary": "backend",
+          "primary": "foundry",
           "device": null,
           "process": "backend",
           "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "自然界に存在しない構造を持つ2次元酸化鉄を作製",
+        "blurb": "早稲田大学などの研究グループが、自然界にない構造の2次元酸化鉄を作製した。",
+        "category": "company",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/15/news048.html"
+        },
+        "field": null
+      },
+      {
+        "title": "The system architect’s sketchbook: The AI hiring frenzy",
+        "blurb": "AIはハードウェアを設計しない。ハードウェアを設計するのは人間である。AI人材獲得競争が激化している。",
+        "category": "company",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/the-system-architects-sketchbook-the-ai-hiring-frenzy"
+        },
+        "field": null
+      },
+      {
+        "title": "Join Us for the ESD Tech Forum Virtual Event in April",
+        "blurb": "4月に開催されるESD Tech Forumバーチャルイベントの告知。組み込み設計におけるシリコンからシステムまでのイノベーションに焦点を当てる。",
+        "category": "company",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/join-us-for-the-esd-tech-forum-virtual-event-in-april"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Microchip Expands DSC Line for AI and Motor Control",
+        "blurb": "マイクロチップ、AI・モーター制御向けDSC新シリーズ発表。高効率電力変換、リアルタイム制御、量子耐性セキュリティに対応。",
+        "category": "company",
+        "date": "2026-04-15",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/microchip-expands-dsc-line-for-ai-and-motor-control"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
           "industry": null
         }
       }
