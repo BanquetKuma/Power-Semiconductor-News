@@ -1,39 +1,77 @@
 {
-  "generated_at": "2026-04-16T06:20:23.889885+09:00",
+  "generated_at": "2026-04-17T06:18:23.601693+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AMD「ROCm」はNVIDIA「CUDA」に対抗できるのか",
-    "summary": "AMDがNVIDIAのCUDAに対抗するため、データセンター向けGPUソフトウェアスタック「ROCm」の戦略を強化。性能だけでなくソフトウェアエコシステムで勝負。",
+    "title": "eBeam Initiative At SPIE ALP 2026: Continuing Progress On Curvilinear, EUV, And Data Challenges",
+    "summary": "eBeamイニシアチブは、GPU計算とマルチビームマスク描画により、曲線マスク作成の制約を解消し、進捗を続けている。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/15/news090.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/ebeam-initiative-at-spie-alp-2026-continuing-progress-on-curvilinear-euv-and-data-challenges"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "AMD「ROCm」はNVIDIA「CUDA」に対抗できるのか",
-        "blurb": "AMDがNVIDIAのCUDAに対抗するため、データセンター向けGPUソフトウェアスタック「ROCm」の戦略を強化。性能だけでなくソフトウェアエコシステムで勝負。",
-        "category": "business",
-        "date": "2026-04-15",
+        "title": "インフィニオンがTLVR統合パワーモジュール　AIプロセッサ向け",
+        "blurb": "インフィニオンがAIプロセッサ向けTLVR統合パワーモジュールを発表。小型で高電流密度を実現。",
+        "category": "company",
+        "date": "2026-04-16",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/15/news090.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/16/news029.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "datacenter",
-          "industry": "fabless"
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Automate And Speed Up TCAD Calibration With Expert Modules And ML Calibration Accelerator",
+        "blurb": "TCADキャリブレーションを高速化するエキスパートモジュールとMLキャリブレーションアクセラレータが登場。テストウェハからのフィードバックで精度向上。",
+        "category": "tools",
+        "date": "2026-04-16",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/automate-and-speed-up-tcad-calibration-with-expert-modules-and-ml-calibration-accelerator"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "eBeam Initiative At SPIE ALP 2026: Continuing Progress On Curvilinear, EUV, And Data Challenges",
+        "blurb": "eBeamイニシアチブは、GPU計算とマルチビームマスク描画により、曲線マスク作成の制約を解消し、進捗を続けている。",
+        "category": "business",
+        "date": "2026-04-16",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ebeam-initiative-at-spie-alp-2026-continuing-progress-on-curvilinear-euv-and-data-challenges"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "equipment",
+          "market": null,
+          "industry": null
         }
       }
     ]

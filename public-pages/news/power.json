@@ -1,86 +1,69 @@
 {
-  "generated_at": "2026-04-16T06:20:23.889583+09:00",
+  "generated_at": "2026-04-17T06:18:23.601058+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives",
-    "summary": "EPCがモーター駆動向け5kW GaN 3相インバータを発表。ロボティクスや小型EV向けに高効率・高速スイッチングを実現。",
+    "title": "Power Corner: Wolfspeed CTO Dr. Elif Balkas on 300-mm SiC for AI and HPC Advanced Packaging",
+    "summary": "Wolfspeed CTOがAI・HPC向け300mm SiCの役割拡大について語る。熱管理からフォトニクスまで、AIインフラでの重要性が増している。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/epc-launches-5-kw-gan-3-phase-inverters-for-motor-drives"
+        "url": "https://www.powerelectronicsnews.com/power-corner-wolfspeed-cto-dr-elif-balkas-on-300-mm-sic-for-ai-and-hpc-advanced-packaging"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "Power Corner: Wolfspeed CTO Dr. Elif Balkas on 300-mm SiC for AI and HPC Advanced Packaging",
+        "blurb": "Wolfspeed CTOがAI・HPC向け300mm SiCの役割拡大について語る。熱管理からフォトニクスまで、AIインフラでの重要性が増している。",
+        "category": "company",
+        "date": "2026-04-16",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-wolfspeed-cto-dr-elif-balkas-on-300-mm-sic-for-ai-and-hpc-advanced-packaging"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "三菱電機、福岡にパワー半導体新工場　設計～生産一貫体制を構築",
+        "blurb": "三菱電機は福岡に新工場棟を建設し、設計から生産まで一貫体制を構築。パワー半導体の生産効率向上を目指す。",
+        "category": "company",
+        "date": "2026-04-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/16/news070.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives",
-        "blurb": "EPCがモーター駆動向け5kW GaN 3相インバータを発表。ロボティクスや小型EV向けに高効率・高速スイッチングを実現。",
+        "title": "Breakthrough Thin GaN Chiplet Technology",
+        "blurb": "窒化ガリウム(GaN)トランジスタとシリコンデジタル回路を統合し、パワーチップレットに複雑なコンピューティング機能を直接組み込む技術が開発された。",
         "category": "business",
-        "date": "2026-04-15",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/epc-launches-5-kw-gan-3-phase-inverters-for-motor-drives"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "SemiQ SiC Gen3 technology empowers AI data center cooling",
-        "blurb": "SemiQの次世代SiC技術がAIデータセンターの冷却を強化。1200V SiCモジュールをチラー、ポンプ、ドライブに適用。",
-        "category": "business",
-        "date": "2026-04-15",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/semiq-sic-gen3-technology-empowers-ai-data-center-cooling"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Sigenergy Debuts High-Power PV Inverter Platform",
-        "blurb": "Sigenergyが506kWの新型PVインバーターを発表。電力規模の太陽光発電向けに効率向上、コスト削減、制御強化を実現。",
-        "category": "business",
-        "date": "2026-04-15",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/sigenergy-debuts-high-power-pv-inverter-platform"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Blog Review: Apr. 15",
-        "blurb": "eUSB2-V2の進歩、コンデンサの解説、カスタムAIチップ、GaNチップレット、プロンプトとインフラについて解説。",
-        "category": "business",
-        "date": "2026-04-15",
+        "date": "2026-04-16",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-apr-15"
+          "url": "https://semiengineering.com/breakthrough-thin-gan-chiplet-technology"
         },
         "field": {
           "primary": "power",

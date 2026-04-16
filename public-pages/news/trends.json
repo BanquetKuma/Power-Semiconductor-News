@@ -1,178 +1,176 @@
 {
-  "generated_at": "2026-04-16T06:20:29.991796+09:00",
-  "date": "2026-04-16",
+  "generated_at": "2026-04-17T06:18:29.139416+09:00",
+  "date": "2026-04-17",
   "meta_trends": [
     {
-      "name": "AIインフラと高性能半導体の需要拡大",
+      "name": "次世代パワー半導体の需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "datacenter",
-        "logic",
         "power",
-        "equipment"
+        "automotive",
+        "datacenter",
+        "industrial"
       ],
-      "summary": "AI、特にエージェントAIやデータセンターの冷却、GPUソフトウェアスタックの進化により、CPU、NPU、高性能電源、冷却ソリューション、製造装置への需要が急増しています。",
+      "summary": "AI、EV、データセンター、産業機器向けに、SiCやGaNといった次世代パワー半導体の需要が急速に拡大している。高効率化、小型化、高速化が求められている。",
       "analysis": {
-        "short_term": "AIチップ・装置メーカーは引き続き好調。",
-        "mid_term": "GPUエコシステム競争が激化、新技術採用進む。",
-        "investment_implications": "AIインフラ関連企業に注目。"
+        "short_term": "供給能力増強と技術開発競争が激化。",
+        "mid_term": "主要デバイスの普及とコスト低下が進む。",
+        "investment_implications": "関連技術・材料メーカーへの投資妙味。"
       },
       "keywords": [
+        "SiC",
+        "GaN",
+        "EV",
         "AI",
-        "CPU",
-        "GPU",
-        "NPU",
-        "データセンター",
-        "冷却"
+        "データセンター"
       ],
       "companies_mentioned": [
-        "AMD",
-        "NVIDIA",
-        "Quantum Mesh"
+        "Wolfspeed",
+        "EPC",
+        "SemiQ",
+        "インフィニオン",
+        "三菱電機"
       ]
     },
     {
-      "name": "次世代パワー半導体の普及加速",
+      "name": "AI・HPC向けインフラ投資加速",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "automotive",
-        "industrial",
         "datacenter",
-        "frontend"
-      ],
-      "summary": "GaNやSiCといった次世代パワー半導体が、EV、ロボティクス、AIデータセンター冷却、太陽光発電インバータなど、高効率・高性能が求められる分野で採用を拡大しています。",
-      "analysis": {
-        "short_term": "SiC/GaNデバイスの供給増とコスト低下期待。",
-        "mid_term": "EV・再生可能エネルギー分野での採用が本格化。",
-        "investment_implications": "パワー半導体材料・デバイスメーカーに投資妙味。"
-      },
-      "keywords": [
-        "GaN",
-        "SiC",
-        "EV",
-        "インバータ",
-        "データセンター冷却"
-      ],
-      "companies_mentioned": [
-        "EPC",
-        "SemiQ",
-        "Sigenergy"
-      ]
-    },
-    {
-      "name": "半導体製造・設計の高度化とAI活用",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "foundry",
-        "frontend",
-        "backend",
-        "equipment",
         "ai",
-        "geopolitics"
+        "power",
+        "logic"
       ],
-      "summary": "AIは半導体設計・製造プロセス（EDA、検査、計測）の効率化・高度化を推進し、GAA、光電融合チップレット、2nmプロセスなどの先端技術開発も加速しています。",
+      "summary": "AI・HPCの性能向上には、高性能なプロセッサだけでなく、それを支える電源、冷却、データ通信インフラが不可欠であり、関連投資が加速している。",
       "analysis": {
-        "short_term": "EDA・設計ツール市場は堅調。",
-        "mid_term": "先端プロセス（2nm）開発競争が激化。",
-        "investment_implications": "先端製造技術・EDA企業に注目。"
+        "short_term": "データセンターの電力・冷却ソリューションが注目。",
+        "mid_term": "シリコンフォトニクス等の新技術の商用化が進む。",
+        "investment_implications": "データセンターインフラ関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "EDA",
-        "GAA",
-        "チップレット",
-        "2nmプロセス",
-        "検査・計測"
+        "HPC",
+        "データセンター",
+        "電源",
+        "冷却",
+        "シリコンフォトニクス"
       ],
       "companies_mentioned": [
-        "Rapidus",
-        "住友化学",
-        "imec",
-        "LSTC"
+        "Wolfspeed",
+        "SemiQ",
+        "Sigenergy",
+        "TDK",
+        "京セラ",
+        "住友電工グループ"
       ]
     },
     {
-      "name": "半導体サプライチェーンの国内回帰・強化",
+      "name": "先端パッケージング技術の重要性増大",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "logic",
+        "ai",
+        "automotive",
+        "datacenter"
+      ],
+      "summary": "チップレット化やパネルレベルパッケージングなど、半導体の性能向上とコスト削減を実現する先端パッケージング技術の開発競争が激化している。",
+      "analysis": {
+        "short_term": "チップレット標準化と技術課題解決が焦点。",
+        "mid_term": "パネルレベルパッケージングの量産化が進展。",
+        "investment_implications": "パッケージング材料・装置メーカーに機会。"
+      },
+      "keywords": [
+        "チップレット",
+        "パネルレベルパッケージング",
+        "フリップチップ",
+        "光電融合"
+      ],
+      "companies_mentioned": [
+        "LSTC",
+        "imec",
+        "AMD",
+        "京セラ"
+      ]
+    },
+    {
+      "name": "半導体製造の自律化・高度化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
         "frontend",
         "backend",
-        "geopolitics",
+        "foundry",
         "equipment",
-        "wafer"
+        "automotive"
       ],
-      "summary": "各国政府による半導体産業への巨額投資が進み、特に日本（Rapidus）では前工程から後工程まで一貫した生産体制構築を目指す動きが加速しています。",
+      "summary": "歩留まり向上とコスト削減のため、製造プロセスの自動化、AI活用、予防保全といった自律化技術の開発が進んでいる。",
       "analysis": {
-        "short_term": "政府支援による国内拠点構築が進展。",
-        "mid_term": "サプライチェーンの安定化と技術競争が焦点。",
-        "investment_implications": "国内半導体関連企業への支援拡大。"
+        "short_term": "AIによるTCADキャリブレーションが加速。",
+        "mid_term": "自律型ファブの実現に向けた基盤技術が確立。",
+        "investment_implications": "製造装置・ソフトウェア関連企業に注目。"
       },
       "keywords": [
-        "Rapidus",
-        "国内投資",
-        "サプライチェーン",
-        "2nm",
-        "後工程"
+        "自律化",
+        "AI",
+        "TCAD",
+        "予防保全",
+        "製造装置"
       ],
       "companies_mentioned": [
         "Rapidus",
-        "経産省"
+        "住友化学"
       ]
     },
     {
-      "name": "実装関連部品・材料市場の成長",
+      "name": "地政学リスクと国内生産体制強化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "equipment",
-        "wafer",
-        "automotive",
-        "industrial"
+        "foundry",
+        "geopolitics",
+        "frontend",
+        "backend"
       ],
-      "summary": "半導体実装関連部品・材料・装置の世界市場は、高性能化・高機能化の要求に伴い、2031年には24兆円超に拡大すると予測されています。",
+      "summary": "地政学リスクの高まりを受け、各国で半導体サプライチェーンの強靭化と国内生産能力の強化が進められている。",
       "analysis": {
-        "short_term": "実装技術の進化が市場を牽引。",
-        "mid_term": "車載・産業機器向け需要が拡大。",
-        "investment_implications": "実装関連企業への投資機会。"
+        "short_term": "政府支援による国内メーカーへの投資が活発化。",
+        "mid_term": "前工程・後工程一貫体制の構築が進む。",
+        "investment_implications": "国内半導体関連企業への支援策に注目。"
       },
       "keywords": [
-        "実装",
-        "部品",
-        "材料",
-        "装置",
-        "市場拡大"
+        "地政学リスク",
+        "国内生産",
+        "サプライチェーン",
+        "Rapidus",
+        "経産省"
       ],
       "companies_mentioned": [
-        "富士キメラ総研",
-        "住友電工グループ",
-        "京セラ",
-        "ウシオ電機"
+        "Rapidus",
+        "経産省",
+        "三菱電機",
+        "住友化学"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連ハードウェア・ソフトウェア需要の継続的な増加",
-      "次世代パワー半導体（SiC/GaN）の採用拡大",
-      "半導体製造装置市場の堅調な見通し",
-      "政府による半導体産業への大規模投資と支援",
-      "半導体実装関連市場の成長予測"
+      "次世代パワー半導体（SiC, GaN）の需要急増",
+      "AI・HPC向けインフラ投資の拡大",
+      "先端パッケージング技術への期待",
+      "政府による半導体産業への支援強化"
     ],
     "bearish": [
-      "ヘリウム調達停止のリスク（AIブームへの潜在的影響）"
+      "パネルレベルパッケージングにおける技術的課題",
+      "チップレット標準化の遅れ"
     ],
     "neutral": [
-      "EDA・IP市場のセグメントごとの強弱のばらつき",
-      "台湾の半導体戦略における強みと限界"
+      "DRAMの微細化プロセスにおける歩留まり懸念",
+      "シリコンフォトニクスの普及に向けた課題"
     ]
   },
-  "source_count": 35
+  "source_count": 30
 }

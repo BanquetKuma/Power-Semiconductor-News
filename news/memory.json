@@ -1,30 +1,32 @@
 {
-  "generated_at": "2026-04-13T06:11:48.677516+09:00",
+  "generated_at": "2026-04-17T06:18:23.601323+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "PDN Challenges In DRAM-Based Compute-In-Memory Systems (UT Austin)",
-    "summary": "UTオースティン大の研究者がDRAMベースの計算内メモリシステムにおける電力供給網の課題に関する論文を発表。データ移動削減と省エネ化が期待される。",
+    "title": "Unraveling DRAM SAQP Process Complexity With Monte Carlo Virtual Fabrication",
+    "summary": "DRAMのSAQPプロセスにおける微細な寸法変動が性能と歩留まりに影響。モンテカルロ仮想製造で複雑性を解明。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/pdn-challenges-in-dram-based-compute-in-memory-systems-ut-austin"
+        "url": "https://semiengineering.com/unraveling-dram-saqp-process-complexity-with-monte-carlo-virtual-fabrication"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "PDN Challenges In DRAM-Based Compute-In-Memory Systems (UT Austin)",
-        "blurb": "UTオースティン大の研究者がDRAMベースの計算内メモリシステムにおける電力供給網の課題に関する論文を発表。データ移動削減と省エネ化が期待される。",
-        "category": "company",
-        "date": "2026-04-12",
+        "title": "Unraveling DRAM SAQP Process Complexity With Monte Carlo Virtual Fabrication",
+        "blurb": "DRAMのSAQPプロセスにおける微細な寸法変動が性能と歩留まりに影響。モンテカルロ仮想製造で複雑性を解明。",
+        "category": "business",
+        "date": "2026-04-16",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/pdn-challenges-in-dram-based-compute-in-memory-systems-ut-austin"
+          "url": "https://semiengineering.com/unraveling-dram-saqp-process-complexity-with-monte-carlo-virtual-fabrication"
         },
         "field": {
           "primary": "memory",
@@ -34,8 +36,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
