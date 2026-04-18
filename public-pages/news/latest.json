@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-18T06:17:54.381521+09:00",
+  "generated_at": "2026-04-19T06:12:26.039429+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "SiC Gen3 Technology, Cooling Solutions for Data Centers, Solid-State Transformers: Power Electronics Week Insights",
-    "summary": "パワーエレクトロニクスウィークでは、SiC Gen3技術、データセンター冷却、固体ステートトランスの最新動向が紹介された。",
+    "summary": "パワーエレクトロニクスウィークでは、SiC Gen3技術、データセンター冷却、全固体変圧器の最新動向が紹介された。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -15,92 +15,8 @@
   "sections": {
     "business": [
       {
-        "title": "What Rising Rack Densities Mean for Power Connectors",
-        "blurb": "データセンターの高密度化が進み、液冷や新素材の電源コネクタが求められている。",
-        "category": "business",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/what-rising-rack-densities-mean-for-power-connectors"
-        },
-        "field": null
-      },
-      {
-        "title": "PCIM Expo 2026 Highlights SiC, GaN and Data Center Power Trends",
-        "blurb": "PCIM Expo 2026では、SiC、GaN、データセンターの電力技術の進歩が注目された。AI駆動型電力アーキテクチャや新興技術に焦点が当てられた。",
-        "category": "business",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/pcim-expo-2026-highlights-sic-gan-and-data-center-power-trends"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "TDK Introduces High-Efficiency 1500 W AC-DC Modules",
-        "blurb": "TDKは、産業用途向けに高効率1500W AC-DCモジュールを発表。広範な入力電圧と高度な監視機能を備える。",
-        "category": "business",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/tdk-introduces-high-efficiency-1500-w-ac-dc-modules"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "半導体業界の最新動向：GPU、TSMC・ASMLの業績、新チップレット、AI、自動運転、EVなど多岐にわたる。",
-        "category": "business",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-134"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "ローム・東芝・三菱電機のパワー半導体はどうなるか",
-        "blurb": "ローム、東芝、三菱電機のパワー半導体業界再編の現状、背景、今後の見通しを整理。",
-        "category": "business",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news019.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "SiC Gen3 Technology, Cooling Solutions for Data Centers, Solid-State Transformers: Power Electronics Week Insights",
-        "blurb": "パワーエレクトロニクスウィークでは、SiC Gen3技術、データセンター冷却、固体ステートトランスの最新動向が紹介された。",
+        "blurb": "パワーエレクトロニクスウィークでは、SiC Gen3技術、データセンター冷却、全固体変圧器の最新動向が紹介された。",
         "category": "business",
         "date": "2026-04-18",
         "stars": 3,
@@ -115,133 +31,103 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Designing PCBs to Maintain Signal Integrity",
+        "blurb": "高振動環境下では、PCBの機械的振動が信号品質を低下させる。自動車、産業、航空宇宙分野で注意が必要。",
+        "category": "business",
+        "date": "2026-04-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/designing-pcbs-to-maintain-signal-integrity"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
       }
     ],
     "tools": [],
     "company": [
       {
-        "title": "Emulation-based SoC Security Verification (U. of Florida)",
-        "blurb": "フロリダ大学の研究者が、SoCのセキュリティ検証におけるエミュレーション手法の課題と機会に関する論文を発表しました。",
+        "title": "ESD Tech Forum, Hardware Verification, Neutral-Atom Quantum Computing: Embedded Week Insights",
+        "blurb": "ESD Tech Forum、ハードウェア検証、中性原子量子コンピューティングなどの最新動向をまとめた記事。",
         "category": "company",
-        "date": "2026-04-17",
+        "date": "2026-04-18",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/emulation-based-soc-security-verification-u-of-florida"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/esd-tech-forum-hardware-verification-neutral-atom-quantum-computing-embedded-week-insights"
         },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "経産省がソニー画像センサー新工場に最大600億円補助",
-        "blurb": "経産省はソニーの熊本工場建設に最大600億円補助。最先端イメージセンサーの国内生産強化を図る。",
+        "title": "Congatec Expands Embedded Portfolio with AI-Ready COM",
+        "blurb": "コンゲテックがAI対応COMモジュールを発表。低消費電力で最大41TOPSのAI性能を実現し、エッジコンピューティングや組み込みAIシステムに最適。",
         "category": "company",
-        "date": "2026-04-17",
+        "date": "2026-04-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news121.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/congatec-expands-embedded-portfolio-with-ai-ready-com"
         },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "「世界最小級」の消費電流と低電圧駆動を両立、AMRセンサー",
-        "blurb": "村田製作所は、世界最小級の消費電流と低電圧駆動を両立したAMRセンサー「MRMS166R」の量産を開始。ヘルスケア・ウェアラブル機器向け。",
+        "title": "ADLINK DLAP-701 Edge AI Platform Powered by NVIDIA Jetson Thor",
+        "blurb": "ADLINKがNVIDIA Jetson Thor搭載の産業用エッジAIプラットフォームDLAP-701を発表。ロボティクスやAI処理に最適。",
         "category": "company",
-        "date": "2026-04-17",
+        "date": "2026-04-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news035.html"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/adlink-dlap-701-edge-ai-platform-powered-by-nvidia-jetson-thor"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "SiCデバイスの潜在欠陥、ウエハーレベルで可視化へ",
-        "blurb": "東京エレクトロンデバイスとアイテスは、SiCデバイスの潜在欠陥をウエハーレベルで可視化する検査ソリューションで協業。UVレーザー技術を用いた新製品を開発。",
-        "category": "company",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news037.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "三菱電機、ローム・東芝との統合は「非常にポジティブ」",
-        "blurb": "三菱電機はパワー半導体事業の統合について「非常にポジティブ」とコメント。福岡に新工場棟も建設。",
-        "category": "company",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news055.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "1億画素グローバルシャッター搭載画像センサー公開、onsemi",
-        "blurb": "onsemiが1億～3億画素のグローバルシャッター搭載イメージセンサーを開発。1億画素品のデモを公開。",
-        "category": "company",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news068.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Teradyne snaps up TestInsight to boost ATE for semiconductors",
-        "blurb": "テラダインがTestInsightを買収し、半導体向けATEを強化。シリコン前検証と自動パターン生成技術の拡大を目指す。",
-        "category": "company",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/teradyne-snaps-up-testinsight-to-boost-ate-for-semiconductors"
-        },
-        "field": {
-          "primary": "general",
+          "primary": "ai",
           "device": null,
           "process": null,
-          "market": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Think Fast-Charging Ruins EV Batteries? Look At This 111,000-Mile Tesla Model Y",
+        "blurb": "テスラModel Y、11万マイル走行後もバッテリー良好。急速充電がバッテリーを劣化させるという懸念に反論する事例。",
+        "category": "company",
+        "date": "2026-04-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/793169/tesla-model-y-lfp-high-mileage-degradation-test"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Do Or Die: How EV Startups Rivian, Lucid, And Slate Are Navigating Their Most Important Year Yet",
+        "blurb": "EVスタートアップのリビアン、ルーシッド、スレートは、初の量産車投入という難題に加え、事業環境の悪化という逆境に直面し、極めて重要な年を迎えている。",
+        "category": "company",
+        "date": "2026-04-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/793324/rivian-slate-lucid-update-2026"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       }
