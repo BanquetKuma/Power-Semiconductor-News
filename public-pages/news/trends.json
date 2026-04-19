@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-19T06:12:30.898030+09:00",
-  "date": "2026-04-19",
+  "generated_at": "2026-04-20T06:12:53.535442+09:00",
+  "date": "2026-04-20",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体（SiC/GaN）の普及",
+      "name": "次世代パワー半導体（SiC/GaN）の拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,167 +12,158 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiC・GaN技術は、データセンター、EV、産業機器向けに高効率・高性能化を推進。300mmウェハーやチップレット化も進展。",
+      "summary": "SiCおよびGaN技術がデータセンター、EV、産業機器向けに急速に普及。高効率・高性能化が鍵となる。",
       "analysis": {
-        "short_term": "需要拡大と供給能力増強が続く。",
-        "mid_term": "コスト競争力と技術革新が鍵となる。",
-        "investment_implications": "関連企業への投資妙味あり。"
+        "short_term": "需要増、供給能力拡大競争が激化。",
+        "mid_term": "技術進化とコスト低減が進み、採用分野が拡大。",
+        "investment_implications": "関連企業への投資妙味が増加。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "チップレット"
+        "高効率"
       ],
       "companies_mentioned": [
         "Wolfspeed",
         "EPC",
-        "TDK",
-        "三菱電機",
         "ローム",
         "東芝",
-        "東京エレクトロンデバイス",
-        "アイテス"
+        "三菱電機"
       ]
     },
     {
-      "name": "AI/HPC向けインフラ投資の継続",
+      "name": "AI・HPCインフラの進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
         "logic",
         "power",
-        "backend",
-        "equipment"
+        "ai"
       ],
-      "summary": "AI・HPCの性能向上のため、データセンターの電力供給網、冷却、チップレット、パッケージング技術への投資が活発化。",
+      "summary": "AI・HPCの性能向上には、高性能チップ、冷却技術、安定した電源供給が不可欠。インフラ投資が活発化。",
       "analysis": {
-        "short_term": "高性能チップと関連インフラの需要増。",
-        "mid_term": "電力効率と熱管理が重要課題となる。",
-        "investment_implications": "データセンター関連技術に注目。"
+        "short_term": "データセンター向けGPU、電源関連の需要が堅調。",
+        "mid_term": "冷却ソリューション、次世代パッケージング技術が重要に。",
+        "investment_implications": "AIインフラ関連技術を持つ企業に注目。"
       },
       "keywords": [
         "AI",
         "HPC",
         "データセンター",
-        "チップレット",
+        "冷却",
         "電源"
       ],
       "companies_mentioned": [
         "Wolfspeed",
-        "onsemi",
-        "インフィニオン",
-        "AMD"
+        "TSMC",
+        "インフィニオン"
       ]
     },
     {
-      "name": "先端パッケージング技術の進化",
+      "name": "チップレット・先進パッケージングの重要性増大",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
-        "datacenter",
-        "automotive",
+        "foundry",
         "miniaturization"
       ],
-      "summary": "チップレット標準化、パネルレベルパッケージング、フリップチップ技術などが、性能向上と小型化を実現。",
+      "summary": "チップレット規格の標準化が進み、高性能・高機能化を実現する先進パッケージング技術が注目されている。",
       "analysis": {
-        "short_term": "歩留まりとコストが課題。",
-        "mid_term": "異種チップ統合技術が競争力を左右。",
-        "investment_implications": "パッケージング関連企業に注目。"
+        "short_term": "チップレット相互接続性の課題解決が焦点。",
+        "mid_term": "パネルレベルパッケージング等のコスト効率化が課題。",
+        "investment_implications": "実装・パッケージング技術を持つ企業に期待。"
       },
       "keywords": [
         "チップレット",
-        "パネルレベルパッケージング",
-        "フリップチップ",
-        "標準化"
+        "パッケージング",
+        "相互接続",
+        "パネルレベルパッケージング"
       ],
       "companies_mentioned": [
         "Rapidus",
+        "AMD"
+      ]
+    },
+    {
+      "name": "画像センサー技術の高度化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "analog",
+        "image",
+        "automotive",
+        "industrial"
+      ],
+      "summary": "高画素化、グローバルシャッター、低消費電力化が進み、車載、ヘルスケア、ウェアラブル機器での用途が拡大。",
+      "analysis": {
+        "short_term": "高画素・高機能センサーの開発競争が激化。",
+        "mid_term": "車載・産業用途での需要が安定的に拡大。",
+        "investment_implications": "画像センサー関連技術・製造企業に注目。"
+      },
+      "keywords": [
+        "画像センサー",
+        "グローバルシャッター",
+        "低消費電力",
+        "車載"
+      ],
+      "companies_mentioned": [
+        "ソニー",
+        "村田製作所",
         "onsemi"
       ]
     },
     {
-      "name": "車載向け半導体の重要性増大",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "analog",
-        "power",
-        "image",
-        "logic"
-      ],
-      "summary": "EV化、自動運転、先進運転支援システム（ADAS）の進展により、高性能イメージセンサー、パワー半導体、SoCの需要が増加。",
-      "analysis": {
-        "short_term": "サプライチェーンの安定化が課題。",
-        "mid_term": "高信頼性・高機能部品への需要拡大。",
-        "investment_implications": "車載向け半導体メーカーに期待。"
-      },
-      "keywords": [
-        "EV",
-        "ADAS",
-        "イメージセンサー",
-        "パワー半導体"
-      ],
-      "companies_mentioned": [
-        "ソニー",
-        "onsemi",
-        "京セラ",
-        "ウシオ電機",
-        "村田製作所"
-      ]
-    },
-    {
-      "name": "半導体製造装置・材料の技術革新",
+      "name": "半導体製造装置・材料の進化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "equipment",
         "frontend",
         "backend",
-        "foundry",
-        "geopolitics"
+        "wafer"
       ],
-      "summary": "EUV、eBeam、300mmウェハー対応など、先端プロセスに対応する装置・材料開発が活発化。国内サプライヤーの役割も重要。",
+      "summary": "微細化・複雑化する製造プロセスに対応するため、検査、描画、材料技術が進化。市場規模の拡大が予測される。",
       "analysis": {
-        "short_term": "地政学リスクと供給制約が影響。",
-        "mid_term": "技術開発競争が激化する見込み。",
-        "investment_implications": "先端装置・材料メーカーに注目。"
+        "short_term": "EUV、eBeam関連技術の進展が注目される。",
+        "mid_term": "実装関連部品・材料・装置市場の成長が期待。",
+        "investment_implications": "先端製造技術を持つ装置・材料メーカーに妙味。"
       },
       "keywords": [
         "EUV",
         "eBeam",
-        "300mmウェハー",
-        "装置",
-        "材料"
+        "検査装置",
+        "実装材料",
+        "製造装置"
       ],
       "companies_mentioned": [
         "ASML",
-        "Rapidus",
-        "住友電工グループ",
-        "アライドマテリアル"
+        "東京エレクトロンデバイス",
+        "アイテス",
+        "住友電工グループ"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体（SiC/GaN）の需要拡大",
-      "AI/HPC向けインフラ投資の活発化",
-      "車載半導体市場の成長継続",
-      "先端パッケージング技術の進展"
+      "次世代パワー半導体（SiC/GaN）への投資拡大",
+      "AI/HPCインフラ関連の需要増",
+      "チップレット・先進パッケージング市場の成長予測",
+      "画像センサーの高性能化と用途拡大",
+      "半導体製造装置・材料市場の拡大予測"
     ],
     "bearish": [
       "地政学リスクによるサプライチェーンの不確実性",
-      "先端製造装置の供給制約"
+      "メモリ市場の周期的な変動リスク"
     ],
     "neutral": [
-      "チップレット標準化の進捗",
-      "DRAMプロセスにおける歩留まり課題"
+      "SoCセキュリティ検証技術の進展",
+      "DRAMプロセスにおける微細寸法変動への対応"
     ]
   },
-  "source_count": 50
+  "source_count": 35
 }
