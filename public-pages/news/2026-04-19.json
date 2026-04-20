@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T06:12:48.154584+09:00",
+  "generated_at": "2026-04-19T06:12:26.039429+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
@@ -31,10 +31,107 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Designing PCBs to Maintain Signal Integrity",
+        "blurb": "高振動環境下では、PCBの機械的振動が信号品質を低下させる。自動車、産業、航空宇宙分野で注意が必要。",
+        "category": "business",
+        "date": "2026-04-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/designing-pcbs-to-maintain-signal-integrity"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
       }
     ],
     "tools": [],
-    "company": [],
+    "company": [
+      {
+        "title": "ESD Tech Forum, Hardware Verification, Neutral-Atom Quantum Computing: Embedded Week Insights",
+        "blurb": "ESD Tech Forum、ハードウェア検証、中性原子量子コンピューティングなどの最新動向をまとめた記事。",
+        "category": "company",
+        "date": "2026-04-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/esd-tech-forum-hardware-verification-neutral-atom-quantum-computing-embedded-week-insights"
+        },
+        "field": null
+      },
+      {
+        "title": "Congatec Expands Embedded Portfolio with AI-Ready COM",
+        "blurb": "コンゲテックがAI対応COMモジュールを発表。低消費電力で最大41TOPSのAI性能を実現し、エッジコンピューティングや組み込みAIシステムに最適。",
+        "category": "company",
+        "date": "2026-04-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/congatec-expands-embedded-portfolio-with-ai-ready-com"
+        },
+        "field": null
+      },
+      {
+        "title": "ADLINK DLAP-701 Edge AI Platform Powered by NVIDIA Jetson Thor",
+        "blurb": "ADLINKがNVIDIA Jetson Thor搭載の産業用エッジAIプラットフォームDLAP-701を発表。ロボティクスやAI処理に最適。",
+        "category": "company",
+        "date": "2026-04-18",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/adlink-dlap-701-edge-ai-platform-powered-by-nvidia-jetson-thor"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Think Fast-Charging Ruins EV Batteries? Look At This 111,000-Mile Tesla Model Y",
+        "blurb": "テスラModel Y、11万マイル走行後もバッテリー良好。急速充電がバッテリーを劣化させるという懸念に反論する事例。",
+        "category": "company",
+        "date": "2026-04-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/793169/tesla-model-y-lfp-high-mileage-degradation-test"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Do Or Die: How EV Startups Rivian, Lucid, And Slate Are Navigating Their Most Important Year Yet",
+        "blurb": "EVスタートアップのリビアン、ルーシッド、スレートは、初の量産車投入という難題に加え、事業環境の悪化という逆境に直面し、極めて重要な年を迎えている。",
+        "category": "company",
+        "date": "2026-04-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/793324/rivian-slate-lucid-update-2026"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
     "sns": []
   }
 }

@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-04-18T06:17:54.382715+09:00",
+  "generated_at": "2026-04-21T06:19:18.051430+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Emulation-based SoC Security Verification (U. of Florida)",
-    "summary": "フロリダ大学の研究者が、SoCのセキュリティ検証におけるエミュレーション手法の課題と機会に関する論文を発表しました。",
+    "title": "データセンター用CPUでも勢力伸ばすRISC-V",
+    "summary": "データセンター向けCPU市場でRISC-Vの成長が期待されている。組み込み機器でシェアを伸ばしているRISC-Vが、新たな市場を開拓する可能性を示唆している。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/emulation-based-soc-security-verification-u-of-florida"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/20/news054.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Emulation-based SoC Security Verification (U. of Florida)",
-        "blurb": "フロリダ大学の研究者が、SoCのセキュリティ検証におけるエミュレーション手法の課題と機会に関する論文を発表しました。",
+        "title": "Radxa AICore DX-M1M Edge AI Acceleration Module Hits 25 TOPS",
+        "blurb": "Radxaが25TOPS/3Wの省電力AIアクセラレータモジュール「AICore DX-M1M」を発表。エッジAI用途に最適。",
         "category": "company",
-        "date": "2026-04-17",
+        "date": "2026-04-20",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/emulation-based-soc-security-verification-u-of-florida"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/radxa-aicore-dx-m1m-edge-ai-acceleration-module-hits-25-tops"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "データセンター用CPUでも勢力伸ばすRISC-V",
+        "blurb": "データセンター向けCPU市場でRISC-Vの成長が期待されている。組み込み機器でシェアを伸ばしているRISC-Vが、新たな市場を開拓する可能性を示唆している。",
+        "category": "business",
+        "date": "2026-04-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/20/news054.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ]
   }
 }
