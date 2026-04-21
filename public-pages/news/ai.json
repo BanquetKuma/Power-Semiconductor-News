@@ -1,41 +1,79 @@
 {
-  "generated_at": "2026-04-19T06:12:26.040463+09:00",
+  "generated_at": "2026-04-22T06:18:28.419169+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ADLINK DLAP-701 Edge AI Platform Powered by NVIDIA Jetson Thor",
-    "summary": "ADLINKがNVIDIA Jetson Thor搭載の産業用エッジAIプラットフォームDLAP-701を発表。ロボティクスやAI処理に最適。",
+    "title": "Research Bits: Apr. 21",
+    "summary": "メモリ内コンピューティング、状態空間モデル、超薄型AlScNメモリ、脳型エッジAIの研究。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/adlink-dlap-701-edge-ai-platform-powered-by-nvidia-jetson-thor"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/research-bits-apr-21"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "ADLINK DLAP-701 Edge AI Platform Powered by NVIDIA Jetson Thor",
-        "blurb": "ADLINKがNVIDIA Jetson Thor搭載の産業用エッジAIプラットフォームDLAP-701を発表。ロボティクスやAI処理に最適。",
+        "title": "625MHz対応の次世代差動発振器、AIサーバなど向け",
+        "blurb": "大真空は、AIサーバや光トランシーバー向けに625MHz対応の差動発振器「Arkh.2G」を開発し、サンプル出荷を開始しました。",
         "category": "company",
-        "date": "2026-04-18",
+        "date": "2026-04-21",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/adlink-dlap-701-edge-ai-platform-powered-by-nvidia-jetson-thor"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news034.html"
         },
         "field": {
           "primary": "ai",
           "device": null,
           "process": null,
           "market": "ai",
-          "industry": "fabless"
+          "industry": null
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "Research Bits: Apr. 21",
+        "blurb": "メモリ内コンピューティング、状態空間モデル、超薄型AlScNメモリ、脳型エッジAIの研究。",
+        "category": "tools",
+        "date": "2026-04-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-apr-21"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "560億ドル投資でも「需要に追い付けない」　AI急成長でTSMC表明",
+        "blurb": "TSMCはAI半導体の需要急増に対応するため、2026年に560億ドルの設備投資を行うが、それでも需要に追い付けない見込みだと表明した。",
+        "category": "business",
+        "date": "2026-04-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news072.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ]
   }
 }

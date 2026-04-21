@@ -1,66 +1,50 @@
 {
-  "generated_at": "2026-04-18T06:17:54.383002+09:00",
+  "generated_at": "2026-04-22T06:18:28.418774+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "経産省がソニー画像センサー新工場に最大600億円補助",
-    "summary": "経産省はソニーの熊本工場建設に最大600億円補助。最先端イメージセンサーの国内生産強化を図る。",
+    "title": "サーバ冷却をサポート　ミツミ電機の高精度デジタル風量センサー",
+    "summary": "ミツミ電機は、サーバ冷却や空調管理向けに高精度デジタル風量センサー「MMS651シリーズ」を発売。小型チップと補正技術で高い測定精度と温度安定度を実現した。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news121.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news036.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "経産省がソニー画像センサー新工場に最大600億円補助",
-        "blurb": "経産省はソニーの熊本工場建設に最大600億円補助。最先端イメージセンサーの国内生産強化を図る。",
+        "title": "サーバ冷却をサポート　ミツミ電機の高精度デジタル風量センサー",
+        "blurb": "ミツミ電機は、サーバ冷却や空調管理向けに高精度デジタル風量センサー「MMS651シリーズ」を発売。小型チップと補正技術で高い測定精度と温度安定度を実現した。",
         "category": "company",
-        "date": "2026-04-17",
+        "date": "2026-04-21",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news121.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news036.html"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": null,
+          "market": "datacenter",
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [
       {
-        "title": "「世界最小級」の消費電流と低電圧駆動を両立、AMRセンサー",
-        "blurb": "村田製作所は、世界最小級の消費電流と低電圧駆動を両立したAMRセンサー「MRMS166R」の量産を開始。ヘルスケア・ウェアラブル機器向け。",
-        "category": "company",
-        "date": "2026-04-17",
+        "title": "Simple circuit interfaces differential capacitance sensor",
+        "blurb": "SRラッチとRC回路を用いた安価でシンプルな差動容量センサーインターフェース回路。",
+        "category": "tools",
+        "date": "2026-04-21",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news035.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "1億画素グローバルシャッター搭載画像センサー公開、onsemi",
-        "blurb": "onsemiが1億～3億画素のグローバルシャッター搭載イメージセンサーを開発。1億画素品のデモを公開。",
-        "category": "company",
-        "date": "2026-04-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/17/news068.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/simple-circuit-interfaces-differential-capacitance-sensor"
         },
         "field": {
           "primary": "analog",
@@ -71,7 +55,6 @@
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }

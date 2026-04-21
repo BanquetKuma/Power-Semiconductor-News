@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-21T06:19:23.706276+09:00",
-  "date": "2026-04-21",
+  "generated_at": "2026-04-22T06:18:33.087587+09:00",
+  "date": "2026-04-22",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体(SiC/GaN)の普及加速",
+      "name": "GaN/SiCパワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,154 +12,159 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCとGaN技術が、EV、データセンター、産業機器など幅広い分野で高効率化・高性能化を実現し、採用が加速している。",
+      "summary": "GaNとSiCを用いた高効率・小型化パワー半導体が、EV、データセンター、産業機器、太陽光発電など幅広い分野で採用を拡大。",
       "analysis": {
-        "short_term": "需要増、供給能力拡大が鍵。",
-        "mid_term": "コスト競争力向上と用途拡大が進む。",
-        "investment_implications": "SiC/GaNメーカー、関連材料・装置企業に注目。"
+        "short_term": "採用拡大と技術進化が継続。供給能力が鍵。",
+        "mid_term": "次世代電力変換技術として地位確立へ。",
+        "investment_implications": "関連企業への投資妙味増大。"
       },
       "keywords": [
-        "SiC",
         "GaN",
+        "SiC",
         "EV",
         "データセンター",
-        "高効率"
+        "太陽光発電"
       ],
       "companies_mentioned": [
         "Power Integrations",
         "Enphase",
-        "Wolfspeed",
-        "EPC",
-        "TDK",
+        "onsemi",
         "ローム",
         "東芝",
-        "三菱電機",
-        "onsemi"
+        "三菱電機"
       ]
     },
     {
-      "name": "AI/HPC向けインフラ投資の継続",
+      "name": "AI向け半導体需要の継続的拡大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
+        "ai",
         "datacenter",
         "logic",
-        "power",
-        "ai"
+        "memory",
+        "foundry"
       ],
-      "summary": "AI/HPCの性能向上には、高性能CPU/GPU、安定した電力供給、高速通信が不可欠であり、関連インフラへの投資が続いている。",
+      "summary": "AI/HPCの性能向上に伴い、GPU、CPU、メモリ、電源モジュールなどAI処理に特化した半導体の需要が急増。",
       "analysis": {
-        "short_term": "データセンター向けCPU/GPU需要は堅調。",
-        "mid_term": "電力供給網の安定化技術が重要性を増す。",
-        "investment_implications": "データセンター関連、高性能チップ、電源技術企業に期待。"
+        "short_term": "供給制約が続く可能性。設備投資が活発化。",
+        "mid_term": "AIインフラ投資は継続。新アーキテクチャ登場。",
+        "investment_implications": "AI向け供給能力を持つ企業に注目。"
       },
       "keywords": [
         "AI",
-        "HPC",
-        "データセンター",
-        "CPU",
         "GPU",
-        "電力供給"
+        "データセンター",
+        "TSMC",
+        "HPC"
       ],
       "companies_mentioned": [
-        "Wolfspeed",
+        "TSMC",
         "インフィニオン",
-        "AMD",
-        "NVIDIA"
+        "大真空"
       ]
     },
     {
-      "name": "チップレット標準化とエコシステム構築",
+      "name": "データセンターの効率化と高性能化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
+        "datacenter",
+        "power",
         "logic",
-        "frontend",
-        "backend",
-        "foundry"
+        "analog",
+        "frontend"
       ],
-      "summary": "チップレットの標準化が進み、異なるメーカー間の互換性が向上。これにより、高性能SoCの設計・製造の柔軟性と効率性が高まる。",
+      "summary": "AI/HPCの普及により、データセンターの電力効率、冷却、処理能力向上が喫緊の課題。シリコンフォトニクスも注目。",
       "analysis": {
-        "short_term": "標準化団体での議論が活発化。",
-        "mid_term": "相互接続技術の進化と採用拡大。",
-        "investment_implications": "チップレット設計・製造関連企業に注目。"
+        "short_term": "電源、冷却技術の進化が求められる。",
+        "mid_term": "光技術への移行が進む可能性。",
+        "investment_implications": "データセンター向けソリューションに投資機会。"
       },
       "keywords": [
-        "チップレット",
-        "標準化",
-        "相互接続",
-        "SoC"
+        "データセンター",
+        "AI",
+        "HPC",
+        "冷却",
+        "シリコンフォトニクス"
       ],
       "companies_mentioned": [
-        "Rapidus"
+        "STマイクロエレクトロニクス",
+        "インフィニオン",
+        "ミツミ電機"
       ]
     },
     {
-      "name": "シリコンフォトニクスのデータセンター応用",
+      "name": "チップレット標準化とパッケージング技術の進化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
+        "backend",
         "logic",
         "frontend",
-        "miniaturization"
+        "foundry"
       ],
-      "summary": "シリコンフォトニクス技術が、データセンターにおける高速・大容量通信の実現に貢献。消費電力削減と性能向上が期待される。",
+      "summary": "チップレットの相互接続性を高める標準化が進展。パネルレベルパッケージングなどの先進パッケージング技術も進化。",
       "analysis": {
-        "short_term": "技術開発と実証実験が進む。",
-        "mid_term": "データセンターでの採用が徐々に拡大。",
-        "investment_implications": "シリコンフォトニクス関連技術・材料企業に注目。"
+        "short_term": "標準化は初期段階。技術課題も残る。",
+        "mid_term": "高性能SoC実現の鍵となる。",
+        "investment_implications": "先進パッケージング関連技術に注目。"
       },
       "keywords": [
-        "シリコンフォトニクス",
-        "データセンター",
-        "高速通信",
-        "光技術"
+        "チップレット",
+        "パッケージング",
+        "標準化",
+        "SoC"
       ],
       "companies_mentioned": []
     },
     {
-      "name": "半導体実装関連市場の拡大",
+      "name": "車載・産業向けアナログ・センサーの高度化",
       "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "equipment",
-        "foundry",
-        "automotive"
+        "analog",
+        "automotive",
+        "industrial",
+        "image"
       ],
-      "summary": "半導体実装関連部品、材料、装置の世界市場は、高性能化・多機能化のニーズを受け、2031年までに大幅な拡大が見込まれる。",
+      "summary": "車載・産業分野で高精度なアナログICやセンサーの需要が増加。信号処理、センサーフュージョン、安全性向上が焦点。",
       "analysis": {
-        "short_term": "高付加価値実装技術への需要増。",
-        "mid_term": "市場拡大に伴い、関連企業に成長機会。",
-        "investment_implications": "実装技術・材料・装置メーカーに投資妙味。"
+        "short_term": "高精度化・小型化ニーズが継続。",
+        "mid_term": "自動運転、IoT機器の普及で需要拡大。",
+        "investment_implications": "高付加価値アナログ・センサー企業に注目。"
       },
       "keywords": [
-        "実装",
-        "パッケージング",
-        "材料",
-        "装置",
-        "市場拡大"
+        "アナログIC",
+        "センサー",
+        "車載",
+        "産業機器",
+        "画像センサー"
       ],
       "companies_mentioned": [
-        "富士キメラ総研"
+        "STマイクロエレクトロニクス",
+        "ソニー",
+        "onsemi",
+        "ミツミ電機",
+        "村田製作所"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体(SiC/GaN)の需要急増",
-      "AI/HPC関連インフラへの旺盛な投資",
-      "チップレット標準化によるエコシステム拡大",
-      "半導体実装関連市場の成長予測"
+      "GaN/SiCパワー半導体の需要拡大",
+      "AI向け半導体投資の活発化",
+      "データセンター向けソリューションの成長",
+      "車載・産業向け高付加価値半導体の需要増"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "先端プロセスにおける設備投資負担の増大"
     ],
     "neutral": [
-      "DRAMの歩留まり改善に向けた技術開発",
-      "RISC-Vのデータセンター市場での普及度"
+      "メモリ市場の回復ペース",
+      "標準化の進展によるエコシステム形成"
     ]
   },
-  "source_count": 41
+  "source_count": 38
 }
