@@ -1,32 +1,51 @@
 {
-  "generated_at": "2026-04-21T06:19:18.052017+09:00",
+  "generated_at": "2026-04-23T06:20:00.575595+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Why Proof Convergence Matters",
-    "summary": "半導体設計における形式検証のプルーフ収束の重要性を解説。サインオフまでの時間を短縮する。",
+    "title": "Blog Review: Apr. 22",
+    "summary": "半導体エンジニアリングのブログレビュー。カバレッジクロージャ、AMS用EMシミュレーション、CXL 4、ATM用ルートオブトラストについて。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/why-proof-convergence-matters"
+        "url": "https://semiengineering.com/blog-review-apr-22"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "SAIMEMORYの垂直ビルド構造メモリ開発がNEDO採択",
+        "blurb": "SAIMEMORYの次世代メモリ技術「ZAM」開発がNEDOに採択。シリーズAで富士通、DBJ、理研、ソフトバンクから資金調達。",
+        "category": "company",
+        "date": "2026-04-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/22/news124.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "Why Proof Convergence Matters",
-        "blurb": "半導体設計における形式検証のプルーフ収束の重要性を解説。サインオフまでの時間を短縮する。",
+        "title": "Blog Review: Apr. 22",
+        "blurb": "半導体エンジニアリングのブログレビュー。カバレッジクロージャ、AMS用EMシミュレーション、CXL 4、ATM用ルートオブトラストについて。",
         "category": "business",
-        "date": "2026-04-20",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-proof-convergence-matters"
+          "url": "https://semiengineering.com/blog-review-apr-22"
         },
         "field": {
           "primary": "general",
@@ -37,14 +56,14 @@
         }
       },
       {
-        "title": "Batteries Charge To The Edge",
-        "blurb": "半導体業界では、多くの市場で電力への関心が高まり、化学が決定要因となっている。",
+        "title": "TSV Complexity Leads To Manufacturing Bottleneck",
+        "blurb": "TSV製造の複雑さがボトルネックとなり、半導体製造に課題が生じている。",
         "category": "business",
-        "date": "2026-04-20",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/batteries-charge-to-the-edge"
+          "url": "https://semiengineering.com/tsv-complexity-leads-to-manufacturing-bottleneck"
         },
         "field": {
           "primary": "general",

@@ -1,82 +1,76 @@
 {
-  "generated_at": "2026-04-22T06:18:28.417054+09:00",
+  "generated_at": "2026-04-23T06:20:00.572745+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Expands Analog Portfolio with High-Accuracy Op Amps",
-    "summary": "STマイクロエレクトロニクスが、高精度オペアンプTSB192を発表。低オフセット、低ドリフト、広電圧範囲で産業・車載用途の信号処理に最適。",
+    "title": "AI Data Center Power: How MPS Is Advancing System-Level Power Delivery",
+    "summary": "MPSがAIデータセンターの電力供給技術をどう進化させているか、システムレベルの電力供給に焦点を当てた技術動向を紹介。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/st-expands-analog-portfolio-with-high-accuracy-op-amps"
+        "url": "https://www.powerelectronicsnews.com/ai-data-center-power-how-mps-is-advancing-system-level-power-delivery"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Hybrid eVTOL Aircraft Power Drive Using GaN-based Flying Capacitor Converter",
-        "blurb": "ハイブリッドeVTOLの動力源に、窒化ガリウム（GaN）ベースのフライホイールコンバーターを用いた三段式が最も軽量かつ高効率であることが判明。",
+        "title": "Blog Review: Apr. 22",
+        "blurb": "半導体エンジニアリングのブログレビュー。カバレッジクロージャ、AMS用EMシミュレーション、CXL 4、ATM用ルートオブトラストについて。",
         "category": "business",
-        "date": "2026-04-21",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/hybrid-evtol-aircraft-power-drive-using-gan-based-flying-capacitor-converter"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Industry Technical Paper Roundup: Apr. 21",
-        "blurb": "半導体業界の技術論文 roundup。ニューラルコンピューター、EUVナノ構造、フォトニックチップ、SSDエミュレーション、DRAM電力供給、LLM訓練信頼性など。",
-        "category": "business",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-apr-21"
+          "url": "https://semiengineering.com/blog-review-apr-22"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "equipment",
+          "primary": "general",
+          "device": null,
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "560億ドル投資でも「需要に追い付けない」　AI急成長でTSMC表明",
-        "blurb": "TSMCはAI半導体の需要急増に対応するため、2026年に560億ドルの設備投資を行うが、それでも需要に追い付けない見込みだと表明した。",
+        "title": "TSV Complexity Leads To Manufacturing Bottleneck",
+        "blurb": "TSV製造の複雑さがボトルネックとなり、半導体製造に課題が生じている。",
         "category": "business",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news072.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/tsv-complexity-leads-to-manufacturing-bottleneck"
         },
         "field": {
-          "primary": "ai",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "InPHRED Advances VCSEL and LED Solutions for Optical I/O",
-        "blurb": "InPHREDがデータセンター向け光インターコネクト市場に進出。AIインフラの高速接続需要に対応し、VCSELとLEDソリューションを拡充。",
+        "title": "反強磁性体で大きなTMR効果　超高速MRAM実現の可能性",
+        "blurb": "東大などの研究グループが、反強磁性体で大きなTMR効果を理論予測。超高速MRAM実現の可能性を示唆。",
         "category": "business",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/inphred-advances-vcsel-and-led-solutions-for-optical-i-o"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/22/news036.html"
+        },
+        "field": null
+      },
+      {
+        "title": "AI Data Center Power: How MPS Is Advancing System-Level Power Delivery",
+        "blurb": "MPSがAIデータセンターの電力供給技術をどう進化させているか、システムレベルの電力供給に焦点を当てた技術動向を紹介。",
+        "category": "business",
+        "date": "2026-04-23",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ai-data-center-power-how-mps-is-advancing-system-level-power-delivery"
         },
         "field": {
           "primary": "datacenter",
@@ -89,14 +83,26 @@
     ],
     "tools": [
       {
-        "title": "Research Bits: Apr. 21",
-        "blurb": "メモリ内コンピューティング、状態空間モデル、超薄型AlScNメモリ、脳型エッジAIの研究。",
+        "title": "Power Electronics Course with QSPICE (Episode 08): Stabilized Power Supply",
+        "blurb": "QSPICEを用いたパワーエレクトロニクス講座第8回。今回はAC-DC変換の主回路図、特に大容量コンデンサを用いた安定化電源について解説。",
         "category": "tools",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-apr-21"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-08-stabilized-power-supply"
+        },
+        "field": null
+      },
+      {
+        "title": "MIPIカメラを15m伝送　ラズパイサイズのエッジAIソリューション",
+        "blurb": "ザインエレクトロニクスがMIPIカメラ映像を15m伝送するエッジAIソリューションを展示。独自技術で長距離伝送を実現。",
+        "category": "tools",
+        "date": "2026-04-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/22/news063.html"
         },
         "field": {
           "primary": "ai",
@@ -107,26 +113,26 @@
         }
       },
       {
-        "title": "What’s the impact of AI on analog design",
-        "blurb": "AIのアナログ設計への影響は始まったばかりだが、具体的な事例がその手がかりを与えている。",
+        "title": "The system architect’s sketchbook: GenZLens built in a dorm",
+        "blurb": "ARでキャッシュミスをシミュレーションし、ボトルネックを可視化するGenZLensが、学生寮で開発された。",
         "category": "tools",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/whats-the-impact-of-ai-on-analog-design"
+          "url": "https://www.edn.com/the-system-architects-sketchbook-genzlens-built-in-a-dorm"
         },
         "field": null
       },
       {
-        "title": "Simple circuit interfaces differential capacitance sensor",
-        "blurb": "SRラッチとRC回路を用いた安価でシンプルな差動容量センサーインターフェース回路。",
+        "title": "BJT is accurate sensor for absolute temperature in Kelvin and Rankine",
+        "blurb": "BJTはケルビン・ランキン温度計の絶対温度センサーとして利用可能。シンプルな回路で実現できる。",
         "category": "tools",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/simple-circuit-interfaces-differential-capacitance-sensor"
+          "url": "https://www.edn.com/bjt-is-accurate-sensor-for-absolute-temperature-in-kelvin-and-rankine"
         },
         "field": {
           "primary": "analog",
@@ -137,124 +143,88 @@
         }
       },
       {
-        "title": "Microcontrollers for Machine Learning",
-        "blurb": "AIアクセラレータ搭載MCUとTinyMLフレームワークの進化により、低電力デバイスでの複雑なモデル実行が可能に。",
+        "title": "How to implement OTA firmware update on MCUs",
+        "blurb": "MCU向けOTAファームウェア更新を「ステージング＋コピー」方式で実装する設計例を紹介。",
         "category": "tools",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microcontrollers-for-machine-learning"
+          "name": "edn.com",
+          "url": "https://www.edn.com/how-to-implement-ota-firmware-update-on-mcus"
         },
         "field": null
       },
       {
-        "title": "Onyx BOOX Go 10.3 Gen II E-Ink Tablets Launch with Android 15",
-        "blurb": "Onyx BOOX Go 10.3 Gen II、Android 15搭載で発売。10.3インチE Inkディスプレイ、ペン入力対応で読書やメモ、軽作業に最適。",
+        "title": "Digital Twins Could Be the Future of Proactive Cybersecurity",
+        "blurb": "サイバーセキュリティにデジタルツインを導入し、事後対応型から先回りするインテリジェンス主導型へ転換。",
         "category": "tools",
-        "date": "2026-04-21",
+        "date": "2026-04-23",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/onyx-boox-go-10-3-gen-ii-e-ink-tablets-launch-with-android-15"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/digital-twins-could-be-the-future-of-proactive-cybersecurity"
         },
         "field": null
       }
     ],
     "company": [
       {
-        "title": "ST Expands Analog Portfolio with High-Accuracy Op Amps",
-        "blurb": "STマイクロエレクトロニクスが、高精度オペアンプTSB192を発表。低オフセット、低ドリフト、広電圧範囲で産業・車載用途の信号処理に最適。",
+        "title": "KYOCERA AVX Launches FFLK Traction DC Filtering Capacitors",
+        "blurb": "京セラAVX、EVトラクション・産業用DCフィルタリング向けに高電流対応の新型フィルムコンデンサ「FFLK」を発表。",
         "category": "company",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-expands-analog-portfolio-with-high-accuracy-op-amps"
+          "url": "https://www.powerelectronicsnews.com/kyocera-avx-launches-fflk-traction-dc-filtering-capacitors"
         },
         "field": {
-          "primary": "industrial",
+          "primary": "automotive",
           "device": null,
           "process": null,
-          "market": "industrial",
+          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "Vishay Introduces 1212 IHLP Inductor for Compact Power Systems",
-        "blurb": "Vishayが小型電源向けの新インダクタを発表。高電流、低DCR、小型化を実現し、省スペースなDC/DC変換に貢献。",
+        "title": "SAIMEMORYの垂直ビルド構造メモリ開発がNEDO採択",
+        "blurb": "SAIMEMORYの次世代メモリ技術「ZAM」開発がNEDOに採択。シリーズAで富士通、DBJ、理研、ソフトバンクから資金調達。",
         "category": "company",
-        "date": "2026-04-21",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vishay-introduces-1212-ihlp-inductor-for-compact-power-systems"
-        },
-        "field": null
-      },
-      {
-        "title": "ソニー・ホンダモビリティ、当面の事業縮小を決定",
-        "blurb": "ソニー・ホンダモビリティがEV開発・発売中止に伴い、当面の事業縮小を決定。短中期的な市場投入は困難と判断。",
-        "category": "company",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news117.html"
-        },
-        "field": null
-      },
-      {
-        "title": "サーバ冷却をサポート　ミツミ電機の高精度デジタル風量センサー",
-        "blurb": "ミツミ電機は、サーバ冷却や空調管理向けに高精度デジタル風量センサー「MMS651シリーズ」を発売。小型チップと補正技術で高い測定精度と温度安定度を実現した。",
-        "category": "company",
-        "date": "2026-04-21",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news036.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/22/news124.html"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "general",
+          "device": null,
           "process": null,
-          "market": "datacenter",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "1人で3台の重機を遠隔操作　IOWN APN活用で建設DXを推進",
-        "blurb": "NTTと大成建設は、IOWN APN等で重機3台を遠隔操作する実証に成功。建設DX推進と技能者不足対応に貢献。",
+        "title": "メモリも中国が猛追　YMTCは新工場建設",
+        "blurb": "中国YMTCが新工場建設。米国の規制下でもメモリ分野で猛追。",
         "category": "company",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news083.html"
-        },
-        "field": null
-      },
-      {
-        "title": "625MHz対応の次世代差動発振器、AIサーバなど向け",
-        "blurb": "大真空は、AIサーバや光トランシーバー向けに625MHz対応の差動発振器「Arkh.2G」を開発し、サンプル出荷を開始しました。",
-        "category": "company",
-        "date": "2026-04-21",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news034.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/22/news062.html"
         },
         "field": {
-          "primary": "ai",
-          "device": null,
+          "primary": "memory",
+          "device": "memory",
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
       },
       {
         "title": "Melexis Expands Robotics Portfolio with Tactile Modules",
-        "blurb": "Melexisが触覚センサー技術を量産化し、ロボットハンド向けに提供開始。ロボットの器用さ向上とリアルタイムインタラクションを目指す。",
+        "blurb": "Melexisが磁気触覚センサー技術「Tactaxis」を量産化し、ロボットハンド向けに提供開始。ロボットの器用さ向上とリアルタイムインタラクションを目指す。",
         "category": "company",
         "date": "2026-04-22",
         "stars": 3,
@@ -263,6 +233,24 @@
           "url": "https://www.embedded.com/melexis-expands-robotics-portfolio-with-tactile-modules"
         },
         "field": null
+      },
+      {
+        "title": "Grinn, Thistle Integrate Secure Boot for Edge AI Devices",
+        "blurb": "GrinnとThistleがエッジAIデバイス向けにセキュアブートを統合し、サイバーセキュリティを強化する提携を発表。",
+        "category": "company",
+        "date": "2026-04-23",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/grinn-thistle-integrate-secure-boot-for-edge-ai-devices"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
       }
     ],
     "sns": []

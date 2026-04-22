@@ -1,170 +1,177 @@
 {
-  "generated_at": "2026-04-22T06:18:33.087587+09:00",
-  "date": "2026-04-22",
+  "generated_at": "2026-04-23T06:20:05.032510+09:00",
+  "date": "2026-04-23",
   "meta_trends": [
     {
-      "name": "GaN/SiCパワー半導体の普及加速",
+      "name": "AI・データセンター向け高性能化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
+        "datacenter",
         "power",
-        "automotive",
-        "datacenter",
-        "industrial"
-      ],
-      "summary": "GaNとSiCを用いた高効率・小型化パワー半導体が、EV、データセンター、産業機器、太陽光発電など幅広い分野で採用を拡大。",
-      "analysis": {
-        "short_term": "採用拡大と技術進化が継続。供給能力が鍵。",
-        "mid_term": "次世代電力変換技術として地位確立へ。",
-        "investment_implications": "関連企業への投資妙味増大。"
-      },
-      "keywords": [
-        "GaN",
-        "SiC",
-        "EV",
-        "データセンター",
-        "太陽光発電"
-      ],
-      "companies_mentioned": [
-        "Power Integrations",
-        "Enphase",
-        "onsemi",
-        "ローム",
-        "東芝",
-        "三菱電機"
-      ]
-    },
-    {
-      "name": "AI向け半導体需要の継続的拡大",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
         "ai",
-        "datacenter",
-        "logic",
         "memory",
-        "foundry"
+        "logic",
+        "analog"
       ],
-      "summary": "AI/HPCの性能向上に伴い、GPU、CPU、メモリ、電源モジュールなどAI処理に特化した半導体の需要が急増。",
+      "summary": "AI需要の急増により、データセンターの電力供給、冷却、高性能チップ（CPU, GPU, メモリ）の需要が拡大。TSMCは巨額投資を発表。",
       "analysis": {
-        "short_term": "供給制約が続く可能性。設備投資が活発化。",
-        "mid_term": "AIインフラ投資は継続。新アーキテクチャ登場。",
-        "investment_implications": "AI向け供給能力を持つ企業に注目。"
+        "short_term": "需要逼迫、供給能力増強が急務。",
+        "mid_term": "技術革新と設備投資が継続。",
+        "investment_implications": "関連企業への投資機会拡大。"
       },
       "keywords": [
         "AI",
-        "GPU",
         "データセンター",
         "TSMC",
-        "HPC"
+        "電力供給",
+        "高性能チップ"
       ],
       "companies_mentioned": [
         "TSMC",
-        "インフィニオン",
+        "MPS",
         "大真空"
       ]
     },
     {
-      "name": "データセンターの効率化と高性能化",
-      "confidence": 0.85,
+      "name": "次世代パワー半導体の普及",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
         "power",
-        "logic",
-        "analog",
-        "frontend"
+        "automotive",
+        "industrial",
+        "datacenter"
       ],
-      "summary": "AI/HPCの普及により、データセンターの電力効率、冷却、処理能力向上が喫緊の課題。シリコンフォトニクスも注目。",
+      "summary": "SiCやGaNといった次世代パワー半導体が、EV、産業機器、データセンター、再生可能エネルギー分野で採用拡大。効率向上と小型化に貢献。",
       "analysis": {
-        "short_term": "電源、冷却技術の進化が求められる。",
-        "mid_term": "光技術への移行が進む可能性。",
-        "investment_implications": "データセンター向けソリューションに投資機会。"
+        "short_term": "EV・再生可能エネルギー分野での採用加速。",
+        "mid_term": "データセンターや産業機器への応用拡大。",
+        "investment_implications": "パワー半導体メーカーの成長期待。"
       },
       "keywords": [
-        "データセンター",
-        "AI",
-        "HPC",
-        "冷却",
-        "シリコンフォトニクス"
+        "SiC",
+        "GaN",
+        "EV",
+        "パワー半導体",
+        "データセンター"
       ],
       "companies_mentioned": [
+        "京セラAVX",
         "STマイクロエレクトロニクス",
-        "インフィニオン",
-        "ミツミ電機"
+        "Power Integrations",
+        "Enphase",
+        "ローム",
+        "東芝",
+        "三菱電機",
+        "東京エレクトロン デバイス"
       ]
     },
     {
-      "name": "チップレット標準化とパッケージング技術の進化",
-      "confidence": 0.75,
+      "name": "チップレット・先進パッケージング技術",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
-        "frontend",
-        "foundry"
+        "foundry",
+        "fabless",
+        "miniaturization"
       ],
-      "summary": "チップレットの相互接続性を高める標準化が進展。パネルレベルパッケージングなどの先進パッケージング技術も進化。",
+      "summary": "チップレット規格の標準化が進み、相互接続性が向上。パネルレベルパッケージングの課題克服とコストメリット追求が進む。",
       "analysis": {
-        "short_term": "標準化は初期段階。技術課題も残る。",
-        "mid_term": "高性能SoC実現の鍵となる。",
-        "investment_implications": "先進パッケージング関連技術に注目。"
+        "short_term": "標準化と技術課題解決が鍵。",
+        "mid_term": "高性能SoC設計の主流に。",
+        "investment_implications": "パッケージング技術関連企業に注目。"
       },
       "keywords": [
         "チップレット",
         "パッケージング",
-        "標準化",
-        "SoC"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "車載・産業向けアナログ・センサーの高度化",
-      "confidence": 0.7,
-      "momentum": "rising",
-      "related_fields": [
-        "analog",
-        "automotive",
-        "industrial",
-        "image"
-      ],
-      "summary": "車載・産業分野で高精度なアナログICやセンサーの需要が増加。信号処理、センサーフュージョン、安全性向上が焦点。",
-      "analysis": {
-        "short_term": "高精度化・小型化ニーズが継続。",
-        "mid_term": "自動運転、IoT機器の普及で需要拡大。",
-        "investment_implications": "高付加価値アナログ・センサー企業に注目。"
-      },
-      "keywords": [
-        "アナログIC",
-        "センサー",
-        "車載",
-        "産業機器",
-        "画像センサー"
+        "TSV",
+        "標準化"
       ],
       "companies_mentioned": [
+        "TSMC",
+        "ASML"
+      ]
+    },
+    {
+      "name": "車載半導体の高度化と多様化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "power",
+        "analog",
+        "image",
+        "logic"
+      ],
+      "summary": "EV化の進展に伴い、高電流対応コンデンサ、高精度オペアンプ、イメージセンサーなどの需要が増加。車載向け半導体ポートフォリオが拡大。",
+      "analysis": {
+        "short_term": "EV向け部品の需要が堅調。",
+        "mid_term": "自動運転・ADAS向け需要も拡大。",
+        "investment_implications": "車載半導体メーカーに成長機会。"
+      },
+      "keywords": [
+        "EV",
+        "車載半導体",
+        "コンデンサ",
+        "オペアンプ",
+        "イメージセンサー"
+      ],
+      "companies_mentioned": [
+        "京セラAVX",
         "STマイクロエレクトロニクス",
         "ソニー",
         "onsemi",
-        "ミツミ電機",
-        "村田製作所"
+        "ミツミ電機"
+      ]
+    },
+    {
+      "name": "メモリ技術の進化と競争",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "logic",
+        "frontend",
+        "backend"
+      ],
+      "summary": "AI訓練の信頼性向上、メモリ内コンピューティング、次世代メモリ（ZAM）開発が進む。中国YMTCも新工場建設でメモリ分野で猛追。",
+      "analysis": {
+        "short_term": "AI・LLM向けメモリ需要増。",
+        "mid_term": "新技術開発競争が激化。",
+        "investment_implications": "メモリ技術革新企業に注目。"
+      },
+      "keywords": [
+        "メモリ",
+        "AI",
+        "DRAM",
+        "YMTC",
+        "メモリ内コンピューティング"
+      ],
+      "companies_mentioned": [
+        "SAIMEMORY",
+        "YMTC"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "GaN/SiCパワー半導体の需要拡大",
-      "AI向け半導体投資の活発化",
-      "データセンター向けソリューションの成長",
-      "車載・産業向け高付加価値半導体の需要増"
+      "AI需要によるデータセンター投資の急増",
+      "EVシフトに伴う車載半導体需要の拡大",
+      "SiC/GaNパワー半導体の採用拡大",
+      "チップレット技術の標準化と普及"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "先端プロセスにおける設備投資負担の増大"
+      "TSV製造におけるボトルネックの発生",
+      "パネルレベルパッケージングの歩留まり課題"
     ],
     "neutral": [
-      "メモリ市場の回復ペース",
-      "標準化の進展によるエコシステム形成"
+      "半導体設計における形式検証の重要性向上",
+      "中国メモリメーカーの技術開発競争激化"
     ]
   },
-  "source_count": 38
+  "source_count": 36
 }

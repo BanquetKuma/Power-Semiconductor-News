@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-22T06:18:28.419169+09:00",
+  "generated_at": "2026-04-23T06:20:00.574523+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Research Bits: Apr. 21",
-    "summary": "メモリ内コンピューティング、状態空間モデル、超薄型AlScNメモリ、脳型エッジAIの研究。",
+    "title": "MIPIカメラを15m伝送　ラズパイサイズのエッジAIソリューション",
+    "summary": "ザインエレクトロニクスがMIPIカメラ映像を15m伝送するエッジAIソリューションを展示。独自技術で長距離伝送を実現。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/research-bits-apr-21"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/22/news063.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "625MHz対応の次世代差動発振器、AIサーバなど向け",
-        "blurb": "大真空は、AIサーバや光トランシーバー向けに625MHz対応の差動発振器「Arkh.2G」を開発し、サンプル出荷を開始しました。",
+        "title": "Grinn, Thistle Integrate Secure Boot for Edge AI Devices",
+        "blurb": "GrinnとThistleがエッジAIデバイス向けにセキュアブートを統合し、サイバーセキュリティを強化する提携を発表。",
         "category": "company",
-        "date": "2026-04-21",
+        "date": "2026-04-23",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news034.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/grinn-thistle-integrate-secure-boot-for-edge-ai-devices"
         },
         "field": {
           "primary": "ai",
@@ -37,14 +37,14 @@
     ],
     "tech": [
       {
-        "title": "Research Bits: Apr. 21",
-        "blurb": "メモリ内コンピューティング、状態空間モデル、超薄型AlScNメモリ、脳型エッジAIの研究。",
+        "title": "MIPIカメラを15m伝送　ラズパイサイズのエッジAIソリューション",
+        "blurb": "ザインエレクトロニクスがMIPIカメラ映像を15m伝送するエッジAIソリューションを展示。独自技術で長距離伝送を実現。",
         "category": "tools",
-        "date": "2026-04-21",
+        "date": "2026-04-22",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-apr-21"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/22/news063.html"
         },
         "field": {
           "primary": "ai",
@@ -55,25 +55,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "560億ドル投資でも「需要に追い付けない」　AI急成長でTSMC表明",
-        "blurb": "TSMCはAI半導体の需要急増に対応するため、2026年に560億ドルの設備投資を行うが、それでも需要に追い付けない見込みだと表明した。",
-        "category": "business",
-        "date": "2026-04-21",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news072.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }
