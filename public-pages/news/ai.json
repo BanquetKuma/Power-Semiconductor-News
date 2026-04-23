@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-04-23T06:20:00.574523+09:00",
+  "generated_at": "2026-04-24T06:19:08.817506+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "MIPIカメラを15m伝送　ラズパイサイズのエッジAIソリューション",
-    "summary": "ザインエレクトロニクスがMIPIカメラ映像を15m伝送するエッジAIソリューションを展示。独自技術で長距離伝送を実現。",
+    "title": "Can Edge AI Keep Up?",
+    "summary": "エッジAIの進化はシリコンサイクルを上回る。電力、面積、効率を犠牲にせず、どれだけ適応できるかが課題。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/22/news063.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/can-edge-ai-keep-up"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Grinn, Thistle Integrate Secure Boot for Edge AI Devices",
-        "blurb": "GrinnとThistleがエッジAIデバイス向けにセキュアブートを統合し、サイバーセキュリティを強化する提携を発表。",
+        "title": "AI半導体装置向け「ベアチップ基板実装サービス」、OKIネクステック",
+        "blurb": "OKIネクステックがAI半導体装置向けにベアチップ基板実装サービスを開始。低コスト・短期間での装置開発を支援する。",
         "category": "company",
         "date": "2026-04-23",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/grinn-thistle-integrate-secure-boot-for-edge-ai-devices"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/23/news030.html"
         },
         "field": {
           "primary": "ai",
           "device": null,
-          "process": null,
+          "process": "equipment",
           "market": "ai",
           "industry": null
         }
       }
     ],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "MIPIカメラを15m伝送　ラズパイサイズのエッジAIソリューション",
-        "blurb": "ザインエレクトロニクスがMIPIカメラ映像を15m伝送するエッジAIソリューションを展示。独自技術で長距離伝送を実現。",
-        "category": "tools",
-        "date": "2026-04-22",
+        "title": "Can Edge AI Keep Up?",
+        "blurb": "エッジAIの進化はシリコンサイクルを上回る。電力、面積、効率を犠牲にせず、どれだけ適応できるかが課題。",
+        "category": "business",
+        "date": "2026-04-23",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/22/news063.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/can-edge-ai-keep-up"
         },
         "field": {
           "primary": "ai",
@@ -54,7 +55,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

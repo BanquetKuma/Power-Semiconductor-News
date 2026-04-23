@@ -1,57 +1,38 @@
 {
-  "generated_at": "2026-04-21T06:19:18.051430+09:00",
+  "generated_at": "2026-04-24T06:19:08.816877+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "データセンター用CPUでも勢力伸ばすRISC-V",
-    "summary": "データセンター向けCPU市場でRISC-Vの成長が期待されている。組み込み機器でシェアを伸ばしているRISC-Vが、新たな市場を開拓する可能性を示唆している。",
+    "title": "The ASIC design remake in the AI era",
+    "summary": "AI時代、ASIC設計はモジュール化・分散化し、システム固有設計へ移行。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/20/news054.html"
+        "name": "edn.com",
+        "url": "https://www.edn.com/the-asic-design-remake-in-the-ai-era"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Radxa AICore DX-M1M Edge AI Acceleration Module Hits 25 TOPS",
-        "blurb": "Radxaが25TOPS/3Wの省電力AIアクセラレータモジュール「AICore DX-M1M」を発表。エッジAI用途に最適。",
-        "category": "company",
-        "date": "2026-04-20",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/radxa-aicore-dx-m1m-edge-ai-acceleration-module-hits-25-tops"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "データセンター用CPUでも勢力伸ばすRISC-V",
-        "blurb": "データセンター向けCPU市場でRISC-Vの成長が期待されている。組み込み機器でシェアを伸ばしているRISC-Vが、新たな市場を開拓する可能性を示唆している。",
+        "title": "The ASIC design remake in the AI era",
+        "blurb": "AI時代、ASIC設計はモジュール化・分散化し、システム固有設計へ移行。",
         "category": "business",
-        "date": "2026-04-20",
+        "date": "2026-04-23",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/20/news054.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/the-asic-design-remake-in-the-ai-era"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "datacenter",
+          "market": null,
           "industry": null
         }
       }
