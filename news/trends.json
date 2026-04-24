@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-24T06:19:14.083839+09:00",
-  "date": "2026-04-24",
+  "generated_at": "2026-04-25T06:19:36.353600+09:00",
+  "date": "2026-04-25",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体（SiC/GaN）の普及加速",
+      "name": "高効率パワー半導体需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,41 +12,40 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "EV、データセンター、産業機器向けにSiC/GaNデバイスの採用が進み、高効率化・小型化に貢献。ローム、京セラ、STマイクロなどが新製品を投入。",
+      "summary": "GaNやSiCなどの次世代パワー半導体の採用がEV、データセンター、産業機器で加速。電力変換効率向上と省エネに貢献。",
       "analysis": {
-        "short_term": "需要拡大継続。供給能力増強が焦点。",
-        "mid_term": "コスト競争力向上と用途拡大が鍵。",
-        "investment_implications": "関連メーカーへの投資妙味あり。"
+        "short_term": "需要は堅調に推移。供給制約が注視点。",
+        "mid_term": "技術革新とコスト低下で採用拡大継続。",
+        "investment_implications": "SiC/GaNメーカーへの投資妙味。"
       },
       "keywords": [
-        "SiC",
         "GaN",
+        "SiC",
         "EV",
         "データセンター",
-        "高効率"
+        "省エネ"
       ],
       "companies_mentioned": [
-        "ROHM",
-        "KYOCERA AVX",
-        "STMicroelectronics",
-        "Power Integrations"
+        "ルネサス",
+        "ローム",
+        "MPS",
+        "STマイクロエレクトロニクス"
       ]
     },
     {
-      "name": "AIインフラ向け高性能化・省電力化",
+      "name": "AI・データセンター向け技術進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
         "ai",
+        "datacenter",
         "power",
-        "logic",
-        "memory"
+        "backend"
       ],
-      "summary": "AIデータセンターの電力供給、冷却、チップ性能向上が急務。MPS、Ventiva、TSMCなどが技術開発を推進し、需要増に対応。",
+      "summary": "AI処理能力向上に伴い、データセンターの電力供給、冷却、パッケージング技術が進化。高密度実装と低消費電力化が鍵。",
       "analysis": {
         "short_term": "AI特需による設備投資活発化。",
-        "mid_term": "冷却技術、チップレット、新メモリ技術が重要。",
+        "mid_term": "冷却・電力供給技術が性能向上のボトルネックに。",
         "investment_implications": "AIインフラ関連技術に注目。"
       },
       "keywords": [
@@ -54,110 +53,108 @@
         "データセンター",
         "冷却",
         "電力供給",
-        "チップレット"
+        "パッケージング"
       ],
       "companies_mentioned": [
-        "MPS",
         "Ventiva",
+        "MPS",
         "TSMC",
-        "OKIネクステック",
-        "大真空"
+        "レゾナック",
+        "OKIネクステック"
       ]
     },
     {
-      "name": "エッジAIの進化と課題",
+      "name": "先進パッケージング技術の重要性増大",
       "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "analog",
-        "miniaturization"
-      ],
-      "summary": "エッジAIの性能向上と電力・面積・効率のバランスが課題。ザインエレクトロニクスなどが長距離伝送ソリューションを提供。",
-      "analysis": {
-        "short_term": "ユースケース拡大で需要増。",
-        "mid_term": "低消費電力・高効率化技術が競争力に。",
-        "investment_implications": "エッジAI向け半導体・ソリューションに期待。"
-      },
-      "keywords": [
-        "エッジAI",
-        "低消費電力",
-        "MIPI",
-        "長距離伝送"
-      ],
-      "companies_mentioned": [
-        "ザインエレクトロニクス"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術の重要性増大",
-      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
         "ai",
-        "foundry"
+        "equipment"
       ],
-      "summary": "マルチチップレット設計におけるSiPの課題が顕在化。TSV製造の複雑さがボトルネックとなる一方、OKIネクステックなどが実装サービスを提供。",
+      "summary": "マルチチップレット設計やシリコンフォトニクス統合など、チップレット間の接続・統合技術が性能向上に不可欠。",
       "analysis": {
-        "short_term": "チップレット統合技術の進化が求められる。",
-        "mid_term": "製造歩留まり向上とコスト削減が課題。",
-        "investment_implications": "パッケージング技術を持つ企業に注目。"
+        "short_term": "製造プロセスの複雑化が課題。",
+        "mid_term": "新材料・新工法によるボトルネック解消期待。",
+        "investment_implications": "先進パッケージ関連企業に注目。"
       },
       "keywords": [
-        "SiP",
+        "パッケージング",
         "チップレット",
-        "TSV",
-        "ベアチップ実装"
+        "シリコンフォトニクス",
+        "TSV"
       ],
       "companies_mentioned": [
-        "OKIネクステック"
+        "TSMC",
+        "LSTC",
+        "レゾナック"
       ]
     },
     {
-      "name": "次世代メモリ技術開発の活発化",
+      "name": "サプライチェーンの地政学リスクと国内回帰",
       "confidence": 0.75,
-      "momentum": "rising",
+      "momentum": "stable",
       "related_fields": [
-        "memory",
-        "ai",
-        "logic"
+        "geopolitics",
+        "equipment",
+        "frontend",
+        "backend"
       ],
-      "summary": "AI・HPC向けにメモリ内コンピューティングや新構造メモリの開発が進む。SAIMEMORYなどがNEDO採択や資金調達を実施。",
+      "summary": "中東情勢によるヘリウム・ナフサ供給危機が半導体製造装置・チップメーカーに影響。国内生産拠点構築の動きも。",
       "analysis": {
-        "short_term": "高性能・高密度メモリへの需要は旺盛。",
-        "mid_term": "新技術の実用化とコスト競争力が鍵。",
-        "investment_implications": "次世代メモリ開発企業に投資機会。"
+        "short_term": "供給制約による生産遅延リスク。",
+        "mid_term": "サプライチェーン再編の動きが加速。",
+        "investment_implications": "リスク分散と国内関連企業への影響。"
       },
       "keywords": [
-        "メモリ内コンピューティング",
-        "ZAM",
-        "次世代メモリ",
-        "AI"
+        "供給危機",
+        "ナフサ",
+        "ヘリウム",
+        "サプライチェーン",
+        "国内生産"
       ],
       "companies_mentioned": [
-        "SAIMEMORY",
-        "YMTC"
+        "Rapidus"
       ]
+    },
+    {
+      "name": "エッジAIの性能と効率のバランス",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "power",
+        "miniaturization"
+      ],
+      "summary": "エッジAIの進化は、電力、面積、効率の制約の中で適応性をどこまで許容できるかが課題。",
+      "analysis": {
+        "short_term": "小型・低消費電力化技術が求められる。",
+        "mid_term": "ハードウェアとソフトウェアの最適化が進む。",
+        "investment_implications": "エッジAI向け半導体・ソリューションに期待。"
+      },
+      "keywords": [
+        "エッジAI",
+        "電力効率",
+        "小型化",
+        "適応性"
+      ],
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体市場全体の拡大（Gartner予測）",
-      "次世代パワー半導体（SiC/GaN）の需要増",
-      "AIインフラ投資の活発化（TSMCの設備投資計画）",
-      "ディスクリート半導体製造装置メーカー（ディスコ）の業績好調"
+      "AI・データセンター向け投資活発化",
+      "高効率パワー半導体需要の堅調さ"
     ],
     "bearish": [
-      "日本企業はAI特需の恩恵を受けにくい可能性（Gartner分析）",
-      "TSV製造の複雑さによるボトルネック"
+      "地政学リスクによる供給制約懸念",
+      "Gartner予測：日本企業は恩恵を受けにくい"
     ],
     "neutral": [
-      "RISC-VのデータセンターCPU市場での成長期待",
-      "エッジAIの電力・面積・効率のトレードオフ課題"
+      "半導体市場全体の価格上昇による規模拡大"
     ]
   },
-  "source_count": 36
+  "source_count": 37
 }

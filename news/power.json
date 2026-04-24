@@ -1,32 +1,69 @@
 {
-  "generated_at": "2026-04-24T06:19:08.816238+09:00",
+  "generated_at": "2026-04-25T06:19:31.908732+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ROHM Enhances EcoSiC Portfolio with Low-Resistance MOSFETs",
-    "summary": "ローム、低抵抗SiC MOSFETを開発。EVインバーター等の高効率化に貢献。",
+    "title": "Hybrid eVTOL Power Drives, GaN Bidirectional Switches, Stabilized Power Supply in QSPICE: Power Electronics Week Insights",
+    "summary": "ハイブリッドeVTOL、GaN双方向スイッチ、QSPICEでの安定化電源など、パワーエレクトロニクス分野の最新動向。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/rohm-enhances-ecosic-portfolio-with-low-resistance-mosfets"
+        "url": "https://www.powerelectronicsnews.com/hybrid-evtol-power-drives-gan-bidirectional-switches-stabilized-power-supply-in-qspice-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "ロームが第5世代SiC MOSFET、高温時のオン抵抗30％低減",
+        "blurb": "ロームは第5世代SiC MOSFETを開発。高温時のオン抵抗を30％低減し、xEVやAIサーバ用途に最適。",
+        "category": "company",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/24/news040.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "ROHM Enhances EcoSiC Portfolio with Low-Resistance MOSFETs",
-        "blurb": "ローム、低抵抗SiC MOSFETを開発。EVインバーター等の高効率化に貢献。",
+        "title": "Hybrid eVTOL Power Drives, GaN Bidirectional Switches, Stabilized Power Supply in QSPICE: Power Electronics Week Insights",
+        "blurb": "ハイブリッドeVTOL、GaN双方向スイッチ、QSPICEでの安定化電源など、パワーエレクトロニクス分野の最新動向。",
         "category": "business",
-        "date": "2026-04-23",
+        "date": "2026-04-24",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/rohm-enhances-ecosic-portfolio-with-low-resistance-mosfets"
+          "url": "https://www.powerelectronicsnews.com/hybrid-evtol-power-drives-gan-bidirectional-switches-stabilized-power-supply-in-qspice-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "D-Mode GaN Bidirectional Switches Reshape Power Conversion Topologies",
+        "blurb": "ルネサスがD-Mode GaN双方向スイッチを発表。EV、太陽光、データセンター向け電力変換回路を簡素化。",
+        "category": "business",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/d-mode-gan-bidirectional-switches-reshape-power-conversion-topologies"
         },
         "field": {
           "primary": "power",

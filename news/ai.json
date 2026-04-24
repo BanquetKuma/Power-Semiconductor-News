@@ -1,58 +1,39 @@
 {
-  "generated_at": "2026-04-24T06:19:08.817506+09:00",
+  "generated_at": "2026-04-25T06:19:31.909011+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Can Edge AI Keep Up?",
-    "summary": "エッジAIの進化はシリコンサイクルを上回る。電力、面積、効率を犠牲にせず、どれだけ適応できるかが課題。",
+    "title": "Chip Industry Week In Review",
+    "summary": "マーベルのプラズモニクス買収、TSMCのプロセス進展、LPDDR6、インドの3Dパッケージング工場など、半導体業界の最新動向。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/can-edge-ai-keep-up"
+        "url": "https://semiengineering.com/chip-industry-week-in-review-135"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "AI半導体装置向け「ベアチップ基板実装サービス」、OKIネクステック",
-        "blurb": "OKIネクステックがAI半導体装置向けにベアチップ基板実装サービスを開始。低コスト・短期間での装置開発を支援する。",
-        "category": "company",
-        "date": "2026-04-23",
+        "title": "Chip Industry Week In Review",
+        "blurb": "マーベルのプラズモニクス買収、TSMCのプロセス進展、LPDDR6、インドの3Dパッケージング工場など、半導体業界の最新動向。",
+        "category": "business",
+        "date": "2026-04-24",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/23/news030.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-135"
         },
         "field": {
           "primary": "ai",
           "device": null,
           "process": "equipment",
           "market": "ai",
-          "industry": null
-        }
-      }
-    ],
-    "tech": [],
-    "market": [
-      {
-        "title": "Can Edge AI Keep Up?",
-        "blurb": "エッジAIの進化はシリコンサイクルを上回る。電力、面積、効率を犠牲にせず、どれだけ適応できるかが課題。",
-        "category": "business",
-        "date": "2026-04-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/can-edge-ai-keep-up"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
+          "industry": "foundry"
         }
       }
     ]
