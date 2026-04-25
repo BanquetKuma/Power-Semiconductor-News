@@ -1,39 +1,40 @@
 {
-  "generated_at": "2026-04-25T06:19:36.353600+09:00",
-  "date": "2026-04-25",
+  "generated_at": "2026-04-26T06:14:06.768688+09:00",
+  "date": "2026-04-26",
   "meta_trends": [
     {
-      "name": "高効率パワー半導体需要拡大",
+      "name": "次世代パワー半導体の進化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "datacenter",
-        "industrial"
+        "ai"
       ],
-      "summary": "GaNやSiCなどの次世代パワー半導体の採用がEV、データセンター、産業機器で加速。電力変換効率向上と省エネに貢献。",
+      "summary": "GaNやSiCなどの新材料を用いた高効率・高耐圧なパワー半導体開発が加速。EV、データセンター、AIインフラの省電力化に貢献。",
       "analysis": {
-        "short_term": "需要は堅調に推移。供給制約が注視点。",
-        "mid_term": "技術革新とコスト低下で採用拡大継続。",
-        "investment_implications": "SiC/GaNメーカーへの投資妙味。"
+        "short_term": "需要拡大と技術競争激化。供給制約に注意。",
+        "mid_term": "性能向上とコスト低減が進み、普及が加速。",
+        "investment_implications": "材料・デバイスメーカーに注目。"
       },
       "keywords": [
         "GaN",
         "SiC",
         "EV",
-        "データセンター",
-        "省エネ"
+        "AI",
+        "データセンター"
       ],
       "companies_mentioned": [
         "ルネサス",
         "ローム",
         "MPS",
+        "京セラAVX",
         "STマイクロエレクトロニクス"
       ]
     },
     {
-      "name": "AI・データセンター向け技術進化",
+      "name": "AIインフラの高度化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -42,85 +43,90 @@
         "power",
         "backend"
       ],
-      "summary": "AI処理能力向上に伴い、データセンターの電力供給、冷却、パッケージング技術が進化。高密度実装と低消費電力化が鍵。",
+      "summary": "AI処理能力向上に伴い、データセンターの電力供給、冷却、チップパッケージング技術が進化。エッジAIも注目。",
       "analysis": {
-        "short_term": "AI特需による設備投資活発化。",
-        "mid_term": "冷却・電力供給技術が性能向上のボトルネックに。",
-        "investment_implications": "AIインフラ関連技術に注目。"
+        "short_term": "AI特需による設備投資活発化。冷却技術が鍵。",
+        "mid_term": "チップレット、シリコンフォトニクス統合が進む。",
+        "investment_implications": "AIチップ、インフラ関連企業に投資妙味。"
       },
       "keywords": [
         "AI",
         "データセンター",
         "冷却",
-        "電力供給",
-        "パッケージング"
+        "チップレット",
+        "エッジAI"
       ],
       "companies_mentioned": [
-        "Ventiva",
         "MPS",
+        "Ventiva",
         "TSMC",
-        "レゾナック",
         "OKIネクステック"
       ]
     },
     {
-      "name": "先進パッケージング技術の重要性増大",
+      "name": "先端パッケージング技術の重要性増大",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "backend",
-        "logic",
         "ai",
-        "equipment"
+        "logic",
+        "memory",
+        "geopolitics"
       ],
-      "summary": "マルチチップレット設計やシリコンフォトニクス統合など、チップレット間の接続・統合技術が性能向上に不可欠。",
+      "summary": "マルチチップレット設計におけるSiPの課題解決や、シリコンフォトニクスとの統合が進む。製造ボトルネックも顕在化。",
       "analysis": {
-        "short_term": "製造プロセスの複雑化が課題。",
-        "mid_term": "新材料・新工法によるボトルネック解消期待。",
-        "investment_implications": "先進パッケージ関連企業に注目。"
+        "short_term": "TSV製造の複雑さがボトルネック。技術開発競争。",
+        "mid_term": "光電融合パッケージ開発が進み、性能向上。",
+        "investment_implications": "先進パッケージング技術を持つ企業に注目。"
       },
       "keywords": [
-        "パッケージング",
+        "SiP",
         "チップレット",
         "シリコンフォトニクス",
-        "TSV"
+        "TSV",
+        "光電融合"
       ],
       "companies_mentioned": [
         "TSMC",
+        "レゾナック",
         "LSTC",
-        "レゾナック"
+        "日山村硝子",
+        "ITRI"
       ]
     },
     {
-      "name": "サプライチェーンの地政学リスクと国内回帰",
-      "confidence": 0.75,
+      "name": "サプライチェーンの脆弱性と安定化",
+      "confidence": 0.8,
       "momentum": "stable",
       "related_fields": [
-        "geopolitics",
         "equipment",
+        "geopolitics",
         "frontend",
-        "backend"
+        "backend",
+        "general"
       ],
-      "summary": "中東情勢によるヘリウム・ナフサ供給危機が半導体製造装置・チップメーカーに影響。国内生産拠点構築の動きも。",
+      "summary": "ヘリウム・ナフサ供給危機が製造装置・半導体メーカーに波及。サプライチェーンの安定化が喫緊の課題。",
       "analysis": {
-        "short_term": "供給制約による生産遅延リスク。",
-        "mid_term": "サプライチェーン再編の動きが加速。",
-        "investment_implications": "リスク分散と国内関連企業への影響。"
+        "short_term": "供給制約による生産遅延リスク。代替材料模索。",
+        "mid_term": "地政学リスクへの対応とサプライチェーン再構築。",
+        "investment_implications": "安定供給能力のある企業が有利。"
       },
       "keywords": [
-        "供給危機",
-        "ナフサ",
         "ヘリウム",
+        "ナフサ",
         "サプライチェーン",
-        "国内生産"
+        "製造装置",
+        "地政学リスク"
       ],
       "companies_mentioned": [
-        "Rapidus"
+        "Rapidus",
+        "Gartner"
       ]
     },
     {
-      "name": "エッジAIの性能と効率のバランス",
-      "confidence": 0.7,
+      "name": "エッジAIの進化と課題",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "ai",
@@ -128,33 +134,36 @@
         "power",
         "miniaturization"
       ],
-      "summary": "エッジAIの進化は、電力、面積、効率の制約の中で適応性をどこまで許容できるかが課題。",
+      "summary": "エッジAIの進化はシリコンサイクルを上回る。電力、面積、効率を犠牲にせず、いかに適応できるかが課題。",
       "analysis": {
-        "short_term": "小型・低消費電力化技術が求められる。",
-        "mid_term": "ハードウェアとソフトウェアの最適化が進む。",
-        "investment_implications": "エッジAI向け半導体・ソリューションに期待。"
+        "short_term": "電力効率と性能の両立が求められる。",
+        "mid_term": "メモリ内コンピューティング等の新技術が鍵。",
+        "investment_implications": "低消費電力・高効率なエッジAI向け半導体に期待。"
       },
       "keywords": [
         "エッジAI",
         "電力効率",
-        "小型化",
-        "適応性"
+        "メモリ内コンピューティング",
+        "低消費電力"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "東大"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け投資活発化",
-      "高効率パワー半導体需要の堅調さ"
+      "次世代パワー半導体需要の拡大",
+      "AI関連投資の活発化",
+      "先進パッケージング技術の重要性向上"
     ],
     "bearish": [
-      "地政学リスクによる供給制約懸念",
-      "Gartner予測：日本企業は恩恵を受けにくい"
+      "ヘリウム・ナフサ供給危機による生産遅延リスク",
+      "日本企業のAI特需恩恵の限定性"
     ],
     "neutral": [
-      "半導体市場全体の価格上昇による規模拡大"
+      "半導体市場全体の緩やかな成長見通し"
     ]
   },
-  "source_count": 37
+  "source_count": 41
 }
