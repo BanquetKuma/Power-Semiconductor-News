@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T06:14:02.066815+09:00",
+  "generated_at": "2026-04-25T06:19:31.907572+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
+    "stars": 4,
     "title": "The system architect’s sketchbook: The buildout frenzy",
     "summary": "AIの台頭により、システムアーキテクトの採用を3倍に増やす必要がある。開発競争が激化。",
     "sources": [
@@ -15,26 +15,135 @@
   "sections": {
     "business": [
       {
-        "title": "Ceva's 5G NTN Modem IP Could Democratize Modems for Satellite Terminals",
-        "blurb": "Cevaの5G NTNモデムIPは、衛星端末向けモデム開発の時間、コスト、リスクを削減し、普及を促進する。",
+        "title": "Hybrid eVTOL Power Drives, GaN Bidirectional Switches, Stabilized Power Supply in QSPICE: Power Electronics Week Insights",
+        "blurb": "ハイブリッドeVTOL、GaN双方向スイッチ、QSPICEでの安定化電源など、パワーエレクトロニクス分野の最新動向。",
         "category": "business",
-        "date": "2026-04-25",
+        "date": "2026-04-24",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/cevas-5g-ntn-modem-ip-could-democratize-modems-for-satellite-terminals"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/hybrid-evtol-power-drives-gan-bidirectional-switches-stabilized-power-supply-in-qspice-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "D-Mode GaN Bidirectional Switches Reshape Power Conversion Topologies",
+        "blurb": "ルネサスがD-Mode GaN双方向スイッチを発表。EV、太陽光、データセンター向け電力変換回路を簡素化。",
+        "category": "business",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/d-mode-gan-bidirectional-switches-reshape-power-conversion-topologies"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "マーベルのプラズモニクス買収、TSMCのプロセス進展、LPDDR6、インドの3Dパッケージング工場など、半導体業界の最新動向。",
+        "category": "business",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-135"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": "equipment",
+          "market": "ai",
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "He／ナフサ供給危機で工場新設も遅延？ 装置／チップメーカーへの波及経路を探る",
+        "blurb": "ヘリウム・ナフサ供給危機は装置・チップメーカーにも波及。政府のナフサ在庫議論は的外れか。",
+        "category": "business",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/24/news071.html"
+        },
+        "field": {
+          "primary": "equipment",
+          "device": null,
+          "process": "equipment",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「装置は動くがプロセスが成立しない」――He供給危機とナフサ不足の本質",
+        "blurb": "半導体業界は中東情勢によるヘリウム供給逼迫とナフサ不足に直面。装置は稼働してもプロセスが成立しない深刻な事態に。",
+        "category": "business",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/24/news070.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Smart factory: The rise of PoE in industrial environments",
+        "blurb": "産業用IoTの需要増に伴い、PoE（Power over Ethernet）が注目されている。1本のケーブルで電力とデータを供給できるため、スマートファクトリーでの活用が進む。",
+        "category": "business",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/smart-factory-the-rise-of-poe-in-industrial-environments"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Filter impedance control",
+        "blurb": "フィルターのインピーダンス制御により、ストップバンドのインピーダンス変動をより厳密に管理する技術を解説。",
+        "category": "tools",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/filter-impedance-control"
         },
         "field": null
       }
     ],
-    "tools": [],
     "company": [
       {
         "title": "The system architect’s sketchbook: The buildout frenzy",
         "blurb": "AIの台頭により、システムアーキテクトの採用を3倍に増やす必要がある。開発競争が激化。",
         "category": "company",
         "date": "2026-04-25",
-        "stars": 3,
+        "stars": 4,
         "source": {
           "name": "edn.com",
           "url": "https://www.edn.com/the-system-architects-sketchbook-the-buildout-frenzy"
@@ -42,16 +151,124 @@
         "field": null
       },
       {
-        "title": "MCUs for ML, PCB Design, Impact of ISO 26262 on Embedded Software Design: Embedded Week Insights",
-        "blurb": "組み込みウィークでは、ML向けMCU、PCB設計、ISO 26262が組み込みソフトに与える影響について解説。",
+        "title": "Vishay Expands Power DFN Portfolio with Ultrafast Rectifiers",
+        "blurb": "Vishayが、車載・電源用途向けに、高速リカバリと熱性能を向上させた低背型超高速整流器を発表しました。",
         "category": "company",
-        "date": "2026-04-25",
+        "date": "2026-04-24",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mcus-for-ml-pcb-design-impact-of-iso-26262-on-embedded-software-design-embedded-week-insights"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/vishay-expands-power-dfn-portfolio-with-ultrafast-rectifiers"
         },
         "field": null
+      },
+      {
+        "title": "Apple新CEOはエンジニア出身　製品開発重視への回帰か",
+        "blurb": "Appleの新CEOにエンジニア出身のJohn Ternus氏が就任。製品開発重視への回帰が期待される。",
+        "category": "company",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/24/news063.html"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "半導体向けガラスセラミック基板開発で日台連携",
+        "blurb": "日山村硝子と台湾ITRIらが半導体向け大画面ガラスセラミック基板開発で連携を強化。",
+        "category": "company",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/24/news041.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "シリコンフォトニクスと先進パッケージの統合が描く未来",
+        "blurb": "TSMCはIEDM 2025で、シリコンフォトニクスと先進パッケージの統合による次世代技術の展望を発表した。",
+        "category": "company",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/24/news042.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「Rapidusの隣」に光電融合パッケージ開発拠点、28年度の完成目指す",
+        "blurb": "LSTCは、Rapidus隣接地に光電融合パッケージ開発拠点を2028年度完成目標で整備すると発表した。",
+        "category": "company",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/24/news076.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GAFAM半導体開発に寄与　レゾナックが「米国初」後工程特化R＆D開設",
+        "blurb": "レゾナックがシリコンバレーに米国初の後工程特化R&Dセンターを開設。GAFAMなどの半導体開発を支援し、コンセプト検証期間を短縮する。",
+        "category": "company",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/23/news137.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ロームが第5世代SiC MOSFET、高温時のオン抵抗30％低減",
+        "blurb": "ロームは第5世代SiC MOSFETを開発。高温時のオン抵抗を30％低減し、xEVやAIサーバ用途に最適。",
+        "category": "company",
+        "date": "2026-04-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/24/news040.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
       }
     ],
     "sns": []
