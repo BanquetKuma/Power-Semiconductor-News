@@ -1,51 +1,30 @@
 {
-  "generated_at": "2026-04-25T06:19:31.908732+09:00",
+  "generated_at": "2026-04-28T06:25:28.486546+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Hybrid eVTOL Power Drives, GaN Bidirectional Switches, Stabilized Power Supply in QSPICE: Power Electronics Week Insights",
-    "summary": "ハイブリッドeVTOL、GaN双方向スイッチ、QSPICEでの安定化電源など、パワーエレクトロニクス分野の最新動向。",
+    "title": "モノリシック双方向ダイヤモンドスイッチで安定動作、PDS",
+    "summary": "Power Diamond SystemsがダイヤモンドMOSFET技術でモノリシック双方向ダイヤモンドスイッチを開発。耐圧向上、オン抵抗1/10以下を実現。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/hybrid-evtol-power-drives-gan-bidirectional-switches-stabilized-power-supply-in-qspice-power-electronics-week-insights"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news035.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "ロームが第5世代SiC MOSFET、高温時のオン抵抗30％低減",
-        "blurb": "ロームは第5世代SiC MOSFETを開発。高温時のオン抵抗を30％低減し、xEVやAIサーバ用途に最適。",
+        "title": "モノリシック双方向ダイヤモンドスイッチで安定動作、PDS",
+        "blurb": "Power Diamond SystemsがダイヤモンドMOSFET技術でモノリシック双方向ダイヤモンドスイッチを開発。耐圧向上、オン抵抗1/10以下を実現。",
         "category": "company",
-        "date": "2026-04-24",
+        "date": "2026-04-27",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/24/news040.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
-    "tech": [],
-    "market": [
-      {
-        "title": "Hybrid eVTOL Power Drives, GaN Bidirectional Switches, Stabilized Power Supply in QSPICE: Power Electronics Week Insights",
-        "blurb": "ハイブリッドeVTOL、GaN双方向スイッチ、QSPICEでの安定化電源など、パワーエレクトロニクス分野の最新動向。",
-        "category": "business",
-        "date": "2026-04-24",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/hybrid-evtol-power-drives-gan-bidirectional-switches-stabilized-power-supply-in-qspice-power-electronics-week-insights"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news035.html"
         },
         "field": {
           "primary": "power",
@@ -54,25 +33,9 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "D-Mode GaN Bidirectional Switches Reshape Power Conversion Topologies",
-        "blurb": "ルネサスがD-Mode GaN双方向スイッチを発表。EV、太陽光、データセンター向け電力変換回路を簡素化。",
-        "category": "business",
-        "date": "2026-04-24",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/d-mode-gan-bidirectional-switches-reshape-power-conversion-topologies"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

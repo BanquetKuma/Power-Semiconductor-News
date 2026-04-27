@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-04-25T06:19:31.909327+09:00",
+  "generated_at": "2026-04-28T06:25:28.487896+09:00",
   "field": "industrial",
   "field_label": "産業機器",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Smart factory: The rise of PoE in industrial environments",
-    "summary": "産業用IoTの需要増に伴い、PoE（Power over Ethernet）が注目されている。1本のケーブルで電力とデータを供給できるため、スマートファクトリーでの活用が進む。",
+    "title": "GigaDevice Launches New MCUs for Secure IoT and HMI Systems",
+    "summary": "GigaDeviceがIoT・HMI向け新MCUを発表。Arm Cortex-M33搭載で、高性能・高セキュリティ・低消費電力を実現。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/smart-factory-the-rise-of-poe-in-industrial-environments"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/gigadevice-launches-new-mcus-for-secure-iot-and-hmi-systems"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Smart factory: The rise of PoE in industrial environments",
-        "blurb": "産業用IoTの需要増に伴い、PoE（Power over Ethernet）が注目されている。1本のケーブルで電力とデータを供給できるため、スマートファクトリーでの活用が進む。",
-        "category": "business",
-        "date": "2026-04-24",
+        "title": "Microchip Expands PIC MCUs with Integrated Programmable Logic",
+        "blurb": "マイクロチップ、PICマイコンにプログラマブルロジックを統合した新製品を発表。モーター制御などに最適。",
+        "category": "company",
+        "date": "2026-04-27",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/smart-factory-the-rise-of-poe-in-industrial-environments"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/microchip-expands-pic-mcus-with-integrated-programmable-logic"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "GigaDevice Launches New MCUs for Secure IoT and HMI Systems",
+        "blurb": "GigaDeviceがIoT・HMI向け新MCUを発表。Arm Cortex-M33搭載で、高性能・高セキュリティ・低消費電力を実現。",
+        "category": "company",
+        "date": "2026-04-28",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/gigadevice-launches-new-mcus-for-secure-iot-and-hmi-systems"
         },
         "field": {
           "primary": "industrial",
@@ -36,6 +52,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

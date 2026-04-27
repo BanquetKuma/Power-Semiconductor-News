@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-04-24T06:19:08.818082+09:00",
+  "generated_at": "2026-04-28T06:25:28.487590+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Corner: Ventiva CEO on Data Center’s Thermal Orphan Problem",
-    "summary": "データセンターの熱問題解決へ、Ventiva社CEOがイオン冷却技術について語る。",
+    "title": "油の知見でサーバを冷やす　ENEOSの液浸冷却液",
+    "summary": "ENEOSがサーバ冷却用の液浸冷却液「ENEOS IXシリーズ」を発表。IT WeekデータセンターEXPOで展示。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-corner-ventiva-ceo-on-data-centers-thermal-orphan-problem"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news070.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Power Corner: Ventiva CEO on Data Center’s Thermal Orphan Problem",
-        "blurb": "データセンターの熱問題解決へ、Ventiva社CEOがイオン冷却技術について語る。",
-        "category": "business",
-        "date": "2026-04-23",
+        "title": "油の知見でサーバを冷やす　ENEOSの液浸冷却液",
+        "blurb": "ENEOSがサーバ冷却用の液浸冷却液「ENEOS IXシリーズ」を発表。IT WeekデータセンターEXPOで展示。",
+        "category": "company",
+        "date": "2026-04-27",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-ventiva-ceo-on-data-centers-thermal-orphan-problem"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "AI Data Center Power: How MPS Is Advancing System-Level Power Delivery",
-        "blurb": "MPSはAIデータセンターの電力供給技術を進化させている。システムレベルの電力供給を最適化する技術が注目されている。",
-        "category": "business",
-        "date": "2026-04-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/ai-data-center-power-how-mps-is-advancing-system-level-power-delivery"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news070.html"
         },
         "field": {
           "primary": "datacenter",
@@ -54,6 +34,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }
