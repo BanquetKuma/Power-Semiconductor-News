@@ -1,59 +1,41 @@
 {
-  "generated_at": "2026-04-28T06:25:28.487896+09:00",
+  "generated_at": "2026-04-29T06:26:10.679061+09:00",
   "field": "industrial",
   "field_label": "産業機器",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "GigaDevice Launches New MCUs for Secure IoT and HMI Systems",
-    "summary": "GigaDeviceがIoT・HMI向け新MCUを発表。Arm Cortex-M33搭載で、高性能・高セキュリティ・低消費電力を実現。",
+    "title": "Reflectometry-Based Technique for Characterising Complex Thin-Film Structures (Aalto U. et al.)",
+    "summary": "Aalto大学などの研究者らが、複雑な薄膜構造の特性評価に反射率測定技術を開発。製造スケールでの課題解決に貢献。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/gigadevice-launches-new-mcus-for-secure-iot-and-hmi-systems"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/reflectometry-based-technique-for-characterising-complex-thin-film-structures-aalto-u-et-al"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "Microchip Expands PIC MCUs with Integrated Programmable Logic",
-        "blurb": "マイクロチップ、PICマイコンにプログラマブルロジックを統合した新製品を発表。モーター制御などに最適。",
-        "category": "company",
-        "date": "2026-04-27",
+        "title": "Reflectometry-Based Technique for Characterising Complex Thin-Film Structures (Aalto U. et al.)",
+        "blurb": "Aalto大学などの研究者らが、複雑な薄膜構造の特性評価に反射率測定技術を開発。製造スケールでの課題解決に貢献。",
+        "category": "tools",
+        "date": "2026-04-29",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-expands-pic-mcus-with-integrated-programmable-logic"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/reflectometry-based-technique-for-characterising-complex-thin-film-structures-aalto-u-et-al"
         },
         "field": {
           "primary": "industrial",
           "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "GigaDevice Launches New MCUs for Secure IoT and HMI Systems",
-        "blurb": "GigaDeviceがIoT・HMI向け新MCUを発表。Arm Cortex-M33搭載で、高性能・高セキュリティ・低消費電力を実現。",
-        "category": "company",
-        "date": "2026-04-28",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/gigadevice-launches-new-mcus-for-secure-iot-and-hmi-systems"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
+          "process": "frontend",
           "market": "industrial",
           "industry": null
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }
