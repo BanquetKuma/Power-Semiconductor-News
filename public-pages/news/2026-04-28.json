@@ -1,40 +1,58 @@
 {
-  "generated_at": "2026-04-29T06:26:10.677089+09:00",
+  "generated_at": "2026-04-28T06:25:28.485485+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Bosch Unveils Gen 3 SiC Power Chips for Electric Vehicles",
-    "summary": "ボッシュ、EV向け次世代SiCパワーチップ発表。電力密度向上と損失低減で航続距離延長に貢献。",
+    "title": "Gallium Oxide Trench Schottky Barrier Diodes",
+    "summary": "窒化ガリウム酸化物トレンチショットキーバリアダイオードは、オン抵抗とブレークダウン電圧のバランスをとる。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/bosch-unveils-gen-3-sic-power-chips-for-electric-vehicles"
+        "url": "https://www.powerelectronicsnews.com/gallium-oxide-trench-schottky-barrier-diodes"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "The Normally-On Problem: MEMS Aim to Displace JFETs in Power Protection",
-        "blurb": "800V帯の電源保護で課題となっていた「ノーマリーオン」問題に対し、メンロマイクロ社がMEMS技術による解決策を提案。JFETからの置き換えを目指す。",
+        "title": "Gallium Oxide Trench Schottky Barrier Diodes",
+        "blurb": "窒化ガリウム酸化物トレンチショットキーバリアダイオードは、オン抵抗とブレークダウン電圧のバランスをとる。",
         "category": "business",
-        "date": "2026-04-28",
+        "date": "2026-04-27",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-normally-on-problem-why-mems-could-displace-jfets-in-power-protection"
+          "url": "https://www.powerelectronicsnews.com/gallium-oxide-trench-schottky-barrier-diodes"
         },
         "field": null
       },
       {
-        "title": "New CPU Memory Module",
-        "blurb": "次世代低電力メモリ規格がHPC向けに登場。性能向上と省電力化のメリットと課題について。",
+        "title": "When Semiconductor Materials Misbehave",
+        "blurb": "半導体パッケージの複雑化に伴い、実験室での性能と製造現場での現実との乖離が拡大している。",
         "category": "business",
-        "date": "2026-04-28",
+        "date": "2026-04-27",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/new-cpu-memory-module"
+          "url": "https://semiengineering.com/when-semiconductor-materials-misbehave"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "最新ノートPC5機種を分解　新旧MacBook Proの中身の違いは？",
+        "blurb": "最新ノートPC5機種を分解。新プロセッサ搭載機が続々登場し、約1年半ぶりの大幅リニューアルとなった。",
+        "category": "business",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/21/news133.html"
         },
         "field": {
           "primary": "logic",
@@ -45,138 +63,126 @@
         }
       },
       {
-        "title": "「3社のパワー半導体事業を切り出し合弁設立したい」三菱電機社長",
-        "blurb": "三菱電機社長は、ローム、東芝とパワー半導体事業を統合し、合弁会社を設立したいと述べた。",
+        "title": "ルネサス26年1Qは増収増益　車載／AI好調で「足元は当面強い」",
+        "blurb": "ルネサス、26年1Qは車載・AI好調で増収増益。売上高3723億円、営業利益1254億円。産業向けは供給制約も。",
         "category": "business",
-        "date": "2026-04-28",
+        "date": "2026-04-27",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/28/news107.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ナフサ危機で迫る「レジスト供給途絶」――世界の半導体工場を停止させる、もう一つの臨界点",
-        "blurb": "ナフサ供給危機がフォトレジストに影響し、半導体工場の停止リスクが高まっている。専門家や業界への対策提言も。 (78文字)",
-        "category": "business",
-        "date": "2026-04-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/28/news058.html"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Research Bits: Apr. 28",
-        "blurb": "ペーパートロニクス、量子コンピュータ時代の暗号技術、ホットキャリア劣化に関する研究。",
-        "category": "tools",
-        "date": "2026-04-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-apr-28"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Reflectometry-Based Technique for Characterising Complex Thin-Film Structures (Aalto U. et al.)",
-        "blurb": "Aalto大学などの研究者らが、複雑な薄膜構造の特性評価に反射率測定技術を開発。製造スケールでの課題解決に貢献。",
-        "category": "tools",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/reflectometry-based-technique-for-characterising-complex-thin-film-structures-aalto-u-et-al"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": "frontend",
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ],
-    "company": [
-      {
-        "title": "Bosch Unveils Gen 3 SiC Power Chips for Electric Vehicles",
-        "blurb": "ボッシュ、EV向け次世代SiCパワーチップ発表。電力密度向上と損失低減で航続距離延長に貢献。",
-        "category": "company",
-        "date": "2026-04-28",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/bosch-unveils-gen-3-sic-power-chips-for-electric-vehicles"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "産官学／日台連携で先端半導体推進　「くまもとサイエンスパーク」始動",
-        "blurb": "三井不動産と熊本県が連携し、日台産官学で先端半導体開発・量産のエコシステム構築を目指す「くまもとサイエンスパーク」を始動。",
-        "category": "company",
-        "date": "2026-04-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/28/news081.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "デンソーによるローム買収提案は取り下げ、賛同に至らず",
-        "blurb": "デンソーはロームへの買収提案を取り下げた。ロームは特別委員会で検討したが、賛同に至らなかった。",
-        "category": "company",
-        "date": "2026-04-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/28/news076.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news042.html"
         },
         "field": null
       },
       {
-        "title": "TSMCが次世代ロードマップ公表　A13／A12を29年投入へ",
-        "blurb": "TSMCが次世代プロセスとパッケージング技術のロードマップを公表。AIデータセンター向けに性能向上と電力効率改善を目指す。",
-        "category": "company",
+        "title": "Power Tips #152: Design considerations and topology comparisons for 48V intermediate bus converters",
+        "blurb": "データセンターの高電力化に対応するため、高効率・高密度な48Vバスコンバータの設計とトポロジー比較に関する記事。",
+        "category": "business",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/power-tips-152-design-considerations-and-topology-comparisons-for-48v-intermediate-bus-converters"
+        },
+        "field": null
+      },
+      {
+        "title": "The Kia PV5 Is The Best Electric Van Value: Review",
+        "blurb": "キアの新型EVバン「PV5」は、商用・乗用両方に対応する柔軟な設計で、価格と性能のバランスが良い。",
+        "category": "business",
         "date": "2026-04-28",
         "stars": 3,
         "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/794185/kia-pv5-review"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "Engineering the perfect flow with peristaltic pumps",
+        "blurb": "蠕動ポンプの基本と、電気駆動システムが要求の厳しい用途で完璧な流量を実現する方法を解説。",
+        "category": "tools",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/engineering-the-perfect-flow-with-peristaltic-pumps"
+        },
+        "field": null
+      },
+      {
+        "title": "FLiP Microcontroller Module Rev B Adds USB-C and Wider VIN Range",
+        "blurb": "Parallax社がUSB-C搭載のFLiPマイコンモジュールRev Bを発表。5-16V入力に対応し、保護機能と電力処理能力が向上。",
+        "category": "tools",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/flip-microcontroller-module-rev-b-adds-usb-c-and-wider-vin-range"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "TSMC Tech Symposium 2026, By The Numbers",
+        "blurb": "TSMCは、面積、電力、遅延に注力した野心的な新ロードマップを発表しました。",
+        "category": "company",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/tsmc-tech-symposium-2026-by-the-numbers"
+        },
+        "field": {
+          "primary": "foundry",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "「世界初」フッ素フリーのネガ型ArF液浸レジスト、富士フイルム",
+        "blurb": "富士フイルムは、AI半導体向けに世界初となるフッ素フリーのネガ型ArF液浸レジストを開発し、サンプル出荷を開始した。",
+        "category": "company",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/28/news066.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news036.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "デンソー、ロームへの買収提案「取り下げを含め検討中」",
+        "blurb": "デンソーはロームへの買収提案を取り下げを含めて検討中と発表した。",
+        "category": "company",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news101.html"
+        },
+        "field": null
+      },
+      {
+        "title": "油の知見でサーバを冷やす　ENEOSの液浸冷却液",
+        "blurb": "ENEOSがサーバ冷却用の液浸冷却液「ENEOS IXシリーズ」を発表。IT WeekデータセンターEXPOで展示。",
+        "category": "company",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news070.html"
         },
         "field": {
           "primary": "datacenter",
@@ -187,106 +193,100 @@
         }
       },
       {
-        "title": "村田製作所、不正アクセスで個人情報8.8万件流出か",
-        "blurb": "村田製作所は不正アクセスにより、従業員や関係者の個人情報計8.8万件が流出した可能性があると発表した。",
+        "title": "モノリシック双方向ダイヤモンドスイッチで安定動作、PDS",
+        "blurb": "Power Diamond SystemsがダイヤモンドMOSFET技術でモノリシック双方向ダイヤモンドスイッチを開発。耐圧向上、オン抵抗1/10以下を実現。",
         "category": "company",
-        "date": "2026-04-28",
+        "date": "2026-04-27",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/28/news055.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news035.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Microchip Expands PIC MCUs with Integrated Programmable Logic",
+        "blurb": "マイクロチップ、PICマイコンにプログラマブルロジックを統合した新製品を発表。モーター制御などに最適。",
+        "category": "company",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/microchip-expands-pic-mcus-with-integrated-programmable-logic"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Microchip Releases Digital Signal Controller for Secure, High-Efficiency Designs",
+        "blurb": "マイクロチップが、ポスト量子暗号対応のdsPIC33Aファミリ新製品を発表。高効率・セキュア設計向け。",
+        "category": "company",
+        "date": "2026-04-27",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/microchip-releases-digital-signal-controller-for-secure-high-efficiency-designs"
         },
         "field": null
       },
       {
-        "title": "Microarchitecture Tailored to 3D-Stacked Near-Memory Processing LLM Decoding (U. of Edinburgh, Peking U., Cambridge et al.)",
-        "blurb": "エディンバラ大学等の研究者らが、LLM推論のボトルネック解消に向け、3D積層近接メモリ処理に最適化されたマイクロアーキテクチャを提案。",
+        "title": "Audi's Most Affordable EV Gets More Range, Faster Charging And Updated Tech",
+        "blurb": "アウディQ4 E-Tronが改良され、航続距離延長、充電速度向上、最新技術を搭載。",
         "category": "company",
-        "date": "2026-04-29",
+        "date": "2026-04-27",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/microarchitecture-tailored-to-3d-stacked-near-memory-processing-llm-decoding-u-of-edinburg-peking-u-cambridge-et-al"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/794164/audi-q4-e-tron-facelift"
         },
         "field": {
-          "primary": "general",
+          "primary": "automotive",
           "device": null,
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "Rethinking ESD Protection for System-On-Integrated Chiplets (UC Riverside)",
-        "blurb": "UCリバーサイドの研究者がチップレットベースの3Dマイクロシステム向けESD保護の新技術を発表。信頼性向上が課題。",
+        "title": "GigaDevice Launches New MCUs for Secure IoT and HMI Systems",
+        "blurb": "GigaDeviceがIoT・HMI向け新MCUを発表。Arm Cortex-M33搭載で、高性能・高セキュリティ・低消費電力を実現。",
         "category": "company",
-        "date": "2026-04-29",
+        "date": "2026-04-28",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rethinking-esd-protection-for-system-on-integrated-chiplets-uc-riverside"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/gigadevice-launches-new-mcus-for-secure-iot-and-hmi-systems"
         },
         "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Alumina Nanowires Improve Thermal Management in Advanced Packaging (Georgia Tech et al.)",
-        "blurb": "ジョージア工科大学などの研究者が、半導体パッケージ向けにアルミナナノワイヤで熱伝導性を向上させる新材料を発表。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/alumina-nanowires-improve-thermal-management-in-advanced-packaging-georgia-tech-et-al"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Mapping and Routing Fault-Tolerant Quantum Circuits Onto Chiplet Architectures (TU Munich)",
-        "blurb": "独ミュンヘン工科大学の研究者が、チップレット型量子コンピュータ向けに、耐故障性のある量子回路をマッピング・ルーティングするコンパイラ「Chipmunq」を発表しました。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/mapping-and-routing-fault-tolerant-quantum-circuits-onto-chiplet-architectures-tu-munich"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Leveraging Agentic AI Techniques to Improve Formal Verification (Infineon, et al.)",
-        "blurb": "インフィニオンらが、IC開発の検証サインオフに不可欠なカバレッジクロージャを、エージェンティックAI技術で効率化する論文を発表。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/leveraging-agentic-ai-techniques-to-improve-formal-verification-infineon-et-al"
-        },
-        "field": {
-          "primary": "general",
+          "primary": "industrial",
           "device": null,
           "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
+      },
+      {
+        "title": "Geely Says This Is China’s First Purpose-Built Robotaxi. I'm Not So Sure",
+        "blurb": "吉利汽車、中国初の専用ロボタクシー「EVA Cab」を発表。ハンドルなしで大規模配備を想定。",
+        "category": "company",
+        "date": "2026-04-28",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/794196/geely-eva-cab-autonomous-robotaxi"
+        },
+        "field": null
       }
     ],
     "sns": []

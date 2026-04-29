@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-04-29T06:26:10.680128+09:00",
+  "generated_at": "2026-04-30T06:26:19.915041+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Microarchitecture Tailored to 3D-Stacked Near-Memory Processing LLM Decoding (U. of Edinburgh, Peking U., Cambridge et al.)",
-    "summary": "エディンバラ大学等の研究者らが、LLM推論のボトルネック解消に向け、3D積層近接メモリ処理に最適化されたマイクロアーキテクチャを提案。",
+    "title": "Energy-Efficient Liquid Cooling for Advanced Semiconductor Packaging (KAIST)",
+    "summary": "KAISTの研究者らが、半導体パッケージ向けにエネルギー効率の高い液冷技術を発表。COP10万超を達成。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/microarchitecture-tailored-to-3d-stacked-near-memory-processing-llm-decoding-u-of-edinburg-peking-u-cambridge-et-al"
+        "url": "https://semiengineering.com/energy-efficient-liquid-cooling-for-advanced-semiconductor-packaging-kaist"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "産官学／日台連携で先端半導体推進　「くまもとサイエンスパーク」始動",
-        "blurb": "三井不動産と熊本県が連携し、日台産官学で先端半導体開発・量産のエコシステム構築を目指す「くまもとサイエンスパーク」を始動。",
+        "title": "From Silos to Systems, from Data to Insight",
+        "blurb": "断片化されたデータを組織的な知識基盤へ統合し、活用する。サイロ化を解消し、データから洞察を得る。",
         "category": "company",
-        "date": "2026-04-28",
+        "date": "2026-04-29",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/28/news081.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-silos-to-systems-from-data-to-insight"
         },
         "field": {
           "primary": "general",
@@ -53,14 +53,14 @@
         }
       },
       {
-        "title": "Leveraging Agentic AI Techniques to Improve Formal Verification (Infineon, et al.)",
-        "blurb": "インフィニオンらが、IC開発の検証サインオフに不可欠なカバレッジクロージャを、エージェンティックAI技術で効率化する論文を発表。",
+        "title": "Energy-Efficient Liquid Cooling for Advanced Semiconductor Packaging (KAIST)",
+        "blurb": "KAISTの研究者らが、半導体パッケージ向けにエネルギー効率の高い液冷技術を発表。COP10万超を達成。",
         "category": "company",
-        "date": "2026-04-29",
+        "date": "2026-04-30",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/leveraging-agentic-ai-techniques-to-improve-formal-verification-infineon-et-al"
+          "url": "https://semiengineering.com/energy-efficient-liquid-cooling-for-advanced-semiconductor-packaging-kaist"
         },
         "field": {
           "primary": "general",
@@ -73,14 +73,14 @@
     ],
     "tech": [
       {
-        "title": "Research Bits: Apr. 28",
-        "blurb": "ペーパートロニクス、量子コンピュータ時代の暗号技術、ホットキャリア劣化に関する研究。",
+        "title": "Assuring Comprehensive Security Coverage In Hardware Design",
+        "blurb": "ハードウェア設計における包括的なセキュリティカバレッジは、体系的な検証フレームワークの重要な要素です。",
         "category": "tools",
-        "date": "2026-04-28",
+        "date": "2026-04-29",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-apr-28"
+          "url": "https://semiengineering.com/assuring-comprehensive-security-coverage-in-hardware-design"
         },
         "field": {
           "primary": "general",
@@ -91,6 +91,25 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "How Long Will CAN Stick Around As Rival Networks Speed Up?",
+        "blurb": "車載ネットワーク技術はAI搭載で進化するが、当面は新旧技術の統合が課題。CANの将来性は競合技術の高速化で不透明。",
+        "category": "business",
+        "date": "2026-04-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-long-will-can-stick-around-as-rival-networks-speed-up"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-04-28T06:25:28.487051+09:00",
+  "generated_at": "2026-04-30T06:26:19.913909+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "「世界初」フッ素フリーのネガ型ArF液浸レジスト、富士フイルム",
-    "summary": "富士フイルムは、AI半導体向けに世界初となるフッ素フリーのネガ型ArF液浸レジストを開発し、サンプル出荷を開始した。",
+    "title": "Building An AI Chip: Silicon Design And Advanced Packaging",
+    "summary": "AIチップ設計の第2段階は、シリコン設計と高度なパッケージング。半導体エンジニアリングの記事。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news036.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/building-an-ai-chip-silicon-design-and-advanced-packaging"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "「世界初」フッ素フリーのネガ型ArF液浸レジスト、富士フイルム",
-        "blurb": "富士フイルムは、AI半導体向けに世界初となるフッ素フリーのネガ型ArF液浸レジストを開発し、サンプル出荷を開始した。",
+        "title": "Building An AI Chip: Silicon Design And Advanced Packaging",
+        "blurb": "AIチップ設計の第2段階は、シリコン設計と高度なパッケージング。半導体エンジニアリングの記事。",
         "category": "company",
-        "date": "2026-04-27",
+        "date": "2026-04-29",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/27/news036.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/building-an-ai-chip-silicon-design-and-advanced-packaging"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": "backend",
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Best Practices for inference on Edge AI MCUs",
+        "blurb": "エッジAI MCUでの推論は、低遅延、プライバシー向上、データトラフィック制限のため、データセンターからエッジデバイスへの移行が進んでいます。リソース制限下での最適化が重要です。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/best-practices-for-inference-on-edge-ai-mcus"
         },
         "field": {
           "primary": "ai",
@@ -35,7 +55,6 @@
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }

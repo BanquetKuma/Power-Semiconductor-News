@@ -1,168 +1,179 @@
 {
-  "generated_at": "2026-04-29T06:26:15.290062+09:00",
-  "date": "2026-04-29",
+  "generated_at": "2026-04-30T06:26:25.238726+09:00",
+  "date": "2026-04-30",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化",
+      "name": "次世代パワー半導体のEV・データセンター応用拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "datacenter",
-        "industrial"
+        "ai"
       ],
-      "summary": "SiCやGaNなどの新材料を用いたパワー半導体がEV、データセンター、産業機器で高効率化・小型化を推進。電力変換の革新を牽引。",
+      "summary": "SiCやGaNといった次世代パワー半導体が、EVの高性能化やデータセンターの電力効率向上に不可欠な技術として、その応用範囲を急速に広げている。",
       "analysis": {
-        "short_term": "需要拡大が続く。供給能力が鍵。",
-        "mid_term": "技術革新が競争を加速。",
-        "investment_implications": "材料・デバイスメーカーに注目。"
+        "short_term": "EVメーカーの採用加速、データセンター投資の活発化が期待される。",
+        "mid_term": "サプライチェーンの安定化とコスト低減が普及の鍵となる。",
+        "investment_implications": "SiC/GaNウェーハ、デバイスメーカーへの投資妙味が増す。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "パワー半導体"
+        "電力効率"
       ],
       "companies_mentioned": [
         "Bosch",
         "Rohm",
         "ルネサス",
         "三菱電機",
-        "東芝"
+        "TSMC"
       ]
     },
     {
-      "name": "AI・HPC向け先端パッケージング",
+      "name": "先進パッケージングと3D集積技術の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
-        "ai",
         "backend",
+        "ai",
+        "datacenter",
         "logic",
-        "foundry"
+        "miniaturization"
       ],
-      "summary": "AI・HPCの性能向上には、チップレット、3D積層、近接メモリ処理、熱管理技術が不可欠。TSMCがロードマップを提示。",
+      "summary": "AIチップや高性能コンピューティングの要求に応えるため、チップレット、3D積層、シリコンフォトニクス統合などの先進パッケージング技術が急速に進化している。",
       "analysis": {
-        "short_term": "技術開発競争が激化。",
-        "mid_term": "量産技術の確立が課題。",
-        "investment_implications": "先端パッケージング技術に投資。"
+        "short_term": "高性能AI/HPC向けチップの設計・製造で重要性が増す。",
+        "mid_term": "熱管理、ESD保護、インターコネクト技術のブレークスルーが期待される。",
+        "investment_implications": "先進パッケージング関連材料、装置、IPプロバイダーに注目。"
       },
       "keywords": [
         "チップレット",
         "3D積層",
-        "近接メモリ",
-        "熱管理",
-        "TSMC"
+        "シリコンフォトニクス",
+        "AIチップ",
+        "熱管理"
       ],
       "companies_mentioned": [
         "TSMC",
+        "KAIST",
         "UC Riverside",
-        "Georgia Tech"
+        "Georgia Tech",
+        "レゾナック"
       ]
     },
     {
-      "name": "データセンターの熱問題と冷却技術",
+      "name": "サプライチェーンの地政学リスクと国内回帰",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
-        "ai",
-        "power",
-        "equipment"
+        "geopolitics",
+        "equipment",
+        "foundry",
+        "fabless",
+        "general"
       ],
-      "summary": "AIサーバーの高密度化に伴う発熱増大に対し、液浸冷却やイオン冷却などの革新的な冷却技術が注目されている。",
+      "summary": "ナフサやヘリウムなどの重要原材料の供給不安、地政学リスクの高まりを受け、半導体サプライチェーンの強靭化と国内生産体制の構築が急務となっている。",
       "analysis": {
-        "short_term": "ソリューション開発が加速。",
-        "mid_term": "標準化とコストが普及の鍵。",
-        "investment_implications": "冷却技術関連企業に機会。"
+        "short_term": "原材料供給の不安定化による生産遅延リスクが顕在化。",
+        "mid_term": "国内・地域連携によるR&D・生産拠点の設立が進む。",
+        "investment_implications": "国内半導体関連企業、装置メーカーへの支援策に注目。"
       },
       "keywords": [
-        "データセンター",
-        "AIサーバー",
-        "液浸冷却",
-        "冷却技術"
+        "ナフサ",
+        "ヘリウム",
+        "サプライチェーン",
+        "国内生産",
+        "地政学リスク"
       ],
       "companies_mentioned": [
-        "Ventiva",
-        "MPS",
-        "ENEOS"
+        "三菱電機",
+        "ローム",
+        "東芝",
+        "Rapidus",
+        "富士フイルム"
       ]
     },
     {
-      "name": "半導体材料・製造プロセスの革新",
+      "name": "AI・自動運転向け半導体設計の高度化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
+        "ai",
+        "automotive",
+        "logic",
         "frontend",
-        "backend",
-        "equipment",
-        "foundry",
-        "geopolitics"
+        "datacenter"
       ],
-      "summary": "フォトレジスト、ESD保護、薄膜特性評価など、製造プロセス全体で材料・技術革新が進む。サプライチェーンリスクも顕在化。",
+      "summary": "AIの進化と自動運転技術の普及に伴い、AIチップ、高性能SOC、車載ネットワークなど、より高度で特化した半導体設計への需要が高まっている。",
       "analysis": {
-        "short_term": "サプライチェーンリスクに注意。",
-        "mid_term": "新材料・新技術の導入が進む。",
-        "investment_implications": "材料・装置メーカーに注目。"
+        "short_term": "AI推論・学習向けチップの性能向上が継続。",
+        "mid_term": "車載ネットワークの進化と標準化が課題となる。",
+        "investment_implications": "AI半導体、車載半導体メーカーの成長が期待される。"
       },
       "keywords": [
-        "フォトレジスト",
-        "ESD保護",
-        "薄膜",
-        "サプライチェーン"
+        "AIチップ",
+        "自動運転",
+        "SOC",
+        "車載ネットワーク",
+        "LLM"
       ],
       "companies_mentioned": [
-        "富士フイルム",
-        "Aalto U.",
-        "Infineon"
+        "TSMC",
+        "Apple",
+        "KAIST",
+        "U. of Edinburgh",
+        "Peking U."
       ]
     },
     {
-      "name": "地域連携による半導体エコシステム構築",
+      "name": "環境負荷低減技術への注力",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
-        "geopolitics",
-        "frontend",
-        "backend"
+        "power",
+        "datacenter",
+        "general",
+        "equipment"
       ],
-      "summary": "日台連携による先端半導体開発・量産のエコシステム構築が進む。産官学連携が地域経済活性化に貢献。",
+      "summary": "半導体製造プロセスやデータセンターにおけるエネルギー効率向上、フッ素フリー材料の使用など、環境負荷低減に向けた技術開発が加速している。",
       "analysis": {
-        "short_term": "プロジェクト始動、期待高まる。",
-        "mid_term": "具体的な成果創出が焦点。",
-        "investment_implications": "地域経済・関連インフラに注目。"
+        "short_term": "省電力化技術への投資が継続。",
+        "mid_term": "環境規制強化により、グリーン技術の重要性が増す。",
+        "investment_implications": "省電力デバイス、冷却技術、環境対応材料メーカーに注目。"
       },
       "keywords": [
-        "エコシステム",
-        "産官学連携",
-        "日台連携",
-        "熊本"
+        "省電力",
+        "液冷",
+        "フッ素フリー",
+        "環境負荷",
+        "エネルギー効率"
       ],
       "companies_mentioned": [
-        "三井不動産",
-        "熊本県"
+        "KAIST",
+        "ENEOS",
+        "富士フイルム",
+        "Bosch",
+        "Rohm"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大",
-      "AI/HPC向け先端パッケージング技術の進展",
-      "データセンター冷却技術への投資増加",
-      "地域連携による半導体エコシステム構築の加速"
+      "EV向けSiC/GaNパワー半導体の需要拡大",
+      "AI/HPC向け先進パッケージング技術の進化",
+      "データセンター投資の活発化"
     ],
     "bearish": [
-      "ナフサ・ヘリウム供給危機による製造リスク",
-      "半導体パッケージの複雑化と性能乖離"
+      "ナフサ・ヘリウム供給不安による生産遅延リスク",
+      "地政学リスクによるサプライチェーンの不安定化"
     ],
     "neutral": [
-      "次世代CPUメモリ規格の登場",
-      "量子コンピュータ関連技術の研究開発"
+      "車載ネットワーク技術の世代交代と標準化の遅延"
     ]
   },
-  "source_count": 26
+  "source_count": 39
 }
