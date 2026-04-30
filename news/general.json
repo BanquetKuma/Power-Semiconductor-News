@@ -1,60 +1,24 @@
 {
-  "generated_at": "2026-04-30T06:26:19.915041+09:00",
+  "generated_at": "2026-05-01T06:23:55.068137+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Energy-Efficient Liquid Cooling for Advanced Semiconductor Packaging (KAIST)",
-    "summary": "KAISTの研究者らが、半導体パッケージ向けにエネルギー効率の高い液冷技術を発表。COP10万超を達成。",
+    "title": "Transforming DRC Closure At Advanced Nodes",
+    "summary": "先端ノードにおけるDRCクロージャの変革。数十億件の違反を実用的な洞察に変換。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/energy-efficient-liquid-cooling-for-advanced-semiconductor-packaging-kaist"
+        "url": "https://semiengineering.com/transforming-drc-closure-at-advanced-nodes"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "From Silos to Systems, from Data to Insight",
-        "blurb": "断片化されたデータを組織的な知識基盤へ統合し、活用する。サイロ化を解消し、データから洞察を得る。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-silos-to-systems-from-data-to-insight"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Microarchitecture Tailored to 3D-Stacked Near-Memory Processing LLM Decoding (U. of Edinburgh, Peking U., Cambridge et al.)",
-        "blurb": "エディンバラ大学等の研究者らが、LLM推論のボトルネック解消に向け、3D積層近接メモリ処理に最適化されたマイクロアーキテクチャを提案。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/microarchitecture-tailored-to-3d-stacked-near-memory-processing-llm-decoding-u-of-edinburg-peking-u-cambridge-et-al"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Energy-Efficient Liquid Cooling for Advanced Semiconductor Packaging (KAIST)",
-        "blurb": "KAISTの研究者らが、半導体パッケージ向けにエネルギー効率の高い液冷技術を発表。COP10万超を達成。",
+        "blurb": "KAISTの研究者らが、半導体パッケージ向けにエネルギー効率の高い液冷技術を発表。COP10万超を達成し、冷却性能を大幅に向上させた。",
         "category": "company",
         "date": "2026-04-30",
         "stars": 3,
@@ -73,14 +37,68 @@
     ],
     "tech": [
       {
-        "title": "Assuring Comprehensive Security Coverage In Hardware Design",
-        "blurb": "ハードウェア設計における包括的なセキュリティカバレッジは、体系的な検証フレームワークの重要な要素です。",
+        "title": "Creating Agentic EDA Methodologies",
+        "blurb": "複数のツールやデータ形式を扱うEDA手法において、エージェントの活用可能性を探る。",
         "category": "tools",
-        "date": "2026-04-29",
+        "date": "2026-04-30",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/assuring-comprehensive-security-coverage-in-hardware-design"
+          "url": "https://semiengineering.com/creating-agentic-eda-methodologies"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Unlocking High-Speed Serial Link Signal Integrity With AMI Model",
+        "blurb": "AMIモデルで高速シリアルリンクの信号品質を解析。イコライゼーションアルゴリズムをチャネルシミュレーションに統合し、アイダイアグラム、BER、タイミングマージンへの影響を評価。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/unlocking-high-speed-serial-link-signal-integrity-with-ami-model"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How To Streamline Your Advanced Package Interconnect Designs",
+        "blurb": "高度なパッケージ設計におけるギャップ特定と対処法を解説。設計効率化のヒントを提供。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-to-streamline-your-advanced-package-interconnect-designs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Solving Clock Signal Integrity And Jitter Issues",
+        "blurb": "従来のシミュレーションではクロック信号の完全性やジッター問題を解決できず、大規模チップのクロックネットワーク全体を扱えない。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/solving-clock-signal-integrity-and-jitter-issues"
         },
         "field": {
           "primary": "general",
@@ -93,14 +111,32 @@
     ],
     "market": [
       {
-        "title": "How Long Will CAN Stick Around As Rival Networks Speed Up?",
-        "blurb": "車載ネットワーク技術はAI搭載で進化するが、当面は新旧技術の統合が課題。CANの将来性は競合技術の高速化で不透明。",
+        "title": "Transforming DRC Closure At Advanced Nodes",
+        "blurb": "先端ノードにおけるDRCクロージャの変革。数十億件の違反を実用的な洞察に変換。",
         "category": "business",
-        "date": "2026-04-29",
+        "date": "2026-04-30",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-long-will-can-stick-around-as-rival-networks-speed-up"
+          "url": "https://semiengineering.com/transforming-drc-closure-at-advanced-nodes"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "NoC Coherency Challenges Balloon With AI SoCs And Chiplets",
+        "blurb": "AI SoCとチップレットの普及により、複雑なチップにおける効率的なデータパスのためのNoCコヒーレンシの課題が増大。階層構造が重要。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/noc-coherency-challenges-balloon-with-ai-socs-and-chiplets"
         },
         "field": {
           "primary": "general",

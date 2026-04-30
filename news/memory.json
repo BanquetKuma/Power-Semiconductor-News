@@ -1,21 +1,39 @@
 {
-  "generated_at": "2026-04-30T06:26:19.913412+09:00",
+  "generated_at": "2026-05-01T06:23:55.065514+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "MCUs pair high flash capacity with security",
-    "summary": "GigaDeviceが、大容量フラッシュとセキュリティを両立した32ビット汎用MCU「GD32F5HC」シリーズを発表。",
+    "title": "「世界初」成果で1000層超3Dフラッシュに道筋、キオクシアとSandisk",
+    "summary": "キオクシアとSandiskは、ウエハー間Cu直接接合でQLC動作を世界初実証。1000層超3Dフラッシュメモリ実現への技術的マイルストーンとなった。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/mcus-pair-high-flash-capacity-with-security"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news119.html"
       }
     ]
   },
   "sections": {
     "news": [
+      {
+        "title": "DRAMセルの熱とエントロピー、「電子1個単位」で同時測定",
+        "blurb": "NTTはDRAMセルで熱とエントロピーを電子1個単位で同時測定することに世界初成功。省エネデバイスや次世代メモリへの応用が期待される。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news071.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
       {
         "title": "MCUs pair high flash capacity with security",
         "blurb": "GigaDeviceが、大容量フラッシュとセキュリティを両立した32ビット汎用MCU「GD32F5HC」シリーズを発表。",
@@ -33,9 +51,46 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Mikroe Expands mikroSDK Support to Renesas RA2E1 MCUs",
+        "blurb": "MikroeがRenesasの低電力MCU「RA2E1」ファミリ向けに開発キット「mikroSDK」のサポートを拡充。Arm Cortex-M23コア搭載。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mikroe-expands-mikrosdk-support-to-renesas-ra2e1-mcus"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "「世界初」成果で1000層超3Dフラッシュに道筋、キオクシアとSandisk",
+        "blurb": "キオクシアとSandiskは、ウエハー間Cu直接接合でQLC動作を世界初実証。1000層超3Dフラッシュメモリ実現への技術的マイルストーンとなった。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news119.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

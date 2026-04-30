@@ -1,94 +1,52 @@
 {
-  "generated_at": "2026-04-30T06:26:19.912023+09:00",
+  "generated_at": "2026-05-01T06:23:55.063110+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "Transceivers boost in-vehicle audio bandwidth",
-    "summary": "ADIの新A2B 2.0トランシーバーは、車載オーディオ帯域幅をA2B 1.0の4倍に向上させ、高音質化に貢献します。",
+    "stars": 3,
+    "title": "Wide Bandgap Monthly Insights – April 2026",
+    "summary": "SiC、GaN、広帯域ギャップ材料に関する2026年4月の注目ニュースをまとめた。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/transceivers-boost-in-vehicle-audio-bandwidth"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-april-2026"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Transceivers boost in-vehicle audio bandwidth",
-        "blurb": "ADIの新A2B 2.0トランシーバーは、車載オーディオ帯域幅をA2B 1.0の4倍に向上させ、高音質化に貢献します。",
+        "title": "Enphase Unveils Solid-State Transformer for AI Data Centers",
+        "blurb": "EnphaseがAIデータセンター向けに、高効率なバッテリーフリーの固体状態変圧器を発表。AIワークロードに対応。",
         "category": "business",
         "date": "2026-04-30",
-        "stars": 4,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/transceivers-boost-in-vehicle-audio-bandwidth"
-        },
-        "field": null
-      },
-      {
-        "title": "Exploring the Potential for a Buried Grid",
-        "blurb": "地下電力網は悪天候に強いが、高コスト、複雑な物流、耐久性の課題がある。",
-        "category": "business",
-        "date": "2026-04-29",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/exploring-the-potential-for-a-buried-grid"
+          "url": "https://www.powerelectronicsnews.com/enphase-unveils-solid-state-transformer-for-ai-data-centers"
         },
         "field": null
       },
       {
-        "title": "How Long Will CAN Stick Around As Rival Networks Speed Up?",
-        "blurb": "車載ネットワーク技術はAI搭載で進化するが、当面は新旧技術の統合が課題。CANの将来性は競合技術の高速化で不透明。",
+        "title": "Power Corner: Renesas’s Grid-to-Core Strategy for 800 V Data Center Power Architecture",
+        "blurb": "ルネサスが800Vデータセンター向けに、GaN整流器からソフトウェア制御まで、電力チェーン全体戦略を提示。",
         "category": "business",
-        "date": "2026-04-29",
+        "date": "2026-04-30",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-long-will-can-stick-around-as-rival-networks-speed-up"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-renesass-grid-to-core-strategy-for-800-v-data-center-power-architecture"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
-          "market": null,
+          "market": "datacenter",
           "industry": null
         }
-      },
-      {
-        "title": "Blog Review: Apr. 29",
-        "blurb": "半導体エンジニアリングのブログレビュー。3DインターフェースIP、データセンター向けSOCAMM、エッジAI、3D成膜・エッチング、インターコネクトテレメトリ、設計・製造連携について。",
-        "category": "business",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-apr-29"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "PCIe 7.0 fundamentals: Baseline ordering rules",
-        "blurb": "PCIe 7.0は低遅延と帯域幅活用のため、より柔軟な順序モデルを必要とする。",
-        "category": "business",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/pcie-7-0-fundamentals-baseline-ordering-rules"
-        },
-        "field": null
       },
       {
         "title": "Atomera, Synopsys Expand GaN Device Modeling Collaboration",
-        "blurb": "AtomeraとSynopsysはGaNデバイスモデリングの連携を拡大し、開発加速とシミュレーション精度向上を目指す。",
+        "blurb": "AtomeraとSynopsysはGaNデバイスモデリングで提携を拡大。開発加速とシミュレーション精度向上へ。",
         "category": "business",
         "date": "2026-04-30",
         "stars": 3,
@@ -105,40 +63,14 @@
         }
       },
       {
-        "title": "Rectifiers combine low profile and high current",
-        "blurb": "Vishayは、低背パッケージで高電流対応の超高速整流器16種を発表しました。",
+        "title": "Transforming DRC Closure At Advanced Nodes",
+        "blurb": "先端ノードにおけるDRCクロージャの変革。数十億件の違反を実用的な洞察に変換。",
         "category": "business",
         "date": "2026-04-30",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rectifiers-combine-low-profile-and-high-current"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "Half-Bridge Converters: Operating Principles and Applications",
-        "blurb": "半ブリッジコンバーターは、数百ワットから数キロワットの出力電力範囲で、様々な電源コンバーターに用いられる基本的な構成です。",
-        "category": "tools",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/half-bridge-converters-operating-principles-and-applications"
-        },
-        "field": null
-      },
-      {
-        "title": "Assuring Comprehensive Security Coverage In Hardware Design",
-        "blurb": "ハードウェア設計における包括的なセキュリティカバレッジは、体系的な検証フレームワークの重要な要素です。",
-        "category": "tools",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/assuring-comprehensive-security-coverage-in-hardware-design"
+          "url": "https://semiengineering.com/transforming-drc-closure-at-advanced-nodes"
         },
         "field": {
           "primary": "general",
@@ -149,34 +81,258 @@
         }
       },
       {
-        "title": "ΔVbe + DMM = Celsius, Kelvin, Fahrenheit, and Rankine thermometer",
-        "blurb": "DMMと温度センサーを組み合わせることで、安価で高精度な温度計が作成可能。摂氏、ケルビン、華氏、ランキン度に対応。",
-        "category": "tools",
-        "date": "2026-04-29",
+        "title": "Foundry Capacity Is Limiting Who Competes At Leading Edge Nodes",
+        "blurb": "最先端ノードの製造能力不足が、マルチダイ設計やアーキテクチャ設計の機会を創出。中小規模の半導体開発者に影響。",
+        "category": "business",
+        "date": "2026-04-30",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/%ce%b4vbe-dmm-celsius-kelvin-fahrenheit-and-rankine-thermometer"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/foundries-capacity-is-limiting-who-competes-at-leading-edge-nodes"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "foundry",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "Facilitating Complex SoC Design Through Automation And Integration",
+        "blurb": "複雑なSoC設計を自動化と統合で促進。IP再利用、相互接続、ハードウェア・ソフトウェア統合の境界は独立しなくなった。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/facilitating-complex-soc-design-through-automation-and-integration"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "The system architect’s sketchbook: The tree knows",
-        "blurb": "優れたシステムは、優れた木のように、自身に必要なものを知っている。システムアーキテクトのスケッチブック。",
-        "category": "tools",
-        "date": "2026-04-29",
+        "title": "From Standards To Systems: The Chiplet Era On Arm",
+        "blurb": "Armがチップレット時代を切り拓く。スケーラブルなAMBA準拠システム接続を推進。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-standards-to-systems-the-chiplet-era-on-arm"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "NoC Coherency Challenges Balloon With AI SoCs And Chiplets",
+        "blurb": "AI SoCとチップレットの普及により、複雑なチップにおける効率的なデータパスのためのNoCコヒーレンシの課題が増大。階層構造が重要。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/noc-coherency-challenges-balloon-with-ai-socs-and-chiplets"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「世界初」成果で1000層超3Dフラッシュに道筋、キオクシアとSandisk",
+        "blurb": "キオクシアとSandiskは、ウエハー間Cu直接接合でQLC動作を世界初実証。1000層超3Dフラッシュメモリ実現への技術的マイルストーンとなった。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news119.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "次世代パワー半導体　「期待の5材料」の現在地",
+        "blurb": "AIやEV普及でパワー半導体の需要増。SiC・GaNは実用化、ダイヤモンド等次々世代材料も研究。5材料の現状と課題を整理。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news001.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "パワー停滞も光デバイス堅調、三菱電機の半導体部門",
+        "blurb": "三菱電機の半導体部門は、パワー半導体は停滞も光デバイスが堅調で、2025年度売上高2871億円、営業利益475億円と増収増益。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news054.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "PCIe 7.0: Addressing legacy ordering limitations with UIO",
+        "blurb": "PCIe 7.0は帯域幅だけでなく、UIOによる順序制約の解消で性能向上。ブロッキング問題を低減。",
+        "category": "business",
+        "date": "2026-04-30",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/the-system-architects-sketchbook-the-tree-knows"
+          "url": "https://www.edn.com/pcie-7-0-addressing-legacy-ordering-limitations-with-uio"
         },
         "field": null
+      },
+      {
+        "title": "Quantifying a power surge: Insufficient supplier-sourced knowledge",
+        "blurb": "サプライヤーからの情報不足により、ポータブル電源のサージ電力の評価が困難になっている。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/quantifying-a-power-surge-insufficient-supplier-sourced-knowledge"
+        },
+        "field": null
+      },
+      {
+        "title": "Transceivers boost in-vehicle audio bandwidth",
+        "blurb": "ADIの新A2B 2.0トランシーバーは車載オーディオ帯域幅を4倍に向上させ、通信性能を強化する。",
+        "category": "business",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/transceivers-boost-in-vehicle-audio-bandwidth"
+        },
+        "field": null
+      },
+      {
+        "title": "Wide Bandgap Monthly Insights – April 2026",
+        "blurb": "SiC、GaN、広帯域ギャップ材料に関する2026年4月の注目ニュースをまとめた。",
+        "category": "business",
+        "date": "2026-05-01",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-april-2026"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Creating Agentic EDA Methodologies",
+        "blurb": "複数のツールやデータ形式を扱うEDA手法において、エージェントの活用可能性を探る。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/creating-agentic-eda-methodologies"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Unlocking High-Speed Serial Link Signal Integrity With AMI Model",
+        "blurb": "AMIモデルで高速シリアルリンクの信号品質を解析。イコライゼーションアルゴリズムをチャネルシミュレーションに統合し、アイダイアグラム、BER、タイミングマージンへの影響を評価。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/unlocking-high-speed-serial-link-signal-integrity-with-ami-model"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How To Streamline Your Advanced Package Interconnect Designs",
+        "blurb": "高度なパッケージ設計におけるギャップ特定と対処法を解説。設計効率化のヒントを提供。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-to-streamline-your-advanced-package-interconnect-designs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Solving Clock Signal Integrity And Jitter Issues",
+        "blurb": "従来のシミュレーションではクロック信号の完全性やジッター問題を解決できず、大規模チップのクロックネットワーク全体を扱えない。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/solving-clock-signal-integrity-and-jitter-issues"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
         "title": "Timing module enables vRAN synchronization",
@@ -198,7 +354,7 @@
       },
       {
         "title": "Best Practices for inference on Edge AI MCUs",
-        "blurb": "エッジAI MCUでの推論は、低遅延、プライバシー向上、データトラフィック制限のため、データセンターからエッジデバイスへの移行が進んでいます。リソース制限下での最適化が重要です。",
+        "blurb": "エッジAI MCUでの推論は、低遅延、プライバシー向上、データトラフィック制限のため、データセンターからエッジデバイスへ移行。リソース制限下での最適化が重要。",
         "category": "tools",
         "date": "2026-04-30",
         "stars": 3,
@@ -213,120 +369,54 @@
           "market": "ai",
           "industry": null
         }
+      },
+      {
+        "title": "Littelfuse Debuts Ultra-Compact Surface-Mount Half-Pitch DIP Switches",
+        "blurb": "Littelfuseは、高密度基板設計に最適化された超小型表面実装型ハーフピッチDIPスイッチ「TDBシリーズ」を発表しました。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/littelfuse-debuts-ultra-compact-surface-mount-half-pitch-dip-switches"
+        },
+        "field": null
+      },
+      {
+        "title": "This EV Charging Robot Actually Makes A Ton Of Sense For Charging Robotaxis",
+        "blurb": "ロボタクシーの充電を自動化するロボットが開発された。複数のロボタクシーを同時に充電できる。",
+        "category": "tools",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/794466/robotaxi-charging-network-multibay-solution"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "TinyML Isn't Magic; It Takes Discipline",
+        "blurb": "TinyMLは魔法ではなく、マイクロコントローラーでの実現には規律が必要。できることとできないことを理解することが重要。",
+        "category": "tools",
+        "date": "2026-05-01",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/tinyml-isnt-magic-it-takes-discipline"
+        },
+        "field": null
       }
     ],
     "company": [
       {
-        "title": "From Silos to Systems, from Data to Insight",
-        "blurb": "断片化されたデータを組織的な知識基盤へ統合し、活用する。サイロ化を解消し、データから洞察を得る。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-silos-to-systems-from-data-to-insight"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Building An AI Chip: Silicon Design And Advanced Packaging",
-        "blurb": "AIチップ設計の第2段階は、シリコン設計と高度なパッケージング。半導体エンジニアリングの記事。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-an-ai-chip-silicon-design-and-advanced-packaging"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": "backend",
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Microarchitecture Tailored to 3D-Stacked Near-Memory Processing LLM Decoding (U. of Edinburgh, Peking U., Cambridge et al.)",
-        "blurb": "エディンバラ大学等の研究者らが、LLM推論のボトルネック解消に向け、3D積層近接メモリ処理に最適化されたマイクロアーキテクチャを提案。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/microarchitecture-tailored-to-3d-stacked-near-memory-processing-llm-decoding-u-of-edinburg-peking-u-cambridge-et-al"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Rethinking ESD Protection for System-On-Integrated Chiplets (UC Riverside)",
-        "blurb": "UCリバーサイドの研究者がチップレットベースの3Dマイクロシステム向けESD保護の新技術を発表。高機能・高性能化するスマートチップの信頼性向上に貢献。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rethinking-esd-protection-for-system-on-integrated-chiplets-uc-riverside"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Alumina Nanowires Improve Thermal Management in Advanced Packaging (Georgia Tech et al.)",
-        "blurb": "ジョージア工科大学などの研究者が、半導体パッケージ向けにアルミナナノワイヤで熱伝導性を向上させる新材料を発表。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/alumina-nanowires-improve-thermal-management-in-advanced-packaging-georgia-tech-et-al"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Mapping and Routing Fault-Tolerant Quantum Circuits Onto Chiplet Architectures (TU Munich)",
-        "blurb": "独ミュンヘン工科大学の研究者らが、チップレット型量子コンピュータ向けに、耐故障性のある量子回路をマッピング・ルーティングするコンパイラ「Chipmunq」を発表しました。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/mapping-and-routing-fault-tolerant-quantum-circuits-onto-chiplet-architectures-tu-munich"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Energy-Efficient Liquid Cooling for Advanced Semiconductor Packaging (KAIST)",
-        "blurb": "KAISTの研究者らが、半導体パッケージ向けにエネルギー効率の高い液冷技術を発表。COP10万超を達成。",
+        "blurb": "KAISTの研究者らが、半導体パッケージ向けにエネルギー効率の高い液冷技術を発表。COP10万超を達成し、冷却性能を大幅に向上させた。",
         "category": "company",
         "date": "2026-04-30",
         "stars": 3,
@@ -343,14 +433,56 @@
         }
       },
       {
+        "title": "DRAMセルの熱とエントロピー、「電子1個単位」で同時測定",
+        "blurb": "NTTはDRAMセルで熱とエントロピーを電子1個単位で同時測定することに世界初成功。省エネデバイスや次世代メモリへの応用が期待される。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news071.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "入学した瞬間終わったわ――「講義が英語」なんて一言も聞いてない！",
+        "blurb": "社会人大学院に入学したものの、講義が全て英語で行われるという事実を知り、衝撃を受けるエンジニアの体験談。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news020.html"
+        },
+        "field": null
+      },
+      {
         "title": "Rohm shrinks NFC charging for wearables",
-        "blurb": "ロームがウェアラブル向けNFC充電用無線チップセットを小型化。スマートリング等に最適。",
+        "blurb": "ロームは、スマートリングやフィットネストラッカー向けにNFC充電用無線チップセットML7670/ML7671を発表しました。",
         "category": "company",
         "date": "2026-04-30",
         "stars": 3,
         "source": {
           "name": "edn.com",
           "url": "https://www.edn.com/rohm-shrinks-nfc-charging-for-wearables"
+        },
+        "field": null
+      },
+      {
+        "title": "Rectifiers combine low profile and high current",
+        "blurb": "Vishayは、低背パッケージで高電流に対応する超高速整流器16種を発表しました。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/rectifiers-combine-low-profile-and-high-current"
         },
         "field": null
       },
@@ -371,6 +503,120 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "XELA Robotics Introduces High-Speed Tactile Sensors",
+        "blurb": "XELA Roboticsは、米国市場での存在感を高めるため、高感度触覚センサー「uSkin」ファミリーを強化し、戦略的投資と業界イベントへの参加を進めている。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/xela-robotics-introduces-high-speed-tactile-sensors"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Mikroe Expands mikroSDK Support to Renesas RA2E1 MCUs",
+        "blurb": "MikroeがRenesasの低電力MCU「RA2E1」ファミリ向けに開発キット「mikroSDK」のサポートを拡充。Arm Cortex-M23コア搭載。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mikroe-expands-mikrosdk-support-to-renesas-ra2e1-mcus"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "RealSense ID Pro F500 Adds Secure On-Device Facial Authentication",
+        "blurb": "インテルが顔認証システム「RealSense ID Pro F500」を発表。デバイス上で生体情報を処理し、高い精度と偽造防止機能を持つ。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/realsense-id-pro-f500-adds-secure-on-device-facial-authentication"
+        },
+        "field": null
+      },
+      {
+        "title": "China’s Rolls-Royce Rival May Have Found A Shortcut Into Europe",
+        "blurb": "中国の高級車ブランド「紅旗」が、欧州でのEV展開を加速するため、ステランティスのスペイン工場を利用する可能性がある。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/794425/hongqi-build-cars-in-europe"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Tesla FSD Has A Real Rival. But It Drives Very Differently",
+        "blurb": "XPengの自動運転技術VLA 2.0がテスラのFSDのライバルとして登場。西側ジャーナリストによる実証テストで、両者の違いが明らかに。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/794558/xpeng-vla-beijing-test-ride"
+        },
+        "field": null
+      },
+      {
+        "title": "Hyundai’s New ‘Pleos’ Infotainment System Gets All The Right Features",
+        "blurb": "現代自動車、新インフォテインメントシステム「Pleos Connect」を発表。デュアルスクリーンとAIコンパニオン搭載。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/794540/hyundai-kia-genesis-pleos-connect-infotainment"
+        },
+        "field": null
+      },
+      {
+        "title": "The Tesla Semi Is Finally Going Into Mass Production",
+        "blurb": "テスラ、大型電動トラック「Semi」の量産を正式に開始。2017年の発表から長い年月を経て実現。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/794504/tesla-semi-mass-production-official"
+        },
+        "field": null
+      },
+      {
+        "title": "Inside Ford's $1 Billion Bet On Detroit’s Future: Newlab at Michigan Central",
+        "blurb": "フォードは10億ドルを投じ、デトロイトの廃駅をテックハブ「Newlab」に転換。未来への大規模投資。",
+        "category": "company",
+        "date": "2026-04-30",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/794342/inside-newlab-michigan-central"
+        },
+        "field": null
       }
     ],
     "sns": []

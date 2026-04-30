@@ -1,66 +1,32 @@
 {
-  "generated_at": "2026-04-30T06:26:19.914705+09:00",
+  "generated_at": "2026-05-01T06:23:55.067618+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Rethinking ESD Protection for System-On-Integrated Chiplets (UC Riverside)",
-    "summary": "UCリバーサイドの研究者がチップレットベースの3Dマイクロシステム向けESD保護の新技術を発表。高機能・高性能化するスマートチップの信頼性向上に貢献。",
+    "title": "From Standards To Systems: The Chiplet Era On Arm",
+    "summary": "Armがチップレット時代を切り拓く。スケーラブルなAMBA準拠システム接続を推進。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/rethinking-esd-protection-for-system-on-integrated-chiplets-uc-riverside"
+        "url": "https://semiengineering.com/from-standards-to-systems-the-chiplet-era-on-arm"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Rethinking ESD Protection for System-On-Integrated Chiplets (UC Riverside)",
-        "blurb": "UCリバーサイドの研究者がチップレットベースの3Dマイクロシステム向けESD保護の新技術を発表。高機能・高性能化するスマートチップの信頼性向上に貢献。",
-        "category": "company",
-        "date": "2026-04-29",
+        "title": "From Standards To Systems: The Chiplet Era On Arm",
+        "blurb": "Armがチップレット時代を切り拓く。スケーラブルなAMBA準拠システム接続を推進。",
+        "category": "business",
+        "date": "2026-04-30",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rethinking-esd-protection-for-system-on-integrated-chiplets-uc-riverside"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Alumina Nanowires Improve Thermal Management in Advanced Packaging (Georgia Tech et al.)",
-        "blurb": "ジョージア工科大学などの研究者が、半導体パッケージ向けにアルミナナノワイヤで熱伝導性を向上させる新材料を発表。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/alumina-nanowires-improve-thermal-management-in-advanced-packaging-georgia-tech-et-al"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Mapping and Routing Fault-Tolerant Quantum Circuits Onto Chiplet Architectures (TU Munich)",
-        "blurb": "独ミュンヘン工科大学の研究者らが、チップレット型量子コンピュータ向けに、耐故障性のある量子回路をマッピング・ルーティングするコンパイラ「Chipmunq」を発表しました。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/mapping-and-routing-fault-tolerant-quantum-circuits-onto-chiplet-architectures-tu-munich"
+          "url": "https://semiengineering.com/from-standards-to-systems-the-chiplet-era-on-arm"
         },
         "field": {
           "primary": "backend",
@@ -70,8 +36,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

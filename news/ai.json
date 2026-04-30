@@ -1,44 +1,25 @@
 {
-  "generated_at": "2026-04-30T06:26:19.913909+09:00",
+  "generated_at": "2026-05-01T06:23:55.066419+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Building An AI Chip: Silicon Design And Advanced Packaging",
-    "summary": "AIチップ設計の第2段階は、シリコン設計と高度なパッケージング。半導体エンジニアリングの記事。",
+    "title": "Best Practices for inference on Edge AI MCUs",
+    "summary": "エッジAI MCUでの推論は、低遅延、プライバシー向上、データトラフィック制限のため、データセンターからエッジデバイスへ移行。リソース制限下での最適化が重要。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/building-an-ai-chip-silicon-design-and-advanced-packaging"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/best-practices-for-inference-on-edge-ai-mcus"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Building An AI Chip: Silicon Design And Advanced Packaging",
-        "blurb": "AIチップ設計の第2段階は、シリコン設計と高度なパッケージング。半導体エンジニアリングの記事。",
-        "category": "company",
-        "date": "2026-04-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-an-ai-chip-silicon-design-and-advanced-packaging"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": "backend",
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
         "title": "Best Practices for inference on Edge AI MCUs",
-        "blurb": "エッジAI MCUでの推論は、低遅延、プライバシー向上、データトラフィック制限のため、データセンターからエッジデバイスへの移行が進んでいます。リソース制限下での最適化が重要です。",
+        "blurb": "エッジAI MCUでの推論は、低遅延、プライバシー向上、データトラフィック制限のため、データセンターからエッジデバイスへ移行。リソース制限下での最適化が重要。",
         "category": "tools",
         "date": "2026-04-30",
         "stars": 3,
