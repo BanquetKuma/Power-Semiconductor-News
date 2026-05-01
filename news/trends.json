@@ -1,169 +1,160 @@
 {
-  "generated_at": "2026-05-01T06:24:00.199299+09:00",
-  "date": "2026-05-01",
+  "generated_at": "2026-05-02T06:19:55.231560+09:00",
+  "date": "2026-05-02",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ材料の進化と応用拡大",
+      "name": "次世代パワー半導体の需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "datacenter",
-        "industrial"
+        "ai"
       ],
-      "summary": "SiC、GaN材料の性能向上が進み、EV、データセンター、産業機器など幅広い分野での採用が加速。モデリング技術も進化。",
+      "summary": "EV、AIデータセンター、再生可能エネルギー向けにSiC、GaNなどの広帯域ギャップ材料の採用が加速。2036年まで成長が見込まれる。",
       "analysis": {
-        "short_term": "EV向け需要堅調。データセンター向けも拡大傾向。",
-        "mid_term": "次世代材料（ダイヤモンド等）の研究も進展し、競争激化。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味増す。"
+        "short_term": "SiC/GaN関連技術・製品の発表増加。セミナー開催も活発化。",
+        "mid_term": "採用拡大と技術進化により、市場規模は2035年に7兆円超へ。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
+        "AI",
         "データセンター"
       ],
       "companies_mentioned": [
         "ルネサス",
         "Atomera",
         "Synopsys",
-        "ボッシュ",
-        "三菱電機",
-        "ローム",
-        "東芝",
-        "Power Diamond Systems"
+        "村田製作所"
       ]
     },
     {
-      "name": "先端パッケージングとチップレット化の加速",
+      "name": "先端プロセス・設計の複雑化と自動化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
+        "frontend",
+        "backend",
+        "logic",
         "ai",
-        "datacenter",
-        "logic",
-        "backend",
-        "miniaturization"
-      ],
-      "summary": "AI SoCやチップレットの普及により、高度なパッケージング技術、チップレット間の接続性（NoC）、冷却技術の重要性が増大。",
-      "analysis": {
-        "short_term": "AI向けチップレット設計・実装の需要増。",
-        "mid_term": "冷却技術の進化が性能ボトルネック解消に寄与。",
-        "investment_implications": "先端パッケージング、EDA、冷却関連企業に注目。"
-      },
-      "keywords": [
-        "チップレット",
-        "AI SoC",
-        "NoC",
-        "パッケージング",
-        "液冷"
-      ],
-      "companies_mentioned": [
-        "Arm",
-        "TSMC",
-        "KAIST",
-        "ENEOS"
-      ]
-    },
-    {
-      "name": "製造能力制約とサプライチェーンリスク",
-      "confidence": 0.8,
-      "momentum": "stable",
-      "related_fields": [
         "foundry",
-        "frontend",
-        "equipment",
-        "geopolitics"
+        "fabless"
       ],
-      "summary": "最先端ノードの製造能力不足が競争環境に影響。フォトレジストやヘリウム等の供給途絶リスクも顕在化。",
+      "summary": "先端ノードでのDRCクロージャ、エージェントベースEDA、高度パッケージ設計、複雑SoC設計、チップレット化など、設計・製造プロセスが複雑化し自動化・統合の重要性が増している。",
       "analysis": {
-        "short_term": "ナフサ・He供給危機によるプロセス遅延リスク。",
-        "mid_term": "製造能力不足は中小開発者の機会創出にも。",
-        "investment_implications": "サプライチェーン強靭化、代替材料開発企業が有利。"
+        "short_term": "EDAツールベンダー間の連携強化、新手法の発表が増加。",
+        "mid_term": "自動化・統合技術が設計効率と歩留まり向上に貢献。",
+        "investment_implications": "EDA、IPベンダー、高度パッケージング関連企業に注目。"
       },
       "keywords": [
-        "製造能力",
-        "サプライチェーン",
-        "フォトレジスト",
-        "ヘリウム",
-        "ナフサ"
-      ],
-      "companies_mentioned": [
-        "TSMC",
-        "富士フイルム",
-        "三菱電機"
-      ]
-    },
-    {
-      "name": "EDA・設計自動化の高度化",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "frontend",
-        "backend",
-        "ai"
-      ],
-      "summary": "複雑化するSoC設計、先端ノードのDRCクロージャ、高速シリアルリンク解析等において、自動化・エージェント活用が進む。",
-      "analysis": {
-        "short_term": "設計自動化ツールへの需要増加。",
-        "mid_term": "AI活用による設計手法の変革が期待される。",
-        "investment_implications": "EDAツールベンダーの成長ポテンシャル。"
-      },
-      "keywords": [
+        "先端ノード",
         "EDA",
-        "自動化",
-        "SoC設計",
-        "DRC",
-        "エージェント"
+        "SoC",
+        "チップレット",
+        "自動化"
       ],
       "companies_mentioned": [
+        "Atomera",
         "Synopsys",
-        "TSMC"
+        "Arm"
       ]
     },
     {
-      "name": "次世代メモリ技術の研究開発",
-      "confidence": 0.7,
+      "name": "メモリ技術の進化と省電力化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
         "datacenter"
       ],
-      "summary": "3Dフラッシュメモリの積層化（1000層超）や、DRAMセルの微細な熱・エントロピー測定など、革新的な技術開発が進展。",
+      "summary": "3Dフラッシュメモリの積層化が進み、DRAMセルでの電子1個単位の測定技術も登場。省電力化と高性能化が両立。",
       "analysis": {
-        "short_term": "大容量メモリ需要は堅調。",
-        "mid_term": "新技術の実用化に向けた研究開発が加速。",
-        "investment_implications": "メモリ技術革新をリードする企業に注目。"
+        "short_term": "次世代メモリ技術に関する研究開発発表が続く。",
+        "mid_term": "1000層超3Dフラッシュメモリの実用化、省エネデバイスへの応用期待。",
+        "investment_implications": "メモリメーカー、関連材料・装置メーカーに注目。"
       },
       "keywords": [
-        "3Dフラッシュ",
+        "3Dフラッシュメモリ",
         "DRAM",
-        "積層化",
-        "省エネ"
+        "省電力",
+        "積層化"
       ],
       "companies_mentioned": [
         "キオクシア",
         "Sandisk",
         "NTT"
       ]
+    },
+    {
+      "name": "AI・データセンター向け需要の継続",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "datacenter",
+        "logic",
+        "power"
+      ],
+      "summary": "GoogleのTPU販売開始、データセンター向けコンデンサー需要増など、AI・データセンター関連の半導体需要は引き続き堅調。",
+      "analysis": {
+        "short_term": "AIチップの供給逼迫、データセンター関連部材の需要増。",
+        "mid_term": "AIインフラ投資拡大に伴い、関連半導体・部材の需要は高水準維持。",
+        "investment_implications": "AIチップ、データセンター向け部材メーカーに投資機会。"
+      },
+      "keywords": [
+        "AI",
+        "データセンター",
+        "TPU",
+        "サーバー"
+      ],
+      "companies_mentioned": [
+        "Google",
+        "村田製作所"
+      ]
+    },
+    {
+      "name": "地政学リスクとサプライチェーン再編",
+      "confidence": 0.75,
+      "momentum": "stable",
+      "related_fields": [
+        "geopolitics",
+        "foundry",
+        "fabless",
+        "idm"
+      ],
+      "summary": "中国向けICツール販売停止など、地政学リスクがサプライチェーンに影響。先端ノードの製造能力不足が競争環境を変化させる。",
+      "analysis": {
+        "short_term": "一部地域への輸出規制強化、サプライチェーンの二極化。",
+        "mid_term": "サプライチェーンの再構築が進み、新たな生産拠点や技術開発が進む可能性。",
+        "investment_implications": "サプライチェーンの安定性、地域分散化の恩恵を受ける企業に注目。"
+      },
+      "keywords": [
+        "地政学リスク",
+        "サプライチェーン",
+        "輸出規制",
+        "先端ノード"
+      ],
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "広帯域ギャップ材料（SiC/GaN）の需要拡大",
-      "AI・データセンター向け先端パッケージング・チップレット需要",
-      "設計自動化・EDAツールの進化"
+      "次世代パワー半導体（SiC/GaN）の需要拡大と技術進化",
+      "AI・データセンター向け半導体・部材の堅調な需要",
+      "先端設計・製造プロセスの自動化・統合による効率化"
     ],
     "bearish": [
-      "ナフサ・ヘリウム供給危機による製造リスク",
-      "最先端ノードの製造能力不足による競争激化"
+      "先端プロセスにおける製造能力不足による供給逼迫",
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "次世代メモリ技術の研究開発競争"
+      "メモリ技術の進化と省電力化の進展"
     ]
   },
-  "source_count": 42
+  "source_count": 20
 }
