@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-05-01T06:23:55.065826+09:00",
+  "generated_at": "2026-05-05T06:26:27.856380+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Facilitating Complex SoC Design Through Automation And Integration",
-    "summary": "複雑なSoC設計を自動化と統合で促進。IP再利用、相互接続、ハードウェア・ソフトウェア統合の境界は独立しなくなった。",
+    "title": "Altera Updates FPGA AI Suite with Spatial Mapping for Edge AI",
+    "summary": "AlteraがFPGA向けAIスイートを更新。エッジAI向けに空間マッピング機能を追加し、ロボット等でのリアルタイム処理を強化。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/facilitating-complex-soc-design-through-automation-and-integration"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/altera-updates-fpga-ai-suite-with-spatial-mapping-for-edge-ai"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Facilitating Complex SoC Design Through Automation And Integration",
-        "blurb": "複雑なSoC設計を自動化と統合で促進。IP再利用、相互接続、ハードウェア・ソフトウェア統合の境界は独立しなくなった。",
-        "category": "business",
-        "date": "2026-04-30",
+        "title": "Altera Updates FPGA AI Suite with Spatial Mapping for Edge AI",
+        "blurb": "AlteraがFPGA向けAIスイートを更新。エッジAI向けに空間マッピング機能を追加し、ロボット等でのリアルタイム処理を強化。",
+        "category": "tools",
+        "date": "2026-05-05",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/facilitating-complex-soc-design-through-automation-and-integration"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/altera-updates-fpga-ai-suite-with-spatial-mapping-for-edge-ai"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }
