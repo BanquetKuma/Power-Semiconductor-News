@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-05-01T06:23:55.066419+09:00",
+  "generated_at": "2026-05-06T06:24:31.708123+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Best Practices for inference on Edge AI MCUs",
-    "summary": "エッジAI MCUでの推論は、低遅延、プライバシー向上、データトラフィック制限のため、データセンターからエッジデバイスへ移行。リソース制限下での最適化が重要。",
+    "title": "From edge AI to physical AI in smart factories: A shift in how machines perceive and act",
+    "summary": "スマートファクトリーは自動化だけでなく、システム全体に知能が組み込まれることで定義されるようになった。AIの進化が機械の知覚と行動を変える。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/best-practices-for-inference-on-edge-ai-mcus"
+        "name": "edn.com",
+        "url": "https://www.edn.com/from-edge-ai-to-physical-ai-in-smart-factories-a-shift-in-how-machines-perceive-and-act"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Best Practices for inference on Edge AI MCUs",
-        "blurb": "エッジAI MCUでの推論は、低遅延、プライバシー向上、データトラフィック制限のため、データセンターからエッジデバイスへ移行。リソース制限下での最適化が重要。",
-        "category": "tools",
-        "date": "2026-04-30",
+        "title": "From edge AI to physical AI in smart factories: A shift in how machines perceive and act",
+        "blurb": "スマートファクトリーは自動化だけでなく、システム全体に知能が組み込まれることで定義されるようになった。AIの進化が機械の知覚と行動を変える。",
+        "category": "company",
+        "date": "2026-05-05",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/best-practices-for-inference-on-edge-ai-mcus"
+          "name": "edn.com",
+          "url": "https://www.edn.com/from-edge-ai-to-physical-ai-in-smart-factories-a-shift-in-how-machines-perceive-and-act"
         },
         "field": {
           "primary": "ai",
@@ -36,6 +35,7 @@
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

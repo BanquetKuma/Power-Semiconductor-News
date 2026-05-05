@@ -1,94 +1,58 @@
 {
-  "generated_at": "2026-05-01T06:23:55.065514+09:00",
+  "generated_at": "2026-05-06T06:24:31.707397+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "「世界初」成果で1000層超3Dフラッシュに道筋、キオクシアとSandisk",
-    "summary": "キオクシアとSandiskは、ウエハー間Cu直接接合でQLC動作を世界初実証。1000層超3Dフラッシュメモリ実現への技術的マイルストーンとなった。",
+    "title": "A Detailed Evaluation of A Production Server With High-End MRDIMM Main Memory (BSC, Micron, Intel, UPC)",
+    "summary": "MRDIMM技術に関する性能・電力・エネルギー効果の評価論文が発表された。高帯域幅を実現する。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news119.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/a-detailed-evaluation-of-a-production-server-with-high-end-mrdimm-main-memory-bsc-micron-intel-upc"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "DRAMセルの熱とエントロピー、「電子1個単位」で同時測定",
-        "blurb": "NTTはDRAMセルで熱とエントロピーを電子1個単位で同時測定することに世界初成功。省エネデバイスや次世代メモリへの応用が期待される。",
+        "title": "Replacing GPU Compute Dies With PNM-Enabled HBM Cubes For Long-Context Decode Attention (UCSD, Columbia, Yonsei U., NVIDIA, Samsung)",
+        "blurb": "GPUに代わりHBMキューブでLLMの長文処理を高速化する新技術を発表。低遅延・高効率化に期待。",
         "category": "company",
-        "date": "2026-04-30",
+        "date": "2026-05-06",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news071.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/replacing-gpu-compute-dies-with-pnm-enabled-hbm-cubes-for-long-context-decode-attention-ucsd-columbia-yonsei-u-nvidia-samsung"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": null,
+          "process": "backend",
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "MCUs pair high flash capacity with security",
-        "blurb": "GigaDeviceが、大容量フラッシュとセキュリティを両立した32ビット汎用MCU「GD32F5HC」シリーズを発表。",
-        "category": "company",
-        "date": "2026-04-30",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/mcus-pair-high-flash-capacity-with-security"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Mikroe Expands mikroSDK Support to Renesas RA2E1 MCUs",
-        "blurb": "MikroeがRenesasの低電力MCU「RA2E1」ファミリ向けに開発キット「mikroSDK」のサポートを拡充。Arm Cortex-M23コア搭載。",
-        "category": "company",
-        "date": "2026-04-30",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mikroe-expands-mikrosdk-support-to-renesas-ra2e1-mcus"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
+          "industry": "fabless"
         }
       }
     ],
     "tech": [],
     "market": [
       {
-        "title": "「世界初」成果で1000層超3Dフラッシュに道筋、キオクシアとSandisk",
-        "blurb": "キオクシアとSandiskは、ウエハー間Cu直接接合でQLC動作を世界初実証。1000層超3Dフラッシュメモリ実現への技術的マイルストーンとなった。",
+        "title": "A Detailed Evaluation of A Production Server With High-End MRDIMM Main Memory (BSC, Micron, Intel, UPC)",
+        "blurb": "MRDIMM技術に関する性能・電力・エネルギー効果の評価論文が発表された。高帯域幅を実現する。",
         "category": "business",
-        "date": "2026-04-30",
+        "date": "2026-05-06",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2604/30/news119.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-detailed-evaluation-of-a-production-server-with-high-end-mrdimm-main-memory-bsc-micron-intel-upc"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": null,
-          "industry": null
+          "market": "datacenter",
+          "industry": "idm"
         }
       }
     ]

@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-05-05T06:26:32.316662+09:00",
-  "date": "2026-05-05",
+  "generated_at": "2026-05-06T06:24:36.132418+09:00",
+  "date": "2026-05-06",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体需要拡大",
+      "name": "広帯域ギャップ材料の採用加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "datacenter"
       ],
-      "summary": "EV、AIデータセンター、再生可能エネルギー需要増により、SiC・GaNの採用が2036年まで加速。次世代材料も研究開発が進む。",
+      "summary": "SiCおよびGaN材料の採用がEV、AIデータセンター、再生可能エネルギー分野で2036年まで加速する見込みです。",
       "analysis": {
-        "short_term": "需要増は継続。供給制約に注視。",
-        "mid_term": "技術進化とコスト低下で採用拡大。",
-        "investment_implications": "関連企業への投資妙味あり。"
+        "short_term": "SiC/GaN採用拡大、新製品投入活発化。",
+        "mid_term": "EV・データセンター需要で市場拡大続く。",
+        "investment_implications": "関連メーカーへの投資妙味増す。"
       },
       "keywords": [
         "SiC",
@@ -26,144 +25,148 @@
         "再生可能エネルギー"
       ],
       "companies_mentioned": [
-        "ルネサス",
+        "STマイクロエレクトロニクス",
         "三菱電機",
         "ローム",
-        "東芝",
-        "Atomera",
-        "Synopsys"
+        "東芝"
       ]
     },
     {
-      "name": "AI・データセンター向けチップ設計進化",
+      "name": "AI・データセンター向け高性能化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "logic",
-        "frontend",
-        "backend"
+        "memory",
+        "logic"
       ],
-      "summary": "AIの進化がチップ設計を複雑化。エッジコンピューティング、高度なパッケージング、物理シミュレーションの進化が求められる。",
+      "summary": "AIワークロードの増大に伴い、GPU電力予測ツールやHBMキューブによるLLM高速化など、データセンターの性能と効率向上が進んでいます。",
       "analysis": {
-        "short_term": "AI特化型チップ開発競争激化。",
-        "mid_term": "設計自動化・統合ツールの重要性増す。",
-        "investment_implications": "EDA、設計サービス企業に注目。"
+        "short_term": "AIチップ設計・検証技術進化。",
+        "mid_term": "データセンター向け次世代プロセスの投入。",
+        "investment_implications": "AIインフラ関連企業に注目。"
       },
       "keywords": [
         "AI",
+        "GPU",
+        "HBM",
         "データセンター",
-        "SoC",
-        "EDA",
-        "パッケージング"
+        "LLM"
       ],
       "companies_mentioned": [
-        "Google",
+        "MIT",
+        "IBM",
+        "NVIDIA",
+        "Samsung",
         "TSMC",
-        "富士フイルム",
-        "Atomera",
-        "Synopsys"
+        "村田製作所"
       ]
     },
     {
-      "name": "先端プロセス・製造能力の逼迫",
+      "name": "次世代メモリ技術の進化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
-        "equipment",
-        "geopolitics",
-        "frontend"
+        "memory",
+        "datacenter",
+        "logic"
       ],
-      "summary": "最先端ノードの製造能力不足が顕著。これがマルチダイ設計やアーキテクチャ設計の機会を創出する一方、中小開発者に影響。",
+      "summary": "MRDIMM、HBMキューブ、1000層超3Dフラッシュメモリなど、高帯域幅・高効率化を実現する次世代メモリ技術の開発が進んでいます。",
       "analysis": {
-        "short_term": "供給制約は当面継続。",
-        "mid_term": "新工場建設や技術革新で緩和期待。",
-        "investment_implications": "ファウンドリ、製造装置メーカーに恩恵。"
+        "short_term": "新メモリ規格の評価・開発活発化。",
+        "mid_term": "高性能コンピューティングでの採用拡大。",
+        "investment_implications": "メモリメーカーの技術競争力評価。"
       },
       "keywords": [
-        "ファウンドリ",
-        "先端プロセス",
-        "製造能力",
-        "マルチダイ"
+        "MRDIMM",
+        "HBM",
+        "3Dフラッシュメモリ",
+        "高帯域幅",
+        "低遅延"
       ],
       "companies_mentioned": [
-        "TSMC",
-        "Intel"
+        "Micron",
+        "キオクシア",
+        "Sandisk",
+        "Samsung"
       ]
     },
     {
-      "name": "次世代メモリ技術開発競争",
+      "name": "パワー半導体市場の拡大",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "ai",
-        "datacenter",
-        "miniaturization"
+        "power",
+        "automotive",
+        "industrial"
       ],
-      "summary": "1000層超3Dフラッシュメモリや、省エネ・高効率DRAMセルの研究開発が進展。AI・データセンター需要を支える。",
+      "summary": "EV、再生可能エネルギー、産業機器の需要増により、パワー半導体市場は2035年に7兆円超と予測され、SiC、GaNに加え酸化ガリウム等も注目されています。",
       "analysis": {
-        "short_term": "技術的ブレークスルーに期待。",
-        "mid_term": "量産化に向けた課題解決が鍵。",
-        "investment_implications": "メモリメーカーの技術力に注目。"
+        "short_term": "パワーデバイスセミナー開催、技術動向注目。",
+        "mid_term": "次世代材料の実用化で市場拡大。",
+        "investment_implications": "パワー半導体メーカーの成長期待。"
       },
       "keywords": [
-        "3Dフラッシュメモリ",
-        "DRAM",
-        "省エネ",
-        "QLC"
+        "パワー半導体",
+        "SiC",
+        "GaN",
+        "酸化ガリウム",
+        "EV"
       ],
       "companies_mentioned": [
-        "キオクシア",
-        "Sandisk",
-        "NTT"
+        "富士経済",
+        "三菱電機",
+        "ローム",
+        "東芝"
       ]
     },
     {
-      "name": "サプライチェーンリスクと地域連携",
+      "name": "チップ設計・製造技術の革新",
       "confidence": 0.75,
-      "momentum": "stable",
+      "momentum": "rising",
       "related_fields": [
-        "geopolitics",
-        "frontend",
+        "logic",
         "foundry",
-        "equipment"
+        "frontend",
+        "geopolitics"
       ],
-      "summary": "ナフサ危機によるフォトレジスト供給途絶リスクや、日台連携による先端半導体開発推進など、地政学リスクと地域連携が重要化。",
+      "summary": "RISC-Vチップ設計手法、ファウンドリ互換グレーティングカプラ、フッ素フリーレジストなど、チップ設計・製造の効率化・高性能化が進んでいます。",
       "analysis": {
-        "short_term": "サプライチェーンの脆弱性に注意。",
-        "mid_term": "地域分散化・協力体制の構築進む。",
-        "investment_implications": "リスク管理能力が問われる。"
+        "short_term": "先端プロセス開発競争激化。",
+        "mid_term": "エコシステム構築と技術標準化。",
+        "investment_implications": "先端技術を持つファウンドリ・設計企業に注目。"
       },
       "keywords": [
-        "サプライチェーン",
-        "フォトレジスト",
-        "地政学リスク",
-        "地域連携"
+        "RISC-V",
+        "チップレット",
+        "レジスト",
+        "ファウンドリ",
+        "先端プロセス"
       ],
       "companies_mentioned": [
+        "バルセロナ・スーパーコンピューティング・センター",
+        "イェール大学",
         "富士フイルム",
-        "三井不動産",
-        "熊本県"
+        "TSMC",
+        "三井不動産"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体需要の力強い伸び",
-      "AI・データセンター向け投資の活発化",
-      "次世代メモリ技術の進展"
+      "広帯域ギャップ材料の需要拡大",
+      "AI・データセンター投資の継続",
+      "次世代メモリ技術への期待",
+      "パワー半導体市場の成長予測",
+      "先端半導体開発拠点の設立"
     ],
     "bearish": [
-      "先端プロセス製造能力の逼迫による供給制約",
-      "地政学リスクによるサプライチェーンの不安定化"
+      "ナフサ供給危機によるレジスト供給懸念"
     ],
     "neutral": [
-      "半導体設計ツールの進化と標準化",
-      "パワー半導体事業再編の動き"
+      "ソフトウェア定義車両（SDV）のアーキテクチャ発表"
     ]
   },
-  "source_count": 41
+  "source_count": 34
 }

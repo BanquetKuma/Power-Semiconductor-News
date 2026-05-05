@@ -1,28 +1,42 @@
 {
-  "generated_at": "2026-05-05T06:26:27.855434+09:00",
+  "generated_at": "2026-05-04T06:17:45.451275+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "SSTs and DABs: Key Blocks for Future Power Distribution",
-    "summary": "SSTとDABコンバーター、SiCスイッチを活用し、AC/DCグリッド間で効率的かつコンパクトな双方向電力供給を実現。",
+    "title": "Murata Unveils Ultra-Low Power AMR Sensors",
+    "summary": "村田製作所が超低消費電力のAMRセンサーを発表。小型デバイスで数年間の動作が可能。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution"
+        "url": "https://www.powerelectronicsnews.com/murata-unveils-ultra-low-power-amr-sensors"
       }
     ]
   },
   "sections": {
-    "business": [
+    "business": [],
+    "tools": [],
+    "company": [
       {
-        "title": "SSTs and DABs: Key Blocks for Future Power Distribution",
-        "blurb": "SSTとDABコンバーター、SiCスイッチを活用し、AC/DCグリッド間で効率的かつコンパクトな双方向電力供給を実現。",
-        "category": "business",
-        "date": "2026-05-04",
+        "title": "Murata Unveils Ultra-Low Power AMR Sensors",
+        "blurb": "村田製作所が超低消費電力のAMRセンサーを発表。小型デバイスで数年間の動作が可能。",
+        "category": "company",
+        "date": "2026-05-02",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution"
+          "url": "https://www.powerelectronicsnews.com/murata-unveils-ultra-low-power-amr-sensors"
+        },
+        "field": null
+      },
+      {
+        "title": "SiC and GaN Adoption to Accelerate Through 2036",
+        "blurb": "SiC and GaN adoption accelerates as EVs, AI data centers, and renewables drive demand for efficient power systems. The p",
+        "category": "company",
+        "date": "2026-05-02",
+        "stars": 2,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/sic-and-gan-adoption-to-accelerate-through-2036"
         },
         "field": {
           "primary": "power",
@@ -31,106 +45,6 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "From Simulation Checkpoints To Continuous Physics",
-        "blurb": "半導体設計における物理シミュレーションの進化。チェックポイント方式から連続物理へ。",
-        "category": "business",
-        "date": "2026-05-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-simulation-checkpoints-to-continuous-physics"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Designing Chips In The Context Of Rapidly Evolving AI",
-        "blurb": "進化するAIにより、エッジコンピューティングのルールが書き換えられ、チップ設計がより困難になっています。",
-        "category": "business",
-        "date": "2026-05-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/designing-chips-in-the-context-of-rapidly-evolving-ai"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "The Blue (now Logitech) Snowball iCE: This mic sounds nice",
-        "blurb": "Logitech Snowball iCEは、統合トランジスタピックアップカプセルと金属部品を備えたオーディオキャプチャ用PC周辺機器です。",
-        "category": "tools",
-        "date": "2026-05-04",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/the-blue-now-logitech-snowball-ice-this-mic-sounds-nice"
-        },
-        "field": null
-      },
-      {
-        "title": "From lichens to digits: The evolution of electronic litmus paper",
-        "blurb": "リトマス試験紙が電子化。pHメーターは特殊センサーで電圧を検出し、酸性・アルカリ性を測定する。",
-        "category": "tools",
-        "date": "2026-05-04",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/from-lichens-to-digits-the-evolution-of-electronic-litmus-paper"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Altera Updates FPGA AI Suite with Spatial Mapping for Edge AI",
-        "blurb": "AlteraがFPGA向けAIスイートを更新。エッジAI向けに空間マッピング機能を追加し、ロボット等でのリアルタイム処理を強化。",
-        "category": "tools",
-        "date": "2026-05-05",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/altera-updates-fpga-ai-suite-with-spatial-mapping-for-edge-ai"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
-    "company": [
-      {
-        "title": "Magnachip Launches 8th-Gen 12V BatteryFETs",
-        "blurb": "マグナチップが第8世代12V BatteryFETを発表。発熱を抑え電流密度を向上させ、スマホの急速充電や小型化に貢献。",
-        "category": "company",
-        "date": "2026-05-04",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/magnachip-launches-8th-gen-12v-batteryfets"
-        },
-        "field": null
       }
     ],
     "sns": []

@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-05-05T06:26:27.857019+09:00",
+  "generated_at": "2026-05-06T06:24:31.708828+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "From Simulation Checkpoints To Continuous Physics",
-    "summary": "半導体設計における物理シミュレーションの進化。チェックポイント方式から連続物理へ。",
+    "title": "Pre-Silicon Verification and Validation Methodology Targeting Robust RISC-V Chip Designs (BSC)",
+    "summary": "バルセロナ・スーパーコンピューティング・センターがRISC-Vチップ設計向け検証手法を発表。欧州の高性能コンピューティング能力強化を目指す。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/from-simulation-checkpoints-to-continuous-physics"
+        "url": "https://semiengineering.com/pre-silicon-verification-and-validation-methodology-targeting-robust-risc-v-chip-designs-bsc"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "From Simulation Checkpoints To Continuous Physics",
-        "blurb": "半導体設計における物理シミュレーションの進化。チェックポイント方式から連続物理へ。",
-        "category": "business",
-        "date": "2026-05-04",
+        "title": "Pre-Silicon Verification and Validation Methodology Targeting Robust RISC-V Chip Designs (BSC)",
+        "blurb": "バルセロナ・スーパーコンピューティング・センターがRISC-Vチップ設計向け検証手法を発表。欧州の高性能コンピューティング能力強化を目指す。",
+        "category": "company",
+        "date": "2026-05-06",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-simulation-checkpoints-to-continuous-physics"
+          "url": "https://semiengineering.com/pre-silicon-verification-and-validation-methodology-targeting-robust-risc-v-chip-designs-bsc"
         },
         "field": {
           "primary": "general",
@@ -37,14 +35,54 @@
         }
       },
       {
-        "title": "Designing Chips In The Context Of Rapidly Evolving AI",
-        "blurb": "進化するAIにより、エッジコンピューティングのルールが書き換えられ、チップ設計がより困難になっています。",
-        "category": "business",
-        "date": "2026-05-04",
+        "title": "SDVs: Modular Drive Architecture Using Power-Packet-Based Sensorless Control (Kyoto U.)",
+        "blurb": "京都大学の研究者らが、ソフトウェア定義車両向けに、電力パケットベースのセンサーレス制御を用いたモジュラー駆動アーキテクチャを発表しました。",
+        "category": "company",
+        "date": "2026-05-06",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/designing-chips-in-the-context-of-rapidly-evolving-ai"
+          "url": "https://semiengineering.com/sdvs-modular-drive-architecture-using-power-packet-based-sensorless-control-kyoto-u"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Research Bits: May 5",
+        "blurb": "AIによる電力予測、大面積FPCBs、グラフェン振動に関する研究。半導体技術の進歩に注目。",
+        "category": "tools",
+        "date": "2026-05-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-may-5"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Chip Industry Technical Paper Roundup: May 5",
+        "blurb": "半導体業界の技術論文まとめ：3Dスタック、チップレット保護、熱管理、量子回路、AI検証、液冷など。",
+        "category": "business",
+        "date": "2026-05-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-5"
         },
         "field": {
           "primary": "general",

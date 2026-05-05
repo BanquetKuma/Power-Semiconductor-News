@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-05T06:26:27.856380+09:00",
+  "generated_at": "2026-05-06T06:24:31.707713+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Altera Updates FPGA AI Suite with Spatial Mapping for Edge AI",
-    "summary": "AlteraがFPGA向けAIスイートを更新。エッジAI向けに空間マッピング機能を追加し、ロボット等でのリアルタイム処理を強化。",
+    "title": "GPU Power Prediction Tool for AI Workloads (MIT, IBM)",
+    "summary": "MITとIBMの研究者がAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/altera-updates-fpga-ai-suite-with-spatial-mapping-for-edge-ai"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/gpu-power-prediction-tool-for-ai-workloads-mit-ibm"
       }
     ]
   },
@@ -32,6 +32,24 @@
           "device": "logic",
           "process": null,
           "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "GPU Power Prediction Tool for AI Workloads (MIT, IBM)",
+        "blurb": "MITとIBMの研究者がAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
+        "category": "tools",
+        "date": "2026-05-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/gpu-power-prediction-tool-for-ai-workloads-mit-ibm"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
