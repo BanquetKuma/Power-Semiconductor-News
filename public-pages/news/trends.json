@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-05-06T06:24:36.132418+09:00",
-  "date": "2026-05-06",
+  "generated_at": "2026-05-07T06:26:42.609495+09:00",
+  "date": "2026-05-07",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ材料の採用加速",
+      "name": "パワー半導体の進化と需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "SiCおよびGaN材料の採用がEV、AIデータセンター、再生可能エネルギー分野で2036年まで加速する見込みです。",
+      "summary": "SiCやGaNなどの次世代パワー半導体の性能向上が進み、EV、AIデータセンター、再生可能エネルギー分野での採用が加速。2036年までの成長が見込まれる。",
       "analysis": {
-        "short_term": "SiC/GaN採用拡大、新製品投入活発化。",
-        "mid_term": "EV・データセンター需要で市場拡大続く。",
-        "investment_implications": "関連メーカーへの投資妙味増す。"
+        "short_term": "SiC/GaN採用加速、関連セミナー開催。",
+        "mid_term": "EV・データセンター需要で市場拡大。",
+        "investment_implications": "関連材料・デバイスメーカーに注目。"
       },
       "keywords": [
         "SiC",
@@ -28,7 +29,8 @@
         "STマイクロエレクトロニクス",
         "三菱電機",
         "ローム",
-        "東芝"
+        "東芝",
+        "富士経済"
       ]
     },
     {
@@ -36,137 +38,129 @@
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "datacenter",
-        "memory",
-        "logic"
+        "ai",
+        "logic",
+        "memory"
       ],
-      "summary": "AIワークロードの増大に伴い、GPU電力予測ツールやHBMキューブによるLLM高速化など、データセンターの性能と効率向上が進んでいます。",
+      "summary": "AIワークロードの増大に伴い、データセンターの高性能化・高効率化が急務。GPU電力予測ツールや次世代プロセス技術の開発が進む。",
       "analysis": {
-        "short_term": "AIチップ設計・検証技術進化。",
-        "mid_term": "データセンター向け次世代プロセスの投入。",
-        "investment_implications": "AIインフラ関連企業に注目。"
+        "short_term": "AIデータセンターの課題解決に注力。",
+        "mid_term": "次世代プロセス・パッケージング技術投入。",
+        "investment_implications": "AIインフラ関連企業に投資妙味。"
       },
       "keywords": [
         "AI",
-        "GPU",
-        "HBM",
         "データセンター",
-        "LLM"
+        "GPU",
+        "プロセス技術",
+        "電力効率"
       ],
       "companies_mentioned": [
+        "TSMC",
         "MIT",
         "IBM",
-        "NVIDIA",
-        "Samsung",
-        "TSMC",
         "村田製作所"
       ]
     },
     {
-      "name": "次世代メモリ技術の進化",
-      "confidence": 0.85,
+      "name": "先端露光技術の進化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "foundry",
+        "logic"
+      ],
+      "summary": "高NA EUV露光における偏光効果の重要性が示唆され、STCC公式が発表された。微細化技術のさらなる進展に寄与する。",
+      "analysis": {
+        "short_term": "偏光効果の考慮が重要に。",
+        "mid_term": "微細化技術の進展を後押し。",
+        "investment_implications": "露光装置・材料メーカーに期待。"
+      },
+      "keywords": [
+        "EUV",
+        "高NA",
+        "露光技術",
+        "微細化",
+        "偏光"
+      ],
+      "companies_mentioned": [
+        "東工大"
+      ]
+    },
+    {
+      "name": "メモリ技術の革新",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "datacenter",
         "logic"
       ],
-      "summary": "MRDIMM、HBMキューブ、1000層超3Dフラッシュメモリなど、高帯域幅・高効率化を実現する次世代メモリ技術の開発が進んでいます。",
+      "summary": "MRDIMM技術によるサーバー性能向上や、1000層超3Dフラッシュメモリ実現への道筋、DRAMセルの省エネ化研究が進む。",
       "analysis": {
-        "short_term": "新メモリ規格の評価・開発活発化。",
-        "mid_term": "高性能コンピューティングでの採用拡大。",
-        "investment_implications": "メモリメーカーの技術競争力評価。"
+        "short_term": "MRDIMMの性能評価発表。",
+        "mid_term": "次世代メモリ開発競争激化。",
+        "investment_implications": "メモリメーカーの技術開発力に注目。"
       },
       "keywords": [
         "MRDIMM",
-        "HBM",
         "3Dフラッシュメモリ",
-        "高帯域幅",
-        "低遅延"
+        "DRAM",
+        "省エネ",
+        "高帯域幅"
       ],
       "companies_mentioned": [
         "Micron",
         "キオクシア",
         "Sandisk",
-        "Samsung"
+        "NTT"
       ]
     },
     {
-      "name": "パワー半導体市場の拡大",
-      "confidence": 0.8,
-      "momentum": "rising",
+      "name": "地政学リスクとサプライチェーン",
+      "confidence": 0.7,
+      "momentum": "stable",
       "related_fields": [
-        "power",
-        "automotive",
-        "industrial"
-      ],
-      "summary": "EV、再生可能エネルギー、産業機器の需要増により、パワー半導体市場は2035年に7兆円超と予測され、SiC、GaNに加え酸化ガリウム等も注目されています。",
-      "analysis": {
-        "short_term": "パワーデバイスセミナー開催、技術動向注目。",
-        "mid_term": "次世代材料の実用化で市場拡大。",
-        "investment_implications": "パワー半導体メーカーの成長期待。"
-      },
-      "keywords": [
-        "パワー半導体",
-        "SiC",
-        "GaN",
-        "酸化ガリウム",
-        "EV"
-      ],
-      "companies_mentioned": [
-        "富士経済",
-        "三菱電機",
-        "ローム",
-        "東芝"
-      ]
-    },
-    {
-      "name": "チップ設計・製造技術の革新",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
+        "geopolitics",
         "foundry",
-        "frontend",
-        "geopolitics"
+        "equipment",
+        "general"
       ],
-      "summary": "RISC-Vチップ設計手法、ファウンドリ互換グレーティングカプラ、フッ素フリーレジストなど、チップ設計・製造の効率化・高性能化が進んでいます。",
+      "summary": "地政学リスク、ナフサ供給危機によるフォトレジスト供給途絶リスク、CMMC準拠の必要性など、サプライチェーンの安定化が課題。",
       "analysis": {
-        "short_term": "先端プロセス開発競争激化。",
-        "mid_term": "エコシステム構築と技術標準化。",
-        "investment_implications": "先端技術を持つファウンドリ・設計企業に注目。"
+        "short_term": "CMMC準拠の遅れが懸念。",
+        "mid_term": "サプライチェーン強靭化が急務。",
+        "investment_implications": "サプライチェーンリスク管理が重要。"
       },
       "keywords": [
-        "RISC-V",
-        "チップレット",
-        "レジスト",
-        "ファウンドリ",
-        "先端プロセス"
+        "地政学",
+        "サプライチェーン",
+        "フォトレジスト",
+        "CMMC",
+        "リスク管理"
       ],
       "companies_mentioned": [
-        "バルセロナ・スーパーコンピューティング・センター",
-        "イェール大学",
-        "富士フイルム",
-        "TSMC",
-        "三井不動産"
+        "Arrow Electronics",
+        "富士フイルム"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "広帯域ギャップ材料の需要拡大",
+      "パワー半導体市場の長期的な成長予測",
       "AI・データセンター投資の継続",
-      "次世代メモリ技術への期待",
-      "パワー半導体市場の成長予測",
-      "先端半導体開発拠点の設立"
+      "次世代メモリ技術への期待"
     ],
     "bearish": [
-      "ナフサ供給危機によるレジスト供給懸念"
+      "ナフサ危機によるフォトレジスト供給懸念",
+      "CMMC準拠の遅れによるセキュリティリスク"
     ],
     "neutral": [
-      "ソフトウェア定義車両（SDV）のアーキテクチャ発表"
+      "地政学リスクによる不確実性",
+      "先端露光技術の導入コスト"
     ]
   },
-  "source_count": 34
+  "source_count": 30
 }

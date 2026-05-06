@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-06T06:24:31.707713+09:00",
+  "generated_at": "2026-05-07T06:26:38.355403+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "GPU Power Prediction Tool for AI Workloads (MIT, IBM)",
-    "summary": "MITとIBMの研究者がAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
+    "summary": "MITとIBMがAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
     "sources": [
       {
         "name": "semiengineering.com",
@@ -15,29 +15,30 @@
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Altera Updates FPGA AI Suite with Spatial Mapping for Edge AI",
-        "blurb": "AlteraがFPGA向けAIスイートを更新。エッジAI向けに空間マッピング機能を追加し、ロボット等でのリアルタイム処理を強化。",
-        "category": "tools",
-        "date": "2026-05-05",
-        "stars": 3,
+        "title": "Enabling A Critical Phase in SoC Development",
+        "blurb": "For SoC designs that include high-speed, voluminous I/O, it is essential that the prototype be exercised with large amou",
+        "category": "company",
+        "date": "2026-05-06",
+        "stars": 2,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/altera-updates-fpga-ai-suite-with-spatial-mapping-for-edge-ai"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/enabling-a-critical-phase-in-soc-development"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [
       {
         "title": "GPU Power Prediction Tool for AI Workloads (MIT, IBM)",
-        "blurb": "MITとIBMの研究者がAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
+        "blurb": "MITとIBMがAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
         "category": "tools",
         "date": "2026-05-06",
         "stars": 3,

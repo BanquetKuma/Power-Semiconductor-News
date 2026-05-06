@@ -1,28 +1,46 @@
 {
-  "generated_at": "2026-05-06T06:24:31.706118+09:00",
+  "generated_at": "2026-05-05T06:26:27.855434+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Introduces Integrated 100W GaN Flyback Converters",
-    "summary": "STマイクロエレクトロニクスは、家電・民生機器向けに小型・高効率設計を可能にする100W GaNフライバックコンバータを発表しました。",
+    "title": "SSTs and DABs: Key Blocks for Future Power Distribution",
+    "summary": "SSTとDABコンバーター、SiCスイッチを活用し、AC/DCグリッド間で効率的かつコンパクトな双方向電力供給を実現。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/st-introduces-integrated-100w-gan-flyback-converters"
+        "url": "https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Chip Industry Technical Paper Roundup: May 5",
-        "blurb": "半導体業界の技術論文まとめ：3Dスタック、チップレット保護、熱管理、量子回路、AI検証、液冷など。",
+        "title": "SSTs and DABs: Key Blocks for Future Power Distribution",
+        "blurb": "SSTとDABコンバーター、SiCスイッチを活用し、AC/DCグリッド間で効率的かつコンパクトな双方向電力供給を実現。",
         "category": "business",
-        "date": "2026-05-05",
+        "date": "2026-05-04",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "From Simulation Checkpoints To Continuous Physics",
+        "blurb": "半導体設計における物理シミュレーションの進化。チェックポイント方式から連続物理へ。",
+        "category": "business",
+        "date": "2026-05-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-5"
+          "url": "https://semiengineering.com/from-simulation-checkpoints-to-continuous-physics"
         },
         "field": {
           "primary": "general",
@@ -33,37 +51,19 @@
         }
       },
       {
-        "title": "A Detailed Evaluation of A Production Server With High-End MRDIMM Main Memory (BSC, Micron, Intel, UPC)",
-        "blurb": "MRDIMM技術に関する性能・電力・エネルギー効果の評価論文が発表された。高帯域幅を実現する。",
+        "title": "Designing Chips In The Context Of Rapidly Evolving AI",
+        "blurb": "進化するAIにより、エッジコンピューティングのルールが書き換えられ、チップ設計がより困難になっています。",
         "category": "business",
-        "date": "2026-05-06",
+        "date": "2026-05-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-detailed-evaluation-of-a-production-server-with-high-end-mrdimm-main-memory-bsc-micron-intel-upc"
+          "url": "https://semiengineering.com/designing-chips-in-the-context-of-rapidly-evolving-ai"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "datacenter",
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Understanding Why Drain-Current in GAAFETs Deviates from Thermionic Dependence at Negative Gate Voltages (Sandia National Lab, LIST)",
-        "blurb": "ゲートオールアラウンドFETの負ゲート電圧下でのドレイン電流の挙動に関する新論文。リーク電流のメカニズムを解明。",
-        "category": "business",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/understanding-why-drain-current-in-gaafets-deviates-from-thermionic-dependence-at-negative-gate-voltages-sandia-national-lab-list"
-        },
-        "field": {
-          "primary": "miniaturization",
+          "primary": "general",
           "device": null,
-          "process": "miniaturization",
+          "process": null,
           "market": null,
           "industry": null
         }
@@ -71,46 +71,34 @@
     ],
     "tools": [
       {
-        "title": "Power Electronics Course with QSPICE (Episode 09): The BJT in Power Applications—Efficiency and Conduction Losses",
-        "blurb": "QSPICEシミュレーションでBJTトランジスタを比較し、電力用途での導通損失、スイッチング特性、効率トレードオフを分析。",
+        "title": "The Blue (now Logitech) Snowball iCE: This mic sounds nice",
+        "blurb": "Logitech Snowball iCEは、統合トランジスタピックアップカプセルと金属部品を備えたオーディオキャプチャ用PC周辺機器です。",
         "category": "tools",
-        "date": "2026-05-05",
+        "date": "2026-05-04",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-09-the-bjt-in-power-applications-efficiency-and-conduction-losses"
+          "name": "edn.com",
+          "url": "https://www.edn.com/the-blue-now-logitech-snowball-ice-this-mic-sounds-nice"
         },
         "field": null
       },
       {
-        "title": "Research Bits: May 5",
-        "blurb": "AIによる電力予測、大面積FPCBs、グラフェン振動に関する研究。半導体技術の進歩に注目。",
+        "title": "From lichens to digits: The evolution of electronic litmus paper",
+        "blurb": "リトマス試験紙が電子化。pHメーターは特殊センサーで電圧を検出し、酸性・アルカリ性を測定する。",
         "category": "tools",
-        "date": "2026-05-05",
+        "date": "2026-05-04",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-may-5"
+          "name": "edn.com",
+          "url": "https://www.edn.com/from-lichens-to-digits-the-evolution-of-electronic-litmus-paper"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "analog",
+          "device": "analog",
           "process": null,
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "The curious case of the dancing antennae",
-        "blurb": "バッファポインタの不具合がプロジェクトの遅延を引き起こしかけたが、巧妙なソフトウェア分割技術で特定された。",
-        "category": "tools",
-        "date": "2026-05-05",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/the-curious-case-of-the-dancing-antennae"
-        },
-        "field": null
       },
       {
         "title": "Altera Updates FPGA AI Suite with Spatial Mapping for Edge AI",
@@ -129,152 +117,20 @@
           "market": "ai",
           "industry": null
         }
-      },
-      {
-        "title": "GPU Power Prediction Tool for AI Workloads (MIT, IBM)",
-        "blurb": "MITとIBMの研究者がAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
-        "category": "tools",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/gpu-power-prediction-tool-for-ai-workloads-mit-ibm"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       }
     ],
     "company": [
       {
-        "title": "ST Introduces Integrated 100W GaN Flyback Converters",
-        "blurb": "STマイクロエレクトロニクスは、家電・民生機器向けに小型・高効率設計を可能にする100W GaNフライバックコンバータを発表しました。",
+        "title": "Magnachip Launches 8th-Gen 12V BatteryFETs",
+        "blurb": "マグナチップが第8世代12V BatteryFETを発表。発熱を抑え電流密度を向上させ、スマホの急速充電や小型化に貢献。",
         "category": "company",
-        "date": "2026-05-05",
+        "date": "2026-05-04",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-introduces-integrated-100w-gan-flyback-converters"
+          "url": "https://www.powerelectronicsnews.com/magnachip-launches-8th-gen-12v-batteryfets"
         },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "From edge AI to physical AI in smart factories: A shift in how machines perceive and act",
-        "blurb": "スマートファクトリーは自動化だけでなく、システム全体に知能が組み込まれることで定義されるようになった。AIの進化が機械の知覚と行動を変える。",
-        "category": "company",
-        "date": "2026-05-05",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/from-edge-ai-to-physical-ai-in-smart-factories-a-shift-in-how-machines-perceive-and-act"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Pre-Silicon Verification and Validation Methodology Targeting Robust RISC-V Chip Designs (BSC)",
-        "blurb": "バルセロナ・スーパーコンピューティング・センターがRISC-Vチップ設計向け検証手法を発表。欧州の高性能コンピューティング能力強化を目指す。",
-        "category": "company",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/pre-silicon-verification-and-validation-methodology-targeting-robust-risc-v-chip-designs-bsc"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Foundry-Compatible Grating Couplers Using an Inverse Design Framework (Yale)",
-        "blurb": "イェール大学の研究者が、逆設計フレームワークを用いて、ファウンドリ互換のグレーティングカプラを開発。複数の波を効率的に結合可能。",
-        "category": "company",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/foundry-compatible-grating-couplers-using-an-inverse-design-framework-yale"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "SDVs: Modular Drive Architecture Using Power-Packet-Based Sensorless Control (Kyoto U.)",
-        "blurb": "京都大学の研究者らが、ソフトウェア定義車両向けに、電力パケットベースのセンサーレス制御を用いたモジュラー駆動アーキテクチャを発表しました。",
-        "category": "company",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/sdvs-modular-drive-architecture-using-power-packet-based-sensorless-control-kyoto-u"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Replacing GPU Compute Dies With PNM-Enabled HBM Cubes For Long-Context Decode Attention (UCSD, Columbia, Yonsei U., NVIDIA, Samsung)",
-        "blurb": "GPUに代わりHBMキューブでLLMの長文処理を高速化する新技術を発表。低遅延・高効率化に期待。",
-        "category": "company",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/replacing-gpu-compute-dies-with-pnm-enabled-hbm-cubes-for-long-context-decode-attention-ucsd-columbia-yonsei-u-nvidia-samsung"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "backend",
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Cirrus Logic Unveils AFE ICs for Industrial Imaging",
-        "blurb": "シーラス・ロジックが産業用高精度スキャニング向けAFE ICを発表。複合機や産業用画像処理プラットフォーム向け。",
-        "category": "company",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/cirrus-logic-unveils-afe-ics-for-industrial-imaging"
-        },
-        "field": {
-          "primary": "image",
-          "device": "image",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
+        "field": null
       }
     ],
     "sns": []

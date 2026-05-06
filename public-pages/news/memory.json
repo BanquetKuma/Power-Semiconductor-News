@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-06T06:24:31.707397+09:00",
+  "generated_at": "2026-05-07T06:26:38.355081+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "A Detailed Evaluation of A Production Server With High-End MRDIMM Main Memory (BSC, Micron, Intel, UPC)",
-    "summary": "MRDIMM技術に関する性能・電力・エネルギー効果の評価論文が発表された。高帯域幅を実現する。",
+    "summary": "MRDIMM技術に関する性能・電力・エネルギー効率の評価論文が発表された。高帯域幅を実現し、周波数上昇なしでサーバー性能向上に寄与。",
     "sources": [
       {
         "name": "semiengineering.com",
@@ -15,31 +15,12 @@
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Replacing GPU Compute Dies With PNM-Enabled HBM Cubes For Long-Context Decode Attention (UCSD, Columbia, Yonsei U., NVIDIA, Samsung)",
-        "blurb": "GPUに代わりHBMキューブでLLMの長文処理を高速化する新技術を発表。低遅延・高効率化に期待。",
-        "category": "company",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/replacing-gpu-compute-dies-with-pnm-enabled-hbm-cubes-for-long-context-decode-attention-ucsd-columbia-yonsei-u-nvidia-samsung"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "backend",
-          "market": null,
-          "industry": "fabless"
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
         "title": "A Detailed Evaluation of A Production Server With High-End MRDIMM Main Memory (BSC, Micron, Intel, UPC)",
-        "blurb": "MRDIMM技術に関する性能・電力・エネルギー効果の評価論文が発表された。高帯域幅を実現する。",
+        "blurb": "MRDIMM技術に関する性能・電力・エネルギー効率の評価論文が発表された。高帯域幅を実現し、周波数上昇なしでサーバー性能向上に寄与。",
         "category": "business",
         "date": "2026-05-06",
         "stars": 3,
