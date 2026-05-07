@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-05-07T06:26:38.355403+09:00",
+  "generated_at": "2026-05-08T06:23:19.392874+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "GPU Power Prediction Tool for AI Workloads (MIT, IBM)",
-    "summary": "MITとIBMがAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
+    "title": "Designing GPUs For Developers: A Conversation With Godot",
+    "summary": "Godotのゲームエンジン開発者向けGPU設計に関する対談。モバイル性能や次世代開発者支援の課題について議論。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/gpu-power-prediction-tool-for-ai-workloads-mit-ibm"
+        "url": "https://semiengineering.com/designing-gpus-for-developers-a-conversation-with-godot"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Enabling A Critical Phase in SoC Development",
-        "blurb": "For SoC designs that include high-speed, voluminous I/O, it is essential that the prototype be exercised with large amou",
+        "title": "Designing GPUs For Developers: A Conversation With Godot",
+        "blurb": "Godotのゲームエンジン開発者向けGPU設計に関する対談。モバイル性能や次世代開発者支援の課題について議論。",
         "category": "company",
-        "date": "2026-05-06",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enabling-a-critical-phase-in-soc-development"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "GPU Power Prediction Tool for AI Workloads (MIT, IBM)",
-        "blurb": "MITとIBMがAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
-        "category": "tools",
-        "date": "2026-05-06",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/gpu-power-prediction-tool-for-ai-workloads-mit-ibm"
+          "url": "https://semiengineering.com/designing-gpus-for-developers-a-conversation-with-godot"
         },
         "field": {
           "primary": "logic",
@@ -55,6 +35,26 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "「評価ボード即完売」の人気　旧Kinara製NPUでエッジVLM構築",
+        "blurb": "NXPが旧Kinara製NPUでエッジVLM構築を展示。評価ボードは即完売の人気ぶり。",
+        "category": "business",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news068.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

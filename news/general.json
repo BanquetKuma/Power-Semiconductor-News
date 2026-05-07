@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-05-07T06:26:38.356668+09:00",
+  "generated_at": "2026-05-08T06:23:19.394447+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Hardware From Specifications Using AI",
-    "summary": "AIによるハードウェア生成は、仕様からの部分的な問題に過ぎない。セミコンダクターエンジニアリングの記事。",
+    "title": "The Emergence Of Electronics Digital Twins For Software-Defined Vehicles",
+    "summary": "ソフトウェア定義型車両向け電子デジタルツインが登場。物理的な車両やサブシステムのシミュレーションだけでは不十分になっている。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/hardware-from-specifications-using-ai"
+        "url": "https://semiengineering.com/the-emergence-of-electronics-digital-twins-for-software-defined-vehicles"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Securing AI at the Silicon Level: Solutions for a Smarter, Safer Future",
-        "blurb": "AIチップにハードウェアレベルの保護を組み込み、データとモデルを保護するソリューション。",
+        "title": "Humanoid Touch And Voice Are Improving Rapidly",
+        "blurb": "汎用ヒューマノイドロボットの触覚・音声認識が急速に進歩。視覚・運動は先行するも、他感覚も追いつきつつある。",
         "category": "company",
-        "date": "2026-05-06",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-ai-at-the-silicon-level-synopsys-solutions-for-a-smarter-safer-future"
+          "url": "https://semiengineering.com/humanoid-touch-and-voice-are-improving-rapidly"
         },
         "field": {
           "primary": "general",
@@ -35,54 +35,17 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "Hardware From Specifications Using AI",
-        "blurb": "AIによるハードウェア生成は、仕様からの部分的な問題に過ぎない。セミコンダクターエンジニアリングの記事。",
-        "category": "tools",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hardware-from-specifications-using-ai"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Using AI To Monitor Dashboards In Chips And Systems",
-        "blurb": "AIエージェントがチップ・システム稼働中の問題を検知し、早期に対処する。",
-        "category": "tools",
-        "date": "2026-05-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/using-ai-to-monitor-dashboards-in-chips-and-systems"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": [
       {
-        "title": "Power And Sensing – Selection Guide 2026",
-        "blurb": "半導体エンジニアリングが、最新の電力・センシング技術のソリューション、応用、製品ハイライトをまとめた2026年版ガイドを発表。",
+        "title": "The Emergence Of Electronics Digital Twins For Software-Defined Vehicles",
+        "blurb": "ソフトウェア定義型車両向け電子デジタルツインが登場。物理的な車両やサブシステムのシミュレーションだけでは不十分になっている。",
         "category": "business",
-        "date": "2026-05-06",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/power-and-sensing-selection-guide-2026"
+          "url": "https://semiengineering.com/the-emergence-of-electronics-digital-twins-for-software-defined-vehicles"
         },
         "field": {
           "primary": "general",
@@ -93,14 +56,32 @@
         }
       },
       {
-        "title": "The Unavoidable CMMC Deadline",
-        "blurb": "2028年11月までにCMMC準拠が必須となるが、75%が優先順位を低くしている。半導体業界向け。",
+        "title": "Powering AI At Scale: Why 3D-ICs Demand A New Approach To Power Integrity",
+        "blurb": "AIの規模拡大に伴い、3D-ICにおける電力供給の複雑性が増大。電力整合性の確保には新たなアプローチが不可欠となっている。",
         "category": "business",
-        "date": "2026-05-06",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-unavoidable-cmmc-deadline"
+          "url": "https://semiengineering.com/powering-ai-at-scale-why-3d-ics-demand-a-new-approach-to-power-integrity"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Building AI Without Guardrails",
+        "blurb": "AI開発における標準化の断片化、IP保護、実行時保証の必要性が半導体業界の課題となっている。",
+        "category": "business",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/building-ai-without-guardrails"
         },
         "field": {
           "primary": "general",

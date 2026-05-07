@@ -1,166 +1,154 @@
 {
-  "generated_at": "2026-05-07T06:26:42.609495+09:00",
-  "date": "2026-05-07",
+  "generated_at": "2026-05-08T06:23:29.848022+09:00",
+  "date": "2026-05-08",
   "meta_trends": [
     {
-      "name": "パワー半導体の進化と需要拡大",
+      "name": "次世代パワー半導体の進化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
         "datacenter",
+        "automotive",
         "industrial"
       ],
-      "summary": "SiCやGaNなどの次世代パワー半導体の性能向上が進み、EV、AIデータセンター、再生可能エネルギー分野での採用が加速。2036年までの成長が見込まれる。",
+      "summary": "SiCおよびGaN技術の進展により、電力変換効率と小型化が進み、データセンター、EV、家電など幅広い分野で採用が拡大。",
       "analysis": {
-        "short_term": "SiC/GaN採用加速、関連セミナー開催。",
-        "mid_term": "EV・データセンター需要で市場拡大。",
-        "investment_implications": "関連材料・デバイスメーカーに注目。"
+        "short_term": "需要堅調。新製品投入で市場拡大。",
+        "mid_term": "性能向上とコスト低下で普及加速。",
+        "investment_implications": "関連メーカーへの投資妙味あり。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "EV",
-        "AIデータセンター",
-        "再生可能エネルギー"
+        "高効率",
+        "小型化"
       ],
       "companies_mentioned": [
-        "STマイクロエレクトロニクス",
-        "三菱電機",
-        "ローム",
-        "東芝",
-        "富士経済"
-      ]
-    },
-    {
-      "name": "AI・データセンター向け高性能化",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "ai",
-        "logic",
-        "memory"
-      ],
-      "summary": "AIワークロードの増大に伴い、データセンターの高性能化・高効率化が急務。GPU電力予測ツールや次世代プロセス技術の開発が進む。",
-      "analysis": {
-        "short_term": "AIデータセンターの課題解決に注力。",
-        "mid_term": "次世代プロセス・パッケージング技術投入。",
-        "investment_implications": "AIインフラ関連企業に投資妙味。"
-      },
-      "keywords": [
-        "AI",
-        "データセンター",
-        "GPU",
-        "プロセス技術",
-        "電力効率"
-      ],
-      "companies_mentioned": [
-        "TSMC",
-        "MIT",
-        "IBM",
+        "Kensington",
+        "AOS",
+        "STMicroelectronics",
         "村田製作所"
       ]
     },
     {
-      "name": "先端露光技術の進化",
-      "confidence": 0.8,
+      "name": "AI・データセンターの高度化",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "foundry",
-        "logic"
+        "ai",
+        "datacenter",
+        "logic",
+        "backend"
       ],
-      "summary": "高NA EUV露光における偏光効果の重要性が示唆され、STCC公式が発表された。微細化技術のさらなる進展に寄与する。",
+      "summary": "AI処理能力の向上とデータセンターの効率化・セキュリティ強化が進展。チップレットや3D-IC技術が重要性を増す。",
       "analysis": {
-        "short_term": "偏光効果の考慮が重要に。",
-        "mid_term": "微細化技術の進展を後押し。",
-        "investment_implications": "露光装置・材料メーカーに期待。"
+        "short_term": "AI向けNPU、高性能基板需要増。",
+        "mid_term": "チップレット、3D-IC技術の標準化。",
+        "investment_implications": "AIインフラ関連企業に注目。"
       },
       "keywords": [
-        "EUV",
-        "高NA",
-        "露光技術",
-        "微細化",
-        "偏光"
+        "AI",
+        "データセンター",
+        "チップレット",
+        "3D-IC"
       ],
       "companies_mentioned": [
-        "東工大"
+        "AOS",
+        "OCP",
+        "エレファンテック",
+        "OTC"
       ]
     },
     {
-      "name": "メモリ技術の革新",
-      "confidence": 0.75,
+      "name": "エッジAIの普及と進化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "datacenter",
+        "ai",
+        "automotive",
+        "industrial",
         "logic"
       ],
-      "summary": "MRDIMM技術によるサーバー性能向上や、1000層超3Dフラッシュメモリ実現への道筋、DRAMセルの省エネ化研究が進む。",
+      "summary": "エッジデバイスでのAI処理能力が向上し、医療、自動車、ロボットなど多様な分野での応用が加速。",
       "analysis": {
-        "short_term": "MRDIMMの性能評価発表。",
-        "mid_term": "次世代メモリ開発競争激化。",
-        "investment_implications": "メモリメーカーの技術開発力に注目。"
+        "short_term": "エッジAI向けNPU評価ボード人気。",
+        "mid_term": "信頼性・標準化が普及の鍵。",
+        "investment_implications": "エッジAIソリューション提供企業に期待。"
       },
       "keywords": [
-        "MRDIMM",
-        "3Dフラッシュメモリ",
-        "DRAM",
-        "省エネ",
-        "高帯域幅"
+        "エッジAI",
+        "NPU",
+        "医療機器",
+        "ロボット"
       ],
       "companies_mentioned": [
-        "Micron",
-        "キオクシア",
-        "Sandisk",
-        "NTT"
+        "NXP",
+        "Godot"
       ]
     },
     {
       "name": "地政学リスクとサプライチェーン",
-      "confidence": 0.7,
+      "confidence": 0.8,
       "momentum": "stable",
       "related_fields": [
         "geopolitics",
         "foundry",
-        "equipment",
-        "general"
+        "fabless",
+        "frontend",
+        "backend"
       ],
-      "summary": "地政学リスク、ナフサ供給危機によるフォトレジスト供給途絶リスク、CMMC準拠の必要性など、サプライチェーンの安定化が課題。",
+      "summary": "地政学的な緊張が半導体サプライチェーンに影響を与え、地域分散やリスク管理の重要性が高まっている。",
       "analysis": {
-        "short_term": "CMMC準拠の遅れが懸念。",
-        "mid_term": "サプライチェーン強靭化が急務。",
-        "investment_implications": "サプライチェーンリスク管理が重要。"
+        "short_term": "サプライチェーンの動向を注視。",
+        "mid_term": "地域分散化の動きが継続。",
+        "investment_implications": "サプライチェーンの安定化に貢献する企業。"
       },
       "keywords": [
         "地政学",
         "サプライチェーン",
-        "フォトレジスト",
-        "CMMC",
         "リスク管理"
       ],
       "companies_mentioned": [
-        "Arrow Electronics",
-        "富士フイルム"
+        "Arrow Electronics"
       ]
+    },
+    {
+      "name": "ソフトウェア定義型車両の台頭",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "logic",
+        "ai"
+      ],
+      "summary": "ソフトウェアが車両の機能や性能を定義する時代へ。電子デジタルツインなどの技術が重要になる。",
+      "analysis": {
+        "short_term": "車載半導体需要の質的変化。",
+        "mid_term": "ソフトウェア開発環境の整備。",
+        "investment_implications": "車載半導体・ソフトウェア関連企業。"
+      },
+      "keywords": [
+        "ソフトウェア定義型車両",
+        "デジタルツイン",
+        "車載半導体"
+      ],
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "パワー半導体市場の長期的な成長予測",
-      "AI・データセンター投資の継続",
-      "次世代メモリ技術への期待"
+      "SiC/GaNパワーデバイスの需要拡大",
+      "AI/データセンター向け高性能半導体の需要増",
+      "エッジAI関連技術の進展",
+      "村田製作所のデータセンター向け売上高70%増"
     ],
     "bearish": [
-      "ナフサ危機によるフォトレジスト供給懸念",
-      "CMMC準拠の遅れによるセキュリティリスク"
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "地政学リスクによる不確実性",
-      "先端露光技術の導入コスト"
+      "ソフトウェア定義型車両向け技術開発の進展"
     ]
   },
-  "source_count": 30
+  "source_count": 21
 }
