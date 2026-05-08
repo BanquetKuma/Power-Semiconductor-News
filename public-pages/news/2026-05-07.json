@@ -1,100 +1,46 @@
 {
-  "generated_at": "2026-05-08T06:23:19.391027+09:00",
+  "generated_at": "2026-05-07T06:26:38.353877+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Kensington Boosts Charging Efficiency with New GaN Products",
-    "summary": "Kensingtonが新GaN製品で充電効率を向上。小型で旅行に適したマルチデバイス急速充電器とケーブルを発表。",
+    "title": "AOS Expands Power Portfolio with Protected DrMOS Technology",
+    "summary": "AOSがAI・データセンター向けに保護機能付きDrMOSを発表。電流制限と信頼性を向上。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/kensington-boosts-charging-efficiency-with-new-gan-products"
+        "url": "https://www.powerelectronicsnews.com/aos-expands-power-portfolio-with-protected-drmos-technology"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "The Emergence Of Electronics Digital Twins For Software-Defined Vehicles",
-        "blurb": "ソフトウェア定義型車両向け電子デジタルツインが登場。物理的な車両やサブシステムのシミュレーションだけでは不十分になっている。",
+        "title": "Recent Advances Push SiC Superjunction MOSFETs Toward Mass Production",
+        "blurb": "SiCスーパー接合MOSFET、平面・トレンチ技術の進化で量産へ向かう。高性能化が進む。",
         "category": "business",
-        "date": "2026-05-07",
+        "date": "2026-05-06",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-emergence-of-electronics-digital-twins-for-software-defined-vehicles"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/recent-advances-push-sic-superjunction-mosfets-toward-mass-production"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Powering AI At Scale: Why 3D-ICs Demand A New Approach To Power Integrity",
-        "blurb": "AIの規模拡大に伴い、3D-ICにおける電力供給の複雑性が増大。電力整合性の確保には新たなアプローチが不可欠となっている。",
+        "title": "Blog Review: May 6",
+        "blurb": "AIデータセンターの課題、C-PHYの18線ステートモード、CFDの変更、ITA検査コボットについて解説。",
         "category": "business",
-        "date": "2026-05-07",
+        "date": "2026-05-06",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/powering-ai-at-scale-why-3d-ics-demand-a-new-approach-to-power-integrity"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Building AI Without Guardrails",
-        "blurb": "AI開発における標準化の断片化、IP保護、実行時保証の必要性が半導体業界の課題となっている。",
-        "category": "business",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-ai-without-guardrails"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "2.5D + 3D = “3.5D”!",
-        "blurb": "2.5Dと3Dを組み合わせた「3.5D」技術は、性能、製造性、コスト、熱効率のバランスを改善する。",
-        "category": "business",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/2-5d-3d-3-5d"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "What Is Power Usage Effectiveness (PUE) In Data Centers?",
-        "blurb": "データセンターの電力効率指標PUEは、サーバーのAC/DC変換における無駄なエネルギーを考慮していない。",
-        "category": "business",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/what-is-power-usage-effectiveness-pue-in-data-centers"
+          "url": "https://semiengineering.com/blog-review-may-6-3"
         },
         "field": {
           "primary": "datacenter",
@@ -105,32 +51,106 @@
         }
       },
       {
-        "title": "Beyond the Clinic: A Blueprint For Developing Reliable, Edge AI-Enabled Medical Devices",
-        "blurb": "信頼性の高いエッジAI搭載医療機器開発の青写真。自宅で使えるAIガイド付き超音波プローブ開発が焦点。",
+        "title": "Power And Sensing – Selection Guide 2026",
+        "blurb": "半導体エンジニアリングが、最新の電力・センシング技術のソリューション、応用、製品ハイライトをまとめた2026年版ガイドを発表。",
         "category": "business",
-        "date": "2026-05-07",
+        "date": "2026-05-06",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beyond-the-clinic-a-blueprint-for-developing-reliable-edge-ai-enabled-medical-devices"
+          "url": "https://semiengineering.com/power-and-sensing-selection-guide-2026"
         },
         "field": {
-          "primary": "ai",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "「評価ボード即完売」の人気　旧Kinara製NPUでエッジVLM構築",
-        "blurb": "NXPが旧Kinara製NPUでエッジVLM構築を展示。評価ボードは即完売の人気ぶり。",
+        "title": "The Unavoidable CMMC Deadline",
+        "blurb": "2028年11月までにCMMC準拠が必須となるが、75%が優先順位を低くしている。半導体業界向け。",
         "category": "business",
-        "date": "2026-05-07",
+        "date": "2026-05-06",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news068.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-unavoidable-cmmc-deadline"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "A Detailed Evaluation of A Production Server With High-End MRDIMM Main Memory (BSC, Micron, Intel, UPC)",
+        "blurb": "MRDIMM技術に関する性能・電力・エネルギー効率の評価論文が発表された。高帯域幅を実現し、周波数上昇なしでサーバー性能向上に寄与。",
+        "category": "business",
+        "date": "2026-05-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-detailed-evaluation-of-a-production-server-with-high-end-mrdimm-main-memory-bsc-micron-intel-upc"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "datacenter",
+          "industry": "idm"
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Hardware From Specifications Using AI",
+        "blurb": "AIによるハードウェア生成は、仕様からの部分的な問題に過ぎない。セミコンダクターエンジニアリングの記事。",
+        "category": "tools",
+        "date": "2026-05-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hardware-from-specifications-using-ai"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Using AI To Monitor Dashboards In Chips And Systems",
+        "blurb": "AIエージェントがチップ・システム稼働中の問題を検知し、早期に対処する。",
+        "category": "tools",
+        "date": "2026-05-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/using-ai-to-monitor-dashboards-in-chips-and-systems"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GPU Power Prediction Tool for AI Workloads (MIT, IBM)",
+        "blurb": "MITとIBMがAIワークロード向けGPU電力予測ツール「EnergAIzer」を発表。データセンターの電力管理に貢献。",
+        "category": "tools",
+        "date": "2026-05-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/gpu-power-prediction-tool-for-ai-workloads-mit-ibm"
         },
         "field": {
           "primary": "logic",
@@ -141,67 +161,54 @@
         }
       },
       {
-        "title": "AR3以上のマイクロビアを導電化、AIサーバ基板向け",
-        "blurb": "エレファンテックは、銅ナノ粒子インクとインクジェット印刷でAR3以上のマイクロビアを導電化する「DeepVia HDI」を開発。AIサーバ基板向けに提案。",
-        "category": "business",
+        "title": "UWB: Why angle-of-arrival positioning hinges on antenna isolation",
+        "blurb": "UWBのAoA測位は、アンテナ間干渉の低減が鍵。追加アンカー不要でタグの角度方向を特定する。",
+        "category": "tools",
         "date": "2026-05-07",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news021.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "TED、25年度は減収減益　「各事業磨き上げる」と新社長",
-        "blurb": "東京エレクトロンデバイスは25年度、減収減益となった。新社長は各事業の磨き上げを推進する方針。",
-        "category": "business",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news030.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/uwb-why-angle-of-arrival-positioning-hinges-on-antenna-isolation"
         },
         "field": null
-      },
+      }
+    ],
+    "company": [
       {
-        "title": "Kensington Boosts Charging Efficiency with New GaN Products",
-        "blurb": "Kensingtonが新GaN製品で充電効率を向上。小型で旅行に適したマルチデバイス急速充電器とケーブルを発表。",
-        "category": "business",
-        "date": "2026-05-08",
+        "title": "Arrow Electronics World 2026: Geopolitics, AI at the Edge, and 100+ Exhibitors Come to Parma",
+        "blurb": "アロー・エレクトロニクス・ワールド2026が6月18日にイタリアで開催。地政学、エッジAI、100以上の出展者が集結。",
+        "category": "company",
+        "date": "2026-05-06",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/kensington-boosts-charging-efficiency-with-new-gan-products"
+          "url": "https://www.powerelectronicsnews.com/arrow-electronics-world-2026-geopolitics-ai-at-the-edge-and-100-exhibitors-come-to-parma"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "geopolitics",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "geopolitics"
+        }
+      },
+      {
+        "title": "Securing AI at the Silicon Level: Solutions for a Smarter, Safer Future",
+        "blurb": "AIチップにハードウェアレベルの保護を組み込み、データとモデルを保護するソリューション。",
+        "category": "company",
+        "date": "2026-05-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/securing-ai-at-the-silicon-level-synopsys-solutions-for-a-smarter-safer-future"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "tools": [],
-    "company": [
-      {
-        "title": "Power Corner: Texas Instruments’ Nikhil Jotwani on Smarter, Safer Automotive BMS",
-        "blurb": "テキサス・インスツルメンツの自動車BMS担当者が、より賢く安全な車載バッテリー管理システムについて語る。",
-        "category": "company",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-texas-instruments-nikhil-jotwani-on-smarter-safer-automotive-bms"
-        },
-        "field": null
       },
       {
         "title": "AOS Expands Power Portfolio with Protected DrMOS Technology",
@@ -222,103 +229,37 @@
         }
       },
       {
-        "title": "Securing Chiplet-Based Platforms: Distributed Trust With Centralized Authority",
-        "blurb": "チップレットベースプラットフォームのセキュリティモデル。各チップレットが安全に通信し、弱点とならないようにする。",
+        "title": "High-NA EU Lithography: Extending The STCC Formula (Science Tokyo)",
+        "blurb": "東工大の研究者らが、高NA EUV露光における偏光やマスクの3D効果を考慮したSTCC公式を発表。偏光効果の重要性を示唆。",
         "category": "company",
         "date": "2026-05-07",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-chiplet-based-platforms-distributed-trust-with-centralized-authority"
+          "url": "https://semiengineering.com/high-na-eu-lithography-extending-the-stcc-formula-science-tokyo"
         },
         "field": {
-          "primary": "backend",
+          "primary": "frontend",
           "device": null,
-          "process": "backend",
+          "process": "frontend",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "How OCP S.O.L.I.D. Completes The Data Center Security Picture",
-        "blurb": "OCP S.O.L.I.D.は、データセンターのセキュリティを強化するフレームワーク。デバイス固有のセキュリティ要件を定義・検証し、安全性を向上させる。",
+        "title": "Enabling A Critical Phase in SoC Development",
+        "blurb": "For SoC designs that include high-speed, voluminous I/O, it is essential that the prototype be exercised with large amou",
         "category": "company",
-        "date": "2026-05-07",
-        "stars": 3,
+        "date": "2026-05-06",
+        "stars": 2,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-ocp-s-o-l-i-d-completes-the-data-center-security-picture"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Humanoid Touch And Voice Are Improving Rapidly",
-        "blurb": "汎用ヒューマノイドロボットの触覚・音声認識が急速に進歩。視覚・運動は先行するも、他感覚も追いつきつつある。",
-        "category": "company",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/humanoid-touch-and-voice-are-improving-rapidly"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Designing GPUs For Developers: A Conversation With Godot",
-        "blurb": "Godotのゲームエンジン開発者向けGPU設計に関する対談。モバイル性能や次世代開発者支援の課題について議論。",
-        "category": "company",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/designing-gpus-for-developers-a-conversation-with-godot"
+          "url": "https://semiengineering.com/enabling-a-critical-phase-in-soc-development"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "1周回ってCDプレーヤーが欲しい",
-        "blurb": "レコード人気の一方で、CDプレーヤーへの関心も再燃。手間を考えればCDも選択肢か。",
-        "category": "company",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news057.html"
-        },
-        "field": null
-      },
-      {
-        "title": "180層で板厚15mmのPCB設計／生産技術を確立、OTC",
-        "blurb": "OTCが広帯域メモリ検査装置向けに、180層・板厚15mmのPCB設計・生産技術を確立。2026年10月から量産出荷開始。",
-        "category": "company",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news019.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "equipment",
           "market": null,
           "industry": null
         }
