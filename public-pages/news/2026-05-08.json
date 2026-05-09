@@ -1,52 +1,178 @@
 {
-  "generated_at": "2026-05-09T06:24:22.436304+09:00",
+  "generated_at": "2026-05-08T06:23:19.391027+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ITC Confirms Innoscience Infringed Infineon GaN Patent",
-    "summary": "米ITC、InnoscienceによるInfineonのGaN特許侵害を認定。InfineonのGaN技術リーダーシップを強化。",
+    "title": "Kensington Boosts Charging Efficiency with New GaN Products",
+    "summary": "Kensingtonが新GaN製品で充電効率を向上。小型で旅行に適したマルチデバイス急速充電器とケーブルを発表。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/itc-confirms-innoscience-infringed-infineon-gan-patent"
+        "url": "https://www.powerelectronicsnews.com/kensington-boosts-charging-efficiency-with-new-gan-products"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "PCIM Expo & Conference, SSTs and DABs, SiC SJ MOSFETs: Power Electronics Week Insights",
-        "blurb": "PCIM Expo & Conference、SSTs、DABs、SiC SJ MOSFETsなど、パワーエレクトロニクス分野の最新動向をまとめた記事。",
+        "title": "The Emergence Of Electronics Digital Twins For Software-Defined Vehicles",
+        "blurb": "ソフトウェア定義型車両向け電子デジタルツインが登場。物理的な車両やサブシステムのシミュレーションだけでは不十分になっている。",
         "category": "business",
-        "date": "2026-05-08",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/pcim-expo-conference-ssts-and-dabs-sic-sj-mosfets-power-electronics-week-insights"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-emergence-of-electronics-digital-twins-for-software-defined-vehicles"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Discrete Vertical Power Delivery Solutions for High-Current AI Loads",
-        "blurb": "AI向け高電流負荷に対応するため、垂直給電モジュールがパッケージ直下から効率的に給電。従来の横方向給電網を置き換える。",
+        "title": "Powering AI At Scale: Why 3D-ICs Demand A New Approach To Power Integrity",
+        "blurb": "AIの規模拡大に伴い、3D-ICにおける電力供給の複雑性が増大。電力整合性の確保には新たなアプローチが不可欠となっている。",
         "category": "business",
-        "date": "2026-05-08",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/discrete-vertical-power-delivery-solutions-for-high-current-ai-loads"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/powering-ai-at-scale-why-3d-ics-demand-a-new-approach-to-power-integrity"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Building AI Without Guardrails",
+        "blurb": "AI開発における標準化の断片化、IP保護、実行時保証の必要性が半導体業界の課題となっている。",
+        "category": "business",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/building-ai-without-guardrails"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "2.5D + 3D = “3.5D”!",
+        "blurb": "2.5Dと3Dを組み合わせた「3.5D」技術は、性能、製造性、コスト、熱効率のバランスを改善する。",
+        "category": "business",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/2-5d-3d-3-5d"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "What Is Power Usage Effectiveness (PUE) In Data Centers?",
+        "blurb": "データセンターの電力効率指標PUEは、サーバーのAC/DC変換における無駄なエネルギーを考慮していない。",
+        "category": "business",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/what-is-power-usage-effectiveness-pue-in-data-centers"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Beyond the Clinic: A Blueprint For Developing Reliable, Edge AI-Enabled Medical Devices",
+        "blurb": "信頼性の高いエッジAI搭載医療機器開発の青写真。自宅で使えるAIガイド付き超音波プローブ開発が焦点。",
+        "category": "business",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/beyond-the-clinic-a-blueprint-for-developing-reliable-edge-ai-enabled-medical-devices"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "「評価ボード即完売」の人気　旧Kinara製NPUでエッジVLM構築",
+        "blurb": "NXPが旧Kinara製NPUでエッジVLM構築を展示。評価ボードは即完売の人気ぶり。",
+        "category": "business",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news068.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AR3以上のマイクロビアを導電化、AIサーバ基板向け",
+        "blurb": "エレファンテックは、銅ナノ粒子インクとインクジェット印刷でAR3以上のマイクロビアを導電化する「DeepVia HDI」を開発。AIサーバ基板向けに提案。",
+        "category": "business",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news021.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "TED、25年度は減収減益　「各事業磨き上げる」と新社長",
+        "blurb": "東京エレクトロンデバイスは25年度、減収減益となった。新社長は各事業の磨き上げを推進する方針。",
+        "category": "business",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news030.html"
         },
         "field": null
       },
       {
         "title": "Kensington Boosts Charging Efficiency with New GaN Products",
-        "blurb": "Kensingtonが新GaN製品で充電効率を向上。小型で旅行に適したマルチデバイス対応の高速充電器とケーブルを発表。",
+        "blurb": "Kensingtonが新GaN製品で充電効率を向上。小型で旅行に適したマルチデバイス急速充電器とケーブルを発表。",
         "category": "business",
         "date": "2026-05-08",
         "stars": 3,
@@ -61,115 +187,85 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "台湾の新先端パッケージング、M&A、AppleのTSMC依存脱却、AI関連など半導体業界の最新動向。",
-        "category": "business",
-        "date": "2026-05-08",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-137"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "2026年Q1のウエハー出荷面積、前年同期比13.1％増",
-        "blurb": "2026年第1四半期のシリコンウエハー出荷面積は前年同期比13.1％増の32.75億平方インチとなった。SEMIが発表。",
-        "category": "business",
-        "date": "2026-05-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/08/news021.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "HDD大手Seagateの四半期業績、2四半期連続で利益率が過去最高を更新",
-        "blurb": "HDD大手のSeagate、2026年度第3四半期業績で利益率が2四半期連続で過去最高を更新した。",
-        "category": "business",
-        "date": "2026-05-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/08/news024.html"
-        },
-        "field": null
       }
     ],
     "tools": [],
     "company": [
       {
-        "title": "「画素の製造もパートナーと」十時氏が語る、ソニー×TSMC合弁の狙いと期待",
-        "blurb": "ソニーとTSMCが次世代イメージセンサー開発・製造で提携。合弁会社設立を検討し、画素製造もパートナーと行う狙い。",
+        "title": "Power Corner: Texas Instruments’ Nikhil Jotwani on Smarter, Safer Automotive BMS",
+        "blurb": "テキサス・インスツルメンツの自動車BMS担当者が、より賢く安全な車載バッテリー管理システムについて語る。",
         "category": "company",
-        "date": "2026-05-08",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/08/news114.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ソニーセミコンとTSMCが合弁会社設立を検討",
-        "blurb": "ソニーとTSMCが次世代イメージセンサー開発・製造で提携。ソニーが過半数株主となる合弁会社設立を検討。",
-        "category": "company",
-        "date": "2026-05-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/08/news104.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "イケボのガルちゃん、AI囲碁ロボ……写真＆動画で見るヒューマノイドEXPO",
-        "blurb": "東京ビッグサイトで「第1回 ヒューマノイドロボット EXPO【春】」が開催。AI囲碁ロボなど14社が出展し、賑わいを見せた。",
-        "category": "company",
-        "date": "2026-05-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/01/news100.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-texas-instruments-nikhil-jotwani-on-smarter-safer-automotive-bms"
         },
         "field": null
       },
       {
-        "title": "独自のTGVフィル用銅ナノペースト開発、エレファンテック",
-        "blurb": "エレファンテックは次世代半導体パッケージ向けガラスビア用銅ナノペースト「SAphire G」を開発。高いARのTGVで低収縮・高信頼性を実現。",
+        "title": "AOS Expands Power Portfolio with Protected DrMOS Technology",
+        "blurb": "AOSがAI・データセンター向けに保護機能付きDrMOSを発表。電流制限と信頼性を向上。",
         "category": "company",
-        "date": "2026-05-08",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/08/news022.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/aos-expands-power-portfolio-with-protected-drmos-technology"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Securing Chiplet-Based Platforms: Distributed Trust With Centralized Authority",
+        "blurb": "チップレットベースプラットフォームのセキュリティモデル。各チップレットが安全に通信し、弱点とならないようにする。",
+        "category": "company",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/securing-chiplet-based-platforms-distributed-trust-with-centralized-authority"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How OCP S.O.L.I.D. Completes The Data Center Security Picture",
+        "blurb": "OCP S.O.L.I.D.は、データセンターのセキュリティを強化するフレームワーク。デバイス固有のセキュリティ要件を定義・検証し、安全性を向上させる。",
+        "category": "company",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-ocp-s-o-l-i-d-completes-the-data-center-security-picture"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Humanoid Touch And Voice Are Improving Rapidly",
+        "blurb": "汎用ヒューマノイドロボットの触覚・音声認識が急速に進歩。視覚・運動は先行するも、他感覚も追いつきつつある。",
+        "category": "company",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/humanoid-touch-and-voice-are-improving-rapidly"
         },
         "field": {
           "primary": "general",
@@ -180,68 +276,50 @@
         }
       },
       {
-        "title": "「VLSIシンポ」論文投稿数が1000件超に　採択数は韓国が最多",
-        "blurb": "VLSIシンポジウム2026、論文投稿数1041件で過去最多。採択数は237件。日本は採択率54%と高水準。",
+        "title": "Designing GPUs For Developers: A Conversation With Godot",
+        "blurb": "Godotのゲームエンジン開発者向けGPU設計に関する対談。モバイル性能や次世代開発者支援の課題について議論。",
         "category": "company",
-        "date": "2026-05-08",
+        "date": "2026-05-07",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/designing-gpus-for-developers-a-conversation-with-godot"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "1周回ってCDプレーヤーが欲しい",
+        "blurb": "レコード人気の一方で、CDプレーヤーへの関心も再燃。手間を考えればCDも選択肢か。",
+        "category": "company",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/08/news043.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news057.html"
         },
         "field": null
       },
       {
-        "title": "半導体検査装置向けレンズの研磨工程が稼働、生産能力2.6倍に",
-        "blurb": "コニカミノルタは半導体検査装置向けレンズの研磨工程を稼働させ、2026年度の生産能力を2.6倍に拡大する。",
+        "title": "180層で板厚15mmのPCB設計／生産技術を確立、OTC",
+        "blurb": "OTCが広帯域メモリ検査装置向けに、180層・板厚15mmのPCB設計・生産技術を確立。2026年10月から量産出荷開始。",
         "category": "company",
-        "date": "2026-05-08",
+        "date": "2026-05-07",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/01/news026.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news019.html"
         },
         "field": {
-          "primary": "equipment",
-          "device": null,
+          "primary": "memory",
+          "device": "memory",
           "process": "equipment",
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ITC Confirms Innoscience Infringed Infineon GaN Patent",
-        "blurb": "米ITC、InnoscienceによるInfineonのGaN特許侵害を認定。InfineonのGaN技術リーダーシップを強化。",
-        "category": "company",
-        "date": "2026-05-09",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/itc-confirms-innoscience-infringed-infineon-gan-patent"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Samtec Expands Compact Power Interconnect Portfolio",
-        "blurb": "Samtecが産業・航空宇宙・軍事向けに、耐久性と電力密度を向上させた超小型電源コネクタを発表。",
-        "category": "company",
-        "date": "2026-05-09",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/samtec-expands-compact-power-interconnect-portfolio"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
           "industry": null
         }
       }
