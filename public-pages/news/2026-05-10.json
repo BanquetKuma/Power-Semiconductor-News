@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-10T06:17:55.854927+09:00",
+  "generated_at": "2026-05-11T06:19:08.393698+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "ITC Confirms Innoscience Infringed Infineon GaN Patent",
-    "summary": "米ITC、InnoscienceによるInfineonのGaN特許侵害を認定。両社の法廷闘争は継続中。",
+    "summary": "米ITC、InnoscienceによるInfineonのGaN特許侵害を認定。InfineonのGaN技術リーダーシップを強化。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -13,12 +13,38 @@
     ]
   },
   "sections": {
-    "business": [],
-    "tools": [],
+    "business": [
+      {
+        "title": "Analog Devices Upgrades A²B Platform for Next-Gen In-Car Audio",
+        "blurb": "アナログ・デバイセズが車載オーディオ向けA²Bプラットフォームを刷新。次世代車載オーディオシステムに対応し、高帯域幅と低遅延を実現。",
+        "category": "business",
+        "date": "2026-05-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/analog-devices-upgrades-a%c2%b2b-platform-for-next-gen-in-car-audio"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "The Basics of iSIMs, STM32C5 MCU, Arrow Digital Test Drive: Embedded Week Insights",
+        "blurb": "iSIMの基本、STM32C5マイコン、Arrowのデジタルテストドライブに関する記事。TDKの新センサーも紹介。",
+        "category": "tools",
+        "date": "2026-05-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/the-basics-of-isims-stm32c5-mcu-arrow-digital-test-drive-embedded-week-insights"
+        },
+        "field": null
+      }
+    ],
     "company": [
       {
         "title": "ITC Confirms Innoscience Infringed Infineon GaN Patent",
-        "blurb": "米ITC、InnoscienceによるInfineonのGaN特許侵害を認定。両社の法廷闘争は継続中。",
+        "blurb": "米ITC、InnoscienceによるInfineonのGaN特許侵害を認定。InfineonのGaN技術リーダーシップを強化。",
         "category": "company",
         "date": "2026-05-09",
         "stars": 3,
@@ -36,7 +62,7 @@
       },
       {
         "title": "Samtec Expands Compact Power Interconnect Portfolio",
-        "blurb": "Samtecは、産業・航空宇宙・軍事向けに耐久性と電力密度を向上させた超小型電源コネクタを発表しました。",
+        "blurb": "Samtecが産業・航空宇宙・軍事向けに、耐久性と電力密度を向上させた超小型電源コネクタを発表。",
         "category": "company",
         "date": "2026-05-09",
         "stars": 3,
@@ -65,6 +91,24 @@
         "field": {
           "primary": "power",
           "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Kyocera Unveils Ceramic Substrate for AI Semiconductors",
+        "blurb": "京セラ、AI半導体向け高剛性セラミック基板を開発。高密度配線で小型化と反り抑制を実現し、データセンター向けに展開。",
+        "category": "company",
+        "date": "2026-05-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/kyocera-unveils-ceramic-substrate-for-ai-semiconductors"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null

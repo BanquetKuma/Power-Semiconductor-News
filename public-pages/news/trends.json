@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T06:18:00.703064+09:00",
-  "date": "2026-05-10",
+  "generated_at": "2026-05-11T06:19:13.166870+09:00",
+  "date": "2026-05-11",
   "meta_trends": [
     {
       "name": "SiC/GaNパワー半導体の普及加速",
@@ -12,151 +12,154 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiC/GaN技術の性能向上とコスト低下が進み、EV、データセンター、産業機器など幅広い分野での採用が加速しています。",
+      "summary": "SiCおよびGaN技術の性能向上とコスト低下が進み、EV、データセンター、産業機器など幅広い分野での採用が加速しています。",
       "analysis": {
-        "short_term": "特許紛争に注視。新製品投入活発化。",
-        "mid_term": "量産体制強化とコスト競争激化。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味増す。"
+        "short_term": "特許侵害認定や新製品発表で技術競争が激化。",
+        "mid_term": "量産技術の確立とサプライチェーン強化が進む。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味が増加。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "高効率化"
+        "パワーデバイス"
       ],
       "companies_mentioned": [
         "Infineon",
         "Innoscience",
-        "Samtec",
         "Kensington",
         "STマイクロエレクトロニクス",
         "ボッシュ"
       ]
     },
     {
-      "name": "AI・データセンター向け電力供給強化",
+      "name": "AI・データセンター向け高性能化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "power",
-        "backend"
+        "logic",
+        "backend",
+        "memory"
       ],
-      "summary": "AI処理の増大に伴い、データセンターやAIチップの電力供給の信頼性、効率性、整合性確保が重要視されています。",
+      "summary": "AI処理能力の向上とデータセンターの電力効率改善に向け、NPU、3D-IC、チップレット、高密度実装技術などが進化しています。",
       "analysis": {
-        "short_term": "高信頼性電源技術の発表続く。",
-        "mid_term": "3D-IC向け電力整合性ソリューション進化。",
-        "investment_implications": "データセンターインフラ関連に注目。"
+        "short_term": "AIチップ評価ボードの即完売など需要の強さ。",
+        "mid_term": "3D-ICやチップレットの標準化とセキュリティ確立。",
+        "investment_implications": "AIインフラ関連技術を持つ企業に注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
-        "DrMOS",
+        "NPU",
         "3D-IC",
-        "電力整合性"
+        "チップレット"
       ],
       "companies_mentioned": [
         "AOS",
-        "OCP",
-        "Arrow Electronics"
+        "NXP",
+        "エレファンテック",
+        "OTC"
       ]
     },
     {
-      "name": "先端パッケージング技術の進化",
-      "confidence": 0.85,
+      "name": "車載向け半導体の進化とデジタル化",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "ai",
-        "datacenter",
-        "foundry",
-        "miniaturization"
+        "automotive",
+        "power",
+        "analog",
+        "logic"
       ],
-      "summary": "チップレット、2.5D/3Dパッケージング技術が進化し、性能、電力効率、小型化のバランスを取る新しいアプローチが登場しています。",
+      "summary": "ソフトウェア定義型車両（SDV）の普及に伴い、車載半導体には高度な処理能力、信頼性、そしてデジタルツイン技術との連携が求められています。",
       "analysis": {
-        "short_term": "チップレットセキュリティの重要性増す。",
-        "mid_term": "「3.5D」など新技術の標準化進む。",
-        "investment_implications": "先端パッケージング関連企業に期待。"
+        "short_term": "車載向けイメージセンサーの次世代開発活発化。",
+        "mid_term": "SDV向け電子アーキテクチャの標準化と進化。",
+        "investment_implications": "車載半導体サプライヤーの戦略が重要。"
       },
       "keywords": [
-        "チップレット",
-        "2.5D",
-        "3D-IC",
-        "パッケージング",
-        "セキュリティ"
+        "SDV",
+        "デジタルツイン",
+        "車載半導体",
+        "イメージセンサー"
       ],
       "companies_mentioned": [
-        "TSMC",
-        "ソニー"
+        "ソニー",
+        "TSMC"
       ]
     },
     {
       "name": "地政学リスクとサプライチェーン再編",
       "confidence": 0.75,
-      "momentum": "rising",
+      "momentum": "stable",
       "related_fields": [
         "geopolitics",
         "foundry",
         "frontend",
-        "backend",
-        "general"
+        "backend"
       ],
-      "summary": "地政学的な要因が半導体サプライチェーンに影響を与え、地域分散化や国内生産強化の動きが進んでいます。",
+      "summary": "地政学的な緊張が続く中、半導体サプライチェーンの安定化とリスク分散のため、地域分散化やM&Aの動きが見られます。",
       "analysis": {
-        "short_term": "地域ごとの政策動向を注視。",
-        "mid_term": "サプライチェーンの多様化・強靭化が進む。",
-        "investment_implications": "地政学リスクヘッジ戦略が重要。"
+        "short_term": "地域分散化に向けた投資や提携の発表。",
+        "mid_term": "サプライチェーンのレジリエンス強化が継続。",
+        "investment_implications": "地政学リスクへの対応力が鍵。"
       },
       "keywords": [
         "地政学",
         "サプライチェーン",
-        "台湾",
-        "国内生産"
+        "M&A",
+        "地域分散化"
       ],
       "companies_mentioned": [
-        "Arrow Electronics",
-        "TSMC"
+        "Arrow Electronics"
       ]
     },
     {
-      "name": "ソフトウェア定義型車両（SDV）の台頭",
-      "confidence": 0.7,
+      "name": "パワーエレクトロニクス分野の技術革新",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
-        "ai",
-        "datacenter",
-        "general"
+        "power",
+        "industrial",
+        "datacenter"
       ],
-      "summary": "自動車のソフトウェア定義化が進み、電子デジタルツインなどの新しい技術が車両開発や運用に不可欠になっています。",
+      "summary": "PCIM Expoなどで示されたように、SSTs、DABs、SiC SJ MOSFETsなどの新技術や、高密度・高効率コネクタの開発が進んでいます。",
       "analysis": {
-        "short_term": "SDV向け半導体需要の増加。",
-        "mid_term": "車載AI、センサー技術の進化加速。",
-        "investment_implications": "自動車・半導体連携に注目。"
+        "short_term": "展示会での最新技術発表とデモンストレーション。",
+        "mid_term": "産業・民生機器への新技術の応用拡大。",
+        "investment_implications": "パワーエレクトロニクス関連技術に注目。"
       },
       "keywords": [
-        "SDV",
-        "デジタルツイン",
-        "車載AI",
-        "ソフトウェア"
+        "パワーエレクトロニクス",
+        "SiC",
+        "GaN",
+        "コネクタ",
+        "PCIM"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Samtec",
+        "Infineon",
+        "STマイクロエレクトロニクス"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大",
-      "AI・データセンター向け投資活発化",
-      "先端パッケージング技術の進展"
+      "SiC/GaNパワー半導体の需要拡大と技術競争の激化",
+      "AIおよびデータセンター向け半導体の旺盛な需要",
+      "車載半導体市場の継続的な成長と技術進化",
+      "ウエハー出荷面積の増加（2026年Q1、前年比13.1％増）"
     ],
     "bearish": [
       "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "ソフトウェア定義型車両向け技術開発の進展"
+      "半導体業界におけるM&Aの動向",
+      "ソフトウェア定義型車両（SDV）への移行ペース"
     ]
   },
-  "source_count": 20
+  "source_count": 39
 }
