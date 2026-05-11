@@ -1,60 +1,41 @@
 {
-  "generated_at": "2026-05-08T06:23:19.392874+09:00",
+  "generated_at": "2026-05-12T06:31:43.119997+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Designing GPUs For Developers: A Conversation With Godot",
-    "summary": "Godotのゲームエンジン開発者向けGPU設計に関する対談。モバイル性能や次世代開発者支援の課題について議論。",
+    "title": "MountAIn, Alif Advance Low-Power Computer Vision at the Edge",
+    "summary": "MountAInとAlif Semiconductorが提携し、低消費電力でエッジデバイス上のAI画像認識を強化。クラウド級の性能を小型デバイスで実現。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/designing-gpus-for-developers-a-conversation-with-godot"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/mountain-alif-advance-low-power-computer-vision-at-the-edge"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Designing GPUs For Developers: A Conversation With Godot",
-        "blurb": "Godotのゲームエンジン開発者向けGPU設計に関する対談。モバイル性能や次世代開発者支援の課題について議論。",
+        "title": "MountAIn, Alif Advance Low-Power Computer Vision at the Edge",
+        "blurb": "MountAInとAlif Semiconductorが提携し、低消費電力でエッジデバイス上のAI画像認識を強化。クラウド級の性能を小型デバイスで実現。",
         "category": "company",
-        "date": "2026-05-07",
+        "date": "2026-05-12",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/designing-gpus-for-developers-a-conversation-with-godot"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mountain-alif-advance-low-power-computer-vision-at-the-edge"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "「評価ボード即完売」の人気　旧Kinara製NPUでエッジVLM構築",
-        "blurb": "NXPが旧Kinara製NPUでエッジVLM構築を展示。評価ボードは即完売の人気ぶり。",
-        "category": "business",
-        "date": "2026-05-07",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news068.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

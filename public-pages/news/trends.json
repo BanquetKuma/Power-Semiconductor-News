@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-11T06:19:13.166870+09:00",
-  "date": "2026-05-11",
+  "generated_at": "2026-05-12T06:31:50.081711+09:00",
+  "date": "2026-05-12",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の普及加速",
+      "name": "SiC/GaNパワー半導体の需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,81 +12,118 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaN技術の性能向上とコスト低下が進み、EV、データセンター、産業機器など幅広い分野での採用が加速しています。",
+      "summary": "SiCおよびGaNデバイスは、高効率・小型化を実現し、EV、データセンター、産業機器など幅広い分野で採用が加速。性能向上とコスト競争力の両立が鍵。",
       "analysis": {
-        "short_term": "特許侵害認定や新製品発表で技術競争が激化。",
-        "mid_term": "量産技術の確立とサプライチェーン強化が進む。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味が増加。"
+        "short_term": "特許争いが激化。Infineon優位か。",
+        "mid_term": "ボッシュ等による生産能力増強が市場を牽引。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味大。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "パワーデバイス"
+        "パワー半導体"
       ],
       "companies_mentioned": [
         "Infineon",
         "Innoscience",
         "Kensington",
-        "STマイクロエレクトロニクス",
         "ボッシュ"
       ]
     },
     {
-      "name": "AI・データセンター向け高性能化",
+      "name": "AI・エッジコンピューティングの進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "datacenter",
         "logic",
-        "backend",
-        "memory"
+        "datacenter",
+        "automotive",
+        "industrial"
       ],
-      "summary": "AI処理能力の向上とデータセンターの電力効率改善に向け、NPU、3D-IC、チップレット、高密度実装技術などが進化しています。",
+      "summary": "AI処理能力の向上と低消費電力化が進み、データセンターだけでなくエッジデバイスでのAI活用が拡大。NPUやGPU同期技術が重要に。",
       "analysis": {
-        "short_term": "AIチップ評価ボードの即完売など需要の強さ。",
-        "mid_term": "3D-ICやチップレットの標準化とセキュリティ確立。",
-        "investment_implications": "AIインフラ関連技術を持つ企業に注目。"
+        "short_term": "NXPのNPU評価ボードが完売。",
+        "mid_term": "低消費電力AI画像認識ソリューションが普及。",
+        "investment_implications": "AIチップ、関連IP、エッジAIソリューションに注目。"
       },
       "keywords": [
         "AI",
-        "データセンター",
+        "エッジAI",
         "NPU",
-        "3D-IC",
-        "チップレット"
+        "GPU",
+        "データセンター"
       ],
       "companies_mentioned": [
+        "Nyobolt",
         "AOS",
+        "アロー・エレクトロニクス",
         "NXP",
-        "エレファンテック",
-        "OTC"
+        "MountAIn",
+        "Alif Semiconductor",
+        "SiTime"
       ]
     },
     {
-      "name": "車載向け半導体の進化とデジタル化",
-      "confidence": 0.8,
+      "name": "車載・産業用途向け需要の堅調さ",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
+        "industrial",
         "power",
         "analog",
         "logic"
       ],
-      "summary": "ソフトウェア定義型車両（SDV）の普及に伴い、車載半導体には高度な処理能力、信頼性、そしてデジタルツイン技術との連携が求められています。",
+      "summary": "EV化や自動運転、産業機器の高度化に伴い、車載・産業用途向けの半導体需要が継続的に拡大。特にコンデンサーや電源関連部品が好調。",
       "analysis": {
-        "short_term": "車載向けイメージセンサーの次世代開発活発化。",
-        "mid_term": "SDV向け電子アーキテクチャの標準化と進化。",
-        "investment_implications": "車載半導体サプライヤーの戦略が重要。"
+        "short_term": "太陽誘電の車載コンデンサー需要が好調。",
+        "mid_term": "高信頼性・小型化電源コネクタの需要増。",
+        "investment_implications": "車載半導体、産業用電源部品メーカーに妙味。"
       },
       "keywords": [
-        "SDV",
-        "デジタルツイン",
-        "車載半導体",
-        "イメージセンサー"
+        "車載",
+        "EV",
+        "産業機器",
+        "コンデンサー",
+        "電源"
       ],
       "companies_mentioned": [
+        "太陽誘電",
+        "Samtec",
+        "ボッシュ"
+      ]
+    },
+    {
+      "name": "先端パッケージング技術の進化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "backend",
+        "logic",
+        "memory",
+        "equipment",
+        "miniaturization"
+      ],
+      "summary": "HBMや次世代半導体パッケージ向けに、高密度配線基板や銅ナノペーストなどの新技術開発が進展。性能向上と小型化に貢献。",
+      "analysis": {
+        "short_term": "エレファンテックの銅ナノペーストが注目。",
+        "mid_term": "HBM検査装置向けPCB技術が量産開始。",
+        "investment_implications": "先端パッケージング関連技術・材料企業に注目。"
+      },
+      "keywords": [
+        "パッケージング",
+        "HBM",
+        "PCB",
+        "銅ナノペースト",
+        "TGV"
+      ],
+      "companies_mentioned": [
+        "エレファンテック",
+        "OTC",
         "ソニー",
         "TSMC"
       ]
@@ -98,68 +135,44 @@
       "related_fields": [
         "geopolitics",
         "foundry",
-        "frontend",
-        "backend"
+        "equipment",
+        "wafer"
       ],
-      "summary": "地政学的な緊張が続く中、半導体サプライチェーンの安定化とリスク分散のため、地域分散化やM&Aの動きが見られます。",
+      "summary": "地政学的な緊張が半導体サプライチェーンの安定性に影響を与え、生産拠点の分散や国内回帰の動きが加速。技術覇権争いが激化。",
       "analysis": {
-        "short_term": "地域分散化に向けた投資や提携の発表。",
-        "mid_term": "サプライチェーンのレジリエンス強化が継続。",
-        "investment_implications": "地政学リスクへの対応力が鍵。"
+        "short_term": "アロー・エレクトロニクスが地政学をテーマに。",
+        "mid_term": "サプライチェーンの強靭化が継続課題。",
+        "investment_implications": "地政学リスクを考慮した投資戦略が必要。"
       },
       "keywords": [
         "地政学",
         "サプライチェーン",
-        "M&A",
-        "地域分散化"
+        "ファウンドリ",
+        "国内回帰"
       ],
       "companies_mentioned": [
-        "Arrow Electronics"
-      ]
-    },
-    {
-      "name": "パワーエレクトロニクス分野の技術革新",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "industrial",
-        "datacenter"
-      ],
-      "summary": "PCIM Expoなどで示されたように、SSTs、DABs、SiC SJ MOSFETsなどの新技術や、高密度・高効率コネクタの開発が進んでいます。",
-      "analysis": {
-        "short_term": "展示会での最新技術発表とデモンストレーション。",
-        "mid_term": "産業・民生機器への新技術の応用拡大。",
-        "investment_implications": "パワーエレクトロニクス関連技術に注目。"
-      },
-      "keywords": [
-        "パワーエレクトロニクス",
-        "SiC",
-        "GaN",
-        "コネクタ",
-        "PCIM"
-      ],
-      "companies_mentioned": [
-        "Samtec",
-        "Infineon",
-        "STマイクロエレクトロニクス"
+        "アロー・エレクトロニクス",
+        "ソニー",
+        "TSMC"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大と技術競争の激化",
-      "AIおよびデータセンター向け半導体の旺盛な需要",
-      "車載半導体市場の継続的な成長と技術進化",
-      "ウエハー出荷面積の増加（2026年Q1、前年比13.1％増）"
+      "SiC/GaNパワー半導体の需要拡大と技術革新",
+      "AI・エッジコンピューティング市場の急成長",
+      "車載・産業用途向け半導体需要の堅調さ",
+      "先端パッケージング技術の進展と採用拡大",
+      "ウエハー出荷面積の増加傾向（Q1実績）"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性"
+      "メモリ市況の不透明感（ソニー半導体減収見込み）",
+      "特許侵害訴訟による一部企業の事業リスク"
     ],
     "neutral": [
-      "半導体業界におけるM&Aの動向",
-      "ソフトウェア定義型車両（SDV）への移行ペース"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "半導体製造装置用セラミック事業の設備投資拡大"
     ]
   },
-  "source_count": 39
+  "source_count": 23
 }
