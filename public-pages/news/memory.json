@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-05-08T06:23:19.392488+09:00",
+  "generated_at": "2026-05-13T06:30:46.839113+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "180層で板厚15mmのPCB設計／生産技術を確立、OTC",
-    "summary": "OTCが広帯域メモリ検査装置向けに、180層・板厚15mmのPCB設計・生産技術を確立。2026年10月から量産出荷開始。",
+    "title": "DRAM不足で変わるAIシステム設計　エッジAIや特化型モデルに追い風",
+    "summary": "DRAM不足と価格高騰により、AIシステム設計は大規模モデルから小規模特化型モデルへとシフトし、エッジAIに追い風。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news019.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/12/news057.html"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "180層で板厚15mmのPCB設計／生産技術を確立、OTC",
-        "blurb": "OTCが広帯域メモリ検査装置向けに、180層・板厚15mmのPCB設計・生産技術を確立。2026年10月から量産出荷開始。",
-        "category": "company",
-        "date": "2026-05-07",
+        "title": "DRAM不足で変わるAIシステム設計　エッジAIや特化型モデルに追い風",
+        "blurb": "DRAM不足と価格高騰により、AIシステム設計は大規模モデルから小規模特化型モデルへとシフトし、エッジAIに追い風。",
+        "category": "business",
+        "date": "2026-05-12",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/07/news019.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/12/news057.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "equipment",
-          "market": null,
+          "process": null,
+          "market": "ai",
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

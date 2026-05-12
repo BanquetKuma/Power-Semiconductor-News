@@ -1,157 +1,161 @@
 {
-  "generated_at": "2026-05-12T06:31:50.081711+09:00",
-  "date": "2026-05-12",
+  "generated_at": "2026-05-13T06:30:52.762130+09:00",
+  "date": "2026-05-13",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の需要拡大",
+      "name": "パワー半導体技術の進化と応用拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "ai",
+        "industrial",
+        "datacenter"
       ],
-      "summary": "SiCおよびGaNデバイスは、高効率・小型化を実現し、EV、データセンター、産業機器など幅広い分野で採用が加速。性能向上とコスト競争力の両立が鍵。",
+      "summary": "GaNやSiCなどの新素材を用いたパワー半導体の性能向上が著しく、人型ロボット、EV、AIサーバー、データセンターなど多様な分野での採用が進んでいる。",
       "analysis": {
-        "short_term": "特許争いが激化。Infineon優位か。",
-        "mid_term": "ボッシュ等による生産能力増強が市場を牽引。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味大。"
+        "short_term": "GaN/SiC製品の需要は堅調に推移。",
+        "mid_term": "技術革新とコスト競争が激化する見込み。",
+        "investment_implications": "技術力とIPを持つ企業に注目。"
       },
       "keywords": [
-        "SiC",
         "GaN",
+        "SiC",
+        "ロボット",
         "EV",
-        "データセンター",
-        "パワー半導体"
+        "AIサーバー"
       ],
       "companies_mentioned": [
         "Infineon",
         "Innoscience",
+        "Nyobolt",
         "Kensington",
         "ボッシュ"
       ]
     },
     {
-      "name": "AI・エッジコンピューティングの進化",
+      "name": "AI・ロボティクス向け半導体需要の加速",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "logic",
-        "datacenter",
         "automotive",
-        "industrial"
+        "industrial",
+        "datacenter",
+        "equipment"
       ],
-      "summary": "AI処理能力の向上と低消費電力化が進み、データセンターだけでなくエッジデバイスでのAI活用が拡大。NPUやGPU同期技術が重要に。",
+      "summary": "AIサーバー、自動運転、ロボティクス分野で高性能・高効率な半導体への需要が急増しており、関連するメモリ、プロセッサ、センサー、パワー半導体市場を牽引している。",
       "analysis": {
-        "short_term": "NXPのNPU評価ボードが完売。",
-        "mid_term": "低消費電力AI画像認識ソリューションが普及。",
-        "investment_implications": "AIチップ、関連IP、エッジAIソリューションに注目。"
+        "short_term": "AI関連需要は引き続き好調。",
+        "mid_term": "DRAM不足が設計シフトを加速させる可能性。",
+        "investment_implications": "AIインフラ関連企業に投資妙味。"
       },
       "keywords": [
         "AI",
-        "エッジAI",
-        "NPU",
-        "GPU",
-        "データセンター"
-      ],
-      "companies_mentioned": [
-        "Nyobolt",
-        "AOS",
-        "アロー・エレクトロニクス",
-        "NXP",
-        "MountAIn",
-        "Alif Semiconductor",
-        "SiTime"
-      ]
-    },
-    {
-      "name": "車載・産業用途向け需要の堅調さ",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "industrial",
-        "power",
-        "analog",
-        "logic"
-      ],
-      "summary": "EV化や自動運転、産業機器の高度化に伴い、車載・産業用途向けの半導体需要が継続的に拡大。特にコンデンサーや電源関連部品が好調。",
-      "analysis": {
-        "short_term": "太陽誘電の車載コンデンサー需要が好調。",
-        "mid_term": "高信頼性・小型化電源コネクタの需要増。",
-        "investment_implications": "車載半導体、産業用電源部品メーカーに妙味。"
-      },
-      "keywords": [
-        "車載",
-        "EV",
-        "産業機器",
-        "コンデンサー",
-        "電源"
+        "ロボティクス",
+        "自動運転",
+        "DRAM",
+        "コンデンサー"
       ],
       "companies_mentioned": [
         "太陽誘電",
-        "Samtec",
-        "ボッシュ"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術の進化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "frontend",
-        "backend",
-        "logic",
-        "memory",
-        "equipment",
-        "miniaturization"
-      ],
-      "summary": "HBMや次世代半導体パッケージ向けに、高密度配線基板や銅ナノペーストなどの新技術開発が進展。性能向上と小型化に貢献。",
-      "analysis": {
-        "short_term": "エレファンテックの銅ナノペーストが注目。",
-        "mid_term": "HBM検査装置向けPCB技術が量産開始。",
-        "investment_implications": "先端パッケージング関連技術・材料企業に注目。"
-      },
-      "keywords": [
-        "パッケージング",
-        "HBM",
-        "PCB",
-        "銅ナノペースト",
-        "TGV"
-      ],
-      "companies_mentioned": [
-        "エレファンテック",
-        "OTC",
+        "Nyobolt",
         "ソニー",
         "TSMC"
       ]
     },
     {
-      "name": "地政学リスクとサプライチェーン再編",
-      "confidence": 0.75,
-      "momentum": "stable",
+      "name": "次世代半導体製造技術の開発競争",
+      "confidence": 0.85,
+      "momentum": "rising",
       "related_fields": [
-        "geopolitics",
-        "foundry",
-        "equipment",
-        "wafer"
+        "logic",
+        "frontend",
+        "backend",
+        "miniaturization",
+        "equipment"
       ],
-      "summary": "地政学的な緊張が半導体サプライチェーンの安定性に影響を与え、生産拠点の分散や国内回帰の動きが加速。技術覇権争いが激化。",
+      "summary": "CFET、GAAFET、2D材料統合、FTJ、シリコンフォトニクスなど、CMOS限界突破や新機能実現に向けた先端技術開発が活発化している。",
       "analysis": {
-        "short_term": "アロー・エレクトロニクスが地政学をテーマに。",
-        "mid_term": "サプライチェーンの強靭化が継続課題。",
-        "investment_implications": "地政学リスクを考慮した投資戦略が必要。"
+        "short_term": "先端プロセス開発は長期視点が必要。",
+        "mid_term": "技術標準化や実用化に向けた動きが進む。",
+        "investment_implications": "先端技術を持つ研究機関・企業に注目。"
       },
       "keywords": [
-        "地政学",
-        "サプライチェーン",
-        "ファウンドリ",
-        "国内回帰"
+        "CFET",
+        "GAAFET",
+        "2D材料",
+        "シリコンフォトニクス",
+        "FTJ"
       ],
       "companies_mentioned": [
-        "アロー・エレクトロニクス",
+        "SKKU",
+        "NYCU",
+        "MIT",
+        "SNU",
+        "Sungkyunkwan U.",
+        "SK hynix",
+        "エレファンテック"
+      ]
+    },
+    {
+      "name": "半導体テスト・歩留まり管理の高度化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "backend",
+        "ai",
+        "equipment",
+        "automotive"
+      ],
+      "summary": "AI活用によるテスト自動化、歩留まり診断・故障解析の統合、安全要件評価技術などが進展し、先端デバイスの品質・信頼性向上に貢献している。",
+      "analysis": {
+        "short_term": "AIテストソリューションの導入が進む。",
+        "mid_term": "データ基盤整備が課題となる可能性。",
+        "investment_implications": "テスト・歩留まり管理ソリューション企業に期待。"
+      },
+      "keywords": [
+        "AI",
+        "テスト",
+        "歩留まり",
+        "安全要件",
+        "故障解析"
+      ],
+      "companies_mentioned": [
+        "Politecnico di Torino",
+        "Synopsys"
+      ]
+    },
+    {
+      "name": "特定用途向け半導体・部品の需要増",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "industrial",
+        "datacenter",
+        "analog",
+        "power"
+      ],
+      "summary": "自動車、産業機器、データセンター向けに特化した半導体や部品（例：SiCチップ、電源コネクタ、コンデンサー）の需要が堅調に推移している。",
+      "analysis": {
+        "short_term": "特定分野の需要は引き続き堅調。",
+        "mid_term": "サプライヤー間の競争が激化する可能性。",
+        "investment_implications": "ニッチ市場で強みを持つ企業に注目。"
+      },
+      "keywords": [
+        "SiC",
+        "コネクタ",
+        "コンデンサー",
+        "自動車",
+        "産業機器"
+      ],
+      "companies_mentioned": [
+        "ボッシュ",
+        "Samtec",
+        "太陽誘電",
         "ソニー",
         "TSMC"
       ]
@@ -159,20 +163,19 @@
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大と技術革新",
-      "AI・エッジコンピューティング市場の急成長",
-      "車載・産業用途向け半導体需要の堅調さ",
-      "先端パッケージング技術の進展と採用拡大",
-      "ウエハー出荷面積の増加傾向（Q1実績）"
+      "世界半導体市場の回復基調（2026年3月期大幅増）",
+      "日本市場のプラス成長への転換",
+      "AI・ロボティクス・EV関連需要の旺盛さ",
+      "パワー半導体（GaN/SiC）の技術革新と需要拡大"
     ],
     "bearish": [
       "メモリ市況の不透明感（ソニー半導体減収見込み）",
-      "特許侵害訴訟による一部企業の事業リスク"
+      "先端テストを支えるデータ基盤の課題"
     ],
     "neutral": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "半導体製造装置用セラミック事業の設備投資拡大"
+      "次世代半導体技術開発競争の激化",
+      "半導体製造装置用セラミック事業の強化（TOTO）"
     ]
   },
-  "source_count": 23
+  "source_count": 27
 }
