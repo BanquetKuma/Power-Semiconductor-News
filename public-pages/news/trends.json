@@ -1,181 +1,163 @@
 {
-  "generated_at": "2026-05-13T06:30:52.762130+09:00",
-  "date": "2026-05-13",
+  "generated_at": "2026-05-14T06:33:38.312807+09:00",
+  "date": "2026-05-14",
   "meta_trends": [
     {
-      "name": "パワー半導体技術の進化と応用拡大",
-      "confidence": 0.95,
+      "name": "パワー半導体材料の進化と競争激化",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "ai",
-        "industrial",
-        "datacenter"
+        "industrial"
       ],
-      "summary": "GaNやSiCなどの新素材を用いたパワー半導体の性能向上が著しく、人型ロボット、EV、AIサーバー、データセンターなど多様な分野での採用が進んでいる。",
+      "summary": "GaNやSiCといった次世代パワー半導体材料がロボット、EV、産業機器で重要性を増し、特許争いや材料供給競争が激化している。",
       "analysis": {
-        "short_term": "GaN/SiC製品の需要は堅調に推移。",
-        "mid_term": "技術革新とコスト競争が激化する見込み。",
-        "investment_implications": "技術力とIPを持つ企業に注目。"
+        "short_term": "特許訴訟動向と材料供給に注目。",
+        "mid_term": "材料メーカーの生産能力拡大が鍵。",
+        "investment_implications": "技術リーダーとサプライチェーン掌握企業に投資妙味。"
       },
       "keywords": [
         "GaN",
         "SiC",
         "ロボット",
         "EV",
-        "AIサーバー"
+        "特許"
       ],
       "companies_mentioned": [
         "Infineon",
         "Innoscience",
-        "Nyobolt",
-        "Kensington",
-        "ボッシュ"
+        "ローム",
+        "ボッシュ",
+        "住友化学"
       ]
     },
     {
-      "name": "AI・ロボティクス向け半導体需要の加速",
-      "confidence": 0.9,
+      "name": "AIインフラとデータセンターの高速化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "automotive",
-        "industrial",
         "datacenter",
-        "equipment"
+        "logic",
+        "memory"
       ],
-      "summary": "AIサーバー、自動運転、ロボティクス分野で高性能・高効率な半導体への需要が急増しており、関連するメモリ、プロセッサ、センサー、パワー半導体市場を牽引している。",
+      "summary": "AI処理能力向上のため、データセンター向けインターコネクトやPCIeコントローラーの高速化が進み、光インターコネクトや高密度SSDが重要になる。",
       "analysis": {
-        "short_term": "AI関連需要は引き続き好調。",
-        "mid_term": "DRAM不足が設計シフトを加速させる可能性。",
-        "investment_implications": "AIインフラ関連企業に投資妙味。"
+        "short_term": "AIチップセットの需要は引き続き堅調。",
+        "mid_term": "光インターコネクト技術の普及が焦点。",
+        "investment_implications": "高速化技術を持つ企業や高密度ストレージメーカーに注目。"
       },
       "keywords": [
         "AI",
-        "ロボティクス",
-        "自動運転",
-        "DRAM",
-        "コンデンサー"
+        "データセンター",
+        "光インターコネクト",
+        "PCIe",
+        "SSD"
       ],
       "companies_mentioned": [
-        "太陽誘電",
-        "Nyobolt",
-        "ソニー",
-        "TSMC"
+        "Micron",
+        "太陽誘電"
       ]
     },
     {
-      "name": "次世代半導体製造技術の開発競争",
-      "confidence": 0.85,
+      "name": "車載半導体の信頼性と高度化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "analog",
+        "logic",
+        "power"
+      ],
+      "summary": "自動運転や先進運転支援システム(ADAS)の普及に伴い、車載半導体の信頼性確保と高性能化（特にアナログ・パワー半導体）が喫緊の課題となっている。",
+      "analysis": {
+        "short_term": "車載向け信頼性テスト技術が重要。",
+        "mid_term": "次世代センサーや制御ICの共同開発が進む。",
+        "investment_implications": "車載向け実績と技術力を持つ企業が有利。"
+      },
+      "keywords": [
+        "車載",
+        "信頼性",
+        "ADAS",
+        "アナログ",
+        "パワー半導体"
+      ],
+      "companies_mentioned": [
+        "ソニー",
+        "TSMC",
+        "ローム",
+        "デンソー",
+        "東芝D&S",
+        "三菱電機"
+      ]
+    },
+    {
+      "name": "次世代半導体アーキテクチャの研究開発",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "frontend",
-        "backend",
-        "miniaturization",
-        "equipment"
+        "miniaturization"
       ],
-      "summary": "CFET、GAAFET、2D材料統合、FTJ、シリコンフォトニクスなど、CMOS限界突破や新機能実現に向けた先端技術開発が活発化している。",
+      "summary": "CMOS技術の限界突破を目指し、CFETやGAAFETといった新しいトランジスタ構造や2次元材料の統合に関する研究開発が活発化している。",
       "analysis": {
-        "short_term": "先端プロセス開発は長期視点が必要。",
-        "mid_term": "技術標準化や実用化に向けた動きが進む。",
-        "investment_implications": "先端技術を持つ研究機関・企業に注目。"
+        "short_term": "基礎研究段階の技術動向を注視。",
+        "mid_term": "実用化に向けた材料・プロセス開発が課題。",
+        "investment_implications": "先端プロセス技術を持つファウンドリや研究機関に注目。"
       },
       "keywords": [
         "CFET",
         "GAAFET",
-        "2D材料",
-        "シリコンフォトニクス",
-        "FTJ"
+        "2次元材料",
+        "CMOS",
+        "微細化"
       ],
       "companies_mentioned": [
         "SKKU",
-        "NYCU",
-        "MIT",
-        "SNU",
-        "Sungkyunkwan U.",
-        "SK hynix",
-        "エレファンテック"
+        "NYCU"
       ]
     },
     {
-      "name": "半導体テスト・歩留まり管理の高度化",
-      "confidence": 0.8,
-      "momentum": "rising",
+      "name": "DRAM不足がAIシステム設計に影響",
+      "confidence": 0.7,
+      "momentum": "stable",
       "related_fields": [
-        "frontend",
-        "backend",
+        "memory",
         "ai",
-        "equipment",
-        "automotive"
+        "datacenter"
       ],
-      "summary": "AI活用によるテスト自動化、歩留まり診断・故障解析の統合、安全要件評価技術などが進展し、先端デバイスの品質・信頼性向上に貢献している。",
+      "summary": "DRAMの供給不足と価格高騰が、AIシステム設計を大規模モデルから小規模特化型モデルへとシフトさせる要因となっている。",
       "analysis": {
-        "short_term": "AIテストソリューションの導入が進む。",
-        "mid_term": "データ基盤整備が課題となる可能性。",
-        "investment_implications": "テスト・歩留まり管理ソリューション企業に期待。"
+        "short_term": "DRAM市況の動向が設計トレンドを左右。",
+        "mid_term": "特化型AIチップの需要が増加する可能性。",
+        "investment_implications": "メモリメーカーの生産能力と特化型AI関連企業に注目。"
       },
       "keywords": [
+        "DRAM",
         "AI",
-        "テスト",
-        "歩留まり",
-        "安全要件",
-        "故障解析"
+        "エッジAI",
+        "特化型モデル",
+        "メモリ不足"
       ],
-      "companies_mentioned": [
-        "Politecnico di Torino",
-        "Synopsys"
-      ]
-    },
-    {
-      "name": "特定用途向け半導体・部品の需要増",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "industrial",
-        "datacenter",
-        "analog",
-        "power"
-      ],
-      "summary": "自動車、産業機器、データセンター向けに特化した半導体や部品（例：SiCチップ、電源コネクタ、コンデンサー）の需要が堅調に推移している。",
-      "analysis": {
-        "short_term": "特定分野の需要は引き続き堅調。",
-        "mid_term": "サプライヤー間の競争が激化する可能性。",
-        "investment_implications": "ニッチ市場で強みを持つ企業に注目。"
-      },
-      "keywords": [
-        "SiC",
-        "コネクタ",
-        "コンデンサー",
-        "自動車",
-        "産業機器"
-      ],
-      "companies_mentioned": [
-        "ボッシュ",
-        "Samtec",
-        "太陽誘電",
-        "ソニー",
-        "TSMC"
-      ]
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の回復基調（2026年3月期大幅増）",
-      "日本市場のプラス成長への転換",
-      "AI・ロボティクス・EV関連需要の旺盛さ",
-      "パワー半導体（GaN/SiC）の技術革新と需要拡大"
+      "世界半導体市場の回復基調（2026年3月：+79%）",
+      "AIサーバおよび車載向けコンデンサー需要の堅調さ",
+      "パワー半導体分野における技術革新と投資拡大"
     ],
     "bearish": [
-      "メモリ市況の不透明感（ソニー半導体減収見込み）",
-      "先端テストを支えるデータ基盤の課題"
+      "SiC関連の減損による大手メーカーの赤字（ローム）",
+      "メモリ市況の不透明感による一部企業の減収見込み（ソニー半導体）"
     ],
     "neutral": [
-      "次世代半導体技術開発競争の激化",
-      "半導体製造装置用セラミック事業の強化（TOTO）"
+      "車載半導体の信頼性確保に向けた技術開発の継続",
+      "高度な半導体テストにおけるデータ基盤の課題"
     ]
   },
-  "source_count": 27
+  "source_count": 30
 }

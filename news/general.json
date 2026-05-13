@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-13T06:30:46.840133+09:00",
+  "generated_at": "2026-05-14T06:33:33.278543+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "A Comprehensive Study Of Integrating 2D Materials With CFET Architecture (SKKU, et al.)",
-    "summary": "韓国・成均館大などの研究チームが、次世代半導体技術CFETへの2次元材料統合に関する論文を発表。CMOS限界突破へ期待。",
+    "stars": 3,
+    "title": "DFT In Automotive",
+    "summary": "車載半導体の信頼性確保の重要性が増しており、その課題は今後さらに厳しくなる。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/a-comprehensive-study-on-integrating-2d-materials-with-cfet-architecture-skku-et-al"
+        "url": "https://semiengineering.com/dft-in-automotive"
       }
     ]
   },
@@ -18,10 +18,10 @@
     "news": [
       {
         "title": "A Comprehensive Study Of Integrating 2D Materials With CFET Architecture (SKKU, et al.)",
-        "blurb": "韓国・成均館大などの研究チームが、次世代半導体技術CFETへの2次元材料統合に関する論文を発表。CMOS限界突破へ期待。",
+        "blurb": "韓国・成均館大などの研究チームが、次世代半導体技術「CFET」への2次元材料統合に関する論文を発表。CMOS限界突破へ期待。",
         "category": "company",
         "date": "2026-05-13",
-        "stars": 4,
+        "stars": 3,
         "source": {
           "name": "semiengineering.com",
           "url": "https://semiengineering.com/a-comprehensive-study-on-integrating-2d-materials-with-cfet-architecture-skku-et-al"
@@ -36,7 +36,7 @@
       },
       {
         "title": "Supporting Safety Requirements from RTL Exploration Through Implementation in Semiconductor Devices (Politecnico di Torino, Synopsys)",
-        "blurb": "半導体設計の初期段階から安全要件を評価する新技術論文が発表された。自動車等での重要性が増す。",
+        "blurb": "半導体設計の初期段階から安全要件を評価する新技術論文が発表された。自動車等での安全性向上に貢献。",
         "category": "company",
         "date": "2026-05-13",
         "stars": 3,
@@ -51,66 +51,12 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "The Specialty Device Surge Part 3: Solving The Process Control Challenges Of MEMS, Photonics, Co-Packaged Optics, And More",
-        "blurb": "Ensuring the physical properties that matter most are tightly understood and controlled. The post The Specialty Device S",
-        "category": "company",
-        "date": "2026-05-12",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-specialty-device-surge-part-3-solving-the-process-control-challenges-of-mems-photonics-co-packaged-optics-and-more"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       }
     ],
     "tech": [
       {
-        "title": "Test Distribution Evolves To Meet AI Challenges",
-        "blurb": "AIを活用し、欠陥検出からシステム検証へと進化するATE（自動テスト装置）。半導体テストの新たな課題に対応。",
-        "category": "tools",
-        "date": "2026-05-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/test-distribution-evolves-to-meet-ai-challenges"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Ensuring AI Reliability: Mitigating Silent Data Corruption Risks",
-        "blurb": "AIの信頼性確保のため、チップ内監視で予測保守を行い、リアルタイムでエラーを検出し修正する。",
-        "category": "tools",
-        "date": "2026-05-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ensuring-ai-reliability-mitigating-silent-data-corruption-risks"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Silicon Photonics: Integrated Grating-Based Antennas for Optical Phased Arrays (MIT)",
-        "blurb": "MITの研究者らが、光位相アレイ向けにクロストークを低減したグレーティングアンテナを発表。コンパクトで非機械的な光ビーム制御が可能。",
+        "blurb": "MITの研究者らが、光位相アレイ向けにクロストークを低減したグレーティングアンテナを発表。コンパクトで機械的動作なしに光ビームを制御可能。",
         "category": "tools",
         "date": "2026-05-13",
         "stars": 3,
@@ -129,14 +75,14 @@
     ],
     "market": [
       {
-        "title": "What’s Really Needed For Advanced Test?",
-        "blurb": "高度なテストには機械学習の活用が期待されるが、それを支えるデータ基盤が追いついていない。",
+        "title": "DFT In Automotive",
+        "blurb": "車載半導体の信頼性確保の重要性が増しており、その課題は今後さらに厳しくなる。",
         "category": "business",
-        "date": "2026-05-12",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/whats-really-needed-for-advanced-test"
+          "url": "https://semiengineering.com/dft-in-automotive"
         },
         "field": {
           "primary": "general",
@@ -147,14 +93,14 @@
         }
       },
       {
-        "title": "Complete End-To-End Closed-Loop Product Yield Ramp And Learning",
-        "blurb": "高度なノードデバイス向けに、分析駆動型の歩留まり診断と故障解析を統合し、製品歩留まりのランプアップと学習をエンドツーエンドで完結させる。",
+        "title": "Scaling PCIe Controllers for AI Bandwidth:  A Multistream Architecture Analysis for 64 GT/s and 128 GT/s",
+        "blurb": "AI向けPCIeコントローラー、128GT/s超へ。マルチストリームアーキテクチャが最適化から必須要件へ移行。",
         "category": "business",
-        "date": "2026-05-12",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/complete-end-to-end-closed-loop-product-yield-ramp-and-learning"
+          "url": "https://semiengineering.com/scaling-pcie-controllers-for-ai-bandwidth-a-multistream-architecture-analysis-for-64-gt-s-and-128-gt-s"
         },
         "field": {
           "primary": "general",
@@ -165,14 +111,14 @@
         }
       },
       {
-        "title": "26年3月の世界半導体市場は79％増、日本も10カ月ぶりプラス成長",
-        "blurb": "2026年3月の世界半導体市場は前年同月比79.2%増。日本も10ヶ月ぶりにプラス成長となった。",
+        "title": "住友化学が高純度アルミナの事業展開加速、先端半導体向け",
+        "blurb": "住友化学は先端半導体向け高純度アルミナ「ELAシリーズ」の販売を開始し、事業展開を加速する。",
         "category": "business",
-        "date": "2026-05-12",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/12/news052.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/13/news039.html"
         },
         "field": {
           "primary": "general",
