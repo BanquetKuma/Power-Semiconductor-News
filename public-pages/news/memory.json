@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-13T06:30:46.839113+09:00",
+  "generated_at": "2026-05-15T06:28:07.953296+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "DRAM不足で変わるAIシステム設計　エッジAIや特化型モデルに追い風",
-    "summary": "DRAM不足と価格高騰により、AIシステム設計は大規模モデルから小規模特化型モデルへとシフトし、エッジAIに追い風。",
+    "title": "SOCAMM2: Bringing LPDDR5X Benefits To AI Servers",
+    "summary": "SOCAMM2は、AIサーバー向けにLPDDR5Xの省エネ性能とサーバーシステムのモジュール性を両立させる。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/12/news057.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/socamm2-bringing-lpddr5x-benefits-to-ai-servers"
       }
     ]
   },
@@ -19,21 +19,75 @@
     "tech": [],
     "market": [
       {
-        "title": "DRAM不足で変わるAIシステム設計　エッジAIや特化型モデルに追い風",
-        "blurb": "DRAM不足と価格高騰により、AIシステム設計は大規模モデルから小規模特化型モデルへとシフトし、エッジAIに追い風。",
+        "title": "SOCAMM2: Bringing LPDDR5X Benefits To AI Servers",
+        "blurb": "SOCAMM2は、AIサーバー向けにLPDDR5Xの省エネ性能とサーバーシステムのモジュール性を両立させる。",
         "category": "business",
-        "date": "2026-05-12",
+        "date": "2026-05-14",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/12/news057.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/socamm2-bringing-lpddr5x-benefits-to-ai-servers"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": "ai",
+          "market": "datacenter",
           "industry": null
+        }
+      },
+      {
+        "title": "Flash Getting Stacked High-Bandwidth Version",
+        "blurb": "HBMに触発されたHBFは、3DフラッシュメモリのAI効率を向上させる可能性がある。",
+        "category": "business",
+        "date": "2026-05-14",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/flash-getting-stacked-high-bandwidth-version"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "地政学が変えるメモリ調達戦略　「安く買う」だけでは危険",
+        "blurb": "地政学リスクでメモリ調達戦略が変化。安価な調達だけでなく、供給継続やコンプライアンス重視が不可欠。",
+        "category": "business",
+        "date": "2026-05-14",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news085.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": "geopolitics"
+        }
+      },
+      {
+        "title": "Micron Samples 256-GB DDR5 RDIMM for AI Servers",
+        "blurb": "マイクロン、AIサーバー向け256GB DDR5 RDIMMのサンプル出荷を開始。次世代AI・HPCプラットフォームをターゲットに、9,200 MT/sの高速化を実現。",
+        "category": "business",
+        "date": "2026-05-14",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/micron-samples-256-gb-ddr5-rdimm-for-ai-servers"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "datacenter",
+          "industry": "idm"
         }
       }
     ]

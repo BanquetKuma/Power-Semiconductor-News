@@ -1,59 +1,65 @@
 {
-  "generated_at": "2026-05-14T06:33:38.312807+09:00",
-  "date": "2026-05-14",
+  "generated_at": "2026-05-15T06:28:13.288906+09:00",
+  "date": "2026-05-15",
   "meta_trends": [
     {
-      "name": "パワー半導体材料の進化と競争激化",
-      "confidence": 0.9,
+      "name": "パワー半導体の高性能化と新材料",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
+        "ai",
         "industrial"
       ],
-      "summary": "GaNやSiCといった次世代パワー半導体材料がロボット、EV、産業機器で重要性を増し、特許争いや材料供給競争が激化している。",
+      "summary": "GaNやSiCといった新材料、高誘電率フィルムなどの技術革新により、パワー半導体の効率と性能が向上。EV、AI、ロボティクス分野で需要拡大。",
       "analysis": {
-        "short_term": "特許訴訟動向と材料供給に注目。",
-        "mid_term": "材料メーカーの生産能力拡大が鍵。",
-        "investment_implications": "技術リーダーとサプライチェーン掌握企業に投資妙味。"
+        "short_term": "GaN特許問題はInfineon優位。SiCはローム減損も回復基調。",
+        "mid_term": "EV、データセンター、AIインフラ向け需要は堅調に推移。",
+        "investment_implications": "GaN/SiC関連企業、高効率化技術に注目。"
       },
       "keywords": [
         "GaN",
         "SiC",
-        "ロボット",
         "EV",
-        "特許"
+        "AI",
+        "ロボティクス"
       ],
       "companies_mentioned": [
-        "Infineon",
+        "iDEAL",
+        "Cyient",
+        "Nyobolt",
         "Innoscience",
+        "Infineon",
         "ローム",
-        "ボッシュ",
-        "住友化学"
+        "エレファンテック",
+        "太陽誘電"
       ]
     },
     {
-      "name": "AIインフラとデータセンターの高速化",
-      "confidence": 0.85,
+      "name": "AIハードウェアの進化と最適化",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "memory",
         "datacenter",
         "logic",
-        "memory"
+        "frontend",
+        "backend"
       ],
-      "summary": "AI処理能力向上のため、データセンター向けインターコネクトやPCIeコントローラーの高速化が進み、光インターコネクトや高密度SSDが重要になる。",
+      "summary": "画像LLMやエッジAIの普及により、AIハードウェアはピークTOPSだけでなく、効率性や特定タスクへの最適化が重要視される。",
       "analysis": {
-        "short_term": "AIチップセットの需要は引き続き堅調。",
-        "mid_term": "光インターコネクト技術の普及が焦点。",
-        "investment_implications": "高速化技術を持つ企業や高密度ストレージメーカーに注目。"
+        "short_term": "DRAM不足はエッジAIに追い風。HBMの進化も続く。",
+        "mid_term": "AIサーバー、エッジAI向けチップ、メモリ需要は引き続き堅調。",
+        "investment_implications": "AI向けメモリ、特定用途向けASIC、エッジAI関連に投資妙味。"
       },
       "keywords": [
         "AI",
-        "データセンター",
-        "光インターコネクト",
-        "PCIe",
-        "SSD"
+        "LLM",
+        "エッジAI",
+        "HBM",
+        "DRAM"
       ],
       "companies_mentioned": [
         "Micron",
@@ -61,103 +67,97 @@
       ]
     },
     {
-      "name": "車載半導体の信頼性と高度化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "analog",
-        "logic",
-        "power"
-      ],
-      "summary": "自動運転や先進運転支援システム(ADAS)の普及に伴い、車載半導体の信頼性確保と高性能化（特にアナログ・パワー半導体）が喫緊の課題となっている。",
-      "analysis": {
-        "short_term": "車載向け信頼性テスト技術が重要。",
-        "mid_term": "次世代センサーや制御ICの共同開発が進む。",
-        "investment_implications": "車載向け実績と技術力を持つ企業が有利。"
-      },
-      "keywords": [
-        "車載",
-        "信頼性",
-        "ADAS",
-        "アナログ",
-        "パワー半導体"
-      ],
-      "companies_mentioned": [
-        "ソニー",
-        "TSMC",
-        "ローム",
-        "デンソー",
-        "東芝D&S",
-        "三菱電機"
-      ]
-    },
-    {
-      "name": "次世代半導体アーキテクチャの研究開発",
-      "confidence": 0.75,
+      "name": "チップレットと先進パッケージングの重要性増大",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "frontend",
-        "miniaturization"
+        "backend",
+        "foundry",
+        "fabless",
+        "idm"
       ],
-      "summary": "CMOS技術の限界突破を目指し、CFETやGAAFETといった新しいトランジスタ構造や2次元材料の統合に関する研究開発が活発化している。",
+      "summary": "チップレット技術はシステムレベルの課題に直面しており、協調的で反復可能な新しいワークフローと設計アプローチが求められている。",
       "analysis": {
-        "short_term": "基礎研究段階の技術動向を注視。",
-        "mid_term": "実用化に向けた材料・プロセス開発が課題。",
-        "investment_implications": "先端プロセス技術を持つファウンドリや研究機関に注目。"
+        "short_term": "チップレット設計ワークフローの確立が急務。",
+        "mid_term": "先進パッケージング技術の進化が性能向上を牽引。",
+        "investment_implications": "チップレット関連技術、パッケージングソリューション提供企業に注目。"
       },
       "keywords": [
-        "CFET",
-        "GAAFET",
-        "2次元材料",
-        "CMOS",
-        "微細化"
-      ],
-      "companies_mentioned": [
-        "SKKU",
-        "NYCU"
-      ]
-    },
-    {
-      "name": "DRAM不足がAIシステム設計に影響",
-      "confidence": 0.7,
-      "momentum": "stable",
-      "related_fields": [
-        "memory",
-        "ai",
-        "datacenter"
-      ],
-      "summary": "DRAMの供給不足と価格高騰が、AIシステム設計を大規模モデルから小規模特化型モデルへとシフトさせる要因となっている。",
-      "analysis": {
-        "short_term": "DRAM市況の動向が設計トレンドを左右。",
-        "mid_term": "特化型AIチップの需要が増加する可能性。",
-        "investment_implications": "メモリメーカーの生産能力と特化型AI関連企業に注目。"
-      },
-      "keywords": [
-        "DRAM",
-        "AI",
-        "エッジAI",
-        "特化型モデル",
-        "メモリ不足"
+        "チップレット",
+        "先進パッケージング",
+        "マルチダイ",
+        "ASIC"
       ],
       "companies_mentioned": []
+    },
+    {
+      "name": "地政学リスクとサプライチェーン再編",
+      "confidence": 0.8,
+      "momentum": "stable",
+      "related_fields": [
+        "geopolitics",
+        "memory",
+        "foundry",
+        "fabless",
+        "idm"
+      ],
+      "summary": "地政学リスクの高まりにより、メモリ調達戦略は価格だけでなく、供給継続性やコンプライアンス重視へとシフトしている。",
+      "analysis": {
+        "short_term": "地政学リスクは引き続き市場の不確実要因。",
+        "mid_term": "サプライチェーンの多様化・地域分散化が進む可能性。",
+        "investment_implications": "サプライチェーンの安定性に強みを持つ企業、地域分散化の恩恵を受ける企業。"
+      },
+      "keywords": [
+        "地政学",
+        "サプライチェーン",
+        "メモリ",
+        "リスク管理"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "先端材料と製造プロセスの革新",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "backend",
+        "industrial",
+        "automotive"
+      ],
+      "summary": "高純度アルミナや特殊接合材など、先端半導体製造に不可欠な新材料の開発が進み、製造プロセスの効率化と高性能化に貢献。",
+      "analysis": {
+        "short_term": "先端材料の供給体制強化が鍵。",
+        "mid_term": "新材料が半導体性能向上に寄与。",
+        "investment_implications": "先端材料メーカー、特殊化学品メーカーに注目。"
+      },
+      "keywords": [
+        "高純度アルミナ",
+        "接合材",
+        "先端材料",
+        "製造プロセス"
+      ],
+      "companies_mentioned": [
+        "住友化学",
+        "エレファンテック"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の回復基調（2026年3月：+79%）",
-      "AIサーバおよび車載向けコンデンサー需要の堅調さ",
-      "パワー半導体分野における技術革新と投資拡大"
+      "世界半導体市場の回復基調（前年同月比79%増）",
+      "AIサーバー、車載向けコンデンサー需要の堅調さ",
+      "イメージセンサー市場の安定成長"
     ],
     "bearish": [
-      "SiC関連の減損による大手メーカーの赤字（ローム）",
-      "メモリ市況の不透明感による一部企業の減収見込み（ソニー半導体）"
+      "SiC関連の減損による大手メーカーの赤字（ローム）"
     ],
     "neutral": [
-      "車載半導体の信頼性確保に向けた技術開発の継続",
-      "高度な半導体テストにおけるデータ基盤の課題"
+      "先端ノードにおける配線問題の顕在化",
+      "ASICプロトタイピングの重要性増大"
     ]
   },
-  "source_count": 30
+  "source_count": 35
 }

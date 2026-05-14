@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-05-14T06:33:33.278543+09:00",
+  "generated_at": "2026-05-15T06:28:07.955320+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "DFT In Automotive",
-    "summary": "車載半導体の信頼性確保の重要性が増しており、その課題は今後さらに厳しくなる。",
+    "title": "Rethinking Superjunction’s Charge-Compensation Architecture with SuperQ",
+    "summary": "SuperQは、シリコンパワーMOSFETの電荷補償アーキテクチャを再考し、ナノメートル薄膜の高誘電率フィルムを使用。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/dft-in-automotive"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/rethinking-superjunctions-charge-compensation-architecture-with-superq"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "A Comprehensive Study Of Integrating 2D Materials With CFET Architecture (SKKU, et al.)",
-        "blurb": "韓国・成均館大などの研究チームが、次世代半導体技術「CFET」への2次元材料統合に関する論文を発表。CMOS限界突破へ期待。",
+        "title": "Harnessing Artificial Intelligence For Trusted IC Signoff",
+        "blurb": "AIは半導体検証に速度と信頼性をもたらす。信頼性の高いIC設計完了のためのAI活用。",
         "category": "company",
-        "date": "2026-05-13",
+        "date": "2026-05-14",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-comprehensive-study-on-integrating-2d-materials-with-cfet-architecture-skku-et-al"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Supporting Safety Requirements from RTL Exploration Through Implementation in Semiconductor Devices (Politecnico di Torino, Synopsys)",
-        "blurb": "半導体設計の初期段階から安全要件を評価する新技術論文が発表された。自動車等での安全性向上に貢献。",
-        "category": "company",
-        "date": "2026-05-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/supporting-safety-requirements-from-rtl-exploration-through-implementation-in-semiconductor-devices-politecnico-di-torino-synopsys"
+          "url": "https://semiengineering.com/harnessing-artificial-intelligence-for-trusted-ic-signoff"
         },
         "field": {
           "primary": "general",
@@ -55,14 +37,50 @@
     ],
     "tech": [
       {
-        "title": "Silicon Photonics: Integrated Grating-Based Antennas for Optical Phased Arrays (MIT)",
-        "blurb": "MITの研究者らが、光位相アレイ向けにクロストークを低減したグレーティングアンテナを発表。コンパクトで機械的動作なしに光ビームを制御可能。",
+        "title": "Vision-Language-Action Models Arrive",
+        "blurb": "組み込み自律性を実現するAI新アーキテクチャが登場。エッジでの効率性が課題。",
         "category": "tools",
-        "date": "2026-05-13",
+        "date": "2026-05-14",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/silicon-photonics-integrated-grating-based-antennas-for-optical-phased-arrays-mit"
+          "url": "https://semiengineering.com/vision-language-action-models-arrive"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Introducing “The Architecture Speaks”",
+        "blurb": "ArmアーキテクチャのAIチャットボット「The Architecture Speaks」が登場。複雑な技術的質問に迅速に回答。",
+        "category": "tools",
+        "date": "2026-05-14",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/introducing-the-architecture-speaks"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Structured Or Unstructured Meshes: What Works Best For Turbomachinery CFD",
+        "blurb": "ターボ機械CFDにおける構造格子と非構造格子の比較。複雑なブレード形状の精度を検証。",
+        "category": "tools",
+        "date": "2026-05-14",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/structured-or-unstructured-meshes-what-works-best-for-turbomachinery-cfd"
         },
         "field": {
           "primary": "general",
@@ -75,14 +93,14 @@
     ],
     "market": [
       {
-        "title": "DFT In Automotive",
-        "blurb": "車載半導体の信頼性確保の重要性が増しており、その課題は今後さらに厳しくなる。",
+        "title": "Rethinking Superjunction’s Charge-Compensation Architecture with SuperQ",
+        "blurb": "SuperQは、シリコンパワーMOSFETの電荷補償アーキテクチャを再考し、ナノメートル薄膜の高誘電率フィルムを使用。",
         "category": "business",
-        "date": "2026-05-13",
+        "date": "2026-05-14",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/dft-in-automotive"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/rethinking-superjunctions-charge-compensation-architecture-with-superq"
         },
         "field": {
           "primary": "general",
@@ -93,14 +111,14 @@
         }
       },
       {
-        "title": "Scaling PCIe Controllers for AI Bandwidth:  A Multistream Architecture Analysis for 64 GT/s and 128 GT/s",
-        "blurb": "AI向けPCIeコントローラー、128GT/s超へ。マルチストリームアーキテクチャが最適化から必須要件へ移行。",
+        "title": "Chiplets Need A New Workflow",
+        "blurb": "チップレットのマルチダイ実装はシステムレベルの課題に直面。エンジニアリングチームは、リスクを早期に特定し、確実にスケールさせるための協調的で反復可能な方法を必要としている。",
         "category": "business",
-        "date": "2026-05-13",
+        "date": "2026-05-14",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scaling-pcie-controllers-for-ai-bandwidth-a-multistream-architecture-analysis-for-64-gt-s-and-128-gt-s"
+          "url": "https://semiengineering.com/chiplets-need-a-new-workflow"
         },
         "field": {
           "primary": "general",
@@ -111,14 +129,32 @@
         }
       },
       {
-        "title": "住友化学が高純度アルミナの事業展開加速、先端半導体向け",
-        "blurb": "住友化学は先端半導体向け高純度アルミナ「ELAシリーズ」の販売を開始し、事業展開を加速する。",
+        "title": "Gates Add Functionality, But Wires Create Problems",
+        "blurb": "先端ノードでは配線が軽視されがちだが、機能追加に伴い問題が深刻化している。",
         "category": "business",
-        "date": "2026-05-13",
+        "date": "2026-05-14",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/gates-add-functionality-but-wires-create-problems"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "レゾナック26年1Qは126.4％増益　後工程材料が絶好調",
+        "blurb": "レゾナックの26年1Qは、売上減も後工程材料などの好調で営業利益126.4%増、純利益74.6%増となった。",
+        "category": "business",
+        "date": "2026-05-14",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/13/news039.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news058.html"
         },
         "field": {
           "primary": "general",

@@ -1,50 +1,51 @@
 {
-  "generated_at": "2026-05-14T06:33:33.277496+09:00",
+  "generated_at": "2026-05-15T06:28:07.954351+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Lasers Are The Heartbeat Of The Optical AI Data Center",
-    "summary": "AIデータセンターでは、超広帯域光インターコネクトにIII-V族半導体レーザーが不可欠です。",
+    "title": "データセンター向けに245TバイトのSSD、Micronが出荷開始",
+    "summary": "Micronがデータセンター向けに245TBのSSD「6600 ION」を出荷開始。ラック数82%削減、消費電力半減。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/lasers-are-the-heartbeat-of-the-optical-ai-data-center"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news035.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Lasers Are The Heartbeat Of The Optical AI Data Center",
-        "blurb": "AIデータセンターでは、超広帯域光インターコネクトにIII-V族半導体レーザーが不可欠です。",
-        "category": "business",
-        "date": "2026-05-13",
+        "title": "Micron ships 245-TB data center SSD",
+        "blurb": "マイクロン、データセンター向けに245TB SSD「6600 ION」出荷開始。AIインフラのストレージ密度向上に貢献。",
+        "category": "company",
+        "date": "2026-05-14",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/lasers-are-the-heartbeat-of-the-optical-ai-data-center"
+          "name": "edn.com",
+          "url": "https://www.edn.com/micron-ships-245-tb-data-center-ssd"
         },
         "field": {
           "primary": "datacenter",
           "device": null,
           "process": null,
           "market": "datacenter",
-          "industry": null
+          "industry": "idm"
         }
-      },
+      }
+    ],
+    "tech": [],
+    "market": [
       {
-        "title": "Micron ships 245-TB data center SSD",
-        "blurb": "マイクロン、データセンター・AI向けに245TB SSD出荷開始。ラックあたりのストレージ密度を向上。",
+        "title": "データセンター向けに245TバイトのSSD、Micronが出荷開始",
+        "blurb": "Micronがデータセンター向けに245TBのSSD「6600 ION」を出荷開始。ラック数82%削減、消費電力半減。",
         "category": "business",
         "date": "2026-05-14",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/micron-ships-245-tb-data-center-ssd"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news035.html"
         },
         "field": {
           "primary": "datacenter",
