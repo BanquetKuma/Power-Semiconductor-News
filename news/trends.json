@@ -1,163 +1,128 @@
 {
-  "generated_at": "2026-05-15T06:28:13.288906+09:00",
-  "date": "2026-05-15",
+  "generated_at": "2026-05-16T06:25:08.613612+09:00",
+  "date": "2026-05-16",
   "meta_trends": [
     {
-      "name": "パワー半導体の高性能化と新材料",
-      "confidence": 0.95,
+      "name": "次世代パワー半導体",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "ai",
-        "industrial"
+        "industrial",
+        "ai"
       ],
-      "summary": "GaNやSiCといった新材料、高誘電率フィルムなどの技術革新により、パワー半導体の効率と性能が向上。EV、AI、ロボティクス分野で需要拡大。",
+      "summary": "SiC JFET、GaNパワーIC、SuperQアーキテクチャなど、高効率・高性能な次世代パワー半導体の開発が加速。ロボティクスやEV、AI分野での応用が期待される。",
       "analysis": {
-        "short_term": "GaN特許問題はInfineon優位。SiCはローム減損も回復基調。",
-        "mid_term": "EV、データセンター、AIインフラ向け需要は堅調に推移。",
-        "investment_implications": "GaN/SiC関連企業、高効率化技術に注目。"
+        "short_term": "SiC/GaNデバイスの採用拡大、新アーキテクチャの評価進む。",
+        "mid_term": "量産体制の確立とコスト競争力が鍵となる。",
+        "investment_implications": "関連材料、デバイスメーカーへの投資妙味。"
       },
       "keywords": [
-        "GaN",
         "SiC",
+        "GaN",
+        "JFET",
+        "MOSFET",
         "EV",
-        "AI",
-        "ロボティクス"
+        "robotics"
       ],
       "companies_mentioned": [
+        "Vishay",
         "iDEAL",
-        "Cyient",
-        "Nyobolt",
-        "Innoscience",
-        "Infineon",
-        "ローム",
-        "エレファンテック",
-        "太陽誘電"
+        "Cyient"
       ]
     },
     {
-      "name": "AIハードウェアの進化と最適化",
-      "confidence": 0.9,
+      "name": "AIハードウェアの進化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "memory",
         "datacenter",
         "logic",
-        "frontend",
-        "backend"
+        "edge"
       ],
-      "summary": "画像LLMやエッジAIの普及により、AIハードウェアはピークTOPSだけでなく、効率性や特定タスクへの最適化が重要視される。",
+      "summary": "画像LLMの登場により、エッジAIハードウェアの性能評価指標の見直しが迫られている。AIサーバー向けにはLPDDR5XやHBMに触発された新メモリ技術が登場。",
       "analysis": {
-        "short_term": "DRAM不足はエッジAIに追い風。HBMの進化も続く。",
-        "mid_term": "AIサーバー、エッジAI向けチップ、メモリ需要は引き続き堅調。",
-        "investment_implications": "AI向けメモリ、特定用途向けASIC、エッジAI関連に投資妙味。"
+        "short_term": "エッジAI向け新アーキテクチャ、AIサーバー向けメモリの評価進む。",
+        "mid_term": "AIモデルの進化とハードウェアの最適化が並行して進む。",
+        "investment_implications": "AIチップ、メモリ、エッジデバイス関連企業に注目。"
       },
       "keywords": [
         "AI",
         "LLM",
-        "エッジAI",
-        "HBM",
-        "DRAM"
-      ],
-      "companies_mentioned": [
-        "Micron",
-        "太陽誘電"
-      ]
-    },
-    {
-      "name": "チップレットと先進パッケージングの重要性増大",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "frontend",
-        "backend",
-        "foundry",
-        "fabless",
-        "idm"
-      ],
-      "summary": "チップレット技術はシステムレベルの課題に直面しており、協調的で反復可能な新しいワークフローと設計アプローチが求められている。",
-      "analysis": {
-        "short_term": "チップレット設計ワークフローの確立が急務。",
-        "mid_term": "先進パッケージング技術の進化が性能向上を牽引。",
-        "investment_implications": "チップレット関連技術、パッケージングソリューション提供企業に注目。"
-      },
-      "keywords": [
-        "チップレット",
-        "先進パッケージング",
-        "マルチダイ",
-        "ASIC"
+        "Edge AI",
+        "LPDDR5X",
+        "HBM"
       ],
       "companies_mentioned": []
     },
     {
-      "name": "地政学リスクとサプライチェーン再編",
-      "confidence": 0.8,
-      "momentum": "stable",
-      "related_fields": [
-        "geopolitics",
-        "memory",
-        "foundry",
-        "fabless",
-        "idm"
-      ],
-      "summary": "地政学リスクの高まりにより、メモリ調達戦略は価格だけでなく、供給継続性やコンプライアンス重視へとシフトしている。",
-      "analysis": {
-        "short_term": "地政学リスクは引き続き市場の不確実要因。",
-        "mid_term": "サプライチェーンの多様化・地域分散化が進む可能性。",
-        "investment_implications": "サプライチェーンの安定性に強みを持つ企業、地域分散化の恩恵を受ける企業。"
-      },
-      "keywords": [
-        "地政学",
-        "サプライチェーン",
-        "メモリ",
-        "リスク管理"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "先端材料と製造プロセスの革新",
+      "name": "チップレットと異種集積",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "backend",
-        "industrial",
-        "automotive"
+        "foundry",
+        "fabless",
+        "logic",
+        "miniaturization",
+        "equipment"
       ],
-      "summary": "高純度アルミナや特殊接合材など、先端半導体製造に不可欠な新材料の開発が進み、製造プロセスの効率化と高性能化に貢献。",
+      "summary": "チップレットのマルチダイ実装におけるシステムレベルの課題が顕在化。シリコンフォトニクス分野ではマイクロ転写印刷（MTP）による異種集積が注目されている。",
       "analysis": {
-        "short_term": "先端材料の供給体制強化が鍵。",
-        "mid_term": "新材料が半導体性能向上に寄与。",
-        "investment_implications": "先端材料メーカー、特殊化学品メーカーに注目。"
+        "short_term": "チップレット設計・検証ワークフローの改善が急務。",
+        "mid_term": "異種集積技術の成熟と標準化が進む。",
+        "investment_implications": "先端パッケージング、異種集積技術関連企業に期待。"
       },
       "keywords": [
-        "高純度アルミナ",
-        "接合材",
-        "先端材料",
-        "製造プロセス"
+        "Chiplet",
+        "Heterogeneous Integration",
+        "MTP",
+        "Silicon Photonics"
       ],
       "companies_mentioned": [
-        "住友化学",
-        "エレファンテック"
+        "imec"
+      ]
+    },
+    {
+      "name": "先端プロセスと配線課題",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "frontend",
+        "logic",
+        "equipment"
+      ],
+      "summary": "先端ノードでは機能追加の一方で、配線設計が深刻な課題となっている。配線問題の解決がチップ性能向上の鍵となる。",
+      "analysis": {
+        "short_term": "配線技術の革新が求められる。",
+        "mid_term": "新しい配線材料や構造の開発が進む。",
+        "investment_implications": "先端プロセス技術を持つファウンドリ、装置メーカーに注目。"
+      },
+      "keywords": [
+        "Advanced Node",
+        "Interconnect",
+        "Wiring",
+        "FinFET"
+      ],
+      "companies_mentioned": [
+        "UMC"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の回復基調（前年同月比79%増）",
-      "AIサーバー、車載向けコンデンサー需要の堅調さ",
-      "イメージセンサー市場の安定成長"
+      "次世代パワー半導体の需要拡大",
+      "AI関連半導体市場の成長"
     ],
     "bearish": [
-      "SiC関連の減損による大手メーカーの赤字（ローム）"
+      "先端プロセスにおける設計・製造コストの増大"
     ],
     "neutral": [
-      "先端ノードにおける配線問題の顕在化",
-      "ASICプロトタイピングの重要性増大"
+      "地政学リスクによるサプライチェーンの不確実性"
     ]
   },
-  "source_count": 35
+  "source_count": 16
 }

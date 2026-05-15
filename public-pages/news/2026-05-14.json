@@ -1,46 +1,28 @@
 {
-  "generated_at": "2026-05-15T06:28:07.951216+09:00",
+  "generated_at": "2026-05-14T06:33:33.275626+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Vishay Unveils Automotive-Grade 3000 W TVS Protection Devices",
-    "summary": "Vishayが、自動車・産業用途向けの3000W TVS保護デバイスを発表。小型パッケージとウェットフラックス対応。",
+    "title": "Renesas’ End-to-End Power Solutions for AI Data Centers",
+    "summary": "ルネサスはAIデータセンター向けに、HVDCアーキテクチャに対応したエンドツーエンドの電源ソリューションを提供。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/vishay-unveils-automotive-grade-3000-w-tvs-protection-devices"
+        "url": "https://www.powerelectronicsnews.com/renesas-end-to-end-power-solutions-for-ai-data-centers"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Power Corner: iDEAL’s SuperQ Tapping Si’s Potential Beyond Superjunction",
-        "blurb": "iDEAL社のSuperQは、シリコンMOSFETのコストパフォーマンスを再定義し、高誘電率トレンチでP-Nピラーを置き換えます。",
+        "title": "DFT In Automotive",
+        "blurb": "車載半導体の信頼性確保の重要性が増しており、その課題は今後さらに厳しくなる。",
         "category": "business",
-        "date": "2026-05-14",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-ideals-superq-tapping-sis-potential-beyond-superjunction"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Rethinking Superjunction’s Charge-Compensation Architecture with SuperQ",
-        "blurb": "SuperQは、シリコンパワーMOSFETの電荷補償アーキテクチャを再考し、ナノメートル薄膜の高誘電率フィルムを使用。",
-        "category": "business",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/rethinking-superjunctions-charge-compensation-architecture-with-superq"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/dft-in-automotive"
         },
         "field": {
           "primary": "general",
@@ -51,367 +33,117 @@
         }
       },
       {
-        "title": "Why Vision LLMs Force A Rethink Of Edge AI Hardware",
-        "blurb": "画像LLMはエッジAIハードウェアの性能評価に新たな視点を要求。ピークTOPSだけでは不十分。",
+        "title": "Lasers Are The Heartbeat Of The Optical AI Data Center",
+        "blurb": "AIデータセンターでは、超広帯域光インターコネクトにIII-V族半導体レーザーが不可欠です。",
         "category": "business",
-        "date": "2026-05-14",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-vision-llms-force-a-rethink-of-edge-ai-hardware"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "SOCAMM2: Bringing LPDDR5X Benefits To AI Servers",
-        "blurb": "SOCAMM2は、AIサーバー向けにLPDDR5Xの省エネ性能とサーバーシステムのモジュール性を両立させる。",
-        "category": "business",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/socamm2-bringing-lpddr5x-benefits-to-ai-servers"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Chiplets Need A New Workflow",
-        "blurb": "チップレットのマルチダイ実装はシステムレベルの課題に直面。エンジニアリングチームは、リスクを早期に特定し、確実にスケールさせるための協調的で反復可能な方法を必要としている。",
-        "category": "business",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chiplets-need-a-new-workflow"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Flash Getting Stacked High-Bandwidth Version",
-        "blurb": "HBMに触発されたHBFは、3DフラッシュメモリのAI効率を向上させる可能性がある。",
-        "category": "business",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/flash-getting-stacked-high-bandwidth-version"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Gates Add Functionality, But Wires Create Problems",
-        "blurb": "先端ノードでは配線が軽視されがちだが、機能追加に伴い問題が深刻化している。",
-        "category": "business",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/gates-add-functionality-but-wires-create-problems"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ASIC Prototyping — New Design Realities Demand A New Approach",
-        "blurb": "ASICプロトタイピングは、設計複雑化に対応し、検証の俊敏性とカバレッジ維持に不可欠。",
-        "category": "business",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/asic-prototyping-new-design-realities-demand-a-new-approach"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "データセンター向けに245TバイトのSSD、Micronが出荷開始",
-        "blurb": "Micronがデータセンター向けに245TBのSSD「6600 ION」を出荷開始。ラック数82%削減、消費電力半減。",
-        "category": "business",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news035.html"
+          "url": "https://semiengineering.com/lasers-are-the-heartbeat-of-the-optical-ai-data-center"
         },
         "field": {
           "primary": "datacenter",
           "device": null,
           "process": null,
           "market": "datacenter",
-          "industry": "idm"
+          "industry": null
         }
       },
       {
-        "title": "地政学が変えるメモリ調達戦略　「安く買う」だけでは危険",
-        "blurb": "地政学リスクでメモリ調達戦略が変化。安価な調達だけでなく、供給継続やコンプライアンス重視が不可欠。",
+        "title": "Scaling PCIe Controllers for AI Bandwidth:  A Multistream Architecture Analysis for 64 GT/s and 128 GT/s",
+        "blurb": "AI向けPCIeコントローラー、128GT/s超へ。マルチストリームアーキテクチャが最適化から必須要件へ移行。",
         "category": "business",
-        "date": "2026-05-14",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news085.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scaling-pcie-controllers-for-ai-bandwidth-a-multistream-architecture-analysis-for-64-gt-s-and-128-gt-s"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
-          "industry": "geopolitics"
+          "industry": null
         }
       },
       {
-        "title": "レゾナック26年1Qは126.4％増益　後工程材料が絶好調",
-        "blurb": "レゾナックの26年1Qは、売上減も後工程材料などの好調で営業利益126.4%増、純利益74.6%増となった。",
+        "title": "Blog Review: May 13",
+        "blurb": "GPUラスタライザ、再構築技術、メモリ暗号化、車載ESCなど半導体技術の最新動向をレビュー。",
         "category": "business",
-        "date": "2026-05-14",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news058.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-may-13-3"
         },
         "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
+          "primary": "logic",
+          "device": "logic",
+          "process": "frontend",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Micron Samples 256-GB DDR5 RDIMM for AI Servers",
-        "blurb": "マイクロン、AIサーバー向け256GB DDR5 RDIMMのサンプル出荷を開始。次世代AI・HPCプラットフォームをターゲットに、9,200 MT/sの高速化を実現。",
+        "title": "ミネベアミツミ26年度、売上高／営業利益ともに過去最高　14期連続で増収",
+        "blurb": "ミネベアミツミ、26年3月期は売上高・営業利益ともに過去最高を達成。14期連続増収となった。",
         "category": "business",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/micron-samples-256-gb-ddr5-rdimm-for-ai-servers"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "datacenter",
-          "industry": "idm"
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Vision-Language-Action Models Arrive",
-        "blurb": "組み込み自律性を実現するAI新アーキテクチャが登場。エッジでの効率性が課題。",
-        "category": "tools",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/vision-language-action-models-arrive"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Introducing “The Architecture Speaks”",
-        "blurb": "ArmアーキテクチャのAIチャットボット「The Architecture Speaks」が登場。複雑な技術的質問に迅速に回答。",
-        "category": "tools",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/introducing-the-architecture-speaks"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Structured Or Unstructured Meshes: What Works Best For Turbomachinery CFD",
-        "blurb": "ターボ機械CFDにおける構造格子と非構造格子の比較。複雑なブレード形状の精度を検証。",
-        "category": "tools",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/structured-or-unstructured-meshes-what-works-best-for-turbomachinery-cfd"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "How emerging robotics standards will shape next-gen automation",
-        "blurb": "次世代自動化を形成するロボティクス標準の進化。ISO/TC 299とASME MBEフレームワークの収束が不可欠。",
-        "category": "tools",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/how-emerging-robotics-standards-will-shape-next-gen-automation"
-        },
-        "field": null
-      },
-      {
-        "title": "Backup batteries and supercaps: Geriatric hardware traps",
-        "blurb": "バッテリーは寿命がある。キャパシタは充電保持時間が短い。エンジニアの課題。",
-        "category": "tools",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/backup-batteries-and-supercaps-geriatric-hardware-traps"
-        },
-        "field": null
-      },
-      {
-        "title": "Measuring G: The ultimate metrology challenge?",
-        "blurb": "重力測定は極めて困難な課題であり、最近の試みでもその難しさが再確認された。究極の計測技術への挑戦。",
-        "category": "tools",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/measuring-g-the-ultimate-metrology-challenge"
-        },
-        "field": null
-      },
-      {
-        "title": "4D vision platform enhances perimeter monitoring",
-        "blurb": "SiLC社のEyeonic Vistaは、1km超の距離で小型ターゲットを正確に検知・分類する高解像度4Dビジョンシステムです。",
-        "category": "tools",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/4d-vision-platform-enhances-perimeter-monitoring"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Cyient Launches India’s First GaN Power ICs",
-        "blurb": "サイエント社がインド初のGaNパワーICを発表。AI、通信、急速充電、e-モビリティ向けで高効率。",
-        "category": "company",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/cyient-launches-indias-first-gan-power-ics"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Harnessing Artificial Intelligence For Trusted IC Signoff",
-        "blurb": "AIは半導体検証に速度と信頼性をもたらす。信頼性の高いIC設計完了のためのAI活用。",
-        "category": "company",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/harnessing-artificial-intelligence-for-trusted-ic-signoff"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ソニーセミコンCTOに聞く――イメージセンサー技術革新の核",
-        "blurb": "ソニーセミコンダクタCTOが大池氏が、スマホ市場の変化に対応するイメージセンサー技術革新と今後の進化の方向性を語る。",
-        "category": "company",
-        "date": "2026-05-14",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/11/news104.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/13/news096.html"
+        },
+        "field": null
+      },
+      {
+        "title": "住友化学が高純度アルミナの事業展開加速、先端半導体向け",
+        "blurb": "住友化学は先端半導体向け高純度アルミナ「ELAシリーズ」の販売を開始し、事業展開を加速する。",
+        "category": "business",
+        "date": "2026-05-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/13/news039.html"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "無加圧低温接合を実現、パワー半導体向け接合材",
-        "blurb": "エレファンテックは、無加圧で高強度なパワー半導体向け接合材「SAphire D02」を開発。ダイアタッチ材やTIMとして利用可能。",
-        "category": "company",
-        "date": "2026-05-14",
+        "title": "HDD大手WDの四半期業績、売上高が4四半期連続で前期を超える",
+        "blurb": "HDD大手のWD、2026年度第3四半期の売上高が4四半期連続で前期超えを達成。",
+        "category": "business",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news034.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/13/news025.html"
         },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
+      },
+      {
+        "title": "レゾナックがハードディスクメディアの生産能力拡大",
+        "blurb": "レゾナックはシンガポール拠点でHDDメディアの生産能力を31%増強し、2027年以降に年間約2.1億枚体制へ移行する。",
+        "category": "business",
+        "date": "2026-05-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/13/news038.html"
+        },
+        "field": null
       },
       {
         "title": "Mux switches deliver wide-bandwidth signal paths",
-        "blurb": "東芝の多重/逆多重スイッチがPCIe 6.0とUSB4 v2.0に対応し、34GHzの広帯域信号パスを実現。",
-        "category": "company",
+        "blurb": "東芝の多重化/逆多重化スイッチは、PCIe 6.0とUSB4 Version 2.0に対応し、最大34GHzの帯域幅を実現します。",
+        "category": "business",
         "date": "2026-05-14",
         "stars": 3,
         "source": {
@@ -422,8 +154,8 @@
       },
       {
         "title": "Micron ships 245-TB data center SSD",
-        "blurb": "マイクロン、データセンター向けに245TB SSD「6600 ION」出荷開始。AIインフラのストレージ密度向上に貢献。",
-        "category": "company",
+        "blurb": "マイクロン、データセンター・AI向けに245TB SSD出荷開始。ラックあたりのストレージ密度を向上。",
+        "category": "business",
         "date": "2026-05-14",
         "stars": 3,
         "source": {
@@ -437,82 +169,158 @@
           "market": "datacenter",
           "industry": "idm"
         }
-      },
+      }
+    ],
+    "tools": [
       {
-        "title": "32-Gbps redriver improves in-vehicle connectivity",
-        "blurb": "Diodes社が車載コネクティビティを向上させる32Gbpsの車載用4chリドライバを発表。スマートコックピット向け。",
-        "category": "company",
-        "date": "2026-05-14",
+        "title": "Silicon Photonics: Integrated Grating-Based Antennas for Optical Phased Arrays (MIT)",
+        "blurb": "MITの研究者らが、光位相アレイ向けにクロストークを低減したグレーティングアンテナを発表。コンパクトで機械的動作なしに光ビームを制御可能。",
+        "category": "tools",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/32-gbps-redriver-improves-in-vehicle-connectivity"
-        },
-        "field": null
-      },
-      {
-        "title": "Qualcomm advances Snapdragon mid-range tiers",
-        "blurb": "QualcommがSnapdragon 6 Gen 5と4 Gen 5を発表。性能向上とバッテリー持続時間延長を実現。",
-        "category": "company",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/qualcomm-advances-snapdragon-mid-range-tiers"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/silicon-photonics-integrated-grating-based-antennas-for-optical-phased-arrays-mit"
         },
         "field": {
-          "primary": "fabless",
+          "primary": "general",
           "device": null,
           "process": null,
           "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Vishay Unveils Automotive-Grade 3000 W TVS Protection Devices",
-        "blurb": "Vishayが、自動車・産業用途向けの3000W TVS保護デバイスを発表。小型パッケージとウェットフラックス対応。",
-        "category": "company",
-        "date": "2026-05-15",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vishay-unveils-automotive-grade-3000-w-tvs-protection-devices"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
           "industry": null
         }
       },
       {
-        "title": "SiFive Upgrades P500 RISC-V IP Cores",
-        "blurb": "SiFiveが高性能RISC-V IPコア「P500」シリーズの第3世代を発表。性能向上に期待。",
-        "category": "company",
-        "date": "2026-05-15",
+        "title": "4D vision platform enhances perimeter monitoring",
+        "blurb": "SiLC社のEyeonic Vistaは、1km超の距離で小型ターゲットを正確に検知・分類する高解像度4Dビジョンシステム。",
+        "category": "tools",
+        "date": "2026-05-14",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/sifive-upgrades-p500-risc-v-ip-cores"
+          "name": "edn.com",
+          "url": "https://www.edn.com/4d-vision-platform-enhances-perimeter-monitoring"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "Renesas’ End-to-End Power Solutions for AI Data Centers",
+        "blurb": "ルネサスはAIデータセンター向けに、HVDCアーキテクチャに対応したエンドツーエンドの電源ソリューションを提供。",
+        "category": "company",
+        "date": "2026-05-13",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/renesas-end-to-end-power-solutions-for-ai-data-centers"
         },
         "field": null
       },
       {
-        "title": "Nuvoton's Strategy for Scaling Innovations at Embedded World 2026",
-        "blurb": "NuvotonはEmbedded World 2026で、MCUソリューションとNuDeveloperエコシステムを展示。量産への橋渡しとAI・自動化推進戦略を発表。",
+        "title": "A Comprehensive Study Of Integrating 2D Materials With CFET Architecture (SKKU, et al.)",
+        "blurb": "韓国・成均館大などの研究チームが、次世代半導体技術「CFET」への2次元材料統合に関する論文を発表。CMOS限界突破へ期待。",
         "category": "company",
-        "date": "2026-05-15",
+        "date": "2026-05-13",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/nuvotons-strategy-for-scaling-innovations-at-embedded-world-2026"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-comprehensive-study-on-integrating-2d-materials-with-cfet-architecture-skku-et-al"
         },
         "field": {
-          "primary": "industrial",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "industrial",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ANN Framework for Thermal-Aware Modeling of GAAFETs (NYCU)",
+        "blurb": "NYCUの研究者が、熱を考慮したGAAFETのI-V・C-V特性を同時にモデリングするニューラルネットワークフレームワークを発表しました。",
+        "category": "company",
+        "date": "2026-05-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ann-framework-for-thermal-aware-modeling-of-gaafets-nycu"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "HW-Based Image Generation Using FTJs (SNU, Sungkyunkwan U., SK hynix et al.)",
+        "blurb": "ソウル大などが強誘電体トンネル接合を用いた画像生成技術を発表。省電力化に貢献。",
+        "category": "company",
+        "date": "2026-05-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hw-based-image-generation-using-ftjs-snu-sungkyunkwan-u-sk-hynix-et-al"
+        },
+        "field": {
+          "primary": "idm",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "Supporting Safety Requirements from RTL Exploration Through Implementation in Semiconductor Devices (Politecnico di Torino, Synopsys)",
+        "blurb": "半導体設計の初期段階から安全要件を評価する新技術論文が発表された。自動車等での安全性向上に貢献。",
+        "category": "company",
+        "date": "2026-05-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/supporting-safety-requirements-from-rtl-exploration-through-implementation-in-semiconductor-devices-politecnico-di-torino-synopsys"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "パワー半導体3社連合とデンソー提携のアナログ「両軸を強化」　ローム社長",
+        "blurb": "ローム社長はデンソーとの提携でアナログ、東芝D＆S・三菱電機とのパワー半導体を強化し、企業価値最大化を目指すと述べた。",
+        "category": "company",
+        "date": "2026-05-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/13/news070.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「膿み出し切った」SiC関連減損で過去最大1584億円赤字　ローム",
+        "blurb": "ローム、SiC関連減損で過去最大の1584億円赤字。社長は「膿みは出し切った」と述べ、今後は黒字化に注力する方針。",
+        "category": "company",
+        "date": "2026-05-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/13/news069.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
