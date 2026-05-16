@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-16T06:25:08.613612+09:00",
-  "date": "2026-05-16",
+  "generated_at": "2026-05-17T06:19:10.717470+09:00",
+  "date": "2026-05-17",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体",
+      "name": "次世代パワー半導体の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -12,28 +12,31 @@
         "industrial",
         "ai"
       ],
-      "summary": "SiC JFET、GaNパワーIC、SuperQアーキテクチャなど、高効率・高性能な次世代パワー半導体の開発が加速。ロボティクスやEV、AI分野での応用が期待される。",
+      "summary": "SiC JFET、GaN、SuperQアーキテクチャなど、高効率・高性能な次世代パワー半導体の開発が加速。人型ロボットやEV、AIインフラへの応用が期待される。",
       "analysis": {
-        "short_term": "SiC/GaNデバイスの採用拡大、新アーキテクチャの評価進む。",
-        "mid_term": "量産体制の確立とコスト競争力が鍵となる。",
-        "investment_implications": "関連材料、デバイスメーカーへの投資妙味。"
+        "short_term": "SiC関連の減損処理が進み、一部企業は収益改善へ。",
+        "mid_term": "GaN、SiCの採用拡大で市場成長が続く見込み。",
+        "investment_implications": "技術革新をリードする企業に注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "JFET",
-        "MOSFET",
+        "SuperQ",
         "EV",
-        "robotics"
+        "ロボット"
       ],
       "companies_mentioned": [
         "Vishay",
         "iDEAL",
-        "Cyient"
+        "Cyient",
+        "ローム",
+        "エレファンテック",
+        "住友化学",
+        "デンソー"
       ]
     },
     {
-      "name": "AIハードウェアの進化",
+      "name": "AIハードウェアの再定義",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
@@ -43,86 +46,126 @@
         "logic",
         "edge"
       ],
-      "summary": "画像LLMの登場により、エッジAIハードウェアの性能評価指標の見直しが迫られている。AIサーバー向けにはLPDDR5XやHBMに触発された新メモリ技術が登場。",
+      "summary": "画像LLMやエッジAIの進化により、従来のピーク性能中心の評価から、効率性やリアルタイム性が重視されるように。メモリ技術も進化。",
       "analysis": {
-        "short_term": "エッジAI向け新アーキテクチャ、AIサーバー向けメモリの評価進む。",
-        "mid_term": "AIモデルの進化とハードウェアの最適化が並行して進む。",
-        "investment_implications": "AIチップ、メモリ、エッジデバイス関連企業に注目。"
+        "short_term": "エッジAI向けハードウェアの需要が増加。",
+        "mid_term": "AIモデルの多様化に対応するハードウェア競争が激化。",
+        "investment_implications": "AI特化型チップやメモリ関連企業に妙味。"
       },
       "keywords": [
-        "AI",
         "LLM",
         "Edge AI",
+        "HBM",
         "LPDDR5X",
-        "HBM"
+        "AIサーバー"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Micron",
+        "太陽誘電"
+      ]
     },
     {
-      "name": "チップレットと異種集積",
+      "name": "車載半導体の高度化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "analog",
+        "power",
+        "ai",
+        "safety"
+      ],
+      "summary": "AI、自動運転、サイバーセキュリティの進化に伴い、車載半導体には高機能化、安全性、信頼性が求められる。設計初期からの統合が鍵。",
+      "analysis": {
+        "short_term": "ADAS向けセンサーやプロセッサの需要が堅調。",
+        "mid_term": "EVシフトと自動運転技術の進展で市場拡大。",
+        "investment_implications": "高付加価値な車載半導体メーカーに注目。"
+      },
+      "keywords": [
+        "車載",
+        "ADAS",
+        "機能安全",
+        "サイバーセキュリティ",
+        "イメージセンサー"
+      ],
+      "companies_mentioned": [
+        "Vishay",
+        "ソニーセミコン",
+        "東芝",
+        "ローム",
+        "デンソー"
+      ]
+    },
+    {
+      "name": "チップレットと異種集積の進展",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
-        "fabless",
         "logic",
+        "foundry",
+        "backend",
         "miniaturization",
         "equipment"
       ],
-      "summary": "チップレットのマルチダイ実装におけるシステムレベルの課題が顕在化。シリコンフォトニクス分野ではマイクロ転写印刷（MTP）による異種集積が注目されている。",
+      "summary": "チップレットによるマルチダイ実装がシステムレベルの課題に直面。マイクロ転写印刷（MTP）などの異種集積技術が、高集積・高効率化の鍵となる。",
       "analysis": {
-        "short_term": "チップレット設計・検証ワークフローの改善が急務。",
-        "mid_term": "異種集積技術の成熟と標準化が進む。",
-        "investment_implications": "先端パッケージング、異種集積技術関連企業に期待。"
+        "short_term": "チップレット設計・検証ツールの需要が増加。",
+        "mid_term": "異種集積技術の標準化と普及が進む。",
+        "investment_implications": "チップレット関連技術やファウンドリに機会。"
       },
       "keywords": [
-        "Chiplet",
-        "Heterogeneous Integration",
+        "チップレット",
+        "異種集積",
         "MTP",
-        "Silicon Photonics"
+        "マルチダイ"
       ],
       "companies_mentioned": [
+        "UMC",
+        "Ghent U.",
         "imec"
       ]
     },
     {
-      "name": "先端プロセスと配線課題",
+      "name": "地政学リスクとサプライチェーン再編",
       "confidence": 0.7,
-      "momentum": "rising",
+      "momentum": "stable",
       "related_fields": [
+        "geopolitics",
         "foundry",
+        "memory",
         "frontend",
-        "logic",
-        "equipment"
+        "backend"
       ],
-      "summary": "先端ノードでは機能追加の一方で、配線設計が深刻な課題となっている。配線問題の解決がチップ性能向上の鍵となる。",
+      "summary": "地政学リスクの高まりを受け、メモリ調達戦略は価格だけでなく、供給継続性やコンプライアンス重視へとシフト。国内生産やサプライチェーンの多様化が進む。",
       "analysis": {
-        "short_term": "配線技術の革新が求められる。",
-        "mid_term": "新しい配線材料や構造の開発が進む。",
-        "investment_implications": "先端プロセス技術を持つファウンドリ、装置メーカーに注目。"
+        "short_term": "一部地域での生産停止リスクが意識される。",
+        "mid_term": "サプライチェーンの再構築が進み、新たなプレイヤーが登場。",
+        "investment_implications": "サプライチェーンの安定性に強みを持つ企業を評価。"
       },
       "keywords": [
-        "Advanced Node",
-        "Interconnect",
-        "Wiring",
-        "FinFET"
+        "地政学リスク",
+        "サプライチェーン",
+        "メモリ調達",
+        "国内生産"
       ],
       "companies_mentioned": [
-        "UMC"
+        "Micron",
+        "レゾナック"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体の需要拡大",
-      "AI関連半導体市場の成長"
+      "世界半導体市場の回復基調（前年同月比79%増）",
+      "日本市場のプラス成長転換",
+      "AI、車載、産業機器向け需要の堅調さ"
     ],
     "bearish": [
-      "先端プロセスにおける設計・製造コストの増大"
+      "SiC関連の減損処理による一部企業の赤字拡大"
     ],
     "neutral": [
-      "地政学リスクによるサプライチェーンの不確実性"
+      "先端ノードにおける配線問題の顕在化"
     ]
   },
-  "source_count": 16
+  "source_count": 32
 }
