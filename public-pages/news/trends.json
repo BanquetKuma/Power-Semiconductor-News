@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:19:10.717470+09:00",
-  "date": "2026-05-17",
+  "generated_at": "2026-05-18T06:20:32.182197+09:00",
+  "date": "2026-05-18",
   "meta_trends": [
     {
       "name": "次世代パワー半導体の進化",
@@ -12,18 +12,18 @@
         "industrial",
         "ai"
       ],
-      "summary": "SiC JFET、GaN、SuperQアーキテクチャなど、高効率・高性能な次世代パワー半導体の開発が加速。人型ロボットやEV、AIインフラへの応用が期待される。",
+      "summary": "SiCやGaNといった次世代パワー半導体の採用が拡大。人型ロボットやEV、AIインフラなど多様な分野で高効率化・小型化に貢献。",
       "analysis": {
         "short_term": "SiC関連の減損処理が進み、一部企業は収益改善へ。",
-        "mid_term": "GaN、SiCの採用拡大で市場成長が続く見込み。",
-        "investment_implications": "技術革新をリードする企業に注目。"
+        "mid_term": "EV、再生可能エネルギー、AIデータセンター需要が牽引。",
+        "investment_implications": "技術力のあるメーカーへの投資妙味増す。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "SuperQ",
         "EV",
-        "ロボット"
+        "ロボット",
+        "AI"
       ],
       "companies_mentioned": [
         "Vishay",
@@ -32,7 +32,9 @@
         "ローム",
         "エレファンテック",
         "住友化学",
-        "デンソー"
+        "デンソー",
+        "三菱電機",
+        "東芝"
       ]
     },
     {
@@ -43,21 +45,20 @@
         "ai",
         "memory",
         "datacenter",
-        "logic",
-        "edge"
+        "logic"
       ],
-      "summary": "画像LLMやエッジAIの進化により、従来のピーク性能中心の評価から、効率性やリアルタイム性が重視されるように。メモリ技術も進化。",
+      "summary": "画像LLMやエッジAIの進化により、従来のピーク性能だけでなく、効率性やリアルタイム性が重視されるように。",
       "analysis": {
-        "short_term": "エッジAI向けハードウェアの需要が増加。",
-        "mid_term": "AIモデルの多様化に対応するハードウェア競争が激化。",
-        "investment_implications": "AI特化型チップやメモリ関連企業に妙味。"
+        "short_term": "エッジAI向けハードウェア開発が加速。",
+        "mid_term": "DRAM不足が小規模・特化型モデルやエッジAIに追い風。",
+        "investment_implications": "AI処理の効率化に貢献する技術・製品に注目。"
       },
       "keywords": [
+        "AI",
         "LLM",
-        "Edge AI",
-        "HBM",
-        "LPDDR5X",
-        "AIサーバー"
+        "エッジAI",
+        "DRAM",
+        "ハードウェア"
       ],
       "companies_mentioned": [
         "Micron",
@@ -72,55 +73,57 @@
         "automotive",
         "analog",
         "power",
-        "ai",
-        "safety"
+        "ai"
       ],
-      "summary": "AI、自動運転、サイバーセキュリティの進化に伴い、車載半導体には高機能化、安全性、信頼性が求められる。設計初期からの統合が鍵。",
+      "summary": "AI、自動運転、サイバーセキュリティの進展により、車載半導体には高度な性能、信頼性、安全性が求められる。",
       "analysis": {
-        "short_term": "ADAS向けセンサーやプロセッサの需要が堅調。",
-        "mid_term": "EVシフトと自動運転技術の進展で市場拡大。",
-        "investment_implications": "高付加価値な車載半導体メーカーに注目。"
+        "short_term": "機能安全・サイバーセキュリティ対応が重要視される。",
+        "mid_term": "EV化とADAS/自動運転の普及が需要を牽引。",
+        "investment_implications": "車載向け技術を持つアナログ・パワー半導体メーカーに期待。"
       },
       "keywords": [
-        "車載",
-        "ADAS",
+        "車載半導体",
+        "AI",
+        "自動運転",
         "機能安全",
-        "サイバーセキュリティ",
-        "イメージセンサー"
+        "サイバーセキュリティ"
       ],
       "companies_mentioned": [
         "Vishay",
         "ソニーセミコン",
-        "東芝",
         "ローム",
-        "デンソー"
+        "デンソー",
+        "三菱電機",
+        "東芝"
       ]
     },
     {
-      "name": "チップレットと異種集積の進展",
+      "name": "先端パッケージング技術の重要性増大",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "foundry",
         "backend",
-        "miniaturization",
-        "equipment"
+        "logic",
+        "memory",
+        "ai",
+        "foundry"
       ],
-      "summary": "チップレットによるマルチダイ実装がシステムレベルの課題に直面。マイクロ転写印刷（MTP）などの異種集積技術が、高集積・高効率化の鍵となる。",
+      "summary": "チップレット技術の普及やHBMの進化により、チップレット間の連携や高密度実装を可能にするパッケージング技術が不可欠に。",
       "analysis": {
-        "short_term": "チップレット設計・検証ツールの需要が増加。",
-        "mid_term": "異種集積技術の標準化と普及が進む。",
-        "investment_implications": "チップレット関連技術やファウンドリに機会。"
+        "short_term": "チップレットのワークフロー改善が急務。",
+        "mid_term": "高帯域幅メモリ(HBM)の進化がAI性能を向上。",
+        "investment_implications": "先端パッケージング関連企業への投資機会。"
       },
       "keywords": [
         "チップレット",
+        "パッケージング",
+        "HBM",
         "異種集積",
-        "MTP",
-        "マルチダイ"
+        "MTP"
       ],
       "companies_mentioned": [
         "UMC",
+        "レゾナック",
         "Ghent U.",
         "imec"
       ]
@@ -133,39 +136,41 @@
         "geopolitics",
         "foundry",
         "memory",
-        "frontend",
-        "backend"
+        "equipment"
       ],
-      "summary": "地政学リスクの高まりを受け、メモリ調達戦略は価格だけでなく、供給継続性やコンプライアンス重視へとシフト。国内生産やサプライチェーンの多様化が進む。",
+      "summary": "地政学リスクの高まりを受け、メモリ調達戦略はコストだけでなく、供給安定性やコンプライアンス重視へとシフト。",
       "analysis": {
-        "short_term": "一部地域での生産停止リスクが意識される。",
-        "mid_term": "サプライチェーンの再構築が進み、新たなプレイヤーが登場。",
-        "investment_implications": "サプライチェーンの安定性に強みを持つ企業を評価。"
+        "short_term": "一部地域への依存リスクが顕在化。",
+        "mid_term": "サプライチェーンの多様化・国内回帰が進む可能性。",
+        "investment_implications": "地政学リスクに強いサプライチェーンを持つ企業を評価。"
       },
       "keywords": [
         "地政学リスク",
         "サプライチェーン",
-        "メモリ調達",
-        "国内生産"
+        "メモリ",
+        "調達戦略",
+        "ASML"
       ],
       "companies_mentioned": [
-        "Micron",
-        "レゾナック"
+        "タタ",
+        "ASML"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
       "世界半導体市場の回復基調（前年同月比79%増）",
-      "日本市場のプラス成長転換",
-      "AI、車載、産業機器向け需要の堅調さ"
+      "日本市場のプラス成長への転換",
+      "AI、EV、ロボット関連の需要拡大"
     ],
     "bearish": [
-      "SiC関連の減損処理による一部企業の赤字拡大"
+      "SiC関連の減損処理による一部企業の赤字拡大（ローム）",
+      "先端ノードにおける配線設計の課題深刻化"
     ],
     "neutral": [
-      "先端ノードにおける配線問題の顕在化"
+      "画像LLMの登場によるエッジAIハードウェアの評価基準変化",
+      "DRAM不足によるAIシステム設計のシフト"
     ]
   },
-  "source_count": 32
+  "source_count": 39
 }
