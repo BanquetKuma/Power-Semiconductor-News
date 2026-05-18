@@ -1,32 +1,160 @@
 {
-  "generated_at": "2026-05-18T06:20:26.542032+09:00",
+  "generated_at": "2026-05-19T06:29:18.014389+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)",
-    "summary": "マイクロ転写印刷（MTP）がシリコンフォトニクス分野での異種集積に有望なスケーラブルなアプローチとして注目されている。",
+    "title": "A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)",
+    "summary": "サファイア基板上の2D材料を大量転写する新技術が発表。将来のエレクトロニクス応用が期待される。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/micro-transfer-printing-mtp-as-a-promising-scalable-approach-to-heterogeneous-integration-for-silicon-photonics-ghent-u-imec-et-al"
+        "url": "https://semiengineering.com/a-deionized-water-based-large-scale-transfer-process-for-2d-materials-grown-on-sapphire-amo-rwth-aixtron"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)",
-        "blurb": "マイクロ転写印刷（MTP）がシリコンフォトニクス分野での異種集積に有望なスケーラブルなアプローチとして注目されている。",
-        "category": "business",
-        "date": "2026-05-16",
+        "title": "iPhone好調で過去最高も、「世界一」維持へ動くソニー半導体",
+        "blurb": "iPhone需要好調で過去最高業績のソニー半導体。競争激化を見据え、構造転換を進める。",
+        "category": "company",
+        "date": "2026-05-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news060.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "サンケン電気26年3月期は赤字転落　中国の「自前主義」響く",
+        "blurb": "サンケン電気、26年3月期は中国の半導体シフト等で98億円の赤字転落。前期は509億円の黒字だった。",
+        "category": "company",
+        "date": "2026-05-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news077.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)",
+        "blurb": "サファイア基板上の2D材料を大量転写する新技術が発表。将来のエレクトロニクス応用が期待される。",
+        "category": "company",
+        "date": "2026-05-19",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/micro-transfer-printing-mtp-as-a-promising-scalable-approach-to-heterogeneous-integration-for-silicon-photonics-ghent-u-imec-et-al"
+          "url": "https://semiengineering.com/a-deionized-water-based-large-scale-transfer-process-for-2d-materials-grown-on-sapphire-amo-rwth-aixtron"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Scalable Photomask Optimization With Morphological Learning  (SUNY Buffalo, VU, IBM)",
+        "blurb": "IBMなどが、微細化に対応するフォトマスク最適化技術「MorphOPC」を発表。ナノスケールでの回路パターン転写精度向上に貢献。",
+        "category": "company",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scalable-photomask-optimization-with-morphological-learning-suny-buffalo-vu-ibm"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Workflow-Level Design For Trustworthy GenAI Integration in Vehicles (UOL, Denso)",
+        "blurb": "デンソーと独オルデンブルク大学が、自動車システム工学における信頼性の高い生成AI統合のためのワークフロー設計原則を発表しました。",
+        "category": "company",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/workflow-level-design-for-trustworthy-genai-integration-in-vehicle-systems-uol-denso"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "AIの「トンデモ判断」で本番DBが全飛び！　他山の石にしたいAIコーディングの落とし穴",
+        "blurb": "AI開発支援ツールが本番DBを誤って削除。AI活用時のリスクを製造業技術者に警告。",
+        "category": "tools",
+        "date": "2026-05-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news020.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Evaluating and Calibrating Performance On RISC-V Vector Processors (KTH, LLNL, BSC)",
+        "blurb": "RISC-Vベクトル拡張の性能評価と調整に関する技術論文が発表された。科学・機械学習ワークロードでの性能向上が期待される。",
+        "category": "tools",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/evaluating-and-calibrating-performance-on-risc-v-vector-processors-kth-llnl-bsc"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Confusion Grows With More Interconnect Options And Tradeoffs",
+        "blurb": "チップ設計者は複数のインターコネクト規格を使い分ける必要があり、選択肢の増加とトレードオフによる混乱が生じている。",
+        "category": "business",
+        "date": "2026-05-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/confusion-grows-with-more-interconnect-options-and-tradeoffs"
         },
         "field": {
           "primary": "general",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T06:20:32.182197+09:00",
-  "date": "2026-05-18",
+  "generated_at": "2026-05-19T06:29:24.166789+09:00",
+  "date": "2026-05-19",
   "meta_trends": [
     {
       "name": "次世代パワー半導体の進化",
@@ -12,61 +12,58 @@
         "industrial",
         "ai"
       ],
-      "summary": "SiCやGaNといった次世代パワー半導体の採用が拡大。人型ロボットやEV、AIインフラなど多様な分野で高効率化・小型化に貢献。",
+      "summary": "SiC JFETやGaNパワーIC、SuperQ技術など、高効率・高耐圧・小型化を実現する次世代パワー半導体の開発が加速。EV、AI、ロボティクス分野での応用が拡大。",
       "analysis": {
-        "short_term": "SiC関連の減損処理が進み、一部企業は収益改善へ。",
-        "mid_term": "EV、再生可能エネルギー、AIデータセンター需要が牽引。",
-        "investment_implications": "技術力のあるメーカーへの投資妙味増す。"
+        "short_term": "SiC/GaN需要は堅調に推移。",
+        "mid_term": "新技術の量産化とコスト競争が鍵。",
+        "investment_implications": "関連材料・製造装置メーカーにも注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "ロボット",
-        "AI"
+        "AI",
+        "SuperQ"
       ],
       "companies_mentioned": [
+        "旭化成",
         "Vishay",
         "iDEAL",
         "Cyient",
-        "ローム",
-        "エレファンテック",
-        "住友化学",
-        "デンソー",
-        "三菱電機",
-        "東芝"
+        "エレファンテック"
       ]
     },
     {
-      "name": "AIハードウェアの再定義",
+      "name": "AI・データセンター向け需要拡大",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "memory",
         "datacenter",
+        "memory",
         "logic"
       ],
-      "summary": "画像LLMやエッジAIの進化により、従来のピーク性能だけでなく、効率性やリアルタイム性が重視されるように。",
+      "summary": "画像LLM対応やAIサーバー向けメモリ、大容量SSDなど、AI処理能力向上とデータセンターの効率化を支える半導体需要が拡大。",
       "analysis": {
-        "short_term": "エッジAI向けハードウェア開発が加速。",
-        "mid_term": "DRAM不足が小規模・特化型モデルやエッジAIに追い風。",
-        "investment_implications": "AI処理の効率化に貢献する技術・製品に注目。"
+        "short_term": "AIチップ・メモリ需要は引き続き高水準。",
+        "mid_term": "エッジAIハードウェアの性能評価基準の変化に対応。",
+        "investment_implications": "AI特化型半導体・メモリメーカーに妙味。"
       },
       "keywords": [
         "AI",
         "LLM",
-        "エッジAI",
-        "DRAM",
-        "ハードウェア"
+        "SSD",
+        "メモリ",
+        "データセンター"
       ],
       "companies_mentioned": [
+        "Meta",
         "Micron",
-        "太陽誘電"
+        "フローディア"
       ]
     },
     {
-      "name": "車載半導体の高度化",
+      "name": "車載半導体の高度化と多様化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
@@ -75,57 +72,58 @@
         "power",
         "ai"
       ],
-      "summary": "AI、自動運転、サイバーセキュリティの進展により、車載半導体には高度な性能、信頼性、安全性が求められる。",
+      "summary": "EV向け電流センサー、車載用TVS保護デバイス、生成AIの車載システム統合など、安全性・知能化・電動化に対応する車載半導体の開発が進展。",
       "analysis": {
-        "short_term": "機能安全・サイバーセキュリティ対応が重要視される。",
-        "mid_term": "EV化とADAS/自動運転の普及が需要を牽引。",
-        "investment_implications": "車載向け技術を持つアナログ・パワー半導体メーカーに期待。"
+        "short_term": "EVシフトに伴う車載センサー需要は堅調。",
+        "mid_term": "自動運転・コネクテッド技術の進化が鍵。",
+        "investment_implications": "高信頼性・高機能な車載半導体メーカーに注目。"
       },
       "keywords": [
-        "車載半導体",
-        "AI",
-        "自動運転",
-        "機能安全",
-        "サイバーセキュリティ"
+        "EV",
+        "車載センサー",
+        "TVS",
+        "生成AI",
+        "自動運転"
       ],
       "companies_mentioned": [
+        "旭化成",
         "Vishay",
-        "ソニーセミコン",
-        "ローム",
         "デンソー",
-        "三菱電機",
-        "東芝"
+        "ソニーセミコンダクタ"
       ]
     },
     {
-      "name": "先端パッケージング技術の重要性増大",
+      "name": "先端製造技術の革新と異種集積",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
+        "frontend",
         "backend",
-        "logic",
-        "memory",
-        "ai",
-        "foundry"
+        "foundry",
+        "miniaturization",
+        "equipment"
       ],
-      "summary": "チップレット技術の普及やHBMの進化により、チップレット間の連携や高密度実装を可能にするパッケージング技術が不可欠に。",
+      "summary": "2D材料の大量転写、マイクロ転写印刷、フォトマスク最適化など、微細化・高集積化を実現する先端製造技術や異種集積技術の開発が進む。",
       "analysis": {
-        "short_term": "チップレットのワークフロー改善が急務。",
-        "mid_term": "高帯域幅メモリ(HBM)の進化がAI性能を向上。",
-        "investment_implications": "先端パッケージング関連企業への投資機会。"
+        "short_term": "先端プロセス技術への投資は継続。",
+        "mid_term": "異種集積技術の歩留まり・コストが課題。",
+        "investment_implications": "先端製造装置・材料メーカーに機会。"
       },
       "keywords": [
-        "チップレット",
-        "パッケージング",
-        "HBM",
+        "2D材料",
         "異種集積",
-        "MTP"
+        "フォトマスク",
+        "マイクロ転写印刷",
+        "先端製造"
       ],
       "companies_mentioned": [
-        "UMC",
-        "レゾナック",
+        "AMO",
+        "RWTH",
+        "Aixtron",
         "Ghent U.",
-        "imec"
+        "imec",
+        "IBM",
+        "Patentix"
       ]
     },
     {
@@ -136,41 +134,45 @@
         "geopolitics",
         "foundry",
         "memory",
-        "equipment"
+        "general"
       ],
-      "summary": "地政学リスクの高まりを受け、メモリ調達戦略はコストだけでなく、供給安定性やコンプライアンス重視へとシフト。",
+      "summary": "地政学リスクの高まりを受け、メモリ調達戦略は最安値追求から供給継続・コンプライアンス重視へとシフト。国内回帰やサプライヤー分散の動きも。",
       "analysis": {
-        "short_term": "一部地域への依存リスクが顕在化。",
-        "mid_term": "サプライチェーンの多様化・国内回帰が進む可能性。",
-        "investment_implications": "地政学リスクに強いサプライチェーンを持つ企業を評価。"
+        "short_term": "地政学リスクによる調達制約は継続。",
+        "mid_term": "サプライチェーンの安定化が最優先事項に。",
+        "investment_implications": "国内・地域サプライヤーの重要性が増す。"
       },
       "keywords": [
         "地政学リスク",
         "サプライチェーン",
-        "メモリ",
-        "調達戦略",
+        "メモリ調達",
+        "国内回帰",
         "ASML"
       ],
       "companies_mentioned": [
         "タタ",
-        "ASML"
+        "ASML",
+        "UMC",
+        "サンケン電気",
+        "住友化学",
+        "レゾナック"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の回復基調（前年同月比79%増）",
-      "日本市場のプラス成長への転換",
-      "AI、EV、ロボット関連の需要拡大"
+      "AI・データセンター向け半導体需要の旺盛さ",
+      "EV・車載半導体市場の成長性",
+      "SiC/GaNパワー半導体の採用拡大"
     ],
     "bearish": [
-      "SiC関連の減損処理による一部企業の赤字拡大（ローム）",
-      "先端ノードにおける配線設計の課題深刻化"
+      "中国の半導体自前主義による一部メーカーへの影響",
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "画像LLMの登場によるエッジAIハードウェアの評価基準変化",
-      "DRAM不足によるAIシステム設計のシフト"
+      "先端製造技術の歩留まり・コスト課題",
+      "インターコネクト規格の多様化による設計の複雑化"
     ]
   },
-  "source_count": 39
+  "source_count": 31
 }

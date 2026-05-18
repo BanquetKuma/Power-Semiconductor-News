@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-05-15T06:28:07.953609+09:00",
+  "generated_at": "2026-05-19T06:29:18.013246+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ASIC Prototyping — New Design Realities Demand A New Approach",
-    "summary": "ASICプロトタイピングは、設計複雑化に対応し、検証の俊敏性とカバレッジ維持に不可欠。",
+    "title": "HW-Native, GPU Compiler for Large-scale ML Production Systems (UC San Diego, Meta)",
+    "summary": "UCサンディエゴとMetaの研究者が大規模ML向けGPUコンパイラ「TLX」を発表。ハードウェア最適化で性能向上を目指す。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/asic-prototyping-new-design-realities-demand-a-new-approach"
+        "url": "https://semiengineering.com/hw-native-gpu-compiler-for-large-scale-ml-production-systems-uc-san-diego-meta"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "ASIC Prototyping — New Design Realities Demand A New Approach",
-        "blurb": "ASICプロトタイピングは、設計複雑化に対応し、検証の俊敏性とカバレッジ維持に不可欠。",
-        "category": "business",
-        "date": "2026-05-14",
+        "title": "HW-Native, GPU Compiler for Large-scale ML Production Systems (UC San Diego, Meta)",
+        "blurb": "UCサンディエゴとMetaの研究者が大規模ML向けGPUコンパイラ「TLX」を発表。ハードウェア最適化で性能向上を目指す。",
+        "category": "company",
+        "date": "2026-05-19",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/asic-prototyping-new-design-realities-demand-a-new-approach"
+          "url": "https://semiengineering.com/hw-native-gpu-compiler-for-large-scale-ml-production-systems-uc-san-diego-meta"
         },
         "field": {
           "primary": "logic",
@@ -36,6 +34,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }
