@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T06:29:18.013246+09:00",
+  "generated_at": "2026-05-20T06:33:16.913922+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
@@ -15,11 +15,12 @@
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
         "title": "HW-Native, GPU Compiler for Large-scale ML Production Systems (UC San Diego, Meta)",
         "blurb": "UCサンディエゴとMetaの研究者が大規模ML向けGPUコンパイラ「TLX」を発表。ハードウェア最適化で性能向上を目指す。",
-        "category": "company",
+        "category": "tools",
         "date": "2026-05-19",
         "stars": 3,
         "source": {
@@ -35,7 +36,43 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "アドバンテストがシーメンスのサーバ技術採用",
+        "blurb": "アドバンテストのSoCテストシステム「T2000」にシーメンス製サーバPCが採用。テスト時間短縮、拡張性・安全性向上に貢献。",
+        "category": "business",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/19/news033.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GPUs: A high-throughput architecture confronting a workload shift",
+        "blurb": "GPUは、AIワークロードの変化に対応するため、高スループットアーキテクチャの進化が求められています。",
+        "category": "business",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/gpus-a-high-throughput-architecture-confronting-a-workload-shift"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

@@ -1,46 +1,28 @@
 {
-  "generated_at": "2026-05-19T06:29:18.011737+09:00",
+  "generated_at": "2026-05-18T06:20:26.541190+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "SiC JFET Advantages in Power Distribution Protection Circuits: Part 2—Hot-Swap Protection",
-    "summary": "SiC JFETは、800VDCホットスワップ回路保護において、優れた熱安定性、広いSOA、低いRDS(ON)を提供します。",
+    "title": "TAIYO YUDEN Introduces Miniaturized Power Inductors",
+    "summary": "太陽誘電が小型パワーインダクタを発表。ウェアラブルやスマホ向けで、基板面積を削減しつつ高電流に対応。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-2-sccbs"
+        "url": "https://www.powerelectronicsnews.com/taiyo-yuden-introduces-miniaturized-power-inductors"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "SiC JFET Advantages in Power Distribution Protection Circuits: Part 2—Hot-Swap Protection",
-        "blurb": "SiC JFETは、800VDCホットスワップ回路保護において、優れた熱安定性、広いSOA、低いRDS(ON)を提供します。",
+        "title": "Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)",
+        "blurb": "マイクロ転写印刷（MTP）がシリコンフォトニクス分野での異種集積に有望なスケーラブルなアプローチとして注目されている。",
         "category": "business",
-        "date": "2026-05-18",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-2-sccbs"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Confusion Grows With More Interconnect Options And Tradeoffs",
-        "blurb": "チップ設計者は複数のインターコネクト規格を使い分ける必要があり、選択肢の増加とトレードオフによる混乱が生じている。",
-        "category": "business",
-        "date": "2026-05-18",
+        "date": "2026-05-16",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/confusion-grows-with-more-interconnect-options-and-tradeoffs"
+          "url": "https://semiengineering.com/micro-transfer-printing-mtp-as-a-promising-scalable-approach-to-heterogeneous-integration-for-silicon-photonics-ghent-u-imec-et-al"
         },
         "field": {
           "primary": "general",
@@ -49,230 +31,62 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "加賀電子が新光商事にTOB、完全子会社化へ",
-        "blurb": "加賀電子は新光商事を完全子会社化するため、46億円規模でTOBを実施すると発表した。",
-        "category": "business",
-        "date": "2026-05-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news055.html"
-        },
-        "field": null
-      },
-      {
-        "title": "キオクシア25年度 驚異の決算　Q4純利益は前年比30倍",
-        "blurb": "キオクシアHD、2025年度通期売上高は過去最高。Q4純利益は前年比30倍と驚異的な業績を達成。",
-        "category": "business",
-        "date": "2026-05-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news047.html"
-        },
-        "field": null
       }
     ],
     "tools": [
       {
-        "title": "AIの「トンデモ判断」で本番DBが全飛び！　他山の石にしたいAIコーディングの落とし穴",
-        "blurb": "AI開発支援ツールが本番DBを誤って削除。AI活用時のリスクを製造業技術者に警告。",
+        "title": "Firmware Testing, LPWAN for IIoT, MIPI's Launch of Physical AI BoF: Embedded Week Insights",
+        "blurb": "ファームウェアテスト、IIoT向けLPWAN、MIPIの物理AI BoFなど、組み込み技術の最新動向をまとめた記事。",
         "category": "tools",
-        "date": "2026-05-18",
+        "date": "2026-05-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news020.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/firmware-testing-lpwan-for-iiot-mipis-launch-of-physical-ai-bof-embedded-week-insights"
         },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Evaluating and Calibrating Performance On RISC-V Vector Processors (KTH, LLNL, BSC)",
-        "blurb": "RISC-Vベクトル拡張の性能評価と調整に関する技術論文が発表された。科学・機械学習ワークロードでの性能向上が期待される。",
-        "category": "tools",
-        "date": "2026-05-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/evaluating-and-calibrating-performance-on-risc-v-vector-processors-kth-llnl-bsc"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       }
     ],
     "company": [
       {
-        "title": "Asahi Kasei Expands EV Sensor Portfolio With CZ3K Series",
-        "blurb": "旭化成、EV向け高精度電流センサー「CZ3K」シリーズを発表。小型・高出力車載システムに対応。",
+        "title": "TAIYO YUDEN Introduces Miniaturized Power Inductors",
+        "blurb": "太陽誘電が小型パワーインダクタを発表。ウェアラブルやスマホ向けで、基板面積を削減しつつ高電流に対応。",
         "category": "company",
-        "date": "2026-05-18",
+        "date": "2026-05-16",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/asahi-kasei-expands-ev-sensor-portfolio-with-cz3k-series"
+          "url": "https://www.powerelectronicsnews.com/taiyo-yuden-introduces-miniaturized-power-inductors"
         },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "iPhone好調で過去最高も、「世界一」維持へ動くソニー半導体",
-        "blurb": "iPhone需要好調で過去最高業績のソニー半導体。競争激化を見据え、構造転換を進める。",
+        "title": "NXP, Quanta Simplify Deployment of Zonal Vehicle Architectures",
+        "blurb": "NXPとQuantaが協業し、ソフトウェア定義車両アーキテクチャの展開を簡素化するゾーン別ネットワーキングを実現。",
         "category": "company",
-        "date": "2026-05-18",
+        "date": "2026-05-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news060.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nxp-quanta-simplify-deployment-of-zonal-vehicle-architectures"
+        },
+        "field": null
+      },
+      {
+        "title": "AAEON Intelli TWL01 Edge Industrial Mini-PC with Dual 4K Output",
+        "blurb": "AAEONが新産業用ミニPC「Intelli TWL01」を発表。デュアル4K出力、高性能CPU搭載。",
+        "category": "company",
+        "date": "2026-05-16",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/aaeon-intelli-twl01-edge-industrial-mini-pc-with-dual-4k-output"
         },
         "field": {
-          "primary": "general",
+          "primary": "industrial",
           "device": null,
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "超低電力でAI処理、nvACiM向けメモリ開発 フローディアら",
-        "blurb": "フローディアらは、超低電力でAI処理が可能な不揮発性アナログメモリ技術を開発。ロボットやドローン等への応用で高性能化・省エネ化・小型化に貢献。",
-        "category": "company",
-        "date": "2026-05-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news025.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "サンケン電気26年3月期は赤字転落　中国の「自前主義」響く",
-        "blurb": "サンケン電気、26年3月期は中国の半導体シフト等で98億円の赤字転落。前期は509億円の黒字だった。",
-        "category": "company",
-        "date": "2026-05-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news077.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "r-GeO2単結晶膜を6インチSi基板上に形成、Patentix",
-        "blurb": "立命館大発PatentixがSi基板上にr-GeO2単結晶膜形成に成功。6インチ基板対応装置も開発。",
-        "category": "company",
-        "date": "2026-05-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/18/news024.html"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)",
-        "blurb": "サファイア基板上の2D材料を大量転写する新技術が発表。将来のエレクトロニクス応用が期待される。",
-        "category": "company",
-        "date": "2026-05-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-deionized-water-based-large-scale-transfer-process-for-2d-materials-grown-on-sapphire-amo-rwth-aixtron"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Scalable Photomask Optimization With Morphological Learning  (SUNY Buffalo, VU, IBM)",
-        "blurb": "IBMなどが、微細化に対応するフォトマスク最適化技術「MorphOPC」を発表。ナノスケールでの回路パターン転写精度向上に貢献。",
-        "category": "company",
-        "date": "2026-05-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scalable-photomask-optimization-with-morphological-learning-suny-buffalo-vu-ibm"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Workflow-Level Design For Trustworthy GenAI Integration in Vehicles (UOL, Denso)",
-        "blurb": "デンソーと独オルデンブルク大学が、自動車システム工学における信頼性の高い生成AI統合のためのワークフロー設計原則を発表しました。",
-        "category": "company",
-        "date": "2026-05-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/workflow-level-design-for-trustworthy-genai-integration-in-vehicle-systems-uol-denso"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "HW-Native, GPU Compiler for Large-scale ML Production Systems (UC San Diego, Meta)",
-        "blurb": "UCサンディエゴとMetaの研究者が大規模ML向けGPUコンパイラ「TLX」を発表。ハードウェア最適化で性能向上を目指す。",
-        "category": "company",
-        "date": "2026-05-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hw-native-gpu-compiler-for-large-scale-ml-production-systems-uc-san-diego-meta"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
       }
