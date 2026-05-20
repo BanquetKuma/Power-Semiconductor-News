@@ -1,38 +1,75 @@
 {
-  "generated_at": "2026-05-20T06:33:16.913475+09:00",
+  "generated_at": "2026-05-21T06:36:31.674216+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "25年の世界半導体材料市場は過去最高に、HBM投資など背景",
-    "summary": "2025年の世界半導体材料市場は、HBM投資などを背景に過去最高の732億ドルに達する見込み。前年比6.8%増。",
+    "title": "Four-Tier Memory Hierarchy for LLM Reasoning (USC, UW)",
+    "summary": "USCとウィスコンシン大学マディソン校の研究者が、LLM推論のための4層メモリ階層を提案。KVキャッシュ管理を効率化し、推論性能を向上させる。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/19/news031.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/four-tier-memory-hierarchy-for-llm-reasoning-usc-uw"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "25年の世界半導体材料市場は過去最高に、HBM投資など背景",
-        "blurb": "2025年の世界半導体材料市場は、HBM投資などを背景に過去最高の732億ドルに達する見込み。前年比6.8%増。",
-        "category": "business",
-        "date": "2026-05-19",
+        "title": "「閃光で一瞬！」磁気トンネル接合を1.7秒で完了、大阪大ら",
+        "blurb": "大阪大、閃光熱処理で磁気トンネル接合を1.7秒で完了。従来比数千分の1の時間短縮に成功。",
+        "category": "company",
+        "date": "2026-05-20",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/19/news031.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/20/news033.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Four-Tier Memory Hierarchy for LLM Reasoning (USC, UW)",
+        "blurb": "USCとウィスコンシン大学マディソン校の研究者が、LLM推論のための4層メモリ階層を提案。KVキャッシュ管理を効率化し、推論性能を向上させる。",
+        "category": "company",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/four-tier-memory-hierarchy-for-llm-reasoning-usc-uw"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Blog Review: May 20",
+        "blurb": "PSSでの関数インポート、サーバーアーキテクチャ再考、HBM課題、異種集積ロードマップ、疎線形代数について。",
+        "category": "business",
+        "date": "2026-05-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-may-20-3"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "datacenter",
           "industry": null
         }
       }

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-20T06:33:23.992546+09:00",
-  "date": "2026-05-20",
+  "generated_at": "2026-05-21T06:36:42.561153+09:00",
+  "date": "2026-05-21",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体の進化と普及",
+      "name": "SiC/GaNパワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,28 +12,29 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiC JFETやSiC LSIの信頼性向上、ホットスワップ、固体回路ブレーカー、人型ロボット、データセンター、太陽光インバータなど多岐にわたる応用が進展。コストパフォーマンスと性能の両立が鍵。",
+      "summary": "SiCおよびGaNを用いたパワー半導体の応用が、EV、データセンター、産業機器など広範な分野で拡大。高効率化・小型化に貢献。",
       "analysis": {
-        "short_term": "SiC LSIのサンプル出荷開始が注目される。",
-        "mid_term": "EV、データセンターでの採用拡大が加速。",
-        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味。"
+        "short_term": "SiC JFETやGaN BDSの採用事例が増加。競合技術との差別化が鍵。",
+        "mid_term": "EV向けインバータやデータセンター電源での採用が本格化。信頼性向上が重要。",
+        "investment_implications": "SiC/GaN材料・デバイスメーカーへの投資妙味増大。"
       },
       "keywords": [
         "SiC",
-        "JFET",
-        "LSI",
+        "GaN",
         "EV",
-        "データセンター"
+        "データセンター",
+        "パワー半導体"
       ],
       "companies_mentioned": [
+        "Enphase",
         "Navitas",
-        "iDEAL",
+        "AOS",
         "京大",
-        "金子准教授"
+        "旭化成"
       ]
     },
     {
-      "name": "AI・ML向けハードウェア最適化",
+      "name": "AI向け半導体開発競争激化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -41,35 +42,31 @@
         "memory",
         "logic",
         "datacenter",
-        "automotive"
+        "frontend"
       ],
-      "summary": "大規模ML向けGPUコンパイラ、AI処理向け不揮発性メモリ、RISC-Vベクトルプロセッサの性能評価など、AI・MLの性能向上と省電力化に向けたハードウェア・ソフトウェア両面での最適化が進む。",
+      "summary": "NVIDIA対抗馬の登場や、LLM推論効率化、エッジAI向けメモリ開発など、AI処理に特化した半導体開発が加速。",
       "analysis": {
-        "short_term": "AI向けメモリ（HBM）投資が市場を牽引。",
-        "mid_term": "エッジAIの省電力化・小型化が進展。",
-        "investment_implications": "AIチップ、メモリ、関連IPへの投資機会。"
+        "short_term": "Cerebrasの上場はAIチップ市場の成長期待を示す。NVIDIA以外の選択肢が増加。",
+        "mid_term": "HBMの需要増と並行し、推論特化型チップや低消費電力メモリの開発が進展。",
+        "investment_implications": "AIチップ設計・製造関連企業への注目度高まる。"
       },
       "keywords": [
         "AI",
-        "ML",
-        "GPU",
+        "NVIDIA",
+        "LLM",
         "HBM",
-        "RISC-V",
-        "メモリ"
+        "エッジAI"
       ],
       "companies_mentioned": [
+        "Cerebras",
         "Meta",
         "UC San Diego",
         "フローディア",
-        "NEC",
-        "九工大",
-        "KTH",
-        "LLNL",
-        "BSC"
+        "NEC"
       ]
     },
     {
-      "name": "車載半導体の高性能化・多様化",
+      "name": "車載半導体、高機能・高信頼化へ",
       "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
@@ -77,108 +74,110 @@
         "analog",
         "power",
         "logic",
-        "ai"
+        "industrial"
       ],
-      "summary": "EV向け電流センサー、自動車グレードTVS保護デバイス、信頼性の高い生成AI統合ワークフローなど、EV化・自動運転化に伴う車載半導体の高性能化、高信頼性化、知能化が進む。",
+      "summary": "EV化・自動運転化に伴い、電流センサー、保護デバイス、パワー半導体など、高精度・高信頼性の車載半導体需要が増加。",
       "analysis": {
-        "short_term": "EV向けセンサー・保護デバイスの需要増。",
-        "mid_term": "自動運転・コネクテッドカー向け半導体競争激化。",
-        "investment_implications": "車載半導体メーカー、特にEV関連技術に注目。"
+        "short_term": "車載向け新センサーや保護デバイスの発表が続く。信頼性評価が重要。",
+        "mid_term": "SiC/GaNパワー半導体の車載採用が進み、ADAS・自動運転向けLSIの需要が拡大。",
+        "investment_implications": "車載半導体メーカー、特に高付加価値製品に強みを持つ企業が有利。"
       },
       "keywords": [
-        "EV",
         "車載",
+        "EV",
         "センサー",
-        "AI",
-        "自動運転",
-        "TVS"
+        "信頼性",
+        "SiC"
       ],
       "companies_mentioned": [
         "旭化成",
         "Vishay",
-        "デンソー",
-        "UOL"
+        "ソニー",
+        "東芝",
+        "デンソー"
       ]
     },
     {
-      "name": "異種集積・新材料の応用拡大",
+      "name": "メモリ技術の進化と多様化",
       "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter",
+        "frontend"
+      ],
+      "summary": "LLM推論効率化のためのメモリ階層、HBMの需要拡大、AI処理向け不揮発性メモリ開発など、用途に応じたメモリ技術が進展。",
+      "analysis": {
+        "short_term": "HBM関連の材料・製造装置への注目継続。LLM向けメモリアーキテクチャ研究が進む。",
+        "mid_term": "エッジAI向け低消費電力メモリの実用化が進み、IoTデバイスの性能向上に寄与。",
+        "investment_implications": "HBMサプライヤー、次世代メモリ開発企業への投資機会。"
+      },
+      "keywords": [
+        "メモリ",
+        "HBM",
+        "LLM",
+        "不揮発性メモリ",
+        "AI"
+      ],
+      "companies_mentioned": [
+        "Micron",
+        "大阪大",
+        "フローディア",
+        "USC",
+        "ウィスコンシン大学マディソン校"
+      ]
+    },
+    {
+      "name": "先端製造技術と材料開発の進展",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "frontend",
         "foundry",
-        "logic",
-        "memory",
-        "power"
-      ],
-      "summary": "シリコンフォトニクスにおけるマイクロ転写印刷（MTP）や、サファイア基板上の2D材料大量転写、r-GeO2単結晶膜形成など、異種集積や新材料の活用による高性能化・高機能化が進む。",
-      "analysis": {
-        "short_term": "シリコンフォトニクス向け技術開発が活発化。",
-        "mid_term": "次世代デバイスにおける異種集積が標準化。",
-        "investment_implications": "先端パッケージング、材料技術関連企業に注目。"
-      },
-      "keywords": [
-        "異種集積",
-        "シリコンフォトニクス",
-        "2D材料",
-        "MTP",
-        "GeO2"
-      ],
-      "companies_mentioned": [
-        "Ghent U.",
-        "imec",
-        "AMO",
-        "RWTH",
-        "Aixtron",
-        "Patentix",
-        "立命館大"
-      ]
-    },
-    {
-      "name": "地政学リスクとサプライチェーン再編",
-      "confidence": 0.8,
-      "momentum": "stable",
-      "related_fields": [
-        "geopolitics",
-        "foundry",
-        "memory",
         "equipment",
-        "wafer"
+        "wafer",
+        "general"
       ],
-      "summary": "地政学リスクにより、メモリ調達戦略は「安く買う」から供給継続・コンプライアンス重視へと変化。タタとASMLの提携など、サプライチェーンの再編・強靭化が進む。",
+      "summary": "微細化に対応するフォトマスク最適化、2D材料の大量転写技術、フォトニクス分野の研究など、次世代半導体製造を支える技術開発が進む。",
       "analysis": {
-        "short_term": "中国向け半導体規制の影響が継続。",
-        "mid_term": "サプライチェーンの多様化・国内回帰が進む。",
-        "investment_implications": "地政学リスクに強い企業・地域への分散投資。"
+        "short_term": "フォトマスク最適化技術や2D材料転写技術の応用が期待される。",
+        "mid_term": "シリコンフォトニクスや新しい2D材料の量産化に向けた技術開発が加速。",
+        "investment_implications": "先端製造装置・材料メーカー、研究開発型スタートアップへの注目。"
       },
       "keywords": [
-        "地政学",
-        "サプライチェーン",
-        "メモリ",
-        "ASML",
-        "タタ"
+        "微細化",
+        "フォトマスク",
+        "2D材料",
+        "シリコンフォトニクス",
+        "製造技術"
       ],
       "companies_mentioned": [
-        "ASML",
-        "タタ",
-        "サンケン電気"
+        "IBM",
+        "SUNY Buffalo",
+        "VU",
+        "AMO",
+        "RWTH"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・ML向け投資の拡大（HBMなど）",
-      "EV市場の成長に伴う車載半導体需要増",
-      "データセンターの高性能化・省電力化ニーズ"
+      "SiC/GaNパワー半導体の需要拡大",
+      "AI向け半導体市場の成長期待",
+      "車載半導体市場の堅調な需要",
+      "HBMメモリの供給逼迫と価格上昇懸念",
+      "先端製造技術への投資活発化"
     ],
     "bearish": [
-      "中国市場の減速・内製化加速による一部企業への影響",
-      "半導体材料市場の競争激化"
+      "中国半導体メーカーの台頭による価格競争激化（一部分野）",
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "AI開発支援ツールの誤動作リスク（製造業への影響懸念）"
     ],
     "neutral": [
-      "インターコネクト規格の多様化による選択肢増加と複雑化",
-      "生成AI活用におけるリスク管理の重要性増大"
+      "データ移動・共有標準化の進展と選択肢の多様化",
+      "RISC-Vアーキテクチャの普及と性能評価の重要性"
     ]
   },
-  "source_count": 37
+  "source_count": 33
 }

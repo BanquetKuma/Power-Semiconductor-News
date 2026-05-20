@@ -1,106 +1,50 @@
 {
-  "generated_at": "2026-05-20T06:33:16.915192+09:00",
+  "generated_at": "2026-05-21T06:36:31.675610+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Research Bits: May 19",
-    "summary": "フォトニクス分野で、プログラム可能なPIC、ハイドロゲル中の微細光学構造、チップ上UV生成の研究が進展。",
+    "title": "Options Grow For Standardizing Data Movement And Sharing Resources",
+    "summary": "半導体業界でデータ移動と共有の標準化が進むが、最適な選択肢の判断は難しい。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/research-bits-may-19"
+        "url": "https://semiengineering.com/options-grow-for-standardizing-data-movement-and-sharing-resources"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)",
-        "blurb": "サファイア基板上の2D材料を大量転写する新技術が発表。将来のエレクトロニクス応用が期待される。",
-        "category": "company",
-        "date": "2026-05-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-deionized-water-based-large-scale-transfer-process-for-2d-materials-grown-on-sapphire-amo-rwth-aixtron"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Scalable Photomask Optimization With Morphological Learning  (SUNY Buffalo, VU, IBM)",
-        "blurb": "IBMなどが開発した新技術「MorphOPC」は、微細化する回路パターンをフォトマスクからウェハーへ高精度に転写する最適化技術です。",
-        "category": "company",
-        "date": "2026-05-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scalable-photomask-optimization-with-morphological-learning-suny-buffalo-vu-ibm"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Workflow-Level Design For Trustworthy GenAI Integration in Vehicles (UOL, Denso)",
-        "blurb": "デンソーと独オルデンブルク大学が、自動車システム工学における信頼性の高い生成AI統合のためのワークフロー設計原則を発表しました。",
-        "category": "company",
-        "date": "2026-05-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/workflow-level-design-for-trustworthy-genai-integration-in-vehicle-systems-uol-denso"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Evaluating and Calibrating Performance On RISC-V Vector Processors (KTH, LLNL, BSC)",
-        "blurb": "RISC-Vベクトル拡張の性能評価と調整に関する論文が発表。科学・機械学習ワークロードでの性能向上が期待される。",
-        "category": "tools",
-        "date": "2026-05-19",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/evaluating-and-calibrating-performance-on-risc-v-vector-processors-kth-llnl-bsc"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
+    "tech": [],
     "market": [
       {
-        "title": "Research Bits: May 19",
-        "blurb": "フォトニクス分野で、プログラム可能なPIC、ハイドロゲル中の微細光学構造、チップ上UV生成の研究が進展。",
+        "title": "Options Grow For Standardizing Data Movement And Sharing Resources",
+        "blurb": "半導体業界でデータ移動と共有の標準化が進むが、最適な選択肢の判断は難しい。",
         "category": "business",
-        "date": "2026-05-19",
+        "date": "2026-05-20",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-may-19"
+          "url": "https://semiengineering.com/options-grow-for-standardizing-data-movement-and-sharing-resources"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How data movement defines performance for AI silicon",
+        "blurb": "AIチップの性能はデータ移動速度で決まる。データ移動の遅延はスループット低下、遅延増大、電力無駄遣いを招く。",
+        "category": "business",
+        "date": "2026-05-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/how-data-movement-defines-performance-for-ai-silicon"
         },
         "field": {
           "primary": "general",
