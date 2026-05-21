@@ -1,183 +1,155 @@
 {
-  "generated_at": "2026-05-21T06:36:42.561153+09:00",
-  "date": "2026-05-21",
+  "generated_at": "2026-05-22T06:33:36.946790+09:00",
+  "date": "2026-05-22",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の普及加速",
+      "name": "AI・データセンター向け高効率電源",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
         "datacenter",
-        "industrial"
+        "ai"
       ],
-      "summary": "SiCおよびGaNを用いたパワー半導体の応用が、EV、データセンター、産業機器など広範な分野で拡大。高効率化・小型化に貢献。",
+      "summary": "AIの電力需要増大に対応するため、GaNやSiCを用いた高効率・高密度な電源技術がデータセンターやAIインフラで重要視されている。",
       "analysis": {
-        "short_term": "SiC JFETやGaN BDSの採用事例が増加。競合技術との差別化が鍵。",
-        "mid_term": "EV向けインバータやデータセンター電源での採用が本格化。信頼性向上が重要。",
-        "investment_implications": "SiC/GaN材料・デバイスメーカーへの投資妙味増大。"
+        "short_term": "関連技術の発表・採用が加速。",
+        "mid_term": "市場競争激化と技術標準化が進む。",
+        "investment_implications": "高効率電源技術を持つ企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "データセンター",
+        "GaN",
+        "SiC",
+        "電源"
+      ],
+      "companies_mentioned": [
+        "Navitas",
+        "ADI",
+        "Empower Semiconductor"
+      ]
+    },
+    {
+      "name": "次世代パワー半導体の応用拡大",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial",
+        "datacenter"
+      ],
+      "summary": "SiCやGaNといった次世代パワー半導体が、EV、産業機器、データセンターなど幅広い分野で採用され、性能向上と省電力化に貢献している。",
+      "analysis": {
+        "short_term": "EVや再生可能エネルギー分野での採用が増加。",
+        "mid_term": "産業機器やデータセンターでの採用が本格化。",
+        "investment_implications": "SiC/GaNウェーハ・デバイスメーカーに期待。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "データセンター",
-        "パワー半導体"
+        "産業機器",
+        "省電力"
       ],
       "companies_mentioned": [
-        "Enphase",
         "Navitas",
+        "Enphase",
         "AOS",
-        "京大",
-        "旭化成"
+        "三菱電機"
       ]
     },
     {
-      "name": "AI向け半導体開発競争激化",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "memory",
-        "logic",
-        "datacenter",
-        "frontend"
-      ],
-      "summary": "NVIDIA対抗馬の登場や、LLM推論効率化、エッジAI向けメモリ開発など、AI処理に特化した半導体開発が加速。",
-      "analysis": {
-        "short_term": "Cerebrasの上場はAIチップ市場の成長期待を示す。NVIDIA以外の選択肢が増加。",
-        "mid_term": "HBMの需要増と並行し、推論特化型チップや低消費電力メモリの開発が進展。",
-        "investment_implications": "AIチップ設計・製造関連企業への注目度高まる。"
-      },
-      "keywords": [
-        "AI",
-        "NVIDIA",
-        "LLM",
-        "HBM",
-        "エッジAI"
-      ],
-      "companies_mentioned": [
-        "Cerebras",
-        "Meta",
-        "UC San Diego",
-        "フローディア",
-        "NEC"
-      ]
-    },
-    {
-      "name": "車載半導体、高機能・高信頼化へ",
-      "confidence": 0.88,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "analog",
-        "power",
-        "logic",
-        "industrial"
-      ],
-      "summary": "EV化・自動運転化に伴い、電流センサー、保護デバイス、パワー半導体など、高精度・高信頼性の車載半導体需要が増加。",
-      "analysis": {
-        "short_term": "車載向け新センサーや保護デバイスの発表が続く。信頼性評価が重要。",
-        "mid_term": "SiC/GaNパワー半導体の車載採用が進み、ADAS・自動運転向けLSIの需要が拡大。",
-        "investment_implications": "車載半導体メーカー、特に高付加価値製品に強みを持つ企業が有利。"
-      },
-      "keywords": [
-        "車載",
-        "EV",
-        "センサー",
-        "信頼性",
-        "SiC"
-      ],
-      "companies_mentioned": [
-        "旭化成",
-        "Vishay",
-        "ソニー",
-        "東芝",
-        "デンソー"
-      ]
-    },
-    {
-      "name": "メモリ技術の進化と多様化",
+      "name": "チップレット技術の経済性と統合",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "ai",
-        "datacenter",
-        "frontend"
+        "miniaturization",
+        "frontend",
+        "backend",
+        "ai"
       ],
-      "summary": "LLM推論効率化のためのメモリ階層、HBMの需要拡大、AI処理向け不揮発性メモリ開発など、用途に応じたメモリ技術が進展。",
+      "summary": "チップレット技術は、経済性、異種統合、低温度はんだなどの課題を抱えつつも、高性能化とスケーラビリティ向上のための重要なアプローチとなっている。",
       "analysis": {
-        "short_term": "HBM関連の材料・製造装置への注目継続。LLM向けメモリアーキテクチャ研究が進む。",
-        "mid_term": "エッジAI向け低消費電力メモリの実用化が進み、IoTデバイスの性能向上に寄与。",
-        "investment_implications": "HBMサプライヤー、次世代メモリ開発企業への投資機会。"
+        "short_term": "異種統合技術の開発競争が激化。",
+        "mid_term": "コスト効率と歩留まり改善が鍵となる。",
+        "investment_implications": "チップレット設計・製造・パッケージング技術に注目。"
       },
       "keywords": [
-        "メモリ",
-        "HBM",
-        "LLM",
-        "不揮発性メモリ",
-        "AI"
+        "チップレット",
+        "異種統合",
+        "コスト",
+        "パッケージング"
       ],
       "companies_mentioned": [
-        "Micron",
-        "大阪大",
-        "フローディア",
-        "USC",
-        "ウィスコンシン大学マディソン校"
+        "ASML",
+        "Tata"
       ]
     },
     {
-      "name": "先端製造技術と材料開発の進展",
+      "name": "半導体製造におけるAI活用",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "foundry",
         "equipment",
-        "wafer",
-        "general"
+        "frontend",
+        "backend",
+        "ai"
       ],
-      "summary": "微細化に対応するフォトマスク最適化、2D材料の大量転写技術、フォトニクス分野の研究など、次世代半導体製造を支える技術開発が進む。",
+      "summary": "半導体製造プロセスにおけるAIの活用が進み、歩留まり向上、設計最適化、設備保全など、生産性向上に貢献する可能性が高まっている。",
       "analysis": {
-        "short_term": "フォトマスク最適化技術や2D材料転写技術の応用が期待される。",
-        "mid_term": "シリコンフォトニクスや新しい2D材料の量産化に向けた技術開発が加速。",
-        "investment_implications": "先端製造装置・材料メーカー、研究開発型スタートアップへの注目。"
+        "short_term": "製造現場でのAI導入事例が増加。",
+        "mid_term": "AIによるプロセス最適化が本格化。",
+        "investment_implications": "製造向けAIソリューション提供企業に期待。"
       },
       "keywords": [
+        "AI",
+        "半導体製造",
+        "歩留まり",
+        "プロセス最適化"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "マスク技術の進化と課題",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "equipment",
+        "frontend",
+        "miniaturization"
+      ],
+      "summary": "微細化・高NAEUV化に伴い、マスク技術は検査、曲線形状、データ量などの新たな課題に直面しており、エコシステム全体での対応が求められている。",
+      "analysis": {
+        "short_term": "マスク検査技術の高度化が急務。",
+        "mid_term": "次世代EUVマスク開発が加速。",
+        "investment_implications": "マスク関連技術・材料メーカーに注目。"
+      },
+      "keywords": [
+        "マスク技術",
+        "EUV",
         "微細化",
-        "フォトマスク",
-        "2D材料",
-        "シリコンフォトニクス",
-        "製造技術"
+        "検査"
       ],
       "companies_mentioned": [
-        "IBM",
-        "SUNY Buffalo",
-        "VU",
-        "AMO",
-        "RWTH"
+        "ASML"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大",
-      "AI向け半導体市場の成長期待",
-      "車載半導体市場の堅調な需要",
-      "HBMメモリの供給逼迫と価格上昇懸念",
-      "先端製造技術への投資活発化"
+      "AI・データセンター向け半導体需要の堅調さ",
+      "SiC/GaNパワー半導体の市場拡大",
+      "チップレット技術への期待感の高まり"
     ],
     "bearish": [
-      "中国半導体メーカーの台頭による価格競争激化（一部分野）",
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "AI開発支援ツールの誤動作リスク（製造業への影響懸念）"
+      "地政学的リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "データ移動・共有標準化の進展と選択肢の多様化",
-      "RISC-Vアーキテクチャの普及と性能評価の重要性"
+      "半導体製造装置の投資サイクル",
+      "メモリ市場の回復ペース"
     ]
   },
-  "source_count": 33
+  "source_count": 19
 }

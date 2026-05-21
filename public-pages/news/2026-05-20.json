@@ -1,28 +1,112 @@
 {
-  "generated_at": "2026-05-21T06:36:31.672758+09:00",
+  "generated_at": "2026-05-20T06:33:16.912080+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Electronics Course with QSPICE (Episode 10): Linear Variable Power Supply",
-    "summary": "QSPICEを用いた電源講座第10回。BJTをエミッタフォロワとして構成し、アナログ制御で可変電圧出力を実現する。",
+    "title": "AOS Launches Intel Mobile Power Solution",
+    "summary": "AOSがインテル向け次世代モバイル向け電源ソリューションを発表。効率とバッテリー寿命を向上させる。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-10-linear-variable-power-supply"
+        "url": "https://www.powerelectronicsnews.com/aos-launches-intel-mobile-power-solution"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Enphase Enters the SST Race With GaN BDS-Based Distributed Power Platform",
-        "blurb": "Enphaseは、GaN BDS技術と豊富なフィールドデータを活用し、SST市場に参入。SiCベースの競合に挑む。",
+        "title": "Zooming into Navitas’ TAP SiC Gate Oxide Reliability",
+        "blurb": "NavitasのSiC MOSFETゲート酸化膜信頼性を、BESS、データセンター、太陽光インバータのスイッチングサイクルで検証。",
         "category": "business",
-        "date": "2026-05-20",
+        "date": "2026-05-19",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/enphase-enters-the-sst-race-with-gan-bds-based-distributed-power-platform"
+          "url": "https://www.powerelectronicsnews.com/zooming-into-navitas-tap-sic-gate-oxide-reliability"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Research Bits: May 19",
+        "blurb": "フォトニクス分野で、プログラム可能なPIC、ハイドロゲル中の微細光学構造、チップ上UV生成の研究が進展。",
+        "category": "business",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-may-19"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip Industry Technical Paper Roundup: May 19",
+        "blurb": "半導体業界の技術論文まとめ：シリコンフォトニクス、2D電子、GAA FETモデリング、光学フェーズドアレイ、強誘電体トンネル接合など。",
+        "category": "business",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-19"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "アドバンテストがシーメンスのサーバ技術採用",
+        "blurb": "アドバンテストのSoCテストシステム「T2000」にシーメンス製サーバPCが採用。テスト時間短縮、拡張性・安全性向上に貢献。",
+        "category": "business",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/19/news033.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Sandiskの四半期業績、前期比で4四半期連続の増収増益に",
+        "blurb": "Sandiskの2026年度第3四半期決算は、前期比で4四半期連続の増収増益を達成した。",
+        "category": "business",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/19/news028.html"
+        },
+        "field": null
+      },
+      {
+        "title": "SiC LSIの事業化に挑む　28年以降ADCのサンプル出荷へ",
+        "blurb": "京大の金子准教授が炭化ケイ素（SiC）LSIの研究開発と事業化に挑む。高温環境向けADCを2028～29年頃にサンプル出荷予定。",
+        "category": "business",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/19/news052.html"
         },
         "field": {
           "primary": "power",
@@ -33,68 +117,52 @@
         }
       },
       {
-        "title": "Options Grow For Standardizing Data Movement And Sharing Resources",
-        "blurb": "半導体業界でデータ移動と共有の標準化が進むが、最適な選択肢の判断は難しい。",
+        "title": "25年の世界半導体材料市場は過去最高に、HBM投資など背景",
+        "blurb": "2025年の世界半導体材料市場は、HBM投資などを背景に過去最高の732億ドルに達する見込み。前年比6.8%増。",
         "category": "business",
-        "date": "2026-05-20",
+        "date": "2026-05-19",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/options-grow-for-standardizing-data-movement-and-sharing-resources"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Blog Review: May 20",
-        "blurb": "PSSでの関数インポート、サーバーアーキテクチャ再考、HBM課題、異種集積ロードマップ、疎線形代数について。",
-        "category": "business",
-        "date": "2026-05-20",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-may-20-3"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/19/news031.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": "datacenter",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Cerebrasが上場　NVIDIA対抗馬の「試金石」となるか",
-        "blurb": "AIチップ開発のCerebrasがナスダックに上場し約55億ドル調達。NVIDIA対抗馬としての期待値の高さを示す。",
+        "title": "GPUs: A high-throughput architecture confronting a workload shift",
+        "blurb": "GPUは、AIワークロードの変化に対応するため、高スループットアーキテクチャの進化が求められています。",
         "category": "business",
-        "date": "2026-05-20",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/20/news073.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "How data movement defines performance for AI silicon",
-        "blurb": "AIチップの性能はデータ移動速度で決まる。データ移動の遅延はスループット低下、遅延増大、電力無駄遣いを招く。",
-        "category": "business",
-        "date": "2026-05-20",
+        "date": "2026-05-19",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/how-data-movement-defines-performance-for-ai-silicon"
+          "url": "https://www.edn.com/gpus-a-high-throughput-architecture-confronting-a-workload-shift"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Evaluating and Calibrating Performance On RISC-V Vector Processors (KTH, LLNL, BSC)",
+        "blurb": "RISC-Vベクトル拡張の性能評価と調整に関する論文が発表。科学・機械学習ワークロードでの性能向上が期待される。",
+        "category": "tools",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/evaluating-and-calibrating-performance-on-risc-v-vector-processors-kth-llnl-bsc"
         },
         "field": {
           "primary": "general",
@@ -105,63 +173,109 @@
         }
       },
       {
-        "title": "Multiphase controllers optimize mobile Vcore power",
-        "blurb": "AOSのデジタルマルチフェーズコントローラー3種が、高性能モバイルシステムのIntel IMVP9.3 Vcore電源供給を最適化。",
-        "category": "business",
-        "date": "2026-05-21",
+        "title": "HW-Native, GPU Compiler for Large-scale ML Production Systems (UC San Diego, Meta)",
+        "blurb": "UCサンディエゴとMetaの研究者が大規模ML向けGPUコンパイラ「TLX」を発表。ハードウェア最適化で性能向上を目指す。",
+        "category": "tools",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hw-native-gpu-compiler-for-large-scale-ml-production-systems-uc-san-diego-meta"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "4/20mA to 0/20mA loop current converter for grounded loads",
+        "blurb": "産業界で一般的なアース基準負荷に対応する4-20mAから0-20mAへの電流ループ変換回路。",
+        "category": "tools",
+        "date": "2026-05-19",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/multiphase-controllers-optimize-mobile-vcore-power"
+          "url": "https://www.edn.com/4-20ma-to-0-20ma-loop-current-converter-for-grounded-loads"
+        },
+        "field": null
+      },
+      {
+        "title": "Sensors Converge 2026: Smarter and lower-power sensors",
+        "blurb": "Sensors Converge 2026では、ウェアラブル等向けに、より賢く低消費電力なセンサー技術が進化した。",
+        "category": "tools",
+        "date": "2026-05-20",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/sensors-converge-2026-smarter-and-lower-power-sensors"
         },
         "field": {
-          "primary": "idm",
-          "device": null,
+          "primary": "analog",
+          "device": "analog",
           "process": null,
           "market": null,
-          "industry": "idm"
+          "industry": null
         }
       }
     ],
-    "tools": [
-      {
-        "title": "Power Electronics Course with QSPICE (Episode 10): Linear Variable Power Supply",
-        "blurb": "QSPICEを用いた電源講座第10回。BJTをエミッタフォロワとして構成し、アナログ制御で可変電圧出力を実現する。",
-        "category": "tools",
-        "date": "2026-05-20",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-10-linear-variable-power-supply"
-        },
-        "field": null
-      },
-      {
-        "title": "Triple-duty current loop calibrator",
-        "blurb": "多機能回路で電流ループ受信機を迅速に校正できるキャリブレータ。",
-        "category": "tools",
-        "date": "2026-05-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/triple-duty-current-loop-calibrator"
-        },
-        "field": null
-      },
-      {
-        "title": "Designers guide: Sensors for medical devices",
-        "blurb": "医療機器向けセンサーのガイド。中央集権型から患者中心型への移行に伴い、モニタリングソリューションが重要性を増しています。",
-        "category": "tools",
-        "date": "2026-05-21",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/designers-guide-sensors-for-medical-devices"
-        },
-        "field": null
-      }
-    ],
     "company": [
+      {
+        "title": "A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on Sapphire (AMO, RWTH, Aixtron)",
+        "blurb": "サファイア基板上の2D材料を大量転写する新技術が発表。将来のエレクトロニクス応用が期待される。",
+        "category": "company",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-deionized-water-based-large-scale-transfer-process-for-2d-materials-grown-on-sapphire-amo-rwth-aixtron"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Scalable Photomask Optimization With Morphological Learning  (SUNY Buffalo, VU, IBM)",
+        "blurb": "IBMなどが開発した新技術「MorphOPC」は、微細化する回路パターンをフォトマスクからウェハーへ高精度に転写する最適化技術です。",
+        "category": "company",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scalable-photomask-optimization-with-morphological-learning-suny-buffalo-vu-ibm"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Workflow-Level Design For Trustworthy GenAI Integration in Vehicles (UOL, Denso)",
+        "blurb": "デンソーと独オルデンブルク大学が、自動車システム工学における信頼性の高い生成AI統合のためのワークフロー設計原則を発表しました。",
+        "category": "company",
+        "date": "2026-05-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/workflow-level-design-for-trustworthy-genai-integration-in-vehicle-systems-uol-denso"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
       {
         "title": "AOS Launches Intel Mobile Power Solution",
         "blurb": "AOSがインテル向け次世代モバイル向け電源ソリューションを発表。効率とバッテリー寿命を向上させる。",
@@ -178,120 +292,6 @@
           "process": null,
           "market": null,
           "industry": "idm"
-        }
-      },
-      {
-        "title": "「閃光で一瞬！」磁気トンネル接合を1.7秒で完了、大阪大ら",
-        "blurb": "大阪大、閃光熱処理で磁気トンネル接合を1.7秒で完了。従来比数千分の1の時間短縮に成功。",
-        "category": "company",
-        "date": "2026-05-20",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/20/news033.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「空間全体」でロボット制御　富士通のフィジカルAI戦略とは",
-        "blurb": "富士通は、空間全体でロボットを制御する「フィジカルAI」戦略を発表。新OS「Fujitsu Kozuchi Physical OS」で実現。",
-        "category": "company",
-        "date": "2026-05-20",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/20/news058.html"
-        },
-        "field": null
-      },
-      {
-        "title": "村田製作所、滋賀にサーミスターの新生産棟　169億円投資",
-        "blurb": "村田製作所は滋賀県に約169億円投資し、サーミスターの新生産棟を建設。2028年8月竣工予定で生産能力を拡大する。",
-        "category": "company",
-        "date": "2026-05-20",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/20/news032.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Four-Tier Memory Hierarchy for LLM Reasoning (USC, UW)",
-        "blurb": "USCとウィスコンシン大学マディソン校の研究者が、LLM推論のための4層メモリ階層を提案。KVキャッシュ管理を効率化し、推論性能を向上させる。",
-        "category": "company",
-        "date": "2026-05-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/four-tier-memory-hierarchy-for-llm-reasoning-usc-uw"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "LED driver animates exterior vehicle lighting",
-        "blurb": "LumissilのLEDドライバー「IS32FL3776」は、ソフトウェア定義の車載外装照明にインテリジェントな信号表示をもたらします。",
-        "category": "company",
-        "date": "2026-05-21",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/led-driver-animates-exterior-vehicle-lighting"
-        },
-        "field": null
-      },
-      {
-        "title": "MCUs bridge I3C across voltage domains",
-        "blurb": "MicrochipのPIC18-Q20 MCUは、小型パッケージにI3CとMVIOを統合し、電圧ドメイン間のI3C通信を可能にします。",
-        "category": "company",
-        "date": "2026-05-21",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/mcus-bridge-i3c-across-voltage-domains"
-        },
-        "field": null
-      },
-      {
-        "title": "Motor MCU integrates driver and control functions",
-        "blurb": "東芝、MCUとモーター駆動回路を統合した車載用小型モーター制御IC「TB9M040FTG」のサンプル出荷を開始。",
-        "category": "company",
-        "date": "2026-05-21",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/motor-mcu-integrates-driver-and-control-functions"
-        },
-        "field": null
-      },
-      {
-        "title": "CPU IP processes mixed scalar and vector workloads",
-        "blurb": "SiFiveのRISC-VベクトルプロセッサIP「P570 Gen 3」は、スケーラブルな性能で、混合スカラー・ベクトルワークロードを処理。",
-        "category": "company",
-        "date": "2026-05-21",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/cpu-ip-processes-mixed-scalar-and-vector-workloads"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
         }
       }
     ],

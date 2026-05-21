@@ -1,78 +1,41 @@
 {
-  "generated_at": "2026-05-21T06:36:31.674216+09:00",
+  "generated_at": "2026-05-22T06:33:31.863679+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Four-Tier Memory Hierarchy for LLM Reasoning (USC, UW)",
-    "summary": "USCとウィスコンシン大学マディソン校の研究者が、LLM推論のための4層メモリ階層を提案。KVキャッシュ管理を効率化し、推論性能を向上させる。",
+    "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
+    "summary": "Nvidiaの研究者がGroqでの研究に基づき、低遅延・高効率なLLM推論システム「SHIP」を発表。SRAMベースで高速化。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/four-tier-memory-hierarchy-for-llm-reasoning-usc-uw"
+        "url": "https://semiengineering.com/large-scale-sram-based-llm-inference-deployment-groq"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "「閃光で一瞬！」磁気トンネル接合を1.7秒で完了、大阪大ら",
-        "blurb": "大阪大、閃光熱処理で磁気トンネル接合を1.7秒で完了。従来比数千分の1の時間短縮に成功。",
+        "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
+        "blurb": "Nvidiaの研究者がGroqでの研究に基づき、低遅延・高効率なLLM推論システム「SHIP」を発表。SRAMベースで高速化。",
         "category": "company",
-        "date": "2026-05-20",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/20/news033.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Four-Tier Memory Hierarchy for LLM Reasoning (USC, UW)",
-        "blurb": "USCとウィスコンシン大学マディソン校の研究者が、LLM推論のための4層メモリ階層を提案。KVキャッシュ管理を効率化し、推論性能を向上させる。",
-        "category": "company",
-        "date": "2026-05-21",
+        "date": "2026-05-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/four-tier-memory-hierarchy-for-llm-reasoning-usc-uw"
+          "url": "https://semiengineering.com/large-scale-sram-based-llm-inference-deployment-groq"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "fabless"
         }
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "Blog Review: May 20",
-        "blurb": "PSSでの関数インポート、サーバーアーキテクチャ再考、HBM課題、異種集積ロードマップ、疎線形代数について。",
-        "category": "business",
-        "date": "2026-05-20",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-may-20-3"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }
