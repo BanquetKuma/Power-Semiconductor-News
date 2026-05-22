@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-22T06:33:31.863679+09:00",
+  "generated_at": "2026-05-23T06:27:44.182405+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
-    "summary": "Nvidiaの研究者がGroqでの研究に基づき、低遅延・高効率なLLM推論システム「SHIP」を発表。SRAMベースで高速化。",
+    "summary": "Groqの研究者がLLM推論の低遅延・高効率化技術「SHIP」を発表。SRAMベースで高速化を図る。",
     "sources": [
       {
         "name": "semiengineering.com",
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
-        "blurb": "Nvidiaの研究者がGroqでの研究に基づき、低遅延・高効率なLLM推論システム「SHIP」を発表。SRAMベースで高速化。",
+        "blurb": "Groqの研究者がLLM推論の低遅延・高効率化技術「SHIP」を発表。SRAMベースで高速化を図る。",
         "category": "company",
         "date": "2026-05-22",
         "stars": 3,
@@ -36,6 +36,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "AI時代を切り開くNVIDIAの戦略に脱帽　受注残1兆ドル超の衝撃",
+        "blurb": "NVIDIAの2027年度第1四半期決算は市場予想を上回り、受注残1兆ドル超。AIファクトリーや推論AI戦略が鮮明化し、AI・半導体市場の今後を示す。",
+        "category": "business",
+        "date": "2026-05-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news061.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

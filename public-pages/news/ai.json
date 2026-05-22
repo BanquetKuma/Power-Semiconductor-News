@@ -1,32 +1,51 @@
 {
-  "generated_at": "2026-05-21T06:36:31.674909+09:00",
+  "generated_at": "2026-05-23T06:27:44.183011+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Cerebrasが上場　NVIDIA対抗馬の「試金石」となるか",
-    "summary": "AIチップ開発のCerebrasがナスダックに上場し約55億ドル調達。NVIDIA対抗馬としての期待値の高さを示す。",
+    "title": "「フィジカルAIとは何か」問う機会に――「エッジAIイニシアチブ 2026」開催！",
+    "summary": "「エッジAIイニシアチブ2026」が6月開催。経済産業省や大手企業が参加し、フィジカルAIの在り方を問う。参加無料。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/20/news073.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news053.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Cerebrasが上場　NVIDIA対抗馬の「試金石」となるか",
-        "blurb": "AIチップ開発のCerebrasがナスダックに上場し約55億ドル調達。NVIDIA対抗馬としての期待値の高さを示す。",
-        "category": "business",
-        "date": "2026-05-20",
+        "title": "「フィジカルAIとは何か」問う機会に――「エッジAIイニシアチブ 2026」開催！",
+        "blurb": "「エッジAIイニシアチブ2026」が6月開催。経済産業省や大手企業が参加し、フィジカルAIの在り方を問う。参加無料。",
+        "category": "company",
+        "date": "2026-05-22",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/20/news073.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news053.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Rambus Addresses AI Data Center Power Constraints With SOCAMM2 Chipset",
+        "blurb": "RambusはAIデータセンターの電力制約に対応するSOCAMM2チップセットを発表。LPDDR5Xメモリのスケーラビリティを向上。",
+        "category": "business",
+        "date": "2026-05-22",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/rambus-addresses-ai-data-center-power-constraints-with-socamm2-chipset"
         },
         "field": {
           "primary": "ai",
