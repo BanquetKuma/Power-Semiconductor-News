@@ -1,28 +1,166 @@
 {
-  "generated_at": "2026-05-23T06:27:44.180519+09:00",
+  "generated_at": "2026-05-22T06:33:31.862072+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Launches Enhanced Lithium Battery Management IC",
-    "summary": "STマイクロエレクトロニクスは、EVバッテリーシステムの安全性、同期、監視を向上させる新しいリチウム電池管理IC「L9963F」を発表しました。",
+    "title": "Navitas Unveils AI Data Center and Grid Power Technologies at PCIM 2026",
+    "summary": "Navitas will highlight GaN and SiC technologies for AI data centers, smart grids, and industrial electrification at PCIM",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic"
+        "url": "https://www.powerelectronicsnews.com/navitas-unveils-ai-data-center-and-grid-power-technologies-at-pcim-2026"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Navitas’ TAP SiC Gate Oxide Reliability, Bosch Gen3 SiC, pSemi’s Adiabatic Charge Pump: Power Electronics Week Insights",
-        "blurb": "NavitasのSiCゲート酸化膜信頼性、BoschのSiC、pSemiのチャージポンプなど、パワーエレクトロニクス分野の最新動向。",
+        "title": "Power Corner: Adiabatic Charge Pumps and pSemi’s Fast Charging Strategy—Laurence McGarry, pSemi",
+        "blurb": "pSemiのラレンス・マクギャリー氏が、断熱スイッチングと同社の電力変換IPポートフォリオについて解説。高速充電戦略に焦点を当てる。",
         "category": "business",
-        "date": "2026-05-22",
+        "date": "2026-05-21",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-tap-sic-gate-oxide-reliability-bosch-gen3-sic-psemis-adiabatic-charge-pump-power-electronics-week-insights"
+          "url": "https://www.powerelectronicsnews.com/power-corner-adiabatic-charge-pumps-and-psemis-fast-charging-strategy-laurence-mcgarry-psemi"
+        },
+        "field": null
+      },
+      {
+        "title": "Process Variation In The Era Of Scaling: Improving Uniformity With Dummy Fill",
+        "blurb": "半導体製造における微細化に伴うプロセス変動を、ダミーフィル技術で均一性を向上させる方法。",
+        "category": "business",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/process-variation-in-the-era-of-scaling-improving-uniformity-with-dummy-fill"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "With Chiplets, What Role Does Economics Play?",
+        "blurb": "チップレットのコスト上昇は経済に影響するか？その役割と将来性を考察。",
+        "category": "business",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/with-chiplets-what-role-does-economics-play"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Low-Temp Solders Are Suddenly Critical For Chiplets And Photonics",
+        "blurb": "チップレットやフォトニクス分野で、反りや熱、脆性が問題となるため、低温はんだの重要性が高まっている。",
+        "category": "business",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/low-temp-solders-are-suddenly-critical-for-chiplets-and-photonics"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI & Energy: Bending The Curve",
+        "blurb": "AIの進歩には、エコシステム全体での協調設計と最適化によるエネルギー効率の高いコンピューティングが不可欠です。",
+        "category": "business",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-energy-bending-the-curve"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Enabling Production-Ready AI For Semiconductor Manufacturing",
+        "blurb": "半導体製造向けAIの現場導入には、エンジニアが活用できる運用層が必要。",
+        "category": "business",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/enabling-production-ready-ai-for-semiconductor-manufacturing"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Cost-Effective High-Performance Flip Chip MicroLeadFrame (fcMLF) Package Introduction",
+        "blurb": "低コストで高性能なフリップチップマイクロリードフレーム（fcMLF）パッケージが導入され、製造効率とスケーラビリティを維持しつつ電気・熱性能が向上。",
+        "category": "business",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/cost-effective-high-performance-flip-chip-microleadframe-fcmlf-package"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Mask Technology Faces A New Set Of Challenges",
+        "blurb": "マスク技術は、検査限界、曲線形状採用、データ量、高NAEUVなどの課題に直面し、エコシステムに負荷がかかっています。",
+        "category": "business",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/mask-technology-faces-a-new-set-of-challenges"
+        },
+        "field": {
+          "primary": "equipment",
+          "device": null,
+          "process": "equipment",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "電力損失19％削減した産業用IGBTモジュール10種　三菱電機",
+        "blurb": "三菱電機は電力損失を最大19%削減した産業用IGBTモジュール10機種を開発、サンプル出荷を開始。産業用機器の省電力化に貢献。",
+        "category": "business",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/21/news033.html"
         },
         "field": {
           "primary": "power",
@@ -31,29 +169,111 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tools": [
       {
-        "title": "How Bosch Gen 3 SiC Improves EV Powertrain Efficiency",
-        "blurb": "ボッシュの第3世代SiCは、EVパワートレインの効率を向上させ、コスト削減にも貢献します。",
-        "category": "business",
-        "date": "2026-05-22",
+        "title": "Beyond Ideal Crystals: The Case For Scale In Atomistic Modeling",
+        "blurb": "原子論的モデリングにおけるスケールの重要性を解説。計算コストを抑えつつ、詳細な情報を捉える方法を探る。",
+        "category": "tools",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/beyond-ideal-crystals-the-case-for-scale-in-atomistic-modeling"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "The Adapter Fragmentation Problem and pSemi’s Adiabatic Charge Pump",
+        "blurb": "pSemiの新しいアダプティブ高速充電ICと人型ロボット向け技術は、アダプターの断片化問題を解決する。",
+        "category": "company",
+        "date": "2026-05-21",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/how-bosch-gen-3-sic-improves-ev-powertrain-efficiency"
+          "url": "https://www.powerelectronicsnews.com/the-adapter-fragmentation-problem-and-psemis-adiabatic-charge-pump"
+        },
+        "field": null
+      },
+      {
+        "title": "ADI Expands AI Infrastructure Strategy With Empower Acquisition",
+        "blurb": "アナログ・デバイセズがEmpower Semiconductorを買収し、AI向け高密度電源技術を強化。",
+        "category": "company",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/adi-expands-ai-infrastructure-strategy-with-empower-acquisition"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "general",
+          "device": null,
           "process": null,
-          "market": "automotive",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ネクスティとダイキンがタイに合弁会社　空調用ソフト開発加速へ",
+        "blurb": "ネクスティとダイキン工業がタイで合弁会社を設立。空調システム用ソフトウェア開発の加速を目指す。",
+        "category": "company",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/21/news094.html"
+        },
+        "field": null
+      },
+      {
+        "title": "ASML、インドTataと提携　「完全自動」300mm工場稼働へ",
+        "blurb": "ASMLがインドTataと提携。2027年、完全自動化された300mm半導体工場稼働へ。人材教育やサプライチェーンも支援。",
+        "category": "company",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/21/news051.html"
+        },
+        "field": {
+          "primary": "geopolitics",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "geopolitics"
+        }
+      },
+      {
+        "title": "「発電する窓」に応用も　CQD太陽電池を安価に量産できる技術",
+        "blurb": "電通大などがCQD太陽電池の安価な量産技術を開発。変換効率10.0%を達成し、発電窓などへの応用を目指す。",
+        "category": "company",
+        "date": "2026-05-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/21/news031.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
           "industry": null
         }
       },
       {
         "title": "Navitas Unveils AI Data Center and Grid Power Technologies at PCIM 2026",
-        "blurb": "NavitasはPCIM 2026でAIデータセンター・スマートグリッド向けGaN・SiC技術を発表。",
-        "category": "business",
+        "blurb": "Navitas will highlight GaN and SiC technologies for AI data centers, smart grids, and industrial electrification at PCIM",
+        "category": "company",
         "date": "2026-05-22",
         "stars": 3,
         "source": {
@@ -69,132 +289,8 @@
         }
       },
       {
-        "title": "Chip Industry Week In Review",
-        "blurb": "台湾・欧州でのパッケージング増強、2nmプロセス、量子コンピューティングへの大型投資、新大学拠点設立など、半導体業界の最新動向。",
-        "category": "business",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-139"
-        },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": "miniaturization",
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "AI時代を切り開くNVIDIAの戦略に脱帽　受注残1兆ドル超の衝撃",
-        "blurb": "NVIDIAの2027年度第1四半期決算は市場予想を上回り、受注残1兆ドル超。AIファクトリーや推論AI戦略が鮮明化し、AI・半導体市場の今後を示す。",
-        "category": "business",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news061.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "GHz-harvested power for Gbps wireless link is a double win",
-        "blurb": "ミリ波レンズでGHz帯の高速無線通信を実現。エネルギーハーベスティングと高速通信の両立に成功。",
-        "category": "business",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ghz-harvested-power-for-gbps-wireless-link-is-a-double-win"
-        },
-        "field": null
-      },
-      {
-        "title": "Zonal Architectures Power Software-Defined Vehicles",
-        "blurb": "ソフトウェア定義車両（SDV）において、ゾーナルアーキテクチャがソフトウェアを車両システム全体の基盤として活用する。",
-        "category": "business",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/zonal-architectures-power-software-defined-vehicles"
-        },
-        "field": null
-      },
-      {
-        "title": "Rambus Addresses AI Data Center Power Constraints With SOCAMM2 Chipset",
-        "blurb": "RambusはAIデータセンターの電力制約に対応するSOCAMM2チップセットを発表。LPDDR5Xメモリのスケーラビリティを向上。",
-        "category": "business",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/rambus-addresses-ai-data-center-power-constraints-with-socamm2-chipset"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "室温で3μm帯まで検出できる赤外光センサー、名古屋大ら",
-        "blurb": "名古屋大らは室温で3μm帯まで検出できる小型赤外光センサーを開発。ガス検知やヘルスケアなど応用期待。",
-        "category": "tools",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news037.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "From specification to simulation: Modeling PPTC devices in QSPICE",
-        "blurb": "QSPICEでPPTCデバイスの仕様からシミュレーションまでを解説。特性とSPICEモデリングのチュートリアル。",
-        "category": "tools",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/from-specification-to-simulation-modeling-pptc-devices-in-qspice"
-        },
-        "field": null
-      },
-      {
-        "title": "AI-powered medical imaging: Turning data into faster diagnoses",
-        "blurb": "AIが医療画像診断を高速化。データ活用でより迅速な診断と治療計画を支援する。",
-        "category": "tools",
-        "date": "2026-05-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-powered-medical-imaging-turning-data-into-faster-diagnoses"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
         "title": "Diodes Incorporated Expands Automotive Hall-Effect Latch Family",
-        "blurb": "Diodes社が、低磁場での位置検知を向上させ、磁石サイズと消費電力を削減する車載用ホール効果ラッチを拡充。",
+        "blurb": "Diodes社が、低磁場での位置検出を向上させ、磁石サイズと消費電力を削減する車載用ホール効果ラッチを拡充。",
         "category": "company",
         "date": "2026-05-22",
         "stars": 3,
@@ -206,7 +302,7 @@
       },
       {
         "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
-        "blurb": "Groqの研究者がLLM推論の低遅延・高効率化技術「SHIP」を発表。SRAMベースで高速化を図る。",
+        "blurb": "Nvidiaの研究者がGroqでの研究に基づき、低遅延・高効率なLLM推論システム「SHIP」を発表。SRAMベースで高速化。",
         "category": "company",
         "date": "2026-05-22",
         "stars": 3,
@@ -223,223 +319,19 @@
         }
       },
       {
-        "title": "「フィジカルAIとは何か」問う機会に――「エッジAIイニシアチブ 2026」開催！",
-        "blurb": "「エッジAIイニシアチブ2026」が6月開催。経済産業省や大手企業が参加し、フィジカルAIの在り方を問う。参加無料。",
+        "title": "Advancing Heterogeneous Integration Through Industry Roadmap Improvements",
+        "blurb": "More detailed roadmaps are needed to guide how the industry stacks, connects, powers, and cools tomorrow's chips. The po",
         "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
+        "date": "2026-05-21",
+        "stars": 2,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news053.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/advancing-heterogeneous-integration-through-industry-roadmap-improvements"
         },
         "field": {
-          "primary": "ai",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "「ディスプレイ1本では経営厳しい」　起死回生図るJDIの戦略",
-        "blurb": "JDIは2026年度営業損失198億円。2027年度黒字化へ、ディスプレイ高収益化と新事業で「BEYOND DISPLAY」戦略を推進。",
-        "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news056.html"
-        },
-        "field": null
-      },
-      {
-        "title": "社会人大学院生にしか見えない「ドブ板経験」と「学問」のあいだ",
-        "blurb": "社会人大学院生は、実務経験（ドブ板経験）があるからこそ味わえる学問の世界がある。博士論文に直結しなくても、その経験が独自の視点をもたらす。",
-        "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news022.html"
-        },
-        "field": null
-      },
-      {
-        "title": "高NA EUVリソグラフィで量子デバイス作製、imec",
-        "blurb": "imecは高NA EUVリソグラフィで世界初の量子ドット量子ビットデバイスを作製したと発表した。",
-        "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news035.html"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Lam ResearchがPLP特化拠点　「共に未来を」とRapidus",
-        "blurb": "Lam ResearchがオーストリアにPLP技術特化拠点を開設。Rapidusとの連携も示唆し、半導体パッケージング技術強化へ。",
-        "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news066.html"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI/ML integration in medical systems",
-        "blurb": "医療システムへのAI/ML統合が進み、より賢く迅速なケアが実現されています。",
-        "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-ml-integration-in-medical-systems"
-        },
-        "field": null
-      },
-      {
-        "title": "Google I/O 2026: Agentic AI gets serious",
-        "blurb": "Google I/O 2026では、AIへのコミットメントが再確認され、特にエージェンティックAIの成熟度に焦点が当てられた。",
-        "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/google-i-o-2026-agentic-ai-gets-serious"
-        },
-        "field": null
-      },
-      {
-        "title": "MATLAB and Simulink Now Support Renesas MCUs",
-        "blurb": "MathWorksがRenesas製MCU対応を発表。MATLAB/Simulinkから直接組込制御アルゴリズムを展開可能に。",
-        "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/matlab-and-simulink-now-support-renesas-mcus"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Variscite Expands its VAR-SMARC SoM Portfolio",
-        "blurb": "Varisciteが、柔軟性と高度な演算能力、多層セキュリティを両立する新SoM「VAR-SMARC-MX95」を発表しました。",
-        "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/variscite-expands-its-var-smarc-som-portfolio"
-        },
-        "field": null
-      },
-      {
-        "title": "Osptek Launches 4.0-inch IPS Capacitive Touchscreen TFT Display",
-        "blurb": "OsptekがMIPIインターフェース搭載の4.0インチIPS液晶ディスプレイYDP400BT001-V4を発表。タッチ操作可能。",
-        "category": "company",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/osptek-launches-4-0-inch-ips-capacitive-touchscreen-tft-display"
-        },
-        "field": null
-      },
-      {
-        "title": "ST Launches Enhanced Lithium Battery Management IC",
-        "blurb": "STマイクロエレクトロニクスは、EVバッテリーシステムの安全性、同期、監視を向上させる新しいリチウム電池管理IC「L9963F」を発表しました。",
-        "category": "company",
-        "date": "2026-05-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Electrical Power Architecture of CubeSats and SmallSats",
-        "blurb": "CubeSatの電力システムは、太陽光発電、バッテリー管理、小型化設計の制約をバランスさせる必要がある。",
-        "category": "company",
-        "date": "2026-05-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/electrical-power-architecture-of-cubesats-and-smallsats"
-        },
-        "field": null
-      },
-      {
-        "title": "Vishay Introduces High-Isolation Automotive Optocouplers",
-        "blurb": "VishayがEV・太陽光発電向け高絶縁オプトカプラを発表。高い絶縁性と広い沿面距離を実現。",
-        "category": "company",
-        "date": "2026-05-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vishay-introduces-high-isolation-automotive-optocouplers"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Zonal Architectures for SDVs, Variscite's new VAR-SMARC SoM, Connector Survey: Embedded Week Insights",
-        "blurb": "SDVのゾーンアーキテクチャ、Varisciteの新SoM、コネクタ調査など、組み込み技術の最新動向をまとめた記事。",
-        "category": "company",
-        "date": "2026-05-23",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/zonal-architectures-for-sdvs-variscites-new-var-smarc-som-connector-survey-embedded-week-insights"
-        },
-        "field": null
-      },
-      {
-        "title": "Just Buy It: Waiting For Lidar In The Rivian R2 Might Not Be Worth The Headache",
-        "blurb": "Rivian R2のLiDAR搭載を待つべきか？ソフトウェア責任者の情報で再考を促す。",
-        "category": "company",
-        "date": "2026-05-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/796747/rivian-r2-lidar-dont-wait"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
           "market": null,
           "industry": null
         }
