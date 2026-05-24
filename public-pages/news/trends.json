@@ -1,168 +1,168 @@
 {
-  "generated_at": "2026-05-24T06:20:11.234441+09:00",
-  "date": "2026-05-24",
+  "generated_at": "2026-05-25T06:21:17.830931+09:00",
+  "date": "2026-05-25",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体のEV・データセンターでの普及加速",
+      "name": "EV向けパワー半導体需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "SiC",
+        "GaN"
       ],
-      "summary": "EVの効率向上やデータセンターの省電力化ニーズから、SiC（炭化ケイ素）やGaN（窒化ガリウム）といった次世代パワー半導体の採用が急速に進んでいる。",
+      "summary": "EVの高性能化・効率化ニーズを受け、SiCやGaNなどの次世代パワー半導体の需要が急速に拡大しています。",
       "analysis": {
-        "short_term": "需要増により供給逼迫の可能性。価格上昇圧力。",
-        "mid_term": "技術革新と量産効果でコスト競争力向上へ。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
+        "short_term": "需要は引き続き堅調。供給制約が課題。",
+        "mid_term": "技術革新とコスト低下で普及加速。",
+        "investment_implications": "関連メーカーへの投資妙味大。"
       },
       "keywords": [
+        "EV",
         "SiC",
         "GaN",
-        "EV",
-        "データセンター",
-        "パワー半導体"
+        "power electronics"
       ],
       "companies_mentioned": [
+        "STMicroelectronics",
+        "Vishay",
         "Navitas",
-        "Bosch",
-        "三菱電機",
-        "京大"
+        "Bosch"
       ]
     },
     {
-      "name": "AI向け高性能・高密度電源ソリューションの進化",
+      "name": "AIインフラ向け半導体投資活発化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "power",
-        "logic"
+        "memory",
+        "logic",
+        "equipment"
       ],
-      "summary": "AI処理の高速化・大規模化に伴い、AIインフラ向けの高密度・高効率な電源技術への需要が高まっている。特にデータセンター向けが中心。",
+      "summary": "AIモデルの巨大化・複雑化に対応するため、AIデータセンターや推論処理に特化した高性能半導体への投資が加速しています。",
       "analysis": {
-        "short_term": "AIチップ性能向上に伴い、電源技術の重要性が増す。",
-        "mid_term": "統合・小型化が進み、新たなアーキテクチャが登場。",
-        "investment_implications": "AIインフラ関連の電源技術企業に注目。"
+        "short_term": "NVIDIA中心に供給逼迫続く。",
+        "mid_term": "新興メーカーの台頭と技術多様化。",
+        "investment_implications": "AIチップ、HBM、関連装置に注目。"
       },
       "keywords": [
         "AI",
-        "電源",
-        "データセンター",
-        "高密度",
-        "高効率"
+        "data center",
+        "NVIDIA",
+        "HBM",
+        "inference"
       ],
       "companies_mentioned": [
-        "アナログ・デバイセズ",
-        "Empower Semiconductor",
-        "pSemi"
+        "Analog Devices",
+        "NVIDIA",
+        "Cerebras",
+        "Groq"
       ]
     },
     {
-      "name": "チップレット技術による異種集積化の進展",
+      "name": "先端パッケージング技術の重要性増大",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "backend",
-        "logic",
-        "frontend",
-        "miniaturization"
+        "miniaturization",
+        "chiplets",
+        "heterogeneous integration"
       ],
-      "summary": "単一チップでの微細化限界やコスト増に対応するため、複数の機能ブロック（チップレット）を組み合わせる異種集積化技術が重要性を増している。",
+      "summary": "微細化の限界が見える中、チップレットやヘテロジニアスインテグレーションを実現する先端パッケージング技術が性能向上とコスト削減の鍵となっています。",
       "analysis": {
-        "short_term": "パッケージング技術、接続技術、冷却技術の進化が鍵。",
-        "mid_term": "経済性とのバランスを取りながら、高性能化が進む。",
-        "investment_implications": "パッケージング、材料、設計ツール関連企業に機会。"
+        "short_term": "チップレット採用拡大で需要増。",
+        "mid_term": "新技術開発競争が激化。",
+        "investment_implications": "パッケージング材料・装置メーカーに期待。"
       },
       "keywords": [
-        "チップレット",
-        "異種集積化",
-        "パッケージング",
-        "低コスト",
-        "高性能"
+        "chiplets",
+        "packaging",
+        "heterogeneous integration",
+        "3D stacking"
       ],
       "companies_mentioned": [
-        "imec",
         "Lam Research",
-        "Rapidus"
+        "Rapidus",
+        "imec"
       ]
     },
     {
-      "name": "AIによる半導体製造プロセスの最適化と効率化",
+      "name": "半導体製造におけるAI活用進展",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "equipment",
+        "ai",
         "frontend",
         "backend",
-        "ai",
-        "industrial"
+        "equipment",
+        "foundry"
       ],
-      "summary": "半導体製造の各工程において、AIを活用したプロセス制御、歩留まり向上、設計最適化が進められており、生産性向上に貢献する。",
+      "summary": "設計・製造プロセスの最適化、歩留まり向上、品質管理など、半導体製造のあらゆる段階でAIの活用が進み、生産性向上に貢献しています。",
       "analysis": {
-        "short_term": "現場エンジニアが活用できる運用層の整備が急務。",
-        "mid_term": "AIによる自律的な製造ラインの実現が期待される。",
-        "investment_implications": "製造装置、検査装置、AIソリューション企業に注目。"
+        "short_term": "現場導入が進み、効果検証開始。",
+        "mid_term": "AIによる自律化・最適化が進む。",
+        "investment_implications": "製造装置・EDAツール関連企業に恩恵。"
       },
       "keywords": [
         "AI",
-        "半導体製造",
-        "プロセス最適化",
-        "歩留まり向上",
-        "自動化"
+        "semiconductor manufacturing",
+        "process optimization",
+        "yield improvement"
       ],
       "companies_mentioned": [
-        "アドバンテスト",
-        "シーメンス"
+        "Advantest",
+        "Siemens"
       ]
     },
     {
-      "name": "次世代メモリ技術の進化とAIワークロードへの対応",
+      "name": "地政学リスクとサプライチェーン再編",
       "confidence": 0.75,
-      "momentum": "rising",
+      "momentum": "stable",
       "related_fields": [
-        "memory",
-        "ai",
-        "datacenter"
+        "geopolitics",
+        "foundry",
+        "equipment",
+        "frontend",
+        "backend"
       ],
-      "summary": "AI、特にLLM（大規模言語モデル）の推論処理において、低遅延・高効率なメモリ技術（HBM、SRAMベースなど）の開発競争が激化している。",
+      "summary": "米中対立やサプライチェーンの脆弱性への懸念から、各国で半導体生産拠点の国内回帰や連携強化が進み、グローバルなサプライチェーン再編が進んでいます。",
       "analysis": {
-        "short_term": "HBMの需要増と供給制約が市場を牽引。",
-        "mid_term": "新たなアーキテクチャや材料による性能向上が進む。",
-        "investment_implications": "HBM関連、AI向けメモリソリューション企業に投資機会。"
+        "short_term": "地政学リスクは継続。",
+        "mid_term": "サプライチェーンの多様化・強靭化。",
+        "investment_implications": "新興生産国・地域への投資機会。"
       },
       "keywords": [
-        "メモリ",
-        "AI",
-        "LLM",
-        "HBM",
-        "SRAM"
+        "geopolitics",
+        "supply chain",
+        "reshoring",
+        "diversification"
       ],
       "companies_mentioned": [
-        "Groq",
-        "NVIDIA",
-        "大阪大"
+        "ASML",
+        "Tata",
+        "imec"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続的な拡大",
-      "EV市場の成長に伴う車載半導体需要の堅調さ",
-      "先端プロセス（2nm等）の量産開始に向けた動き",
-      "パワー半導体（SiC/GaN）の需要急増"
+      "EV市場の拡大によるパワー半導体需要の増加",
+      "AIインフラ投資の継続と拡大",
+      "先端パッケージング技術への期待",
+      "半導体製造におけるAI活用の進展"
     ],
     "bearish": [
       "地政学リスクによるサプライチェーンの不確実性",
-      "一部メモリ市場における価格競争の可能性"
+      "先端プロセス開発における巨額投資と技術的ハードル"
     ],
     "neutral": [
-      "チップレット技術の経済性に関する不透明感",
-      "量子コンピューティングへの巨額投資の長期的なリターン予測"
+      "メモリ市場のサイクル変動",
+      "半導体材料市場の堅調な成長"
     ]
   },
-  "source_count": 33
+  "source_count": 36
 }
