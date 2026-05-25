@@ -1,58 +1,57 @@
 {
-  "generated_at": "2026-05-15T06:28:07.954351+09:00",
+  "generated_at": "2026-05-26T06:28:19.730050+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "データセンター向けに245TバイトのSSD、Micronが出荷開始",
-    "summary": "Micronがデータセンター向けに245TBのSSD「6600 ION」を出荷開始。ラック数82%削減、消費電力半減。",
+    "title": "ADIがEmpower買収　データセンター市場に照準",
+    "summary": "ADIがデータセンター市場を狙い、IVR専業のEmpower Semiconductorを買収。高効率な電源ソリューション強化が狙い。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news035.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news060.html"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Micron ships 245-TB data center SSD",
-        "blurb": "マイクロン、データセンター向けに245TB SSD「6600 ION」出荷開始。AIインフラのストレージ密度向上に貢献。",
-        "category": "company",
-        "date": "2026-05-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/micron-ships-245-tb-data-center-ssd"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": "idm"
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "データセンター向けに245TバイトのSSD、Micronが出荷開始",
-        "blurb": "Micronがデータセンター向けに245TBのSSD「6600 ION」を出荷開始。ラック数82%削減、消費電力半減。",
+        "title": "ADIがEmpower買収　データセンター市場に照準",
+        "blurb": "ADIがデータセンター市場を狙い、IVR専業のEmpower Semiconductorを買収。高効率な電源ソリューション強化が狙い。",
         "category": "business",
-        "date": "2026-05-14",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/14/news035.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news060.html"
         },
         "field": {
           "primary": "datacenter",
           "device": null,
           "process": null,
           "market": "datacenter",
-          "industry": "idm"
+          "industry": null
+        }
+      },
+      {
+        "title": "「800Vシステムは2027年から提供予定」 TIのAI電源戦略",
+        "blurb": "日本TIはAIデータセンター向け800V DCアーキテクチャを2027年から提供予定。NVIDIAと共同開発。",
+        "category": "business",
+        "date": "2026-05-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news038.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
         }
       }
     ]

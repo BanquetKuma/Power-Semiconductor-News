@@ -1,32 +1,50 @@
 {
-  "generated_at": "2026-05-23T06:27:44.182055+09:00",
+  "generated_at": "2026-05-26T06:28:19.729110+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Navitas’ TAP SiC Gate Oxide Reliability, Bosch Gen3 SiC, pSemi’s Adiabatic Charge Pump: Power Electronics Week Insights",
-    "summary": "NavitasのSiCゲート酸化膜信頼性、BoschのSiC、pSemiのチャージポンプなど、パワーエレクトロニクス分野の最新動向。",
+    "title": "Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package",
+    "summary": "東芝、QDPAKパッケージの1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/navitas-tap-sic-gate-oxide-reliability-bosch-gen3-sic-psemis-adiabatic-charge-pump-power-electronics-week-insights"
+        "url": "https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Navitas’ TAP SiC Gate Oxide Reliability, Bosch Gen3 SiC, pSemi’s Adiabatic Charge Pump: Power Electronics Week Insights",
-        "blurb": "NavitasのSiCゲート酸化膜信頼性、BoschのSiC、pSemiのチャージポンプなど、パワーエレクトロニクス分野の最新動向。",
-        "category": "business",
-        "date": "2026-05-22",
+        "title": "Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package",
+        "blurb": "東芝、QDPAKパッケージの1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向け。",
+        "category": "company",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-tap-sic-gate-oxide-reliability-bosch-gen3-sic-psemis-adiabatic-charge-pump-power-electronics-week-insights"
+          "url": "https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "GaN FET Drivers Enhance LiDAR Performance",
+        "blurb": "GaN FETドライバーはLiDARシステムで短く高電流のレーザーパルスを可能にし、性能を向上させる。",
+        "category": "tools",
+        "date": "2026-05-25",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/gan-fet-drivers-enhance-lidar-performance"
         },
         "field": {
           "primary": "power",
@@ -35,40 +53,24 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "market": [
       {
-        "title": "How Bosch Gen 3 SiC Improves EV Powertrain Efficiency",
-        "blurb": "ボッシュの第3世代SiCは、EVパワートレインの効率を向上させ、コスト削減にも貢献します。",
+        "title": "Wolfspeed Debuts High-Power SiC Modules at PCIM 2026",
+        "blurb": "WolfspeedはPCIM 2026でAIデータセンターや再生可能エネルギー向けの新SiCモジュールを発表。効率と拡張性を向上。",
         "category": "business",
-        "date": "2026-05-22",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/how-bosch-gen-3-sic-improves-ev-powertrain-efficiency"
+          "url": "https://www.powerelectronicsnews.com/wolfspeed-debuts-high-power-sic-modules-at-pcim-2026"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Navitas Unveils AI Data Center and Grid Power Technologies at PCIM 2026",
-        "blurb": "NavitasはPCIM 2026でAIデータセンター・スマートグリッド向けGaN・SiC技術を発表。",
-        "category": "business",
-        "date": "2026-05-22",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-unveils-ai-data-center-and-grid-power-technologies-at-pcim-2026"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "datacenter",
+          "market": null,
           "industry": null
         }
       }
