@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-26T06:28:19.729110+09:00",
+  "generated_at": "2026-05-27T06:34:22.614636+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package",
-    "summary": "東芝、QDPAKパッケージの1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向け。",
+    "title": "Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules",
+    "summary": "三菱電機、第8世代IGBTモジュール発表。インバータ電力損失を最大19%削減。新1000Aモデルも登場。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package"
+        "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules"
       }
     ]
   },
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package",
-        "blurb": "東芝、QDPAKパッケージの1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向け。",
+        "blurb": "東芝、1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向けで、損失低減に貢献。",
         "category": "company",
         "date": "2026-05-26",
         "stars": 3,
@@ -33,18 +33,34 @@
           "market": "industrial",
           "industry": null
         }
-      }
-    ],
-    "tech": [
+      },
       {
-        "title": "GaN FET Drivers Enhance LiDAR Performance",
-        "blurb": "GaN FETドライバーはLiDARシステムで短く高電流のレーザーパルスを可能にし、性能を向上させる。",
-        "category": "tools",
-        "date": "2026-05-25",
+        "title": "Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules",
+        "blurb": "三菱電機、第8世代IGBTモジュール発表。インバータ電力損失を最大19%削減。新1000Aモデルも登場。",
+        "category": "company",
+        "date": "2026-05-27",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/gan-fet-drivers-enhance-lidar-performance"
+          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The GaN Ecosystem Developing for SmallSats in New Space",
+        "blurb": "TI、ルネサスなどが窒化ガリウム（GaN）エコシステムを開発。宇宙用小型衛星の電源システム向けに放射線耐性デバイスを提供。",
+        "category": "company",
+        "date": "2026-05-27",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-gan-ecosystem-developing-for-smallsats-in-new-space"
         },
         "field": {
           "primary": "power",
@@ -55,22 +71,23 @@
         }
       }
     ],
+    "tech": [],
     "market": [
       {
-        "title": "Wolfspeed Debuts High-Power SiC Modules at PCIM 2026",
-        "blurb": "WolfspeedはPCIM 2026でAIデータセンターや再生可能エネルギー向けの新SiCモジュールを発表。効率と拡張性を向上。",
+        "title": "Real-World Solid-State Transformers Overcome Barriers to Meet Adoption Needs of AC and DC Networks",
+        "blurb": "SiC・GaN技術の成熟とAIデータセンターの電力需要増により、実用的な全固体変圧器の導入が進展。AC/DCネットワークの需要に対応。",
         "category": "business",
-        "date": "2026-05-25",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wolfspeed-debuts-high-power-sic-modules-at-pcim-2026"
+          "url": "https://www.powerelectronicsnews.com/real-world-solid-state-transformers-overcome-barriers-to-meet-adoption-needs-of-ac-and-dc-networks"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
+          "market": "datacenter",
           "industry": null
         }
       }

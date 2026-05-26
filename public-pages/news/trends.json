@@ -1,177 +1,174 @@
 {
-  "generated_at": "2026-05-26T06:28:25.844417+09:00",
-  "date": "2026-05-26",
+  "generated_at": "2026-05-27T06:34:28.034271+09:00",
+  "date": "2026-05-27",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の需要拡大",
+      "name": "次世代パワー半導体の進化と需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "datacenter",
-        "industrial"
+        "ai"
       ],
-      "summary": "AIデータセンター、EV、再生可能エネルギー分野でSiC/GaNデバイスの採用が進み、高効率化・高性能化に貢献。東芝、Wolfspeed、Navitasなどが新製品を投入。",
+      "summary": "SiCやGaNなどの新材料を用いた高効率・高出力パワー半導体の開発が進み、EV、AIデータセンター、再生可能エネルギー分野での需要が急拡大している。",
       "analysis": {
-        "short_term": "需要は引き続き堅調。供給能力が鍵。",
-        "mid_term": "EVシフト加速でSiC需要は高まる。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味あり。"
+        "short_term": "SiC/GaNデバイスの供給能力増強が鍵。",
+        "mid_term": "EV普及とデータセンター増強で需要は堅調。",
+        "investment_implications": "材料・デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "AI",
-        "データセンター"
+        "AIデータセンター",
+        "IGBT"
       ],
       "companies_mentioned": [
-        "Toshiba",
+        "三菱電機",
+        "TI",
+        "ルネサス",
+        "東芝",
         "Wolfspeed",
-        "Navitas",
-        "Bosch",
-        "STMicroelectronics"
+        "STマイクロエレクトロニクス",
+        "ローム",
+        "ADI"
       ]
     },
     {
-      "name": "AI・データセンター向け高性能化",
+      "name": "AI向け高性能・高効率半導体競争激化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
+        "memory",
         "logic",
-        "backend",
-        "memory"
+        "equipment",
+        "backend"
       ],
-      "summary": "AI処理能力向上のため、GPU、チップレット、SRAMベース推論パイプラインなど、コンポーネントレベルでの性能・効率向上が進む。NVIDIA、AMDが主導。",
+      "summary": "AI、特にLLMの推論処理において、GPUやSRAMベースの専用チップによる低遅延・高効率化が求められ、NVIDIA、Groqなどが技術開発をリードしている。",
       "analysis": {
-        "short_term": "NVIDIAの受注残高が示す通り、需要は旺盛。",
-        "mid_term": "チップレット、3D積層技術の進化が鍵。",
-        "investment_implications": "AIインフラ関連技術・企業に注目。"
+        "short_term": "NVIDIAの供給能力と顧客需要のバランス。",
+        "mid_term": "推論特化型チップの多様化が進む。",
+        "investment_implications": "AIチップメーカーと関連装置への注目。"
       },
       "keywords": [
         "AI",
+        "LLM",
         "GPU",
-        "チップレット",
-        "データセンター",
-        "NVIDIA"
+        "SRAM",
+        "推論"
       ],
       "companies_mentioned": [
-        "NVIDIA",
+        "Micron",
         "AMD",
+        "NVIDIA",
         "Groq",
-        "ADI",
-        "Texas Instruments"
+        "Lam Research"
       ]
     },
     {
       "name": "先端パッケージング技術の重要性増大",
-      "confidence": 0.85,
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "ai",
         "datacenter",
-        "equipment",
-        "miniaturization"
+        "logic",
+        "equipment"
       ],
-      "summary": "チップレット、2.5D/3D統合システムにおいて、性能向上とコスト削減のため、異種集積、低温度はんだ、感光性ポリイミドフィルムなどの技術が重要視される。",
+      "summary": "AI半導体の大型化やチップレット化に対応するため、パネルレベルパッケージング（PLP）や2.5D/3D統合などの先端パッケージング技術が重要性を増している。",
       "analysis": {
-        "short_term": "サプライチェーンの安定化が課題。",
-        "mid_term": "ヘテロジニアスインテグレーションのロードマップが鍵。",
+        "short_term": "PLP技術の量産化とコスト削減が課題。",
+        "mid_term": "チップレットエコシステムの発展が加速。",
         "investment_implications": "パッケージング材料・装置メーカーに機会。"
       },
       "keywords": [
-        "チップレット",
-        "2.5D/3D",
         "パッケージング",
-        "異種集積",
-        "低温度はんだ"
+        "チップレット",
+        "PLP",
+        "2.5D/3D",
+        "AI"
       ],
       "companies_mentioned": [
-        "旭化成",
         "Lam Research",
-        "ASML",
-        "Rapidus"
+        "旭化成",
+        "Grenoble INP – UGA"
       ]
     },
     {
-      "name": "EV向け半導体ソリューションの進化",
-      "confidence": 0.8,
+      "name": "車載半導体の高度化と安全性向上",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "power",
-        "analog",
-        "industrial"
+        "logic",
+        "analog"
       ],
-      "summary": "EVバッテリー管理IC、高絶縁オプトカプラ、SiCパワートレイン効率化など、安全性、効率性、信頼性向上のための半導体ソリューションが進化。",
+      "summary": "EV向けバッテリー管理ICやADAS/DMS向けSoC電源ソリューションなど、車載半導体は安全性、効率性、知能化の要求が高まっている。",
       "analysis": {
-        "short_term": "EV販売台数に連動して需要は安定。",
-        "mid_term": "次世代バッテリー技術開発が影響。",
-        "investment_implications": "車載半導体メーカーの動向を注視。"
+        "short_term": "ADAS普及に伴うSoC需要は堅調。",
+        "mid_term": "自動運転レベル向上でさらなる進化。",
+        "investment_implications": "車載向け半導体メーカーに安定成長期待。"
       },
       "keywords": [
+        "車載",
         "EV",
+        "ADAS",
         "バッテリー管理",
-        "SiC",
-        "オプトカプラ",
-        "車載半導体"
+        "SoC"
       ],
       "companies_mentioned": [
-        "STMicroelectronics",
-        "Vishay",
-        "Bosch"
+        "STマイクロエレクトロニクス",
+        "ローム"
       ]
     },
     {
-      "name": "半導体製造技術の高度化と地域分散",
+      "name": "宇宙・新スペース分野での半導体需要",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "equipment",
-        "geopolitics",
-        "foundry",
-        "wafer"
+        "power",
+        "automotive",
+        "geopolitics"
       ],
-      "summary": "高NA EUVリソグラフィ、量子デバイス作製、300mm工場の自動化・地域分散（インドなど）が進む。製造装置メーカーの役割が大きい。",
+      "summary": "小型衛星向けに、放射線耐性を持つGaNデバイスなどの特殊な半導体が開発され、宇宙開発の進展と共に需要が増加している。",
       "analysis": {
-        "short_term": "地政学リスクによるサプライチェーン再編。",
-        "mid_term": "新興国での生産能力増強が加速。",
-        "investment_implications": "先端製造装置・材料メーカーに注目。"
+        "short_term": "宇宙開発予算の動向が影響。",
+        "mid_term": "衛星コンステレーション拡大で需要増。",
+        "investment_implications": "ニッチだが成長分野への注目。"
       },
       "keywords": [
-        "EUV",
-        "リソグラフィ",
-        "量子デバイス",
-        "地域分散",
-        "製造装置"
+        "宇宙",
+        "小型衛星",
+        "GaN",
+        "放射線耐性"
       ],
       "companies_mentioned": [
-        "imec",
-        "ASML",
-        "Tata",
-        "Lam Research"
+        "TI",
+        "ルネサス"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI/データセンター向け半導体需要の継続的な増加",
-      "SiC/GaNパワー半導体の市場拡大",
-      "EV市場の成長に伴う車載半導体需要の増加",
-      "先端パッケージング技術への投資活発化"
+      "AI関連半導体および装置の需要拡大（NVIDIA受注残1兆ドル超）",
+      "EV市場の成長に伴うパワー半導体（SiC/GaN）需要の増加",
+      "データセンター投資の活発化（800Vシステム採用など）",
+      "先端パッケージング技術への投資加速（PLPなど）"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "先端製造装置の供給制約"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "一部汎用メモリ市場の価格変動リスク"
     ],
     "neutral": [
-      "半導体製造の地域分散化の進展",
-      "量子コンピューティングへの巨額投資"
+      "半導体製造装置の技術革新（高NA EUVなど）",
+      "量子コンピューティング分野への大型投資開始"
     ]
   },
-  "source_count": 38
+  "source_count": 35
 }

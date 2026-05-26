@@ -1,25 +1,64 @@
 {
-  "generated_at": "2026-05-26T06:28:19.729373+09:00",
+  "generated_at": "2026-05-27T06:34:22.615375+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Improving GPU Energy Efficiency With Component-Level Power Management (AMD)",
-    "summary": "AMDの研究者がGPUの電力効率を向上させるコンポーネントレベルの電力管理技術を発表。ML分野でのGPU需要増大に対応。",
+    "title": "Characterization of GPU-based Inference for Reasoning-Centric LLMs (Micron, Argonne)",
+    "summary": "MicronとArgonne国立研究所が、推論中心LLMのGPU推論に関する研究結果を発表。システム要件の変化と性能原則を分析。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/improving-gpu-energy-efficiency-with-component-level-power-management-amd"
+        "url": "https://semiengineering.com/characterization-of-gpu-based-inference-for-reasoning-centric-llms-micron-argonne"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Improving GPU Energy Efficiency With Component-Level Power Management (AMD)",
-        "blurb": "AMDの研究者がGPUの電力効率を向上させるコンポーネントレベルの電力管理技術を発表。ML分野でのGPU需要増大に対応。",
+        "title": "車載SoC向け電源ソリューション、ロームが開発",
+        "blurb": "ロームが車載SoC向け電源ソリューションを開発。ADASやDMSなどに活用。",
         "category": "company",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news030.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Characterization of GPU-based Inference for Reasoning-Centric LLMs (Micron, Argonne)",
+        "blurb": "MicronとArgonne国立研究所が、推論中心LLMのGPU推論に関する研究結果を発表。システム要件の変化と性能原則を分析。",
+        "category": "company",
+        "date": "2026-05-27",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/characterization-of-gpu-based-inference-for-reasoning-centric-llms-micron-argonne"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Improving GPU Energy Efficiency With Component-Level Power Management (AMD)",
+        "blurb": "AMDの研究者がGPUの電力効率を改善する「CompPow」を発表。MLデータセンターでのGPU消費電力削減を目指す。",
+        "category": "business",
         "date": "2026-05-26",
         "stars": 3,
         "source": {
@@ -33,9 +72,43 @@
           "market": null,
           "industry": "fabless"
         }
+      },
+      {
+        "title": "The 50G PON gateway SoC supports edge AI, Wi-Fi 8",
+        "blurb": "Wi-Fi 8対応の50G PONゲートウェイSoCが登場。エッジAI処理用のNPUを統合。",
+        "category": "business",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/the-50g-pon-gateway-soc-supports-edge-ai-wi-fi-8"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Broadcom Expands Edge AI Broadband Portfolio",
+        "blurb": "BroadcomがAI処理NPU搭載の50G PONホームゲートウェイSoC「BCM68850」を発表。Wi-Fi 8にも対応し、エッジAI・ブロードバンド製品群を拡充。",
+        "category": "business",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/broadcom-expands-edge-ai-broadband-portfolio"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

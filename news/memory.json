@@ -1,51 +1,70 @@
 {
-  "generated_at": "2026-05-23T06:27:44.182405+09:00",
+  "generated_at": "2026-05-27T06:34:22.614994+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
-    "summary": "Groqの研究者がLLM推論の低遅延・高効率化技術「SHIP」を発表。SRAMベースで高速化を図る。",
+    "title": "Chip Industry Technical Paper Roundup: May 26",
+    "summary": "半導体業界の技術論文まとめ。SRAMベースLLM推論、2D材料転写、RISC-Vベクトル性能、信頼性の高いGenAIなど。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/large-scale-sram-based-llm-inference-deployment-groq"
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-26"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
-        "blurb": "Groqの研究者がLLM推論の低遅延・高効率化技術「SHIP」を発表。SRAMベースで高速化を図る。",
+        "title": "Impact of Band-to-Band Tunneling in the CTL of V-NAND Flash Memory (U. of Seoul, Samsung)",
+        "blurb": "ソウル大学とサムスンがV-NANDフラッシュメモリのCTLにおけるBTBT影響を論文発表。過剰消去条件下の挙動を調査。",
         "category": "company",
-        "date": "2026-05-22",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/large-scale-sram-based-llm-inference-deployment-groq"
+          "url": "https://semiengineering.com/impact-of-band-to-band-tunneling-in-the-ctl-of-v-nand-flash-memory-u-of-seoul-samsung"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": "fabless"
+          "industry": "idm"
         }
       }
     ],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "AI時代を切り開くNVIDIAの戦略に脱帽　受注残1兆ドル超の衝撃",
-        "blurb": "NVIDIAの2027年度第1四半期決算は市場予想を上回り、受注残1兆ドル超。AIファクトリーや推論AI戦略が鮮明化し、AI・半導体市場の今後を示す。",
-        "category": "business",
-        "date": "2026-05-22",
+        "title": "Flash diagnostics and health monitoring for NOR memory",
+        "blurb": "NORメモリの診断と健全性監視は、事後対応から事前監視への移行を意味します。",
+        "category": "tools",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news061.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/flash-diagnostics-and-health-monitoring-for-nor-memory"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Chip Industry Technical Paper Roundup: May 26",
+        "blurb": "半導体業界の技術論文まとめ。SRAMベースLLM推論、2D材料転写、RISC-Vベクトル性能、信頼性の高いGenAIなど。",
+        "category": "business",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-26"
         },
         "field": {
           "primary": "memory",

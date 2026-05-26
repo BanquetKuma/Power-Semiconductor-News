@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-05-26T06:28:19.730050+09:00",
+  "generated_at": "2026-05-27T06:34:22.615998+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ADIがEmpower買収　データセンター市場に照準",
-    "summary": "ADIがデータセンター市場を狙い、IVR専業のEmpower Semiconductorを買収。高効率な電源ソリューション強化が狙い。",
+    "title": "Detecting Defect-Induced Silent Data Corruptions in CPUs (Stanford, Google)",
+    "summary": "スタンフォード大とGoogleがCPUの欠陥によるデータ破損を検出する新手法「ITHICA」を発表。製造上の欠陥を特定し、信頼性向上を目指す。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news060.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/detecting-defect-induced-silent-data-corruptions-in-cpus-stanford-google"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "ADIがEmpower買収　データセンター市場に照準",
-        "blurb": "ADIがデータセンター市場を狙い、IVR専業のEmpower Semiconductorを買収。高効率な電源ソリューション強化が狙い。",
-        "category": "business",
-        "date": "2026-05-25",
+        "title": "Detecting Defect-Induced Silent Data Corruptions in CPUs (Stanford, Google)",
+        "blurb": "スタンフォード大とGoogleがCPUの欠陥によるデータ破損を検出する新手法「ITHICA」を発表。製造上の欠陥を特定し、信頼性向上を目指す。",
+        "category": "company",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news060.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "「800Vシステムは2027年から提供予定」 TIのAI電源戦略",
-        "blurb": "日本TIはAIデータセンター向け800V DCアーキテクチャを2027年から提供予定。NVIDIAと共同開発。",
-        "category": "business",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news038.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/detecting-defect-induced-silent-data-corruptions-in-cpus-stanford-google"
         },
         "field": {
           "primary": "datacenter",
@@ -54,6 +34,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

@@ -1,284 +1,90 @@
 {
-  "generated_at": "2026-05-26T06:28:19.728086+09:00",
+  "generated_at": "2026-05-25T06:21:13.192843+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package",
-    "summary": "東芝、QDPAKパッケージの1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向け。",
+    "title": "ST Launches Enhanced Lithium Battery Management IC",
+    "summary": "STマイクロエレクトロニクスは、EVバッテリーシステム向けに安全性、同期、監視を強化した新しいリチウムイオン電池管理IC「L9963F」を発表しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package"
+        "url": "https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic"
       }
     ]
   },
   "sections": {
-    "business": [
-      {
-        "title": "Wolfspeed Debuts High-Power SiC Modules at PCIM 2026",
-        "blurb": "WolfspeedはPCIM 2026でAIデータセンターや再生可能エネルギー向けの新SiCモジュールを発表。効率と拡張性を向上。",
-        "category": "business",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wolfspeed-debuts-high-power-sic-modules-at-pcim-2026"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ADIがEmpower買収　データセンター市場に照準",
-        "blurb": "ADIがデータセンター市場を狙い、IVR専業のEmpower Semiconductorを買収。高効率な電源ソリューション強化が狙い。",
-        "category": "business",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news060.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "「800Vシステムは2027年から提供予定」 TIのAI電源戦略",
-        "blurb": "日本TIはAIデータセンター向け800V DCアーキテクチャを2027年から提供予定。NVIDIAと共同開発。",
-        "category": "business",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news038.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "AI時代のメモリ／ストレージ覇権――電子版2026年5月号",
-        "blurb": "AI時代のメモリ・ストレージ覇権争いを特集。電子版2026年5月号でEE Exclusiveとして先行公開。",
-        "category": "business",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news034.html"
-        },
-        "field": null
-      },
-      {
-        "title": "56G MezzaWave Connectors Provide Drop-In Compatibility for Rugged Systems",
-        "blurb": "TE Connectivityの新コネクタは、最大56Gbpsのデータレートと統合電源ピンを提供し、高密度モジュラーシステムに対応します。",
-        "category": "business",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/56g-mezzawave-connectors-provide-drop-in-compatibility-for-rugged-systems"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "GaN FET Drivers Enhance LiDAR Performance",
-        "blurb": "GaN FETドライバーはLiDARシステムで短く高電流のレーザーパルスを可能にし、性能を向上させる。",
-        "category": "tools",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/gan-fet-drivers-enhance-lidar-performance"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Portable jump starters: A dubious primary use case, but not a total waste",
-        "blurb": "ポータブルジャンプスターターは車のバッテリー始動能力に疑問があるが、他の用途もある。",
-        "category": "tools",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/portable-jump-starters-a-dubious-primary-use-case-but-not-a-total-waste"
-        },
-        "field": null
-      },
-      {
-        "title": "Gas discharge tubes (GDTs): From sparks to circuit protection",
-        "blurb": "ガス放電管（GDT）は、雷サージやスイッチング操作による過渡サージから電子機器を保護します。",
-        "category": "tools",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/gas-discharge-tubes-gdts-from-sparks-to-circuit-protection"
-        },
-        "field": null
-      },
-      {
-        "title": "Designing low-power CGMs with TMR-based magnetic sensing",
-        "blurb": "低消費電力CGM設計にTMR磁気センサーを活用。リアルタイム血糖値測定で糖尿病管理を変革。",
-        "category": "tools",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/designing-low-power-cgms-with-tmr-based-magnetic-sensing"
-        },
-        "field": null
-      }
-    ],
+    "business": [],
+    "tools": [],
     "company": [
       {
-        "title": "Stackpole Introduces Low-VCR High-Voltage Chip Resistors",
-        "blurb": "Stackpoleが低VCR・高電圧チップ抵抗器RVCUを発表。高電圧分圧回路向けに安定した性能を提供。",
+        "title": "ST Launches Enhanced Lithium Battery Management IC",
+        "blurb": "STマイクロエレクトロニクスは、EVバッテリーシステム向けに安全性、同期、監視を強化した新しいリチウムイオン電池管理IC「L9963F」を発表しました。",
         "category": "company",
-        "date": "2026-05-25",
+        "date": "2026-05-23",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/stackpole-introduces-low-vcr-high-voltage-chip-resistors"
+          "url": "https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic"
         },
         "field": {
-          "primary": "general",
+          "primary": "automotive",
           "device": null,
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "ヒートシンクアタッチ向けの銅焼結材料を開発、三井金属",
-        "blurb": "三井金属がヒートシンクアタッチ向け銅焼結材料「Cuprima」を開発。大面積接合に適し、放熱性能向上に貢献。",
+        "title": "Electrical Power Architecture of CubeSats and SmallSats",
+        "blurb": "CubeSatの電力システムは、太陽光発電、バッテリー管理、小型化設計におけるSWaP-C制約のバランスが重要です。",
         "category": "company",
-        "date": "2026-05-25",
+        "date": "2026-05-23",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news026.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/electrical-power-architecture-of-cubesats-and-smallsats"
         },
         "field": null
       },
       {
-        "title": "「賭け」に勝った台湾　半導体産業の成功の裏にある切実さ",
-        "blurb": "台湾の半導体産業の成功は、映画「チップ・オデッセイ 台湾の賭け」で描かれるような、切実な「賭け」に勝利した結果である。",
+        "title": "Vishay Introduces High-Isolation Automotive Optocouplers",
+        "blurb": "VishayがEV・太陽光発電向け高絶縁・長沿面距離の車載用フォトカプラを発表。",
         "category": "company",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news059.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "先端半導体パッケージ向け感光性ポリイミドフィルム、旭化成",
-        "blurb": "旭化成は、AI半導体向け感光性ポリイミドフィルムを開発。大面積化、微細化、多層化ニーズに対応。",
-        "category": "company",
-        "date": "2026-05-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news025.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": "miniaturization",
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package",
-        "blurb": "東芝、QDPAKパッケージの1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向け。",
-        "category": "company",
-        "date": "2026-05-26",
+        "date": "2026-05-23",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package"
+          "url": "https://www.powerelectronicsnews.com/vishay-introduces-high-isolation-automotive-optocouplers"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Side-Channel Risks Across  2.5D/3D Integration and Chiplet-Based Systems (Grenoble INP – UGA et al.)",
-        "blurb": "チップレット技術の進化に伴い、2.5D/3D統合システムにおけるサイドチャネル攻撃のリスクが増大。セキュリティ対策が急務。",
-        "category": "company",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/side-channel-risks-across-advanced-chiplet-packages-uga-cnrs"
-        },
-        "field": {
-          "primary": "backend",
+          "primary": "automotive",
           "device": null,
-          "process": "backend",
-          "market": null,
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "Improving GPU Energy Efficiency With Component-Level Power Management (AMD)",
-        "blurb": "AMDの研究者がGPUの電力効率を向上させるコンポーネントレベルの電力管理技術を発表。ML分野でのGPU需要増大に対応。",
+        "title": "AI-powered medical imaging: Turning data into faster diagnoses",
+        "blurb": "AIが医療画像を解析し、迅速な診断を支援。データ活用で医療の質向上に貢献。",
         "category": "company",
-        "date": "2026-05-26",
+        "date": "2026-05-23",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/improving-gpu-energy-efficiency-with-component-level-power-management-amd"
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-powered-medical-imaging-turning-data-into-faster-diagnoses"
         },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
+        "field": null
       },
       {
-        "title": "Melexis Launches Automotive 18-Channel LIN RGB LED Controller",
-        "blurb": "Melexisが、車載用18ch LIN RGB LEDコントローラMLX81119を発表。DC/DCコンバータ内蔵で、車載照明の簡素化と省電力化を実現。",
+        "title": "Zonal Architectures for SDVs, Variscite's new VAR-SMARC SoM, Connector Survey: Embedded Week Insights",
+        "blurb": "SDV向けゾーナルアーキテクチャ、Varisciteの新SoM、コネクタ調査の最新情報。",
         "category": "company",
-        "date": "2026-05-26",
+        "date": "2026-05-23",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/melexis-launches-automotive-18-channel-lin-rgb-led-controller"
+          "url": "https://www.embedded.com/zonal-architectures-for-sdvs-variscites-new-var-smarc-som-connector-survey-embedded-week-insights"
         },
         "field": null
       }

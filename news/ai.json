@@ -1,41 +1,59 @@
 {
-  "generated_at": "2026-05-26T06:28:19.729727+09:00",
+  "generated_at": "2026-05-27T06:34:22.615753+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "先端半導体パッケージ向け感光性ポリイミドフィルム、旭化成",
-    "summary": "旭化成は、AI半導体向け感光性ポリイミドフィルムを開発。大面積化、微細化、多層化ニーズに対応。",
+    "title": "AI半導体で「パネルは新たなフロンティア」、Lamの装置戦略",
+    "summary": "AI半導体大型化で、パッケージングの主戦場が円形ウエハーから大型パネルへ移行。Lam Researchはパネルレベルパッケージング（PLP）技術を強化し、装置戦略を語った。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news025.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news057.html"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "先端半導体パッケージ向け感光性ポリイミドフィルム、旭化成",
-        "blurb": "旭化成は、AI半導体向け感光性ポリイミドフィルムを開発。大面積化、微細化、多層化ニーズに対応。",
-        "category": "company",
-        "date": "2026-05-25",
+        "title": "AI半導体で「パネルは新たなフロンティア」、Lamの装置戦略",
+        "blurb": "AI半導体大型化で、パッケージングの主戦場が円形ウエハーから大型パネルへ移行。Lam Researchはパネルレベルパッケージング（PLP）技術を強化し、装置戦略を語った。",
+        "category": "business",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news025.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news057.html"
         },
         "field": {
           "primary": "ai",
           "device": null,
-          "process": "miniaturization",
+          "process": "backend",
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "先端半導体デバイス15品目、31年に224兆円規模へ",
+        "blurb": "富士キメラ総研は、AIサーバー向け需要増で半導体デバイス15品目の市場が2031年に224兆円規模になると予測した。",
+        "category": "business",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news029.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
           "market": "ai",
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
