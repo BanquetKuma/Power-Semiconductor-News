@@ -1,246 +1,144 @@
 {
-  "generated_at": "2026-05-27T06:34:22.613029+09:00",
+  "generated_at": "2026-05-26T06:28:19.728086+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules",
-    "summary": "三菱電機、第8世代IGBTモジュール発表。インバータ電力損失を最大19%削減。新1000Aモデルも登場。",
+    "title": "Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package",
+    "summary": "東芝、QDPAKパッケージの1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules"
+        "url": "https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Real-World Solid-State Transformers Overcome Barriers to Meet Adoption Needs of AC and DC Networks",
-        "blurb": "SiC・GaN技術の成熟とAIデータセンターの電力需要増により、実用的な全固体変圧器の導入が進展。AC/DCネットワークの需要に対応。",
+        "title": "Wolfspeed Debuts High-Power SiC Modules at PCIM 2026",
+        "blurb": "WolfspeedはPCIM 2026でAIデータセンターや再生可能エネルギー向けの新SiCモジュールを発表。効率と拡張性を向上。",
         "category": "business",
-        "date": "2026-05-26",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/real-world-solid-state-transformers-overcome-barriers-to-meet-adoption-needs-of-ac-and-dc-networks"
+          "url": "https://www.powerelectronicsnews.com/wolfspeed-debuts-high-power-sic-modules-at-pcim-2026"
         },
         "field": {
           "primary": "power",
           "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ADIがEmpower買収　データセンター市場に照準",
+        "blurb": "ADIがデータセンター市場を狙い、IVR専業のEmpower Semiconductorを買収。高効率な電源ソリューション強化が狙い。",
+        "category": "business",
+        "date": "2026-05-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news060.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
           "process": null,
           "market": "datacenter",
           "industry": null
         }
       },
       {
-        "title": "Chip Industry Technical Paper Roundup: May 26",
-        "blurb": "半導体業界の技術論文まとめ。SRAMベースLLM推論、2D材料転写、RISC-Vベクトル性能、信頼性の高いGenAIなど。",
+        "title": "「800Vシステムは2027年から提供予定」 TIのAI電源戦略",
+        "blurb": "日本TIはAIデータセンター向け800V DCアーキテクチャを2027年から提供予定。NVIDIAと共同開発。",
         "category": "business",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-26"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Improving GPU Energy Efficiency With Component-Level Power Management (AMD)",
-        "blurb": "AMDの研究者がGPUの電力効率を改善する「CompPow」を発表。MLデータセンターでのGPU消費電力削減を目指す。",
-        "category": "business",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/improving-gpu-energy-efficiency-with-component-level-power-management-amd"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "AI半導体で「パネルは新たなフロンティア」、Lamの装置戦略",
-        "blurb": "AI半導体大型化で、パッケージングの主戦場が円形ウエハーから大型パネルへ移行。Lam Researchはパネルレベルパッケージング（PLP）技術を強化し、装置戦略を語った。",
-        "category": "business",
-        "date": "2026-05-26",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news057.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news038.html"
         },
         "field": {
-          "primary": "ai",
+          "primary": "datacenter",
           "device": null,
-          "process": "backend",
-          "market": "ai",
+          "process": null,
+          "market": "datacenter",
           "industry": null
         }
       },
       {
-        "title": "Samsungの半導体四半期業績、過去最高の売上高と営業利益をさらに更新",
-        "blurb": "サムスン電子の2026年第1四半期決算は、売上高・営業利益ともに過去最高を更新した。",
+        "title": "AI時代のメモリ／ストレージ覇権――電子版2026年5月号",
+        "blurb": "AI時代のメモリ・ストレージ覇権争いを特集。電子版2026年5月号でEE Exclusiveとして先行公開。",
         "category": "business",
-        "date": "2026-05-26",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news031.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "先端半導体デバイス15品目、31年に224兆円規模へ",
-        "blurb": "富士キメラ総研は、AIサーバー向け需要増で半導体デバイス15品目の市場が2031年に224兆円規模になると予測した。",
-        "category": "business",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news029.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "AI augments advances in medical electronics",
-        "blurb": "AIの統合が医療電子機器の成長と進歩を加速させている。特にAIは...",
-        "category": "business",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-augments-advances-in-medical-electronics"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news034.html"
         },
         "field": null
       },
       {
-        "title": "The 50G PON gateway SoC supports edge AI, Wi-Fi 8",
-        "blurb": "Wi-Fi 8対応の50G PONゲートウェイSoCが登場。エッジAI処理用のNPUを統合。",
+        "title": "56G MezzaWave Connectors Provide Drop-In Compatibility for Rugged Systems",
+        "blurb": "TE Connectivityの新コネクタは、最大56Gbpsのデータレートと統合電源ピンを提供し、高密度モジュラーシステムに対応します。",
         "category": "business",
-        "date": "2026-05-26",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/the-50g-pon-gateway-soc-supports-edge-ai-wi-fi-8"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/56g-mezzawave-connectors-provide-drop-in-compatibility-for-rugged-systems"
         },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Broadcom Expands Edge AI Broadband Portfolio",
-        "blurb": "BroadcomがAI処理NPU搭載の50G PONホームゲートウェイSoC「BCM68850」を発表。Wi-Fi 8にも対応し、エッジAI・ブロードバンド製品群を拡充。",
-        "category": "business",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/broadcom-expands-edge-ai-broadband-portfolio"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": "fabless"
-        }
+        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Research Bits: May 26",
-        "blurb": "エネルギーハーベスティングディスプレイの3つのアプローチについて。",
+        "title": "GaN FET Drivers Enhance LiDAR Performance",
+        "blurb": "GaN FETドライバーはLiDARシステムで短く高電流のレーザーパルスを可能にし、性能を向上させる。",
         "category": "tools",
-        "date": "2026-05-26",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-may-26"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/gan-fet-drivers-enhance-lidar-performance"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "An Agent-Driven End-to-End HW-SW Co-Design Benchmark for Heterogeneous SoCs (Columbia, IBM)",
-        "blurb": "コロンビア大学とIBMが、異種SoC向けのエンドツーエンドHW-SW協調設計ベンチマーク「HSCO-Bench」を発表。LLM活用で設計評価の分離を解消。",
+        "title": "Portable jump starters: A dubious primary use case, but not a total waste",
+        "blurb": "ポータブルジャンプスターターは車のバッテリー始動能力に疑問があるが、他の用途もある。",
         "category": "tools",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/an-agent-driven-end-to-end-hw-sw-co-design-benchmark-for-heterogeneous-socs-columbia-ibm"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Power Tips #153: How to generate a regulated negative output from a negative input using a boost controller",
-        "blurb": "負入力から負出力への変換には、標準的な降圧コントローラでは対応できない。昇圧コントローラで解決する方法を紹介。",
-        "category": "tools",
-        "date": "2026-05-26",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/power-tips-153-how-to-generate-a-regulated-negative-output-from-a-negative-input-using-a-boost-controller"
+          "url": "https://www.edn.com/portable-jump-starters-a-dubious-primary-use-case-but-not-a-total-waste"
         },
         "field": null
       },
       {
-        "title": "Flash diagnostics and health monitoring for NOR memory",
-        "blurb": "NORメモリの診断と健全性監視は、事後対応から事前監視への移行を意味します。",
+        "title": "Gas discharge tubes (GDTs): From sparks to circuit protection",
+        "blurb": "ガス放電管（GDT）は、雷サージやスイッチング操作による過渡サージから電子機器を保護します。",
         "category": "tools",
-        "date": "2026-05-26",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/flash-diagnostics-and-health-monitoring-for-nor-memory"
+          "url": "https://www.edn.com/gas-discharge-tubes-gdts-from-sparks-to-circuit-protection"
         },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
         "title": "Designing low-power CGMs with TMR-based magnetic sensing",
-        "blurb": "TMRセンサーを用いた低消費電力CGM設計に関する記事。CGMはリアルタイム血糖値測定で糖尿病管理を変革。",
+        "blurb": "低消費電力CGM設計にTMR磁気センサーを活用。リアルタイム血糖値測定で糖尿病管理を変革。",
         "category": "tools",
         "date": "2026-05-26",
         "stars": 3,
@@ -249,36 +147,78 @@
           "url": "https://www.edn.com/designing-low-power-cgms-with-tmr-based-magnetic-sensing"
         },
         "field": null
-      },
-      {
-        "title": "Top 10 circuit-protection devices",
-        "blurb": "回路保護デバイスの性能が向上し、電子機器を保護するトップ10を紹介。",
-        "category": "tools",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/top-10-circuit-protection-devices-4"
-        },
-        "field": null
       }
     ],
     "company": [
       {
-        "title": "Infineon Expands CoolGaN BDS Family",
-        "blurb": "インフィニオン、スマホ等向け高効率CoolGaNスイッチ拡充。基板スペース削減と効率向上を実現。",
+        "title": "Stackpole Introduces Low-VCR High-Voltage Chip Resistors",
+        "blurb": "Stackpoleが低VCR・高電圧チップ抵抗器RVCUを発表。高電圧分圧回路向けに安定した性能を提供。",
         "category": "company",
-        "date": "2026-05-26",
+        "date": "2026-05-25",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-expands-coolgan-bds-family"
+          "url": "https://www.powerelectronicsnews.com/stackpole-introduces-low-vcr-high-voltage-chip-resistors"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ヒートシンクアタッチ向けの銅焼結材料を開発、三井金属",
+        "blurb": "三井金属がヒートシンクアタッチ向け銅焼結材料「Cuprima」を開発。大面積接合に適し、放熱性能向上に貢献。",
+        "category": "company",
+        "date": "2026-05-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news026.html"
         },
         "field": null
       },
       {
+        "title": "「賭け」に勝った台湾　半導体産業の成功の裏にある切実さ",
+        "blurb": "台湾の半導体産業の成功は、映画「チップ・オデッセイ 台湾の賭け」で描かれるような、切実な「賭け」に勝利した結果である。",
+        "category": "company",
+        "date": "2026-05-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news059.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "先端半導体パッケージ向け感光性ポリイミドフィルム、旭化成",
+        "blurb": "旭化成は、AI半導体向け感光性ポリイミドフィルムを開発。大面積化、微細化、多層化ニーズに対応。",
+        "category": "company",
+        "date": "2026-05-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/25/news025.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": "miniaturization",
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
         "title": "Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package",
-        "blurb": "東芝、1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向けで、損失低減に貢献。",
+        "blurb": "東芝、QDPAKパッケージの1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向け。",
         "category": "company",
         "date": "2026-05-26",
         "stars": 3,
@@ -295,44 +235,8 @@
         }
       },
       {
-        "title": "Detecting Defect-Induced Silent Data Corruptions in CPUs (Stanford, Google)",
-        "blurb": "スタンフォード大とGoogleがCPUの欠陥によるデータ破損を検出する新手法「ITHICA」を発表。製造上の欠陥を特定し、信頼性向上を目指す。",
-        "category": "company",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/detecting-defect-induced-silent-data-corruptions-in-cpus-stanford-google"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Impact of Band-to-Band Tunneling in the CTL of V-NAND Flash Memory (U. of Seoul, Samsung)",
-        "blurb": "ソウル大学とサムスンがV-NANDフラッシュメモリのCTLにおけるBTBT影響を論文発表。過剰消去条件下の挙動を調査。",
-        "category": "company",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/impact-of-band-to-band-tunneling-in-the-ctl-of-v-nand-flash-memory-u-of-seoul-samsung"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
         "title": "Side-Channel Risks Across  2.5D/3D Integration and Chiplet-Based Systems (Grenoble INP – UGA et al.)",
-        "blurb": "チップレット統合システムにおけるサイドチャネル攻撃のリスクが研究で明らかに。高度なパッケージング技術の普及に伴い、新たなセキュリティ課題が浮上。",
+        "blurb": "チップレット技術の進化に伴い、2.5D/3D統合システムにおけるサイドチャネル攻撃のリスクが増大。セキュリティ対策が急務。",
         "category": "company",
         "date": "2026-05-26",
         "stars": 3,
@@ -349,38 +253,26 @@
         }
       },
       {
-        "title": "「世界初」光ネットワークを自動で常時監視　NTTのトランシーバー",
-        "blurb": "NTTは光トランシーバーにネットワーク常時監視機能を搭載し、世界初の実証に成功。運用保守効率化に貢献。",
+        "title": "Improving GPU Energy Efficiency With Component-Level Power Management (AMD)",
+        "blurb": "AMDの研究者がGPUの電力効率を向上させるコンポーネントレベルの電力管理技術を発表。ML分野でのGPU需要増大に対応。",
         "category": "company",
         "date": "2026-05-26",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news079.html"
-        },
-        "field": null
-      },
-      {
-        "title": "車載SoC向け電源ソリューション、ロームが開発",
-        "blurb": "ロームが車載SoC向け電源ソリューションを開発。ADASやDMSなどに活用。",
-        "category": "company",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news030.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/improving-gpu-energy-efficiency-with-component-level-power-management-amd"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "automotive",
-          "industry": null
+          "market": null,
+          "industry": "fabless"
         }
       },
       {
         "title": "Melexis Launches Automotive 18-Channel LIN RGB LED Controller",
-        "blurb": "Melexisが、自動車用18ch LIN RGB LEDコントローラMLX81119を発表。DC/DCコンバータ内蔵で、車載照明の省スペース化と低消費電力化を実現。",
+        "blurb": "Melexisが、車載用18ch LIN RGB LEDコントローラMLX81119を発表。DC/DCコンバータ内蔵で、車載照明の簡素化と省電力化を実現。",
         "category": "company",
         "date": "2026-05-26",
         "stars": 3,
@@ -389,60 +281,6 @@
           "url": "https://www.embedded.com/melexis-launches-automotive-18-channel-lin-rgb-led-controller"
         },
         "field": null
-      },
-      {
-        "title": "Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules",
-        "blurb": "三菱電機、第8世代IGBTモジュール発表。インバータ電力損失を最大19%削減。新1000Aモデルも登場。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The GaN Ecosystem Developing for SmallSats in New Space",
-        "blurb": "TI、ルネサスなどが窒化ガリウム（GaN）エコシステムを開発。宇宙用小型衛星の電源システム向けに放射線耐性デバイスを提供。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-gan-ecosystem-developing-for-smallsats-in-new-space"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Characterization of GPU-based Inference for Reasoning-Centric LLMs (Micron, Argonne)",
-        "blurb": "MicronとArgonne国立研究所が、推論中心LLMのGPU推論に関する研究結果を発表。システム要件の変化と性能原則を分析。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/characterization-of-gpu-based-inference-for-reasoning-centric-llms-micron-argonne"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
       }
     ],
     "sns": []

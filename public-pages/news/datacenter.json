@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-05-27T06:34:22.615998+09:00",
+  "generated_at": "2026-05-28T06:36:27.844071+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Detecting Defect-Induced Silent Data Corruptions in CPUs (Stanford, Google)",
-    "summary": "スタンフォード大とGoogleがCPUの欠陥によるデータ破損を検出する新手法「ITHICA」を発表。製造上の欠陥を特定し、信頼性向上を目指す。",
+    "title": "DC Protection in High-Voltage AI Data Center Power Architectures",
+    "summary": "高電圧DC配電はAIデータセンターの損失を低減するが、多層的な保護が必要。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/detecting-defect-induced-silent-data-corruptions-in-cpus-stanford-google"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/dc-protection-in-high-voltage-ai-data-center-power-architectures"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Detecting Defect-Induced Silent Data Corruptions in CPUs (Stanford, Google)",
-        "blurb": "スタンフォード大とGoogleがCPUの欠陥によるデータ破損を検出する新手法「ITHICA」を発表。製造上の欠陥を特定し、信頼性向上を目指す。",
-        "category": "company",
-        "date": "2026-05-26",
+        "title": "DC Protection in High-Voltage AI Data Center Power Architectures",
+        "blurb": "高電圧DC配電はAIデータセンターの損失を低減するが、多層的な保護が必要。",
+        "category": "business",
+        "date": "2026-05-27",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/dc-protection-in-high-voltage-ai-data-center-power-architectures"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Rethinking AI-Scale Data Center Validation",
+        "blurb": "AI規模のデータセンター検証には、1.6Tに対応する新クラスのテストシステムが必要となる理由を10点解説。",
+        "category": "business",
+        "date": "2026-05-27",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/detecting-defect-induced-silent-data-corruptions-in-cpus-stanford-google"
+          "url": "https://semiengineering.com/rethinking-ai-scale-data-center-validation"
         },
         "field": {
           "primary": "datacenter",
@@ -34,8 +54,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

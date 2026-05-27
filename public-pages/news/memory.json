@@ -1,75 +1,37 @@
 {
-  "generated_at": "2026-05-27T06:34:22.614994+09:00",
+  "generated_at": "2026-05-28T06:36:27.842935+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Technical Paper Roundup: May 26",
-    "summary": "半導体業界の技術論文まとめ。SRAMベースLLM推論、2D材料転写、RISC-Vベクトル性能、信頼性の高いGenAIなど。",
+    "title": "Deterministic, Solver-Accurate Thermal and Warpage Analysis at Manufacturing Resolution for Advanced 2.5D HBM Packages",
+    "summary": "製造解像度での熱・反り解析が2.5D HBMパッケージの経済性を変える。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-26"
+        "url": "https://semiengineering.com/deterministic-solver-accurate-thermal-and-warpage-analysis-at-manufacturing-resolution-for-advanced-2-5d-hbm-packages"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Impact of Band-to-Band Tunneling in the CTL of V-NAND Flash Memory (U. of Seoul, Samsung)",
-        "blurb": "ソウル大学とサムスンがV-NANDフラッシュメモリのCTLにおけるBTBT影響を論文発表。過剰消去条件下の挙動を調査。",
-        "category": "company",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/impact-of-band-to-band-tunneling-in-the-ctl-of-v-nand-flash-memory-u-of-seoul-samsung"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Flash diagnostics and health monitoring for NOR memory",
-        "blurb": "NORメモリの診断と健全性監視は、事後対応から事前監視への移行を意味します。",
-        "category": "tools",
-        "date": "2026-05-26",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/flash-diagnostics-and-health-monitoring-for-nor-memory"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
+    "tech": [],
     "market": [
       {
-        "title": "Chip Industry Technical Paper Roundup: May 26",
-        "blurb": "半導体業界の技術論文まとめ。SRAMベースLLM推論、2D材料転写、RISC-Vベクトル性能、信頼性の高いGenAIなど。",
+        "title": "Deterministic, Solver-Accurate Thermal and Warpage Analysis at Manufacturing Resolution for Advanced 2.5D HBM Packages",
+        "blurb": "製造解像度での熱・反り解析が2.5D HBMパッケージの経済性を変える。",
         "category": "business",
-        "date": "2026-05-26",
+        "date": "2026-05-27",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-26"
+          "url": "https://semiengineering.com/deterministic-solver-accurate-thermal-and-warpage-analysis-at-manufacturing-resolution-for-advanced-2-5d-hbm-packages"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": null,
+          "process": "backend",
           "market": null,
           "industry": null
         }
