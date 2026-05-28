@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-28T06:36:27.845916+09:00",
+  "generated_at": "2026-05-29T06:41:05.662776+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Overcoming Bottlenecks In Data Movement",
-    "summary": "AIシステムにおけるデータ移動のボトルネックとその解決策について解説。半導体エンジニアリングの記事。",
+    "title": "Swapping Out Chiplets: I/Os Vs. Compute",
+    "summary": "チップレット技術により、一部のダイを交換しつつシステム全体を維持可能。I/Oとコンピューティングのどちらを残すべきか。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/overcoming-bottlenecks-in-data-movement"
+        "url": "https://semiengineering.com/swapping-out-chiplets-i-os-vs-compute"
       }
     ]
   },
@@ -18,14 +18,14 @@
     "news": [],
     "tech": [
       {
-        "title": "Overcoming Bottlenecks In Data Movement",
-        "blurb": "AIシステムにおけるデータ移動のボトルネックとその解決策について解説。半導体エンジニアリングの記事。",
+        "title": "Toward Agentic Verification",
+        "blurb": "AIエージェントによる設計検証は大きな可能性を秘めるが、実現性と今後の展開が課題となる。",
         "category": "tools",
-        "date": "2026-05-27",
+        "date": "2026-05-28",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/overcoming-bottlenecks-in-data-movement"
+          "url": "https://semiengineering.com/toward-agentic-verification"
         },
         "field": {
           "primary": "general",
@@ -36,14 +36,86 @@
         }
       },
       {
-        "title": "Multiphysics Fusion Technology for Multi-Die Designs Explained",
-        "blurb": "マルチフィジックス解析を設計フローの前倒しで統合し、マルチダイ設計の検証を継続的に行う技術について解説。",
+        "title": "Why Your NoC Verification Strategy Must Consider Using Formal",
+        "blurb": "NoC検証戦略では、デッドロックやデータ破損を引き起こすバグ発見のため、フォーマル検証の導入を検討すべきである。",
         "category": "tools",
-        "date": "2026-05-27",
+        "date": "2026-05-28",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/multiphysics-fusion-technology-for-multi-die-designs-explained"
+          "url": "https://semiengineering.com/why-your-noc-verification-strategy-must-consider-using-formal"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Automating Traditional PCB Layout Verification With Electrically Based Design Rule Checks",
+        "blurb": "従来のPCBレイアウト検証を電気的ルールチェックで自動化。信号・電源品質、EMI、高電圧安全性を考慮。",
+        "category": "tools",
+        "date": "2026-05-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/automating-traditional-pcb-layout-verification-with-electrically-based-design-rule-checks"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Using SystemC TLM Modeling To Solve AI Data Movement Challenges",
+        "blurb": "AI開発におけるデータ移動課題をSystemC TLMモデリングで解決。RTL設計前にインターコネクト性能を検証。",
+        "category": "tools",
+        "date": "2026-05-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/using-systemc-tlm-modeling-to-solve-ai-data-movement-challenges"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Foundation Model For Physics: The Next Layer Of Intelligence For Engineering",
+        "blurb": "エンジニアリング分野に物理学の基盤モデルを導入し、検証済みの物理推論を継続的に利用可能にする。",
+        "category": "tools",
+        "date": "2026-05-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/foundation-model-for-physics-the-next-layer-of-intelligence-for-engineering"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Faster Verification Debug With AI",
+        "blurb": "AIを活用し、波形検査、ログ解析、ソースコードナビゲーションなどの検証デバッグを自動化し高速化。",
+        "category": "tools",
+        "date": "2026-05-28",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/faster-verification-debug-with-ai"
         },
         "field": {
           "primary": "general",
@@ -56,14 +128,32 @@
     ],
     "market": [
       {
-        "title": "Blog Review: May 27",
-        "blurb": "半導体エンジニアリングのブログレビュー。高精度時間測定、ブロックチェーン追跡、宇宙シミュレーション、6G PHY共同設計について。",
+        "title": "Swapping Out Chiplets: I/Os Vs. Compute",
+        "blurb": "チップレット技術により、一部のダイを交換しつつシステム全体を維持可能。I/Oとコンピューティングのどちらを残すべきか。",
         "category": "business",
-        "date": "2026-05-27",
+        "date": "2026-05-28",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-may-27-3"
+          "url": "https://semiengineering.com/swapping-out-chiplets-i-os-vs-compute"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "近くて遠い中国　日本の半導体業界はどう付き合うか",
+        "blurb": "日本の半導体業界は、政治的影響を受けつつも、ビジネスや文化交流を通じて中国との関係を維持・発展させるべきだ。",
+        "category": "business",
+        "date": "2026-05-28",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/28/news121.html"
         },
         "field": {
           "primary": "general",

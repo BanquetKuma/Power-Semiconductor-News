@@ -1,54 +1,36 @@
 {
-  "generated_at": "2026-05-28T06:36:27.843284+09:00",
+  "generated_at": "2026-05-29T06:41:05.659769+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Characterization of GPU-based Inference for Reasoning-Centric LLMs (Micron, Argonne)",
-    "summary": "MicronとArgonne国立研究所は、推論中心LLMのGPU推論特性を分析。CoT処理などシステム要件の変化を考察。",
+    "stars": 2,
+    "title": "The Shape Of Prompts: Exploring Their Effect On Inference Infrastructure",
+    "summary": "Aligning GPU, memory, storage, and network resources in a balanced and efficient configuration. The post The Shape Of Pr",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/characterization-of-gpu-based-inference-for-reasoning-centric-llms-micron-argonne"
+        "url": "https://semiengineering.com/the-shape-of-prompts-exploring-their-effect-on-inference-infrastructure"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Characterization of GPU-based Inference for Reasoning-Centric LLMs (Micron, Argonne)",
-        "blurb": "MicronとArgonne国立研究所は、推論中心LLMのGPU推論特性を分析。CoT処理などシステム要件の変化を考察。",
+        "title": "The Shape Of Prompts: Exploring Their Effect On Inference Infrastructure",
+        "blurb": "Aligning GPU, memory, storage, and network resources in a balanced and efficient configuration. The post The Shape Of Pr",
         "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
+        "date": "2026-05-28",
+        "stars": 2,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/characterization-of-gpu-based-inference-for-reasoning-centric-llms-micron-argonne"
+          "url": "https://semiengineering.com/the-shape-of-prompts-exploring-their-effect-on-inference-infrastructure"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "防衛に使えるエッジAIソリューション EdgeCortixが提案",
-        "blurb": "EdgeCortixが防衛向けエッジAIソリューションを提案。省電力・低遅延のAIアクセラレーター「SAKURA-II」などを展示。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news023.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
           "industry": null
         }
       }

@@ -1,100 +1,100 @@
 {
-  "generated_at": "2026-05-28T06:36:27.840674+09:00",
+  "generated_at": "2026-05-27T06:34:22.613029+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers",
-    "summary": "マイクロチップ、次世代AIインフラ向けに高効率・高性能な3.3kV SiCモジュールを発表。",
+    "title": "Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules",
+    "summary": "三菱電機、第8世代IGBTモジュール発表。インバータ電力損失を最大19%削減。新1000Aモデルも登場。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers"
+        "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "DC Protection in High-Voltage AI Data Center Power Architectures",
-        "blurb": "高電圧DC配電はAIデータセンターの損失を低減するが、多層的な保護が必要。",
+        "title": "Real-World Solid-State Transformers Overcome Barriers to Meet Adoption Needs of AC and DC Networks",
+        "blurb": "SiC・GaN技術の成熟とAIデータセンターの電力需要増により、実用的な全固体変圧器の導入が進展。AC/DCネットワークの需要に対応。",
         "category": "business",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/dc-protection-in-high-voltage-ai-data-center-power-architectures"
+          "url": "https://www.powerelectronicsnews.com/real-world-solid-state-transformers-overcome-barriers-to-meet-adoption-needs-of-ac-and-dc-networks"
         },
         "field": {
-          "primary": "datacenter",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": "datacenter",
           "industry": null
         }
       },
       {
-        "title": "Curvilinear Masks Push The Limits Of Inspection And Metrology",
-        "blurb": "高NA EUV向けに、マスクメーカーは検査・計測の限界を押し上げるため、新しい指標、モデルベースチェック、曲線ネイティブデータフローを必要とする。",
+        "title": "Chip Industry Technical Paper Roundup: May 26",
+        "blurb": "半導体業界の技術論文まとめ。SRAMベースLLM推論、2D材料転写、RISC-Vベクトル性能、信頼性の高いGenAIなど。",
         "category": "business",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/curvilinear-masks-push-the-limits-of-inspection-and-metrology"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Deterministic, Solver-Accurate Thermal and Warpage Analysis at Manufacturing Resolution for Advanced 2.5D HBM Packages",
-        "blurb": "製造解像度での熱・反り解析が2.5D HBMパッケージの経済性を変える。",
-        "category": "business",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/deterministic-solver-accurate-thermal-and-warpage-analysis-at-manufacturing-resolution-for-advanced-2-5d-hbm-packages"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-26"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "backend",
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Rethinking AI-Scale Data Center Validation",
-        "blurb": "AI規模のデータセンター検証には、1.6Tに対応する新クラスのテストシステムが必要となる理由を10点解説。",
+        "title": "Improving GPU Energy Efficiency With Component-Level Power Management (AMD)",
+        "blurb": "AMDの研究者がGPUの電力効率を改善する「CompPow」を発表。MLデータセンターでのGPU消費電力削減を目指す。",
         "category": "business",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rethinking-ai-scale-data-center-validation"
+          "url": "https://semiengineering.com/improving-gpu-energy-efficiency-with-component-level-power-management-amd"
         },
         "field": {
-          "primary": "datacenter",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
-          "market": "datacenter",
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "AI半導体で「パネルは新たなフロンティア」、Lamの装置戦略",
+        "blurb": "AI半導体大型化で、パッケージングの主戦場が円形ウエハーから大型パネルへ移行。Lam Researchはパネルレベルパッケージング（PLP）技術を強化し、装置戦略を語った。",
+        "category": "business",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news057.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": "backend",
+          "market": "ai",
           "industry": null
         }
       },
       {
-        "title": "Blog Review: May 27",
-        "blurb": "半導体エンジニアリングのブログレビュー。高精度時間測定、ブロックチェーン追跡、宇宙シミュレーション、6G PHY共同設計について。",
+        "title": "Samsungの半導体四半期業績、過去最高の売上高と営業利益をさらに更新",
+        "blurb": "サムスン電子の2026年第1四半期決算は、売上高・営業利益ともに過去最高を更新した。",
         "category": "business",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-may-27-3"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news031.html"
         },
         "field": {
           "primary": "general",
@@ -105,94 +105,82 @@
         }
       },
       {
-        "title": "AI用半導体とメモリの奪い合いに　自動車業界が供給難に直面",
-        "blurb": "AI用半導体とメモリの奪い合いで自動車業界が供給難に直面。サプライチェーン戦略の見直しが急務。",
+        "title": "先端半導体デバイス15品目、31年に224兆円規模へ",
+        "blurb": "富士キメラ総研は、AIサーバー向け需要増で半導体デバイス15品目の市場が2031年に224兆円規模になると予測した。",
         "category": "business",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news074.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news029.html"
         },
         "field": {
-          "primary": "geopolitics",
+          "primary": "ai",
           "device": null,
           "process": null,
-          "market": null,
-          "industry": "geopolitics"
-        }
-      },
-      {
-        "title": "中国SiCの進化「日本は追い付けないレベル」　競わず活用を",
-        "blurb": "マルエム商会がSiCビジネスに参入。中国SiCの急速な進化に言及し、日本の顧客に提案。",
-        "category": "business",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news056.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       },
       {
-        "title": "Rambus Launches DDR5 9600 Client Chipset for Next-Gen AI PCs",
-        "blurb": "Rambusが次世代AI PC向けにDDR5 9600クライアントチップセットを発表。AI PCやワークステーション向けに最大9600 MT/sのデータレートをサポート。",
+        "title": "AI augments advances in medical electronics",
+        "blurb": "AIの統合が医療電子機器の成長と進歩を加速させている。特にAIは...",
         "category": "business",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-augments-advances-in-medical-electronics"
+        },
+        "field": null
+      },
+      {
+        "title": "The 50G PON gateway SoC supports edge AI, Wi-Fi 8",
+        "blurb": "Wi-Fi 8対応の50G PONゲートウェイSoCが登場。エッジAI処理用のNPUを統合。",
+        "category": "business",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/the-50g-pon-gateway-soc-supports-edge-ai-wi-fi-8"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Broadcom Expands Edge AI Broadband Portfolio",
+        "blurb": "BroadcomがAI処理NPU搭載の50G PONホームゲートウェイSoC「BCM68850」を発表。Wi-Fi 8にも対応し、エッジAI・ブロードバンド製品群を拡充。",
+        "category": "business",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/rambus-launches-ddr5-9600-client-chipset-for-next-gen-ai-pcs"
-        },
-        "field": null
-      },
-      {
-        "title": "SiC modules simplify high-voltage topologies",
-        "blurb": "Wolfspeedの3.3kV SiCパワーモジュールは、AIデータセンター、再生可能エネルギー、電力インフラ向けの高電圧回路を簡素化します。",
-        "category": "business",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sic-modules-simplify-high-voltage-topologies"
+          "url": "https://www.embedded.com/broadcom-expands-edge-ai-broadband-portfolio"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "logic",
+          "device": "logic",
           "process": null,
-          "market": null,
-          "industry": null
+          "market": "ai",
+          "industry": "fabless"
         }
-      },
-      {
-        "title": "LED controller trims automotive power loss",
-        "blurb": "メレキシスのLEDコントローラーは、DC/DCコンバータを統合し、車載照明の電力損失を削減します。",
-        "category": "business",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/led-controller-trims-automotive-power-loss"
-        },
-        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Overcoming Bottlenecks In Data Movement",
-        "blurb": "AIシステムにおけるデータ移動のボトルネックとその解決策について解説。半導体エンジニアリングの記事。",
+        "title": "Research Bits: May 26",
+        "blurb": "エネルギーハーベスティングディスプレイの3つのアプローチについて。",
         "category": "tools",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/overcoming-bottlenecks-in-data-movement"
+          "url": "https://semiengineering.com/research-bits-may-26"
         },
         "field": {
           "primary": "general",
@@ -203,14 +191,14 @@
         }
       },
       {
-        "title": "Multiphysics Fusion Technology for Multi-Die Designs Explained",
-        "blurb": "マルチフィジックス解析を設計フローの前倒しで統合し、マルチダイ設計の検証を継続的に行う技術について解説。",
+        "title": "An Agent-Driven End-to-End HW-SW Co-Design Benchmark for Heterogeneous SoCs (Columbia, IBM)",
+        "blurb": "コロンビア大学とIBMが、異種SoC向けのエンドツーエンドHW-SW協調設計ベンチマーク「HSCO-Bench」を発表。LLM活用で設計評価の分離を解消。",
         "category": "tools",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/multiphysics-fusion-technology-for-multi-die-designs-explained"
+          "url": "https://semiengineering.com/an-agent-driven-end-to-end-hw-sw-co-design-benchmark-for-heterogeneous-socs-columbia-ibm"
         },
         "field": {
           "primary": "general",
@@ -221,32 +209,44 @@
         }
       },
       {
-        "title": "~0.1% resolution capacitive position sensor",
-        "blurb": "静電容量式位置センサーは、回路比で静電容量を測定し、マイクロメートル単位の分解能を実現します。",
+        "title": "Power Tips #153: How to generate a regulated negative output from a negative input using a boost controller",
+        "blurb": "負入力から負出力への変換には、標準的な降圧コントローラでは対応できない。昇圧コントローラで解決する方法を紹介。",
         "category": "tools",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/0-1-resolution-capacitive-position-sensor"
+          "url": "https://www.edn.com/power-tips-153-how-to-generate-a-regulated-negative-output-from-a-negative-input-using-a-boost-controller"
+        },
+        "field": null
+      },
+      {
+        "title": "Flash diagnostics and health monitoring for NOR memory",
+        "blurb": "NORメモリの診断と健全性監視は、事後対応から事前監視への移行を意味します。",
+        "category": "tools",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/flash-diagnostics-and-health-monitoring-for-nor-memory"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Implementing feature rich applications on entry-level MCUs",
-        "blurb": "エントリーレベルMCUで高機能アプリを実現するためのベンチマークを紹介。実現可能性と費用対効果を評価する。",
+        "title": "Designing low-power CGMs with TMR-based magnetic sensing",
+        "blurb": "TMRセンサーを用いた低消費電力CGM設計に関する記事。CGMはリアルタイム血糖値測定で糖尿病管理を変革。",
         "category": "tools",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/implementing-feature-rich-applications-on-entry-level-mcus"
+          "url": "https://www.edn.com/designing-low-power-cgms-with-tmr-based-magnetic-sensing"
         },
         "field": null
       },
@@ -265,14 +265,26 @@
     ],
     "company": [
       {
-        "title": "ST Unveils GaN Semiconductors For AI Servers And Robotics",
-        "blurb": "STマイクロがAIサーバー・ロボット向け新GaN半導体発表。低損失で高効率化を実現。",
+        "title": "Infineon Expands CoolGaN BDS Family",
+        "blurb": "インフィニオン、スマホ等向け高効率CoolGaNスイッチ拡充。基板スペース削減と効率向上を実現。",
         "category": "company",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-unveils-gan-semiconductors-for-ai-servers-and-robotics"
+          "url": "https://www.powerelectronicsnews.com/infineon-expands-coolgan-bds-family"
+        },
+        "field": null
+      },
+      {
+        "title": "Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package",
+        "blurb": "東芝、1200V SiC MOSFETのサンプル出荷を開始。AI・産業用電源システム向けで、損失低減に貢献。",
+        "category": "company",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package"
         },
         "field": {
           "primary": "power",
@@ -283,22 +295,100 @@
         }
       },
       {
-        "title": "Infineon Launches EU Flagship Project Moore4Power",
-        "blurb": "インフィニオンがEUの旗艦プロジェクト「Moore4Power」を開始。Si、SiC、GaNの異種集積で再生可能エネルギーとe-モビリティの効率向上を目指す。",
+        "title": "Detecting Defect-Induced Silent Data Corruptions in CPUs (Stanford, Google)",
+        "blurb": "スタンフォード大とGoogleがCPUの欠陥によるデータ破損を検出する新手法「ITHICA」を発表。製造上の欠陥を特定し、信頼性向上を目指す。",
         "category": "company",
-        "date": "2026-05-27",
+        "date": "2026-05-26",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-launches-eu-flagship-project-moore4power"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/detecting-defect-induced-silent-data-corruptions-in-cpus-stanford-google"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "datacenter",
+          "device": null,
           "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Impact of Band-to-Band Tunneling in the CTL of V-NAND Flash Memory (U. of Seoul, Samsung)",
+        "blurb": "ソウル大学とサムスンがV-NANDフラッシュメモリのCTLにおけるBTBT影響を論文発表。過剰消去条件下の挙動を調査。",
+        "category": "company",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/impact-of-band-to-band-tunneling-in-the-ctl-of-v-nand-flash-memory-u-of-seoul-samsung"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "Side-Channel Risks Across  2.5D/3D Integration and Chiplet-Based Systems (Grenoble INP – UGA et al.)",
+        "blurb": "チップレット統合システムにおけるサイドチャネル攻撃のリスクが研究で明らかに。高度なパッケージング技術の普及に伴い、新たなセキュリティ課題が浮上。",
+        "category": "company",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/side-channel-risks-across-advanced-chiplet-packages-uga-cnrs"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "「世界初」光ネットワークを自動で常時監視　NTTのトランシーバー",
+        "blurb": "NTTは光トランシーバーにネットワーク常時監視機能を搭載し、世界初の実証に成功。運用保守効率化に貢献。",
+        "category": "company",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news079.html"
+        },
+        "field": null
+      },
+      {
+        "title": "車載SoC向け電源ソリューション、ロームが開発",
+        "blurb": "ロームが車載SoC向け電源ソリューションを開発。ADASやDMSなどに活用。",
+        "category": "company",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/26/news030.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Melexis Launches Automotive 18-Channel LIN RGB LED Controller",
+        "blurb": "Melexisが、自動車用18ch LIN RGB LEDコントローラMLX81119を発表。DC/DCコンバータ内蔵で、車載照明の省スペース化と低消費電力化を実現。",
+        "category": "company",
+        "date": "2026-05-26",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/melexis-launches-automotive-18-channel-lin-rgb-led-controller"
+        },
+        "field": null
       },
       {
         "title": "Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules",
@@ -320,7 +410,7 @@
       },
       {
         "title": "The GaN Ecosystem Developing for SmallSats in New Space",
-        "blurb": "TI、ルネサスなどが窒化ガリウム（GaN）エコシステムを開発。宇宙用小型衛星の電源システム向けに耐放射線デバイスを提供。",
+        "blurb": "TI、ルネサスなどが窒化ガリウム（GaN）エコシステムを開発。宇宙用小型衛星の電源システム向けに放射線耐性デバイスを提供。",
         "category": "company",
         "date": "2026-05-27",
         "stars": 3,
@@ -338,7 +428,7 @@
       },
       {
         "title": "Characterization of GPU-based Inference for Reasoning-Centric LLMs (Micron, Argonne)",
-        "blurb": "MicronとArgonne国立研究所は、推論中心LLMのGPU推論特性を分析。CoT処理などシステム要件の変化を考察。",
+        "blurb": "MicronとArgonne国立研究所が、推論中心LLMのGPU推論に関する研究結果を発表。システム要件の変化と性能原則を分析。",
         "category": "company",
         "date": "2026-05-27",
         "stars": 3,
@@ -353,168 +443,6 @@
           "market": null,
           "industry": "idm"
         }
-      },
-      {
-        "title": "SiCの理論限界に迫る低損失　AlN系SBDの動作実証に成功",
-        "blurb": "東大とNTTが、SiCの理論限界に迫る低損失なAlN系SBDを開発。オン抵抗0.34mΩcm2、逆方向耐圧400Vを達成し、動作実証に成功した。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news037.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「透明ナノシート」で作る光センサー　400℃でも安定動作",
-        "blurb": "名大、透明ナノシートで400℃でも動作する高感度RGBフォトディテクターを開発。宇宙や車載用途に期待。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news035.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "防衛に使えるエッジAIソリューション EdgeCortixが提案",
-        "blurb": "EdgeCortixが防衛向けエッジAIソリューションを提案。省電力・低遅延のAIアクセラレーター「SAKURA-II」などを展示。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/22/news023.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "A closer look at Huawei’s chip design workaround without EUV",
-        "blurb": "ファーウェイ、EUVなしでチップ設計を可能にする3D積層技術を開発。米国の制裁を回避する可能性。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-closer-look-at-huaweis-chip-design-workaround-without-euv"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Microchip Boosts Infrastructure Security with PQC Chips",
-        "blurb": "マイクロチップ社が、量子コンピュータ攻撃にも耐性を持つPQCチップを発表。インフラのセキュリティ強化を目指す。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-boosts-infrastructure-security-with-pqc-chips"
-        },
-        "field": null
-      },
-      {
-        "title": "Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers",
-        "blurb": "マイクロチップ、次世代AIインフラ向けに高効率・高性能な3.3kV SiCモジュールを発表。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ROHM Unveils ESD Protection Diodes for High-Speed Interfaces",
-        "blurb": "ロームは、高速インターフェース向けに、静電放電保護ダイオードの新製品を発表しました。これにより、クランプ電圧が40%低減されます。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/rohm-unveils-esd-protection-diodes-for-high-speed-interfaces"
-        },
-        "field": null
-      },
-      {
-        "title": "Entry-level MCUs ease system control",
-        "blurb": "東芝が小型制御向けエントリークラスマイコン「M4H」を発表。家電や産業機器への搭載を見込む。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/entry-level-mcus-ease-system-control"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "AMD enables AI agents with Ryzen platforms",
-        "blurb": "AMDは、次世代AIエージェント向けにRyzen AI Halo開発プラットフォームとRyzen AI Max PRO 400シリーズプロセッサを発表しました。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/amd-enables-ai-agents-with-ryzen-platforms"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Automotive bipolar latch boosts magnetic sensitivity",
-        "blurb": "Diodes社が、動作・解放磁界±10ガウスと高感度な車載用ホール効果ラッチ「AH3711Q」を発表しました。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/automotive-bipolar-latch-boosts-magnetic-sensitivity"
-        },
-        "field": null
       }
     ],
     "sns": []

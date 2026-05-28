@@ -1,114 +1,42 @@
 {
-  "generated_at": "2026-05-28T06:36:27.842530+09:00",
+  "generated_at": "2026-05-29T06:41:05.659448+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers",
-    "summary": "マイクロチップ、次世代AIインフラ向けに高効率・高性能な3.3kV SiCモジュールを発表。",
+    "title": "Power Corner: Beyond SiC and GaN—Von Ardenne’s Guido Überreiter on Gallium Oxide and the Case for PVD",
+    "summary": "Von Ardenne社は、次世代パワー半導体として酸化ガリウムのPVD技術を推進。SiCやGaNを超える可能性を探る。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers"
+        "url": "https://www.powerelectronicsnews.com/power-corner-beyond-sic-and-gan-von-ardennes-guido-uberreiter-on-gallium-oxide-and-the-case-for-pvd"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "ST Unveils GaN Semiconductors For AI Servers And Robotics",
-        "blurb": "STマイクロがAIサーバー・ロボット向け新GaN半導体発表。低損失で高効率化を実現。",
+        "title": "Power Corner: Beyond SiC and GaN—Von Ardenne’s Guido Überreiter on Gallium Oxide and the Case for PVD",
+        "blurb": "Von Ardenne社は、次世代パワー半導体として酸化ガリウムのPVD技術を推進。SiCやGaNを超える可能性を探る。",
         "category": "company",
-        "date": "2026-05-27",
+        "date": "2026-05-28",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-unveils-gan-semiconductors-for-ai-servers-and-robotics"
+          "url": "https://www.powerelectronicsnews.com/power-corner-beyond-sic-and-gan-von-ardennes-guido-uberreiter-on-gallium-oxide-and-the-case-for-pvd"
         },
         "field": {
           "primary": "power",
           "device": "power",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Infineon Launches EU Flagship Project Moore4Power",
-        "blurb": "インフィニオンがEUの旗艦プロジェクト「Moore4Power」を開始。Si、SiC、GaNの異種集積で再生可能エネルギーとe-モビリティの効率向上を目指す。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-launches-eu-flagship-project-moore4power"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules",
-        "blurb": "三菱電機、第8世代IGBTモジュール発表。インバータ電力損失を最大19%削減。新1000Aモデルも登場。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The GaN Ecosystem Developing for SmallSats in New Space",
-        "blurb": "TI、ルネサスなどが窒化ガリウム（GaN）エコシステムを開発。宇宙用小型衛星の電源システム向けに耐放射線デバイスを提供。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-gan-ecosystem-developing-for-smallsats-in-new-space"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "SiCの理論限界に迫る低損失　AlN系SBDの動作実証に成功",
-        "blurb": "東大とNTTが、SiCの理論限界に迫る低損失なAlN系SBDを開発。オン抵抗0.34mΩcm2、逆方向耐圧400Vを達成し、動作実証に成功した。",
-        "category": "company",
-        "date": "2026-05-27",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news037.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
+          "process": "frontend",
           "market": null,
           "industry": null
         }
       },
       {
         "title": "Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers",
-        "blurb": "マイクロチップ、次世代AIインフラ向けに高効率・高性能な3.3kV SiCモジュールを発表。",
+        "blurb": "マイクロチップ社が次世代AIインフラ向けに、高効率・高性能な3.3kV SiCモジュールを発表。",
         "category": "company",
         "date": "2026-05-28",
         "stars": 3,
@@ -123,19 +51,16 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "tech": [],
-    "market": [
+      },
       {
-        "title": "中国SiCの進化「日本は追い付けないレベル」　競わず活用を",
-        "blurb": "マルエム商会がSiCビジネスに参入。中国SiCの急速な進化に言及し、日本の顧客に提案。",
-        "category": "business",
-        "date": "2026-05-27",
+        "title": "立体配線でSiCの体積／損失を半減　富士電機の新パッケージ技術",
+        "blurb": "富士電機はSiCパワー半導体の体積を約5割、スイッチング損失を約5割低減する立体配線技術を開発。モジュール小型化と高効率化に貢献。",
+        "category": "company",
+        "date": "2026-05-28",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news056.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/28/news064.html"
         },
         "field": {
           "primary": "power",
@@ -144,10 +69,13 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [],
+    "market": [
       {
         "title": "SiC modules simplify high-voltage topologies",
-        "blurb": "Wolfspeedの3.3kV SiCパワーモジュールは、AIデータセンター、再生可能エネルギー、電力インフラ向けの高電圧回路を簡素化します。",
+        "blurb": "Wolfspeedの3.3kV SiCパワーモジュールは、AIデータセンター、再生可能エネルギー、電力インフラ向けに高電圧トポロジーを簡素化します。",
         "category": "business",
         "date": "2026-05-28",
         "stars": 3,
