@@ -1,32 +1,51 @@
 {
-  "generated_at": "2026-05-29T06:41:05.660920+09:00",
+  "generated_at": "2026-05-30T06:36:18.875604+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Taming the beast: Memory efficiency in an AI/crypto world",
-    "summary": "AI・仮想通貨分野では、データセンターの省電力化にメモリ効率が重要。省電力部品の選定が鍵となる。",
+    "title": "The Motor Control Demands of Modern Data Center Cooling",
+    "summary": "データセンターの冷却には、モーター制御技術、特にFOCベースのBLDCドライバーが不可欠です。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/taming-the-beast-memory-efficiency-in-an-ai-crypto-world"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/the-motor-control-demands-of-modern-data-center-cooling"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Taming the beast: Memory efficiency in an AI/crypto world",
-        "blurb": "AI・仮想通貨分野では、データセンターの省電力化にメモリ効率が重要。省電力部品の選定が鍵となる。",
-        "category": "business",
-        "date": "2026-05-28",
+        "title": "Nordic Introduces AI-Assisted IoT Development Platform",
+        "blurb": "ノルディックセミコンダクターが、IoTデバイス開発ライフサイクル全体を支援するAI搭載フレームワークを発表。チップからクラウドまで統合。",
+        "category": "tools",
+        "date": "2026-05-30",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/taming-the-beast-memory-efficiency-in-an-ai-crypto-world"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nordic-introduces-ai-assisted-iot-development-platform"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "The Motor Control Demands of Modern Data Center Cooling",
+        "blurb": "データセンターの冷却には、モーター制御技術、特にFOCベースのBLDCドライバーが不可欠です。",
+        "category": "business",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-motor-control-demands-of-modern-data-center-cooling"
         },
         "field": {
           "primary": "datacenter",

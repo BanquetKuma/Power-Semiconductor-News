@@ -1,112 +1,46 @@
 {
-  "generated_at": "2026-05-29T06:41:05.657933+09:00",
+  "generated_at": "2026-05-30T06:36:18.873155+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "TDK Expands micro POL Power Module Portfolio",
-    "summary": "TDKは、光学モジュールやAIチップセット向けに、高効率な3A出力の小型電源モジュールを発売した。",
+    "title": "HV AI Data Centers DC Protection, New Space GaN Ecosystem, SSTs Adoption in Power Networks: Power Electronics Week Insights",
+    "summary": "高電圧AIデータセンターDC保護、新宇宙GaNエコシステム、電力網へのSST採用に関する最新動向。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/tdk-expands-micro-pol-power-module-portfolio"
+        "url": "https://www.powerelectronicsnews.com/hv-ai-data-centers-dc-protection-new-space-gan-ecosystem-ssts-adoption-in-power-networks-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Swapping Out Chiplets: I/Os Vs. Compute",
-        "blurb": "チップレット技術により、一部のダイを交換しつつシステム全体を維持可能。I/Oとコンピューティングのどちらを残すべきか。",
+        "title": "Wide Bandgap Monthly Insights – May 2026",
+        "blurb": "SiC、GaN、ワイドバンドギャップ材料に関する2026年5月の注目ニュースまとめ。",
         "category": "business",
-        "date": "2026-05-28",
+        "date": "2026-05-29",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/swapping-out-chiplets-i-os-vs-compute"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-may-2026"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Observability Is Essential For Modern Silicon",
-        "blurb": "AI、自動車、航空宇宙、先端パッケージング向けに、オンダイ可観測性が現代のシリコン開発に不可欠であることを解説。",
+        "title": "The Motor Control Demands of Modern Data Center Cooling",
+        "blurb": "データセンターの冷却には、モーター制御技術、特にFOCベースのBLDCドライバーが不可欠です。",
         "category": "business",
-        "date": "2026-05-28",
+        "date": "2026-05-29",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/observability-is-essential-for-modern-silicon"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Wafer-Scale vs. Chiplets: The New War? Part 1",
-        "blurb": "ウェーハスケールとチップレット、次世代半導体の覇権争いが勃発か。技術革新の行方に注目が集まる。",
-        "category": "business",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/wafer-scale-vs-chiplets-the-new-war-part-1"
-        },
-        "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "近くて遠い中国　日本の半導体業界はどう付き合うか",
-        "blurb": "日本の半導体業界は、政治的影響を受けつつも、ビジネスや文化交流を通じて中国との関係を維持・発展させるべきだ。",
-        "category": "business",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/28/news121.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "空孔コア光ファイバーで次世代光回線を実証　省エネ通信に前進",
-        "blurb": "OKIらは空孔コア光ファイバーで次世代光回線を実証。通信増大に対応しつつ、消費電力を10分の1に低減可能。",
-        "category": "business",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/28/news048.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Taming the beast: Memory efficiency in an AI/crypto world",
-        "blurb": "AI・仮想通貨分野では、データセンターの省電力化にメモリ効率が重要。省電力部品の選定が鍵となる。",
-        "category": "business",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/taming-the-beast-memory-efficiency-in-an-ai-crypto-world"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-motor-control-demands-of-modern-data-center-cooling"
         },
         "field": {
           "primary": "datacenter",
@@ -117,282 +51,14 @@
         }
       },
       {
-        "title": "SiC modules simplify high-voltage topologies",
-        "blurb": "Wolfspeedの3.3kV SiCパワーモジュールは、AIデータセンター、再生可能エネルギー、電力インフラ向けに高電圧トポロジーを簡素化します。",
+        "title": "Vishay Expands IHXL Inductor Series with High-Current Devices",
+        "blurb": "Vishayが、高電流対応のIHXLインダクタシリーズを拡充。車載・産業システム向けにコア損失、熱性能、EMCを改善。",
         "category": "business",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sic-modules-simplify-high-voltage-topologies"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "LED controller trims automotive power loss",
-        "blurb": "メレキシスのLEDコントローラーは、DC/DCコンバータを統合し、車載照明の電力損失を削減します。",
-        "category": "business",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/led-controller-trims-automotive-power-loss"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "Toward Agentic Verification",
-        "blurb": "AIエージェントによる設計検証は大きな可能性を秘めるが、実現性と今後の展開が課題となる。",
-        "category": "tools",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/toward-agentic-verification"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Why Your NoC Verification Strategy Must Consider Using Formal",
-        "blurb": "NoC検証戦略では、デッドロックやデータ破損を引き起こすバグ発見のため、フォーマル検証の導入を検討すべきである。",
-        "category": "tools",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-your-noc-verification-strategy-must-consider-using-formal"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Automating Traditional PCB Layout Verification With Electrically Based Design Rule Checks",
-        "blurb": "従来のPCBレイアウト検証を電気的ルールチェックで自動化。信号・電源品質、EMI、高電圧安全性を考慮。",
-        "category": "tools",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/automating-traditional-pcb-layout-verification-with-electrically-based-design-rule-checks"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Using SystemC TLM Modeling To Solve AI Data Movement Challenges",
-        "blurb": "AI開発におけるデータ移動課題をSystemC TLMモデリングで解決。RTL設計前にインターコネクト性能を検証。",
-        "category": "tools",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/using-systemc-tlm-modeling-to-solve-ai-data-movement-challenges"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Foundation Model For Physics: The Next Layer Of Intelligence For Engineering",
-        "blurb": "エンジニアリング分野に物理学の基盤モデルを導入し、検証済みの物理推論を継続的に利用可能にする。",
-        "category": "tools",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/foundation-model-for-physics-the-next-layer-of-intelligence-for-engineering"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Faster Verification Debug With AI",
-        "blurb": "AIを活用し、波形検査、ログ解析、ソースコードナビゲーションなどの検証デバッグを自動化し高速化。",
-        "category": "tools",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/faster-verification-debug-with-ai"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The Moment Your Edge AI Becomes Physical AI",
-        "blurb": "エッジAIが物理AIへと進化する瞬間。組み込みソフトウェア開発の変革点について解説。",
-        "category": "tools",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/the-moment-your-edge-ai-becomes-physical-ai"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Romu is a Tiny RP2354A USB Development Board for Embedded Projects",
-        "blurb": "RP2354A搭載のキーホルダーサイズUSB開発ボード「Romu」が登場。MicroPython対応で組み込みプロジェクトに最適。",
-        "category": "tools",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/romu-is-a-tiny-rp2354a-usb-development-board-for-embedded-projects"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Power Corner: Beyond SiC and GaN—Von Ardenne’s Guido Überreiter on Gallium Oxide and the Case for PVD",
-        "blurb": "Von Ardenne社は、次世代パワー半導体として酸化ガリウムのPVD技術を推進。SiCやGaNを超える可能性を探る。",
-        "category": "company",
-        "date": "2026-05-28",
+        "date": "2026-05-29",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-beyond-sic-and-gan-von-ardennes-guido-uberreiter-on-gallium-oxide-and-the-case-for-pvd"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers",
-        "blurb": "マイクロチップ社が次世代AIインフラ向けに、高効率・高性能な3.3kV SiCモジュールを発表。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ROHM Unveils ESD Protection Diodes for High-Speed Interfaces",
-        "blurb": "ロームは、高速インターフェース向けに静電放電保護ダイオードを発表。容量抵抗トレードオフを解消し、クランプ電圧を40%低減。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/rohm-unveils-esd-protection-diodes-for-high-speed-interfaces"
-        },
-        "field": null
-      },
-      {
-        "title": "立体配線でSiCの体積／損失を半減　富士電機の新パッケージ技術",
-        "blurb": "富士電機はSiCパワー半導体の体積を約5割、スイッチング損失を約5割低減する立体配線技術を開発。モジュール小型化と高効率化に貢献。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/28/news064.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "そっと触るだけで光る　レアアース不要、電源不要の近赤外発光",
-        "blurb": "東北大学らは、レアアース不要の応力発光技術を開発。電源不要で近赤外光を発し、医療やインフラ診断への応用が期待される。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/28/news049.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "De-commingling (?) LAN equipment: It’s all in what you call it",
-        "blurb": "LAN機器の名称変更で、ハードウェアとソフトウェアの進化を促すキャリア移行。名称が重要。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/de-commingling-lan-equipment-its-all-in-what-you-call-it"
-        },
-        "field": null
-      },
-      {
-        "title": "Entry-level MCUs ease system control",
-        "blurb": "東芝が小型制御向けエントリークラスマイコン「M4H」を発表。家電や産業機器のシステム制御を容易にする。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/entry-level-mcus-ease-system-control"
+          "url": "https://www.powerelectronicsnews.com/vishay-expands-ihxl-inductor-series-with-high-current-devices"
         },
         "field": {
           "primary": "industrial",
@@ -403,69 +69,9 @@
         }
       },
       {
-        "title": "AMD enables AI agents with Ryzen platforms",
-        "blurb": "AMDは、次世代AIエージェント向けにRyzen AI Halo開発プラットフォームとRyzen AI Max PRO 400シリーズプロセッサを発表しました。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/amd-enables-ai-agents-with-ryzen-platforms"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Automotive bipolar latch boosts magnetic sensitivity",
-        "blurb": "Diodes社が、磁気感度を高めた車載用ホール効果ラッチ「AH3711Q」を発表。動作・解放磁界は±10ガウス。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/automotive-bipolar-latch-boosts-magnetic-sensitivity"
-        },
-        "field": null
-      },
-      {
-        "title": "Fail-Safe Engineering for Autonomous Systems",
-        "blurb": "自律システムの安全性が最重要視される時代へ。研究室から実社会へ移行し、性能だけでなく安全性を重視する工学パラダイムへの転換が進んでいる。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/fail-safe-engineering-for-autonomous-systems"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Schurter Releases TCS43 Microminiature SMT Tactile Switch",
-        "blurb": "シュルターがTCS43マイクロミニチュアSMTタクトスイッチを発表。医療・民生機器向けに省スペース設計。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/schurter-releases-tcs43-microminiature-smt-tactile-switch"
-        },
-        "field": null
-      },
-      {
         "title": "TDK Expands micro POL Power Module Portfolio",
         "blurb": "TDKは、光学モジュールやAIチップセット向けに、高効率な3A出力の小型電源モジュールを発売した。",
-        "category": "company",
+        "category": "business",
         "date": "2026-05-29",
         "stars": 3,
         "source": {
@@ -473,6 +79,190 @@
           "url": "https://www.powerelectronicsnews.com/tdk-expands-micro-pol-power-module-portfolio"
         },
         "field": null
+      },
+      {
+        "title": "Moving Defect Detection And Classification To The Edge",
+        "blurb": "半導体製造における欠陥検出・分類をエッジコンピューティングで行い、迅速な判定を実現する。",
+        "category": "business",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/moving-defect-detection-and-classification-to-the-edge"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "AI向けパッケージング技術、HBM、2nmEDAツール、Huaweiの主張など、半導体業界の最新動向を網羅。",
+        "category": "business",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-140"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "台湾の半導体戦略　強みと限界",
+        "blurb": "台湾はAI需要で半導体サプライチェーンで不可欠な存在。当局高官へのインタビューから、人材育成、製造、組み込み、AI分野の現状を検討。",
+        "category": "business",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/29/news001.html"
+        },
+        "field": {
+          "primary": "geopolitics",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "geopolitics"
+        }
+      },
+      {
+        "title": "全世界のDRAM売上高、2026年Q1は過去最高を記録",
+        "blurb": "2026年第1四半期のDRAM売上高は80%増で過去最高を記録。1000億ドルに迫る勢い。",
+        "category": "business",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/29/news047.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "HV AI Data Centers DC Protection, New Space GaN Ecosystem, SSTs Adoption in Power Networks: Power Electronics Week Insights",
+        "blurb": "高電圧AIデータセンターDC保護、新宇宙GaNエコシステム、電力網へのSST採用に関する最新動向。",
+        "category": "business",
+        "date": "2026-05-30",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/hv-ai-data-centers-dc-protection-new-space-gan-ecosystem-ssts-adoption-in-power-networks-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "From Billions Of Violations To Actionable Insights: Calibre Vision AI",
+        "blurb": "Calibre Vision AIは、数億件の違反から実行可能な洞察を提供し、デバッグ時間を短縮し、DRC反復時間を圧縮する。",
+        "category": "tools",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-billions-of-violations-to-actionable-insights-calibre-vision-ai"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「電波が届きにくい」を解消　ミリ波とテラヘルツ波を自動切換え",
+        "blurb": "NICTは、ミリ波とテラヘルツ波を自動切換えする技術を開発。電波が届きにくい課題を改善し、通信環境に応じた最適な通信を実現する。",
+        "category": "tools",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/29/news048.html"
+        },
+        "field": null
+      },
+      {
+        "title": "How Precise Must We Be?",
+        "blurb": "円周率の精度はどの程度まで必要か？科学技術計算における円周率の有効桁数について考察する記事。",
+        "category": "tools",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/how-precise-must-we-be"
+        },
+        "field": null
+      },
+      {
+        "title": "Nordic Introduces AI-Assisted IoT Development Platform",
+        "blurb": "ノルディックセミコンダクターが、IoTデバイス開発ライフサイクル全体を支援するAI搭載フレームワークを発表。チップからクラウドまで統合。",
+        "category": "tools",
+        "date": "2026-05-30",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nordic-introduces-ai-assisted-iot-development-platform"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "日本メーカー製、でも中身は……カメラなど最新6製品を分解",
+        "blurb": "日本メーカー製最新6製品を分解。2020年以降、最終製品は減少傾向だが、分解結果は多様。",
+        "category": "company",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/27/news008.html"
+        },
+        "field": null
+      },
+      {
+        "title": "From AI silicon observability to governed evidence",
+        "blurb": "AIチップ設計では、データ移動だけではシステム挙動を説明できない。AIシリコンの可観測性から証拠管理へ。",
+        "category": "company",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/from-ai-silicon-observability-to-governed-evidence"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
       },
       {
         "title": "5 takeaways from Samsung Foundry’s design tie-up with Synopsys",
@@ -493,20 +283,68 @@
         }
       },
       {
-        "title": "The Shape Of Prompts: Exploring Their Effect On Inference Infrastructure",
-        "blurb": "Aligning GPU, memory, storage, and network resources in a balanced and efficient configuration. The post The Shape Of Pr",
+        "title": "The Evolving Role of On-Board Computers in LEO Satellites",
+        "blurb": "LEO衛星ではソフトウェア定義化・データ集約化が進み、搭載コンピュータの役割がデータ処理・管理の中心へと変化している。",
         "category": "company",
-        "date": "2026-05-28",
-        "stars": 2,
+        "date": "2026-05-29",
+        "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-shape-of-prompts-exploring-their-effect-on-inference-infrastructure"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/the-evolving-role-of-on-board-computers-in-leo-satellites"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Powerbox Expands Defense Power Portfolio with ECDD Series",
+        "blurb": "Powerboxが、過酷な環境下で安定した電力供給を実現する、新しい空冷式コンバーター「ECDDシリーズ」を発表しました。",
+        "category": "company",
+        "date": "2026-05-30",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/powerbox-expands-defense-power-portfolio-with-ecdd-series"
+        },
+        "field": null
+      },
+      {
+        "title": "Building Fixed HW Implementations of Neural Networks (Yale, Cornell et al.)",
+        "blurb": "米大学とNTTが大規模ニューラルネットワークの固定ハードウェア実装を発表。多様なタスクに対応可能。",
+        "category": "company",
+        "date": "2026-05-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/building-fixed-hw-implementations-of-neural-networks-yale-cornell-et-al"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Reshaping Embedded Software for Edge AI to Physical AI, Fail-Safe Engineering, PQC Chips: Embedded Week Insights",
+        "blurb": "組み込みソフトウェア、エッジAIから物理AIへの移行、自律システムのフェイルセーフ、PQCチップに関するEmbedded Weekの最新動向。",
+        "category": "company",
+        "date": "2026-05-30",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/reshaping-embedded-software-for-edge-ai-to-physical-ai-fail-safe-engineering-pqc-chips-embedded-week-insights"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
           "industry": null
         }
       }

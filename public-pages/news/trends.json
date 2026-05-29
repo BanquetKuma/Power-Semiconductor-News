@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-29T06:41:10.532027+09:00",
-  "date": "2026-05-29",
+  "generated_at": "2026-05-30T06:36:23.513819+09:00",
+  "date": "2026-05-30",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化と応用拡大",
+      "name": "次世代パワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,157 +12,158 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiC、GaNに加え、酸化ガリウムなどの新材料や異種集積技術が進化。AIデータセンター、EV、ロボティクス、新宇宙市場など応用分野が拡大。",
+      "summary": "SiC、GaNに加え、酸化ガリウムなどの新材料や、立体配線技術による性能向上・小型化が進展。AIデータセンターやEV、産業機器での採用が加速。",
       "analysis": {
-        "short_term": "SiC/GaNモジュール、変圧器の需要増が続く。",
-        "mid_term": "新材料の技術成熟とコスト低減が鍵となる。",
-        "investment_implications": "パワー半導体メーカー、関連材料・装置企業に注目。"
+        "short_term": "SiC/GaNモジュール需要増。新材料開発競争激化。",
+        "mid_term": "コスト低減と量産体制確立が普及の鍵。",
+        "investment_implications": "材料・製造技術を持つ企業に注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "酸化ガリウム",
-        "EV",
-        "AIデータセンター"
+        "AIデータセンター",
+        "EV"
       ],
       "companies_mentioned": [
-        "マイクロチップ",
-        "STマイクロエレクトロニクス",
-        "インフィニオン",
-        "三菱電機",
-        "TI",
-        "ルネサス",
+        "Vishay",
+        "Microchip",
+        "Von Ardenne",
         "富士電機",
-        "東大",
-        "NTT",
         "マルエム商会"
       ]
     },
     {
-      "name": "AI・データセンター向け高性能化・高効率化",
+      "name": "AIインフラとデータセンターの高度化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "datacenter",
-        "logic",
-        "memory",
-        "backend"
+        "ai",
+        "power",
+        "memory"
       ],
-      "summary": "AIサーバー、データセンター向けに、高性能化、低消費電力化、高効率化が加速。チップレット、パネルレベルパッケージング技術も重要度を増す。",
+      "summary": "AI処理能力向上のため、高電圧DC保護、高効率冷却、HBM搭載などデータセンターのインフラが進化。チップレット技術も活用。",
       "analysis": {
-        "short_term": "AI半導体需要は引き続き堅調。",
-        "mid_term": "パッケージング技術の進化が性能向上を牽引。",
-        "investment_implications": "AIチップメーカー、パッケージング関連企業に投資妙味。"
+        "short_term": "AI向けチップ・メモリ需要がデータセンター投資を牽引。",
+        "mid_term": "電力効率と冷却技術がボトルネックに。",
+        "investment_implications": "データセンター関連インフラ・技術に投資妙味。"
       },
       "keywords": [
-        "AI",
-        "データセンター",
+        "AIデータセンター",
+        "HBM",
         "チップレット",
-        "パネルレベルパッケージング",
-        "高性能化"
+        "DC保護",
+        "冷却"
       ],
       "companies_mentioned": [
         "Lam Research",
-        "Samsung",
-        "富士キメラ総研",
-        "EdgeCortix"
+        "Samsung"
       ]
     },
     {
-      "name": "半導体設計・検証の高度化と自動化",
+      "name": "AI・自動化技術の設計・検証への応用",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
+        "ai",
+        "logic",
         "frontend",
         "backend",
-        "logic",
-        "ai"
+        "equipment"
       ],
-      "summary": "AIエージェントによる設計検証、フォーマル検証、SystemC TLMモデリング、物理学基盤モデルなど、設計・検証プロセスが高度化・自動化。",
+      "summary": "AIを活用したニューラルネットワークのハードウェア実装、欠陥検出、設計検証、レイアウト検証の自動化が進展し、開発効率を向上。",
       "analysis": {
-        "short_term": "検証デバッグのAI活用が進む。",
-        "mid_term": "設計・検証の効率化が開発期間短縮に貢献。",
-        "investment_implications": "EDAツールベンダー、AI活用技術開発企業に注目。"
+        "short_term": "AIエージェントによる検証の可能性模索。",
+        "mid_term": "開発サイクルの短縮と品質向上が期待される。",
+        "investment_implications": "EDAツール、AI検証ソリューションに注目。"
       },
       "keywords": [
         "AI",
         "設計検証",
-        "フォーマル検証",
-        "SystemC TLM",
+        "欠陥検出",
+        "EDA",
         "自動化"
       ],
       "companies_mentioned": [
+        "Yale",
+        "Cornell",
+        "NTT",
+        "Calibre",
         "EdgeCortix"
       ]
     },
     {
-      "name": "地政学リスクとサプライチェーン再編",
-      "confidence": 0.75,
+      "name": "車載半導体需要の拡大と供給課題",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "geopolitics",
         "automotive",
-        "logic",
-        "memory"
+        "power",
+        "memory",
+        "logic"
       ],
-      "summary": "AI用半導体やメモリの供給網が逼迫し、自動車業界などが供給難に直面。地政学リスクを考慮したサプライチェーン戦略の見直しが急務。",
+      "summary": "ADAS、EV化に伴い車載半導体需要が増加。AI半導体・メモリとの競合で供給難に直面し、サプライチェーン戦略の見直しが急務。",
       "analysis": {
-        "short_term": "特定分野での供給不足が継続。",
-        "mid_term": "サプライチェーンの多様化・強靭化が進む。",
-        "investment_implications": "サプライチェーン管理、国内生産強化企業に恩恵。"
+        "short_term": "自動車業界での供給制約が継続。",
+        "mid_term": "サプライヤーとの連携強化と代替材料・技術の模索。",
+        "investment_implications": "車載向け半導体メーカー、サプライヤーに注目。"
       },
       "keywords": [
-        "地政学",
-        "サプライチェーン",
-        "AI半導体",
-        "メモリ",
-        "自動車"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "新素材・新技術によるアナログ・センサー分野の革新",
-      "confidence": 0.7,
-      "momentum": "rising",
-      "related_fields": [
-        "analog",
-        "industrial",
-        "automotive"
-      ],
-      "summary": "レアアース不要の応力発光技術、高温・高耐性フォトディテクターなど、新素材・新技術がアナログ・センサー分野で応用。",
-      "analysis": {
-        "short_term": "医療、インフラ診断、車載用途での応用が期待。",
-        "mid_term": "新技術の実用化とコスト競争力が焦点。",
-        "investment_implications": "先端センサー、特殊材料開発企業に注目。"
-      },
-      "keywords": [
-        "応力発光",
-        "フォトディテクター",
-        "アナログ",
-        "センサー",
-        "新素材"
+        "車載半導体",
+        "ADAS",
+        "EV",
+        "供給難",
+        "サプライチェーン"
       ],
       "companies_mentioned": [
-        "東北大学",
-        "名大"
+        "ローム",
+        "Samsung"
+      ]
+    },
+    {
+      "name": "先端パッケージング技術の重要性増大",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "ai",
+        "memory",
+        "miniaturization"
+      ],
+      "summary": "AIチップの大型化に対応するため、円形ウエハーからパネルレベルパッケージング（PLP）への移行が進む。チップレット技術も活用。",
+      "analysis": {
+        "short_term": "PLP技術開発競争が激化。",
+        "mid_term": "高性能・高密度実装技術がAI性能を左右。",
+        "investment_implications": "パッケージング装置・材料メーカーに期待。"
+      },
+      "keywords": [
+        "先端パッケージング",
+        "PLP",
+        "チップレット",
+        "AI",
+        "HBM"
+      ],
+      "companies_mentioned": [
+        "Lam Research"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け半導体需要の継続的な拡大",
-      "パワー半導体（SiC/GaN）の応用分野拡大と技術進化",
-      "パッケージング技術の重要性向上と投資活発化"
+      "DRAM売上高の過去最高更新",
+      "サムスン電子の業績過去最高更新",
+      "AI向け半導体・データセンター投資の活発化",
+      "次世代パワー半導体の採用拡大"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "特定分野（例: 自動車）における半導体供給制約の可能性"
+      "自動車業界の半導体供給難",
+      "地政学的リスク（台湾情勢など）"
     ],
     "neutral": [
-      "中国半導体市場との関係性（協力と競争のバランス）",
-      "半導体設計・検証プロセスの高度化に伴う開発コスト増"
+      "中国SiCの急速な進化と日本の対応",
+      "ニューラルネットワークのハードウェア実装研究"
     ]
   },
-  "source_count": 47
+  "source_count": 43
 }

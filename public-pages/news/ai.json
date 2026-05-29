@@ -1,31 +1,48 @@
 {
-  "generated_at": "2026-05-29T06:41:05.660340+09:00",
+  "generated_at": "2026-05-30T06:36:18.875067+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Moment Your Edge AI Becomes Physical AI",
-    "summary": "エッジAIが物理AIへと進化する瞬間。組み込みソフトウェア開発の変革点について解説。",
+    "title": "From AI silicon observability to governed evidence",
+    "summary": "AIチップ設計では、データ移動だけではシステム挙動を説明できない。AIシリコンの可観測性から証拠管理へ。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/the-moment-your-edge-ai-becomes-physical-ai"
+        "name": "edn.com",
+        "url": "https://www.edn.com/from-ai-silicon-observability-to-governed-evidence"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "The Moment Your Edge AI Becomes Physical AI",
-        "blurb": "エッジAIが物理AIへと進化する瞬間。組み込みソフトウェア開発の変革点について解説。",
-        "category": "tools",
-        "date": "2026-05-28",
+        "title": "From AI silicon observability to governed evidence",
+        "blurb": "AIチップ設計では、データ移動だけではシステム挙動を説明できない。AIシリコンの可観測性から証拠管理へ。",
+        "category": "company",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/from-ai-silicon-observability-to-governed-evidence"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Reshaping Embedded Software for Edge AI to Physical AI, Fail-Safe Engineering, PQC Chips: Embedded Week Insights",
+        "blurb": "組み込みソフトウェア、エッジAIから物理AIへの移行、自律システムのフェイルセーフ、PQCチップに関するEmbedded Weekの最新動向。",
+        "category": "company",
+        "date": "2026-05-30",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/the-moment-your-edge-ai-becomes-physical-ai"
+          "url": "https://www.embedded.com/reshaping-embedded-software-for-edge-ai-to-physical-ai-fail-safe-engineering-pqc-chips-embedded-week-insights"
         },
         "field": {
           "primary": "ai",
@@ -36,6 +53,7 @@
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

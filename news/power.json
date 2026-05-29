@@ -1,87 +1,68 @@
 {
-  "generated_at": "2026-05-29T06:41:05.659448+09:00",
+  "generated_at": "2026-05-30T06:36:18.874484+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Corner: Beyond SiC and GaN—Von Ardenne’s Guido Überreiter on Gallium Oxide and the Case for PVD",
-    "summary": "Von Ardenne社は、次世代パワー半導体として酸化ガリウムのPVD技術を推進。SiCやGaNを超える可能性を探る。",
+    "title": "HV AI Data Centers DC Protection, New Space GaN Ecosystem, SSTs Adoption in Power Networks: Power Electronics Week Insights",
+    "summary": "高電圧AIデータセンターDC保護、新宇宙GaNエコシステム、電力網へのSST採用に関する最新動向。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-corner-beyond-sic-and-gan-von-ardennes-guido-uberreiter-on-gallium-oxide-and-the-case-for-pvd"
+        "url": "https://www.powerelectronicsnews.com/hv-ai-data-centers-dc-protection-new-space-gan-ecosystem-ssts-adoption-in-power-networks-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Power Corner: Beyond SiC and GaN—Von Ardenne’s Guido Überreiter on Gallium Oxide and the Case for PVD",
-        "blurb": "Von Ardenne社は、次世代パワー半導体として酸化ガリウムのPVD技術を推進。SiCやGaNを超える可能性を探る。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-beyond-sic-and-gan-von-ardennes-guido-uberreiter-on-gallium-oxide-and-the-case-for-pvd"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers",
-        "blurb": "マイクロチップ社が次世代AIインフラ向けに、高効率・高性能な3.3kV SiCモジュールを発表。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "立体配線でSiCの体積／損失を半減　富士電機の新パッケージ技術",
-        "blurb": "富士電機はSiCパワー半導体の体積を約5割、スイッチング損失を約5割低減する立体配線技術を開発。モジュール小型化と高効率化に貢献。",
-        "category": "company",
-        "date": "2026-05-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/28/news064.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "SiC modules simplify high-voltage topologies",
-        "blurb": "Wolfspeedの3.3kV SiCパワーモジュールは、AIデータセンター、再生可能エネルギー、電力インフラ向けに高電圧トポロジーを簡素化します。",
+        "title": "Wide Bandgap Monthly Insights – May 2026",
+        "blurb": "SiC、GaN、ワイドバンドギャップ材料に関する2026年5月の注目ニュースまとめ。",
         "category": "business",
-        "date": "2026-05-28",
+        "date": "2026-05-29",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sic-modules-simplify-high-voltage-topologies"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-may-2026"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "AI向けパッケージング技術、HBM、2nmEDAツール、Huaweiの主張など、半導体業界の最新動向を網羅。",
+        "category": "business",
+        "date": "2026-05-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-140"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "HV AI Data Centers DC Protection, New Space GaN Ecosystem, SSTs Adoption in Power Networks: Power Electronics Week Insights",
+        "blurb": "高電圧AIデータセンターDC保護、新宇宙GaNエコシステム、電力網へのSST採用に関する最新動向。",
+        "category": "business",
+        "date": "2026-05-30",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/hv-ai-data-centers-dc-protection-new-space-gan-ecosystem-ssts-adoption-in-power-networks-power-electronics-week-insights"
         },
         "field": {
           "primary": "power",
