@@ -1,43 +1,27 @@
 {
-  "generated_at": "2026-05-30T06:36:18.875067+09:00",
+  "generated_at": "2026-05-31T06:23:08.207345+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "From AI silicon observability to governed evidence",
-    "summary": "AIチップ設計では、データ移動だけではシステム挙動を説明できない。AIシリコンの可観測性から証拠管理へ。",
+    "title": "Reshaping Embedded Software for Edge AI to Physical AI, Fail-Safe Engineering, PQC Chips: Embedded Week Insights",
+    "summary": "組み込みソフトウェアをエッジAIから物理AIへ再構築、自律システムのフェイルセーフ、PQCチップ等の最新動向。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/from-ai-silicon-observability-to-governed-evidence"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/reshaping-embedded-software-for-edge-ai-to-physical-ai-fail-safe-engineering-pqc-chips-embedded-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "From AI silicon observability to governed evidence",
-        "blurb": "AIチップ設計では、データ移動だけではシステム挙動を説明できない。AIシリコンの可観測性から証拠管理へ。",
-        "category": "company",
-        "date": "2026-05-29",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/from-ai-silicon-observability-to-governed-evidence"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
+    "news": [],
+    "tech": [],
+    "market": [
       {
         "title": "Reshaping Embedded Software for Edge AI to Physical AI, Fail-Safe Engineering, PQC Chips: Embedded Week Insights",
-        "blurb": "組み込みソフトウェア、エッジAIから物理AIへの移行、自律システムのフェイルセーフ、PQCチップに関するEmbedded Weekの最新動向。",
-        "category": "company",
+        "blurb": "組み込みソフトウェアをエッジAIから物理AIへ再構築、自律システムのフェイルセーフ、PQCチップ等の最新動向。",
+        "category": "business",
         "date": "2026-05-30",
         "stars": 3,
         "source": {
@@ -52,8 +36,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

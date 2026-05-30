@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-30T06:36:18.876637+09:00",
+  "generated_at": "2026-05-31T06:23:08.208086+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Building Fixed HW Implementations of Neural Networks (Yale, Cornell et al.)",
-    "summary": "米大学とNTTが大規模ニューラルネットワークの固定ハードウェア実装を発表。多様なタスクに対応可能。",
+    "summary": "米大学とNTTが大規模ニューラルネットワークの固定ハードウェア実装を発表。多様なタスクに対応する基盤モデルの物理的実装を目指す。",
     "sources": [
       {
         "name": "semiengineering.com",
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Building Fixed HW Implementations of Neural Networks (Yale, Cornell et al.)",
-        "blurb": "米大学とNTTが大規模ニューラルネットワークの固定ハードウェア実装を発表。多様なタスクに対応可能。",
+        "blurb": "米大学とNTTが大規模ニューラルネットワークの固定ハードウェア実装を発表。多様なタスクに対応する基盤モデルの物理的実装を目指す。",
         "category": "company",
         "date": "2026-05-30",
         "stars": 3,
@@ -35,45 +35,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "From Billions Of Violations To Actionable Insights: Calibre Vision AI",
-        "blurb": "Calibre Vision AIは、数億件の違反から実行可能な洞察を提供し、デバッグ時間を短縮し、DRC反復時間を圧縮する。",
-        "category": "tools",
-        "date": "2026-05-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-billions-of-violations-to-actionable-insights-calibre-vision-ai"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "Moving Defect Detection And Classification To The Edge",
-        "blurb": "半導体製造における欠陥検出・分類をエッジコンピューティングで行い、迅速な判定を実現する。",
-        "category": "business",
-        "date": "2026-05-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/moving-defect-detection-and-classification-to-the-edge"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }
