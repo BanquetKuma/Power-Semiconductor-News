@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-05-31T06:23:12.410049+09:00",
-  "date": "2026-05-31",
+  "generated_at": "2026-06-01T06:23:17.985905+09:00",
+  "date": "2026-06-01",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の台頭",
+      "name": "次世代パワー半導体の進化と応用拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "SiC、GaNに加え、酸化ガリウムなどの新材料や、高電圧DC保護、立体配線技術がAIデータセンターやEV向けに重要性を増している。",
+      "summary": "SiC、GaNに加え、酸化ガリウムなどの新材料や立体配線技術が進化。AIデータセンター、EV、電力網など応用分野が拡大。",
       "analysis": {
-        "short_term": "需要拡大でSiC/GaN供給逼迫続く。新材料開発も加速。",
-        "mid_term": "材料・製造技術の進化でコスト競争力向上。応用分野拡大。",
-        "investment_implications": "材料・製造技術を持つ企業に注目。サプライヤーも重要。"
+        "short_term": "SiC/GaN需要は堅調。新材料の技術開発競争が激化。",
+        "mid_term": "新材料の量産化とコスト低減が普及の鍵。",
+        "investment_implications": "材料・製造技術を持つ企業に注目。"
       },
       "keywords": [
         "SiC",
@@ -33,133 +34,137 @@
       ]
     },
     {
-      "name": "AIインフラとデータセンターの進化",
+      "name": "AIインフラとデータセンターの需要増",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
         "ai",
         "power",
-        "backend"
+        "memory"
       ],
-      "summary": "AI処理能力向上のため、データセンターの冷却、高電圧DC保護、HBM、パネルレベルパッケージング（PLP）技術が不可欠になっている。",
+      "summary": "AI処理能力向上のため、高電圧DC保護、高効率冷却、高性能メモリ（HBM）などデータセンターインフラへの投資が加速。",
       "analysis": {
-        "short_term": "AIチップ需要増でデータセンター投資活発化。冷却・電源技術が鍵。",
-        "mid_term": "PLPなど新パッケージング技術が量産化。データ移動効率が重要に。",
-        "investment_implications": "データセンターインフラ、冷却、パッケージング関連企業に投資妙味。"
+        "short_term": "AIチップ需要に牽引され、データセンター関連投資は活発。",
+        "mid_term": "電力効率と熱管理がデータセンター設計の重要課題に。",
+        "investment_implications": "データセンター向け電源・冷却・メモリ関連企業に追い風。"
       },
       "keywords": [
-        "AI",
-        "データセンター",
+        "AIデータセンター",
         "HBM",
-        "PLP",
-        "冷却"
+        "DC保護",
+        "冷却",
+        "高電圧"
       ],
       "companies_mentioned": [
-        "Lam Research",
-        "マイクロチップ"
+        "マイクロチップ",
+        "Lam Research"
       ]
     },
     {
-      "name": "エッジAIとハードウェア実装",
+      "name": "半導体設計・検証の自動化とAI活用",
       "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "industrial",
-        "automotive"
-      ],
-      "summary": "大規模ニューラルネットワークの固定ハードウェア実装や、欠陥検出・分類のエッジ化が進み、防衛や産業分野での応用が期待される。",
-      "analysis": {
-        "short_term": "エッジAIソリューションの需要増。省電力・低遅延が競争力。",
-        "mid_term": "ハードウェア実装技術の進化でAI処理の効率化が進む。",
-        "investment_implications": "エッジAIチップ、アクセラレーター開発企業に注目。"
-      },
-      "keywords": [
-        "エッジAI",
-        "ニューラルネットワーク",
-        "ハードウェア実装",
-        "欠陥検出"
-      ],
-      "companies_mentioned": [
-        "EdgeCortix",
-        "米大学",
-        "NTT"
-      ]
-    },
-    {
-      "name": "半導体サプライチェーンの地政学リスク",
-      "confidence": 0.8,
-      "momentum": "stable",
-      "related_fields": [
-        "geopolitics",
-        "foundry",
-        "memory",
-        "automotive"
-      ],
-      "summary": "AI需要と地政学リスクにより、台湾や中国の半導体戦略が注目され、自動車業界は供給難に直面。サプライチェーン再編の動きも。",
-      "analysis": {
-        "short_term": "AI・メモリ需要で供給逼迫。地政学リスクが価格に影響。",
-        "mid_term": "サプライチェーンの多様化・国内回帰が進む可能性。",
-        "investment_implications": "地政学リスクを考慮したサプライチェーン分散投資が有効。"
-      },
-      "keywords": [
-        "台湾",
-        "中国",
-        "AI半導体",
-        "自動車",
-        "供給難"
-      ],
-      "companies_mentioned": [
-        "台湾当局高官",
-        "マルエム商会"
-      ]
-    },
-    {
-      "name": "高度な設計・検証技術の自動化",
-      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "frontend",
         "backend",
+        "ai",
         "logic",
-        "ai"
+        "equipment"
       ],
-      "summary": "AIを活用したDRC違反のデバッグ短縮、エージェントによる設計検証、フォーマル検証、PCBレイアウト検証の自動化が進んでいる。",
+      "summary": "AIエージェントによる設計検証、欠陥検出・分類のエッジ化、電気的DRCによるPCBレイアウト検証自動化が進展。",
       "analysis": {
-        "short_term": "AIによる設計・検証ツールの導入が進む。開発効率向上。",
-        "mid_term": "チップレット設計やNoC検証など複雑化する設計に対応。",
-        "investment_implications": "EDAツール、設計・検証自動化技術を持つ企業に投資機会。"
+        "short_term": "AI活用による開発効率化への期待が高まる。",
+        "mid_term": "AIエージェントの信頼性・実用化が課題。",
+        "investment_implications": "EDAツール、AI開発プラットフォーム企業に注目。"
       },
       "keywords": [
         "AI",
         "設計検証",
-        "DRC",
-        "チップレット",
-        "フォーマル検証"
+        "欠陥検出",
+        "エッジAI",
+        "DRC"
       ],
       "companies_mentioned": [
+        "NTT",
         "Calibre Vision AI",
-        "EdgeCortix"
+        "EdgeCortix",
+        "Yale",
+        "Cornell"
+      ]
+    },
+    {
+      "name": "先端パッケージング技術の重要性増大",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "ai",
+        "memory",
+        "miniaturization"
+      ],
+      "summary": "AI半導体大型化に伴い、円形ウエハーから矩形パネルへの移行が進む。チップレット技術も進化し、オンダイ可観測性が不可欠に。",
+      "analysis": {
+        "short_term": "パネルレベルパッケージング（PLP）技術開発が活発化。",
+        "mid_term": "チップレット間のI/Oとコンピューティングの最適化が鍵。",
+        "investment_implications": "先端パッケージング装置・材料メーカーに成長機会。"
+      },
+      "keywords": [
+        "先端パッケージング",
+        "PLP",
+        "チップレット",
+        "HBM",
+        "可観測性"
+      ],
+      "companies_mentioned": [
+        "Lam Research",
+        "Samsung"
+      ]
+    },
+    {
+      "name": "地政学リスクとサプライチェーン再編",
+      "confidence": 0.75,
+      "momentum": "stable",
+      "related_fields": [
+        "geopolitics",
+        "foundry",
+        "automotive",
+        "memory"
+      ],
+      "summary": "AI需要と地政学リスクにより、自動車業界は供給難に直面。台湾・中国・日本間の関係性もサプライチェーンに影響。",
+      "analysis": {
+        "short_term": "自動車業界の半導体不足は継続の可能性。",
+        "mid_term": "サプライチェーンの多様化・地域分散が進む。",
+        "investment_implications": "地政学リスクに強い企業、サプライチェーン再編で恩恵を受ける企業に注目。"
+      },
+      "keywords": [
+        "地政学",
+        "サプライチェーン",
+        "台湾",
+        "中国",
+        "自動車"
+      ],
+      "companies_mentioned": [
+        "台湾当局",
+        "マルエム商会"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "DRAM売上高の過去最高更新（2026年Q1）",
+      "DRAM売上高の過去最高更新",
       "サムスン電子の業績過去最高更新",
-      "AI向け半導体・データセンター投資の活発化",
-      "次世代パワー半導体（SiC/GaN）の需要拡大"
+      "AIデータセンター関連投資の活発化",
+      "SiC/GaN市場の成長継続"
     ],
     "bearish": [
-      "自動車業界のAI半導体・メモリ供給難",
-      "地政学リスクによるサプライチェーンの不確実性"
+      "自動車業界の半導体供給難継続リスク",
+      "地政学リスクによるサプライチェーンの不安定化"
     ],
     "neutral": [
-      "チップレット設計におけるI/Oと演算コアのトレードオフ",
-      "半導体製造における欠陥検出のエッジ化"
+      "中国SiCの急速な進化と日本の対応",
+      "AIエージェントによる検証の実現性課題"
     ]
   },
-  "source_count": 52
+  "source_count": 51
 }
