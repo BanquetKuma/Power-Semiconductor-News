@@ -1,38 +1,75 @@
 {
-  "generated_at": "2026-05-31T06:23:08.207131+09:00",
+  "generated_at": "2026-06-02T07:04:28.536744+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "HV AI Data Centers DC Protection, New Space GaN Ecosystem, SSTs Adoption in Power Networks: Power Electronics Week Insights",
-    "summary": "高電圧AIデータセンターのDC保護、新宇宙GaNエコシステム、電力網へのSST採用に関する最新動向。",
+    "title": "PEN eBook June 2026 – The Gigawatt Era: Power Electronics in the Age of AI",
+    "summary": "AIチップの電力需要増に対応するため、GaN、SiC、VPD技術が電力エレクトロニクス分野で進化。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/hv-ai-data-centers-dc-protection-new-space-gan-ecosystem-ssts-adoption-in-power-networks-power-electronics-week-insights"
+        "url": "https://www.powerelectronicsnews.com/pen-ebook-june-2026-the-gigawatt-era-power-electronics-in-the-age-of-ai"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "HV AI Data Centers DC Protection, New Space GaN Ecosystem, SSTs Adoption in Power Networks: Power Electronics Week Insights",
-        "blurb": "高電圧AIデータセンターのDC保護、新宇宙GaNエコシステム、電力網へのSST採用に関する最新動向。",
-        "category": "business",
-        "date": "2026-05-30",
+        "title": "トレンチゲート型SiC MOSFETで低損失と短絡耐量を両立、東芝D＆S",
+        "blurb": "東芝D＆Sは、トレンチゲート型SiC MOSFETで低損失と短絡耐量を両立する技術を開発。サンプル出荷を開始した。",
+        "category": "company",
+        "date": "2026-06-01",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/hv-ai-data-centers-dc-protection-new-space-gan-ecosystem-ssts-adoption-in-power-networks-power-electronics-week-insights"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/01/news025.html"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "PEN eBook June 2026 – The Gigawatt Era: Power Electronics in the Age of AI",
+        "blurb": "AIチップの電力需要増に対応するため、GaN、SiC、VPD技術が電力エレクトロニクス分野で進化。",
+        "category": "business",
+        "date": "2026-06-01",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/pen-ebook-june-2026-the-gigawatt-era-power-electronics-in-the-age-of-ai"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Bidirectional SSCBs Based on Half-Bridge SiC Modules",
+        "blurb": "800Vデータセンター向け双方向SiCモジュール搭載SSCBは、マイクロ秒単位のDC故障に対応し、階層的保護設計に不可欠です。",
+        "category": "business",
+        "date": "2026-06-01",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/bidirectional-sscbs-based-on-half-bridge-sic-modules"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "datacenter",
           "industry": null
         }
       }

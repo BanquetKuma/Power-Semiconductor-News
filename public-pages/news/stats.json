@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-01T06:23:13.563568+09:00",
-  "date": "2026-06-01",
-  "total_items": 73,
-  "semiconductor_items": 0,
-  "by_field": {},
+  "generated_at": "2026-06-02T07:04:28.539566+09:00",
+  "date": "2026-06-02",
+  "total_items": 71,
+  "semiconductor_items": 12,
+  "by_field": {
+    "power": 3,
+    "memory": 1,
+    "analog": 1,
+    "ai": 1,
+    "automotive": 2,
+    "datacenter": 1,
+    "industrial": 1,
+    "geopolitics": 1,
+    "miniaturization": 1
+  },
   "sources": [
     "edn.com",
     "embedded.com",
@@ -13,9 +23,9 @@
     "semiengineering.com"
   ],
   "sections": {
-    "business": 2,
-    "tools": 0,
-    "company": 0,
+    "business": 10,
+    "tools": 3,
+    "company": 5,
     "sns": 0
   }
 }

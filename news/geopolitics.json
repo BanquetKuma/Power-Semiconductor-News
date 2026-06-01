@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-05-30T06:36:18.876336+09:00",
+  "generated_at": "2026-06-02T07:04:28.539003+09:00",
   "field": "geopolitics",
   "field_label": "地政学・規制",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "台湾の半導体戦略　強みと限界",
-    "summary": "台湾はAI需要で半導体サプライチェーンで不可欠な存在。当局高官へのインタビューから、人材育成、製造、組み込み、AI分野の現状を検討。",
+    "title": "Huaweiが「ムーアの法則」に代わる新法則　EUVなしで1.4nm実現へ",
+    "summary": "HuaweiがEUVなしで1.4nm実現を目指す新法則「τスケーリング」を発表。米国の輸出規制への対抗策か。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/29/news001.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/01/news090.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "台湾の半導体戦略　強みと限界",
-        "blurb": "台湾はAI需要で半導体サプライチェーンで不可欠な存在。当局高官へのインタビューから、人材育成、製造、組み込み、AI分野の現状を検討。",
-        "category": "business",
-        "date": "2026-05-29",
+        "title": "Huaweiが「ムーアの法則」に代わる新法則　EUVなしで1.4nm実現へ",
+        "blurb": "HuaweiがEUVなしで1.4nm実現を目指す新法則「τスケーリング」を発表。米国の輸出規制への対抗策か。",
+        "category": "company",
+        "date": "2026-06-01",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2605/29/news001.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/01/news090.html"
         },
         "field": {
           "primary": "geopolitics",
           "device": null,
-          "process": null,
+          "process": "frontend",
           "market": null,
           "industry": "geopolitics"
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }
