@@ -1,38 +1,75 @@
 {
-  "generated_at": "2026-06-02T07:04:28.537034+09:00",
+  "generated_at": "2026-06-03T06:59:22.711533+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AIデータセンター投資は既に破綻しているのか",
-    "summary": "AIデータセンター投資はGPU、HBM、電力コストの制約で崩壊の可能性。破綻ラインを逆算する。",
+    "title": "Chip Industry Technical Paper Roundup: Jun. 2",
+    "summary": "半導体業界の技術論文まとめ：AI推論、データ破損検出、NANDフラッシュ、SoC設計、チップレット攻撃、GPU電力管理など。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/01/news014.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jun-2"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "AIデータセンター投資は既に破綻しているのか",
-        "blurb": "AIデータセンター投資はGPU、HBM、電力コストの制約で崩壊の可能性。破綻ラインを逆算する。",
-        "category": "business",
-        "date": "2026-06-01",
+        "title": "HBM内に冷却素子　「最も熱い箇所」直接冷やす新技術",
+        "blurb": "SK hynixは、HBMパッケージ内に冷却素子を搭載する新技術「iHBM」を発表。熱抵抗を30%低減し、次世代HBM製品への導入を目指す。",
+        "category": "company",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/01/news014.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news052.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": "datacenter",
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Chip Industry Technical Paper Roundup: Jun. 2",
+        "blurb": "半導体業界の技術論文まとめ：AI推論、データ破損検出、NANDフラッシュ、SoC設計、チップレット攻撃、GPU電力管理など。",
+        "category": "business",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jun-2"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "汎用DRAM価格、26年1Qに9割超上昇、2Qも6割値上がり予測",
+        "blurb": "2026年第1四半期の汎用DRAM価格は9割超上昇し、メモリ業界売上高も81%増の970億ドルに拡大した。",
+        "category": "business",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news061.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }

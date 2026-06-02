@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-02T07:04:33.780908+09:00",
-  "date": "2026-06-02",
+  "generated_at": "2026-06-03T06:59:28.244382+09:00",
+  "date": "2026-06-03",
   "meta_trends": [
     {
-      "name": "AIインフラ向け高効率電力ソリューション",
+      "name": "AI向け高効率電力ソリューション",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -11,157 +11,151 @@
         "datacenter",
         "ai"
       ],
-      "summary": "AIの電力需要増に対応するため、800VDCアーキテクチャ、GaN/SiC、ソフトウェア定義電圧レギュレータなどの技術進化が加速している。",
+      "summary": "AIサーバーの電力需要増に対応するため、GaN、SiC、VPD技術を活用した高効率・小型化電源ソリューションが急速に進化している。",
       "analysis": {
-        "short_term": "AIサーバーの普及に伴い、高効率化技術への需要が急増。",
-        "mid_term": "次世代データセンターの標準技術として確立される可能性。",
-        "investment_implications": "高効率化技術を持つ企業に注目。"
+        "short_term": "AIデータセンターの需要拡大で関連部品の供給逼迫が続く。",
+        "mid_term": "次世代AIチップ向けに800VDCアーキテクチャが普及し、電力効率が競争優位に。",
+        "investment_implications": "高効率電源技術を持つ企業への投資妙味が増す。"
       },
       "keywords": [
-        "AI",
-        "800VDC",
         "GaN",
         "SiC",
-        "VDR"
+        "AIサーバー",
+        "800VDC",
+        "VPD"
       ],
       "companies_mentioned": [
+        "Power Integrations",
         "Infineon",
-        "NVIDIA",
-        "C2i",
-        "TDK Ventures"
+        "Nvidia",
+        "TDK Ventures",
+        "C2i"
       ]
     },
     {
-      "name": "次世代半導体材料と製造技術の進化",
+      "name": "エッジAIの進化と低消費電力化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "frontend",
-        "backend",
-        "miniaturization",
-        "geopolitics"
+        "ai",
+        "analog",
+        "logic",
+        "miniaturization"
       ],
-      "summary": "SiC、GaNなどのワイドバンドギャップ材料の応用拡大と、サブ2nm製造における課題解決、新スケーリング法則の模索が進む。",
+      "summary": "IoTとAIの普及に伴い、センサー近傍でのデータ処理（エッジコンピューティング）が重要視され、低消費電力・高性能なAIチップ開発が進む。",
       "analysis": {
-        "short_term": "新材料・新技術の性能実証と量産化への動きが活発化。",
-        "mid_term": "製造コストと性能のバランスが取れた技術が市場を牽引。",
-        "investment_implications": "材料・製造技術革新企業への投資妙味。"
+        "short_term": "低消費電力AI-MCUの登場で、リアルタイム推論の可能性が広がる。",
+        "mid_term": "エッジデバイスの性能向上により、より複雑なAIタスクがオフロード可能に。",
+        "investment_implications": "エッジAI向け半導体・ソリューション企業に注目。"
       },
       "keywords": [
-        "SiC",
-        "GaN",
-        "サブ2nm",
-        "スケーリング",
-        "製造技術"
+        "エッジAI",
+        "低消費電力",
+        "IoT",
+        "MCU",
+        "Transformerモデル"
       ],
       "companies_mentioned": [
-        "東芝D&S",
-        "富士電機",
-        "東大",
-        "NTT",
-        "Huawei"
+        "IBM Research",
+        "ETH Zurich",
+        "U. Bologna"
       ]
     },
     {
-      "name": "AI・自動化による設計・検証の高度化",
+      "name": "チップレット技術の標準化と普及",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "frontend",
-        "backend",
-        "datacenter"
+        "logic",
+        "foundry",
+        "fabless",
+        "backend"
       ],
-      "summary": "AIを活用した設計検証、欠陥検出、レイアウト検証の自動化が進み、開発効率と品質向上に貢献する。",
+      "summary": "UCIe規格の進化により、チップレット間の相互接続性が向上し、多様なパッケージング技術と組み合わさることで、高性能・高機能なSoC設計が可能になる。",
       "analysis": {
-        "short_term": "AIツール導入による開発サイクルの短縮が期待される。",
-        "mid_term": "設計・検証プロセス全体のAI統合が進展。",
-        "investment_implications": "AIを活用したEDA・検証ツール企業に注目。"
+        "short_term": "UCIe規格の普及により、チップレットエコシステムが加速。",
+        "mid_term": "異種チップレット統合による革新的な製品開発が進む。",
+        "investment_implications": "チップレット関連技術・IPベンダーへの投資機会。"
       },
       "keywords": [
-        "AI",
-        "設計検証",
-        "欠陥検出",
-        "EDA",
-        "自動化"
+        "チップレット",
+        "UCIe",
+        "パッケージング",
+        "SoC",
+        "相互接続"
       ],
-      "companies_mentioned": [
-        "Calibre Vision AI",
-        "NTT",
-        "Cornell"
-      ]
+      "companies_mentioned": []
     },
     {
-      "name": "サプライチェーンの地政学的リスクと再編",
+      "name": "先端製造技術におけるAI活用",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "geopolitics",
-        "automotive",
-        "memory",
-        "datacenter"
+        "foundry",
+        "equipment",
+        "ai",
+        "frontend"
       ],
-      "summary": "米中対立や輸出規制が半導体供給網に影響を与え、台湾中心のサプライチェーンの強靭化とリスク分散が課題となっている。",
+      "summary": "半導体製造プロセスにおいて、AI（特にグラフアテンション）を活用した仮想計測などの技術が導入され、生産効率と品質向上に貢献。",
       "analysis": {
-        "short_term": "AI需要と地政学リスクがメモリ・AIチップ供給を逼迫。",
-        "mid_term": "サプライチェーンの多様化・地域分散が進む可能性。",
-        "investment_implications": "地政学リスクに強い企業・地域への投資を検討。"
+        "short_term": "AIによる仮想計測が物理計測の限界を補完し、歩留まり向上に寄与。",
+        "mid_term": "製造プロセス全体の最適化にAIが深く関与し、コスト削減とリードタイム短縮を実現。",
+        "investment_implications": "製造装置メーカーやAIソリューションプロバイダーに注目。"
       },
       "keywords": [
-        "地政学",
-        "サプライチェーン",
-        "台湾",
-        "AIチップ",
-        "メモリ"
+        "仮想計測",
+        "AI",
+        "半導体製造",
+        "グラフアテンション",
+        "歩留まり"
       ],
       "companies_mentioned": [
-        "Huawei",
-        "台湾",
-        "自動車業界"
+        "Intel Foundry",
+        "ASU"
       ]
     },
     {
-      "name": "データセンター冷却技術の重要性増大",
-      "confidence": 0.75,
+      "name": "次世代メモリ技術の進化と需要拡大",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
-        "automotive",
-        "industrial"
+        "memory",
+        "ai",
+        "datacenter"
       ],
-      "summary": "AI処理能力向上に伴うデータセンターの発熱増大により、効率的な冷却技術、特にモーター制御技術の重要性が高まっている。",
+      "summary": "AI需要の急増により、HBMなどの高帯域幅メモリの需要が拡大。価格も高騰しており、冷却技術など性能向上に向けた技術開発も活発化。",
       "analysis": {
-        "short_term": "高密度サーバーの導入で冷却ソリューションへの投資が増加。",
-        "mid_term": "革新的な冷却技術がデータセンター設計の鍵となる。",
-        "investment_implications": "冷却技術関連企業に投資機会。"
+        "short_term": "DRAM価格の高騰が続き、メモリメーカーの収益を押し上げる。",
+        "mid_term": "HBMの冷却技術（iHBMなど）が次世代メモリの標準となる可能性。",
+        "investment_implications": "メモリメーカーおよび関連材料・装置メーカーに投資機会。"
       },
       "keywords": [
-        "データセンター",
-        "冷却",
-        "モーター制御",
-        "AI"
+        "HBM",
+        "DRAM",
+        "AI",
+        "メモリ価格",
+        "冷却技術"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "SK hynix"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIインフラ向け高効率電力ソリューションへの需要拡大",
-      "次世代半導体材料（SiC, GaN）の応用拡大",
-      "DRAM売上高の過去最高更新",
-      "AI・自動化による設計・検証プロセスの効率化"
+      "AI向け高性能・高効率電力ソリューションの需要急増",
+      "エッジAI市場の急速な拡大",
+      "HBMおよびDRAM価格の高騰と需要拡大",
+      "チップレット技術の標準化と普及加速"
     ],
     "bearish": [
-      "AIデータセンター投資の持続可能性への懸念",
-      "自動車業界におけるAIチップ・メモリの供給難",
-      "地政学的リスクによるサプライチェーンの不安定化"
+      "AIデータセンター投資の過熱と潜在的なリスク",
+      "地政学的リスク（米中対立、台湾情勢）によるサプライチェーンの不安定化"
     ],
     "neutral": [
-      "サブ2nm製造における技術的課題とコスト",
-      "チップレット技術のI/O vs コンピュート交換の最適化",
-      "PCBレイアウト検証の自動化"
+      "先端製造技術（サブ2nm）における課題と技術開発競争",
+      "中国の半導体技術開発（EUVなしでの微細化）の動向"
     ]
   },
-  "source_count": 50
+  "source_count": 46
 }

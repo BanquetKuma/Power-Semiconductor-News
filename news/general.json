@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-05-31T06:23:08.208086+09:00",
+  "generated_at": "2026-06-03T06:59:22.713773+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Building Fixed HW Implementations of Neural Networks (Yale, Cornell et al.)",
-    "summary": "米大学とNTTが大規模ニューラルネットワークの固定ハードウェア実装を発表。多様なタスクに対応する基盤モデルの物理的実装を目指す。",
+    "title": "Surface Modification for III-V Selective Area MBE of Non-Selective Mask Materials (UT Austin, Harvard)",
+    "summary": "UTオースティンとハーバード大の研究者が、III-V族の選択領域MBEにおける非選択マスク材料の表面改質を発表。光電子デバイスの新規設計に貢献。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/building-fixed-hw-implementations-of-neural-networks-yale-cornell-et-al"
+        "url": "https://semiengineering.com/surface-modification-for-iii-v-selective-area-mbe-of-non-selective-mask-materials-ut-austin-harvard"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Building Fixed HW Implementations of Neural Networks (Yale, Cornell et al.)",
-        "blurb": "米大学とNTTが大規模ニューラルネットワークの固定ハードウェア実装を発表。多様なタスクに対応する基盤モデルの物理的実装を目指す。",
+        "title": "Surface Modification for III-V Selective Area MBE of Non-Selective Mask Materials (UT Austin, Harvard)",
+        "blurb": "UTオースティンとハーバード大の研究者が、III-V族の選択領域MBEにおける非選択マスク材料の表面改質を発表。光電子デバイスの新規設計に貢献。",
         "category": "company",
-        "date": "2026-05-30",
+        "date": "2026-06-03",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-fixed-hw-implementations-of-neural-networks-yale-cornell-et-al"
+          "url": "https://semiengineering.com/surface-modification-for-iii-v-selective-area-mbe-of-non-selective-mask-materials-ut-austin-harvard"
         },
         "field": {
           "primary": "general",
@@ -36,6 +36,43 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "The Evolution Of UCIe",
+        "blurb": "UCIe規格は、チップレット間の単純な接続から、セキュアなデータ移動へと進化しました。多様なパッケージングに対応。",
+        "category": "business",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-evolution-of-ucie"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The firmware-hardware handshake in a silicon governance system",
+        "blurb": "シリコンガバナンスシステムにおけるファームウェアとハードウェアの連携。ハードウェアが状態を検知し、ファームウェアが制限されたアクションを実行。カテゴリ: business, 重要度: 3",
+        "category": "business",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/the-firmware-hardware-handshake-in-a-silicon-governance-system"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

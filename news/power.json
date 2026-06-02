@@ -1,51 +1,30 @@
 {
-  "generated_at": "2026-06-02T07:04:28.536744+09:00",
+  "generated_at": "2026-06-03T06:59:22.711162+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "PEN eBook June 2026 – The Gigawatt Era: Power Electronics in the Age of AI",
-    "summary": "AIチップの電力需要増に対応するため、GaN、SiC、VPD技術が電力エレクトロニクス分野で進化。",
+    "title": "Power Integrations Introduces New GaN-Based Auxiliary PSUs",
+    "summary": "Power IntegrationsがAIサーバー向けの新GaN電源を発表。基板スペースと部品点数を削減。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/pen-ebook-june-2026-the-gigawatt-era-power-electronics-in-the-age-of-ai"
+        "url": "https://www.powerelectronicsnews.com/power-integrations-introduces-new-gan-based-auxiliary-psus"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "トレンチゲート型SiC MOSFETで低損失と短絡耐量を両立、東芝D＆S",
-        "blurb": "東芝D＆Sは、トレンチゲート型SiC MOSFETで低損失と短絡耐量を両立する技術を開発。サンプル出荷を開始した。",
+        "title": "Power Integrations Introduces New GaN-Based Auxiliary PSUs",
+        "blurb": "Power IntegrationsがAIサーバー向けの新GaN電源を発表。基板スペースと部品点数を削減。",
         "category": "company",
-        "date": "2026-06-01",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/01/news025.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [],
-    "market": [
-      {
-        "title": "PEN eBook June 2026 – The Gigawatt Era: Power Electronics in the Age of AI",
-        "blurb": "AIチップの電力需要増に対応するため、GaN、SiC、VPD技術が電力エレクトロニクス分野で進化。",
-        "category": "business",
-        "date": "2026-06-01",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/pen-ebook-june-2026-the-gigawatt-era-power-electronics-in-the-age-of-ai"
+          "url": "https://www.powerelectronicsnews.com/power-integrations-introduces-new-gan-based-auxiliary-psus"
         },
         "field": {
           "primary": "power",
@@ -56,23 +35,25 @@
         }
       },
       {
-        "title": "Bidirectional SSCBs Based on Half-Bridge SiC Modules",
-        "blurb": "800Vデータセンター向け双方向SiCモジュール搭載SSCBは、マイクロ秒単位のDC故障に対応し、階層的保護設計に不可欠です。",
-        "category": "business",
-        "date": "2026-06-01",
+        "title": "Lucid Is Recalling Its Cheapest EV Because It May Lose Power While Driving",
+        "blurb": "高級EV「Lucid Air Pure」で、走行中に突然の動力喪失につながる可能性のあるリコールが発生。インバーターの内部部品の損傷が原因。",
+        "category": "company",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/bidirectional-sscbs-based-on-half-bridge-sic-modules"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/797569/lucid-air-pure-recall-drive-loss"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "datacenter",
+          "market": "automotive",
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }
