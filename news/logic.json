@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-06-03T06:59:22.711929+09:00",
+  "generated_at": "2026-06-04T06:59:32.804393+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Scaling Open-Source HW Accelerator for Deep NN Inference (UDE, Fraunhofer IMS)",
-    "summary": "デュースブルク・エッセン大学とフラウンホーファー研究所が、DNN推論向けスケーラブルなオープンソースHWアクセラレータ「OpenEye」を発表。",
+    "title": "Scaling Nanoribbon Transistors with Monolayer TMDs (Stanford, Chalmers, Horiba, SLAC)",
+    "summary": "スタンフォード大らが2D半導体で微細化可能なナノリボントランジスタを発表。性能向上が期待される。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/scaling-open-source-hw-accelerator-for-deep-nn-inference-ude-fraunhofer-ims"
+        "url": "https://semiengineering.com/scaling-nanoribbon-transistors-with-monolayer-tmds-stanford-chalmers-horiba-slac"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Flexible AI-MCU For Fast Inference of Transformer Models At The Ultra-Low-Power Edge (ETH Zurich, U. Bologna)",
-        "blurb": "ETH Zurichとボローニャ大学が、低消費電力エッジでTransformerモデルの高速推論を実現するAI-MCU「CHIMERA」を発表。",
+        "title": "Scaling Nanoribbon Transistors with Monolayer TMDs (Stanford, Chalmers, Horiba, SLAC)",
+        "blurb": "スタンフォード大らが2D半導体で微細化可能なナノリボントランジスタを発表。性能向上が期待される。",
         "category": "company",
-        "date": "2026-06-03",
+        "date": "2026-06-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/flexible-ai-mcu-for-fast-inference-of-transformer-models-at-the-ultra-low-power-edge-eth-zurich-u-bologna"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "MCU, MPU, or Module? Processor Choices for Robotic Systems",
-        "blurb": "ロボット設計ではMCU、MPU、モジュール選択が重要。性能、消費電力、拡張性が異なる。",
-        "category": "tools",
-        "date": "2026-06-02",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mcu-mpu-or-module-processor-choices-for-robotic-systems"
+          "url": "https://semiengineering.com/scaling-nanoribbon-transistors-with-monolayer-tmds-stanford-chalmers-horiba-slac"
         },
         "field": {
           "primary": "logic",
@@ -55,14 +35,14 @@
         }
       },
       {
-        "title": "Scaling Open-Source HW Accelerator for Deep NN Inference (UDE, Fraunhofer IMS)",
-        "blurb": "デュースブルク・エッセン大学とフラウンホーファー研究所が、DNN推論向けスケーラブルなオープンソースHWアクセラレータ「OpenEye」を発表。",
-        "category": "tools",
-        "date": "2026-06-03",
+        "title": "Agilex 9 FPGAs power COTS VPX boards",
+        "blurb": "アルテラは、マーキュリー・システムズ、VadaTechと提携し、防衛プラットフォーム向けFPGAボードを拡充。",
+        "category": "company",
+        "date": "2026-06-04",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scaling-open-source-hw-accelerator-for-deep-nn-inference-ude-fraunhofer-ims"
+          "name": "edn.com",
+          "url": "https://www.edn.com/agilex-9-fpgas-power-cots-vpx-boards"
         },
         "field": {
           "primary": "logic",
@@ -73,6 +53,7 @@
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

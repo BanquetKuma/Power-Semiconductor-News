@@ -1,161 +1,166 @@
 {
-  "generated_at": "2026-06-03T06:59:28.244382+09:00",
-  "date": "2026-06-03",
+  "generated_at": "2026-06-04T06:59:38.163959+09:00",
+  "date": "2026-06-04",
   "meta_trends": [
     {
-      "name": "AI向け高効率電力ソリューション",
+      "name": "AI向け高効率・高電力化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
+        "ai",
         "datacenter",
-        "ai"
+        "equipment"
       ],
-      "summary": "AIサーバーの電力需要増に対応するため、GaN、SiC、VPD技術を活用した高効率・小型化電源ソリューションが急速に進化している。",
+      "summary": "AI需要増に伴い、データセンターやAIサーバーは800VDCアーキテクチャや1MW級ラックに対応する高効率・高電力化が急速に進展。",
       "analysis": {
-        "short_term": "AIデータセンターの需要拡大で関連部品の供給逼迫が続く。",
-        "mid_term": "次世代AIチップ向けに800VDCアーキテクチャが普及し、電力効率が競争優位に。",
-        "investment_implications": "高効率電源技術を持つ企業への投資妙味が増す。"
+        "short_term": "SiC/GaNデバイス、高電圧電源ソリューションの需要増。",
+        "mid_term": "データセンターインフラ投資の拡大と技術革新の加速。",
+        "investment_implications": "高効率電源、SiC/GaN関連企業に注目。"
       },
       "keywords": [
-        "GaN",
-        "SiC",
-        "AIサーバー",
+        "AI",
         "800VDC",
-        "VPD"
+        "SiC",
+        "GaN",
+        "1MW"
       ],
       "companies_mentioned": [
-        "Power Integrations",
         "Infineon",
         "Nvidia",
-        "TDK Ventures",
-        "C2i"
+        "Flex",
+        "Power Integrations"
       ]
     },
     {
-      "name": "エッジAIの進化と低消費電力化",
+      "name": "次世代メモリ需要の拡大",
       "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "analog",
-        "logic",
-        "miniaturization"
-      ],
-      "summary": "IoTとAIの普及に伴い、センサー近傍でのデータ処理（エッジコンピューティング）が重要視され、低消費電力・高性能なAIチップ開発が進む。",
-      "analysis": {
-        "short_term": "低消費電力AI-MCUの登場で、リアルタイム推論の可能性が広がる。",
-        "mid_term": "エッジデバイスの性能向上により、より複雑なAIタスクがオフロード可能に。",
-        "investment_implications": "エッジAI向け半導体・ソリューション企業に注目。"
-      },
-      "keywords": [
-        "エッジAI",
-        "低消費電力",
-        "IoT",
-        "MCU",
-        "Transformerモデル"
-      ],
-      "companies_mentioned": [
-        "IBM Research",
-        "ETH Zurich",
-        "U. Bologna"
-      ]
-    },
-    {
-      "name": "チップレット技術の標準化と普及",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "foundry",
-        "fabless",
-        "backend"
-      ],
-      "summary": "UCIe規格の進化により、チップレット間の相互接続性が向上し、多様なパッケージング技術と組み合わさることで、高性能・高機能なSoC設計が可能になる。",
-      "analysis": {
-        "short_term": "UCIe規格の普及により、チップレットエコシステムが加速。",
-        "mid_term": "異種チップレット統合による革新的な製品開発が進む。",
-        "investment_implications": "チップレット関連技術・IPベンダーへの投資機会。"
-      },
-      "keywords": [
-        "チップレット",
-        "UCIe",
-        "パッケージング",
-        "SoC",
-        "相互接続"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "先端製造技術におけるAI活用",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "foundry",
-        "equipment",
-        "ai",
-        "frontend"
-      ],
-      "summary": "半導体製造プロセスにおいて、AI（特にグラフアテンション）を活用した仮想計測などの技術が導入され、生産効率と品質向上に貢献。",
-      "analysis": {
-        "short_term": "AIによる仮想計測が物理計測の限界を補完し、歩留まり向上に寄与。",
-        "mid_term": "製造プロセス全体の最適化にAIが深く関与し、コスト削減とリードタイム短縮を実現。",
-        "investment_implications": "製造装置メーカーやAIソリューションプロバイダーに注目。"
-      },
-      "keywords": [
-        "仮想計測",
-        "AI",
-        "半導体製造",
-        "グラフアテンション",
-        "歩留まり"
-      ],
-      "companies_mentioned": [
-        "Intel Foundry",
-        "ASU"
-      ]
-    },
-    {
-      "name": "次世代メモリ技術の進化と需要拡大",
-      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
         "datacenter"
       ],
-      "summary": "AI需要の急増により、HBMなどの高帯域幅メモリの需要が拡大。価格も高騰しており、冷却技術など性能向上に向けた技術開発も活発化。",
+      "summary": "AI処理のボトルネックとなるHBMの需要が急増。汎用DRAM価格も大幅に上昇し、メモリ市場全体の拡大を牽引。",
       "analysis": {
-        "short_term": "DRAM価格の高騰が続き、メモリメーカーの収益を押し上げる。",
-        "mid_term": "HBMの冷却技術（iHBMなど）が次世代メモリの標準となる可能性。",
-        "investment_implications": "メモリメーカーおよび関連材料・装置メーカーに投資機会。"
+        "short_term": "HBM、DRAMの供給逼迫と価格高騰が継続。",
+        "mid_term": "メモリメーカーの生産能力増強と新技術開発競争激化。",
+        "investment_implications": "HBM関連、DRAMメーカーの業績拡大期待。"
       },
       "keywords": [
         "HBM",
         "DRAM",
         "AI",
-        "メモリ価格",
-        "冷却技術"
+        "価格高騰"
       ],
       "companies_mentioned": [
         "SK hynix"
+      ]
+    },
+    {
+      "name": "製造プロセスのAI・新技術活用",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "equipment",
+        "logic",
+        "frontend",
+        "geopolitics"
+      ],
+      "summary": "製造工程におけるAI（仮想計測、量子アニーリング）や新材料（2D半導体）、新プロセス（EUVなし微細化）の導入が進む。",
+      "analysis": {
+        "short_term": "AI活用による歩留まり向上、コスト削減への期待。",
+        "mid_term": "新技術による製造能力の差別化と地政学的リスクへの対応。",
+        "investment_implications": "製造装置、AIソリューション、新材料関連企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "量子アニーリング",
+        "2D半導体",
+        "仮想計測",
+        "EUV"
+      ],
+      "companies_mentioned": [
+        "Intel Foundry",
+        "ASU",
+        "ローム",
+        "Huawei",
+        "Lam Research"
+      ]
+    },
+    {
+      "name": "エッジAIの進化と電力最適化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "analog",
+        "logic",
+        "automotive",
+        "industrial"
+      ],
+      "summary": "エッジデバイスはローカルAI処理、インテリジェントセンシングを統合。低電圧基盤IPによる電力効率向上が重要課題。",
+      "analysis": {
+        "short_term": "低電圧IP、低消費電力センサー技術の開発競争。",
+        "mid_term": "エッジAIの普及に伴う、多様なデバイスへの応用拡大。",
+        "investment_implications": "低電圧IP、センサー、組み込みAI関連企業に注目。"
+      },
+      "keywords": [
+        "エッジAI",
+        "低電圧IP",
+        "IoT",
+        "センサー"
+      ],
+      "companies_mentioned": [
+        "XELA Robotics",
+        "村田製作所"
+      ]
+    },
+    {
+      "name": "車載半導体の高度化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "analog",
+        "power",
+        "logic"
+      ],
+      "summary": "自動運転（ADAS/AD）向けレーダーのアーキテクチャ進化や、SiC/GaNデバイスの車載応用が拡大。",
+      "analysis": {
+        "short_term": "車載用SiC/GaNパワー半導体の需要増。",
+        "mid_term": "自動運転技術の進展に伴う、高性能センサー・プロセッサ需要増。",
+        "investment_implications": "車載半導体、SiC/GaNパワーデバイスメーカーに注目。"
+      },
+      "keywords": [
+        "ADAS",
+        "AD",
+        "SiC",
+        "GaN",
+        "レーダー"
+      ],
+      "companies_mentioned": [
+        "インフィニオン",
+        "東芝D&S"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI向け高性能・高効率電力ソリューションの需要急増",
-      "エッジAI市場の急速な拡大",
-      "HBMおよびDRAM価格の高騰と需要拡大",
-      "チップレット技術の標準化と普及加速"
+      "AI向け半導体需要の継続的な拡大",
+      "HBMおよびDRAM価格の急騰とメモリ市場の回復",
+      "データセンターのインフラ投資活発化",
+      "SiC/GaNパワー半導体の需要増（AI、EV、産業機器）"
     ],
     "bearish": [
-      "AIデータセンター投資の過熱と潜在的なリスク",
-      "地政学的リスク（米中対立、台湾情勢）によるサプライチェーンの不安定化"
+      "地政学的リスクによるサプライチェーンの不安定化",
+      "AIデータセンター投資の持続可能性への懸念（電力コスト等）"
     ],
     "neutral": [
-      "先端製造技術（サブ2nm）における課題と技術開発競争",
-      "中国の半導体技術開発（EUVなしでの微細化）の動向"
+      "微細化技術の限界と新材料・新構造への期待",
+      "半導体製造装置市場の動向（PLP装置など）"
     ]
   },
-  "source_count": 46
+  "source_count": 43
 }

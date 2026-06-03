@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-06-03T06:59:22.712269+09:00",
+  "generated_at": "2026-06-04T06:59:32.804833+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Moving Intelligence Closer to the Sensor Edge (IBM Research)",
-    "summary": "IBMの研究者は、AIとIoTの普及により、センサーの近くで計算を行うエッジコンピューティングへの移行が進むと発表しました。",
+    "title": "Centralized Architecture for Automotive ADAS/AD Radar Based on Raw-ADC-Data",
+    "summary": "自動運転向けレーダーのアーキテクチャに関する記事。生ADCデータに基づき、中央集権型アーキテクチャを提案。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/moving-intelligence-closer-to-the-sensor-edge-ibm-research"
+        "url": "https://semiengineering.com/centralized-architecture-for-automotive-adas-ad-radar-based-on-raw-adc-data"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Moving Intelligence Closer to the Sensor Edge (IBM Research)",
-        "blurb": "IBMの研究者は、AIとIoTの普及により、センサーの近くで計算を行うエッジコンピューティングへの移行が進むと発表しました。",
+        "title": "TDK、新潟にセンサー新工場　JSファンダリ跡地取得",
+        "blurb": "TDKは新潟にセンサー新工場を新設。JSファンダリ跡地を活用し、2029年上半期の稼働を目指す。",
         "category": "company",
         "date": "2026-06-03",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/moving-intelligence-closer-to-the-sensor-edge-ibm-research"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/03/news048.html"
         },
         "field": {
           "primary": "analog",
@@ -33,13 +33,11 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "tech": [
+      },
       {
         "title": "XELA Robotics Introduces Advanced uSkin Tactile Sensors",
         "blurb": "XELA Roboticsは、ロボットの器用さ、物体認識、操作能力を向上させるuSkin触覚センサープラットフォームの改良を発表しました。",
-        "category": "tools",
+        "category": "company",
         "date": "2026-06-03",
         "stars": 3,
         "source": {
@@ -55,6 +53,26 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "Centralized Architecture for Automotive ADAS/AD Radar Based on Raw-ADC-Data",
+        "blurb": "自動運転向けレーダーのアーキテクチャに関する記事。生ADCデータに基づき、中央集権型アーキテクチャを提案。",
+        "category": "business",
+        "date": "2026-06-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/centralized-architecture-for-automotive-adas-ad-radar-based-on-raw-adc-data"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }

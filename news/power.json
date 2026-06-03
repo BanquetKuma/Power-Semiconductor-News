@@ -1,59 +1,78 @@
 {
-  "generated_at": "2026-06-03T06:59:22.711162+09:00",
+  "generated_at": "2026-06-04T06:59:32.803997+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Integrations Introduces New GaN-Based Auxiliary PSUs",
-    "summary": "Power IntegrationsがAIサーバー向けの新GaN電源を発表。基板スペースと部品点数を削減。",
+    "title": "Infineon Introduces 750V CoolSiC G2 Bidirectional Switch",
+    "summary": "インフィニオン、750V SiC双方向スイッチ「CoolSiC G2」発表。電力設計を簡素化し、効率と堅牢性を向上。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-integrations-introduces-new-gan-based-auxiliary-psus"
+        "url": "https://www.powerelectronicsnews.com/infineon-introduces-750v-coolsic-g2-bidirectional-switch"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Power Integrations Introduces New GaN-Based Auxiliary PSUs",
-        "blurb": "Power IntegrationsがAIサーバー向けの新GaN電源を発表。基板スペースと部品点数を削減。",
+        "title": "Infineon Introduces 750V CoolSiC G2 Bidirectional Switch",
+        "blurb": "インフィニオン、750V SiC双方向スイッチ「CoolSiC G2」発表。電力設計を簡素化し、効率と堅牢性を向上。",
         "category": "company",
-        "date": "2026-06-02",
+        "date": "2026-06-03",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-integrations-introduces-new-gan-based-auxiliary-psus"
+          "url": "https://www.powerelectronicsnews.com/infineon-introduces-750v-coolsic-g2-bidirectional-switch"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Lucid Is Recalling Its Cheapest EV Because It May Lose Power While Driving",
-        "blurb": "高級EV「Lucid Air Pure」で、走行中に突然の動力喪失につながる可能性のあるリコールが発生。インバーターの内部部品の損傷が原因。",
-        "category": "company",
-        "date": "2026-06-02",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/797569/lucid-air-pure-recall-drive-loss"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Power Module from SiC Discrete Devices Repackaged: Part 1",
+        "blurb": "SiCパワーモジュールがTO-247デバイスを再パッケージ化し、効率98.1%とコスト半減を実現。",
+        "category": "business",
+        "date": "2026-06-03",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-1"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GaN Power Devices Power Up",
+        "blurb": "窒化ガリウム（GaN）パワーデバイスの研究が進み、低電圧での安全性と低損失化が期待されるが、高電圧用途には課題が残る。",
+        "category": "business",
+        "date": "2026-06-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/gan-power-devices-power-up"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ]
   }
 }
