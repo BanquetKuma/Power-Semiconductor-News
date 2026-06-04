@@ -1,46 +1,28 @@
 {
-  "generated_at": "2026-06-04T06:59:32.802253+09:00",
+  "generated_at": "2026-06-03T06:59:22.709562+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Bourns Launches MH3261 T Series High-Current Ferrite Beads",
-    "summary": "Bournsは、低抵抗で最大11Aの電流処理能力を持つ高電流フェライトビーズ「MH3261 Tシリーズ」を発表しました。",
+    "title": "Power Electronics Course with QSPICE (Episode 11): Circuit Protection—Fuses",
+    "summary": "QSPICEコース第11回は、過電流保護のためのヒューズの動作、特性、SPICEモデリング、回路シミュレーションを解説。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/bourns-launches-mh3261-t-series-high-current-ferrite-beads"
+        "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-11-circuit-protection-fuses"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Power Module from SiC Discrete Devices Repackaged: Part 1",
-        "blurb": "SiCパワーモジュールがTO-247デバイスを再パッケージ化し、効率98.1%とコスト半減を実現。",
+        "title": "The Evolution Of UCIe",
+        "blurb": "UCIe規格は、チップレット間の単純な接続から、セキュアなデータ移動へと進化しました。多様なパッケージングに対応。",
         "category": "business",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-1"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Blog Review: Jun. 3",
-        "blurb": "半導体エンジニアリングのブログレビュー。検証IP、システム・技術の最適化、PCIe 7.0、設計データ課題、プロセスデジタルツインについて。",
-        "category": "business",
-        "date": "2026-06-03",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-jun-3"
+          "url": "https://semiengineering.com/the-evolution-of-ucie"
         },
         "field": {
           "primary": "general",
@@ -51,50 +33,98 @@
         }
       },
       {
-        "title": "1 Megawatt Racks In Data Centers",
-        "blurb": "次世代AIサーバーラックは1メガワット級の電力供給に対応。データセンターの進化を加速。",
+        "title": "Chip Industry Technical Paper Roundup: Jun. 2",
+        "blurb": "半導体業界の技術論文まとめ：AI推論、データ破損検出、NANDフラッシュ、SoC設計、チップレット攻撃、GPU電力管理など。",
         "category": "business",
-        "date": "2026-06-03",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/1-megawatt-racks-in-data-centers"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jun-2"
         },
         "field": {
-          "primary": "ai",
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Research Bits: Jun. 2",
+        "blurb": "半導体技術の進展：バレー電子デバイス、研究用3D EUV装置、湿度感応型光データストレージ。",
+        "category": "business",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-jun-2"
+        },
+        "field": {
+          "primary": "equipment",
           "device": null,
-          "process": null,
-          "market": "ai",
+          "process": "equipment",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Centralized Architecture for Automotive ADAS/AD Radar Based on Raw-ADC-Data",
-        "blurb": "自動運転向けレーダーのアーキテクチャに関する記事。生ADCデータに基づき、中央集権型アーキテクチャを提案。",
+        "title": "「スーパーサイクルに入る」とキオクシア、変動の谷も小さく",
+        "blurb": "キオクシアは2026～2028年度に年平均4700億円投資し、事業構造変化で「スーパーサイクル」入りを目指す。",
         "category": "business",
-        "date": "2026-06-03",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/centralized-architecture-for-automotive-adas-ad-radar-based-on-raw-adc-data"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news127.html"
+        },
+        "field": null
+      },
+      {
+        "title": "量産用PLP装置の導入1年以内に　Lam幹部が語る勝機と戦略",
+        "blurb": "Lam Researchは、量産向けPLP装置を1年以内に顧客の初期パイロット生産に投入する見通し。幹部が戦略を語った。",
+        "category": "business",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news059.html"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "automotive",
+          "primary": "equipment",
+          "device": null,
+          "process": "equipment",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Connectivity and Compute in Next-Gen Edge Devices",
-        "blurb": "次世代エッジデバイスはWi-Fi 7、ローカルAI処理、インテリジェントセンシングを統合し、接続性とコンピューティング能力を向上させる。",
+        "title": "汎用DRAM価格、26年1Qに9割超上昇、2Qも6割値上がり予測",
+        "blurb": "2026年第1四半期の汎用DRAM価格は9割超上昇し、メモリ業界売上高も81%増の970億ドルに拡大した。",
         "category": "business",
-        "date": "2026-06-03",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/connectivity-and-compute-in-next-gen-edge-devices"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news061.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The firmware-hardware handshake in a silicon governance system",
+        "blurb": "シリコンガバナンスシステムにおけるファームウェアとハードウェアの連携。ハードウェアが状態を検知し、ファームウェアが制限されたアクションを実行。カテゴリ: business, 重要度: 3",
+        "category": "business",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/the-firmware-hardware-handshake-in-a-silicon-governance-system"
         },
         "field": {
           "primary": "general",
@@ -105,74 +135,26 @@
         }
       },
       {
-        "title": "GaN Power Devices Power Up",
-        "blurb": "窒化ガリウム（GaN）パワーデバイスの研究が進み、低電圧での安全性と低損失化が期待されるが、高電圧用途には課題が残る。",
+        "title": "Tesla Is Selling Discounted Used Cybertrucks Now",
+        "blurb": "テスラ、中古サイバートラックを6万7千ドル以下で販売開始。購入意欲を刺激できるか注目。",
         "category": "business",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/gan-power-devices-power-up"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Beating the Edge AI Power Wall with Low Voltage Foundation IP",
-        "blurb": "低電圧基盤IPでエッジAIの電力問題を解決。近閾値動作の信頼性向上と設計収束加速を実現。",
-        "category": "business",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beating-the-edge-ai-power-wall-with-low-voltage-foundation-ip"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "キオクシアの四半期売上高、2期連続で過去最高額を更新",
-        "blurb": "キオクシアHD、2026年3月期第4四半期の売上高が2期連続で過去最高を更新した。",
-        "category": "business",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/03/news028.html"
-        },
-        "field": null
-      },
-      {
-        "title": "SSDはAIシステムの中核に、推論AI市場を攻めるキオクシア",
-        "blurb": "キオクシアHDはAIシステムの中核としてSSD事業戦略を発表。推論AI市場を攻める。",
-        "category": "business",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/03/news065.html"
-        },
-        "field": null
-      },
-      {
-        "title": "It's Still Way More Expensive To Insure An EV. But That's Changing",
-        "blurb": "EVの保険料はガソリン車より約18%高いが、その状況は変化しつつある。",
-        "category": "business",
-        "date": "2026-06-03",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/797585/ev-ownership-insurance-price-expensive"
+          "url": "https://insideevs.com/news/797539/tesla-cybertruck-used-inventory-discount"
+        },
+        "field": null
+      },
+      {
+        "title": "I Took A Hyundai Ioniq 5 EV On A Roadtrip. It Made Gas Feel Financially Irresponsible",
+        "blurb": "ヒョンデのEV「アイオニック5」での長距離旅行は、高価な急速充電でもガソリン車より経済的であることを示した。",
+        "category": "business",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/797350/hyundai-ioniq-5-roadtrip-gas-financially-irresponsible"
         },
         "field": {
           "primary": "automotive",
@@ -193,159 +175,207 @@
           "url": "https://insideevs.com/news/797603/hyundai-kia-sales-hybrids-evs-may-2026"
         },
         "field": null
-      },
-      {
-        "title": "Buck controller streamlines in-vehicle USB charging",
-        "blurb": "Diodes社が車載USB充電を簡素化するバックコントローラー「APK43070Q」を発表。USB-C PD 3.1ソースコントローラーを内蔵。",
-        "category": "business",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/buck-controller-streamlines-in-vehicle-usb-charging"
-        },
-        "field": null
-      },
-      {
-        "title": "What Ultra-High-Mileage EVs Teach Us About Battery Degradation",
-        "blurb": "高走行距離EVの実データと専門家テストによると、バッテリー劣化は突然の故障ではなく、徐々に航続距離が失われる傾向がある。",
-        "category": "business",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/797638/high-mileage-ev-battery-degradation"
-        },
-        "field": null
       }
     ],
     "tools": [
       {
-        "title": "From Circuits to Systems: Unlocking the Power of Periodic Steady-State Analysis (eBook)",
-        "blurb": "回路設計者は、周波数変換、ノイズ、安定性、歪みを正確にモデル化するPSS解析（PAC、PNoise、PXF）で回路性能を精密に分析できます。",
+        "title": "Power Electronics Course with QSPICE (Episode 11): Circuit Protection—Fuses",
+        "blurb": "QSPICEコース第11回は、過電流保護のためのヒューズの動作、特性、SPICEモデリング、回路シミュレーションを解説。",
         "category": "tools",
-        "date": "2026-06-03",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-circuits-to-systems-unlocking-the-power-of-periodic-steady-state-analysis-ebook"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-11-circuit-protection-fuses"
+        },
+        "field": null
+      },
+      {
+        "title": "MATSim実践編――ドラッグ＆ドロップで1万人超のエージェントを動かしてみる",
+        "blurb": "MATSim実践編。PC環境、事前準備、起動手順を解説。自作ツールで1万人超エージェントをドラッグ＆ドロップ操作。",
+        "category": "tools",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news026.html"
+        },
+        "field": null
+      },
+      {
+        "title": "One-shot surge protection",
+        "blurb": "保護や安全に関する約束は、その有効性を再確認することが重要です。",
+        "category": "tools",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/one-shot-surge-protection"
+        },
+        "field": null
+      },
+      {
+        "title": "HIL platform automates tests to validate hardware behavior",
+        "blurb": "HILプラットフォームがハードウェアテストを自動化し、数日で完全自動化パイプラインを構築可能に。",
+        "category": "tools",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/hil-platform-automates-tests-to-validate-hardware-behavior"
+        },
+        "field": null
+      },
+      {
+        "title": "MCU, MPU, or Module? Processor Choices for Robotic Systems",
+        "blurb": "ロボット設計ではMCU、MPU、モジュール選択が重要。性能、消費電力、拡張性が異なる。",
+        "category": "tools",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mcu-mpu-or-module-processor-choices-for-robotic-systems"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Pentesting: The Required Human Ingenuity to Uncover Security Gaps",
-        "blurb": "ペネトレーションテストは、ネットワークやIoTなどのセキュリティ上の脆弱性を発見するために人間の創造性が必要であることを示しています。",
+        "title": "Mikroe Launches Life Click Board for Vital Sign Monitoring",
+        "blurb": "Mikroeが生命指標モニタリング用「Life Click Board」を発表。ウェアラブル等で複数の生体情報をリアルタイム監視可能。",
+        "category": "tools",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mikroe-launches-life-click-board-for-vital-sign-monitoring"
+        },
+        "field": null
+      },
+      {
+        "title": "Scaling Open-Source HW Accelerator for Deep NN Inference (UDE, Fraunhofer IMS)",
+        "blurb": "デュースブルク・エッセン大学とフラウンホーファー研究所が、DNN推論向けスケーラブルなオープンソースHWアクセラレータ「OpenEye」を発表。",
         "category": "tools",
         "date": "2026-06-03",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/pentesting-the-required-human-ingenuity-to-uncover-security-gaps"
+          "url": "https://semiengineering.com/scaling-open-source-hw-accelerator-for-deep-nn-inference-ude-fraunhofer-ims"
         },
         "field": {
-          "primary": "industrial",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Triply simply sequence supply voltages",
-        "blurb": "トリプル電源シーケンス回路設計。シュミットトリガーで正電源タイミングを簡素化。",
+        "title": "XELA Robotics Introduces Advanced uSkin Tactile Sensors",
+        "blurb": "XELA Roboticsは、ロボットの器用さ、物体認識、操作能力を向上させるuSkin触覚センサープラットフォームの改良を発表しました。",
         "category": "tools",
         "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/triply-simply-sequence-supply-voltages"
-        },
-        "field": null
-      },
-      {
-        "title": "Ruggedized connectors: Not necessarily big or bulky",
-        "blurb": "堅牢コネクタは、大小やデザインに関わらず、様々な形状で提供されています。",
-        "category": "tools",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ruggedized-connectors-not-necessarily-big-or-bulky"
-        },
-        "field": null
-      },
-      {
-        "title": "Value DSCs streamline embedded control",
-        "blurb": "マイクロチップのdsPIC33CK Value DSCは、コスト重視の組み込み制御向けにリアルタイム制御を提供。",
-        "category": "tools",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/value-dscs-streamline-embedded-control"
-        },
-        "field": null
-      },
-      {
-        "title": "RF tool captures reusable design workflows",
-        "blurb": "KeysightのRF回路シミュレーションソフトは、設計ワークフローを再利用可能な形で文書化する機能を追加しました。",
-        "category": "tools",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rf-tool-captures-reusable-design-workflows"
-        },
-        "field": null
-      },
-      {
-        "title": "Low-noise USB scopes deliver 16-bit resolution",
-        "blurb": "Pico Technologyが16ビット分解能の低ノイズUSBオシロスコープ「PicoScope 5000E」シリーズを発表。アナログ・デジタル・混合信号デバッグに対応。",
-        "category": "tools",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/low-noise-usb-scopes-deliver-16-bit-resolution"
-        },
-        "field": null
-      },
-      {
-        "title": "Game of Drones, Part 1: How IMU Navigation Architectures Make or Break a Drone",
-        "blurb": "ドローンの飛行に不可欠なIMU（慣性計測装置）中心のナビゲーション・センシング技術について解説。そのアーキテクチャがドローンの性能を左右する。",
-        "category": "tools",
-        "date": "2026-06-04",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/game-of-drones-part-1-how-imu-navigation-architectures-make-or-break-a-drone"
+          "url": "https://www.embedded.com/xela-robotics-introduces-advanced-uskin-tactile-sensors"
         },
-        "field": null
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
       }
     ],
     "company": [
       {
-        "title": "Infineon Introduces 750V CoolSiC G2 Bidirectional Switch",
-        "blurb": "インフィニオン、750V SiC双方向スイッチ「CoolSiC G2」発表。電力設計を簡素化し、効率と堅牢性を向上。",
+        "title": "Power Integrations Introduces New GaN-Based Auxiliary PSUs",
+        "blurb": "Power IntegrationsがAIサーバー向けの新GaN電源を発表。基板スペースと部品点数を削減。",
         "category": "company",
-        "date": "2026-06-03",
+        "date": "2026-06-02",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-introduces-750v-coolsic-g2-bidirectional-switch"
+          "url": "https://www.powerelectronicsnews.com/power-integrations-introduces-new-gan-based-auxiliary-psus"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "積層技術で良い音鳴らす　太陽誘電の「振動スピーカー」",
+        "blurb": "太陽誘電が積層技術を応用した「振動スピーカー」を開発。独自技術による新規事業に期待。",
+        "category": "company",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/01/news067.html"
+        },
+        "field": null
+      },
+      {
+        "title": "HBM内に冷却素子　「最も熱い箇所」直接冷やす新技術",
+        "blurb": "SK hynixは、HBMパッケージ内に冷却素子を搭載する新技術「iHBM」を発表。熱抵抗を30%低減し、次世代HBM製品への導入を目指す。",
+        "category": "company",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news052.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
           "market": null,
           "industry": null
+        }
+      },
+      {
+        "title": "Lucid Is Recalling Its Cheapest EV Because It May Lose Power While Driving",
+        "blurb": "高級EV「Lucid Air Pure」で、走行中に突然の動力喪失につながる可能性のあるリコールが発生。インバーターの内部部品の損傷が原因。",
+        "category": "company",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/797569/lucid-air-pure-recall-drive-loss"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "The Company That Builds The iPhone Just Unveiled A Tesla Model Y Competitor",
+        "blurb": "iPhone製造のFoxconnが、テスラModel Y競合EV「Cavira」を発表。LFPバッテリー搭載、最大468馬力。",
+        "category": "company",
+        "date": "2026-06-02",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/797561/foxconn-ev-crossover-tesla-model-y-rival"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
         }
       },
       {
@@ -367,56 +397,14 @@
         }
       },
       {
-        "title": "宅内と屋外用Wi-SUNのファームウェアを共通化、京大",
-        "blurb": "京大が宅内・屋外Wi-SUN対応の共通ファームウェアを開発。無線モジュールに搭載可能。",
+        "title": "Surface Modification for III-V Selective Area MBE of Non-Selective Mask Materials (UT Austin, Harvard)",
+        "blurb": "UTオースティンとハーバード大の研究者が、III-V族の選択領域MBEにおける非選択マスク材料の表面改質を発表。光電子デバイスの新規設計に貢献。",
         "category": "company",
         "date": "2026-06-03",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/03/news032.html"
-        },
-        "field": null
-      },
-      {
-        "title": "TDK、新潟にセンサー新工場　JSファンダリ跡地取得",
-        "blurb": "TDKは新潟にセンサー新工場を新設。JSファンダリ跡地を活用し、2029年上半期の稼働を目指す。",
-        "category": "company",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/03/news048.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "軍需譲りの高耐久／高信頼が強み　米Knowlesの車載MLCC",
-        "blurb": "米Knowles社が車載向けMLCC製品を発表。軍需で培った高耐久・高信頼性が強み。",
-        "category": "company",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news092.html"
-        },
-        "field": null
-      },
-      {
-        "title": "「世界初」ローム、前工程に量子アニーリング技術導入",
-        "blurb": "ロームは半導体製造の前工程に量子アニーリングを世界初導入。生産効率を約3%改善。ラピスセミコンダクタ宮崎工場で稼働。",
-        "category": "company",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/03/news030.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/surface-modification-for-iii-v-selective-area-mbe-of-non-selective-mask-materials-ut-austin-harvard"
         },
         "field": {
           "primary": "general",
@@ -427,80 +415,44 @@
         }
       },
       {
-        "title": "XELA Robotics Introduces Advanced uSkin Tactile Sensors",
-        "blurb": "XELA Roboticsは、ロボットの器用さ、物体認識、操作能力を向上させるuSkin触覚センサープラットフォームの改良を発表しました。",
+        "title": "Moving Intelligence Closer to the Sensor Edge (IBM Research)",
+        "blurb": "IBMの研究者は、AIとIoTの普及により、センサーの近くで計算を行うエッジコンピューティングへの移行が進むと発表しました。",
         "category": "company",
         "date": "2026-06-03",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/xela-robotics-introduces-advanced-uskin-tactile-sensors"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/moving-intelligence-closer-to-the-sensor-edge-ibm-research"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "The Mercedes CLA EV Just Smashed Its  EPA Range Rating In A Real-World Test",
-        "blurb": "メルセデス・ベンツの新型CLA 350 EVが、実走行テストでEPA推定航続距離を117km上回る結果となった。",
+        "title": "Flexible AI-MCU For Fast Inference of Transformer Models At The Ultra-Low-Power Edge (ETH Zurich, U. Bologna)",
+        "blurb": "ETH Zurichとボローニャ大学が、低消費電力エッジでTransformerモデルの高速推論を実現するAI-MCU「CHIMERA」を発表。",
         "category": "company",
         "date": "2026-06-03",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/797694/mercedes-cla-350-ev-beats-epa-estimated-range"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/flexible-ai-mcu-for-fast-inference-of-transformer-models-at-the-ultra-low-power-edge-eth-zurich-u-bologna"
         },
         "field": {
-          "primary": "automotive",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Rivian’s EV Charging Network Is Growing Fast, And It Just Hit A Major Milestone",
-        "blurb": "RivianのEV充電ネットワークが急速に拡大し、主要なマイルストーンを達成しました。R2のニュースに隠れがちですが、同社独自の充電網は成長を続けています。",
-        "category": "company",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/797654/rivian-ev-charging-network-growth-milestone"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Electrify America Just Made EV Charging Easier By Ditching An Annoying Policy",
-        "blurb": "Electrify Americaは、アカウントへの事前入金を廃止し、よりシンプルな請求システムを導入してEV充電を簡素化します。",
-        "category": "company",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/797647/electrify-america-ev-charging-billing-change"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
       },
       {
         "title": "The Rolls-Royce Spectre Gets Big Update. But You Wouldn’t Know It",
-        "blurb": "ロールスロイス・スペクターが航続距離延長、充電速度向上、応答性改善など大幅改良。デザインはほぼそのまま。",
+        "blurb": "ロールスロイス・スペクターが航続距離延長、充電速度向上、応答性改善のアップデート。デザインはほぼ変更なし。",
         "category": "company",
         "date": "2026-06-03",
         "stars": 3,
@@ -509,72 +461,6 @@
           "url": "https://insideevs.com/news/797596/rolls-royce-spectre-series-two"
         },
         "field": null
-      },
-      {
-        "title": "Bourns Launches MH3261 T Series High-Current Ferrite Beads",
-        "blurb": "Bournsは、低抵抗で最大11Aの電流処理能力を持つ高電流フェライトビーズ「MH3261 Tシリーズ」を発表しました。",
-        "category": "company",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/bourns-launches-mh3261-t-series-high-current-ferrite-beads"
-        },
-        "field": null
-      },
-      {
-        "title": "Flex Unveils Power Solutions for 800 VDC Data Center Architectures",
-        "blurb": "Flex社が800VDCデータセンター向けの新電源ソリューションを発表。AI需要増に対応。",
-        "category": "company",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/flex-unveils-power-solutions-for-800-vdc-data-center-architectures"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Scaling Nanoribbon Transistors with Monolayer TMDs (Stanford, Chalmers, Horiba, SLAC)",
-        "blurb": "スタンフォード大らが2D半導体で微細化可能なナノリボントランジスタを発表。性能向上が期待される。",
-        "category": "company",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/scaling-nanoribbon-transistors-with-monolayer-tmds-stanford-chalmers-horiba-slac"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Agilex 9 FPGAs power COTS VPX boards",
-        "blurb": "アルテラは、マーキュリー・システムズ、VadaTechと提携し、防衛プラットフォーム向けFPGAボードを拡充。",
-        "category": "company",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/agilex-9-fpgas-power-cots-vpx-boards"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       }
     ],
     "sns": []

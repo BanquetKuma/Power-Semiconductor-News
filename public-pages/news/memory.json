@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-06-03T06:59:22.711533+09:00",
+  "generated_at": "2026-06-05T06:34:42.720421+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Technical Paper Roundup: Jun. 2",
-    "summary": "半導体業界の技術論文まとめ：AI推論、データ破損検出、NANDフラッシュ、SoC設計、チップレット攻撃、GPU電力管理など。",
+    "title": "キオクシアが第10世代BiCS FLASHで332層を選んだ理由",
+    "summary": "キオクシアは第10世代BiCS FLASHで332層を採用。メモリ事業部長が開発状況や技術的狙いを語った。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jun-2"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/04/news061.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "HBM内に冷却素子　「最も熱い箇所」直接冷やす新技術",
-        "blurb": "SK hynixは、HBMパッケージ内に冷却素子を搭載する新技術「iHBM」を発表。熱抵抗を30%低減し、次世代HBM製品への導入を目指す。",
+        "title": "キオクシアが第10世代BiCS FLASHで332層を選んだ理由",
+        "blurb": "キオクシアは第10世代BiCS FLASHで332層を採用。メモリ事業部長が開発状況や技術的狙いを語った。",
         "category": "company",
-        "date": "2026-06-02",
+        "date": "2026-06-04",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news052.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/04/news061.html"
         },
         "field": {
           "primary": "memory",
@@ -36,43 +36,6 @@
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "Chip Industry Technical Paper Roundup: Jun. 2",
-        "blurb": "半導体業界の技術論文まとめ：AI推論、データ破損検出、NANDフラッシュ、SoC設計、チップレット攻撃、GPU電力管理など。",
-        "category": "business",
-        "date": "2026-06-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jun-2"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "汎用DRAM価格、26年1Qに9割超上昇、2Qも6割値上がり予測",
-        "blurb": "2026年第1四半期の汎用DRAM価格は9割超上昇し、メモリ業界売上高も81%増の970億ドルに拡大した。",
-        "category": "business",
-        "date": "2026-06-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/02/news061.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

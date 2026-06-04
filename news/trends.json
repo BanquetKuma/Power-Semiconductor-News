@@ -1,166 +1,173 @@
 {
-  "generated_at": "2026-06-04T06:59:38.163959+09:00",
-  "date": "2026-06-04",
+  "generated_at": "2026-06-05T06:34:47.988129+09:00",
+  "date": "2026-06-05",
   "meta_trends": [
     {
-      "name": "AI向け高効率・高電力化",
+      "name": "高電圧・高効率化の進展",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "ai",
+        "automotive",
         "datacenter",
-        "equipment"
+        "ai"
       ],
-      "summary": "AI需要増に伴い、データセンターやAIサーバーは800VDCアーキテクチャや1MW級ラックに対応する高効率・高電力化が急速に進展。",
+      "summary": "EV、データセンター、AIサーバー向けに、48Vから800VDCへの高電圧化と、SiC/GaNを用いた高効率化が進展。電力変換・供給技術が重要に。",
       "analysis": {
-        "short_term": "SiC/GaNデバイス、高電圧電源ソリューションの需要増。",
-        "mid_term": "データセンターインフラ投資の拡大と技術革新の加速。",
-        "investment_implications": "高効率電源、SiC/GaN関連企業に注目。"
+        "short_term": "高電圧・高効率化製品の需要増が続く。",
+        "mid_term": "標準化とコスト低下が進み、採用が加速。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味増。"
       },
       "keywords": [
-        "AI",
-        "800VDC",
         "SiC",
         "GaN",
-        "1MW"
+        "800VDC",
+        "EV",
+        "AIサーバー"
       ],
       "companies_mentioned": [
-        "Infineon",
-        "Nvidia",
+        "Vishay",
         "Flex",
-        "Power Integrations"
+        "Infineon",
+        "Power Integrations",
+        "Nvidia"
       ]
     },
     {
-      "name": "次世代メモリ需要の拡大",
+      "name": "AIインフラの高度化とセキュリティ強化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "memory",
         "ai",
-        "datacenter"
+        "datacenter",
+        "logic",
+        "geopolitics"
       ],
-      "summary": "AI処理のボトルネックとなるHBMの需要が急増。汎用DRAM価格も大幅に上昇し、メモリ市場全体の拡大を牽引。",
+      "summary": "AI処理能力向上に伴い、データセンター、エッジAI、車載イーサネットで高性能化とテラビット級の高速化が進む。セキュリティも重要課題。",
       "analysis": {
-        "short_term": "HBM、DRAMの供給逼迫と価格高騰が継続。",
-        "mid_term": "メモリメーカーの生産能力増強と新技術開発競争激化。",
-        "investment_implications": "HBM関連、DRAMメーカーの業績拡大期待。"
+        "short_term": "AI向け高性能チップ・インフラ需要は堅調。",
+        "mid_term": "セキュリティソリューションの重要性が増す。",
+        "investment_implications": "AIインフラ、セキュリティ関連企業に注目。"
       },
       "keywords": [
-        "HBM",
-        "DRAM",
         "AI",
-        "価格高騰"
+        "データセンター",
+        "エッジAI",
+        "テラビットイーサネット",
+        "セキュリティ"
       ],
       "companies_mentioned": [
-        "SK hynix"
+        "Nvidia",
+        "Aptiv",
+        "Lam Research",
+        "Altera"
       ]
     },
     {
-      "name": "製造プロセスのAI・新技術活用",
+      "name": "先端プロセスと新材料開発の加速",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
-        "equipment",
         "logic",
+        "memory",
         "frontend",
-        "geopolitics"
+        "equipment",
+        "wafer"
       ],
-      "summary": "製造工程におけるAI（仮想計測、量子アニーリング）や新材料（2D半導体）、新プロセス（EUVなし微細化）の導入が進む。",
+      "summary": "1nm世代以降の配線抵抗低減、3D NANDの層数増加、PLP装置の実用化など、次世代半導体実現に向けた先端技術開発が活発化。",
       "analysis": {
-        "short_term": "AI活用による歩留まり向上、コスト削減への期待。",
-        "mid_term": "新技術による製造能力の差別化と地政学的リスクへの対応。",
-        "investment_implications": "製造装置、AIソリューション、新材料関連企業に注目。"
+        "short_term": "先端プロセス関連技術への投資は継続。",
+        "mid_term": "新材料・新構造の量産化が競争力に。",
+        "investment_implications": "先端プロセス技術を持つ企業に期待。"
       },
       "keywords": [
-        "AI",
-        "量子アニーリング",
-        "2D半導体",
-        "仮想計測",
-        "EUV"
+        "1nm",
+        "配線抵抗",
+        "3D NAND",
+        "PLP",
+        "新材料"
       ],
       "companies_mentioned": [
-        "Intel Foundry",
-        "ASU",
-        "ローム",
-        "Huawei",
-        "Lam Research"
+        "慶応大",
+        "NIMS",
+        "キオクシア",
+        "Lam Research",
+        "ローム"
       ]
     },
     {
-      "name": "エッジAIの進化と電力最適化",
+      "name": "車載半導体の高度化と信頼性向上",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "analog",
-        "logic",
         "automotive",
-        "industrial"
+        "logic",
+        "analog",
+        "miniaturization"
       ],
-      "summary": "エッジデバイスはローカルAI処理、インテリジェントセンシングを統合。低電圧基盤IPによる電力効率向上が重要課題。",
+      "summary": "AI搭載車は、車載イーサネットの信頼性向上や、カスタムFinFET基盤IPによる高性能・高信頼性化を要求。センサー技術も進化。",
       "analysis": {
-        "short_term": "低電圧IP、低消費電力センサー技術の開発競争。",
-        "mid_term": "エッジAIの普及に伴う、多様なデバイスへの応用拡大。",
-        "investment_implications": "低電圧IP、センサー、組み込みAI関連企業に注目。"
+        "short_term": "車載半導体市場は堅調に成長。",
+        "mid_term": "自動運転・ADAS向け需要が拡大。",
+        "investment_implications": "車載半導体メーカーの成長に期待。"
       },
       "keywords": [
-        "エッジAI",
-        "低電圧IP",
-        "IoT",
-        "センサー"
+        "車載イーサネット",
+        "FinFET",
+        "カスタムIP",
+        "センサー",
+        "ADAS"
       ],
       "companies_mentioned": [
+        "Vishay",
         "XELA Robotics",
-        "村田製作所"
+        "Aptiv",
+        "Nvidia"
       ]
     },
     {
-      "name": "車載半導体の高度化",
+      "name": "資源循環とサステナビリティへの注力",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
-        "analog",
-        "power",
-        "logic"
+        "general",
+        "wafer",
+        "geopolitics"
       ],
-      "summary": "自動運転（ADAS/AD）向けレーダーのアーキテクチャ進化や、SiC/GaNデバイスの車載応用が拡大。",
+      "summary": "銅資源の国内循環を目指す動きや、半導体製造プロセスへの量子アニーリング導入など、サステナビリティと効率化の両立を目指す。",
       "analysis": {
-        "short_term": "車載用SiC/GaNパワー半導体の需要増。",
-        "mid_term": "自動運転技術の進展に伴う、高性能センサー・プロセッサ需要増。",
-        "investment_implications": "車載半導体、SiC/GaNパワーデバイスメーカーに注目。"
+        "short_term": "資源循環・省エネ技術への関心高まる。",
+        "mid_term": "環境規制強化でサステナビリティが必須に。",
+        "investment_implications": "リサイクル・省エネ技術関連企業に注目。"
       },
       "keywords": [
-        "ADAS",
-        "AD",
-        "SiC",
-        "GaN",
-        "レーダー"
+        "銅資源",
+        "リサイクル",
+        "量子アニーリング",
+        "サステナビリティ",
+        "省エネ"
       ],
       "companies_mentioned": [
-        "インフィニオン",
-        "東芝D&S"
+        "NTT",
+        "三菱マテリアル",
+        "ローム"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI向け半導体需要の継続的な拡大",
-      "HBMおよびDRAM価格の急騰とメモリ市場の回復",
-      "データセンターのインフラ投資活発化",
-      "SiC/GaNパワー半導体の需要増（AI、EV、産業機器）"
+      "AI関連投資の継続による市場拡大予測",
+      "DRAM価格の急騰とメモリ市場の回復",
+      "EV・データセンター向け高電圧・高効率化製品の需要増"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不安定化",
-      "AIデータセンター投資の持続可能性への懸念（電力コスト等）"
+      "サイバー攻撃の高度化とセキュリティリスクの増大",
+      "地政学的リスクによるサプライチェーンの不安定化懸念"
     ],
     "neutral": [
-      "微細化技術の限界と新材料・新構造への期待",
-      "半導体製造装置市場の動向（PLP装置など）"
+      "衛星コンステレーションのAIワークロード処理能力はまだ限定的",
+      "ハードウェア攻撃によるセキュリティ侵害事例の発生"
     ]
   },
-  "source_count": 43
+  "source_count": 41
 }

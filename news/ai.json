@@ -1,32 +1,31 @@
 {
-  "generated_at": "2026-06-04T06:59:32.805235+09:00",
+  "generated_at": "2026-06-05T06:34:42.721076+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "1 Megawatt Racks In Data Centers",
-    "summary": "次世代AIサーバーラックは1メガワット級の電力供給に対応。データセンターの進化を加速。",
+    "title": "Beyond PCIe Compliance: Why Stress Testing Is Crucial For Edge AI Deployments",
+    "summary": "エッジAI展開では、実稼働条件を再現し、PCIeコンプライアンスを超えたストレステストでマージンと限界を把握することが不可欠です。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/1-megawatt-racks-in-data-centers"
+        "url": "https://semiengineering.com/beyond-pcie-compliance-why-stress-testing-is-crucial-for-edge-ai-deployments"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "1 Megawatt Racks In Data Centers",
-        "blurb": "次世代AIサーバーラックは1メガワット級の電力供給に対応。データセンターの進化を加速。",
-        "category": "business",
-        "date": "2026-06-03",
+        "title": "Beyond PCIe Compliance: Why Stress Testing Is Crucial For Edge AI Deployments",
+        "blurb": "エッジAI展開では、実稼働条件を再現し、PCIeコンプライアンスを超えたストレステストでマージンと限界を把握することが不可欠です。",
+        "category": "tools",
+        "date": "2026-06-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/1-megawatt-racks-in-data-centers"
+          "url": "https://semiengineering.com/beyond-pcie-compliance-why-stress-testing-is-crucial-for-edge-ai-deployments"
         },
         "field": {
           "primary": "ai",
@@ -35,23 +34,25 @@
           "market": "ai",
           "industry": null
         }
-      },
+      }
+    ],
+    "market": [
       {
-        "title": "Beating the Edge AI Power Wall with Low Voltage Foundation IP",
-        "blurb": "低電圧基盤IPでエッジAIの電力問題を解決。近閾値動作の信頼性向上と設計収束加速を実現。",
+        "title": "Aptiv, Nvidia Expand Collaboration for Production-Ready Edge AI",
+        "blurb": "AptivとNvidiaは、量産可能なエッジAIプラットフォーム展開加速のため協業を拡大。Jetsonエコシステム強化へ。",
         "category": "business",
-        "date": "2026-06-03",
+        "date": "2026-06-05",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beating-the-edge-ai-power-wall-with-low-voltage-foundation-ip"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/aptiv-nvidia-expand-collaboration-for-production-ready-edge-ai"
         },
         "field": {
           "primary": "ai",
           "device": null,
           "process": null,
           "market": "ai",
-          "industry": null
+          "industry": "fabless"
         }
       }
     ]
