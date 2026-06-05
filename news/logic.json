@@ -1,97 +1,60 @@
 {
-  "generated_at": "2026-06-05T06:34:42.720745+09:00",
+  "generated_at": "2026-06-06T06:33:07.916268+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "RISC-V And GPU Synergy In Practice: A Path Toward High-Performance SoCs",
-    "summary": "RISC-VとGPUの連携が高性能SoC実現への道を開く。AI、グラフィックス、コンピューティングの統合が競争力の鍵となる。",
+    "title": "GF、シノプシスのARCプロセッサIP事業買収を完了",
+    "summary": "GFがシノプシスのARCプロセッサIP事業買収を完了。MIPSと統合し、フィジカルAI向けソリューション提供へ。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/risc-v-and-gpu-synergy-in-practice-a-path-towards-high-performance-socs"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/05/news033.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "次世代半導体配線構造の寿命ばらつきを解明、LSTC",
-        "blurb": "LSTCは、次世代半導体で期待されるRu/AG配線構造の製造ばらつきが絶縁寿命に影響することを解明した。",
+        "title": "GF、シノプシスのARCプロセッサIP事業買収を完了",
+        "blurb": "GFがシノプシスのARCプロセッサIP事業買収を完了。MIPSと統合し、フィジカルAI向けソリューション提供へ。",
         "category": "company",
-        "date": "2026-06-04",
+        "date": "2026-06-05",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/04/news038.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/05/news033.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Agilex 9 FPGAs power COTS VPX boards",
-        "blurb": "アルテラは、マーキュリー・システムズ、ヴァダテックと提携し、防衛プラットフォーム向けFPGAボードを拡張。",
-        "category": "company",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/agilex-9-fpgas-power-cots-vpx-boards"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
+          "industry": "foundry"
         }
       }
     ],
     "tech": [
       {
-        "title": "The hidden bottleneck in LLM inference and the impact on MLPerf benchmarking",
-        "blurb": "LLM推論の隠れたボトルネックがGPU構造の非効率性を露呈。MLPerfベンチマークへの影響も指摘。",
+        "title": "Robotics Development Kits, Game of Drones, Processor Choices for Robotics: Embedded Week Insights",
+        "blurb": "ロボット開発キット、ドローン、プロセッサ選択に関する組み込みウィークの洞察。最新動向をまとめた記事。",
         "category": "tools",
-        "date": "2026-06-04",
+        "date": "2026-06-06",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/the-hidden-bottleneck-in-llm-inference-and-the-impact-on-mlperf-benchmarking"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/robotics-development-kits-game-of-drones-processor-choices-for-robotics-embedded-week-insights"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "fabless"
         }
       }
     ],
-    "market": [
-      {
-        "title": "RISC-V And GPU Synergy In Practice: A Path Toward High-Performance SoCs",
-        "blurb": "RISC-VとGPUの連携が高性能SoC実現への道を開く。AI、グラフィックス、コンピューティングの統合が競争力の鍵となる。",
-        "category": "business",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/risc-v-and-gpu-synergy-in-practice-a-path-towards-high-performance-socs"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

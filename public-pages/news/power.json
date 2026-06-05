@@ -1,51 +1,32 @@
 {
-  "generated_at": "2026-06-04T06:59:32.803997+09:00",
+  "generated_at": "2026-06-06T06:33:07.915522+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Infineon Introduces 750V CoolSiC G2 Bidirectional Switch",
-    "summary": "インフィニオン、750V SiC双方向スイッチ「CoolSiC G2」発表。電力設計を簡素化し、効率と堅牢性を向上。",
+    "title": "Wise Integration Advances WiseGan Digital-First Power IC Strategy",
+    "summary": "Wiseは、高効率GaN・SiC電力変換システム向け分散デジタル制御技術を発表し、デジタルファーストPower IC戦略を推進。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/infineon-introduces-750v-coolsic-g2-bidirectional-switch"
+        "url": "https://www.powerelectronicsnews.com/wise-integration-advances-wisegan-digital-first-power-ic-strategy"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Infineon Introduces 750V CoolSiC G2 Bidirectional Switch",
-        "blurb": "インフィニオン、750V SiC双方向スイッチ「CoolSiC G2」発表。電力設計を簡素化し、効率と堅牢性を向上。",
-        "category": "company",
-        "date": "2026-06-03",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-introduces-750v-coolsic-g2-bidirectional-switch"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "Power Module from SiC Discrete Devices Repackaged: Part 1",
-        "blurb": "SiCパワーモジュールがTO-247デバイスを再パッケージ化し、効率98.1%とコスト半減を実現。",
+        "title": "The MOSFET Innovation Pace: Why Silicon Wins Critical Power Stages Alongside SiC and GaN",
+        "blurb": "インフィニオンは、Si MOSFETの性能向上で、SiCやGaNと共に重要電力段で優位性を維持。",
         "category": "business",
-        "date": "2026-06-03",
+        "date": "2026-06-05",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-1"
+          "url": "https://www.powerelectronicsnews.com/the-mosfet-innovation-pace-why-silicon-wins-critical-power-stages-alongside-sic-and-gan"
         },
         "field": {
           "primary": "power",
@@ -56,20 +37,74 @@
         }
       },
       {
-        "title": "GaN Power Devices Power Up",
-        "blurb": "窒化ガリウム（GaN）パワーデバイスの研究が進み、低電圧での安全性と低損失化が期待されるが、高電圧用途には課題が残る。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "AIエコシステム、自動チップ設計、IntelのAIラック、Nikonのリソグラフィ、IC市場上昇、Appleのチップレット時代、HBM値上げなど、半導体業界の最新動向。",
         "category": "business",
-        "date": "2026-06-03",
+        "date": "2026-06-05",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/gan-power-devices-power-up"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-141"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "backend",
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "The RF-ready GaN-on-silicon with lower parasitic losses",
+        "blurb": "窒化ガリウム（GaN）オンシリコン技術が、寄生損失を低減し、線形性と電力効率を向上させる新技術を発表。",
+        "category": "business",
+        "date": "2026-06-05",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/the-rf-ready-gan-on-silicon-with-lower-parasitic-losses"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "industrial",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Wise Integration Advances WiseGan Digital-First Power IC Strategy",
+        "blurb": "Wiseは、高効率GaN・SiC電力変換システム向け分散デジタル制御技術を発表し、デジタルファーストPower IC戦略を推進。",
+        "category": "business",
+        "date": "2026-06-06",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/wise-integration-advances-wisegan-digital-first-power-ic-strategy"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "SiC-Based SSCBs, PEN eBook June 2026, Discrete SiC-Based Power Modules: Power Electronics Week Insights",
+        "blurb": "パワーエレクトロニクスウィークの最新情報。SiCベースSSCBs、PEN eBook 2026年6月、ディスクリートSiCベースパワーモジュールについて。",
+        "category": "business",
+        "date": "2026-06-06",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/sic-based-sscbs-pen-ebook-june-2026-discrete-sic-based-power-modules-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }

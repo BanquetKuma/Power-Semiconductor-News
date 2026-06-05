@@ -1,172 +1,175 @@
 {
-  "generated_at": "2026-06-05T06:34:47.988129+09:00",
-  "date": "2026-06-05",
+  "generated_at": "2026-06-06T06:33:12.338337+09:00",
+  "date": "2026-06-06",
   "meta_trends": [
     {
-      "name": "高電圧・高効率化の進展",
+      "name": "次世代パワー半導体の進化と多様化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "ai"
+        "datacenter"
       ],
-      "summary": "EV、データセンター、AIサーバー向けに、48Vから800VDCへの高電圧化と、SiC/GaNを用いた高効率化が進展。電力変換・供給技術が重要に。",
+      "summary": "SiC, GaN技術の進化とSiとの併用が進み、EV、データセンター向け高効率化・高電圧化が加速。",
       "analysis": {
-        "short_term": "高電圧・高効率化製品の需要増が続く。",
-        "mid_term": "標準化とコスト低下が進み、採用が加速。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味増。"
+        "short_term": "SiC/GaN製品の拡充と採用拡大が続く。",
+        "mid_term": "高電圧・高効率化が標準となり、新アプリケーションが登場。",
+        "investment_implications": "関連材料・製造装置・設計ツール企業に注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "800VDC",
         "EV",
-        "AIサーバー"
+        "データセンター",
+        "高効率"
       ],
       "companies_mentioned": [
+        "Wise Integration",
+        "Infineon",
         "Vishay",
         "Flex",
-        "Infineon",
-        "Power Integrations",
-        "Nvidia"
+        "TDK"
       ]
     },
     {
-      "name": "AIインフラの高度化とセキュリティ強化",
+      "name": "AI・HPC向け先端パッケージング技術",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
+        "backend",
         "ai",
         "datacenter",
         "logic",
-        "geopolitics"
+        "memory"
       ],
-      "summary": "AI処理能力向上に伴い、データセンター、エッジAI、車載イーサネットで高性能化とテラビット級の高速化が進む。セキュリティも重要課題。",
+      "summary": "AI・HPCの性能向上に不可欠な、3D-IC、コパッケージドオプティクス、ガラス基板等の技術開発が活発化。",
       "analysis": {
-        "short_term": "AI向け高性能チップ・インフラ需要は堅調。",
-        "mid_term": "セキュリティソリューションの重要性が増す。",
-        "investment_implications": "AIインフラ、セキュリティ関連企業に注目。"
+        "short_term": "新パッケージング技術の発表・実用化が進む。",
+        "mid_term": "AI・HPCの性能限界を押し上げる。",
+        "investment_implications": "先端パッケージング材料・装置メーカーに妙味。"
       },
       "keywords": [
+        "3D-IC",
+        "パッケージング",
         "AI",
-        "データセンター",
-        "エッジAI",
-        "テラビットイーサネット",
-        "セキュリティ"
+        "HPC",
+        "コパッケージドオプティクス"
       ],
       "companies_mentioned": [
-        "Nvidia",
-        "Aptiv",
-        "Lam Research",
-        "Altera"
+        "imec",
+        "GF",
+        "シノプシス",
+        "キオクシア",
+        "NTT",
+        "三菱マテリアル"
       ]
     },
     {
-      "name": "先端プロセスと新材料開発の加速",
+      "name": "次世代メモリ技術の探求と応用",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "logic",
         "memory",
-        "frontend",
-        "equipment",
-        "wafer"
+        "ai",
+        "datacenter",
+        "logic"
       ],
-      "summary": "1nm世代以降の配線抵抗低減、3D NANDの層数増加、PLP装置の実用化など、次世代半導体実現に向けた先端技術開発が活発化。",
+      "summary": "3Dメモリ、FeFET、eDRAMなど新構造・新材料の研究開発が進み、AIやエッジコンピューティングでの活用が期待。",
       "analysis": {
-        "short_term": "先端プロセス関連技術への投資は継続。",
-        "mid_term": "新材料・新構造の量産化が競争力に。",
-        "investment_implications": "先端プロセス技術を持つ企業に期待。"
+        "short_term": "新メモリ技術の脆弱性解析や性能評価が進む。",
+        "mid_term": "AI特化型メモリや低消費電力メモリの標準化。",
+        "investment_implications": "メモリメーカー、研究機関の動向を注視。"
       },
       "keywords": [
-        "1nm",
-        "配線抵抗",
-        "3D NAND",
-        "PLP",
-        "新材料"
+        "3Dメモリ",
+        "FeFET",
+        "eDRAM",
+        "AIメモリ",
+        "LPDDR6"
       ],
       "companies_mentioned": [
-        "慶応大",
-        "NIMS",
+        "imec",
+        "ASU",
+        "Georgia Tech",
         "キオクシア",
-        "Lam Research",
         "ローム"
       ]
     },
     {
-      "name": "車載半導体の高度化と信頼性向上",
+      "name": "半導体製造プロセスの革新と効率化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
+        "frontend",
+        "foundry",
         "logic",
-        "analog",
-        "miniaturization"
+        "equipment"
       ],
-      "summary": "AI搭載車は、車載イーサネットの信頼性向上や、カスタムFinFET基盤IPによる高性能・高信頼性化を要求。センサー技術も進化。",
+      "summary": "量子アニーリング、デジタル制御IC、自動設計ツールなど、製造プロセスの効率化・高度化が進む。",
       "analysis": {
-        "short_term": "車載半導体市場は堅調に成長。",
-        "mid_term": "自動運転・ADAS向け需要が拡大。",
-        "investment_implications": "車載半導体メーカーの成長に期待。"
+        "short_term": "新技術の導入・実証実験が進展。",
+        "mid_term": "生産性向上とコスト削減に貢献。",
+        "investment_implications": "製造装置、EDAツール、新興ファウンドリに注目。"
       },
       "keywords": [
-        "車載イーサネット",
-        "FinFET",
-        "カスタムIP",
-        "センサー",
-        "ADAS"
+        "量子アニーリング",
+        "デジタル制御",
+        "自動設計",
+        "2nm",
+        "ファウンドリ"
       ],
       "companies_mentioned": [
-        "Vishay",
-        "XELA Robotics",
-        "Aptiv",
-        "Nvidia"
+        "Wise Integration",
+        "Rapidus",
+        "GF",
+        "シノプシス",
+        "ローム"
       ]
     },
     {
-      "name": "資源循環とサステナビリティへの注力",
+      "name": "サステナビリティと資源循環への注力",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "general",
-        "wafer",
-        "geopolitics"
+        "foundry",
+        "equipment"
       ],
-      "summary": "銅資源の国内循環を目指す動きや、半導体製造プロセスへの量子アニーリング導入など、サステナビリティと効率化の両立を目指す。",
+      "summary": "銅資源の国内循環や、低コスト・低エネルギーでの物質製造など、環境負荷低減に向けた取り組みが加速。",
       "analysis": {
-        "short_term": "資源循環・省エネ技術への関心高まる。",
-        "mid_term": "環境規制強化でサステナビリティが必須に。",
-        "investment_implications": "リサイクル・省エネ技術関連企業に注目。"
+        "short_term": "リサイクル技術や新素材開発が進む。",
+        "mid_term": "サプライチェーン全体での環境対応が必須に。",
+        "investment_implications": "リサイクル・環境技術関連企業に成長機会。"
       },
       "keywords": [
-        "銅資源",
-        "リサイクル",
-        "量子アニーリング",
         "サステナビリティ",
-        "省エネ"
+        "資源循環",
+        "銅",
+        "光触媒",
+        "環境負荷"
       ],
       "companies_mentioned": [
         "NTT",
         "三菱マテリアル",
-        "ローム"
+        "阪大"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続による市場拡大予測",
-      "DRAM価格の急騰とメモリ市場の回復",
-      "EV・データセンター向け高電圧・高効率化製品の需要増"
+      "AI・データセンター向け投資の継続による市場拡大（2027年300兆円規模予測）",
+      "EV市場の成長に伴う車載半導体需要の増加",
+      "次世代パワー半導体（SiC/GaN）の採用拡大",
+      "先端パッケージング技術への期待感の高まり"
     ],
     "bearish": [
-      "サイバー攻撃の高度化とセキュリティリスクの増大",
-      "地政学的リスクによるサプライチェーンの不安定化懸念"
+      "地政学リスクによるサプライチェーンの不安定化懸念",
+      "セキュリティアルゴリズムの陳腐化リスク増大"
     ],
     "neutral": [
-      "衛星コンステレーションのAIワークロード処理能力はまだ限定的",
-      "ハードウェア攻撃によるセキュリティ侵害事例の発生"
+      "メモリ市場の価格変動リスク",
+      "新興ファウンドリ（Rapidus等）の量産化への道のり"
     ]
   },
   "source_count": 41

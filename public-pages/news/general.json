@@ -1,66 +1,30 @@
 {
-  "generated_at": "2026-06-05T06:34:42.722728+09:00",
+  "generated_at": "2026-06-06T06:33:07.918210+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Orbital Data Centers Are Souped-Up Satellites – For Now",
-    "summary": "衛星コンステレーションは、地球上のAIワークロードを処理するにはまだ数段階先だが、搭載コンピューティング能力の強化が進んでいる。",
+    "title": "Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)",
+    "summary": "imecとKU Leuvenの研究者らが、IGZO FeFETを用いた3D AIメモリの実現可能性を評価。読み出し中心のDTCO視点から、オンチップ・オフチップ両方のメモリ構造を検討。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/orbital-data-centers-are-souped-up-satellites-for-now"
+        "url": "https://semiengineering.com/read-centric-dtco-for-igzo-fefets-3d-heterogeneous-ai-memories-imec-ku-leuven"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Breaking The “Unhackable” Xbox One",
-        "blurb": "ハードウェアのフォールトインジェクション攻撃により、12年ぶりにXbox OneのブートROMレベルの侵害が初めて達成された。",
+        "title": "塗って乾かすだけ、過酸化水素製造用光触媒シート",
+        "blurb": "阪大が開発した光触媒シートは、水と酸素から低コストで過酸化水素を製造可能。太陽光エネルギー利用。",
         "category": "company",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/breaking-the-unhackable-xbox-one"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "銅資源の国内循環を推進　NTT／三菱マテリアルが新会社",
-        "blurb": "NTTと三菱マテリアルが銅資源の国内循環を目指す新会社「NTTサーキュラスト」を設立。使用済み機器から再生材を製造・販売する。",
-        "category": "company",
-        "date": "2026-06-04",
+        "date": "2026-06-05",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/05/news024.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "1nm世代以降の集積回路における配線抵抗を低減、慶応大ら",
-        "blurb": "慶応大とNIMSは次世代半導体向け配線材料の研究成果を発表。配線抵抗の大幅低減が可能に。",
-        "category": "company",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/04/news039.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/05/news034.html"
         },
         "field": {
           "primary": "general",
@@ -73,14 +37,50 @@
     ],
     "tech": [
       {
-        "title": "Defending Smart Homes Against AI Cyber Attacks",
-        "blurb": "AIサイバー攻撃からスマートホームを守る方法。脆弱性アラート、アップデート、侵害増加への対策。",
+        "title": "Reduce Memory Redesigns With Shift-Left",
+        "blurb": "早期の回路図解析により、メモリ設計の後工程での手戻りを削減できます。",
         "category": "tools",
-        "date": "2026-06-04",
+        "date": "2026-06-05",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/defending-smart-homes-against-ai-cyber-attacks"
+          "url": "https://semiengineering.com/reduce-memory-redesigns-with-shift-left"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "A Comprehensive Approach To 3D-IC Physical Verification",
+        "blurb": "3D-ICの物理検証におけるDRC、LVSなどの包括的なアプローチについて解説。",
+        "category": "tools",
+        "date": "2026-06-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-comprehensive-approach-to-3d-ic-physical-verification"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIST)",
+        "blurb": "KAISTの研究者らが、再構成可能なハードウェアでゼロ知識証明生成を高速化するフレームワーク「ZK-Flex」を発表しました。",
+        "category": "tools",
+        "date": "2026-06-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/accelerating-zero-knowledge-proof-generation-with-reconfigurable-hardware-kaist"
         },
         "field": {
           "primary": "general",
@@ -93,86 +93,32 @@
     ],
     "market": [
       {
-        "title": "Orbital Data Centers Are Souped-Up Satellites – For Now",
-        "blurb": "衛星コンステレーションは、地球上のAIワークロードを処理するにはまだ数段階先だが、搭載コンピューティング能力の強化が進んでいる。",
+        "title": "注目高まる半導体後工程　「SEMISOL 2026」主催者に見どころを聞く",
+        "blurb": "半導体後工程の専門展「SEMISOL 2026」が開幕。主催者に初開催の振り返りと今回の見どころを聞いた。",
         "category": "business",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/orbital-data-centers-are-souped-up-satellites-for-now"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI-Defined Vehicles Increase Pressure On Auto Ethernet Reliability",
-        "blurb": "AI搭載車は自動運転の信頼性向上に不可欠な、車載イーサネットのリアルタイム処理能力強化を求めている。",
-        "category": "business",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-defined-vehicles-increase-pressure-on-auto-ethernet-reliability"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Securing Terabit Ethernet For AI: Where MACsec, IPsec, And UET TSS Each Fit (And Why You Need More Than One)",
-        "blurb": "AI向けテラビットイーサネットのセキュリティは、MACsec、IPsec、UET TSSの連携で実現。単一プロトコルでは不十分。",
-        "category": "business",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-terabit-ethernet-for-ai-where-macsec-ipsec-and-uet-tss-each-fit-and-why-you-need-more-than-one"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The Edge LLM Offload Story",
-        "blurb": "エッジデバイスでAI推論を高速化するため、サブシステムを組み合わせた異種AIアーキテクチャが求められている。",
-        "category": "business",
-        "date": "2026-06-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-edge-llm-offload-story"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "27年の世界半導体市場は300兆円規模に　AI投資継続",
-        "blurb": "2027年の世界半導体市場は約300兆円規模に成長する見通し。AI関連投資の継続が後押しする。",
-        "category": "business",
-        "date": "2026-06-04",
+        "date": "2026-06-05",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/04/news120.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/05/news039.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)",
+        "blurb": "imecとKU Leuvenの研究者らが、IGZO FeFETを用いた3D AIメモリの実現可能性を評価。読み出し中心のDTCO視点から、オンチップ・オフチップ両方のメモリ構造を検討。",
+        "category": "business",
+        "date": "2026-06-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/read-centric-dtco-for-igzo-fefets-3d-heterogeneous-ai-memories-imec-ku-leuven"
         },
         "field": {
           "primary": "general",
