@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T06:33:07.918210+09:00",
+  "generated_at": "2026-06-07T06:25:11.959772+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
@@ -17,14 +17,14 @@
   "sections": {
     "news": [
       {
-        "title": "塗って乾かすだけ、過酸化水素製造用光触媒シート",
-        "blurb": "阪大が開発した光触媒シートは、水と酸素から低コストで過酸化水素を製造可能。太陽光エネルギー利用。",
+        "title": "Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)",
+        "blurb": "imecとKU Leuvenの研究者らが、IGZO FeFETを用いた3D AIメモリの実現可能性を評価。読み出し中心のDTCO視点から、オンチップ・オフチップ両方のメモリ構造を検討。",
         "category": "company",
-        "date": "2026-06-05",
+        "date": "2026-06-06",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/05/news034.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/read-centric-dtco-for-igzo-fefets-3d-heterogeneous-ai-memories-imec-ku-leuven"
         },
         "field": {
           "primary": "general",
@@ -36,42 +36,6 @@
       }
     ],
     "tech": [
-      {
-        "title": "Reduce Memory Redesigns With Shift-Left",
-        "blurb": "早期の回路図解析により、メモリ設計の後工程での手戻りを削減できます。",
-        "category": "tools",
-        "date": "2026-06-05",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/reduce-memory-redesigns-with-shift-left"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "A Comprehensive Approach To 3D-IC Physical Verification",
-        "blurb": "3D-ICの物理検証におけるDRC、LVSなどの包括的なアプローチについて解説。",
-        "category": "tools",
-        "date": "2026-06-05",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-comprehensive-approach-to-3d-ic-physical-verification"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
       {
         "title": "Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIST)",
         "blurb": "KAISTの研究者らが、再構成可能なハードウェアでゼロ知識証明生成を高速化するフレームワーク「ZK-Flex」を発表しました。",
@@ -91,43 +55,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "注目高まる半導体後工程　「SEMISOL 2026」主催者に見どころを聞く",
-        "blurb": "半導体後工程の専門展「SEMISOL 2026」が開幕。主催者に初開催の振り返りと今回の見どころを聞いた。",
-        "category": "business",
-        "date": "2026-06-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/05/news039.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)",
-        "blurb": "imecとKU Leuvenの研究者らが、IGZO FeFETを用いた3D AIメモリの実現可能性を評価。読み出し中心のDTCO視点から、オンチップ・オフチップ両方のメモリ構造を検討。",
-        "category": "business",
-        "date": "2026-06-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/read-centric-dtco-for-igzo-fefets-3d-heterogeneous-ai-memories-imec-ku-leuven"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

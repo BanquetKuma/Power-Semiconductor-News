@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-06T06:33:07.915899+09:00",
+  "generated_at": "2026-06-07T06:25:11.958664+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Analyzing Rowhammer Vulnerability in Monolithic 3D IWO eDRAM for Edge (ASU, Georgia Tech)",
-    "summary": "ASUとGeorgia Techの研究者が、次世代メモリ技術である3D IWO eDRAMのRowhammer脆弱性を分析。温度と経年劣化を考慮した初の包括的解析。",
+    "summary": "ASUとジョージア工科大の研究者が、次世代メモリ技術であるIWO eDRAMのRowhammer脆弱性を分析。温度と経年劣化を考慮した初の包括的解析を発表。",
     "sources": [
       {
         "name": "semiengineering.com",
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Analyzing Rowhammer Vulnerability in Monolithic 3D IWO eDRAM for Edge (ASU, Georgia Tech)",
-        "blurb": "ASUとGeorgia Techの研究者が、次世代メモリ技術である3D IWO eDRAMのRowhammer脆弱性を分析。温度と経年劣化を考慮した初の包括的解析。",
+        "blurb": "ASUとジョージア工科大の研究者が、次世代メモリ技術であるIWO eDRAMのRowhammer脆弱性を分析。温度と経年劣化を考慮した初の包括的解析を発表。",
         "category": "company",
         "date": "2026-06-06",
         "stars": 3,
@@ -36,25 +36,6 @@
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "LPDDR6、データセンターにも活路",
-        "blurb": "データセンター向けに次世代低消費電力メモリ「LPDDR6」への関心が高まっている。モバイル向け主流から、データセンターのニーズに応える機能が追加される予定だ。",
-        "category": "business",
-        "date": "2026-06-05",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/05/news079.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

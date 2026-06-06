@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-06T06:33:12.338337+09:00",
-  "date": "2026-06-06",
+  "generated_at": "2026-06-07T06:25:16.033785+09:00",
+  "date": "2026-06-07",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化と多様化",
+      "name": "次世代パワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -11,25 +11,24 @@
         "automotive",
         "datacenter"
       ],
-      "summary": "SiC, GaN技術の進化とSiとの併用が進み、EV、データセンター向け高効率化・高電圧化が加速。",
+      "summary": "SiC, GaN技術の進化とデジタル制御の統合が進み、EV、データセンター、産業機器での採用が加速。効率と性能向上が鍵。",
       "analysis": {
-        "short_term": "SiC/GaN製品の拡充と採用拡大が続く。",
-        "mid_term": "高電圧・高効率化が標準となり、新アプリケーションが登場。",
-        "investment_implications": "関連材料・製造装置・設計ツール企業に注目。"
+        "short_term": "SiC/GaNデバイスの供給増とコスト低減が進む。",
+        "mid_term": "EVパワートレイン、データセンター電源で標準化が進む。",
+        "investment_implications": "関連材料・製造装置メーカーに注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "高効率"
+        "電力変換"
       ],
       "companies_mentioned": [
         "Wise Integration",
         "Infineon",
         "Vishay",
-        "Flex",
-        "TDK"
+        "Flex"
       ]
     },
     {
@@ -37,36 +36,32 @@
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "backend",
         "ai",
         "datacenter",
+        "backend",
         "logic",
         "memory"
       ],
-      "summary": "AI・HPCの性能向上に不可欠な、3D-IC、コパッケージドオプティクス、ガラス基板等の技術開発が活発化。",
+      "summary": "AI/HPCの性能向上には、チップレット、コパッケージング、ガラス基板などの先端パッケージング技術が不可欠。",
       "analysis": {
-        "short_term": "新パッケージング技術の発表・実用化が進む。",
-        "mid_term": "AI・HPCの性能限界を押し上げる。",
-        "investment_implications": "先端パッケージング材料・装置メーカーに妙味。"
+        "short_term": "EMIB-T、コパッケージドオプティクス等の技術開発が活発化。",
+        "mid_term": "スケーラビリティ限界を突破する新パッケージングが普及。",
+        "investment_implications": "パッケージング材料・装置メーカーに投資妙味。"
       },
       "keywords": [
-        "3D-IC",
-        "パッケージング",
         "AI",
         "HPC",
-        "コパッケージドオプティクス"
+        "チップレット",
+        "パッケージング",
+        "ガラス基板"
       ],
       "companies_mentioned": [
-        "imec",
-        "GF",
-        "シノプシス",
-        "キオクシア",
-        "NTT",
-        "三菱マテリアル"
+        "ECTC 2026",
+        "Intel"
       ]
     },
     {
-      "name": "次世代メモリ技術の探求と応用",
+      "name": "次世代メモリ技術の多様化と性能向上",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
@@ -75,102 +70,104 @@
         "datacenter",
         "logic"
       ],
-      "summary": "3Dメモリ、FeFET、eDRAMなど新構造・新材料の研究開発が進み、AIやエッジコンピューティングでの活用が期待。",
+      "summary": "3D積層メモリ、FeFET、eDRAMなど、AIやエッジコンピューティング向けに多様なメモリ技術が開発・評価されている。",
       "analysis": {
-        "short_term": "新メモリ技術の脆弱性解析や性能評価が進む。",
-        "mid_term": "AI特化型メモリや低消費電力メモリの標準化。",
-        "investment_implications": "メモリメーカー、研究機関の動向を注視。"
+        "short_term": "LPDDR6のデータセンター用途への展開に期待。",
+        "mid_term": "3D積層技術や新材料を用いたメモリが実用化へ。",
+        "investment_implications": "メモリメーカー、関連材料・製造装置に注目。"
       },
       "keywords": [
         "3Dメモリ",
         "FeFET",
         "eDRAM",
-        "AIメモリ",
-        "LPDDR6"
+        "LPDDR6",
+        "AIメモリ"
       ],
       "companies_mentioned": [
         "imec",
+        "KU Leuven",
         "ASU",
         "Georgia Tech",
-        "キオクシア",
-        "ローム"
+        "キオクシア"
       ]
     },
     {
-      "name": "半導体製造プロセスの革新と効率化",
+      "name": "半導体設計・製造プロセスの効率化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "frontend",
+        "backend",
         "foundry",
         "logic",
         "equipment"
       ],
-      "summary": "量子アニーリング、デジタル制御IC、自動設計ツールなど、製造プロセスの効率化・高度化が進む。",
+      "summary": "AIを活用した自動設計、シフトレフト手法、量子アニーリング導入など、設計・製造のリードタイム短縮と効率化が進む。",
       "analysis": {
-        "short_term": "新技術の導入・実証実験が進展。",
-        "mid_term": "生産性向上とコスト削減に貢献。",
-        "investment_implications": "製造装置、EDAツール、新興ファウンドリに注目。"
+        "short_term": "自動チップ設計ツールの導入が進む。",
+        "mid_term": "量子アニーリング等、革新技術による生産性向上が顕著に。",
+        "investment_implications": "EDAツール、製造装置メーカーに恩恵。"
       },
       "keywords": [
-        "量子アニーリング",
-        "デジタル制御",
         "自動設計",
-        "2nm",
-        "ファウンドリ"
+        "シフトレフト",
+        "量子アニーリング",
+        "生産効率",
+        "EDA"
       ],
       "companies_mentioned": [
-        "Wise Integration",
-        "Rapidus",
-        "GF",
         "シノプシス",
-        "ローム"
+        "ローム",
+        "ラピスセミコンダクタ",
+        "Rapidus"
       ]
     },
     {
-      "name": "サステナビリティと資源循環への注力",
+      "name": "地政学リスクとサプライチェーンの再編",
       "confidence": 0.75,
-      "momentum": "rising",
+      "momentum": "stable",
       "related_fields": [
-        "general",
+        "geopolitics",
         "foundry",
-        "equipment"
+        "frontend",
+        "backend"
       ],
-      "summary": "銅資源の国内循環や、低コスト・低エネルギーでの物質製造など、環境負荷低減に向けた取り組みが加速。",
+      "summary": "地政学リスクの高まりを受け、半導体サプライチェーンの強靭化と国内循環への動きが加速している。",
       "analysis": {
-        "short_term": "リサイクル技術や新素材開発が進む。",
-        "mid_term": "サプライチェーン全体での環境対応が必須に。",
-        "investment_implications": "リサイクル・環境技術関連企業に成長機会。"
+        "short_term": "各国政府による半導体産業支援策が継続。",
+        "mid_term": "サプライチェーンの多様化・地域分散が進む。",
+        "investment_implications": "国内生産拠点を持つ企業や関連インフラに注目。"
       },
       "keywords": [
-        "サステナビリティ",
-        "資源循環",
-        "銅",
-        "光触媒",
-        "環境負荷"
+        "地政学リスク",
+        "サプライチェーン",
+        "国内生産",
+        "政府支援",
+        "銅資源"
       ],
       "companies_mentioned": [
+        "Rapidus",
         "NTT",
-        "三菱マテリアル",
-        "阪大"
+        "三菱マテリアル"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け投資の継続による市場拡大（2027年300兆円規模予測）",
-      "EV市場の成長に伴う車載半導体需要の増加",
-      "次世代パワー半導体（SiC/GaN）の採用拡大",
-      "先端パッケージング技術への期待感の高まり"
+      "AI関連投資の継続による半導体市場の拡大予測（2027年300兆円規模）",
+      "次世代パワー半導体（SiC, GaN）の需要拡大と技術進化",
+      "先端パッケージング技術の重要性増大による関連市場の成長",
+      "EV市場の拡大に伴う車載半導体需要の増加"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不安定化懸念",
-      "セキュリティアルゴリズムの陳腐化リスク増大"
+      "半導体製造装置メーカーの在庫調整リスク（一部）",
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "メモリ市場の価格変動リスク",
-      "新興ファウンドリ（Rapidus等）の量産化への道のり"
+      "メモリ市場の需給バランスの変動",
+      "リソグラフィ装置（Nikon）の動向",
+      "HBM価格の上昇とその影響"
     ]
   },
-  "source_count": 41
+  "source_count": 43
 }
