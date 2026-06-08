@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-08T06:29:19.849977+09:00",
-  "date": "2026-06-08",
+  "generated_at": "2026-06-09T06:36:01.187423+09:00",
+  "date": "2026-06-09",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化と多様化",
+      "name": "次世代パワー半導体技術の進化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -11,23 +11,24 @@
         "automotive",
         "datacenter"
       ],
-      "summary": "SiC、GaN技術が進化し、EV、データセンター、産業機器など多様な分野で採用拡大。シリコンも併用し最適化が進む。",
+      "summary": "SiC, GaN技術の進化とデジタル制御の統合が進み、EV、データセンター向け高効率化が進展。SiCベースモジュールやデジタルPower ICが注目。",
       "analysis": {
-        "short_term": "SiC/GaNデバイスの供給増とコスト低下が鍵。",
-        "mid_term": "高性能・高効率化が競争優位性を確立。",
-        "investment_implications": "関連材料・製造装置メーカーにも恩恵。"
+        "short_term": "SiC/GaN採用拡大、新製品投入活発化。",
+        "mid_term": "高効率化ニーズで市場成長継続。",
+        "investment_implications": "関連企業への投資妙味あり。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "高効率"
+        "デジタル制御"
       ],
       "companies_mentioned": [
+        "Wise Integration",
         "Infineon",
-        "Wise",
-        "Vishay"
+        "Vishay",
+        "Flex"
       ]
     },
     {
@@ -38,29 +39,28 @@
         "ai",
         "datacenter",
         "backend",
-        "logic"
+        "logic",
+        "memory"
       ],
-      "summary": "AI・HPCの性能向上には、チップレット、3D-IC、コパッケージドオプティクス等の先端パッケージング技術が不可欠。",
+      "summary": "AI・HPCのスケーラビリティ限界を再定義する先端パッケージング技術（EMIB-T、コパッケージドオプティクス、ガラス基板）が進化。",
       "analysis": {
-        "short_term": "ガラス基板、EMIBなどの新技術開発競争が激化。",
-        "mid_term": "スケーラビリティ向上とコスト最適化が課題。",
-        "investment_implications": "後工程技術を持つ企業に注目が集まる。"
+        "short_term": "先端パッケージング技術の発表・開発活発化。",
+        "mid_term": "AI・HPC性能向上の鍵として重要度増す。",
+        "investment_implications": "後工程技術を持つ企業に注目。"
       },
       "keywords": [
         "AI",
         "HPC",
-        "チップレット",
-        "3D-IC",
-        "パッケージング"
+        "パッケージング",
+        "EMIB-T",
+        "コパッケージドオプティクス"
       ],
       "companies_mentioned": [
-        "imec",
-        "GF",
-        "TDK"
+        "ECTC 2026"
       ]
     },
     {
-      "name": "メモリ技術の革新と応用拡大",
+      "name": "次世代メモリ技術とAIメモリ",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
@@ -69,100 +69,97 @@
         "datacenter",
         "logic"
       ],
-      "summary": "3D NAND、eDRAM、FeFETなど、AIやエッジコンピューティング向けに高密度・高性能・低消費電力メモリ開発が進む。",
+      "summary": "IGZO FeFET、3D eDRAM、LPDDR6など次世代メモリ技術の研究開発が進展。AIメモリやデータセンター向け応用も拡大。",
       "analysis": {
-        "short_term": "LPDDR6のデータセンター応用が期待される。",
-        "mid_term": "Rowhammer対策など信頼性向上が重要。",
-        "investment_implications": "メモリメーカーの技術開発力に注目。"
+        "short_term": "新メモリ技術の研究発表・評価進む。",
+        "mid_term": "AI・データセンター需要でメモリ市場成長。",
+        "investment_implications": "メモリメーカー、関連IP企業に注目。"
       },
       "keywords": [
-        "NAND",
+        "メモリ",
+        "AI",
         "eDRAM",
-        "FeFET",
         "LPDDR6",
-        "AIメモリ"
+        "IGZO FeFET"
       ],
       "companies_mentioned": [
-        "キオクシア",
+        "imec",
+        "KU Leuven",
         "ASU",
-        "Georgia Tech"
+        "Georgia Tech",
+        "キオクシア"
       ]
     },
     {
-      "name": "先端ロジック・ファウンドリへの巨額投資",
+      "name": "半導体製造装置の技術革新",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "foundry",
         "frontend",
-        "geopolitics"
+        "foundry",
+        "equipment"
       ],
-      "summary": "2nm世代以降の量産に向け、Rapidusなどの新興ファウンドリが巨額投資を実行。国家戦略としての側面も強い。",
+      "summary": "ニコンが新型ArF液浸プラットフォームを発表し、ASMLとの互換性構築で巻き返しを図る。露光装置分野での競争激化。",
       "analysis": {
-        "short_term": "技術開発と量産立ち上げのハードルは高い。",
-        "mid_term": "地政学リスクとサプライチェーン再編が影響。",
-        "investment_implications": "政府支援や技術提携が成功の鍵。"
+        "short_term": "露光装置メーカーの新製品発表・戦略強化。",
+        "mid_term": "微細化競争で装置技術が鍵となる。",
+        "investment_implications": "露光装置メーカーの動向を注視。"
       },
       "keywords": [
-        "2nm",
-        "Rapidus",
-        "ファウンドリ",
-        "国家戦略",
-        "先端ロジック"
+        "露光装置",
+        "ArF液浸",
+        "ニコン",
+        "ASML"
       ],
       "companies_mentioned": [
-        "Rapidus",
-        "GF",
-        "シノプシス"
+        "ニコン",
+        "ASML"
       ]
     },
     {
-      "name": "半導体製造プロセスへの新技術導入",
+      "name": "半導体設計・検証プロセスの変革",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
+        "logic",
         "frontend",
-        "foundry",
-        "equipment",
-        "logic"
+        "backend",
+        "ai",
+        "miniaturization"
       ],
-      "summary": "量子アニーリング、光触媒、新材料など、前工程・後工程双方で生産性向上や低コスト化を目指す新技術が導入され始めている。",
+      "summary": "検証エンジニアの役割変化、DTCO、Shift-Leftアプローチなど、設計・検証プロセスの効率化・早期化が進む。",
       "analysis": {
-        "short_term": "量子アニーリングの生産性改善効果に注目。",
-        "mid_term": "新材料による配線抵抗低減が性能向上に寄与。",
-        "investment_implications": "革新技術を持つ企業への投資妙味。"
+        "short_term": "設計・検証ツールの進化と導入進む。",
+        "mid_term": "複雑化する半導体設計に対応。",
+        "investment_implications": "EDA企業、設計サービス企業に注目。"
       },
       "keywords": [
-        "量子アニーリング",
-        "光触媒",
-        "新材料",
-        "前工程",
-        "後工程"
+        "検証",
+        "DTCO",
+        "Shift-Left",
+        "EDA",
+        "3D-IC"
       ],
       "companies_mentioned": [
-        "ローム",
-        "阪大",
-        "慶応大",
-        "NTT",
-        "三菱マテリアル"
+        "GF",
+        "シノプシス"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続による市場拡大予測（2027年300兆円規模）",
-      "EVシフトに伴う車載半導体需要の増加",
-      "データセンターの800VDC化などインフラ投資の活発化"
+      "AI需要による半導体市場の成長継続見通し",
+      "EV向けパワー半導体需要の増加",
+      "データセンター向け電源ソリューションの進化"
     ],
     "bearish": [
-      "地政学リスクの高まりによるサプライチェーンの不確実性",
-      "先端技術開発における巨額投資のリスクと不確実性"
+      "半導体市場の急成長は持続困難との見方",
+      "2027年のメモリ市場に潜む下振れリスク"
     ],
     "neutral": [
-      "半導体製造装置市場の動向（Nikonのリソグラフィなど）",
-      "メモリ市場の価格変動リスク"
+      "半導体業界の検証エンジニアの役割変化",
+      "銅資源の国内循環推進"
     ]
   },
-  "source_count": 43
+  "source_count": 41
 }
