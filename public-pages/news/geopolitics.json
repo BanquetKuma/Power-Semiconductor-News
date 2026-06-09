@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-06-05T06:34:42.721970+09:00",
+  "generated_at": "2026-06-10T06:39:01.193286+09:00",
   "field": "geopolitics",
   "field_label": "地政学・規制",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Keeping Security Algorithms Current Is Getting Harder",
-    "summary": "進化する脅威に対応するため、セキュリティアルゴリズムの設計から製造、サプライチェーン全体での保護が困難化している。",
+    "title": "PCBベースで微細化／高周波特性向上　パナソニックの新パッケージング技術",
+    "summary": "パナソニックは、微細配線技術を半導体パッケージに展開。線幅2～10μmの高精度配線を既存PCB技術で実現し、高周波特性を向上させる。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/keeping-security-algorithms-current-is-getting-harder"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/09/news073.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Keeping Security Algorithms Current Is Getting Harder",
-        "blurb": "進化する脅威に対応するため、セキュリティアルゴリズムの設計から製造、サプライチェーン全体での保護が困難化している。",
-        "category": "business",
-        "date": "2026-06-04",
+        "title": "PCBベースで微細化／高周波特性向上　パナソニックの新パッケージング技術",
+        "blurb": "パナソニックは、微細配線技術を半導体パッケージに展開。線幅2～10μmの高精度配線を既存PCB技術で実現し、高周波特性を向上させる。",
+        "category": "company",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/keeping-security-algorithms-current-is-getting-harder"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/09/news073.html"
         },
         "field": {
           "primary": "geopolitics",
           "device": null,
-          "process": null,
+          "process": "miniaturization",
           "market": null,
           "industry": "geopolitics"
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

@@ -1,165 +1,163 @@
 {
-  "generated_at": "2026-06-09T06:36:01.187423+09:00",
-  "date": "2026-06-09",
+  "generated_at": "2026-06-10T06:39:05.997156+09:00",
+  "date": "2026-06-10",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体技術の進化",
+      "name": "次世代パワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "SiC, GaN技術の進化とデジタル制御の統合が進み、EV、データセンター向け高効率化が進展。SiCベースモジュールやデジタルPower ICが注目。",
+      "summary": "GaNやSiCといった次世代パワー半導体の性能向上とパッケージング技術の進化が加速。EV、データセンター、産業機器での採用拡大が見込まれる。",
       "analysis": {
-        "short_term": "SiC/GaN採用拡大、新製品投入活発化。",
-        "mid_term": "高効率化ニーズで市場成長継続。",
-        "investment_implications": "関連企業への投資妙味あり。"
+        "short_term": "新製品投入と技術発表が活発化。市場競争は激化。",
+        "mid_term": "EVや再生可能エネルギー分野での需要増が期待される。",
+        "investment_implications": "SiC/GaN関連技術を持つ企業に注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "データセンター",
-        "デジタル制御"
+        "パワーモジュール"
       ],
       "companies_mentioned": [
+        "EPC",
+        "Navitas",
         "Wise Integration",
-        "Infineon",
         "Vishay",
-        "Flex"
+        "Infineon"
       ]
     },
     {
-      "name": "AI・HPC向け先端パッケージング技術",
+      "name": "AIによる半導体製造・検査の高度化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "datacenter",
+        "frontend",
         "backend",
-        "logic",
-        "memory"
+        "equipment",
+        "foundry"
       ],
-      "summary": "AI・HPCのスケーラビリティ限界を再定義する先端パッケージング技術（EMIB-T、コパッケージドオプティクス、ガラス基板）が進化。",
+      "summary": "AIが欠陥検査、歩留まり予測、テスト自動化に活用され始めている。合成データやUX/UIの重要性も増している。",
       "analysis": {
-        "short_term": "先端パッケージング技術の発表・開発活発化。",
-        "mid_term": "AI・HPC性能向上の鍵として重要度増す。",
-        "investment_implications": "後工程技術を持つ企業に注目。"
+        "short_term": "AI活用事例が増加し、技術開発が加速。",
+        "mid_term": "製造プロセスの効率化・品質向上に貢献し、競争優位性を確立。",
+        "investment_implications": "AIソリューション提供企業やAI活用に積極的なメーカーに注目。"
       },
       "keywords": [
         "AI",
-        "HPC",
-        "パッケージング",
-        "EMIB-T",
-        "コパッケージドオプティクス"
+        "欠陥検査",
+        "歩留まり",
+        "テスト自動化"
       ],
       "companies_mentioned": [
-        "ECTC 2026"
+        "GF",
+        "シノプシス",
+        "ニコン",
+        "Rapidus"
       ]
     },
     {
-      "name": "次世代メモリ技術とAIメモリ",
+      "name": "先端パッケージング技術の重要性増大",
       "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "miniaturization",
+        "datacenter",
+        "memory"
+      ],
+      "summary": "微細化・高周波特性向上のため、PCBベースのパッケージング技術や異種集積が進展。HBMの信頼性向上にも寄与。",
+      "analysis": {
+        "short_term": "新パッケージング技術の発表が相次ぐ。",
+        "mid_term": "高性能・高密度実装ニーズに応え、データセンターやAI向けに不可欠。",
+        "investment_implications": "先端パッケージング技術を持つ企業や関連材料メーカーに注目。"
+      },
+      "keywords": [
+        "パッケージング",
+        "異種集積",
+        "HBM",
+        "高周波"
+      ],
+      "companies_mentioned": [
+        "パナソニック",
+        "ソニー",
+        "NTT",
+        "三菱マテリアル"
+      ]
+    },
+    {
+      "name": "半導体市場のAI需要による成長とリスク",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
         "datacenter",
-        "logic"
+        "general"
       ],
-      "summary": "IGZO FeFET、3D eDRAM、LPDDR6など次世代メモリ技術の研究開発が進展。AIメモリやデータセンター向け応用も拡大。",
+      "summary": "AI関連投資が半導体市場全体を牽引し、特にメモリ市場は急成長。しかし、価格高騰による2027年の下振れリスクも指摘されている。",
       "analysis": {
-        "short_term": "新メモリ技術の研究発表・評価進む。",
-        "mid_term": "AI・データセンター需要でメモリ市場成長。",
-        "investment_implications": "メモリメーカー、関連IP企業に注目。"
+        "short_term": "AI需要は引き続き堅調に推移。",
+        "mid_term": "メモリ市場の価格動向と需給バランスが鍵となる。",
+        "investment_implications": "AI関連半導体、特にメモリ関連企業の動向を注視。"
       },
       "keywords": [
-        "メモリ",
         "AI",
-        "eDRAM",
-        "LPDDR6",
-        "IGZO FeFET"
+        "メモリ",
+        "市場予測",
+        "価格高騰"
       ],
       "companies_mentioned": [
-        "imec",
-        "KU Leuven",
-        "ASU",
-        "Georgia Tech",
-        "キオクシア"
+        "WSTS"
       ]
     },
     {
-      "name": "半導体製造装置の技術革新",
+      "name": "EV向け半導体・部材の需要拡大",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "foundry",
-        "equipment"
+        "automotive",
+        "power",
+        "general"
       ],
-      "summary": "ニコンが新型ArF液浸プラットフォームを発表し、ASMLとの互換性構築で巻き返しを図る。露光装置分野での競争激化。",
+      "summary": "EVパワートレインシステム向けの高性能パワーモジュールや、リチウムイオン電池用セパレーターの生産能力増強が進む。",
       "analysis": {
-        "short_term": "露光装置メーカーの新製品発表・戦略強化。",
-        "mid_term": "微細化競争で装置技術が鍵となる。",
-        "investment_implications": "露光装置メーカーの動向を注視。"
+        "short_term": "EV市場の成長に伴い、関連部材の需要も堅調。",
+        "mid_term": "バッテリー技術の進化と普及が市場拡大を後押し。",
+        "investment_implications": "EV向けパワー半導体・バッテリー部材メーカーに注目。"
       },
       "keywords": [
-        "露光装置",
-        "ArF液浸",
-        "ニコン",
-        "ASML"
+        "EV",
+        "パワーモジュール",
+        "リチウムイオン電池",
+        "セパレーター"
       ],
       "companies_mentioned": [
-        "ニコン",
-        "ASML"
-      ]
-    },
-    {
-      "name": "半導体設計・検証プロセスの変革",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "frontend",
-        "backend",
-        "ai",
-        "miniaturization"
-      ],
-      "summary": "検証エンジニアの役割変化、DTCO、Shift-Leftアプローチなど、設計・検証プロセスの効率化・早期化が進む。",
-      "analysis": {
-        "short_term": "設計・検証ツールの進化と導入進む。",
-        "mid_term": "複雑化する半導体設計に対応。",
-        "investment_implications": "EDA企業、設計サービス企業に注目。"
-      },
-      "keywords": [
-        "検証",
-        "DTCO",
-        "Shift-Left",
-        "EDA",
-        "3D-IC"
-      ],
-      "companies_mentioned": [
-        "GF",
-        "シノプシス"
+        "Vishay",
+        "宇部マクセル"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体市場の成長継続見通し",
-      "EV向けパワー半導体需要の増加",
-      "データセンター向け電源ソリューションの進化"
+      "AI需要による半導体市場全体の成長見通しの上方修正",
+      "次世代パワー半導体（SiC/GaN）の採用拡大",
+      "EV市場の継続的な成長と関連部材の需要増"
     ],
     "bearish": [
-      "半導体市場の急成長は持続困難との見方",
-      "2027年のメモリ市場に潜む下振れリスク"
+      "メモリ市場における価格高騰と2027年の下振れリスク",
+      "半導体市場全体の急成長の持続可能性への懸念"
     ],
     "neutral": [
-      "半導体業界の検証エンジニアの役割変化",
-      "銅資源の国内循環推進"
+      "AIによる製造・検査プロセスの高度化は進行中だが、実データ不足やスケールに課題",
+      "先端露光装置におけるASMLとの競争激化"
     ]
   },
-  "source_count": 41
+  "source_count": 48
 }

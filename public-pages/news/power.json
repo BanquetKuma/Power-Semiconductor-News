@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-06-07T06:25:11.958411+09:00",
+  "generated_at": "2026-06-10T06:39:01.190673+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Wise Integration Advances WiseGan Digital-First Power IC Strategy",
-    "summary": "Wiseは、高効率GaN・SiC電力変換システム向け分散デジタル制御技術を発表し、デジタルファーストPower IC戦略を推進。",
+    "title": "EPC Launches New GaN-Based BLDC Inverter Boards",
+    "summary": "EPCが窒化ガリウム（GaN）ベースのBLDCインバーターボード4種を発表。ロボット工学や産業用途向けの高電流モーター制御をサポート。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/wise-integration-advances-wisegan-digital-first-power-ic-strategy"
+        "url": "https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Wise Integration Advances WiseGan Digital-First Power IC Strategy",
-        "blurb": "Wiseは、高効率GaN・SiC電力変換システム向け分散デジタル制御技術を発表し、デジタルファーストPower IC戦略を推進。",
-        "category": "business",
-        "date": "2026-06-06",
+        "title": "EPC Launches New GaN-Based BLDC Inverter Boards",
+        "blurb": "EPCが窒化ガリウム（GaN）ベースのBLDCインバーターボード4種を発表。ロボット工学や産業用途向けの高電流モーター制御をサポート。",
+        "category": "company",
+        "date": "2026-06-10",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wise-integration-advances-wisegan-digital-first-power-ic-strategy"
+          "url": "https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs",
+        "blurb": "Navitasは、高電圧SiC MOSFET向けに、高電圧絶縁と直接冷却を統合したTO-247パッケージを発表しました。",
+        "category": "company",
+        "date": "2026-06-10",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/navitas-launches-isolated-to-247-package-for-hv-sic-mosfets"
         },
         "field": {
           "primary": "power",
@@ -35,16 +51,38 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [
       {
-        "title": "SiC-Based SSCBs, PEN eBook June 2026, Discrete SiC-Based Power Modules: Power Electronics Week Insights",
-        "blurb": "SiCベースのSSCB、PEN eBook 2026年6月、ディスクリートSiCパワーモジュールに関する最新動向。",
+        "title": "Onsemi Launches Elite Pairing Studio for Faster SiC Power Design",
+        "blurb": "オンセミは、AIデータセンターやEV向けSiCパワー半導体設計を迅速化するオンラインツール「Elite Pairing Studio」を発表しました。",
+        "category": "tools",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/onsemi-launches-elite-pairing-studio-for-faster-sic-power-design"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Power Module from SiC Discrete Devices Repackaged: Part 2",
+        "blurb": "SiCディスクリートデバイスをIMSベースで再パッケージ化し、低コストなパワーモジュール代替案を提示する。",
         "category": "business",
-        "date": "2026-06-06",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/sic-based-sscbs-pen-ebook-june-2026-discrete-sic-based-power-modules-power-electronics-week-insights"
+          "url": "https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-2"
         },
         "field": {
           "primary": "power",
