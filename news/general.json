@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-06-10T06:39:01.193874+09:00",
+  "generated_at": "2026-06-11T06:43:09.104555+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AI Models Transform Defect Inspection And Review, But Can Fail To Scale",
-    "summary": "AIは欠陥検査を革新するが、実データ不足でスケールに課題。合成データが注目されている。",
+    "title": "PCIe Benefits From AI, Despite Scaling Protocols",
+    "summary": "AIの普及によりPCIeが恩恵を受けている。CXLもAI処理で注目され、MIPIなどはエッジで成長。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ai-models-transform-defect-inspection-and-review-but-can-fail-to-scale"
+        "url": "https://semiengineering.com/pcie-benefits-from-ai-despite-scaling-protocols"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "AI Models Transform Defect Inspection And Review, But Can Fail To Scale",
-        "blurb": "AIは欠陥検査を革新するが、実データ不足でスケールに課題。合成データが注目されている。",
-        "category": "tools",
-        "date": "2026-06-09",
+        "title": "リンテックが研究センター新設、先端半導体向け新規材料開発を強化",
+        "blurb": "リンテックは先端半導体向け新規材料開発を強化するため、さいたま市に研究施設「アドバンストディベロップメントセンター」を新設した。",
+        "category": "company",
+        "date": "2026-06-10",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-models-transform-defect-inspection-and-review-but-can-fail-to-scale"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/10/news029.html"
         },
         "field": {
           "primary": "general",
@@ -36,50 +35,14 @@
         }
       },
       {
-        "title": "Effective UX/UI Is A Critical Link Between AI Insights And Yield Improvement",
-        "blurb": "AIの洞察を歩留まり向上に繋げるには、透明性・追跡可能性・人間による解釈・改善が可能なUX/UIが不可欠。",
-        "category": "tools",
-        "date": "2026-06-09",
+        "title": "How fleet learning works under bounded gate authority",
+        "blurb": "AI設計におけるフリート学習とゲート権限の制約が、エンタープライズ規模でシリコンガバナンスをどのように実現するかを解説。",
+        "category": "company",
+        "date": "2026-06-11",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/effective-ux-ui-is-a-critical-link-between-ai-insights-and-yield-improvement"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "High-Speed Manufacturing And In-Field Scan Test Access Via PCI Express For GPIO Limited SoCs",
-        "blurb": "PCI Expressを活用し、GPIO制限のあるSoCの高速製造・フィールドテストを実現。ピン数削減とテスト効率向上。",
-        "category": "tools",
-        "date": "2026-06-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/high-speed-manufacturing-and-in-field-scan-test-access-via-pci-express-for-gpio-limited-socs"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Test Anything, Anywhere, Anytime",
-        "blurb": "製品の稼働期間中の欠陥を迅速に検出するには、フィールドでのテストが不可欠です。",
-        "category": "tools",
-        "date": "2026-06-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/test-anything-anywhere-anytime"
+          "name": "edn.com",
+          "url": "https://www.edn.com/how-fleet-learning-works-under-bounded-gate-authority"
         },
         "field": {
           "primary": "general",
@@ -90,34 +53,17 @@
         }
       }
     ],
+    "tech": [],
     "market": [
       {
-        "title": "Why Analog And Mixed-Signal Chips Resist Adaptive Test",
-        "blurb": "アナログ・ミックスドシグナルICは、単純な合否判定に圧縮しにくく、アダプティブテストへの抵抗が大きい。",
+        "title": "PCIe Benefits From AI, Despite Scaling Protocols",
+        "blurb": "AIの普及によりPCIeが恩恵を受けている。CXLもAI処理で注目され、MIPIなどはエッジで成長。",
         "category": "business",
-        "date": "2026-06-09",
+        "date": "2026-06-10",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-analog-and-mixed-signal-chips-resist-adaptive-test"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "2026 ASMC – Building the Core Pillars for AI in Semiconductors",
-        "blurb": "半導体ライフサイクル全体でAIを大規模運用し、競争優位を確立するためのロードマップが示された。",
-        "category": "business",
-        "date": "2026-06-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/2026-asmc-building-the-core-pillars-for-ai-in-semiconductors"
+          "url": "https://semiengineering.com/pcie-benefits-from-ai-despite-scaling-protocols"
         },
         "field": {
           "primary": "general",

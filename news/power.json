@@ -1,24 +1,60 @@
 {
-  "generated_at": "2026-06-10T06:39:01.190673+09:00",
+  "generated_at": "2026-06-11T06:43:09.101737+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "EPC Launches New GaN-Based BLDC Inverter Boards",
-    "summary": "EPCが窒化ガリウム（GaN）ベースのBLDCインバーターボード4種を発表。ロボット工学や産業用途向けの高電流モーター制御をサポート。",
+    "title": "Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains",
+    "summary": "三菱電機、EVパワートレイン向け新SiC MOSFET発表。第5世代で効率と耐久性を向上。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards"
+        "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "TDK Launches B25696H DC-Link Capacitors for SiC Converters",
+        "blurb": "TDKは、SiCコンバーター向けの新DCリンクフィルムコンデンサ「B25696H」を発表。寄生損失を低減し、高周波用途をサポート。",
+        "category": "company",
+        "date": "2026-06-10",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/tdk-launches-b25696h-dc-link-capacitors-for-sic-converters"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "onsemi Launches Elite Pairing Studio for SiC Power Devices",
+        "blurb": "onsemiがSiCパワーデバイス向けElite Pairing Studioを発表。設計初期段階でSiC MOSFETとゲートドライバの組み合わせを評価可能に。",
+        "category": "company",
+        "date": "2026-06-10",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/onsemi-launches-elite-pairing-studio-for-sic-power-devices"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "EPC Launches New GaN-Based BLDC Inverter Boards",
-        "blurb": "EPCが窒化ガリウム（GaN）ベースのBLDCインバーターボード4種を発表。ロボット工学や産業用途向けの高電流モーター制御をサポート。",
+        "blurb": "EPCが窒化ガリウム（GaN）ベースのBLDCインバーターボード4種を発表。ロボット工学や産業用途向けの高電流モーター制御に対応。",
         "category": "company",
         "date": "2026-06-10",
         "stars": 3,
@@ -36,7 +72,7 @@
       },
       {
         "title": "Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs",
-        "blurb": "Navitasは、高電圧SiC MOSFET向けに、高電圧絶縁と直接冷却を統合したTO-247パッケージを発表しました。",
+        "blurb": "Navitasは、高電圧SiC MOSFET向けの絶縁TO-247パッケージを発表。効率、信頼性、電力密度を向上。",
         "category": "company",
         "date": "2026-06-10",
         "stars": 3,
@@ -51,38 +87,52 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "tech": [
+      },
       {
-        "title": "Onsemi Launches Elite Pairing Studio for Faster SiC Power Design",
-        "blurb": "オンセミは、AIデータセンターやEV向けSiCパワー半導体設計を迅速化するオンラインツール「Elite Pairing Studio」を発表しました。",
-        "category": "tools",
-        "date": "2026-06-09",
+        "title": "三菱電機、SiC MOSFETのAC特性変動「世界最小」級と実証",
+        "blurb": "三菱電機は、SiC MOSFETのAC特性変動が世界最小クラスであることを実証。採用拡大に伴う課題解決に貢献。",
+        "category": "company",
+        "date": "2026-06-10",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/onsemi-launches-elite-pairing-studio-for-faster-sic-power-design"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/10/news110.html"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
-      }
-    ],
-    "market": [
+      },
       {
-        "title": "Power Module from SiC Discrete Devices Repackaged: Part 2",
-        "blurb": "SiCディスクリートデバイスをIMSベースで再パッケージ化し、低コストなパワーモジュール代替案を提示する。",
-        "category": "business",
-        "date": "2026-06-09",
+        "title": "Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains",
+        "blurb": "三菱電機、EVパワートレイン向け新SiC MOSFET発表。第5世代で効率と耐久性を向上。",
+        "category": "company",
+        "date": "2026-06-11",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-2"
+          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "TO-247 SiC package boosts high-voltage isolation",
+        "blurb": "ナヴィタスがTO-247パッケージを開発。高電圧SiC MOSFET向けに6000V超の絶縁を実現。",
+        "category": "company",
+        "date": "2026-06-11",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/to-247-sic-package-boosts-high-voltage-isolation"
         },
         "field": {
           "primary": "power",
@@ -92,6 +142,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }
