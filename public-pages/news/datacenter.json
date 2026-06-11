@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-10T06:39:01.192548+09:00",
+  "generated_at": "2026-06-12T06:46:55.878011+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Co-Packaged Optics Testing Faces Steep Data Center Ramp",
-    "summary": "データセンター向けCPO（Co-Packaged Optics）の量産には、自動化されコスト効率の良い電気・光テスト手法の確立が不可欠。",
+    "title": "Agentic AI Is Changing Data Center Architectures",
+    "summary": "AIエージェントがデータセンターを革新。CPU、GPU、NPUを統合したチップレットがメモリボトルネック解消、低遅延、高効率化を実現。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/co-packaged-optics-testing-faces-steep-data-center-ramp"
+        "url": "https://semiengineering.com/agentic-ai-is-changing-data-center-architectures"
       }
     ]
   },
@@ -19,14 +19,32 @@
     "tech": [],
     "market": [
       {
-        "title": "Co-Packaged Optics Testing Faces Steep Data Center Ramp",
-        "blurb": "データセンター向けCPO（Co-Packaged Optics）の量産には、自動化されコスト効率の良い電気・光テスト手法の確立が不可欠。",
+        "title": "Agentic AI Is Changing Data Center Architectures",
+        "blurb": "AIエージェントがデータセンターを革新。CPU、GPU、NPUを統合したチップレットがメモリボトルネック解消、低遅延、高効率化を実現。",
         "category": "business",
-        "date": "2026-06-09",
+        "date": "2026-06-11",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/co-packaged-optics-testing-faces-steep-data-center-ramp"
+          "url": "https://semiengineering.com/agentic-ai-is-changing-data-center-architectures"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "TDKが米金属3Dプリント企業買収　データセンター冷却市場参入",
+        "blurb": "TDKは米Fabric8Labsを買収し、データセンター冷却市場に参入。独自の3D金属積層造形技術をデータセンター事業拡大や部品技術に応用する。",
+        "category": "business",
+        "date": "2026-06-11",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/11/news080.html"
         },
         "field": {
           "primary": "datacenter",

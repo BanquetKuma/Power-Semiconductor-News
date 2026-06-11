@@ -1,111 +1,21 @@
 {
-  "generated_at": "2026-06-11T06:43:09.101737+09:00",
+  "generated_at": "2026-06-12T06:46:55.876007+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains",
-    "summary": "三菱電機、EVパワートレイン向け新SiC MOSFET発表。第5世代で効率と耐久性を向上。",
+    "title": "JEDEC Publishes New SiC Evaluation and Reliability Guidelines",
+    "summary": "JEDECがSiCの信頼性評価と短絡評価に関する共通手法を定めた新しいガイドラインを発表しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains"
+        "url": "https://www.powerelectronicsnews.com/jedec-publishes-new-sic-evaluation-and-reliability-guidelines"
       }
     ]
   },
   "sections": {
     "news": [
-      {
-        "title": "TDK Launches B25696H DC-Link Capacitors for SiC Converters",
-        "blurb": "TDKは、SiCコンバーター向けの新DCリンクフィルムコンデンサ「B25696H」を発表。寄生損失を低減し、高周波用途をサポート。",
-        "category": "company",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/tdk-launches-b25696h-dc-link-capacitors-for-sic-converters"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "onsemi Launches Elite Pairing Studio for SiC Power Devices",
-        "blurb": "onsemiがSiCパワーデバイス向けElite Pairing Studioを発表。設計初期段階でSiC MOSFETとゲートドライバの組み合わせを評価可能に。",
-        "category": "company",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/onsemi-launches-elite-pairing-studio-for-sic-power-devices"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "EPC Launches New GaN-Based BLDC Inverter Boards",
-        "blurb": "EPCが窒化ガリウム（GaN）ベースのBLDCインバーターボード4種を発表。ロボット工学や産業用途向けの高電流モーター制御に対応。",
-        "category": "company",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs",
-        "blurb": "Navitasは、高電圧SiC MOSFET向けの絶縁TO-247パッケージを発表。効率、信頼性、電力密度を向上。",
-        "category": "company",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-launches-isolated-to-247-package-for-hv-sic-mosfets"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "三菱電機、SiC MOSFETのAC特性変動「世界最小」級と実証",
-        "blurb": "三菱電機は、SiC MOSFETのAC特性変動が世界最小クラスであることを実証。採用拡大に伴う課題解決に貢献。",
-        "category": "company",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/10/news110.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
       {
         "title": "Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains",
         "blurb": "三菱電機、EVパワートレイン向け新SiC MOSFET発表。第5世代で効率と耐久性を向上。",
@@ -125,8 +35,26 @@
         }
       },
       {
+        "title": "三菱電機、PCS用インバーターの設計／検証データを無償提供",
+        "blurb": "三菱電機はPCS用インバーターの設計・検証データを無償提供。2026年6月25日より提供開始。",
+        "category": "company",
+        "date": "2026-06-11",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/11/news035.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "TO-247 SiC package boosts high-voltage isolation",
-        "blurb": "ナヴィタスがTO-247パッケージを開発。高電圧SiC MOSFET向けに6000V超の絶縁を実現。",
+        "blurb": "ナヴィタスがTO-247パッケージを開発。1200V～3300VのSiC MOSFET向けに6000V超の高電圧絶縁を実現。",
         "category": "company",
         "date": "2026-06-11",
         "stars": 3,
@@ -143,7 +71,26 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "JEDEC Publishes New SiC Evaluation and Reliability Guidelines",
+        "blurb": "JEDECがSiCの信頼性評価と短絡評価に関する共通手法を定めた新しいガイドラインを発表しました。",
+        "category": "tools",
+        "date": "2026-06-11",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/jedec-publishes-new-sic-evaluation-and-reliability-guidelines"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

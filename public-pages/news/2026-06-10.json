@@ -1,28 +1,64 @@
 {
-  "generated_at": "2026-06-11T06:43:09.099690+09:00",
+  "generated_at": "2026-06-10T06:39:01.188765+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains",
-    "summary": "三菱電機、EVパワートレイン向け新SiC MOSFET発表。第5世代で効率と耐久性を向上。",
+    "title": "EPC Launches New GaN-Based BLDC Inverter Boards",
+    "summary": "EPCが窒化ガリウム（GaN）ベースのBLDCインバーターボード4種を発表。ロボット工学や産業用途向けの高電流モーター制御をサポート。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains"
+        "url": "https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "PCIe Benefits From AI, Despite Scaling Protocols",
-        "blurb": "AIの普及によりPCIeが恩恵を受けている。CXLもAI処理で注目され、MIPIなどはエッジで成長。",
+        "title": "Power Module from SiC Discrete Devices Repackaged: Part 2",
+        "blurb": "SiCディスクリートデバイスをIMSベースで再パッケージ化し、低コストなパワーモジュール代替案を提示する。",
         "category": "business",
-        "date": "2026-06-10",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-2"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "What I Learned At The 2026 GSA Tech Summit: The Future Of Semiconductor Collaboration Is Full Stack",
+        "blurb": "2026年GSAテックサミットでは、先端ノード製造と異種集積にはバリューチェーン全体での連携が必要とされた。",
+        "category": "business",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/pcie-benefits-from-ai-despite-scaling-protocols"
+          "url": "https://semiengineering.com/what-i-learned-at-the-2026-gsa-tech-summit-the-future-of-semiconductor-collaboration-is-full-stack"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Why Analog And Mixed-Signal Chips Resist Adaptive Test",
+        "blurb": "アナログ・ミックスドシグナルICは、単純な合否判定に圧縮しにくく、アダプティブテストへの抵抗が大きい。",
+        "category": "business",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/why-analog-and-mixed-signal-chips-resist-adaptive-test"
         },
         "field": {
           "primary": "general",
@@ -33,80 +69,62 @@
         }
       },
       {
-        "title": "CPO Will Dominate Scale-Up: Link Budgets For dB And $ Are Key",
-        "blurb": "GPU性能向上のため光インターコネクトが不可欠。CPOがスケールアップを牽引し、dBとコストのリンクバジェットが鍵となる。",
+        "title": "Co-Packaged Optics Testing Faces Steep Data Center Ramp",
+        "blurb": "データセンター向けCPO（Co-Packaged Optics）の量産には、自動化されコスト効率の良い電気・光テスト手法の確立が不可欠。",
         "category": "business",
-        "date": "2026-06-10",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cpo-will-dominate-scale-up-link-budgets-for-db-and-are-key"
+          "url": "https://semiengineering.com/co-packaged-optics-testing-faces-steep-data-center-ramp"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "2026 ASMC – Building the Core Pillars for AI in Semiconductors",
+        "blurb": "半導体ライフサイクル全体でAIを大規模運用し、競争優位を確立するためのロードマップが示された。",
+        "category": "business",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/2026-asmc-building-the-core-pillars-for-ai-in-semiconductors"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "AECやロードノイズ対策を訴求　ADIの車載オーディオソリューション",
-        "blurb": "ADIは車載オーディオソリューションを発表。ハードからソフトまで一貫提供し、AECやロードノイズ対策を訴求。",
+        "title": "Would custom memory ease your SoC design?",
+        "blurb": "カスタムメモリ設計がSoC設計の機能、タイミング、レイアウト要件に適応できるかケーススタディで検証。",
         "category": "business",
-        "date": "2026-06-10",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/10/news051.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/would-custom-memory-ease-your-soc-design"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "シャープ、26年度中のAIサーバ事業化目指す 鴻海と連携で構造変革",
-        "blurb": "シャープは2026年度中のAIサーバ事業化を目指す。鴻海との連携で構造変革を進め、AI活用による再成長を図る。",
-        "category": "business",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/10/news079.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "2026年Q1の半導体製造装置販売額、365億万米ドル超に",
-        "blurb": "2026年Q1の半導体製造装置販売額は365億5000万ドル超。AI投資が記録的な販売額を後押しした。",
-        "category": "business",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/10/news030.html"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
           "market": null,
           "industry": null
         }
       },
       {
         "title": "Motor Control ICs: Higher Accuracy and Efficiency for Robotics",
-        "blurb": "ロボット向けモーター制御ICは、高精度・高効率化が求められ、産業用から医療用まで幅広く活用されている。",
+        "blurb": "ロボット用モーター制御ICは、高精度・高効率化が求められ、産業用から医療用まで幅広く活用されている。",
         "category": "business",
         "date": "2026-06-10",
         "stars": 3,
@@ -121,18 +139,6 @@
           "market": "automotive",
           "industry": null
         }
-      },
-      {
-        "title": "General Motors Is Bringing Sodium-Ion Battery Production To America",
-        "blurb": "GMは米国でナトリウムイオン電池の生産を開始。LFP、LMRに続く新技術への投資。",
-        "category": "business",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798154/general-motors-sodium-ion-battery-production"
-        },
-        "field": null
       },
       {
         "title": "'Fairly Lazy Explanation’: Rivian's CEO Doesn’t Think Americans Are Anti-EV",
@@ -151,56 +157,164 @@
           "market": "automotive",
           "industry": null
         }
-      },
-      {
-        "title": "SoC FPGA advances wideband RF processing",
-        "blurb": "アルテラが航空宇宙・防衛・通信システム向けに広帯域SoC FPGA「Agilex 9 Direct RF AGRW039」のサンプル出荷を開始しました。",
-        "category": "business",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/soc-fpga-advances-wideband-rf-processing"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       }
     ],
     "tools": [
       {
-        "title": "Building Multi-Agent Systems For ASIC Flows",
-        "blurb": "ASIC設計の課題をエージェントで分割・解決するマルチエージェントシステムの構築について解説。",
+        "title": "AI Models Transform Defect Inspection And Review, But Can Fail To Scale",
+        "blurb": "AIは欠陥検査を革新するが、実データ不足でスケールに課題。合成データが注目されている。",
         "category": "tools",
-        "date": "2026-06-10",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-multi-agent-systems-for-asic-flows"
+          "url": "https://semiengineering.com/ai-models-transform-defect-inspection-and-review-but-can-fail-to-scale"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "4mA-20mA to 0mA-20mA converter’s current mirror drives grounded load",
-        "blurb": "4-20mAから0-20mAへの変換器で、電流ミラーが接地負荷を駆動する回路設計。",
+        "title": "Effective UX/UI Is A Critical Link Between AI Insights And Yield Improvement",
+        "blurb": "AIの洞察を歩留まり向上に繋げるには、透明性・追跡可能性・人間による解釈・改善が可能なUX/UIが不可欠。",
         "category": "tools",
-        "date": "2026-06-10",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/effective-ux-ui-is-a-critical-link-between-ai-insights-and-yield-improvement"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "High-Speed Manufacturing And In-Field Scan Test Access Via PCI Express For GPIO Limited SoCs",
+        "blurb": "PCI Expressを活用し、GPIO制限のあるSoCの高速製造・フィールドテストを実現。ピン数削減とテスト効率向上。",
+        "category": "tools",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/high-speed-manufacturing-and-in-field-scan-test-access-via-pci-express-for-gpio-limited-socs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Enhancing High Bandwidth Memory (HBM) Reliability With 3D X-ray Inspection",
+        "blurb": "3D X線検査により、HBMの信頼性を損なう欠陥を非破壊で検出し、性能向上に貢献。",
+        "category": "tools",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/enhancing-high-bandwidth-memory-hbm-reliability-with-3d-x-ray-inspection"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Test Anything, Anywhere, Anytime",
+        "blurb": "製品の稼働期間中の欠陥を迅速に検出するには、フィールドでのテストが不可欠です。",
+        "category": "tools",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/test-anything-anywhere-anytime"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Advancements in Corona Noncontact Metrology Tools, CnCV, for Industrial WBG Wafer Testing and Electrical Defect Related Yield Prediction",
+        "blurb": "コロナ非接触測定ツールCnCVの進歩により、WBGウェーハ試験と電気的欠陥関連歩留まり予測が向上。",
+        "category": "tools",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/recent-technological-advancements-in-corona-noncontact-metrology-tools-cncv-for-industrial-wbg-wafer-testing-and-electrical-defect-related-yield-prediction"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": "wafer",
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Derivative-controlled low pass filter, simplified",
+        "blurb": "入力信号に応じて時定数が変化する、誘導体制御型ローパスフィルタの設計方法を解説。回路設計を簡略化。",
+        "category": "tools",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/4ma-20ma-to-0ma-20ma-converters-current-mirror-drives-grounded-load"
+          "url": "https://www.edn.com/derivative-controlled-low-pass-filter-simplified"
         },
         "field": null
+      },
+      {
+        "title": "Onsemi Launches Elite Pairing Studio for Faster SiC Power Design",
+        "blurb": "オンセミは、AIデータセンターやEV向けSiCパワー半導体設計を迅速化するオンラインツール「Elite Pairing Studio」を発表しました。",
+        "category": "tools",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/onsemi-launches-elite-pairing-studio-for-faster-sic-power-design"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Apple CarPlay Is Getting Video Playback",
+        "blurb": "Apple CarPlayがiOS 27から動画再生に対応。Android Autoに追随する形となる。",
+        "category": "tools",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/798197/apple-carplay-video-playback-car"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
       },
       {
         "title": "Edge AI deployment made easy for system integrators",
@@ -219,78 +333,168 @@
           "market": "ai",
           "industry": null
         }
-      },
-      {
-        "title": "Selecting an RTOS for Robotics",
-        "blurb": "ロボット開発では、リアルタイムOS（RTOS）の選定が重要。汎用OSとは異なり、リアルタイム性が求められる。",
-        "category": "tools",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/selecting-an-rtos-for-robotics"
-        },
-        "field": null
       }
     ],
     "company": [
       {
-        "title": "TDK Launches B25696H DC-Link Capacitors for SiC Converters",
-        "blurb": "TDKは、SiCコンバーター向けの新DCリンクフィルムコンデンサ「B25696H」を発表。寄生損失を低減し、高周波用途をサポート。",
+        "title": "3225サイズで220μF 太陽誘電が「業界トップクラス容量」車載MLCC",
+        "blurb": "太陽誘電、車載向けMLCCで業界トップクラス容量品を発表。中期経営計画2030で自動車市場を注力分野に位置づける。",
         "category": "company",
-        "date": "2026-06-10",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/tdk-launches-b25696h-dc-link-capacitors-for-sic-converters"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/09/news071.html"
         },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "TSMC Paves the Way to One-Trillion-Transistor Devices",
-        "blurb": "TSMCは2030年までに1兆トランジスタ/パッケージを目指す。AIプラットフォーム向けに先端技術を統合。",
+        "title": "マクセルとJAXA、宇宙で使える全固体電池を開発へ",
+        "blurb": "マクセルとJAXAは、宇宙で使える全固体電池を共同開発。小型衛星の軽量化や設計自由度向上を目指す。",
         "category": "company",
-        "date": "2026-06-10",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/tsmc-paves-the-way-to-one-trillion-transistor-devices"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/09/news034.html"
+        },
+        "field": null
+      },
+      {
+        "title": "PCBベースで微細化／高周波特性向上　パナソニックの新パッケージング技術",
+        "blurb": "パナソニックは、微細配線技術を半導体パッケージに展開。線幅2～10μmの高精度配線を既存PCB技術で実現し、高周波特性を向上させる。",
+        "category": "company",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/09/news073.html"
         },
         "field": {
-          "primary": "foundry",
+          "primary": "geopolitics",
           "device": null,
-          "process": "backend",
+          "process": "miniaturization",
           "market": null,
-          "industry": "foundry"
+          "industry": "geopolitics"
         }
       },
       {
-        "title": "onsemi Launches Elite Pairing Studio for SiC Power Devices",
-        "blurb": "onsemiがSiCパワーデバイス向けElite Pairing Studioを発表。設計初期段階でSiC MOSFETとゲートドライバの組み合わせを評価可能に。",
+        "title": "ソニーが「業界最速」X線CMOSイメージセンサー量産",
+        "blurb": "ソニーが理化学研究所と共同開発した業界最速のX線CMOSイメージセンサーの量産出荷を開始。X線検査・計測機向け。",
         "category": "company",
-        "date": "2026-06-10",
+        "date": "2026-06-09",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/onsemi-launches-elite-pairing-studio-for-sic-power-devices"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/09/news060.html"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "analog",
+          "device": "analog",
           "process": null,
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "IOWNが宇宙へ、NTTとMBRYONICSが光通信モジュール開発で協業",
+        "blurb": "NTTとMBRYONICSは、宇宙通信向け光トランシーバーモジュールを共同開発。NTTのIOWN技術を宇宙ビジネスへ展開する。",
+        "category": "company",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/09/news032.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Apple’s question for the developer: Are you up for an AI do-over?",
+        "blurb": "Appleは2026年のWWDCでAIの再構築を開発者に問いかける。新Apple Watchの購入も視野に。",
+        "category": "company",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/apples-question-for-the-developer-are-you-up-for-an-ai-do-over"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Chiplets and Heterogeneous Computing for Robotics Design",
+        "blurb": "ロボット設計において、チップレットとヘテロジニアスコンピューティングが従来のSoCの限界を克服し、性能と複雑性の向上に貢献する。",
+        "category": "company",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/chiplets-and-heterogeneous-computing-for-robotics-design"
+        },
+        "field": null
+      },
+      {
+        "title": "I Had High Expectations For The Rivian R2. It Still Blew Me Away",
+        "blurb": "リビアンR2、テスラ・モデルYに匹敵するEVとして登場。高い期待を超え、驚くべき性能を発揮。",
+        "category": "company",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/798129/rivian-r2-first-drive-review"
+        },
+        "field": null
+      },
+      {
+        "title": "PepsiCo Is Now Moving Soda And Snacks Using Driverless Box Trucks",
+        "blurb": "ペプシコ、テキサス州などでGatik社の自動運転トラックによる飲料・スナックの配送を開始。ドライバーレス技術を導入。",
+        "category": "company",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/798170/pepsico-gatik-autonomous-delivery-trucks"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "BMW’s Electric M3 Doesn’t Imitate A V8. It Does Something Cooler",
+        "blurb": "BMWのEV M3はV8を模倣せず、EVに不足しがちな加速感を補う独自のサウンドを開発。",
+        "category": "company",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/798095/bmw-m3-ev-sound-design"
+        },
+        "field": null
+      },
+      {
+        "title": "Teslas Are More Likely To Hit 250,000 Miles Than Almost Every Car Brand",
+        "blurb": "テスラ車は25万マイル（約40万km）走行する可能性が極めて高く、長寿命ブランドで上位にランクインした。",
+        "category": "company",
+        "date": "2026-06-09",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/798125/tesla-subaru-study-twice-250k"
+        },
+        "field": null
       },
       {
         "title": "EPC Launches New GaN-Based BLDC Inverter Boards",
-        "blurb": "EPCが窒化ガリウム（GaN）ベースのBLDCインバーターボード4種を発表。ロボット工学や産業用途向けの高電流モーター制御に対応。",
+        "blurb": "EPCが窒化ガリウム（GaN）ベースのBLDCインバーターボード4種を発表。ロボット工学や産業用途向けの高電流モーター制御をサポート。",
         "category": "company",
         "date": "2026-06-10",
         "stars": 3,
@@ -308,7 +512,7 @@
       },
       {
         "title": "Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs",
-        "blurb": "Navitasは、高電圧SiC MOSFET向けの絶縁TO-247パッケージを発表。効率、信頼性、電力密度を向上。",
+        "blurb": "Navitasは、高電圧SiC MOSFET向けに、高電圧絶縁と直接冷却を統合したTO-247パッケージを発表しました。",
         "category": "company",
         "date": "2026-06-10",
         "stars": 3,
@@ -325,86 +529,20 @@
         }
       },
       {
-        "title": "三菱電機、SiC MOSFETのAC特性変動「世界最小」級と実証",
-        "blurb": "三菱電機は、SiC MOSFETのAC特性変動が世界最小クラスであることを実証。採用拡大に伴う課題解決に貢献。",
-        "category": "company",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/10/news110.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "リンテックが研究センター新設、先端半導体向け新規材料開発を強化",
-        "blurb": "リンテックは先端半導体向け新規材料開発を強化するため、さいたま市に研究施設「アドバンストディベロップメントセンター」を新設した。",
-        "category": "company",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/10/news029.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Congatec Earns IEC 62443-4-1 for Embedded Development Processes",
-        "blurb": "コンガテック、組み込み開発プロセスでIEC 62443-4-1認証取得。コーディング、脆弱性管理、パッチ処理をカバー。",
-        "category": "company",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/congatec-earns-iec-62443-4-1-for-embedded-development-processes"
-        },
-        "field": null
-      },
-      {
-        "title": "Chrysler Recalls America’s Only Plug-In Hybrid Minivan, Tells Owners To Park Outside",
-        "blurb": "クライスラー、プラグインハイブリッドミニバン「パシフィカ」のリコールを発表。バッテリー火災の恐れがあるため、充電せず屋外に駐車するよう指示。",
+        "title": "General Motors Is Bringing Sodium-Ion Battery Production To America",
+        "blurb": "GMは米国でナトリウムイオン電池の生産を開始。LFP、LMRに続く新技術への投資。",
         "category": "company",
         "date": "2026-06-10",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798326/chrysler-pacifica-hybrid-recall-battery-fire"
+          "url": "https://insideevs.com/news/798154/general-motors-sodium-ion-battery-production"
         },
         "field": null
-      },
-      {
-        "title": "BMW Has Already Sold Over 10,000 iX3 EVs",
-        "blurb": "BMWのEVクロスオーバー「iX3」が4月、欧州でクラス最高の販売台数を記録し、1万台以上を販売した。",
-        "category": "company",
-        "date": "2026-06-10",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798300/bmw-ix3-sales-europe-april"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
       },
       {
         "title": "GM Is Making EV Charging A Lot Simpler With Energy Pass, NACS On All 2027 Models",
-        "blurb": "GMは、主要な充電ネットワークに対応する「エナジーパス」アプリとNACSを2027年型全車に搭載し、EV充電を簡素化。",
+        "blurb": "GMは、主要な充電ネットワークに対応する「エナジーパス」アプリとNACSを2027年型全車に搭載し、EV充電を簡素化する。",
         "category": "company",
         "date": "2026-06-10",
         "stars": 3,
@@ -421,8 +559,8 @@
         }
       },
       {
-        "title": "State-Backed Mexican EV Startup Unveils $8,600 EV With 6 Seats",
-        "blurb": "メキシコのEV新興企業が、6人乗りで車椅子も乗せられる8,600ドルのEV「Olinia Uno」を発表。メキシコ製。",
+        "title": "Mexican EV Startup Unveils $8,600 State-Backed EV With 6 Seats",
+        "blurb": "メキシコのEVスタートアップが、6人乗りで車椅子も乗せられる8,600ドルのEV「Olinia Uno」を発表。メキシコで設計・開発された。",
         "category": "company",
         "date": "2026-06-10",
         "stars": 3,
@@ -455,174 +593,6 @@
           "market": "automotive",
           "industry": null
         }
-      },
-      {
-        "title": "Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains",
-        "blurb": "三菱電機、EVパワートレイン向け新SiC MOSFET発表。第5世代で効率と耐久性を向上。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "TO-247 SiC package boosts high-voltage isolation",
-        "blurb": "ナヴィタスがTO-247パッケージを開発。高電圧SiC MOSFET向けに6000V超の絶縁を実現。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/to-247-sic-package-boosts-high-voltage-isolation"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Vertical power platform cuts AI thermal bottlenecks",
-        "blurb": "Lotus Microsystemsの垂直電源プラットフォームvStrataは、AIインフラの電気・熱・機械的課題を解決します。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/vertical-power-platform-cuts-ai-thermal-bottlenecks"
-        },
-        "field": null
-      },
-      {
-        "title": "Hall switch streamlines automotive position sensing",
-        "blurb": "メレキシス社が2線式2ビットのホール効果スイッチ「MLX92344」を発表。車載電装品で最大4つの位置を非接触で検知可能。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/hall-switch-streamlines-automotive-position-sensing"
-        },
-        "field": null
-      },
-      {
-        "title": "NVIDIA chip powers local AI workloads",
-        "blurb": "NVIDIAがAI処理能力1ペタフロップの「RTX Spark」を発表。Windows PCでローカルAIエージェントを実行可能に。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/nvidia-chip-powers-local-ai-workloads"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "How fleet learning works under bounded gate authority",
-        "blurb": "AI設計におけるフリート学習とゲート権限の制約が、エンタープライズ規模でシリコンガバナンスをどのように実現するかを解説。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/how-fleet-learning-works-under-bounded-gate-authority"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Mercedes’ Smaller-Battery GLC EV Doesn’t Have A Range Problem",
-        "blurb": "メルセデスが低価格EV「GLC」2モデルを追加。後輪駆動版はWLTP航続距離404マイルを主張。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798372/mercedes-glc-ev-small-battery"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Lucid's Top Engineer Departs The EV Startup As New CEO Takes Over",
-        "blurb": "EVスタートアップのLucid、エンジニアリング担当上級副社長が退任。新CEO就任と同時期。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798378/lucid-engineer-departs-emad-dlala-2026"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "‘This Is The Biggest Fear For Me’: Toyota Chairman Admits He Isn’t Ready For The Electric Future",
-        "blurb": "トヨタ会長はEVへの移行に懸念を示し、気候危機解決へのコミットメントに疑問符がついた。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/798375/akio-toyoda-anti-ev"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla Apparently Won't Let Cybertruck Buyers Transfer FSD Without Spending Another $20k",
-        "blurb": "テスラはサイバートラック購入者に対し、FSD（完全自動運転）の譲渡を認めない方針。2万ドル追加で再購入が必要になる。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798281/tesla-cybertruck-fsd-transfer-switcharoo"
-        },
-        "field": null
-      },
-      {
-        "title": "This Tesla Model 3 Went Nearly 400 Miles In A Range Test, 30 More Than Its EPA Rating",
-        "blurb": "Edmundsのテストで、テスラ・モデル3（後輪駆動）が公式航続距離を約64km上回り、効率性の高さを実証した。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798359/tesla-moldel-3-edmunds-range"
-        },
-        "field": null
       }
     ],
     "sns": []
