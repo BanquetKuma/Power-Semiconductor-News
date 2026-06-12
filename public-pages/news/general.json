@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-06-12T06:46:55.879250+09:00",
+  "generated_at": "2026-06-13T06:35:42.071194+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Can AI Create Missing Models?",
-    "summary": "AIによるモデル作成は、その用途とコストに大きく依存する。半導体エンジニアリングの記事。",
+    "title": "Cross-Validated Timing Analysis for Automotive CAN Networks (NYCU et al.)",
+    "summary": "台湾の研究者らが、車載CANネットワークのタイミング解析手法を発表。予測可能な通信タイミングの重要性を強調。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/can-ai-create-missing-models"
+        "url": "https://semiengineering.com/cross-validated-timing-analysis-for-automotive-can-networks-nycu-et-al"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "MIPI Launches A-PHY Compliance Program for Automotive SerDes Devices",
-        "blurb": "MIPIが車載SerDes向け業界初のA-PHYコンプライアンスプログラムを開始。相互運用性向上を目指す。",
+        "title": "「第3のインターポーザー」セラミック基板　ユーザーから強いニーズ",
+        "blurb": "日本特殊陶業とNTKセラミックは、半導体後工程展でセラミックインターポーザー基板や高放熱性窒化アルミニウム基板などを展示した。",
         "category": "company",
-        "date": "2026-06-11",
+        "date": "2026-06-12",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mipi-launches-a-phy-compliance-program-for-automotive-serdes-devices"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/12/news104.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Cross-Validated Timing Analysis for Automotive CAN Networks (NYCU et al.)",
+        "blurb": "台湾の研究者らが、車載CANネットワークのタイミング解析手法を発表。予測可能な通信タイミングの重要性を強調。",
+        "category": "company",
+        "date": "2026-06-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/cross-validated-timing-analysis-for-automotive-can-networks-nycu-et-al"
         },
         "field": {
           "primary": "general",
@@ -35,153 +53,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "Can AI Create Missing Models?",
-        "blurb": "AIによるモデル作成は、その用途とコストに大きく依存する。半導体エンジニアリングの記事。",
-        "category": "tools",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/can-ai-create-missing-models"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "How To Start Building Edge-Native AI",
-        "blurb": "エッジネイティブAI構築法：パケットベースアーキテクチャでモデル再学習不要な最適化を実現。",
-        "category": "tools",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-to-start-building-edge-native-ai"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Carbon nanotube coating creates on-chip terahertz waveguides",
-        "blurb": "カーボンナノチューブ膜がテラヘルツ波を吸収し、シリコンチップ上でのテラヘルツエネルギー管理を可能にする。",
-        "category": "tools",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/carbon-nanotube-coating-creates-on-chip-terahertz-waveguides"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "How fleet learning works under bounded gate authority",
-        "blurb": "AI設計におけるフリートラーニングとゲート権限の仕組みを解説。エンタープライズ規模でのシリコンガバナンスを強化。",
-        "category": "tools",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/how-fleet-learning-works-under-bounded-gate-authority"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "Clocked DDR5 Client Memory Modules Enable Scaling To 9600 MT/s For AI PCs",
-        "blurb": "AI PC向けにクロック同期DDR5メモリが9600 MT/sへ高速化。クロック、電源、システム管理の連携が鍵。",
-        "category": "business",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/clocked-ddr5-client-memory-modules-enable-scaling-to-9600-mt-s-for-ai-pcs"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Building A Production-Ready Optically Connected Rack For AI Scale-Up",
-        "blurb": "AIスケールアップ向け光接続ラック構築。1000個のアクセラレータに対応する帯域幅密度と効率を実現。",
-        "category": "business",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-a-production-ready-optically-connected-rack-for-ai-scale-up"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "DDR5 MRDIMM: A Transformational Evolution For DDR5 DIMM",
-        "blurb": "DDR5 MRDIMMは、データレートと密度を向上させる新アーキテクチャ。従来のDIMMとピン互換性を維持。",
-        "category": "business",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ddr5-mrdimm-a-transformational-evolution-for-ddr5-dimm"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Re-Architecting Die-to-Die IO For AI",
-        "blurb": "AI向けにダイ間IOを再設計。Synopsys 3D-IOとハイブリッドボンディング3D統合への移行。",
-        "category": "business",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/re-architecting-die-to-die-io-for-ai"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }

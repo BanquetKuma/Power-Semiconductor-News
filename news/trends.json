@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T06:46:59.673189+09:00",
-  "date": "2026-06-12",
+  "generated_at": "2026-06-13T06:35:46.527407+09:00",
+  "date": "2026-06-13",
   "meta_trends": [
     {
       "name": "SiC/GaNパワー半導体の普及加速",
@@ -9,23 +9,24 @@
       "related_fields": [
         "power",
         "automotive",
+        "datacenter",
         "industrial"
       ],
-      "summary": "SiC/GaNデバイスの性能向上、信頼性向上、設計支援ツールの拡充が進み、EVや産業機器での採用が拡大している。",
+      "summary": "EV、データセンター、産業機器向けにSiC/GaNパワー半導体の採用が拡大。信頼性向上と設計支援ツールの登場で普及が加速。",
       "analysis": {
-        "short_term": "SiC/GaN関連製品の発表が継続し、市場の関心は高い。",
-        "mid_term": "EVシフト加速と産業機器の省エネ化で需要は堅調に推移。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味は大きい。"
+        "short_term": "需要は堅調に推移。新製品投入で競争激化。",
+        "mid_term": "EVシフトと省エネニーズで市場拡大継続。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味あり。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "パワートレイン",
-        "インバーター"
+        "power device",
+        "efficiency"
       ],
       "companies_mentioned": [
-        "三菱電機",
+        "Mitsubishi Electric",
         "onsemi",
         "EPC",
         "Navitas",
@@ -33,36 +34,34 @@
       ]
     },
     {
-      "name": "AI向け高性能コンピューティング需要増",
+      "name": "AI向けチップ・インフラ投資活発化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
         "logic",
-        "backend",
-        "equipment"
+        "equipment",
+        "backend"
       ],
-      "summary": "AIエージェントや大規模AIモデルの登場により、データセンターやAI PC向けに、高集積・高性能な半導体（1兆トランジスタ、チップレット、高速メモリ）への需要が急増している。",
+      "summary": "AIサーバー、データセンター向けチップ開発競争が激化。TSMCは1兆トランジスタ/パッケージを目指し、製造装置市場も活況。",
       "analysis": {
-        "short_term": "AI投資は製造装置市場を牽引し、記録的な販売額を達成。",
-        "mid_term": "AIインフラ構築競争が激化し、関連技術・製品の進化が加速。",
-        "investment_implications": "AI向け半導体・装置メーカーへの投資は有望。"
+        "short_term": "AI投資が装置市場を牽引。チップ供給逼迫の可能性。",
+        "mid_term": "データセンターアーキテクチャ刷新、チップレット技術進化。",
+        "investment_implications": "AIインフラ関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "データセンター",
-        "チップレット",
-        "1兆トランジスタ",
-        "DDR5",
-        "製造装置"
+        "datacenter",
+        "chiplet",
+        "TSMC",
+        "EUV"
       ],
       "companies_mentioned": [
         "TSMC",
-        "シャープ",
-        "鴻海",
         "Supermicro",
-        "リンテック"
+        "Sharp",
+        "TDK"
       ]
     },
     {
@@ -71,95 +70,102 @@
       "momentum": "rising",
       "related_fields": [
         "backend",
-        "ai",
         "logic",
-        "datacenter"
+        "ai",
+        "datacenter",
+        "miniaturization"
       ],
-      "summary": "AIや高性能コンピューティングの要求に応えるため、3D-ICやチップレット統合など、ダイ間IOの再設計や高度なパッケージング技術が不可欠となっている。",
+      "summary": "3D-IC、チップレットなど先端パッケージング技術が性能向上に不可欠。検証複雑性の克服と新素材開発が鍵。",
       "analysis": {
-        "short_term": "3D-ICの検証複雑性克服が課題として浮上。",
-        "mid_term": "AIスケールアップに向けた光接続ラック構築など、システムレベルでの最適化が進む。",
-        "investment_implications": "先端パッケージング技術を持つ企業に注目。"
+        "short_term": "3D-IC検証技術の進化が求められる。",
+        "mid_term": "高密度実装、高放熱性基板へのニーズ増。",
+        "investment_implications": "パッケージング関連技術・材料企業に機会。"
       },
       "keywords": [
         "3D-IC",
-        "チップレット",
-        "ダイ間IO",
-        "パッケージング",
-        "光接続"
+        "chiplet",
+        "packaging",
+        "interposer",
+        "verification"
       ],
       "companies_mentioned": [
-        "パナソニック",
-        "Synopsys"
+        "Panasonic",
+        "日本特殊陶業",
+        "NTKセラミック"
       ]
     },
     {
-      "name": "エッジAIの現実的な構築と展開",
+      "name": "車載半導体、通信・センサー技術進化",
       "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "industrial",
-        "automotive"
-      ],
-      "summary": "エッジAIの構築には、パケットベースアーキテクチャやIPソリューションの活用が鍵となる。エッジインフラとデバイス両ティアでの展開が進む。",
-      "analysis": {
-        "short_term": "オープンソースAIワークロードのデプロイと評価が重要。",
-        "mid_term": "エッジネイティブAIの最適化が進み、実用化が加速。",
-        "investment_implications": "エッジAI関連IPやソリューションプロバイダーに注目。"
-      },
-      "keywords": [
-        "エッジAI",
-        "IPソリューション",
-        "パケットベース",
-        "AIワークロード"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "車載半導体の高度化と多様化",
-      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "analog",
-        "power",
-        "logic"
+        "logic",
+        "industrial"
       ],
-      "summary": "EVパワートレイン向けSiC/GaNデバイスに加え、車載オーディオやセンサー向けソリューションなど、車載半導体は多様化・高度化している。",
+      "summary": "車載ネットワークの信頼性向上や、高精度センサー、オーディオソリューションが進化。SiC/GaNの車載用途も拡大。",
       "analysis": {
-        "short_term": "車載オーディオ向けソリューションの提案が進む。",
-        "mid_term": "EV普及に伴い、車載パワー半導体の需要は継続的に拡大。",
-        "investment_implications": "車載向け半導体メーカーの動向を注視。"
+        "short_term": "ADAS、EV化進展で車載半導体需要は底堅い。",
+        "mid_term": "通信規格の進化とセンサーフュージョンが重要に。",
+        "investment_implications": "車載向け技術を持つ企業に注目。"
       },
       "keywords": [
-        "車載",
-        "EV",
+        "automotive",
+        "CAN",
         "SiC",
-        "オーディオ",
-        "センサー"
+        "sensor",
+        "audio"
       ],
       "companies_mentioned": [
-        "三菱電機",
+        "NYCU",
+        "Mitsubishi Electric",
         "ADI",
-        "ソニー"
+        "Sony"
+      ]
+    },
+    {
+      "name": "EUVリソグラフィ技術の効率化・低コスト化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "equipment",
+        "logic",
+        "foundry"
+      ],
+      "summary": "EUV光源の変換効率向上や、リソグラフィ検査のAI活用が進む。次世代ロジック微細化に不可欠な技術。",
+      "analysis": {
+        "short_term": "EUV装置の効率改善が製造コストに影響。",
+        "mid_term": "AIによる欠陥検出が歩留まり向上に寄与。",
+        "investment_implications": "EUV関連装置・材料メーカーに期待。"
+      },
+      "keywords": [
+        "EUV",
+        "lithography",
+        "AI",
+        "efficiency",
+        "defect detection"
+      ],
+      "companies_mentioned": [
+        "U. Of Osaka",
+        "リンテック",
+        "パナソニック"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体への投資拡大",
-      "AI向け半導体・装置への旺盛な需要",
-      "車載半導体市場の成長継続"
+      "AI関連投資の継続的な増加",
+      "EV市場の拡大に伴うSiC/GaN需要増",
+      "半導体製造装置市場の記録的販売額"
     ],
     "bearish": [
-      "半導体市場の過熱感と持続可能性への懸念",
-      "地政学的リスク（Supermicro疑惑など）"
+      "地政学的リスクによるサプライチェーンの不安定化（Supermicro疑惑など）"
     ],
     "neutral": [
-      "先端パッケージング技術の標準化と普及",
-      "エッジAIの技術開発と市場投入"
+      "メモリ市場の回復ペースは緩やか"
     ]
   },
-  "source_count": 49
+  "source_count": 46
 }

@@ -1,39 +1,21 @@
 {
-  "generated_at": "2026-06-12T06:46:55.877183+09:00",
+  "generated_at": "2026-06-13T06:35:42.069227+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Building Edge AI with IP Solutions",
-    "summary": "エッジAI構築のためのIPソリューション。エッジ展開の現実が形成する5つのアーキテクチャ領域と、エッジインフラとエッジデバイスの2つの展開ティアにおける優先順位の変化について解説。",
+    "title": "AI Agents at the Edge: Nvidia's Impact on Embedded Systems",
+    "summary": "NvidiaはエッジAI向け新チップ「RTX Spark」を発表。データセンター外でのAI処理を可能にし、組み込みシステムに影響を与える。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/building-edge-ai-with-ip-solutions"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/ai-agents-at-the-edge-nvidias-impact-on-embedded-systems"
       }
     ]
   },
   "sections": {
     "news": [
-      {
-        "title": "いくら何でも脇が甘い！ AIサーバ密輸疑惑に見るSupermicroの「やらかし体質」",
-        "blurb": "台湾Supermicro創業者がAIサーバを中国へ密輸した疑惑。同社は関与否定も、過去に会計関連で問題を起こした経緯がある。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/11/news021.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
       {
         "title": "AI Agents at the Edge: Nvidia's Impact on Embedded Systems",
         "blurb": "NvidiaはエッジAI向け新チップ「RTX Spark」を発表。データセンター外でのAI処理を可能にし、組み込みシステムに影響を与える。",
@@ -53,45 +35,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "Beyond The Demo: Deploying And Evaluating Open-Source AI Workloads",
-        "blurb": "オープンソースAIワークロードのデプロイと評価に関する記事。エッジAIの様々なシナリオでの実験を具体的な観測に転換する。",
-        "category": "tools",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beyond-the-demo-deploying-and-evaluating-open-source-ai-workloads"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "Building Edge AI with IP Solutions",
-        "blurb": "エッジAI構築のためのIPソリューション。エッジ展開の現実が形成する5つのアーキテクチャ領域と、エッジインフラとエッジデバイスの2つの展開ティアにおける優先順位の変化について解説。",
-        "category": "business",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-edge-ai-with-ip-solutions"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }

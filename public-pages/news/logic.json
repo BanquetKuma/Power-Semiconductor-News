@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-06-12T06:46:55.876625+09:00",
+  "generated_at": "2026-06-13T06:35:42.068938+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "SoC FPGA advances wideband RF processing",
-    "summary": "アルテラが航空宇宙・防衛・通信システム向けに広帯域SoC FPGA「Agilex 9 Direct RF AGRW039」のサンプル出荷を開始した。",
+    "title": "先端ロジック半導体のゲート絶縁膜を極限まで薄膜化、LSTC",
+    "summary": "LSTCが2nm世代以降の先端ロジック半導体向けに、高速・低消費電力化を両立するゲートスタック技術を開発。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/soc-fpga-advances-wideband-rf-processing"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/12/news035.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "SoC FPGA advances wideband RF processing",
-        "blurb": "アルテラが航空宇宙・防衛・通信システム向けに広帯域SoC FPGA「Agilex 9 Direct RF AGRW039」のサンプル出荷を開始した。",
-        "category": "business",
-        "date": "2026-06-11",
+        "title": "先端ロジック半導体のゲート絶縁膜を極限まで薄膜化、LSTC",
+        "blurb": "LSTCが2nm世代以降の先端ロジック半導体向けに、高速・低消費電力化を両立するゲートスタック技術を開発。",
+        "category": "company",
+        "date": "2026-06-12",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/soc-fpga-advances-wideband-rf-processing"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/12/news035.html"
         },
         "field": {
           "primary": "logic",
@@ -35,7 +33,27 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Kontron Introduces VX33211 3U VPX GPU Board",
+        "blurb": "KontronがAI・画像処理向け高性能GPUボードVX33211を発表。防衛・航空宇宙分野の過酷な環境でのエッジコンピューティングに対応。",
+        "category": "company",
+        "date": "2026-06-12",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/kontron-introduces-vx33211-3u-vpx-gpu-board"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }
