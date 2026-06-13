@@ -1,106 +1,22 @@
 {
-  "generated_at": "2026-06-13T06:35:42.067505+09:00",
+  "generated_at": "2026-06-14T06:30:19.445652+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Why 800 VDC Power Distribution is Gaining Traction in AI Data Centers",
-    "summary": "AIデータセンターで800VDC給電が普及。銅線断面積あたりの電力供給量が157%増加するが、標準化やコネクタ等の対応が課題。",
+    "title": "Cross-Validated Timing Analysis for Automotive CAN Networks (NYCU et al.)",
+    "summary": "台湾の研究者らが、車載CANネットワークのタイミング解析手法を発表。予測可能な通信タイミングの重要性を強調。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/why-800-vdc-power-distribution-is-gaining-traction-in-ai-data-centers"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/cross-validated-timing-analysis-for-automotive-can-networks-nycu-et-al"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Why 800 VDC Power Distribution is Gaining Traction in AI Data Centers",
-        "blurb": "AIデータセンターで800VDC給電が普及。銅線断面積あたりの電力供給量が157%増加するが、標準化やコネクタ等の対応が課題。",
-        "category": "business",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/why-800-vdc-power-distribution-is-gaining-traction-in-ai-data-centers"
-        },
-        "field": null
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "半導体業界の最新動向：14A PDK、2nm資金調達、メモリ契約、EUV最適化、KGDスクリーニング、欧州の進捗、AI for EDAなど。",
-        "category": "business",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-142"
-        },
-        "field": {
-          "primary": "miniaturization",
-          "device": null,
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "車載ネットワークに「光伝送」の機運　キーサイトが対応オシロ展開",
-        "blurb": "キーサイトが車載光ネットワーク向けテストソリューションを発表。AI信頼性確保ソリューションも展示。",
-        "category": "business",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/12/news054.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Surface mount and microwaves",
-        "blurb": "表面実装部品の逆向き実装でインダクタンス値向上が可能。マイクロ波回路での応用が期待される。",
-        "category": "business",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/surface-mount-and-microwaves"
-        },
-        "field": null
-      },
-      {
-        "title": "China Loves This Cheap Battery Tech. Here's Why General Motors Might Not Stick With It",
-        "blurb": "中国で普及する安価なLFPバッテリー技術。GMはコストメリットと欠点の少なさを両立する別技術を検討中。",
-        "category": "business",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798481/gm-lmr-not-lpf-batteries"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "BYD's New Hybrid Hatchback Could Supercharge Its European Takeover",
-        "blurb": "BYD、欧州初のPHEVハッチバック「ドルフィンG DM-i」を欧州で発売。欧州市場でのシェア拡大を目指す。",
-        "category": "business",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798473/byd-dolphin-g-phev-europe"
-        },
-        "field": null
-      },
-      {
         "title": "Boosting EUV Conversion Efficiency With 2-Micron Dual-Beam Laser Irradiation",
-        "blurb": "日本の研究チームが、2マイクロメートル二重レーザー照射でEUV変換効率を40%向上させることに成功。次世代リソグラフィ光源の低コスト化に貢献。",
+        "blurb": "日本の研究チームが、2ミクロン二重レーザー照射でEUV変換効率を40%向上させる技術を発表。次世代リソグラフィ光源の低コスト化に貢献。",
         "category": "business",
         "date": "2026-06-13",
         "stars": 3,
@@ -119,217 +35,19 @@
     ],
     "tools": [
       {
-        "title": "Bring-up and testing of systems with CXL Type 3 memory expanders",
-        "blurb": "CXL Type 3メモリ拡張器搭載システムの立ち上げとテストに関するチュートリアル記事。",
-        "category": "tools",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/bring-up-and-testing-of-systems-with-cxl-type-3-memory-expanders"
-        },
-        "field": null
-      },
-      {
-        "title": "Refining Vision-Language Models For Lithography Defect Detection",
-        "blurb": "半導体リソグラフィ検査向けに、微細欠陥検出のためのビジョン・言語モデルを改良。2段階フレームワークを提案。",
+        "title": "This Simple Trick Boosted My Plug-In Hybrid's Fuel Economy To 50 MPG",
+        "blurb": "プラグインハイブリッド車の燃費を向上させる運転方法の工夫。ボルボワゴンで50MPGを達成。",
         "category": "tools",
         "date": "2026-06-13",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/refining-vision-language-models-for-lithography-defect-detection"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/798337/phev-fuel-economy-boost-driving-behavior"
         },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": "frontend",
-          "market": "industrial",
-          "industry": null
-        }
+        "field": null
       }
     ],
     "company": [
-      {
-        "title": "Murata Introduces Compact 2.2µF 100V Soft-Termination MLCC",
-        "blurb": "村田製作所は、小型0805パッケージで2.2µF/100Vの積層セラミックコンデンサを発表。信頼性向上。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/murata-introduces-compact-2-2%c2%b5f-100v-soft-termination-mlcc"
-        },
-        "field": null
-      },
-      {
-        "title": "「第3のインターポーザー」セラミック基板　ユーザーから強いニーズ",
-        "blurb": "日本特殊陶業とNTKセラミックは、半導体後工程展でセラミックインターポーザー基板や高放熱性窒化アルミニウム基板などを展示した。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/12/news104.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "JEITAが「実装技術ロードマップ」を2年ぶりに発行、電子機器やパッケージなどの技術動向をアップデート",
-        "blurb": "JEITAが2年ぶりに「実装技術ロードマップ」を発行。電子機器やパッケージなどの技術動向をアップデートし、最新版の概要を紹介。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/12/news036.html"
-        },
-        "field": null
-      },
-      {
-        "title": "先端ロジック半導体のゲート絶縁膜を極限まで薄膜化、LSTC",
-        "blurb": "LSTCが2nm世代以降の先端ロジック半導体向けに、高速・低消費電力化を両立するゲートスタック技術を開発。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/12/news035.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Kontron Introduces VX33211 3U VPX GPU Board",
-        "blurb": "KontronがAI・画像処理向け高性能GPUボードVX33211を発表。防衛・航空宇宙分野の過酷な環境でのエッジコンピューティングに対応。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/kontron-introduces-vx33211-3u-vpx-gpu-board"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "AI Agents at the Edge: Nvidia's Impact on Embedded Systems",
-        "blurb": "NvidiaはエッジAI向け新チップ「RTX Spark」を発表。データセンター外でのAI処理を可能にし、組み込みシステムに影響を与える。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/ai-agents-at-the-edge-nvidias-impact-on-embedded-systems"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "The Electric BMW M3 Is Coming. Here's What It Might Look Like",
-        "blurb": "BMWが電動M3のコンセプトモデルを発表。市販版「i3 M」に近いデザインで、詳細は未公開。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798551/bmw-m3-ev-concept-reveal"
-        },
-        "field": null
-      },
-      {
-        "title": "The Rivian R2 Is Now Shipping With A Rare Accessory The Competition Forgot Existed",
-        "blurb": "リビアンR2、競合が忘れがちな希少なアクセサリーを搭載して出荷開始。アドベンチャー向けEV。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798568/rivian-r2-rare-accessory"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Edmunds Has Owned A Volvo EX30 For A Year: ‘It’s Been Rough’",
-        "blurb": "EdmundsはボルボEX30を1年間所有した結果、「非常にフラストレーションのたまる車」と結論づけた。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798532/volvo-ex30-ownership-review-rough"
-        },
-        "field": null
-      },
-      {
-        "title": "I Drove The 2027 Chevy Bolt. I Loved All The Storage Space But Its Cheap-Feeling Interior Was Underwhelming",
-        "blurb": "2027年型シボレー・ボルトは、加速性能、インフォテインメントシステム、広々とした室内空間が魅力だが、内装の質感は期待外れだった。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/798504/chevy-bolt-2027-review-pros-cons"
-        },
-        "field": null
-      },
-      {
-        "title": "This Dodge Charger EV Prototype Packs An Experimental Semi-Solid-State Battery",
-        "blurb": "ダッジは新型チャージャーEVで、実証実験用の半固体電池を搭載し、実用化に向けたテストを開始した。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798496/dodge-charger-daytona-ev-solid-state-battery"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "BYD Says It Will Be The World's Largest Automaker In 5 Years. The Pentagon Is Nervous",
-        "blurb": "BYDが5年以内に世界最大の自動車メーカーになると宣言。中国軍との関係疑惑も浮上し、米国防総省は警戒を強めている。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798397/pentagon-byd-largest-automaker-soon"
-        },
-        "field": null
-      },
       {
         "title": "Cross-Validated Timing Analysis for Automotive CAN Networks (NYCU et al.)",
         "blurb": "台湾の研究者らが、車載CANネットワークのタイミング解析手法を発表。予測可能な通信タイミングの重要性を強調。",
@@ -350,7 +68,7 @@
       },
       {
         "title": "Optimizing EUV Source Efficiency With Radiation-Hydrodynamic Simulations (U. Of Osaka et al.)",
-        "blurb": "大阪大学などの研究チームが、EUV光源の効率向上に向けたシミュレーション結果を発表しました。レーザーパラメータ空間全体で検証された手法です。",
+        "blurb": "大阪大学などの研究チームが、EUV光源の効率向上に向けたシミュレーション結果を発表。レーザーパラメータ空間全体で検証された。",
         "category": "company",
         "date": "2026-06-13",
         "stars": 3,
@@ -367,8 +85,26 @@
         }
       },
       {
+        "title": "Refining Vision-Language Models For Lithography Defect Detection",
+        "blurb": "半導体リソグラフィ検査向けに、微細欠陥検出のためのビジョン・言語モデルを改良。2段階フレームワークを提案。",
+        "category": "company",
+        "date": "2026-06-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/refining-vision-language-models-for-lithography-defect-detection"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": "frontend",
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
         "title": "AI Agents at the Edge, Robotics, Motor Control ICs: Embedded Week Insights",
-        "blurb": "組み込み技術の展示会では、エッジAI、ロボティクス、モーター制御ICの最新動向が紹介された。",
+        "blurb": "組み込み技術の展示会では、エッジAI、ロボット、モーター制御ICの最新動向が紹介された。MIPIは車載用SerDesデバイスのコンプライアンスプログラムを開始。",
         "category": "company",
         "date": "2026-06-13",
         "stars": 3,
@@ -380,7 +116,7 @@
       },
       {
         "title": "Where is AMD in the Agentic AI PC Race?",
-        "blurb": "AMDはAI開発向けにRyzen AI Halo開発プラットフォームを発表。AI PCレースにおける同社の動向に注目が集まる。",
+        "blurb": "AMDのRyzen AI HaloはAI開発向けプラットフォーム。エージェンティックAI PC競争におけるAMDの動向。",
         "category": "company",
         "date": "2026-06-13",
         "stars": 3,
@@ -397,8 +133,44 @@
         }
       },
       {
-        "title": "'I Want To Own It': What Engineering Explained's Jason Fenske Thought Of The Rivian R2",
-        "blurb": "YouTube「Engineering Explained」のジェイソン・フェンスケ氏がリビアンR2を試乗。所有欲を刺激する出来栄えに感銘を受けた。",
+        "title": "Sodium Batteries And EVs That Power The Grid: Inside GM's Big Energy Push",
+        "blurb": "GMは、ナトリウムイオン電池とV2G技術で自動車事業を超えた成長を目指す。",
+        "category": "company",
+        "date": "2026-06-13",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/798630/gm-sodium-ion-battery-vehicle-to-grid-tech"
+        },
+        "field": null
+      },
+      {
+        "title": "Yes, EVs Really Are Cleaner Than Gas Cars. Here's By How Much",
+        "blurb": "MITの研究によると、EVはガソリン車より排出ガスが少ないが、地域や運転習慣で差が出る。",
+        "category": "company",
+        "date": "2026-06-13",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/798615/evs-cleaner-than-gas-cars"
+        },
+        "field": null
+      },
+      {
+        "title": "The Rivian R2 Is Finally Here. The CEO Just Shared When To Expect More Models",
+        "blurb": "リビアン、新型EV「R2」を発表。CEOは「R3」や派生モデルの登場時期に言及。",
+        "category": "company",
+        "date": "2026-06-13",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/798608/rivian-r2-r3-r2t-timeline"
+        },
+        "field": null
+      },
+      {
+        "title": "'Really Impressed': Engineering Explained's Jason Fenske On Rivian R2",
+        "blurb": "Engineering Explainedのジェイソン・フェンスケ氏が、リビアンR2の試乗に感銘を受けた。YouTubeチャンネルで詳細を語る。",
         "category": "company",
         "date": "2026-06-13",
         "stars": 3,
