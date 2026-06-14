@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T06:30:24.591425+09:00",
-  "date": "2026-06-14",
+  "generated_at": "2026-06-15T06:30:40.694232+09:00",
+  "date": "2026-06-15",
   "meta_trends": [
     {
       "name": "SiC/GaNパワー半導体の普及加速",
@@ -12,159 +12,153 @@
         "industrial",
         "datacenter"
       ],
-      "summary": "SiC/GaNパワー半導体の信頼性向上、性能改善、設計支援ツールの拡充が進み、EV、産業機器、データセンター等での採用が加速しています。",
+      "summary": "SiC/GaNパワー半導体の性能向上とコスト低減が進み、EV、産業機器、データセンターなど幅広い分野での採用が加速。信頼性向上や設計支援ツールも充実。",
       "analysis": {
-        "short_term": "SiC/GaNデバイスの設計・評価ツール拡充で採用促進。",
-        "mid_term": "EVパワートレイン、データセンター等での採用拡大が続く。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
+        "short_term": "EV向け需要堅調。新製品投入で競争激化。",
+        "mid_term": "データセンター、産業機器への応用拡大。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味高まる。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "MOSFET",
-        "インバーター"
+        "power electronics"
       ],
       "companies_mentioned": [
-        "JEDEC",
-        "三菱電機",
-        "TDK",
+        "Mitsubishi Electric",
         "onsemi",
         "EPC",
-        "Navitas"
+        "Navitas",
+        "TDK"
       ]
     },
     {
-      "name": "AIによる半導体設計・製造の高度化",
+      "name": "AIインフラ・チップレット化の進展",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "datacenter",
         "logic",
-        "foundry",
-        "equipment",
         "backend",
-        "datacenter"
+        "miniaturization"
       ],
-      "summary": "AI技術がチップ設計（1兆トランジスタ/パッケージ）、リソグラフィ欠陥検出、検証複雑性克服、データセンターアーキテクチャ刷新に活用され始めています。",
+      "summary": "AI処理能力向上のため、チップレット技術によるCPU、GPU、NPU統合が進展。データセンターアーキテクチャ刷新やメモリ帯域幅問題解消に貢献。",
       "analysis": {
-        "short_term": "AI活用による設計・検証効率化が進展。",
-        "mid_term": "AIチップ、AIサーバ市場の拡大と設計技術進化が連動。",
-        "investment_implications": "AI関連技術を持つファウンドリ、EDA、AIチップ企業に注目。"
+        "short_term": "AIサーバ需要が製造装置市場を牽引。",
+        "mid_term": "チップレット技術の標準化と普及が進む。",
+        "investment_implications": "先端ロジック・ファウンドリ、AIチップ関連に注目。"
       },
       "keywords": [
         "AI",
-        "チップレット",
-        "EUV",
-        "リソグラフィ",
-        "3D-IC"
+        "chiplet",
+        "datacenter",
+        "TSMC"
       ],
       "companies_mentioned": [
         "TSMC",
-        "大阪大学",
-        "LSTC",
-        "シャープ",
-        "鴻海"
+        "TDK",
+        "Supermicro",
+        "Sharp"
       ]
     },
     {
-      "name": "先端パッケージング技術の重要性増大",
+      "name": "EUVリソグラフィ技術の高度化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "logic",
-        "datacenter",
-        "ai",
-        "automotive"
+        "frontend",
+        "equipment",
+        "logic"
       ],
-      "summary": "3D-ICの検証複雑性克服や、AI PC向けDDR5高速化、車載CANネットワークの信頼性向上など、高度なパッケージング技術が性能・機能向上に不可欠となっています。",
+      "summary": "EUV光源の効率向上や、リソグラフィ欠陥検出のAI活用など、次世代リソグラフィ技術の開発が加速。微細化・高集積化の鍵となる。",
       "analysis": {
-        "short_term": "3D-IC検証、高密度実装技術の進展が期待される。",
-        "mid_term": "AI、HPC、車載分野で高度パッケージングの需要が拡大。",
-        "investment_implications": "インターポーザー、パッケージング材料・技術関連企業に注目。"
+        "short_term": "EUV装置メーカーへの投資は継続。",
+        "mid_term": "新材料・新技術による歩留まり向上期待。",
+        "investment_implications": "先端リソグラフィ関連技術・装置に注目。"
       },
       "keywords": [
-        "3D-IC",
-        "パッケージング",
-        "インターポーザー",
-        "DDR5",
-        "AI PC"
+        "EUV",
+        "lithography",
+        "semiconductor manufacturing equipment"
       ],
       "companies_mentioned": [
-        "日本特殊陶業",
-        "NTKセラミック",
-        "パナソニック",
+        "U. Of Osaka",
+        "Japanese research teams",
+        "Panasonic"
+      ]
+    },
+    {
+      "name": "車載半導体の高度化と信頼性向上",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "analog",
+        "logic",
+        "power"
+      ],
+      "summary": "自動運転や電動化の進展に伴い、車載半導体への要求が高まる。通信、センサー、パワー半導体など、高信頼性・高性能化が進む。",
+      "analysis": {
+        "short_term": "車載向け新規格・技術への対応が重要。",
+        "mid_term": "ADAS/AD向け半導体市場の拡大が続く。",
+        "investment_implications": "車載半導体メーカー、関連技術に投資機会。"
+      },
+      "keywords": [
+        "automotive",
+        "CAN",
+        "ADAS",
+        "EV"
+      ],
+      "companies_mentioned": [
+        "NYCU",
+        "Mitsubishi Electric",
         "ADI"
       ]
     },
     {
-      "name": "次世代リソグラフィ光源技術の進化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "equipment",
-        "frontend",
-        "foundry"
-      ],
-      "summary": "EUV光源の効率向上に向けたシミュレーションや、二重レーザー照射による変換効率向上技術が発表され、次世代リソグラフィの低コスト化・高性能化に貢献します。",
-      "analysis": {
-        "short_term": "EUV光源効率向上技術の開発競争が激化。",
-        "mid_term": "次世代リソグラフィ装置の性能向上とコスト低減が進む。",
-        "investment_implications": "EUV関連装置・材料メーカーへの投資機会。"
-      },
-      "keywords": [
-        "EUV",
-        "リソグラフィ",
-        "光源",
-        "変換効率"
-      ],
-      "companies_mentioned": [
-        "大阪大学",
-        "日本の研究チーム"
-      ]
-    },
-    {
-      "name": "データセンターのアーキテクチャ変革",
+      "name": "後工程・パッケージング技術の進化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
-        "ai",
-        "equipment"
+        "backend",
+        "miniaturization",
+        "logic",
+        "datacenter"
       ],
-      "summary": "AIエージェントの台頭により、CPU/GPU/NPU統合チップレット、メモリボトルネック解消、低遅延化がデータセンター設計の鍵となっています。冷却技術も重要視されています。",
+      "summary": "3D-ICやチップレット実装に向け、高密度配線、高放熱性、マルチフィジックス解析など、後工程・パッケージング技術の重要性が増している。",
       "analysis": {
-        "short_term": "AI向けデータセンターの需要が継続。",
-        "mid_term": "チップレット統合、冷却技術革新がデータセンター性能を左右。",
-        "investment_implications": "データセンター向けチップ、冷却ソリューション関連企業に注目。"
+        "short_term": "高機能基板（セラミック等）の需要増。",
+        "mid_term": "3D-IC検証技術の確立が課題。",
+        "investment_implications": "先端パッケージング材料・技術関連企業に注目。"
       },
       "keywords": [
-        "データセンター",
-        "AIエージェント",
-        "チップレット",
-        "冷却",
-        "NPU"
+        "3D-IC",
+        "packaging",
+        "interposer",
+        "heat dissipation"
       ],
       "companies_mentioned": [
-        "TDK",
-        "Fabric8Labs"
+        "日本特殊陶業",
+        "NTKセラミック",
+        "Panasonic"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体市場の拡大",
-      "AI関連半導体・装置への旺盛な投資",
-      "先端パッケージング技術への需要増",
-      "データセンター向け高性能チップの需要増"
+      "SiC/GaNパワー半導体の需要拡大",
+      "AIインフラ投資による製造装置市場の活況",
+      "車載半導体市場の継続的な成長",
+      "先端パッケージング技術への投資増加"
     ],
     "bearish": [
-      "SupermicroのAIサーバ密輸疑惑による風評リスク"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "一部AIサーバ企業の不正疑惑による信用リスク"
     ],
     "neutral": [
-      "車載通信（CAN）のタイミング解析技術発表",
-      "X線CMOSイメージセンサーの量産開始"
+      "メモリ市場の需給バランスの変動",
+      "先端ロジック微細化競争の激化"
     ]
   },
   "source_count": 42
