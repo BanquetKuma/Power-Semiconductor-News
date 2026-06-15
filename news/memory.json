@@ -1,41 +1,59 @@
 {
-  "generated_at": "2026-06-12T06:46:55.876306+09:00",
+  "generated_at": "2026-06-16T06:52:56.258552+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "BYD Is Bringing Thousands Of 5-Minute EV Chargers To Europe—And Canada Is Next",
-    "summary": "BYDは、最大1500kW出力の超急速EV充電器を欧州に数千台導入。カナダも対象。",
+    "title": "Research Bits: June 15",
+    "summary": "宇宙用NAND、シリコン集積フォトニック機能、メモリ付き有機発光トランジスタの研究。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/news/798421/byd-5-minute-ev-chargers-europe-canada"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/research-bits-june-15"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "BYD Is Bringing Thousands Of 5-Minute EV Chargers To Europe—And Canada Is Next",
-        "blurb": "BYDは、最大1500kW出力の超急速EV充電器を欧州に数千台導入。カナダも対象。",
-        "category": "business",
-        "date": "2026-06-11",
+        "title": "Research Bits: June 15",
+        "blurb": "宇宙用NAND、シリコン集積フォトニック機能、メモリ付き有機発光トランジスタの研究。",
+        "category": "company",
+        "date": "2026-06-15",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798421/byd-5-minute-ev-chargers-europe-canada"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-june-15"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": "automotive",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "STMicroelectronics Redefines Entry-level Microcontroller Performance and Value for Smart Devices Everywhere",
+        "blurb": "STマイクロ、スマートデバイス向け新マイコンSTM32C5発表。Cortex-M33搭載で性能とコストを両立。",
+        "category": "company",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/stmicroelectronics-redefines-entry-level-microcontroller-performance-and-value-for-smart-devices-everywhere"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

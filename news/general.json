@@ -1,30 +1,49 @@
 {
-  "generated_at": "2026-06-14T06:30:19.448062+09:00",
+  "generated_at": "2026-06-16T06:52:56.260316+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Cross-Validated Timing Analysis for Automotive CAN Networks (NYCU et al.)",
-    "summary": "台湾の研究者らが、車載CANネットワークのタイミング解析手法を発表。予測可能な通信タイミングの重要性を強調。",
+    "title": "Fault Injection Framework Targets RISC-V Security Weak Spots",
+    "summary": "RISC-Vの脆弱性を狙うフォールトインジェクションフレームワークが発表されました。ハードウェアセキュリティの脅威に対処します。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/cross-validated-timing-analysis-for-automotive-can-networks-nycu-et-al"
+        "url": "https://semiengineering.com/fault-injection-framework-targets-risc-v-security-weak-spots"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "Cross-Validated Timing Analysis for Automotive CAN Networks (NYCU et al.)",
-        "blurb": "台湾の研究者らが、車載CANネットワークのタイミング解析手法を発表。予測可能な通信タイミングの重要性を強調。",
-        "category": "company",
-        "date": "2026-06-13",
+        "title": "Fault Injection Framework Targets RISC-V Security Weak Spots",
+        "blurb": "RISC-Vの脆弱性を狙うフォールトインジェクションフレームワークが発表されました。ハードウェアセキュリティの脅威に対処します。",
+        "category": "tools",
+        "date": "2026-06-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cross-validated-timing-analysis-for-automotive-can-networks-nycu-et-al"
+          "url": "https://semiengineering.com/fault-injection-framework-targets-risc-v-security-weak-spots"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Neural telemetry: New chip delivers 10x compression while preserving signal integrity",
+        "blurb": "脳コンピューターインターフェース向け新チップ、信号品質維持しつつ10倍圧縮を実現。スケーラブルなBCI基盤へ。",
+        "category": "tools",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/neural-telemetry-new-chip-delivers-10x-compression-while-preserving-signal-integrity"
         },
         "field": {
           "primary": "general",
@@ -35,7 +54,6 @@
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }

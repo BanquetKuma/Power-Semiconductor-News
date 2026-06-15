@@ -1,48 +1,69 @@
 {
-  "generated_at": "2026-06-12T06:46:55.876007+09:00",
+  "generated_at": "2026-06-16T06:52:56.258232+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "JEDEC Publishes New SiC Evaluation and Reliability Guidelines",
-    "summary": "JEDECがSiCの信頼性評価と短絡評価に関する共通手法を定めた新しいガイドラインを発表しました。",
+    "title": "Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)",
+    "summary": "Wolfspeedが業界をリードする低RDS(ON)の第5世代SiC MOSFETを発表。電力効率の向上と小型化に貢献。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/jedec-publishes-new-sic-evaluation-and-reliability-guidelines"
+        "url": "https://www.powerelectronicsnews.com/wolfspeed-introduces-gen-5-sic-mosfets-with-industry-leading-low-rdson"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains",
-        "blurb": "三菱電機、EVパワートレイン向け新SiC MOSFET発表。第5世代で効率と耐久性を向上。",
+        "title": "onsemi Launches GaNEXUS GaN Power Portfolio",
+        "blurb": "onsemiが新GaNパワーポートフォリオ「GaNEXUS」を発表。小型化、低損失、高熱性能、容易な統合を実現。",
         "category": "company",
-        "date": "2026-06-11",
+        "date": "2026-06-15",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains"
+          "url": "https://www.powerelectronicsnews.com/onsemi-launches-ganexus-gan-power-portfolio"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "三菱電機、PCS用インバーターの設計／検証データを無償提供",
-        "blurb": "三菱電機はPCS用インバーターの設計・検証データを無償提供。2026年6月25日より提供開始。",
+        "title": "TSMC撤退の逆風越え、浜松に技術者集結――27年GaN内製化へ全力のローム",
+        "blurb": "TSMC撤退後、ロームは浜松で8インチGaNパワー半導体の内製化を加速。2026年後半の量産開始を目指し、技術者を集結させている。",
         "category": "company",
-        "date": "2026-06-11",
+        "date": "2026-06-15",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/11/news035.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/15/news065.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Choosing the Right Power Device for Utility-Scale GFM Inverters",
+        "blurb": "大型GFMインバータ向け電力デバイス選定は、サイズ、効率、冷却、耐故障性による。適切な選択が重要。",
+        "category": "business",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/choosing-the-right-power-device-for-utility-scale-gfm-inverters"
         },
         "field": {
           "primary": "power",
@@ -53,34 +74,14 @@
         }
       },
       {
-        "title": "TO-247 SiC package boosts high-voltage isolation",
-        "blurb": "ナヴィタスがTO-247パッケージを開発。1200V～3300VのSiC MOSFET向けに6000V超の高電圧絶縁を実現。",
-        "category": "company",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/to-247-sic-package-boosts-high-voltage-isolation"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "JEDEC Publishes New SiC Evaluation and Reliability Guidelines",
-        "blurb": "JEDECがSiCの信頼性評価と短絡評価に関する共通手法を定めた新しいガイドラインを発表しました。",
-        "category": "tools",
-        "date": "2026-06-11",
+        "title": "Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)",
+        "blurb": "Wolfspeedが業界をリードする低RDS(ON)の第5世代SiC MOSFETを発表。電力効率の向上と小型化に貢献。",
+        "category": "business",
+        "date": "2026-06-16",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/jedec-publishes-new-sic-evaluation-and-reliability-guidelines"
+          "url": "https://www.powerelectronicsnews.com/wolfspeed-introduces-gen-5-sic-mosfets-with-industry-leading-low-rdson"
         },
         "field": {
           "primary": "power",
@@ -90,7 +91,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

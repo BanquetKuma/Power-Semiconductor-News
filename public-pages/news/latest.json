@@ -1,30 +1,398 @@
 {
-  "generated_at": "2026-06-15T06:30:35.350474+09:00",
+  "generated_at": "2026-06-16T06:52:56.256892+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
-    "summary": "テスラ モデルY、1年半・約2万キロ走行でバッテリー性能が大幅低下。オーナーは「許容できない」と不満。",
+    "title": "PCIM 2026: Infineon’s Peter Wawer on Grid Resilience, Solid-State Circuit Breakers, and the Path to 800V Data Centers",
+    "summary": "インフィニオンのWawer氏が、次世代データセンター向け800V DCシフト、固体回路ブレーカー、グリッドの回復力について語る。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/news/798648/model-y-serious-battery-degradation"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/pcim-2026-infineons-peter-wawer-on-grid-resilience-solid-state-circuit-breakers-and-the-path-to-800v-data-centers"
       }
     ]
   },
   "sections": {
-    "business": [],
-    "tools": [],
+    "business": [
+      {
+        "title": "Choosing the Right Power Device for Utility-Scale GFM Inverters",
+        "blurb": "大型GFMインバータ向け電力デバイス選定は、サイズ、効率、冷却、耐故障性による。適切な選択が重要。",
+        "category": "business",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/choosing-the-right-power-device-for-utility-scale-gfm-inverters"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Advanced Energy Unveils 800 VDC Converters for AI Data Centers",
+        "blurb": "Advanced EnergyがAIデータセンター向け800VDCコンバーターを発表。高効率・高電力密度でAIインフラ移行を支援。",
+        "category": "business",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/advanced-energy-unveils-800-vdc-converters-for-ai-data-centers"
+        },
+        "field": null
+      },
+      {
+        "title": "Wi-Fi Flies Higher As Edge AI Build-Out Takes Root",
+        "blurb": "エッジAIの普及に伴い、高速データ転送と信頼性向上のため、Wi-Fi規格の進化が求められている。",
+        "category": "business",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/wi-fi-flies-higher-as-edge-ai-build-out-takes-root"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "NVIDIAとSK hynixが次世代メモリ共同開発、AIファクトリー向け",
+        "blurb": "NVIDIAとSK hynixはAIファクトリー向け次世代メモリを共同開発する技術提携を結んだ。",
+        "category": "business",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/15/news031.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Cirrus Logic Adds 32-Bit Stereo Converters for Pro Audio Designs",
+        "blurb": "Cirrus Logicは、プロオーディオ向けに115dBのダイナミックレンジを持つ32ビットステレオコンバーター3種を発表しました。",
+        "category": "business",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/cirrus-logic-adds-32-bit-stereo-converters-for-pro-audio-designs"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "PCIM 2026: Infineon’s Peter Wawer on Grid Resilience, Solid-State Circuit Breakers, and the Path to 800V Data Centers",
+        "blurb": "インフィニオンのWawer氏が、次世代データセンター向け800V DCシフト、固体回路ブレーカー、グリッドの回復力について語る。",
+        "category": "business",
+        "date": "2026-06-16",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/pcim-2026-infineons-peter-wawer-on-grid-resilience-solid-state-circuit-breakers-and-the-path-to-800v-data-centers"
+        },
+        "field": null
+      },
+      {
+        "title": "Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)",
+        "blurb": "Wolfspeedが業界をリードする低RDS(ON)の第5世代SiC MOSFETを発表。電力効率の向上と小型化に貢献。",
+        "category": "business",
+        "date": "2026-06-16",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/wolfspeed-introduces-gen-5-sic-mosfets-with-industry-leading-low-rdson"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Fault Injection Framework Targets RISC-V Security Weak Spots",
+        "blurb": "RISC-Vの脆弱性を狙うフォールトインジェクションフレームワークが発表されました。ハードウェアセキュリティの脅威に対処します。",
+        "category": "tools",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/fault-injection-framework-targets-risc-v-security-weak-spots"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Neural telemetry: New chip delivers 10x compression while preserving signal integrity",
+        "blurb": "脳コンピューターインターフェース向け新チップ、信号品質維持しつつ10倍圧縮を実現。スケーラブルなBCI基盤へ。",
+        "category": "tools",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/neural-telemetry-new-chip-delivers-10x-compression-while-preserving-signal-integrity"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "TP-Link MC220L: Media conversion keeps the network well",
+        "blurb": "TP-Link MC220Lは、RJ45/SFP変換器で、ネットワークへの雷害を防ぎます。",
+        "category": "tools",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/the-tp-link-mc220l-media-conversion-keeps-the-network-well"
+        },
+        "field": null
+      },
+      {
+        "title": "Surface resistance and resistivity testers for ESD applications",
+        "blurb": "ESD対策に不可欠な導電性・散逸性・絶縁性を定義する表面抵抗・抵抗率テスター。",
+        "category": "tools",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/surface-resistance-and-resistivity-testers-for-esd-applications"
+        },
+        "field": null
+      },
+      {
+        "title": "Smart Robots: Can They Evolve into Real-Time Intelligent Systems?",
+        "blurb": "「スマートロボット」の進化は、単なる代替労働から自律的なリアルタイム知能システムへと変化しつつある。その概念は1920年代に遡る。",
+        "category": "tools",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/smart-robots-can-they-evolve-into-real-time-intelligent-systems"
+        },
+        "field": null
+      },
+      {
+        "title": "ESD eBook June 2026: Building Blocks of Robotics Design",
+        "blurb": "ロボット設計の基盤となる組み込みシステムと、AI、機械学習、エッジコンピューティング等の最新技術動向を解説する電子書籍。",
+        "category": "tools",
+        "date": "2026-06-16",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/esd-ebook-june-2026-building-blocks-of-robotics-design"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
     "company": [
       {
-        "title": "This Low-Mileage 2025 Tesla Model Y Lost A Lot Of Range Fast",
-        "blurb": "テスラ モデルY、1年半・約2万キロ走行でバッテリー性能が大幅低下。オーナーは「許容できない」と不満。",
+        "title": "TI Unveils BQ79826Z-Q1 Battery Monitor with Integrated EIS",
+        "blurb": "TIがEIS統合型バッテリーモニターBQ79826Z-Q1を発表。リアルタイムのバッテリー健全性診断で早期故障検知と信頼性向上を実現。",
         "category": "company",
-        "date": "2026-06-14",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ti-unveils-bq79826z-q1-battery-monitor-with-integrated-eis"
+        },
+        "field": null
+      },
+      {
+        "title": "onsemi Launches GaNEXUS GaN Power Portfolio",
+        "blurb": "onsemiが新GaNパワーポートフォリオ「GaNEXUS」を発表。小型化、低損失、高熱性能、容易な統合を実現。",
+        "category": "company",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/onsemi-launches-ganexus-gan-power-portfolio"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Research Bits: June 15",
+        "blurb": "宇宙用NAND、シリコン集積フォトニック機能、メモリ付き有機発光トランジスタの研究。",
+        "category": "company",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-june-15"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "TSMC撤退の逆風越え、浜松に技術者集結――27年GaN内製化へ全力のローム",
+        "blurb": "TSMC撤退後、ロームは浜松で8インチGaNパワー半導体の内製化を加速。2026年後半の量産開始を目指し、技術者を集結させている。",
+        "category": "company",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/15/news065.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "人の皮膚に近いセンサー実現に向けた新技術、村田製と九州大",
+        "blurb": "村田製と九大、低電力・高速読み出しの温度センサー新技術を開発。電子皮膚やウェアラブルセンサーへの応用が期待される。",
+        "category": "company",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/15/news034.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「台湾の強さ」見せつけたCOMPUTEX TAIPEI 2026",
+        "blurb": "COMPUTEX TAIPEI 2026は台湾の半導体産業の強さを示し、NVIDIA CEOのジェンスン・フアン氏が最大のスターとなった。",
+        "category": "company",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/15/news057.html"
+        },
+        "field": {
+          "primary": "geopolitics",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "geopolitics"
+        }
+      },
+      {
+        "title": "パナソニックが従来比10倍の高感度カメラ、膜厚や素材を判別",
+        "blurb": "パナソニックは、従来比10倍の高感度ハイパースペクトルカメラを発表。AI検査ソフトと合わせ、外観検査や膜厚測定に活用。",
+        "category": "company",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/15/news046.html"
+        },
+        "field": null
+      },
+      {
+        "title": "STMicroelectronics Redefines Entry-level Microcontroller Performance and Value for Smart Devices Everywhere",
+        "blurb": "STマイクロ、スマートデバイス向け新マイコンSTM32C5発表。Cortex-M33搭載で性能とコストを両立。",
+        "category": "company",
+        "date": "2026-06-15",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/stmicroelectronics-redefines-entry-level-microcontroller-performance-and-value-for-smart-devices-everywhere"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The 2027 BMW iX5’s Monster Battery Pack Dwarfs The Competition",
+        "blurb": "BMWの新型EV「iX5」が今夏登場。セグメント最大級のバッテリー搭載で、航続距離王を目指す。",
+        "category": "company",
+        "date": "2026-06-16",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798648/model-y-serious-battery-degradation"
+          "url": "https://insideevs.com/news/798787/bmw-ix5-large-battery-pack-range-king"
+        },
+        "field": null
+      },
+      {
+        "title": "Full Tesla Cybercab Specs: EPA Documents Confirm Battery Size, Weight, Power, And Preliminary Range",
+        "blurb": "テスラ初のFF車「サイバーキャブ」のEPA文書から、バッテリー容量、重量、出力、航続距離が判明。モデル3より軽量ながら十分な航続距離を提供。",
+        "category": "company",
+        "date": "2026-06-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/798790/tesla-cybercab-specs"
+        },
+        "field": null
+      },
+      {
+        "title": "A Chinese Car Brand Says It Hired A Top Ferrari Designer. Ferrari Wants A Name",
+        "blurb": "中国のEVメーカーが元フェラーリデザイナーを採用したと発表。フェラーリ側はデザイナー名を公表するよう求めている。",
+        "category": "company",
+        "date": "2026-06-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/798584/luxeed-rx-ferrari-purosangue-connection"
+        },
+        "field": null
+      },
+      {
+        "title": "The Xiaomi SU7 Made Me Understand How Xiaomi Conquered China",
+        "blurb": "Xiaomi SU7セダンは、中国市場を席巻した同社の戦略を理解させるほどの出来栄えで、世界の自動車メーカーに衝撃を与えている。",
+        "category": "company",
+        "date": "2026-06-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/798764/xiaomi-su7-drive-wins-china"
         },
         "field": null
       }
