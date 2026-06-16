@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-06-13T06:35:42.068938+09:00",
+  "generated_at": "2026-06-17T06:51:27.816392+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "先端ロジック半導体のゲート絶縁膜を極限まで薄膜化、LSTC",
-    "summary": "LSTCが2nm世代以降の先端ロジック半導体向けに、高速・低消費電力化を両立するゲートスタック技術を開発。",
+    "title": "Chip Industry Technical Paper Roundup: June 16",
+    "summary": "半導体業界の技術論文まとめ。GPU、ニューラルコンピューティング、RISC-V、車載CAN、EUV光源最適化、リソグラフィ欠陥検出など。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/12/news035.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-16"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "先端ロジック半導体のゲート絶縁膜を極限まで薄膜化、LSTC",
-        "blurb": "LSTCが2nm世代以降の先端ロジック半導体向けに、高速・低消費電力化を両立するゲートスタック技術を開発。",
+        "title": "Modeling Multi-GPU Traffic For Distributed AI Workloads (UW Madison, AMD)",
+        "blurb": "UWマディソンとAMDが、大規模AI学習におけるマルチGPU通信トラフィックのモデリング手法「Eidola」を発表。大規模モデル学習に不可欠なGPU間通信の効率化を目指す。",
         "category": "company",
-        "date": "2026-06-12",
+        "date": "2026-06-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/12/news035.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Kontron Introduces VX33211 3U VPX GPU Board",
-        "blurb": "KontronがAI・画像処理向け高性能GPUボードVX33211を発表。防衛・航空宇宙分野の過酷な環境でのエッジコンピューティングに対応。",
-        "category": "company",
-        "date": "2026-06-12",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/kontron-introduces-vx33211-3u-vpx-gpu-board"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/modeling-multi-gpu-traffic-for-distributed-ai-workloads-uw-madison-amd"
         },
         "field": {
           "primary": "logic",
@@ -51,9 +33,65 @@
           "market": null,
           "industry": "fabless"
         }
+      },
+      {
+        "title": "Altera Introduces Agilex 9 Direct RF-Series SoC FPGA",
+        "blurb": "アルテラが広帯域RF向け新FPGA「Agilex 9 Direct RF-Series」を発表。航空宇宙・防衛・通信分野での需要増に対応。",
+        "category": "company",
+        "date": "2026-06-16",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/altera-introduces-agilex-9-direct-rf-series-soc-fpga"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "Qualcomm Dragonwing Development Kit Offers 24 TOPS Edge AI",
+        "blurb": "QualcommのDragonwing開発キットは、24TOPSのAI性能を持つQ-7790 SoCを搭載し、エッジAI展開向けにAndroid/Linuxをサポート。",
+        "category": "tools",
+        "date": "2026-06-16",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/qualcomm-dragonwing-development-kit-offers-24-tops-edge-ai"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Chip Industry Technical Paper Roundup: June 16",
+        "blurb": "半導体業界の技術論文まとめ。GPU、ニューラルコンピューティング、RISC-V、車載CAN、EUV光源最適化、リソグラフィ欠陥検出など。",
+        "category": "business",
+        "date": "2026-06-16",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-16"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

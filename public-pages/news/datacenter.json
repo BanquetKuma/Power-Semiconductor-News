@@ -1,50 +1,31 @@
 {
-  "generated_at": "2026-06-12T06:46:55.878011+09:00",
+  "generated_at": "2026-06-17T06:51:27.817834+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Agentic AI Is Changing Data Center Architectures",
-    "summary": "AIエージェントがデータセンターを革新。CPU、GPU、NPUを統合したチップレットがメモリボトルネック解消、低遅延、高効率化を実現。",
+    "title": "How to Build Simulink Models with Agentic AI",
+    "summary": "MathWorksは、AIエージェントとMATLAB MCPサーバーを使用し、Simulinkモデルを構築する実験を実演しました。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/agentic-ai-is-changing-data-center-architectures"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/how-to-build-simulink-models-with-agentic-ai"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Agentic AI Is Changing Data Center Architectures",
-        "blurb": "AIエージェントがデータセンターを革新。CPU、GPU、NPUを統合したチップレットがメモリボトルネック解消、低遅延、高効率化を実現。",
-        "category": "business",
-        "date": "2026-06-11",
+        "title": "How to Build Simulink Models with Agentic AI",
+        "blurb": "MathWorksは、AIエージェントとMATLAB MCPサーバーを使用し、Simulinkモデルを構築する実験を実演しました。",
+        "category": "tools",
+        "date": "2026-06-17",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/agentic-ai-is-changing-data-center-architectures"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "TDKが米金属3Dプリント企業買収　データセンター冷却市場参入",
-        "blurb": "TDKは米Fabric8Labsを買収し、データセンター冷却市場に参入。独自の3D金属積層造形技術をデータセンター事業拡大や部品技術に応用する。",
-        "category": "business",
-        "date": "2026-06-11",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/11/news080.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/how-to-build-simulink-models-with-agentic-ai"
         },
         "field": {
           "primary": "datacenter",
@@ -54,6 +35,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

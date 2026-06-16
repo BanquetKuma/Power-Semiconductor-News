@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-16T06:53:00.615642+09:00",
-  "date": "2026-06-16",
+  "generated_at": "2026-06-17T06:51:32.849760+09:00",
+  "date": "2026-06-17",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の進化と普及",
+      "name": "次世代パワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,155 +12,155 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaNパワー半導体の低RDS(ON)、高効率化、小型化が進み、EV、データセンター、産業機器での採用が加速。",
+      "summary": "GaNやSiCといった次世代パワー半導体の性能向上とコスト低減が進み、EV、データセンター、産業機器など幅広い分野での採用が加速している。",
       "analysis": {
-        "short_term": "新製品投入と採用拡大で需要堅調。",
-        "mid_term": "サプライヤー間の競争激化とコスト低下が進む。",
-        "investment_implications": "関連企業への投資妙味あり。"
+        "short_term": "新製品投入活発化、採用拡大の兆し。",
+        "mid_term": "量産効果によるコスト低下と普及加速。",
+        "investment_implications": "関連企業への投資妙味増大。"
       },
       "keywords": [
-        "SiC",
         "GaN",
+        "SiC",
         "EV",
         "データセンター",
-        "高効率"
+        "インバータ"
       ],
       "companies_mentioned": [
-        "Wolfspeed",
         "onsemi",
+        "Skyworks",
+        "Nexperia",
+        "Wolfspeed",
+        "Infineon",
         "ローム",
-        "三菱電機"
+        "東芝"
       ]
     },
     {
-      "name": "AIデータセンターの進化と需要増",
+      "name": "AI処理の高度化と分散化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "logic",
         "datacenter",
-        "power",
-        "memory",
-        "logic"
+        "memory"
       ],
-      "summary": "AIエージェントの普及により、800VDCアーキテクチャ、チップレット統合、高効率電源など、データセンターのアーキテクチャが刷新。",
+      "summary": "大規模AIモデル学習におけるGPU間通信効率化や、エッジAIの普及に伴うデータ転送・処理能力向上が求められている。",
       "analysis": {
-        "short_term": "AIチップ需要がデータセンター投資を牽引。",
-        "mid_term": "次世代アーキテクチャへの移行が加速する。",
-        "investment_implications": "データセンター関連インフラ・チップ企業に注目。"
+        "short_term": "GPU通信技術やWi-Fi新規格への注目高まる。",
+        "mid_term": "エッジAIデバイスの性能向上と普及進展。",
+        "investment_implications": "AIインフラ、AIチップ関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "データセンター",
-        "チップレット",
-        "800VDC",
-        "NPU"
+        "GPU",
+        "エッジAI",
+        "通信",
+        "Wi-Fi"
       ],
       "companies_mentioned": [
-        "TSMC",
+        "AMD",
         "NVIDIA",
-        "Supermicro",
-        "TDK"
+        "Supermicro"
       ]
     },
     {
-      "name": "EUVリソグラフィ技術の効率向上",
+      "name": "先端リソグラフィ技術の革新",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "equipment",
         "frontend",
-        "foundry"
+        "logic"
       ],
-      "summary": "EUV光源の効率向上に向けたシミュレーションやレーザー照射技術の研究が進展し、次世代リソグラフィのコスト削減に貢献。",
+      "summary": "EUV光源の効率向上や、リソグラフィ欠陥検出の精度向上が進み、次世代半導体製造の鍵となる技術開発が活発化している。",
       "analysis": {
-        "short_term": "技術開発進展で装置メーカーに追い風。",
-        "mid_term": "歩留まり向上とコスト低減が期待される。",
-        "investment_implications": "EUV関連装置・材料メーカーに注目。"
+        "short_term": "EUV効率向上技術や欠陥検出技術に注目。",
+        "mid_term": "次世代ロジック半導体の微細化・高性能化に貢献。",
+        "investment_implications": "露光装置、関連材料・技術企業に期待。"
       },
       "keywords": [
         "EUV",
         "リソグラフィ",
-        "光源効率",
-        "レーザー",
-        "装置"
+        "欠陥検出",
+        "光源",
+        "微細化"
       ],
       "companies_mentioned": [
         "大阪大学",
-        "日本特殊陶業",
-        "NTKセラミック"
+        "日本の研究チーム",
+        "韓国の研究チーム",
+        "ニコン"
       ]
     },
     {
-      "name": "ハードウェアセキュリティの重要性増大",
+      "name": "ハードウェアセキュリティと新アーキテクチャ",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "logic",
-        "automotive",
-        "general"
+        "geopolitics",
+        "industrial"
       ],
-      "summary": "RISC-Vの脆弱性対策や車載CANネットワークのタイミング解析など、ハードウェアレベルでのセキュリティと信頼性確保が喫緊の課題。",
+      "summary": "RISC-Vアーキテクチャのセキュリティ脆弱性評価や、物理ニューラルネットワークなど、既存シリコンの枠を超えた新しいコンピューティング基盤の研究が進んでいる。",
       "analysis": {
-        "short_term": "セキュリティ関連技術への関心が高まる。",
-        "mid_term": "標準化や認証の動きが活発化する可能性。",
-        "investment_implications": "セキュリティソリューション提供企業に期待。"
+        "short_term": "RISC-Vセキュリティ評価フレームワークに注目。",
+        "mid_term": "新しいコンピューティング基盤の可能性を探る。",
+        "investment_implications": "オープンソースハードウェア、次世代コンピューティング関連。"
       },
       "keywords": [
-        "セキュリティ",
         "RISC-V",
-        "CAN",
-        "信頼性",
-        "脆弱性"
+        "セキュリティ",
+        "物理ニューラルネットワーク",
+        "ハードウェア"
       ],
       "companies_mentioned": [
-        "ADI",
-        "NYCU"
+        "U. of Lübeck",
+        "TU Hamburg"
       ]
     },
     {
-      "name": "先端材料・パッケージング技術の進化",
+      "name": "車載通信とセンサー技術の進化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "miniaturization",
-        "industrial",
-        "general"
+        "automotive",
+        "analog",
+        "industrial"
       ],
-      "summary": "セラミック基板、カーボンナノチューブ、薄膜化技術など、後工程や材料分野での革新がチップ性能向上と小型化を支える。",
+      "summary": "車載CANネットワークの通信タイミング解析や、人の皮膚に近いセンサー、高感度テラヘルツ検出器など、高度な自動運転やIoTに不可欠な技術開発が進んでいる。",
       "analysis": {
-        "short_term": "新規材料開発への投資が活発化。",
-        "mid_term": "高性能パッケージングの需要が拡大する。",
-        "investment_implications": "材料・パッケージング関連企業に注目。"
+        "short_term": "車載通信解析、高感度センサー技術に注目。",
+        "mid_term": "自動運転、ウェアラブルデバイスの性能向上。",
+        "investment_implications": "車載半導体、センサー関連企業に期待。"
       },
       "keywords": [
-        "セラミック基板",
-        "薄膜化",
-        "カーボンナノチューブ",
-        "後工程",
-        "材料"
+        "車載",
+        "CAN",
+        "センサー",
+        "テラヘルツ",
+        "自動運転"
       ],
       "companies_mentioned": [
-        "日本特殊陶業",
-        "NTKセラミック",
-        "リンテック",
-        "LSTC"
+        "NYCU",
+        "村田製作所",
+        "九州大学"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大",
-      "AI関連投資による製造装置販売額の記録更新",
-      "データセンター向けインフラ投資の活発化"
+      "次世代パワー半導体の需要拡大",
+      "AI関連投資の継続",
+      "EUVリソグラフィ関連技術の進展"
     ],
     "bearish": [
-      "SupermicroのAIサーバ密輸疑惑による風評リスク"
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "COMPUTEXでの台湾半導体産業の強さの再確認"
+      "RISC-Vエコシステムの成長",
+      "車載半導体市場の動向"
     ]
   },
-  "source_count": 40
+  "source_count": 44
 }

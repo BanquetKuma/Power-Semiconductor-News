@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-06-16T06:52:56.260316+09:00",
+  "generated_at": "2026-06-17T06:51:27.818209+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Fault Injection Framework Targets RISC-V Security Weak Spots",
-    "summary": "RISC-Vの脆弱性を狙うフォールトインジェクションフレームワークが発表されました。ハードウェアセキュリティの脅威に対処します。",
+    "title": "Physical Neural Networks: A Survey (U. of Lübeck, TU Hamburg)",
+    "summary": "シリコンを超えた物理ニューラルネットワークに関する論文が発表。メモリスタ、フォトニック回路、機械的メタマテリアルなど多様な基盤を調査。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/fault-injection-framework-targets-risc-v-security-weak-spots"
+        "url": "https://semiengineering.com/physical-neural-networks-a-survey-u-of-lubeck-tu-hamburg"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Fault Injection Framework Targets RISC-V Security Weak Spots",
-        "blurb": "RISC-Vの脆弱性を狙うフォールトインジェクションフレームワークが発表されました。ハードウェアセキュリティの脅威に対処します。",
-        "category": "tools",
-        "date": "2026-06-15",
+        "title": "ニコンの半導体後工程向け新材料　ガラス基板の課題に対応",
+        "blurb": "ニコンは、ガラス基板のめっき課題を解決する新材料「PAP」を発表。平滑性と密着性を両立し、半導体後工程での利用が期待される。",
+        "category": "company",
+        "date": "2026-06-16",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/fault-injection-framework-targets-risc-v-security-weak-spots"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/16/news046.html"
         },
         "field": {
           "primary": "general",
@@ -34,16 +33,18 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [
       {
-        "title": "Neural telemetry: New chip delivers 10x compression while preserving signal integrity",
-        "blurb": "脳コンピューターインターフェース向け新チップ、信号品質維持しつつ10倍圧縮を実現。スケーラブルなBCI基盤へ。",
+        "title": "Physical Neural Networks: A Survey (U. of Lübeck, TU Hamburg)",
+        "blurb": "シリコンを超えた物理ニューラルネットワークに関する論文が発表。メモリスタ、フォトニック回路、機械的メタマテリアルなど多様な基盤を調査。",
         "category": "tools",
-        "date": "2026-06-15",
+        "date": "2026-06-16",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/neural-telemetry-new-chip-delivers-10x-compression-while-preserving-signal-integrity"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/physical-neural-networks-a-survey-u-of-lubeck-tu-hamburg"
         },
         "field": {
           "primary": "general",
