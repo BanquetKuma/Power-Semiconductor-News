@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-06-17T06:51:27.818209+09:00",
+  "generated_at": "2026-06-18T06:40:24.005040+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Physical Neural Networks: A Survey (U. of Lübeck, TU Hamburg)",
-    "summary": "シリコンを超えた物理ニューラルネットワークに関する論文が発表。メモリスタ、フォトニック回路、機械的メタマテリアルなど多様な基盤を調査。",
+    "title": "Signoff Of Synthesis-Optimized Registers",
+    "summary": "合成最適化レジスタのサインオフは、複雑なチップ設計が製造準備完了となる時期を判断する。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/physical-neural-networks-a-survey-u-of-lubeck-tu-hamburg"
+        "url": "https://semiengineering.com/signoff-of-synthesis-optimized-registers"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "ニコンの半導体後工程向け新材料　ガラス基板の課題に対応",
-        "blurb": "ニコンは、ガラス基板のめっき課題を解決する新材料「PAP」を発表。平滑性と密着性を両立し、半導体後工程での利用が期待される。",
-        "category": "company",
-        "date": "2026-06-16",
+        "title": "SIGLENT’s New AWG Combines RF Synthesis, IQ Modulation, and Sequencing",
+        "blurb": "SIGLENTの新AWGは、RF合成、IQ変調、シーケンス機能を統合し、5GHz直接出力とベクトル信号生成が可能。無線、半導体、高速デジタルテスト向け。",
+        "category": "tools",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/16/news046.html"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/siglents-new-awg-combines-rf-synthesis-iq-modulation-and-sequencing"
         },
         "field": {
           "primary": "general",
@@ -35,16 +36,52 @@
         }
       }
     ],
-    "tech": [
+    "market": [
       {
-        "title": "Physical Neural Networks: A Survey (U. of Lübeck, TU Hamburg)",
-        "blurb": "シリコンを超えた物理ニューラルネットワークに関する論文が発表。メモリスタ、フォトニック回路、機械的メタマテリアルなど多様な基盤を調査。",
-        "category": "tools",
-        "date": "2026-06-16",
+        "title": "Signoff Of Synthesis-Optimized Registers",
+        "blurb": "合成最適化レジスタのサインオフは、複雑なチップ設計が製造準備完了となる時期を判断する。",
+        "category": "business",
+        "date": "2026-06-17",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/physical-neural-networks-a-survey-u-of-lubeck-tu-hamburg"
+          "url": "https://semiengineering.com/signoff-of-synthesis-optimized-registers"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Designing Chips That Can Explain Themselves",
+        "blurb": "自己説明可能なチップ設計が進展。オンチップモニターや分析機能で、設計意図とシリコン動作の乖離を解消。",
+        "category": "business",
+        "date": "2026-06-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/designing-chips-that-can-explain-themselves"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Blog Review: June 17",
+        "blurb": "NVMeメモリ、SSNデータパス、Gitベースのチップワークフロー、低照度画像強調、AIネットワークテストなど、半導体技術の最新動向をレビュー。",
+        "category": "business",
+        "date": "2026-06-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-june-17-3"
         },
         "field": {
           "primary": "general",
@@ -54,7 +91,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

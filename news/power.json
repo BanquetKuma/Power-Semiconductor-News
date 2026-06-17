@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-06-17T06:51:27.815568+09:00",
+  "generated_at": "2026-06-18T06:40:24.003112+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "PCIM 2026: onsemi’s Antoine Jalabert on the GaNEXUS Launch and the Push into GaN",
-    "summary": "onsemiはPCIM 2026でGaNEXUSを発表し、窒化ガリウム分野への進出を加速させる。",
+    "title": "Taiwan Semi Introduces Automotive-Grade TQM MOSFET Series",
+    "summary": "台湾積体電路製造（TSMC）が車載用TQM MOSFETシリーズを発表。小型で熱効率が高く、PCB実装を簡素化し、高信頼性電源変換システムをサポートする。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/pcim-2026-onsemis-antoine-jalabert-on-the-ganexus-launch-and-the-push-into-gan"
+        "url": "https://www.powerelectronicsnews.com/taiwan-semi-introduces-automotive-grade-tqm-mosfet-series"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Skyworks Introduces Si829x Isolated Gate Driver Platform",
-        "blurb": "SkyworksがASIL D対応のSi829xゲートドライバプラットフォームを発表。SiC/IGBT両対応でインバータ開発を簡素化。",
+        "title": "Taiwan Semi Introduces Automotive-Grade TQM MOSFET Series",
+        "blurb": "台湾積体電路製造（TSMC）が車載用TQM MOSFETシリーズを発表。小型で熱効率が高く、PCB実装を簡素化し、高信頼性電源変換システムをサポートする。",
         "category": "company",
-        "date": "2026-06-16",
+        "date": "2026-06-17",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/skyworks-introduces-si829x-isolated-gate-driver-platform"
+          "url": "https://www.powerelectronicsnews.com/taiwan-semi-introduces-automotive-grade-tqm-mosfet-series"
         },
         "field": {
           "primary": "power",
@@ -35,62 +35,26 @@
         }
       },
       {
-        "title": "Nexperia Introduces New Industrial-Grade 650V GaN FETs",
-        "blurb": "Nexperiaが、効率・熱性能・電力密度を最適化する新しい産業用650V GaN FETを発表。",
+        "title": "SiC JFETs, Bidirectional GaN, and Software Reinvent Solid-State Circuit Breakers for a New Era",
+        "blurb": "次世代回路保護のため、SiC JFETや双方向GaN、ソフトウェアを活用した次世代半導体回路遮断器が開発されている。",
         "category": "company",
-        "date": "2026-06-16",
+        "date": "2026-06-17",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/nexperia-introduces-new-industrial-grade-650v-gan-fets"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "SiCパワー素子をPCBに埋め込んだ超薄型モジュール、東芝",
-        "blurb": "東芝がSiCパワー素子をPCBに埋め込んだ超薄型モジュール試作品を公開。PCIM Expoで初披露。",
-        "category": "company",
-        "date": "2026-06-16",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/16/news059.html"
+          "url": "https://www.powerelectronicsnews.com/sic-jfets-bidirectional-gan-and-software-reinvent-solid-state-circuit-breakers-for-a-new-era"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Infineonがノーマリオフ対応SiC JFET、AIデータセンター向け",
-        "blurb": "インフィニオンがAIデータセンター向けにノーマリオフ対応SiC JFETを拡充。2026年中にも量産開始予定。",
-        "category": "company",
-        "date": "2026-06-16",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/16/news037.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "datacenter",
           "industry": null
         }
       },
       {
         "title": "PCIM 2026: onsemi’s Antoine Jalabert on the GaNEXUS Launch and the Push into GaN",
-        "blurb": "onsemiはPCIM 2026でGaNEXUSを発表し、窒化ガリウム分野への進出を加速させる。",
+        "blurb": "onsemiはPCIM 2026でGaNEXUSを発表し、窒化ガリウム（GaN）分野への注力を強化する。",
         "category": "company",
         "date": "2026-06-17",
         "stars": 3,
@@ -105,25 +69,80 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "tech": [],
-    "market": [
+      },
       {
-        "title": "Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)",
-        "blurb": "Wolfspeedが業界をリードする低オン抵抗の第5世代SiC MOSFETを発表。電力効率向上と小型化に貢献。",
-        "category": "business",
-        "date": "2026-06-16",
+        "title": "安価なシリコン上に縦型GaNデバイス作製へ、NIMS",
+        "blurb": "NIMSが安価なシリコン上に縦型GaNデバイス作製技術を開発。アモルファスライク中間層（AL-IL）技術が基盤。",
+        "category": "company",
+        "date": "2026-06-17",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wolfspeed-introduces-gen-5-sic-mosfets-with-industry-leading-low-rdson"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/17/news031.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "GaN inverter board drives compact BLDC motors",
+        "blurb": "EPCのGaNベース三相インバータ評価ボード「EPC99132」は、ドローンやロボット手首向け小型BLDCモーター駆動に最適です。",
+        "category": "tools",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/gan-inverter-board-drives-compact-bldc-motors"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "onsemiのGaNが本格始動　まずはGFやInnoscience活用の製品投入",
+        "blurb": "onsemiがGaNパワー半導体ポートフォリオ「GaNEXUS」を公開。AIデータセンター等向けに、まずは外部ファウンドリー活用製品を投入。",
+        "category": "business",
+        "date": "2026-06-17",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/17/news064.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "datacenter",
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "東芝が新SiCパワーモジュール技術、インバーター電力損失30％減",
+        "blurb": "東芝D＆Sは、データセンター向け高周波インバーター用新SiCパワーモジュール技術を開発。電力損失を約30％低減。",
+        "category": "business",
+        "date": "2026-06-17",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/17/news030.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "datacenter",
           "industry": null
         }
       }

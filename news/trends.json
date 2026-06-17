@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T06:51:32.849760+09:00",
-  "date": "2026-06-17",
+  "generated_at": "2026-06-18T06:40:29.895607+09:00",
+  "date": "2026-06-18",
   "meta_trends": [
     {
       "name": "次世代パワー半導体の進化と普及",
@@ -12,155 +12,164 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "GaNやSiCといった次世代パワー半導体の性能向上とコスト低減が進み、EV、データセンター、産業機器など幅広い分野での採用が加速している。",
+      "summary": "SiCやGaNといった次世代パワー半導体の性能向上、小型化、高効率化が進み、車載、データセンター、産業機器など幅広い分野での採用が加速している。",
       "analysis": {
-        "short_term": "新製品投入活発化、採用拡大の兆し。",
-        "mid_term": "量産効果によるコスト低下と普及加速。",
-        "investment_implications": "関連企業への投資妙味増大。"
+        "short_term": "新製品投入と採用事例増加が続く。",
+        "mid_term": "コスト競争力と供給体制が普及の鍵。",
+        "investment_implications": "関連企業への投資妙味は高い。"
       },
       "keywords": [
-        "GaN",
         "SiC",
+        "GaN",
         "EV",
         "データセンター",
-        "インバータ"
+        "インバーター"
       ],
       "companies_mentioned": [
+        "TSMC",
         "onsemi",
-        "Skyworks",
-        "Nexperia",
         "Wolfspeed",
+        "Nexperia",
+        "Skyworks",
         "Infineon",
-        "ローム",
-        "東芝"
+        "東芝",
+        "ローム"
       ]
     },
     {
-      "name": "AI処理の高度化と分散化",
+      "name": "AIと半導体の融合加速",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
         "datacenter",
-        "memory"
+        "memory",
+        "analog"
       ],
-      "summary": "大規模AIモデル学習におけるGPU間通信効率化や、エッジAIの普及に伴うデータ転送・処理能力向上が求められている。",
+      "summary": "AI処理能力の向上は、TPUのような専用プロセッサ、GPU、さらにはエッジAIデバイスの進化を牽引し、半導体業界全体の成長を加速させている。",
       "analysis": {
-        "short_term": "GPU通信技術やWi-Fi新規格への注目高まる。",
-        "mid_term": "エッジAIデバイスの性能向上と普及進展。",
-        "investment_implications": "AIインフラ、AIチップ関連企業に注目。"
+        "short_term": "AIチップ開発競争が激化。",
+        "mid_term": "エッジAIの普及が新たな需要を生む。",
+        "investment_implications": "AI関連半導体メーカーに注目。"
       },
       "keywords": [
         "AI",
+        "TPU",
         "GPU",
         "エッジAI",
-        "通信",
-        "Wi-Fi"
+        "ニューラルネットワーク"
       ],
       "companies_mentioned": [
-        "AMD",
+        "Google",
         "NVIDIA",
-        "Supermicro"
+        "AMD",
+        "ホンダ",
+        "NTT"
       ]
     },
     {
-      "name": "先端リソグラフィ技術の革新",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "equipment",
-        "frontend",
-        "logic"
-      ],
-      "summary": "EUV光源の効率向上や、リソグラフィ欠陥検出の精度向上が進み、次世代半導体製造の鍵となる技術開発が活発化している。",
-      "analysis": {
-        "short_term": "EUV効率向上技術や欠陥検出技術に注目。",
-        "mid_term": "次世代ロジック半導体の微細化・高性能化に貢献。",
-        "investment_implications": "露光装置、関連材料・技術企業に期待。"
-      },
-      "keywords": [
-        "EUV",
-        "リソグラフィ",
-        "欠陥検出",
-        "光源",
-        "微細化"
-      ],
-      "companies_mentioned": [
-        "大阪大学",
-        "日本の研究チーム",
-        "韓国の研究チーム",
-        "ニコン"
-      ]
-    },
-    {
-      "name": "ハードウェアセキュリティと新アーキテクチャ",
+      "name": "設計・製造プロセスの高度化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
+        "frontend",
+        "backend",
         "logic",
-        "geopolitics",
-        "industrial"
+        "foundry",
+        "equipment"
       ],
-      "summary": "RISC-Vアーキテクチャのセキュリティ脆弱性評価や、物理ニューラルネットワークなど、既存シリコンの枠を超えた新しいコンピューティング基盤の研究が進んでいる。",
+      "summary": "複雑化するチップ設計に対応するため、合成最適化レジスタのサインオフや自己説明可能なチップ設計、RISC-Vのセキュリティ評価フレームワークなどが進展している。",
       "analysis": {
-        "short_term": "RISC-Vセキュリティ評価フレームワークに注目。",
-        "mid_term": "新しいコンピューティング基盤の可能性を探る。",
-        "investment_implications": "オープンソースハードウェア、次世代コンピューティング関連。"
+        "short_term": "設計自動化ツールの進化が続く。",
+        "mid_term": "新アーキテクチャへの対応が課題。",
+        "investment_implications": "EDAやIPベンダーに恩恵。"
       },
       "keywords": [
+        "設計",
+        "製造",
         "RISC-V",
-        "セキュリティ",
-        "物理ニューラルネットワーク",
-        "ハードウェア"
+        "EDA",
+        "IP"
       ],
       "companies_mentioned": [
-        "U. of Lübeck",
-        "TU Hamburg"
+        "ニコン",
+        "JDI"
       ]
     },
     {
-      "name": "車載通信とセンサー技術の進化",
+      "name": "アナログ半導体の重要性再認識",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
         "analog",
+        "ai",
+        "automotive",
         "industrial"
       ],
-      "summary": "車載CANネットワークの通信タイミング解析や、人の皮膚に近いセンサー、高感度テラヘルツ検出器など、高度な自動運転やIoTに不可欠な技術開発が進んでいる。",
+      "summary": "AI時代において、センサーデータとデジタル回路の橋渡し役となるアナログ半導体の役割がますます重要視されており、高精度化や低消費電力化が進んでいる。",
       "analysis": {
-        "short_term": "車載通信解析、高感度センサー技術に注目。",
-        "mid_term": "自動運転、ウェアラブルデバイスの性能向上。",
-        "investment_implications": "車載半導体、センサー関連企業に期待。"
+        "short_term": "AI向けアナログICの需要増。",
+        "mid_term": "車載・産業分野での応用拡大。",
+        "investment_implications": "高付加価値アナログメーカーに期待。"
       },
       "keywords": [
-        "車載",
-        "CAN",
+        "アナログ",
         "センサー",
-        "テラヘルツ",
-        "自動運転"
+        "AI",
+        "車載",
+        "ウェアラブル"
       ],
       "companies_mentioned": [
-        "NYCU",
+        "アナログ・デバイセズ",
         "村田製作所",
-        "九州大学"
+        "九州大学",
+        "JDI"
+      ]
+    },
+    {
+      "name": "地政学リスクとサプライチェーン再編",
+      "confidence": 0.7,
+      "momentum": "stable",
+      "related_fields": [
+        "geopolitics",
+        "foundry",
+        "fabless",
+        "idm"
+      ],
+      "summary": "台湾を中心とした半導体サプライチェーンの地政学的なリスクが意識される中、各国のサプライチェーン強化や国内生産への動きが見られる。",
+      "analysis": {
+        "short_term": "サプライヤー分散化の動き。",
+        "mid_term": "国内投資と技術移転が進む。",
+        "investment_implications": "地政学リスクを考慮した投資判断。"
+      },
+      "keywords": [
+        "地政学",
+        "サプライチェーン",
+        "台湾",
+        "国内生産"
+      ],
+      "companies_mentioned": [
+        "TSMC",
+        "NVIDIA"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体の需要拡大",
-      "AI関連投資の継続",
-      "EUVリソグラフィ関連技術の進展"
+      "次世代パワー半導体（SiC/GaN）の需要拡大",
+      "AI関連チップ（GPU/TPU）の高性能化と普及",
+      "エッジAIデバイスの市場成長",
+      "車載半導体市場の回復と成長"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性"
+      "半導体製造装置への設備投資の鈍化懸念",
+      "一部メモリ製品の価格下落圧力"
     ],
     "neutral": [
-      "RISC-Vエコシステムの成長",
-      "車載半導体市場の動向"
+      "ファウンドリの生産能力増強と稼働率の変動",
+      "技術標準化に関する競争と協力"
     ]
   },
-  "source_count": 44
+  "source_count": 45
 }
