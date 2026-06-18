@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T06:40:29.895607+09:00",
-  "date": "2026-06-18",
+  "generated_at": "2026-06-19T06:43:48.012968+09:00",
+  "date": "2026-06-19",
   "meta_trends": [
     {
       "name": "次世代パワー半導体の進化と普及",
@@ -12,85 +12,51 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCやGaNといった次世代パワー半導体の性能向上、小型化、高効率化が進み、車載、データセンター、産業機器など幅広い分野での採用が加速している。",
+      "summary": "SiCやGaNといった新材料を用いたパワー半導体の性能向上とコスト低減が進み、EV、データセンター、産業機器など幅広い分野での採用が加速している。",
       "analysis": {
-        "short_term": "新製品投入と採用事例増加が続く。",
-        "mid_term": "コスト競争力と供給体制が普及の鍵。",
-        "investment_implications": "関連企業への投資妙味は高い。"
+        "short_term": "新製品投入と採用拡大の動きが活発化。",
+        "mid_term": "量産体制の確立とサプライチェーンの強化が鍵。",
+        "investment_implications": "関連企業への投資妙味が増加。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "インバーター"
+        "電力変換"
       ],
       "companies_mentioned": [
         "TSMC",
         "onsemi",
-        "Wolfspeed",
-        "Nexperia",
         "Skyworks",
+        "Nexperia",
         "Infineon",
-        "東芝",
+        "東芝D＆S",
         "ローム"
       ]
     },
     {
-      "name": "AIと半導体の融合加速",
+      "name": "先端パッケージング技術の高度化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "logic",
-        "datacenter",
-        "memory",
-        "analog"
-      ],
-      "summary": "AI処理能力の向上は、TPUのような専用プロセッサ、GPU、さらにはエッジAIデバイスの進化を牽引し、半導体業界全体の成長を加速させている。",
-      "analysis": {
-        "short_term": "AIチップ開発競争が激化。",
-        "mid_term": "エッジAIの普及が新たな需要を生む。",
-        "investment_implications": "AI関連半導体メーカーに注目。"
-      },
-      "keywords": [
-        "AI",
-        "TPU",
-        "GPU",
-        "エッジAI",
-        "ニューラルネットワーク"
-      ],
-      "companies_mentioned": [
-        "Google",
-        "NVIDIA",
-        "AMD",
-        "ホンダ",
-        "NTT"
-      ]
-    },
-    {
-      "name": "設計・製造プロセスの高度化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "frontend",
         "backend",
-        "logic",
-        "foundry",
-        "equipment"
+        "ai",
+        "automotive",
+        "datacenter",
+        "logic"
       ],
-      "summary": "複雑化するチップ設計に対応するため、合成最適化レジスタのサインオフや自己説明可能なチップ設計、RISC-Vのセキュリティ評価フレームワークなどが進展している。",
+      "summary": "ハイブリッドボンディングやパネルレベルパッケージングなど、チップレット化や高密度実装を可能にする先端パッケージング技術がAIや高性能コンピューティングの進化を支える。",
       "analysis": {
-        "short_term": "設計自動化ツールの進化が続く。",
-        "mid_term": "新アーキテクチャへの対応が課題。",
-        "investment_implications": "EDAやIPベンダーに恩恵。"
+        "short_term": "技術開発と実用化に向けた動きが加速。",
+        "mid_term": "歩留まり向上とコスト競争力が重要課題。",
+        "investment_implications": "パッケージング関連技術を持つ企業に注目。"
       },
       "keywords": [
-        "設計",
-        "製造",
-        "RISC-V",
-        "EDA",
-        "IP"
+        "チップレット",
+        "ハイブリッドボンディング",
+        "パネルレベルパッケージング",
+        "AI"
       ],
       "companies_mentioned": [
         "ニコン",
@@ -98,78 +64,104 @@
       ]
     },
     {
-      "name": "アナログ半導体の重要性再認識",
-      "confidence": 0.75,
+      "name": "AIと半導体の融合加速",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "analog",
         "ai",
+        "logic",
+        "analog",
         "automotive",
-        "industrial"
+        "datacenter"
       ],
-      "summary": "AI時代において、センサーデータとデジタル回路の橋渡し役となるアナログ半導体の役割がますます重要視されており、高精度化や低消費電力化が進んでいる。",
+      "summary": "AI処理能力の向上は、高性能ロジックだけでなく、センサーや信号処理を担うアナログ半導体、そしてエッジAI向けの専用チップ開発を促進している。",
       "analysis": {
-        "short_term": "AI向けアナログICの需要増。",
-        "mid_term": "車載・産業分野での応用拡大。",
-        "investment_implications": "高付加価値アナログメーカーに期待。"
+        "short_term": "エッジAI関連のイベント開催や技術発表が増加。",
+        "mid_term": "AIモデルの多様化に対応するハードウェア開発が鍵。",
+        "investment_implications": "AI向け半導体ソリューション提供企業に期待。"
       },
       "keywords": [
-        "アナログ",
-        "センサー",
         "AI",
-        "車載",
-        "ウェアラブル"
+        "エッジAI",
+        "アナログ半導体",
+        "高性能コンピューティング"
       ],
       "companies_mentioned": [
-        "アナログ・デバイセズ",
-        "村田製作所",
-        "九州大学",
-        "JDI"
+        "NVIDIA",
+        "ホンダ",
+        "NTT",
+        "アナログ・デバイセズ"
       ]
     },
     {
-      "name": "地政学リスクとサプライチェーン再編",
-      "confidence": 0.7,
-      "momentum": "stable",
+      "name": "先端ロジック製造技術の革新",
+      "confidence": 0.8,
+      "momentum": "rising",
       "related_fields": [
-        "geopolitics",
+        "frontend",
         "foundry",
-        "fabless",
-        "idm"
+        "idm",
+        "logic"
       ],
-      "summary": "台湾を中心とした半導体サプライチェーンの地政学的なリスクが意識される中、各国のサプライチェーン強化や国内生産への動きが見られる。",
+      "summary": "GAA（Gate-All-Around）や背面給電（Backside Power Delivery）といった次世代製造技術の開発が進み、ムーアの法則の限界を超えるための取り組みが加速している。",
       "analysis": {
-        "short_term": "サプライヤー分散化の動き。",
-        "mid_term": "国内投資と技術移転が進む。",
-        "investment_implications": "地政学リスクを考慮した投資判断。"
+        "short_term": "先端ノードの歩留まり改善が最重要課題。",
+        "mid_term": "新素材や新構造の採用が製造コストに影響。",
+        "investment_implications": "先端プロセス技術を持つファウンドリやIDMに注目。"
       },
       "keywords": [
-        "地政学",
-        "サプライチェーン",
-        "台湾",
-        "国内生産"
+        "GAA",
+        "背面給電",
+        "Intel 18A",
+        "歩留まり"
       ],
       "companies_mentioned": [
         "TSMC",
-        "NVIDIA"
+        "Intel"
+      ]
+    },
+    {
+      "name": "車載半導体の高度化と需要拡大",
+      "confidence": 0.88,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "power",
+        "ai",
+        "analog"
+      ],
+      "summary": "ADAS（先進運転支援システム）の多機能化や電動化の進展に伴い、高性能なパワー半導体、センサー、AI処理チップなどの車載半導体需要が拡大している。",
+      "analysis": {
+        "short_term": "ADAS向けカメラ数増加に対応するソリューションが登場。",
+        "mid_term": "自動運転レベル向上に伴うチップ搭載量の増加。",
+        "investment_implications": "車載向け半導体メーカーの成長が期待される。"
+      },
+      "keywords": [
+        "ADAS",
+        "EV",
+        "自動運転",
+        "車載グレード"
+      ],
+      "companies_mentioned": [
+        "TSMC",
+        "ホンダ"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体（SiC/GaN）の需要拡大",
-      "AI関連チップ（GPU/TPU）の高性能化と普及",
-      "エッジAIデバイスの市場成長",
-      "車載半導体市場の回復と成長"
+      "次世代パワー半導体（SiC/GaN）の採用拡大と性能向上",
+      "AI需要を背景とした高性能半導体および先端パッケージングへの投資増加",
+      "車載半導体市場の継続的な成長見込み"
     ],
     "bearish": [
-      "半導体製造装置への設備投資の鈍化懸念",
-      "一部メモリ製品の価格下落圧力"
+      "先端ロジック製造における歩留まり改善の難しさ",
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "ファウンドリの生産能力増強と稼働率の変動",
-      "技術標準化に関する競争と協力"
+      "メモリ市場の需要変動",
+      "半導体製造装置市場の設備投資動向"
     ]
   },
-  "source_count": 45
+  "source_count": 48
 }

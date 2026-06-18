@@ -1,94 +1,21 @@
 {
-  "generated_at": "2026-06-18T06:40:24.003112+09:00",
+  "generated_at": "2026-06-19T06:43:43.276283+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Taiwan Semi Introduces Automotive-Grade TQM MOSFET Series",
-    "summary": "台湾積体電路製造（TSMC）が車載用TQM MOSFETシリーズを発表。小型で熱効率が高く、PCB実装を簡素化し、高信頼性電源変換システムをサポートする。",
+    "title": "GaN Power Devices Go Vertical",
+    "summary": "窒化ガリウム（GaN）パワーデバイスの垂直構造化により、製造上の課題克服への道が開かれる。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/taiwan-semi-introduces-automotive-grade-tqm-mosfet-series"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/gan-power-devices-go-vertical"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Taiwan Semi Introduces Automotive-Grade TQM MOSFET Series",
-        "blurb": "台湾積体電路製造（TSMC）が車載用TQM MOSFETシリーズを発表。小型で熱効率が高く、PCB実装を簡素化し、高信頼性電源変換システムをサポートする。",
-        "category": "company",
-        "date": "2026-06-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/taiwan-semi-introduces-automotive-grade-tqm-mosfet-series"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "SiC JFETs, Bidirectional GaN, and Software Reinvent Solid-State Circuit Breakers for a New Era",
-        "blurb": "次世代回路保護のため、SiC JFETや双方向GaN、ソフトウェアを活用した次世代半導体回路遮断器が開発されている。",
-        "category": "company",
-        "date": "2026-06-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/sic-jfets-bidirectional-gan-and-software-reinvent-solid-state-circuit-breakers-for-a-new-era"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "PCIM 2026: onsemi’s Antoine Jalabert on the GaNEXUS Launch and the Push into GaN",
-        "blurb": "onsemiはPCIM 2026でGaNEXUSを発表し、窒化ガリウム（GaN）分野への注力を強化する。",
-        "category": "company",
-        "date": "2026-06-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/pcim-2026-onsemis-antoine-jalabert-on-the-ganexus-launch-and-the-push-into-gan"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "安価なシリコン上に縦型GaNデバイス作製へ、NIMS",
-        "blurb": "NIMSが安価なシリコン上に縦型GaNデバイス作製技術を開発。アモルファスライク中間層（AL-IL）技術が基盤。",
-        "category": "company",
-        "date": "2026-06-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/17/news031.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
         "title": "GaN inverter board drives compact BLDC motors",
@@ -111,38 +38,38 @@
     ],
     "market": [
       {
-        "title": "onsemiのGaNが本格始動　まずはGFやInnoscience活用の製品投入",
-        "blurb": "onsemiがGaNパワー半導体ポートフォリオ「GaNEXUS」を公開。AIデータセンター等向けに、まずは外部ファウンドリー活用製品を投入。",
+        "title": "GaN Power Devices Go Vertical",
+        "blurb": "窒化ガリウム（GaN）パワーデバイスの垂直構造化により、製造上の課題克服への道が開かれる。",
         "category": "business",
-        "date": "2026-06-17",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/17/news064.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/gan-power-devices-go-vertical"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "datacenter",
-          "industry": "foundry"
+          "market": null,
+          "industry": null
         }
       },
       {
-        "title": "東芝が新SiCパワーモジュール技術、インバーター電力損失30％減",
-        "blurb": "東芝D＆Sは、データセンター向け高周波インバーター用新SiCパワーモジュール技術を開発。電力損失を約30％低減。",
+        "title": "PCIMで感じたGaNパワー半導体競争の変化",
+        "blurb": "PCIMでGaNパワー半導体の競争激化が顕著に。数年前からの注目がさらに高まった。",
         "category": "business",
-        "date": "2026-06-17",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/17/news030.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news062.html"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "datacenter",
+          "market": null,
           "industry": null
         }
       }

@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-06-17T06:51:27.817535+09:00",
+  "generated_at": "2026-06-19T06:43:43.277234+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ESD eBook June 2026: Building Blocks of Robotics Design",
-    "summary": "ロボット設計の基盤となる組み込みシステムと、AI、機械学習、エッジコンピューティングなどの新技術が自律システムを革新。",
+    "title": "Scaling ADAS To 10+ Cameras",
+    "summary": "ADASのカメラ数を10台以上に拡張するための、車載グレードの信頼性を備えた堅牢なOBGAパッケージングソリューション。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/esd-ebook-june-2026-building-blocks-of-robotics-design"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/scaling-adas-to-10-cameras"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Lucid Cosmos: Tesla Model Y and Rivian R2 Rival Revealed In Patent Images",
-        "blurb": "ルーシッドが新型EV「コスモス」の特許画像を公開。テスラ・モデルYやリビアンR2の競合となり、年内発売予定で約5万ドル。",
+        "title": "Scaling ADAS To 10+ Cameras",
+        "blurb": "ADASのカメラ数を10台以上に拡張するための、車載グレードの信頼性を備えた堅牢なOBGAパッケージングソリューション。",
         "category": "company",
-        "date": "2026-06-17",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/798906/lucid-cosmos-patent-images"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scaling-adas-to-10-cameras"
         },
         "field": {
           "primary": "automotive",
@@ -33,18 +33,34 @@
           "market": "automotive",
           "industry": null
         }
-      }
-    ],
-    "tech": [
+      },
       {
-        "title": "ESD eBook June 2026: Building Blocks of Robotics Design",
-        "blurb": "ロボット設計の基盤となる組み込みシステムと、AI、機械学習、エッジコンピューティングなどの新技術が自律システムを革新。",
-        "category": "tools",
-        "date": "2026-06-16",
+        "title": "What Level 5 Autonomy Could Mean for Chip Design Engineers",
+        "blurb": "ケイデンスが完全自動化AI設計エージェント「ChipStack AI Super Agent」を発表。レベル5自動運転向けチップ設計を加速。",
+        "category": "company",
+        "date": "2026-06-19",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/esd-ebook-june-2026-building-blocks-of-robotics-design"
+          "url": "https://www.embedded.com/what-level-5-autonomy-could-mean-for-chip-design-engineers"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Honda Has A New Partner For Solid-State EV Batteries",
+        "blurb": "ホンダは、全固体電池の開発・製造で米スタートアップのクオンタムスケープと提携した。",
+        "category": "company",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/799184/honda-quantumscape-solid-state-batteries"
         },
         "field": {
           "primary": "automotive",
@@ -55,6 +71,7 @@
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

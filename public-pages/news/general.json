@@ -1,25 +1,98 @@
 {
-  "generated_at": "2026-06-18T06:40:24.005040+09:00",
+  "generated_at": "2026-06-19T06:43:43.278835+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Signoff Of Synthesis-Optimized Registers",
-    "summary": "合成最適化レジスタのサインオフは、複雑なチップ設計が製造準備完了となる時期を判断する。",
+    "title": "A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data",
+    "summary": "半導体製造において、より高いパターン忠実性とILT採用のため、曲線マスク技術への移行圧力が高まっている。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/signoff-of-synthesis-optimized-registers"
+        "url": "https://semiengineering.com/a-new-fracture-engine-for-curvilinear-masks-and-multigon-mask-data"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "6500V定格圧接型IEGTチップを開発、東芝D＆S",
+        "blurb": "東芝D＆Sは、高耐圧・高遮断性能の6500V圧接型IEGTチップを開発。変換装置の高電圧化・小型化に貢献。",
+        "category": "company",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news034.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ソニーとimec、次世代3D集積向け裏面接続技術を開発",
+        "blurb": "ソニーとimecが次世代3D集積向け高密度裏面接続技術を開発。半導体技術の進展に貢献。",
+        "category": "company",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news063.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
+        "title": "How to Create Efficient Bump and TSV Plans for Multi-Die Designs",
+        "blurb": "マルチチップ設計向けに、バンプとTSVの計画、可視化、分析を自動化し、生産性を向上させる方法。",
+        "category": "tools",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-to-create-efficient-bump-and-tsv-plans-for-multi-die-designs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Synopsys Launches Multiphysics Fusion Solutions",
+        "blurb": "シノプシスが、半導体設計にマルチフィジックス解析を統合するEDAツールを発表。AI技術とAnsys買収技術を組み合わせ、先端プロセスノードの設計課題に対応。",
+        "category": "tools",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/synopsys-launches-multiphysics-fusion-solutions"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "SIGLENT’s New AWG Combines RF Synthesis, IQ Modulation, and Sequencing",
-        "blurb": "SIGLENTの新AWGは、RF合成、IQ変調、シーケンス機能を統合し、5GHz直接出力とベクトル信号生成が可能。無線、半導体、高速デジタルテスト向け。",
+        "blurb": "SIGLENTの新AWG、SDG8000AはRF合成、IQ変調、シーケンス機能を統合。5GHz直接出力とベクトル信号生成で無線・半導体・高速デジタルテストに対応。",
         "category": "tools",
         "date": "2026-06-18",
         "stars": 3,
@@ -38,14 +111,14 @@
     ],
     "market": [
       {
-        "title": "Signoff Of Synthesis-Optimized Registers",
-        "blurb": "合成最適化レジスタのサインオフは、複雑なチップ設計が製造準備完了となる時期を判断する。",
+        "title": "A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data",
+        "blurb": "半導体製造において、より高いパターン忠実性とILT採用のため、曲線マスク技術への移行圧力が高まっている。",
         "category": "business",
-        "date": "2026-06-17",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/signoff-of-synthesis-optimized-registers"
+          "url": "https://semiengineering.com/a-new-fracture-engine-for-curvilinear-masks-and-multigon-mask-data"
         },
         "field": {
           "primary": "general",
@@ -56,14 +129,14 @@
         }
       },
       {
-        "title": "Designing Chips That Can Explain Themselves",
-        "blurb": "自己説明可能なチップ設計が進展。オンチップモニターや分析機能で、設計意図とシリコン動作の乖離を解消。",
+        "title": "Automated 310mm Panel-Level Packaging to Accelerate AI Innovation: Tech Brief",
+        "blurb": "AI革新を加速する310mmパネルレベルパッケージングの自動化。高スループット、短サイクルタイム、低コスト化を実現。",
         "category": "business",
-        "date": "2026-06-17",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/designing-chips-that-can-explain-themselves"
+          "url": "https://semiengineering.com/automated-310mm-panel-level-packaging-to-accelerate-ai-innovation-tech-brief"
         },
         "field": {
           "primary": "general",
@@ -74,14 +147,14 @@
         }
       },
       {
-        "title": "Blog Review: June 17",
-        "blurb": "NVMeメモリ、SSNデータパス、Gitベースのチップワークフロー、低照度画像強調、AIネットワークテストなど、半導体技術の最新動向をレビュー。",
+        "title": "Making On-Chip Photonics Manufacturable",
+        "blurb": "オンチップフォトニクス製造の実現には、フロントエンド、パッケージング、熱管理、材料、テストの連携進化が必要。AIが光学をロジックに近づける。",
         "category": "business",
-        "date": "2026-06-17",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-june-17-3"
+          "url": "https://semiengineering.com/making-on-chip-photonics-manufacturable"
         },
         "field": {
           "primary": "general",
