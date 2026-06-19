@@ -1,76 +1,39 @@
 {
-  "generated_at": "2026-06-18T06:40:24.003808+09:00",
+  "generated_at": "2026-06-20T06:27:49.404100+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "Google Details Five Generations Of TPU Training Supercomputers",
-    "summary": "Googleは、TPU v2からIronwoodまでの5世代にわたるトレーニング用スーパーコンピューターの進化を論文で発表。スケーラビリティ、耐障害性、電力効率などを解説。",
+    "stars": 3,
+    "title": "Chip Industry Week In Review",
+    "summary": "アップルとインテル提携、アマゾンがAIチップ販売へ、CHIPS法資金提供など半導体業界の最新動向。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/google-details-five-generations-of-tpu-training-supercomputers"
+        "url": "https://semiengineering.com/chip-industry-week-in-review-143"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Google Details Five Generations Of TPU Training Supercomputers",
-        "blurb": "Googleは、TPU v2からIronwoodまでの5世代にわたるトレーニング用スーパーコンピューターの進化を論文で発表。スケーラビリティ、耐障害性、電力効率などを解説。",
-        "category": "company",
-        "date": "2026-06-17",
-        "stars": 4,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/google-details-five-generations-of-tpu-training-supercomputers"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Efinix Launches Titanium Edge FPGA Family",
-        "blurb": "Efinixが、低消費電力・小型・高信頼性・高セキュリティを特徴とするエッジAI向けFPGA「Titanium Edge」を発表。",
-        "category": "company",
-        "date": "2026-06-17",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/efinix-launches-titanium-edge-fpga-family"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "Model your IPs and your NoCs",
-        "blurb": "SoC設計においてIPとNoCのモデリングが重要。抽象化レベルとインターコネクトの考慮が鍵となる。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "アップルとインテル提携、アマゾンがAIチップ販売へ、CHIPS法資金提供など半導体業界の最新動向。",
         "category": "business",
-        "date": "2026-06-17",
+        "date": "2026-06-19",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/model-your-ips-and-your-nocs"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-143"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "fabless"
         }
       }
     ]
