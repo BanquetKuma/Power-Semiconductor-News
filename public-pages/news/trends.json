@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-20T06:27:55.959388+09:00",
-  "date": "2026-06-20",
+  "generated_at": "2026-06-21T06:31:10.159309+09:00",
+  "date": "2026-06-21",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化",
+      "name": "次世代パワー半導体の台頭",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,82 +12,80 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCやGaNといったワイドバンドギャップ半導体の採用が加速。高効率化、小型化、高耐圧化が進み、EV、データセンター、産業機器での応用が拡大。",
+      "summary": "SiC、GaNといった次世代パワー半導体の技術革新と採用拡大が加速。高効率化、小型化、高耐圧化が進む。",
       "analysis": {
-        "short_term": "新製品投入と技術発表が活発化。市場競争は激化。",
-        "mid_term": "量産体制の確立とコスト低減が鍵。EVシフトが追い風。",
-        "investment_implications": "関連材料・製造装置・デバイスメーカーに注目。"
+        "short_term": "SiC/GaN製品のラインナップ拡充と量産体制強化が進む。",
+        "mid_term": "EV、データセンター、産業機器での採用が本格化し、市場が拡大。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味が増す。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "データセンター"
+        "データセンター",
+        "インバーター"
       ],
       "companies_mentioned": [
         "TSMC",
         "onsemi",
-        "Skyworks",
         "東芝D&S",
-        "NIMS"
+        "NIMS",
+        "EPC"
       ]
     },
     {
-      "name": "先端パッケージング技術の革新",
+      "name": "先端パッケージング技術の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "ai",
-        "automotive",
         "datacenter",
-        "miniaturization"
+        "automotive"
       ],
-      "summary": "ハイブリッドボンディング、パネルレベルパッケージング、3D集積技術が進展。チップレット化や高密度実装により、AIや高性能コンピューティングの性能向上を支える。",
+      "summary": "ハイブリッドボンディング、パネルレベルパッケージング等の先端技術により、高密度実装と性能向上が実現。",
       "analysis": {
-        "short_term": "AI向け需要増でパッケージング技術の重要性が高まる。",
-        "mid_term": "歩留まり向上とコスト削減が普及の鍵。新材料・工法開発が活発。",
-        "investment_implications": "パッケージング材料・装置メーカーに投資機会。"
+        "short_term": "AIチップ等、高性能・高密度実装ニーズに対応する技術開発が進む。",
+        "mid_term": "マルチチップ化が進み、パッケージング技術が性能向上の鍵となる。",
+        "investment_implications": "先端パッケージング関連企業に注目。"
       },
       "keywords": [
-        "チップレット",
-        "3D集積",
         "ハイブリッドボンディング",
+        "パネルレベルパッケージング",
+        "マルチチップ",
         "AI"
       ],
       "companies_mentioned": [
         "ニコン",
         "ソニー",
-        "imec",
-        "Element Six",
-        "Orbray"
+        "imec"
       ]
     },
     {
-      "name": "車載半導体の高度化と信頼性向上",
+      "name": "車載半導体の高度化と多様化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "power",
-        "logic",
-        "analog"
+        "ai",
+        "logic"
       ],
-      "summary": "ADASのカメラ数増加や電動化に対応するため、車載グレードの信頼性を持つ高性能・高機能半導体への需要が増加。小型化と熱管理も重要。",
+      "summary": "ADASのカメラ数増加、自動運転、電動化に対応するため、車載グレードの高性能・高信頼性半導体が求められる。",
       "analysis": {
-        "short_term": "ADAS、EV向け部品の需要が堅調に推移。",
-        "mid_term": "自動運転レベル向上に伴い、より高度な半導体が必要に。",
-        "investment_implications": "車載向け半導体メーカー、センサーメーカーに注目。"
+        "short_term": "ADAS向けセンサー、プロセッサ、パワー半導体の需要が増加。",
+        "mid_term": "自動運転レベル向上に伴い、AI、高信頼性ICの重要性が増す。",
+        "investment_implications": "車載半導体メーカー、特にADAS・EV関連に投資機会。"
       },
       "keywords": [
         "ADAS",
+        "自動運転",
         "EV",
-        "車載グレード",
-        "信頼性"
+        "車載グレード"
       ],
       "companies_mentioned": [
         "TSMC",
-        "ソニー",
+        "ケイデンス",
         "ホンダ"
       ]
     },
@@ -101,17 +99,17 @@
         "datacenter",
         "fabless"
       ],
-      "summary": "大手IT企業が自社開発AIチップに注力。NVIDIA一強からの脱却を目指し、多様なアーキテクチャと用途に特化したチップが登場。",
+      "summary": "AI処理能力向上のため、各社が独自開発AIチップやCPU/GPU連携強化を進める。エッジAIも拡大。",
       "analysis": {
-        "short_term": "AI需要は引き続き旺盛。NVIDIA以外のプレイヤーも注目。",
-        "mid_term": "カスタムAIチップの採用が進む可能性。ファウンドリへの影響大。",
-        "investment_implications": "AIチップ設計企業、ファウンドリ、関連IPベンダーに機会。"
+        "short_term": "大手テック企業によるAIチップ開発・投入が加速。",
+        "mid_term": "AIチップ市場は多様化し、特定用途向けチップの需要が増加。",
+        "investment_implications": "AIチップ設計・製造関連企業に注目。"
       },
       "keywords": [
         "AIチップ",
-        "カスタムIC",
-        "NVIDIA",
-        "データセンター"
+        "データセンター",
+        "エッジAI",
+        "NVIDIA"
       ],
       "companies_mentioned": [
         "アップル",
@@ -120,50 +118,50 @@
       ]
     },
     {
-      "name": "製造プロセス最適化と歩留まり向上",
+      "name": "新素材・新構造による性能向上",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "backend",
         "wafer",
-        "foundry",
-        "equipment"
+        "logic",
+        "power",
+        "frontend"
       ],
-      "summary": "デジタルツインやウェーハランダム化などの新技術により、先端プロセスにおける歩留まり向上と問題特定時間の短縮を目指す。",
+      "summary": "単結晶ダイヤモンド、GAA、垂直構造などの新素材・新構造が、熱管理、性能、製造効率向上に貢献。",
       "analysis": {
-        "short_term": "先端ノードの歩留まり改善は継続的な課題。",
-        "mid_term": "製造装置や材料の革新が歩留まり向上に貢献。",
-        "investment_implications": "製造装置、材料、EDAツールベンダーに注目。"
+        "short_term": "新素材・構造の量産技術確立に向けた研究開発が進展。",
+        "mid_term": "先端デバイスの性能限界を打破する鍵となる可能性。",
+        "investment_implications": "新素材・構造関連技術を持つ企業に注目。"
       },
       "keywords": [
-        "歩留まり",
-        "デジタルツイン",
-        "製造装置",
-        "先端プロセス"
+        "単結晶ダイヤモンド",
+        "GAA",
+        "垂直構造",
+        "新素材"
       ],
       "companies_mentioned": [
-        "Intel",
         "Element Six",
-        "Orbray"
+        "Orbray",
+        "Intel",
+        "NIMS"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
       "次世代パワー半導体（SiC/GaN）の需要拡大",
-      "AI向け半導体需要の継続",
-      "車載半導体の高性能化・高機能化ニーズ",
-      "先端パッケージング技術への投資活発化"
+      "AI・データセンター向け高性能半導体の需要増",
+      "車載半導体市場の成長継続",
+      "先端パッケージング技術の重要性向上"
     ],
     "bearish": [
       "地政学的リスクによるサプライチェーンの不確実性",
       "メモリ市場の価格変動リスク"
     ],
     "neutral": [
-      "CHIPS法などの政府支援策の効果",
+      "CHIPS法等の政府支援策の効果",
       "半導体製造装置市場の動向"
     ]
   },
-  "source_count": 29
+  "source_count": 35
 }

@@ -1,122 +1,362 @@
 {
-  "generated_at": "2026-06-20T06:27:49.402768+09:00",
+  "generated_at": "2026-06-19T06:43:43.274534+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Satellite Power Delivery Architecture: From 28V to High-Voltage Bus",
-    "summary": "宇宙機の電力需要増大に伴い、衛星バスは28Vから高電圧化へ移行。キロワット級の電力供給に対応。",
+    "title": "STMicroelectronics Introduces Multiplier-Less PFC Controller",
+    "summary": "STマイクロエレクトロニクスが、効率向上と部品数削減を実現する新しいPFCコントローラーを発表しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-from-28v-to-high-voltage-bus"
+        "url": "https://www.powerelectronicsnews.com/stmicroelectronics-introduces-multiplier-less-pfc-controller"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Satellite Power Delivery Architecture: From 28V to High-Voltage Bus",
-        "blurb": "宇宙機の電力需要増大に伴い、衛星バスは28Vから高電圧化へ移行。キロワット級の電力供給に対応。",
+        "title": "Vishay Expands Gen 7 1200V Hyperfast Rectifier Family",
+        "blurb": "Vishayが、低逆回復電荷と高速スイッチングを特徴とする次世代1200V超高速整流器を発表。高電圧設計の効率向上に貢献。",
         "category": "business",
-        "date": "2026-06-19",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-from-28v-to-high-voltage-bus"
+          "url": "https://www.powerelectronicsnews.com/vishay-expands-gen-7-1200v-hyperfast-rectifier-family"
         },
         "field": null
       },
       {
-        "title": "Chip Industry Week In Review",
-        "blurb": "アップルとインテル提携、アマゾンがAIチップ販売へ、CHIPS法資金提供など半導体業界の最新動向。",
+        "title": "PCIM 2026: ADI’s David Andeen on the Empower Acquisition and Vertical Power Delivery for AI",
+        "blurb": "ADIはAI向け垂直電力供給と新プラットフォームについて、Empower買収（15億ドル）に言及。PCIM 2026での発表。",
         "category": "business",
-        "date": "2026-06-19",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/pcim-2026-adis-david-andeen-on-the-empower-acquisition-and-vertical-power-delivery-for-ai"
+        },
+        "field": null
+      },
+      {
+        "title": "Accelerating GAA Logic Yield Optimization With Digital Twins",
+        "blurb": "GAAロジック歩留まり最適化をデジタルツインで加速。先端ノードでの製造ばらつき克服。",
+        "category": "business",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-143"
+          "url": "https://semiengineering.com/accelerating-gaa-logic-yield-optimization-with-digital-twins-2"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "ソニー初のLOFIC搭載スマホ用画像センサー 飽和電荷量10倍に",
-        "blurb": "ソニーがLOFIC構造をスマホ用画像センサーに初搭載。飽和電荷量を10倍に、ダイナミックレンジは100dBを実現。2026年夏に量産出荷開始。",
-        "category": "business",
-        "date": "2026-06-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news065.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": "frontend",
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data",
+        "blurb": "半導体製造において、より高いパターン忠実性とILT採用のため、曲線マスク技術への移行圧力が高まっている。",
+        "category": "business",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-new-fracture-engine-for-curvilinear-masks-and-multigon-mask-data"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Automated 310mm Panel-Level Packaging to Accelerate AI Innovation: Tech Brief",
+        "blurb": "AI革新を加速する310mmパネルレベルパッケージングの自動化。高スループット、短サイクルタイム、低コスト化を実現。",
+        "category": "business",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/automated-310mm-panel-level-packaging-to-accelerate-ai-innovation-tech-brief"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GaN Power Devices Go Vertical",
+        "blurb": "窒化ガリウム（GaN）パワーデバイスの垂直構造化により、製造上の課題克服への道が開かれる。",
+        "category": "business",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/gan-power-devices-go-vertical"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Making On-Chip Photonics Manufacturable",
+        "blurb": "オンチップフォトニクス製造の実現には、フロントエンド、パッケージング、熱管理、材料、テストの連携進化が必要。AIが光学をロジックに近づける。",
+        "category": "business",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/making-on-chip-photonics-manufacturable"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AMDがメモリ最適化技術の新興を買収　「メモリの壁」を打破できるか",
+        "blurb": "AMDが予測型メモリ技術の新興MEXTを買収。NANDフラッシュをDRAMのように動作させ、性能維持・コスト削減・容量拡大を目指す。",
+        "category": "business",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news115.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "PCIMで感じたGaNパワー半導体競争の変化",
+        "blurb": "PCIMでGaNパワー半導体の競争激化が顕著に。数年前からの注目がさらに高まった。",
+        "category": "business",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news062.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "村田製作所、受動部品のシミュレーションモデル提供",
+        "blurb": "村田製作所は、Synopsys製ツールで使える受動部品のシミュレーションモデル提供を開始。顧客はウェブサイトから容易にダウンロード可能。",
+        "category": "business",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news033.html"
+        },
+        "field": null
+      },
+      {
+        "title": "AV2 decoder joins multi-codec IP family",
+        "blurb": "Allegro DVTがAV2デコーダーIP「Pulsar D400」を発表。高度なSoC/ASIC向けにリアルタイムAV2デコードをサポート。",
+        "category": "business",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/av2-decoder-joins-multi-codec-ip-family"
+        },
+        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Line scan cameras: Fundamentals in focus",
-        "blurb": "ラインスキャンカメラは、一度に1ラインずつ高速に画像を記録する。従来のカメラとは異なり、フレーム全体を一度に捉えない。",
+        "title": "How to Create Efficient Bump and TSV Plans for Multi-Die Designs",
+        "blurb": "マルチチップ設計向けに、バンプとTSVの計画、可視化、分析を自動化し、生産性を向上させる方法。",
         "category": "tools",
-        "date": "2026-06-19",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/line-scan-cameras-fundamentals-in-focus"
-        },
-        "field": null
-      },
-      {
-        "title": "A non-isolated SSR solves a not-so-simple “simple” power problem",
-        "blurb": "非絶縁型SSRが、従来の3線式を必要としていた電源供給問題を解決する。",
-        "category": "tools",
-        "date": "2026-06-19",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-non-isolated-ssr-solves-a-not-so-simple-simple-power-problem"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Element Six, Orbray Advance Wafer-Scale Single Crystal Diamond",
-        "blurb": "Element SixとOrbray、ウェーハスケールの単結晶ダイヤモンド製造で進展。熱管理、RF電子機器、量子システム向けに量産可能に。",
-        "category": "company",
-        "date": "2026-06-19",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/element-six-orbray-advance-wafer-scale-single-crystal-diamond"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-to-create-efficient-bump-and-tsv-plans-for-multi-die-designs"
         },
         "field": {
-          "primary": "wafer",
+          "primary": "general",
           "device": null,
-          "process": "wafer",
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "最高速のガラス微細貫通穴加工技術を開発、理研",
-        "blurb": "理研とエンプラス研究所は、ガラスに超高速で高品質な微細貫通穴を加工する技術を開発。先端半導体デバイス製造への応用が期待される。",
-        "category": "company",
-        "date": "2026-06-19",
+        "title": "How automation and abstraction are transforming PCB design",
+        "blurb": "自動化と抽象化は、PCB設計者の専門知識を置き換えるのではなく、増幅させることで設計を変革しています。",
+        "category": "tools",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news042.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/how-automation-and-abstraction-are-transforming-pcb-design"
+        },
+        "field": null
+      },
+      {
+        "title": "GaN inverter board drives compact BLDC motors",
+        "blurb": "EPCのGaNベース三相インバータ評価ボード「EPC99132」は、ドローンやロボット手首向け小型BLDCモーター駆動に最適です。",
+        "category": "tools",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/gan-inverter-board-drives-compact-bldc-motors"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Battery monitor combines EIS with high cell count",
+        "blurb": "TIの車載用バッテリーモニターBQ79826Z-Q1は、最大26セル直列接続に対応し、128デバイスまでスタック可能。",
+        "category": "tools",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/battery-monitor-combines-eis-with-high-cell-count"
+        },
+        "field": null
+      },
+      {
+        "title": "Synopsys Launches Multiphysics Fusion Solutions",
+        "blurb": "シノプシスが、半導体設計にマルチフィジックス解析を統合するEDAツールを発表。AI技術とAnsys買収技術を組み合わせ、先端プロセスノードの設計課題に対応。",
+        "category": "tools",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/synopsys-launches-multiphysics-fusion-solutions"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "MIPI SWI3S: Simplifying Embedded Audio Complexity",
+        "blurb": "MIPI SWI3Sは、2つのPHYオプションをサポートし、スケーラブルなオーディオアーキテクチャを実現し、システム設計を簡素化し、電力効率を最適化します。",
+        "category": "tools",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mipi-swi3s-simplifying-embedded-audio-complexity"
+        },
+        "field": null
+      },
+      {
+        "title": "bUniProbe – Open Source Wireless Multi-Protocol Hardware Debugger Tool",
+        "blurb": "bUniProbeは、Wi-Fi対応のオープンソースハードウェアデバッガ。SPI、I2C、UART等をブラウザから利用可能。",
+        "category": "tools",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/buniprobe-open-source-wireless-multi-protocol-hardware-debugger-tool"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "SIGLENT’s New AWG Combines RF Synthesis, IQ Modulation, and Sequencing",
+        "blurb": "SIGLENTの新AWG、SDG8000AはRF合成、IQ変調、シーケンス機能を統合。5GHz直接出力とベクトル信号生成で無線・半導体・高速デジタルテストに対応。",
+        "category": "tools",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/siglents-new-awg-combines-rf-synthesis-iq-modulation-and-sequencing"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "STMicroelectronics Introduces Multiplier-Less PFC Controller",
+        "blurb": "STマイクロエレクトロニクスが、効率向上と部品数削減を実現する新しいPFCコントローラーを発表しました。",
+        "category": "company",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/stmicroelectronics-introduces-multiplier-less-pfc-controller"
+        },
+        "field": null
+      },
+      {
+        "title": "Scaling ADAS To 10+ Cameras",
+        "blurb": "ADASのカメラ数を10台以上に拡張するための、車載グレードの信頼性を備えた堅牢なOBGAパッケージングソリューション。",
+        "category": "company",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scaling-adas-to-10-cameras"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "How To Build Billions of Bumps",
+        "blurb": "ハイブリッドボンディング技術により、前例のない接続密度を実現。半導体製造の進化に貢献。",
+        "category": "company",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-to-build-billions-of-bumps"
         },
         "field": {
           "primary": "backend",
@@ -127,40 +367,148 @@
         }
       },
       {
-        "title": "3インチ単結晶ダイヤモンドウエハーの生産技術確立",
-        "blurb": "OrbrayとElement Sixが3インチ単結晶ダイヤモンドウエハーの生産技術を確立。4インチ開発に着手し、2インチ量産準備も最終段階。",
+        "title": "VLSI 2026: Intel 18A Platform Momentum From Devices To Routed Designs",
+        "blurb": "インテルは2026年までに、高性能、バックサイド給電、新素材を備えたIntel 18Aプラットフォームをデバイスからルーティング設計まで展開する。",
         "category": "company",
-        "date": "2026-06-19",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/vlsi-2026-intel-18a-platform-momentum-from-devices-to-routed-designs"
+        },
+        "field": {
+          "primary": "idm",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "Randomizing Wafers To Zero In On Process Problems Much Faster",
+        "blurb": "ウェーハのランダム化により、製造工程の問題特定を迅速化。追加設備やコスト、遅延なしで利点を提供。",
+        "category": "company",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/randomizing-wafers-to-zero-in-on-process-problems-much-faster"
+        },
+        "field": {
+          "primary": "wafer",
+          "device": null,
+          "process": "wafer",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "6500V定格圧接型IEGTチップを開発、東芝D＆S",
+        "blurb": "東芝D＆Sは、高耐圧・高遮断性能の6500V圧接型IEGTチップを開発。変換装置の高電圧化・小型化に貢献。",
+        "category": "company",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news039.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news034.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ソニーとimec、次世代3D集積向け裏面接続技術を開発",
+        "blurb": "ソニーとimecが次世代3D集積向け高密度裏面接続技術を開発。半導体技術の進展に貢献。",
+        "category": "company",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news063.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Try Google Fi (Wireless)? The perks-for-the-price are why",
+        "blurb": "Google FiはMVNOだが、価格に見合う特典が多く、リスクと利点の両方がある。",
+        "category": "company",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/try-google-fi-wireless-the-perks-for-the-price-are-why"
         },
         "field": null
       },
       {
-        "title": "実装技術ロードマップの対象範囲と前版（2024年度版）との違い",
-        "blurb": "JEITAが「2026年度版 実装技術ロードマップ」を発表。国産技術の競争力や2024年度版との違いを解説。",
+        "title": "MCUs optimize control in optical modules",
+        "blurb": "GigaDeviceは、光モジュール向けに最適化されたMCU、GD32E512とGD32E252を発表しました。",
         "category": "company",
-        "date": "2026-06-19",
+        "date": "2026-06-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news032.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/mcus-optimize-control-in-optical-modules"
         },
         "field": null
       },
       {
-        "title": "スラリー不要、水だけで研磨可能なガラス基板研磨パッド",
-        "blurb": "ノリタケは水だけで研磨可能なガラス基板用研磨パッド「AQUCERIA」を開発。産業廃棄物を90%削減しつつ、同等以上の研磨性能を実現した。",
+        "title": "Smart switch simplifies automotive power sequencing",
+        "blurb": "Diodes社が、車載用途向けに低オン抵抗のスマートロードスイッチを発表。電源シーケンス制御を簡素化。",
+        "category": "company",
+        "date": "2026-06-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/smart-switch-simplifies-automotive-power-sequencing"
+        },
+        "field": null
+      },
+      {
+        "title": "What Level 5 Autonomy Could Mean for Chip Design Engineers",
+        "blurb": "ケイデンスが完全自動化AI設計エージェント「ChipStack AI Super Agent」を発表。レベル5自動運転向けチップ設計を加速。",
         "category": "company",
         "date": "2026-06-19",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news050.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/what-level-5-autonomy-could-mean-for-chip-design-engineers"
         },
-        "field": null
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Honda Has A New Partner For Solid-State EV Batteries",
+        "blurb": "ホンダは、全固体電池の開発・製造で米スタートアップのクオンタムスケープと提携した。",
+        "category": "company",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/799184/honda-quantumscape-solid-state-batteries"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "sns": []
