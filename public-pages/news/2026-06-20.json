@@ -1,47 +1,168 @@
 {
-  "generated_at": "2026-06-21T06:31:03.476617+09:00",
+  "generated_at": "2026-06-20T06:27:49.402768+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Satellite Power Delivery Architecture, Utility-Scale GFM Inverters, Solid-State Circuit Breakers: Power Electronics Week Insights",
-    "summary": "衛星電力供給、大規模インバーター、固体回路ブレーカーの最新動向を解説。パワーエレクトロニクス分野の知見を共有。",
+    "title": "Satellite Power Delivery Architecture: From 28V to High-Voltage Bus",
+    "summary": "宇宙機の電力需要増大に伴い、衛星バスは28Vから高電圧化へ移行。キロワット級の電力供給に対応。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-utility-scale-gfm-inverters-solid-state-circuit-breakers-power-electronics-week-insights"
+        "url": "https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-from-28v-to-high-voltage-bus"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Satellite Power Delivery Architecture, Utility-Scale GFM Inverters, Solid-State Circuit Breakers: Power Electronics Week Insights",
-        "blurb": "衛星電力供給、大規模インバーター、固体回路ブレーカーの最新動向を解説。パワーエレクトロニクス分野の知見を共有。",
+        "title": "Satellite Power Delivery Architecture: From 28V to High-Voltage Bus",
+        "blurb": "宇宙機の電力需要増大に伴い、衛星バスは28Vから高電圧化へ移行。キロワット級の電力供給に対応。",
         "category": "business",
-        "date": "2026-06-20",
+        "date": "2026-06-19",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-utility-scale-gfm-inverters-solid-state-circuit-breakers-power-electronics-week-insights"
+          "url": "https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-from-28v-to-high-voltage-bus"
         },
         "field": null
+      },
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "アップルとインテル提携、アマゾンがAIチップ販売へ、CHIPS法資金提供など半導体業界の最新動向。",
+        "category": "business",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-143"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "ソニー初のLOFIC搭載スマホ用画像センサー 飽和電荷量10倍に",
+        "blurb": "ソニーがLOFIC構造をスマホ用画像センサーに初搭載。飽和電荷量を10倍に、ダイナミックレンジは100dBを実現。2026年夏に量産出荷開始。",
+        "category": "business",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news065.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "tools": [
       {
-        "title": "Smart Robots, ChipStack AI Super Agent, Building Simulink Models with Agentic AI: Embedded Week Insights",
-        "blurb": "AIエージェントがSimulinkモデル構築を支援。スマートロボットやCadenceのChipStack AI Super Agentなど、組み込み技術の最新動向を紹介。",
+        "title": "Line scan cameras: Fundamentals in focus",
+        "blurb": "ラインスキャンカメラは、一度に1ラインずつ高速に画像を記録する。従来のカメラとは異なり、フレーム全体を一度に捉えない。",
         "category": "tools",
-        "date": "2026-06-20",
+        "date": "2026-06-19",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/smart-robots-chipstack-ai-super-agent-building-simulink-models-with-agentic-ai-embedded-week-insights"
+          "name": "edn.com",
+          "url": "https://www.edn.com/line-scan-cameras-fundamentals-in-focus"
+        },
+        "field": null
+      },
+      {
+        "title": "A non-isolated SSR solves a not-so-simple “simple” power problem",
+        "blurb": "非絶縁型SSRが、従来の3線式を必要としていた電源供給問題を解決する。",
+        "category": "tools",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/a-non-isolated-ssr-solves-a-not-so-simple-simple-power-problem"
         },
         "field": null
       }
     ],
-    "company": [],
+    "company": [
+      {
+        "title": "Element Six, Orbray Advance Wafer-Scale Single Crystal Diamond",
+        "blurb": "Element SixとOrbray、ウェーハスケールの単結晶ダイヤモンド製造で進展。熱管理、RF電子機器、量子システム向けに量産可能に。",
+        "category": "company",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/element-six-orbray-advance-wafer-scale-single-crystal-diamond"
+        },
+        "field": {
+          "primary": "wafer",
+          "device": null,
+          "process": "wafer",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "最高速のガラス微細貫通穴加工技術を開発、理研",
+        "blurb": "理研とエンプラス研究所は、ガラスに超高速で高品質な微細貫通穴を加工する技術を開発。先端半導体デバイス製造への応用が期待される。",
+        "category": "company",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news042.html"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "3インチ単結晶ダイヤモンドウエハーの生産技術確立",
+        "blurb": "OrbrayとElement Sixが3インチ単結晶ダイヤモンドウエハーの生産技術を確立。4インチ開発に着手し、2インチ量産準備も最終段階。",
+        "category": "company",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news039.html"
+        },
+        "field": null
+      },
+      {
+        "title": "実装技術ロードマップの対象範囲と前版（2024年度版）との違い",
+        "blurb": "JEITAが「2026年度版 実装技術ロードマップ」を発表。国産技術の競争力や2024年度版との違いを解説。",
+        "category": "company",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news032.html"
+        },
+        "field": null
+      },
+      {
+        "title": "スラリー不要、水だけで研磨可能なガラス基板研磨パッド",
+        "blurb": "ノリタケは水だけで研磨可能なガラス基板用研磨パッド「AQUCERIA」を開発。産業廃棄物を90%削減しつつ、同等以上の研磨性能を実現した。",
+        "category": "company",
+        "date": "2026-06-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/19/news050.html"
+        },
+        "field": null
+      }
+    ],
     "sns": []
   }
 }

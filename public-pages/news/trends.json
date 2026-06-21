@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-21T06:31:10.159309+09:00",
-  "date": "2026-06-21",
+  "generated_at": "2026-06-22T06:31:37.510450+09:00",
+  "date": "2026-06-22",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の台頭",
+      "name": "GaNパワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,25 +12,23 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiC、GaNといった次世代パワー半導体の技術革新と採用拡大が加速。高効率化、小型化、高耐圧化が進む。",
+      "summary": "窒化ガリウム（GaN）技術が固体開閉装置、インバーター、電源管理など多岐にわたり採用され、性能向上と小型化を実現。",
       "analysis": {
-        "short_term": "SiC/GaN製品のラインナップ拡充と量産体制強化が進む。",
-        "mid_term": "EV、データセンター、産業機器での採用が本格化し、市場が拡大。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味が増す。"
+        "short_term": "PCIMでの発表多数、競争激化。製品投入が本格化。",
+        "mid_term": "車載、データセンター、産業機器での採用拡大が続く。",
+        "investment_implications": "GaN関連企業への投資妙味増大。技術優位性が鍵。"
       },
       "keywords": [
-        "SiC",
         "GaN",
-        "EV",
-        "データセンター",
-        "インバーター"
+        "パワー半導体",
+        "インバーター",
+        "電源"
       ],
       "companies_mentioned": [
-        "TSMC",
         "onsemi",
-        "東芝D&S",
-        "NIMS",
-        "EPC"
+        "EPC",
+        "東芝D＆S",
+        "NIMS"
       ]
     },
     {
@@ -40,48 +38,49 @@
       "related_fields": [
         "backend",
         "ai",
-        "datacenter",
-        "automotive"
+        "automotive",
+        "datacenter"
       ],
-      "summary": "ハイブリッドボンディング、パネルレベルパッケージング等の先端技術により、高密度実装と性能向上が実現。",
+      "summary": "ハイブリッドボンディング、パネルレベルパッケージング、3D集積技術が進展し、高密度化、高性能化、低コスト化を実現。",
       "analysis": {
-        "short_term": "AIチップ等、高性能・高密度実装ニーズに対応する技術開発が進む。",
-        "mid_term": "マルチチップ化が進み、パッケージング技術が性能向上の鍵となる。",
-        "investment_implications": "先端パッケージング関連企業に注目。"
+        "short_term": "AI需要増で高密度パッケージングへの期待高まる。",
+        "mid_term": "マルチダイ設計やAIアクセラレータで不可欠な技術に。",
+        "investment_implications": "後工程技術を持つ企業や、新材料開発企業に注目。"
       },
       "keywords": [
+        "パッケージング",
         "ハイブリッドボンディング",
-        "パネルレベルパッケージング",
-        "マルチチップ",
+        "3D集積",
         "AI"
       ],
       "companies_mentioned": [
         "ニコン",
         "ソニー",
-        "imec"
+        "imec",
+        "ケイデンス"
       ]
     },
     {
-      "name": "車載半導体の高度化と多様化",
+      "name": "車載半導体の高度化と信頼性向上",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "power",
-        "ai",
-        "logic"
+        "logic",
+        "analog"
       ],
-      "summary": "ADASのカメラ数増加、自動運転、電動化に対応するため、車載グレードの高性能・高信頼性半導体が求められる。",
+      "summary": "ADASのカメラ数増加や自動運転への対応で、車載グレードの信頼性を持つ高性能・小型・高効率な半導体への需要が増加。",
       "analysis": {
-        "short_term": "ADAS向けセンサー、プロセッサ、パワー半導体の需要が増加。",
-        "mid_term": "自動運転レベル向上に伴い、AI、高信頼性ICの重要性が増す。",
-        "investment_implications": "車載半導体メーカー、特にADAS・EV関連に投資機会。"
+        "short_term": "ADAS向けOBGAパッケージングソリューションが注目。",
+        "mid_term": "自動運転レベル向上に伴い、車載半導体の重要性が増す。",
+        "investment_implications": "車載向け半導体メーカー、特に高信頼性技術を持つ企業に投資妙味。"
       },
       "keywords": [
         "ADAS",
         "自動運転",
-        "EV",
-        "車載グレード"
+        "車載",
+        "信頼性"
       ],
       "companies_mentioned": [
         "TSMC",
@@ -90,35 +89,38 @@
       ]
     },
     {
-      "name": "AIチップ開発競争の激化",
+      "name": "AIによる半導体設計・製造の変革",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
-        "datacenter",
-        "fabless"
+        "frontend",
+        "backend",
+        "automotive"
       ],
-      "summary": "AI処理能力向上のため、各社が独自開発AIチップやCPU/GPU連携強化を進める。エッジAIも拡大。",
+      "summary": "AIチップの販売拡大に加え、AIが設計・歩留まり最適化・製造プロセス管理を支援し、半導体業界全体の効率化を推進。",
       "analysis": {
-        "short_term": "大手テック企業によるAIチップ開発・投入が加速。",
-        "mid_term": "AIチップ市場は多様化し、特定用途向けチップの需要が増加。",
-        "investment_implications": "AIチップ設計・製造関連企業に注目。"
+        "short_term": "エッジAI向けソリューションの展開が活発化。",
+        "mid_term": "AIによるEDA（半導体設計自動化）の進化が加速。",
+        "investment_implications": "AI技術と半導体技術の融合領域に成長機会。"
       },
       "keywords": [
-        "AIチップ",
-        "データセンター",
+        "AI",
         "エッジAI",
-        "NVIDIA"
+        "設計自動化",
+        "歩留まり"
       ],
       "companies_mentioned": [
-        "アップル",
         "アマゾン",
-        "NVIDIA"
+        "NVIDIA",
+        "ケイデンス",
+        "ホンダ",
+        "NTT"
       ]
     },
     {
-      "name": "新素材・新構造による性能向上",
+      "name": "新素材・新構造による性能限界突破",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
@@ -127,41 +129,46 @@
         "power",
         "frontend"
       ],
-      "summary": "単結晶ダイヤモンド、GAA、垂直構造などの新素材・新構造が、熱管理、性能、製造効率向上に貢献。",
+      "summary": "単結晶ダイヤモンド、SiC、GaN、GAA、裏面接続などの新素材・新構造が、熱管理、高効率化、高密度化に貢献。",
       "analysis": {
-        "short_term": "新素材・構造の量産技術確立に向けた研究開発が進展。",
-        "mid_term": "先端デバイスの性能限界を打破する鍵となる可能性。",
-        "investment_implications": "新素材・構造関連技術を持つ企業に注目。"
+        "short_term": "ウェーハスケール単結晶ダイヤモンド製造に注目。",
+        "mid_term": "先端ロジックやパワーデバイスでの採用が拡大。",
+        "investment_implications": "素材開発や新構造実装に強みを持つ企業が競争優位。"
       },
       "keywords": [
-        "単結晶ダイヤモンド",
+        "ダイヤモンド",
+        "SiC",
+        "GaN",
         "GAA",
-        "垂直構造",
-        "新素材"
+        "裏面接続"
       ],
       "companies_mentioned": [
         "Element Six",
         "Orbray",
+        "TSMC",
         "Intel",
+        "ソニー",
+        "imec",
         "NIMS"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体（SiC/GaN）の需要拡大",
-      "AI・データセンター向け高性能半導体の需要増",
-      "車載半導体市場の成長継続",
-      "先端パッケージング技術の重要性向上"
+      "GaNパワー半導体の需要拡大と技術進化",
+      "先端パッケージング技術による高性能化・小型化",
+      "車載半導体の高性能化・高信頼性化への投資活発化",
+      "AIによる半導体設計・製造プロセスの効率化",
+      "新素材・新構造による性能限界突破への期待"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "メモリ市場の価格変動リスク"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "先端ロジック製造における歩留まり改善の課題"
     ],
     "neutral": [
-      "CHIPS法等の政府支援策の効果",
-      "半導体製造装置市場の動向"
+      "CHIPS法による国内投資促進の効果",
+      "メモリ市場の回復動向"
     ]
   },
-  "source_count": 35
+  "source_count": 31
 }
