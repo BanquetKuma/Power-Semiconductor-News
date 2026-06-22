@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-22T06:31:37.510450+09:00",
-  "date": "2026-06-22",
+  "generated_at": "2026-06-23T06:44:12.123683+09:00",
+  "date": "2026-06-23",
   "meta_trends": [
     {
-      "name": "GaNパワー半導体の普及加速",
+      "name": "SiC/GaNパワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,163 +12,173 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "窒化ガリウム（GaN）技術が固体開閉装置、インバーター、電源管理など多岐にわたり採用され、性能向上と小型化を実現。",
+      "summary": "SiCおよびGaNパワー半導体の性能向上、コスト低減が進み、EV、データセンター、産業機器など幅広い分野での採用が加速している。",
       "analysis": {
-        "short_term": "PCIMでの発表多数、競争激化。製品投入が本格化。",
-        "mid_term": "車載、データセンター、産業機器での採用拡大が続く。",
-        "investment_implications": "GaN関連企業への投資妙味増大。技術優位性が鍵。"
+        "short_term": "新製品投入と競争激化で需要拡大。供給体制が鍵。",
+        "mid_term": "車載、データセンター向け需要が牽引。技術革新で用途拡大。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
       },
       "keywords": [
+        "SiC",
         "GaN",
-        "パワー半導体",
-        "インバーター",
-        "電源"
+        "EV",
+        "データセンター",
+        "パワー半導体"
       ],
       "companies_mentioned": [
-        "onsemi",
+        "Microchip",
+        "ROHM",
+        "TSMC",
         "EPC",
-        "東芝D＆S",
-        "NIMS"
+        "NIMS",
+        "東芝D&S"
       ]
     },
     {
-      "name": "先端パッケージング技術の進化",
+      "name": "車載半導体の高性能化・高信頼化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "ai",
         "automotive",
-        "datacenter"
+        "power",
+        "logic",
+        "analog",
+        "image"
       ],
-      "summary": "ハイブリッドボンディング、パネルレベルパッケージング、3D集積技術が進展し、高密度化、高性能化、低コスト化を実現。",
+      "summary": "電動化・自動運転化の進展に伴い、車載向け半導体には高電圧対応、高信頼性、小型化、熱効率向上が求められている。",
       "analysis": {
-        "short_term": "AI需要増で高密度パッケージングへの期待高まる。",
-        "mid_term": "マルチダイ設計やAIアクセラレータで不可欠な技術に。",
-        "investment_implications": "後工程技術を持つ企業や、新材料開発企業に注目。"
+        "short_term": "車載グレード製品の投入が活発化。供給安定性が重要。",
+        "mid_term": "ADAS、インフォテインメント向け需要が堅調に推移。",
+        "investment_implications": "車載半導体メーカー、サプライヤーに注目。"
       },
       "keywords": [
-        "パッケージング",
-        "ハイブリッドボンディング",
-        "3D集積",
-        "AI"
+        "車載",
+        "EV",
+        "ADAS",
+        "MOSFET",
+        "高信頼性"
       ],
       "companies_mentioned": [
-        "ニコン",
-        "ソニー",
-        "imec",
-        "ケイデンス"
+        "ROHM",
+        "Microchip",
+        "TSMC",
+        "ソニー"
       ]
     },
     {
-      "name": "車載半導体の高度化と信頼性向上",
+      "name": "AI・HPC向け先端プロセス・アーキテクチャ",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
-        "power",
-        "logic",
-        "analog"
-      ],
-      "summary": "ADASのカメラ数増加や自動運転への対応で、車載グレードの信頼性を持つ高性能・小型・高効率な半導体への需要が増加。",
-      "analysis": {
-        "short_term": "ADAS向けOBGAパッケージングソリューションが注目。",
-        "mid_term": "自動運転レベル向上に伴い、車載半導体の重要性が増す。",
-        "investment_implications": "車載向け半導体メーカー、特に高信頼性技術を持つ企業に投資妙味。"
-      },
-      "keywords": [
-        "ADAS",
-        "自動運転",
-        "車載",
-        "信頼性"
-      ],
-      "companies_mentioned": [
-        "TSMC",
-        "ケイデンス",
-        "ホンダ"
-      ]
-    },
-    {
-      "name": "AIによる半導体設計・製造の変革",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
         "ai",
+        "datacenter",
         "logic",
-        "frontend",
-        "backend",
-        "automotive"
+        "memory",
+        "foundry"
       ],
-      "summary": "AIチップの販売拡大に加え、AIが設計・歩留まり最適化・製造プロセス管理を支援し、半導体業界全体の効率化を推進。",
+      "summary": "AI/HPCの計算能力向上と効率化のため、先端リソグラフィ、3D積層、低遅延アーキテクチャ、メモリ技術革新が進む。",
       "analysis": {
-        "short_term": "エッジAI向けソリューションの展開が活発化。",
-        "mid_term": "AIによるEDA（半導体設計自動化）の進化が加速。",
-        "investment_implications": "AI技術と半導体技術の融合領域に成長機会。"
+        "short_term": "高NA EUVマスクコストが課題。先端プロセス競争激化。",
+        "mid_term": "データセンター、HPC向け需要が拡大。新アーキテクチャ採用進む。",
+        "investment_implications": "先端プロセス、AIチップ関連企業に投資機会。"
       },
       "keywords": [
         "AI",
-        "エッジAI",
-        "設計自動化",
-        "歩留まり"
+        "HPC",
+        "EUV",
+        "3D積層",
+        "データセンター"
       ],
       "companies_mentioned": [
-        "アマゾン",
-        "NVIDIA",
-        "ケイデンス",
-        "ホンダ",
-        "NTT"
+        "TSMC",
+        "AMD",
+        "Apple",
+        "Intel",
+        "Amazon",
+        "imec"
       ]
     },
     {
-      "name": "新素材・新構造による性能限界突破",
-      "confidence": 0.75,
+      "name": "新材料・新構造による性能向上",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "wafer",
-        "logic",
         "power",
-        "frontend"
+        "logic",
+        "frontend",
+        "backend"
       ],
-      "summary": "単結晶ダイヤモンド、SiC、GaN、GAA、裏面接続などの新素材・新構造が、熱管理、高効率化、高密度化に貢献。",
+      "summary": "ダイヤモンド、酸化ガリウム、GaNなど新材料や、原子レベル加工、3D積層などの新構造技術が、次世代半導体の性能向上を支える。",
       "analysis": {
-        "short_term": "ウェーハスケール単結晶ダイヤモンド製造に注目。",
-        "mid_term": "先端ロジックやパワーデバイスでの採用が拡大。",
-        "investment_implications": "素材開発や新構造実装に強みを持つ企業が競争優位。"
+        "short_term": "材料開発とプロセス技術の進展が鍵。実用化に向けた課題も。",
+        "mid_term": "熱管理、RF、量子システムなど特定分野での応用が進む。",
+        "investment_implications": "先端材料・プロセス技術を持つ企業に注目。"
       },
       "keywords": [
         "ダイヤモンド",
-        "SiC",
+        "酸化ガリウム",
         "GaN",
-        "GAA",
-        "裏面接続"
+        "原子レベル加工",
+        "3D積層"
       ],
       "companies_mentioned": [
         "Element Six",
         "Orbray",
-        "TSMC",
-        "Intel",
+        "NIMS",
+        "理研",
+        "東工大",
         "ソニー",
-        "imec",
-        "NIMS"
+        "imec"
+      ]
+    },
+    {
+      "name": "半導体製造プロセスの高度化と自動化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "equipment",
+        "frontend",
+        "backend",
+        "ai",
+        "industrial"
+      ],
+      "summary": "原子レベルプラズマ加工、AIによる製造工程管理、ガラス基板加工技術など、製造プロセスの精度向上と効率化が進む。",
+      "analysis": {
+        "short_term": "AI活用による歩留まり向上、コスト削減への期待。",
+        "mid_term": "高度な製造装置、プロセス技術が競争優位性を確立。",
+        "investment_implications": "製造装置、プロセス技術関連企業に投資機会。"
+      },
+      "keywords": [
+        "プラズマ加工",
+        "AI",
+        "製造装置",
+        "歩留まり",
+        "自動化"
+      ],
+      "companies_mentioned": [
+        "名古屋大学",
+        "東レリサーチセンター",
+        "理研",
+        "エンプラス研究所"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "GaNパワー半導体の需要拡大と技術進化",
-      "先端パッケージング技術による高性能化・小型化",
-      "車載半導体の高性能化・高信頼性化への投資活発化",
-      "AIによる半導体設計・製造プロセスの効率化",
-      "新素材・新構造による性能限界突破への期待"
+      "世界半導体市場が初の単月1000億ドル超え（2026年4月）",
+      "SiC/GaNパワー半導体の需要拡大と競争激化",
+      "車載半導体市場の堅調な成長",
+      "AI/HPC向け先端半導体への投資活発化"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "先端ロジック製造における歩留まり改善の課題"
+      "高NA EUVマスクコストの上昇",
+      "DRAM内処理における潜在的な脆弱性（PuDGhost）"
     ],
     "neutral": [
-      "CHIPS法による国内投資促進の効果",
-      "メモリ市場の回復動向"
+      "MIPSプロセッサにおけるタイミング漏洩の脆弱性（MIPSBLEED）",
+      "半導体チップのメモリテスト・修理の重要性増大"
     ]
   },
-  "source_count": 31
+  "source_count": 37
 }

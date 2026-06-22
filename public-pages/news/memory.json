@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-06-19T06:43:43.276577+09:00",
+  "generated_at": "2026-06-23T06:44:06.847636+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AMDがメモリ最適化技術の新興を買収　「メモリの壁」を打破できるか",
-    "summary": "AMDが予測型メモリ技術の新興MEXTを買収。NANDフラッシュをDRAMのように動作させ、性能維持・コスト削減・容量拡大を目指す。",
+    "title": "Interference Risks In Processing-Using-DRAM (U. of Tokyo, ETH Zurich, CISPA, Riken)",
+    "summary": "東大などの研究チームが、DRAM内処理で計算結果が破損する「PuDGhost」を発見。将来システムへの影響が懸念される。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news115.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/pudghost-reveals-interference-risks-in-processing-using-dram"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "AMDがメモリ最適化技術の新興を買収　「メモリの壁」を打破できるか",
-        "blurb": "AMDが予測型メモリ技術の新興MEXTを買収。NANDフラッシュをDRAMのように動作させ、性能維持・コスト削減・容量拡大を目指す。",
-        "category": "business",
-        "date": "2026-06-18",
+        "title": "Interference Risks In Processing-Using-DRAM (U. of Tokyo, ETH Zurich, CISPA, Riken)",
+        "blurb": "東大などの研究チームが、DRAM内処理で計算結果が破損する「PuDGhost」を発見。将来システムへの影響が懸念される。",
+        "category": "company",
+        "date": "2026-06-23",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news115.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/pudghost-reveals-interference-risks-in-processing-using-dram"
         },
         "field": {
           "primary": "memory",
@@ -36,6 +34,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

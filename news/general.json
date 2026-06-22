@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-06-19T06:43:43.278835+09:00",
+  "generated_at": "2026-06-23T06:44:06.849409+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data",
-    "summary": "半導体製造において、より高いパターン忠実性とILT採用のため、曲線マスク技術への移行圧力が高まっている。",
+    "title": "Advancements In Atomic-Scale Plasma Processing",
+    "summary": "名古屋大学などの研究チームが、半導体製造に不可欠な原子レベルのプラズマ加工技術の進展を発表しました。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/a-new-fracture-engine-for-curvilinear-masks-and-multigon-mask-data"
+        "url": "https://semiengineering.com/advancements-in-atomic-scale-plasma-processing"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "6500V定格圧接型IEGTチップを開発、東芝D＆S",
-        "blurb": "東芝D＆Sは、高耐圧・高遮断性能の6500V圧接型IEGTチップを開発。変換装置の高電圧化・小型化に貢献。",
+        "title": "Event-Driven RL Targets Long-Horizon Fab Control",
+        "blurb": "半導体製造の長期間制御に、イベント駆動型強化学習フレームワークを提案。多目的最適化で複雑な工程を管理。",
         "category": "company",
-        "date": "2026-06-18",
+        "date": "2026-06-22",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news034.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/event-driven-rl-targets-long-horizon-fab-control"
         },
         "field": {
           "primary": "general",
@@ -35,14 +35,50 @@
         }
       },
       {
-        "title": "ソニーとimec、次世代3D集積向け裏面接続技術を開発",
-        "blurb": "ソニーとimecが次世代3D集積向け高密度裏面接続技術を開発。半導体技術の進展に貢献。",
+        "title": "半導体デバイス内部における電流の通り道を可視化",
+        "blurb": "東レリサーチセンターが、半導体デバイス内部の電流経路を可視化する新サービスを開始。性能ばらつきや不良原因の解析に貢献。",
         "category": "company",
-        "date": "2026-06-18",
+        "date": "2026-06-22",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news063.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/22/news024.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "次世代チップ積層に関する3つの基盤技術を開発",
+        "blurb": "東工大は次世代AI向け高密度半導体集積技術「BBCube」のため、産学連携で「実装・接続・熱設計」の基盤技術を開発した。",
+        "category": "company",
+        "date": "2026-06-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/22/news022.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Advancements In Atomic-Scale Plasma Processing",
+        "blurb": "名古屋大学などの研究チームが、半導体製造に不可欠な原子レベルのプラズマ加工技術の進展を発表しました。",
+        "category": "company",
+        "date": "2026-06-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/advancements-in-atomic-scale-plasma-processing"
         },
         "field": {
           "primary": "general",
@@ -55,14 +91,14 @@
     ],
     "tech": [
       {
-        "title": "How to Create Efficient Bump and TSV Plans for Multi-Die Designs",
-        "blurb": "マルチチップ設計向けに、バンプとTSVの計画、可視化、分析を自動化し、生産性を向上させる方法。",
+        "title": "Timing Leaks In Embedded MIPS Processors (Rochester)",
+        "blurb": "MIPSプロセッサに潜むタイミング漏洩の脆弱性「MIPSBLEED」が発見された。SMT機能が悪用され、情報漏洩の恐れがある。",
         "category": "tools",
-        "date": "2026-06-18",
+        "date": "2026-06-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-to-create-efficient-bump-and-tsv-plans-for-multi-die-designs"
+          "url": "https://semiengineering.com/timing-leaks-in-embedded-mips-processors"
         },
         "field": {
           "primary": "general",
@@ -73,14 +109,14 @@
         }
       },
       {
-        "title": "Synopsys Launches Multiphysics Fusion Solutions",
-        "blurb": "シノプシスが、半導体設計にマルチフィジックス解析を統合するEDAツールを発表。AI技術とAnsys買収技術を組み合わせ、先端プロセスノードの設計課題に対応。",
+        "title": "Tool-Assisted LLM Targets RTL Code Generation (UC Riverside, Futurewei)",
+        "blurb": "UCリバーサイドとFutureweiが、RTLコード生成に特化したLLM「LLM4RTL」を発表。ソフトウェア開発の進歩に貢献。",
         "category": "tools",
-        "date": "2026-06-18",
+        "date": "2026-06-22",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/synopsys-launches-multiphysics-fusion-solutions"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/tool-assisted-llm-targets-rtl-code-generation-uc-riverside-futurewei"
         },
         "field": {
           "primary": "general",
@@ -91,14 +127,14 @@
         }
       },
       {
-        "title": "SIGLENT’s New AWG Combines RF Synthesis, IQ Modulation, and Sequencing",
-        "blurb": "SIGLENTの新AWG、SDG8000AはRF合成、IQ変調、シーケンス機能を統合。5GHz直接出力とベクトル信号生成で無線・半導体・高速デジタルテストに対応。",
+        "title": "Atom Probe Framework Tracks Phase Instability In Si-Doped Gallium Oxide (SUNY, Ohio State, LLNL)",
+        "blurb": "シリコン添加酸化ガリウムの相不安定性を原子探針で追跡。構造信頼性向上に貢献する可能性。",
         "category": "tools",
-        "date": "2026-06-18",
+        "date": "2026-06-23",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/siglents-new-awg-combines-rf-synthesis-iq-modulation-and-sequencing"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/atom-probe-framework-tracks-phase-instability-in-si-doped-gallium-oxide-suny-ohio-state-llnl"
         },
         "field": {
           "primary": "general",
@@ -111,14 +147,14 @@
     ],
     "market": [
       {
-        "title": "A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data",
-        "blurb": "半導体製造において、より高いパターン忠実性とILT採用のため、曲線マスク技術への移行圧力が高まっている。",
+        "title": "Will Your Chip’s Memory Work As Expected?",
+        "blurb": "半導体チップのメモリが期待通りに動作するか、テストと修理で確認する方法。",
         "category": "business",
-        "date": "2026-06-18",
+        "date": "2026-06-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-new-fracture-engine-for-curvilinear-masks-and-multigon-mask-data"
+          "url": "https://semiengineering.com/will-your-chips-memory-work-as-expected"
         },
         "field": {
           "primary": "general",
@@ -129,32 +165,14 @@
         }
       },
       {
-        "title": "Automated 310mm Panel-Level Packaging to Accelerate AI Innovation: Tech Brief",
-        "blurb": "AI革新を加速する310mmパネルレベルパッケージングの自動化。高スループット、短サイクルタイム、低コスト化を実現。",
+        "title": "世界半導体市場が初の単月1000億ドル超え、26年4月",
+        "blurb": "2026年4月の世界半導体市場は前年同月比93.9%増の1105億ドルとなり、初の単月1000億ドル超えを記録した。",
         "category": "business",
-        "date": "2026-06-18",
+        "date": "2026-06-22",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/automated-310mm-panel-level-packaging-to-accelerate-ai-innovation-tech-brief"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Making On-Chip Photonics Manufacturable",
-        "blurb": "オンチップフォトニクス製造の実現には、フロントエンド、パッケージング、熱管理、材料、テストの連携進化が必要。AIが光学をロジックに近づける。",
-        "category": "business",
-        "date": "2026-06-18",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/making-on-chip-photonics-manufacturable"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/22/news117.html"
         },
         "field": {
           "primary": "general",

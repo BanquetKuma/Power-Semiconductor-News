@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-06-18T06:40:24.004712+09:00",
+  "generated_at": "2026-06-23T06:44:06.848522+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "How to Build Simulink Models with Agentic AI",
-    "summary": "MathWorksは、エージェンティックAIとMATLAB MCP Serverを使用し、Simulinkモデルを構築する実験を実演しました。",
+    "title": "Cloud HPC For AI: Addressing Latency, Cost, And Scale At The Architectural Level",
+    "summary": "AI向けクラウドHPCは、低遅延ファブリック、トポロジー認識スケジューリング、階層メモリでデータと計算を近づけ、オーバーヘッドを削減。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/how-to-build-simulink-models-with-agentic-ai"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/cloud-hpc-for-ai-addressing-latency-cost-and-scale-at-the-architectural-level"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "How to Build Simulink Models with Agentic AI",
-        "blurb": "MathWorksは、エージェンティックAIとMATLAB MCP Serverを使用し、Simulinkモデルを構築する実験を実演しました。",
-        "category": "tools",
-        "date": "2026-06-17",
+        "title": "ルネサスが米ソフト会社買収　「Renesas 365」の設計機能強化",
+        "blurb": "ルネサスが米ソフト会社Pictorusを買収。クラウド技術を「Renesas 365」に統合し、開発効率化を目指す。",
+        "category": "company",
+        "date": "2026-06-22",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/how-to-build-simulink-models-with-agentic-ai"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/22/news081.html"
         },
         "field": {
           "primary": "datacenter",
@@ -36,6 +35,26 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "Cloud HPC For AI: Addressing Latency, Cost, And Scale At The Architectural Level",
+        "blurb": "AI向けクラウドHPCは、低遅延ファブリック、トポロジー認識スケジューリング、階層メモリでデータと計算を近づけ、オーバーヘッドを削減。",
+        "category": "business",
+        "date": "2026-06-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/cloud-hpc-for-ai-addressing-latency-cost-and-scale-at-the-architectural-level"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ]
   }
 }

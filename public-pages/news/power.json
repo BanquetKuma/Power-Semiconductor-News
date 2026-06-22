@@ -1,31 +1,68 @@
 {
-  "generated_at": "2026-06-19T06:43:43.276283+09:00",
+  "generated_at": "2026-06-23T06:44:06.847327+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "GaN Power Devices Go Vertical",
-    "summary": "窒化ガリウム（GaN）パワーデバイスの垂直構造化により、製造上の課題克服への道が開かれる。",
+    "title": "ROHM Launches AG16xFNxx 80V MOSFET Series",
+    "summary": "ROHMは、車載48Vアーキテクチャ向けに、小型・高電流・AEC-Q101対応の80V MOSFETシリーズ「AG16xFNxx」を発売した。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/gan-power-devices-go-vertical"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/rohm-launches-ag16xfnxx-80v-mosfet-series"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "PCIM 2026: Microchip’s Nitesh Satheesh on the New 3.3kV Module and Closing the SiC Power Gap",
+        "blurb": "マイクロチップ、新3.3kVモジュール発表。AI電源変換でSSTモジュール数を半減。SiCパワーギャップを埋める。",
+        "category": "company",
+        "date": "2026-06-22",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/pcim-2026-microchips-nitesh-satheesh-on-the-new-3-3kv-module-and-closing-the-sic-power-gap"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ROHM Launches AG16xFNxx 80V MOSFET Series",
+        "blurb": "ROHMは、車載48Vアーキテクチャ向けに、小型・高電流・AEC-Q101対応の80V MOSFETシリーズ「AG16xFNxx」を発売した。",
+        "category": "company",
+        "date": "2026-06-23",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/rohm-launches-ag16xfnxx-80v-mosfet-series"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
-        "title": "GaN inverter board drives compact BLDC motors",
-        "blurb": "EPCのGaNベース三相インバータ評価ボード「EPC99132」は、ドローンやロボット手首向け小型BLDCモーター駆動に最適です。",
+        "title": "Power Tips #154: Finding the thermal and current limits of high-power GaN devices through simulation",
+        "blurb": "高出力GaNデバイスの熱・電流限界をシミュレーションで特定する手法を解説。熱抵抗解析と電力損失計算が熱設計の理論的基礎となる。",
         "category": "tools",
-        "date": "2026-06-18",
+        "date": "2026-06-22",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/gan-inverter-board-drives-compact-bldc-motors"
+          "url": "https://www.edn.com/power-tips-154-finding-the-thermal-and-current-limits-of-high-power-gan-devices-through-simulation"
         },
         "field": {
           "primary": "power",
@@ -38,32 +75,14 @@
     ],
     "market": [
       {
-        "title": "GaN Power Devices Go Vertical",
-        "blurb": "窒化ガリウム（GaN）パワーデバイスの垂直構造化により、製造上の課題克服への道が開かれる。",
+        "title": "Partnerships to Drive WBG Semiconductor Innovations",
+        "blurb": "欧州でSiC・GaNパワー半導体技術革新加速へ、複数企業が提携を発表。",
         "category": "business",
-        "date": "2026-06-18",
+        "date": "2026-06-23",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/gan-power-devices-go-vertical"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "PCIMで感じたGaNパワー半導体競争の変化",
-        "blurb": "PCIMでGaNパワー半導体の競争激化が顕著に。数年前からの注目がさらに高まった。",
-        "category": "business",
-        "date": "2026-06-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/18/news062.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/partnerships-to-drive-wbg-semiconductor-innovations"
         },
         "field": {
           "primary": "power",
