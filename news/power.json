@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-06-23T06:44:06.847327+09:00",
+  "generated_at": "2026-06-24T06:35:09.862447+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ROHM Launches AG16xFNxx 80V MOSFET Series",
-    "summary": "ROHMは、車載48Vアーキテクチャ向けに、小型・高電流・AEC-Q101対応の80V MOSFETシリーズ「AG16xFNxx」を発売した。",
+    "title": "SiC-Based 500 kW/l Inverter Built on AMB Chip Embedding",
+    "summary": "フラウンホーファーIZMは、AMBチップ埋め込み技術で高電力密度を実現した500kW/lのSiCインバーターモジュールを開発しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/rohm-launches-ag16xfnxx-80v-mosfet-series"
+        "url": "https://www.powerelectronicsnews.com/sic-based-500-kw-l-inverter-built-on-amb-chip-embedding"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "PCIM 2026: Microchip’s Nitesh Satheesh on the New 3.3kV Module and Closing the SiC Power Gap",
-        "blurb": "マイクロチップ、新3.3kVモジュール発表。AI電源変換でSSTモジュール数を半減。SiCパワーギャップを埋める。",
+        "title": "SiC-Based 500 kW/l Inverter Built on AMB Chip Embedding",
+        "blurb": "フラウンホーファーIZMは、AMBチップ埋め込み技術で高電力密度を実現した500kW/lのSiCインバーターモジュールを開発しました。",
         "category": "company",
-        "date": "2026-06-22",
+        "date": "2026-06-23",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/pcim-2026-microchips-nitesh-satheesh-on-the-new-3-3kv-module-and-closing-the-sic-power-gap"
+          "url": "https://www.powerelectronicsnews.com/sic-based-500-kw-l-inverter-built-on-amb-chip-embedding"
         },
         "field": {
           "primary": "power",
@@ -36,10 +36,10 @@
       },
       {
         "title": "ROHM Launches AG16xFNxx 80V MOSFET Series",
-        "blurb": "ROHMは、車載48Vアーキテクチャ向けに、小型・高電流・AEC-Q101対応の80V MOSFETシリーズ「AG16xFNxx」を発売した。",
+        "blurb": "The new 80V MOSFETs for automotive 48V architectures deliver compact packaging, high current capability, and AEC-Q101 qu",
         "category": "company",
         "date": "2026-06-23",
-        "stars": 3,
+        "stars": 2,
         "source": {
           "name": "powerelectronicsnews.com",
           "url": "https://www.powerelectronicsnews.com/rohm-launches-ag16xfnxx-80v-mosfet-series"
@@ -53,16 +53,17 @@
         }
       }
     ],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "Power Tips #154: Finding the thermal and current limits of high-power GaN devices through simulation",
-        "blurb": "高出力GaNデバイスの熱・電流限界をシミュレーションで特定する手法を解説。熱抵抗解析と電力損失計算が熱設計の理論的基礎となる。",
-        "category": "tools",
-        "date": "2026-06-22",
+        "title": "「まだ革新の余地」プレーナー技術を磨くWolfspeed、第5世代SiC MOSFET投入",
+        "blurb": "Wolfspeedは第5世代SiC MOSFETを発表。1200V品で業界最低クラスのオン抵抗と高温時の安定性を実現した。",
+        "category": "business",
+        "date": "2026-06-23",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/power-tips-154-finding-the-thermal-and-current-limits-of-high-power-gan-devices-through-simulation"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/23/news074.html"
         },
         "field": {
           "primary": "power",
@@ -71,24 +72,22 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "market": [
+      },
       {
-        "title": "Partnerships to Drive WBG Semiconductor Innovations",
-        "blurb": "欧州でSiC・GaNパワー半導体技術革新加速へ、複数企業が提携を発表。",
+        "title": "車載は「新たな成長段階に」　SiCパワー半導体市場、5年後110億ドル規模へ",
+        "blurb": "SiCパワー半導体市場はEV普及で年20%成長、2031年には110億ドル規模へ。車載用途が成長を牽引。",
         "category": "business",
         "date": "2026-06-23",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/partnerships-to-drive-wbg-semiconductor-innovations"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/23/news072.html"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
       }
