@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-06-20T06:27:49.404100+09:00",
+  "generated_at": "2026-06-25T06:32:48.257246+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Week In Review",
-    "summary": "アップルとインテル提携、アマゾンがAIチップ販売へ、CHIPS法資金提供など半導体業界の最新動向。",
+    "title": "Automate the Pain Away: HW/SW Interface Design Methodology",
+    "summary": "接続された設計手法により、SoCライフサイクル全体で一貫性を保ちながら開発を加速できる。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-week-in-review-143"
+        "url": "https://semiengineering.com/automate-the-pain-away-hw-sw-interface-design-methodology"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Chip Industry Week In Review",
-        "blurb": "アップルとインテル提携、アマゾンがAIチップ販売へ、CHIPS法資金提供など半導体業界の最新動向。",
-        "category": "business",
-        "date": "2026-06-19",
+        "title": "AmazonはNVIDIAに挑戦状を突きつけるのか",
+        "blurb": "世界最大のハイパースケーラーであるAWSは、AIアクセラレーターを大規模に販売することで、半導体市場の好機を捉えようとしているのだろうか。",
+        "category": "company",
+        "date": "2026-06-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/24/news039.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Automate the Pain Away: HW/SW Interface Design Methodology",
+        "blurb": "接続された設計手法により、SoCライフサイクル全体で一貫性を保ちながら開発を加速できる。",
+        "category": "tools",
+        "date": "2026-06-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-143"
+          "url": "https://semiengineering.com/automate-the-pain-away-hw-sw-interface-design-methodology"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": "fabless"
+          "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

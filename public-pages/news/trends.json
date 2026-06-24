@@ -1,89 +1,95 @@
 {
-  "generated_at": "2026-06-24T06:35:15.177104+09:00",
-  "date": "2026-06-24",
+  "generated_at": "2026-06-25T06:32:53.869225+09:00",
+  "date": "2026-06-25",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体の急成長",
+      "name": "SiCパワー半導体の成長加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "industrial"
+        "datacenter"
       ],
-      "summary": "SiCパワー半導体はEV普及を背景に年20%成長し、2031年には110億ドル規模へ。高電力密度化も進む。",
+      "summary": "EV普及とデータセンター需要増を背景に、SiCパワー半導体市場が急速に拡大。高電力密度、高効率化が求められている。",
       "analysis": {
-        "short_term": "需要増で供給逼迫の可能性。価格上昇圧力。",
-        "mid_term": "技術革新と生産能力増強が鍵。競合激化も。",
-        "investment_implications": "SiC材料・デバイスメーカーに注目。EV関連株も恩恵。"
+        "short_term": "需要増が継続し、供給体制の強化が急務となる。",
+        "mid_term": "車載向けを中心に市場は拡大し、技術革新が続く。",
+        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味が高い。"
       },
       "keywords": [
         "SiC",
         "EV",
         "インバーター",
-        "高電力密度"
+        "データセンター"
       ],
       "companies_mentioned": [
+        "Infineon",
         "ROHM",
-        "マイクロチップ",
+        "Microchip",
         "Wolfspeed"
       ]
     },
     {
-      "name": "AI・HPC向けインフラ進化",
+      "name": "AI開発・最適化の加速",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "logic",
         "datacenter",
-        "memory",
-        "equipment"
+        "frontend",
+        "backend"
       ],
-      "summary": "AI向けクラウドHPCは低遅延化、データと計算の近接化が進む。メモリ技術の重要性が増す。",
+      "summary": "AIのスケーリング、チップレット標準化、物理現象の推論、HW/SWインターフェース設計自動化など、AI開発・最適化を加速する技術が進展。",
       "analysis": {
-        "short_term": "データセンター投資活発化。高性能CPU/GPU需要増。",
-        "mid_term": "新アーキテクチャ、新メモリ技術の採用加速。",
-        "investment_implications": "データセンター関連、AIチップ、メモリメーカーに投資妙味。"
+        "short_term": "AIアクセラレーター市場の競争激化が予想される。",
+        "mid_term": "AI開発効率化ツールや基盤モデルの重要性が増す。",
+        "investment_implications": "AIチップメーカー、開発ツール関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "HPC",
-        "データセンター",
-        "低遅延",
-        "メモリ"
+        "チップレット",
+        "基盤モデル",
+        "開発効率化"
       ],
       "companies_mentioned": [
-        "ルネサス"
+        "NVIDIA",
+        "AWS",
+        "UCIe",
+        "BoW"
       ]
     },
     {
-      "name": "先端リソグラフィ技術の進化と課題",
-      "confidence": 0.8,
+      "name": "先端パッケージング技術の進化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "equipment",
-        "wafer"
+        "miniaturization",
+        "backend",
+        "logic",
+        "datacenter"
       ],
-      "summary": "高NA EUVリソグラフィの導入が進む一方、マスクコストや技術的課題が顕在化。",
+      "summary": "チップレット化の進展や高密度実装ニーズに対応するため、配線微細化、反り・割れ抑制、歩留まり向上を実現する先端パッケージング技術が重要化。",
       "analysis": {
-        "short_term": "高NA EUV導入に向けた技術開発競争激化。",
-        "mid_term": "マスク経済性、歩留まり改善が普及の鍵。",
-        "investment_implications": "リソグラフィ装置メーカー、マスク関連企業に注目。"
+        "short_term": "先端パッケージ基板の需要が堅調に推移する。",
+        "mid_term": "パッケージング技術がデバイス性能向上の鍵となる。",
+        "investment_implications": "先端パッケージ基板・材料メーカーに投資機会。"
       },
       "keywords": [
-        "EUV",
-        "リソグラフィ",
-        "マスク",
-        "高NA"
+        "チップレット",
+        "パッケージング",
+        "配線微細化",
+        "セラミックコア基板"
       ],
       "companies_mentioned": [
-        "ウシオ電機"
+        "京セラ",
+        "エレファンテック"
       ]
     },
     {
-      "name": "新素材・新構造による性能向上",
-      "confidence": 0.85,
+      "name": "新材料・新構造による性能向上",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "power",
@@ -91,20 +97,20 @@
         "analog",
         "miniaturization"
       ],
-      "summary": "SiC、単結晶ダイヤモンド、新画素構造、メタサーフェスなど新素材・構造が性能向上を牽引。",
+      "summary": "GaN、SiC、単結晶ダイヤモンドなどの新材料や、画素構造、メタサーフェスなどの新構造により、デバイスの性能向上や小型化が進む。",
       "analysis": {
-        "short_term": "各分野での技術実証・製品化が進む。",
-        "mid_term": "量産化とコスト低減が普及の鍵。",
-        "investment_implications": "先端材料・デバイス開発企業に成長期待。"
+        "short_term": "新材料・新構造の採用が加速し、差別化要因となる。",
+        "mid_term": "熱管理、RF、量子システムなど応用分野が拡大する。",
+        "investment_implications": "新材料・新構造開発企業への投資を検討。"
       },
       "keywords": [
+        "GaN",
         "SiC",
-        "ダイヤモンド",
-        "新画素構造",
+        "単結晶ダイヤモンド",
         "メタサーフェス"
       ],
       "companies_mentioned": [
-        "フラウンホーファーIZM",
+        "Infineon",
         "Element Six",
         "Orbray",
         "ソニー",
@@ -112,46 +118,45 @@
       ]
     },
     {
-      "name": "製造プロセスの自動化・効率化",
+      "name": "半導体開発・製造プロセスの高度化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "equipment",
         "frontend",
         "backend",
-        "industrial"
+        "equipment",
+        "general"
       ],
-      "summary": "AIエージェント、イベント駆動型RL、インクジェット技術等で製造工程の自動化・効率化・品質向上を目指す。",
+      "summary": "複雑化するチップ設計に対応するため、開発プロセスの早期化、物理現象の推論、原子スケールプラズマ処理、後工程自動化対応露光装置などが進展。",
       "analysis": {
-        "short_term": "AI活用による工程改善の事例が増加。",
-        "mid_term": "自動化・効率化技術の標準化と普及が進む。",
-        "investment_implications": "製造装置、自動化ソリューション提供企業に注目。"
+        "short_term": "開発・製造プロセスの効率化・自動化が重要になる。",
+        "mid_term": "高NA EUVなどの先端製造装置への投資が続く。",
+        "investment_implications": "開発ツール、製造装置、プロセス技術関連企業に注目。"
       },
       "keywords": [
-        "AI",
-        "自動化",
-        "製造プロセス",
-        "強化学習"
+        "チップ設計",
+        "プラズマ処理",
+        "露光装置",
+        "開発効率化"
       ],
       "companies_mentioned": [
-        "東芝",
-        "エレファンテック"
+        "ウシオ電機",
+        "Nagoya University",
+        "Hitachi High-Tech Corp."
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場が初の単月1000億ドル超え（2026年4月）",
-      "SiCパワー半導体市場の力強い成長予測",
-      "AI・HPC向けインフラ投資の活発化"
+      "世界半導体市場が初の単月1000億ドル超えを記録（2026年4月）",
+      "SiCパワー半導体市場の年20%成長予測",
+      "光通信需要増によるインジウムリン基板の生産能力増強投資"
     ],
-    "bearish": [
-      "高NA EUVリソグラフィにおけるマスクコストの高騰"
-    ],
+    "bearish": [],
     "neutral": [
-      "USB新規格の統合ロードマップと互換性問題",
-      "DRAM内処理における干渉リスクの発見"
+      "UCIe vs. BoW、チップレット標準選択の重要性",
+      "USB新規格の利点と非互換性に関する議論"
     ]
   },
-  "source_count": 23
+  "source_count": 28
 }

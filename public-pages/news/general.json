@@ -1,86 +1,31 @@
 {
-  "generated_at": "2026-06-24T06:35:09.864683+09:00",
+  "generated_at": "2026-06-25T06:32:48.258783+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "New USB Standards: Benefits And Incompatibilities",
-    "summary": "USBとeUSBの新規格統合ロードマップ。新規格の利点と互換性の問題点を解説。",
+    "title": "How Far Left Can You Shift?",
+    "summary": "複雑なチップ設計では、開発プロセスの早期段階での作業が不可欠です。半導体エンジニアリングの記事。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/new-usb-standards-benefits-and-incompatibilities"
+        "url": "https://semiengineering.com/how-far-left-can-you-shift"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "MIM構造のメタサーフェス近赤外光源を実用化、タムロン",
-        "blurb": "タムロンがMIM構造メタサーフェス近赤外光源を実用化。分析・検査用光源装置の小型化に貢献。",
-        "category": "company",
-        "date": "2026-06-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/23/news038.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AIエージェント活用で熟練者に頼らず工程改善、東芝",
-        "blurb": "東芝がAIエージェントによる製造工程改善サービスを開始。熟練者に頼らずSMTラインの最適化を実現。",
-        "category": "company",
-        "date": "2026-06-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/23/news039.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Advancements In Atomic-Scale Plasma Processing",
-        "blurb": "Researchers from Nagoya University, Boise State University, Korea Institute of Fusion Energy, Hitachi High-Tech Corp. an",
-        "category": "company",
-        "date": "2026-06-23",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/advancements-in-atomic-scale-plasma-processing"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "New USB Standards: Benefits And Incompatibilities",
-        "blurb": "USBとeUSBの新規格統合ロードマップ。新規格の利点と互換性の問題点を解説。",
+        "title": "Continuous Physics Reasoning: Definition, Minimum Criteria, and the Role of Foundation Models for Physics",
+        "blurb": "物理現象を製造解像度で推論する汎用システム。基盤モデルが物理学での役割を担う。",
         "category": "tools",
-        "date": "2026-06-23",
+        "date": "2026-06-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/new-usb-standards-benefits-and-incompatibilities"
+          "url": "https://semiengineering.com/continuous-physics-reasoning-definition-minimum-criteria-and-the-role-of-foundation-models-for-physics"
         },
         "field": {
           "primary": "general",
@@ -91,14 +36,14 @@
         }
       },
       {
-        "title": "Atom Probe Framework Tracks Phase Instability In Si-Doped Gallium Oxide (SUNY, Ohio State, LLNL)",
-        "blurb": "シリコン添加酸化ガリウムの相不安定性を原子探針で追跡する新フレームワークを開発。構造信頼性向上に貢献。",
+        "title": "Optimizing Curvilinear OPC: Vector- Based Site and Anchor Decoupling",
+        "blurb": "曲線OPCの最適化手法。ベクトルベースでサイトとアンカーを分離し、断片化と最適化を動的に制御する。",
         "category": "tools",
-        "date": "2026-06-23",
+        "date": "2026-06-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/atom-probe-framework-tracks-phase-instability-in-si-doped-gallium-oxide-suny-ohio-state-llnl"
+          "url": "https://semiengineering.com/optimizing-curvilinear-opc-vector-based-site-and-anchor-decoupling"
         },
         "field": {
           "primary": "general",
@@ -109,6 +54,61 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "How Far Left Can You Shift?",
+        "blurb": "複雑なチップ設計では、開発プロセスの早期段階での作業が不可欠です。半導体エンジニアリングの記事。",
+        "category": "business",
+        "date": "2026-06-24",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-far-left-can-you-shift"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Creating A Moore’s Law For AI Scaling",
+        "blurb": "AIのスケーリングは知能時代の大きな課題。ムーアの法則に匹敵するAIスケーリングの実現を目指す。",
+        "category": "business",
+        "date": "2026-06-24",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/creating-a-moores-law-for-ai-scaling"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Blog Review: June 24",
+        "blurb": "半導体開発のリスク低減、ネットワーク検証、持続可能性ロードマップなど、6月24日のブログレビュー。",
+        "category": "business",
+        "date": "2026-06-24",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-june-24-3"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }
