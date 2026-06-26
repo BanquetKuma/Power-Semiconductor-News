@@ -1,117 +1,162 @@
 {
-  "generated_at": "2026-06-26T06:34:39.179013+09:00",
-  "date": "2026-06-26",
+  "generated_at": "2026-06-27T06:31:50.606093+09:00",
+  "date": "2026-06-27",
   "meta_trends": [
     {
-      "name": "データセンターのDC高電圧化",
-      "confidence": 0.9,
+      "name": "AI向けパワー半導体需要拡大",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "datacenter",
-        "ai"
-      ],
-      "summary": "データセンターで800V DCへの移行が進む。ハイパースケーラーが先行するが、安全基準やエコシステム整備が課題。",
-      "analysis": {
-        "short_term": "標準化と安全基準の整備が焦点。一部ハイパースケーラーでの採用が進む。",
-        "mid_term": "エコシステム拡大により、採用が加速する可能性。関連部品メーカーに商機。",
-        "investment_implications": "高電圧対応部品メーカー、インフラ関連企業に注目。"
-      },
-      "keywords": [
-        "800V DC",
-        "データセンター",
-        "ハイパースケーラー"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "GaNパワー半導体の特許紛争",
-      "confidence": 0.85,
-      "momentum": "stable",
-      "related_fields": [
-        "power",
-        "automotive",
-        "datacenter",
-        "industrial"
-      ],
-      "summary": "GaN分野で特許紛争が継続。一部企業は既存製品への影響はないと表明する一方、欧州では特許侵害で製品禁止命令も。",
-      "analysis": {
-        "short_term": "紛争の行方と各社の対応が注視される。一部製品の供給に影響の可能性。",
-        "mid_term": "技術開発と並行して、特許戦略の重要性が増す。統合型GaNソリューションの動向も注目。",
-        "investment_implications": "特許網の強固な企業、代替技術を持つ企業に注目。"
-      },
-      "keywords": [
-        "GaN",
-        "特許紛争",
-        "パワー半導体"
-      ],
-      "companies_mentioned": [
-        "Innoscience",
-        "Infineon"
-      ]
-    },
-    {
-      "name": "SiCパワーソリューションのAIデータセンター展開",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "automotive",
         "ai",
         "datacenter"
       ],
-      "summary": "AIデータセンター向けにSiCベースのパワーソリューションが拡大。高密度化に対応するため、シリコンバレーに新チームを設置。",
+      "summary": "AI処理能力向上に伴い、高性能・高効率なパワー半導体（SiC、GaN）の需要がデータセンターやAIインフラ向けに急増している。",
       "analysis": {
-        "short_term": "AI需要の高まりを受け、SiCの採用が加速。データセンター向け製品開発が活発化。",
-        "mid_term": "AIインフラ投資の拡大に伴い、SiC市場は成長を続ける。高効率化ニーズが追い風。",
-        "investment_implications": "SiCウェーハ、SiCデバイスメーカーに追い風。"
+        "short_term": "需要は引き続き堅調。供給能力が追いつくかが焦点。",
+        "mid_term": "AIモデルの進化で更なる高性能化要求が高まる。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味あり。"
       },
       "keywords": [
+        "AI",
         "SiC",
-        "AIデータセンター",
-        "パワーソリューション"
+        "GaN",
+        "データセンター",
+        "パワー半導体"
       ],
       "companies_mentioned": [
-        "Wolfspeed"
+        "onsemi",
+        "Wolfspeed",
+        "Innoscience",
+        "Navitas"
       ]
     },
     {
-      "name": "モノリシックGaN統合技術の進化",
+      "name": "AI設計・検証の高度化",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "equipment",
+        "frontend"
+      ],
+      "summary": "AI技術が半導体設計・検証プロセスに深く浸透し、効率化と高度化を推進。AIエージェントの活用も進む。",
+      "analysis": {
+        "short_term": "AIツール導入が進み、設計サイクルの短縮が期待される。",
+        "mid_term": "AIによる設計・検証の自動化・最適化が進展する。",
+        "investment_implications": "AI設計ツール、EDA関連企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "設計",
+        "検証",
+        "AIエージェント",
+        "EDA"
+      ],
+      "companies_mentioned": [
+        "アドバンテスト",
+        "東芝",
+        "IBM"
+      ]
+    },
+    {
+      "name": "データセンターの省電力化・高効率化",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "power",
+        "logic"
+      ],
+      "summary": "AIワークロード増大に伴い、データセンターの電力効率が最重要課題に。800V DC移行や高効率電源技術が求められる。",
+      "analysis": {
+        "short_term": "800V DC移行に向けた標準化とエコシステム構築が課題。",
+        "mid_term": "省電力化技術がデータセンターの競争力に直結する。",
+        "investment_implications": "高効率電源、冷却技術関連企業に注目。"
+      },
+      "keywords": [
+        "データセンター",
+        "省電力",
+        "800V",
+        "効率化"
+      ],
+      "companies_mentioned": [
+        "Wolfspeed",
+        "Amazon"
+      ]
+    },
+    {
+      "name": "先端パッケージング技術の進化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "miniaturization",
+        "frontend",
+        "backend",
+        "logic",
+        "memory"
+      ],
+      "summary": "チップレットや3D-ICなど、異種集積を実現する先端パッケージング技術が性能向上と小型化の鍵となる。",
+      "analysis": {
+        "short_term": "チップレット間のデータ転送速度向上が課題。",
+        "mid_term": "3D-ICのコデザインアプローチが普及する。",
+        "investment_implications": "先端パッケージング材料・装置メーカーに期待。"
+      },
+      "keywords": [
+        "チップレット",
+        "3D-IC",
+        "パッケージング",
+        "異種集積"
+      ],
+      "companies_mentioned": [
+        "京セラ",
+        "Micron",
+        "IBM"
+      ]
+    },
+    {
+      "name": "次世代通信・光技術の重要性増大",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "automotive",
+        "analog",
         "datacenter",
+        "equipment",
         "industrial"
       ],
-      "summary": "モノリシックGaN統合技術が進展。CMOSとの互換性や、スタートアップの優位性が議論されている。",
+      "summary": "高速・大容量通信の需要増に対応するため、シリコンフォトニクスや光回路設計IP、インジウムリン基板などの技術開発が進む。",
       "analysis": {
-        "short_term": "技術開発競争が激化。性能向上とコスト削減が鍵となる。",
-        "mid_term": "量産化が進めば、幅広い応用が期待される。大手メーカーの検証も進む。",
-        "investment_implications": "GaN統合技術を持つスタートアップや、関連技術開発企業に注目。"
+        "short_term": "光通信需要増に対応した生産能力増強が進む。",
+        "mid_term": "シリコンフォトニクス技術がデータセンターで普及。",
+        "investment_implications": "光通信関連部品・材料メーカーに注目。"
       },
       "keywords": [
-        "GaN",
-        "モノリシック統合",
-        "CMOS"
+        "光通信",
+        "シリコンフォトニクス",
+        "インジウムリン",
+        "データセンター"
       ],
       "companies_mentioned": [
-        "CGD"
+        "アドバンテスト",
+        "JX金属",
+        "OpenLight"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け半導体需要の堅調さ",
-      "パワー半導体市場の成長継続"
+      "AI関連半導体（特にパワー半導体）の需要拡大",
+      "データセンター向け高性能・高効率化技術への投資活発化",
+      "先端パッケージング技術の重要性向上"
     ],
     "bearish": [
-      "GaN分野における特許紛争のリスク"
+      "半導体装置メーカーの業績のばらつき（国内主要8社中2社のみ増収増益）",
+      "検証手法がAI進化に追いついていない現状"
     ],
     "neutral": [
-      "データセンター高電圧化における標準化の遅れ"
+      "GaNポートフォリオに関する特許紛争の影響は限定的との見方"
     ]
   },
-  "source_count": 5
+  "source_count": 32
 }
