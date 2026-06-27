@@ -1,162 +1,167 @@
 {
-  "generated_at": "2026-06-27T06:31:50.606093+09:00",
-  "date": "2026-06-27",
+  "generated_at": "2026-06-28T06:25:40.031088+09:00",
+  "date": "2026-06-28",
   "meta_trends": [
     {
-      "name": "AI向けパワー半導体需要拡大",
+      "name": "SiC/GaNパワー半導体のAIデータセンター・EV向け需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "ai",
+        "automotive",
         "datacenter"
       ],
-      "summary": "AI処理能力向上に伴い、高性能・高効率なパワー半導体（SiC、GaN）の需要がデータセンターやAIインフラ向けに急増している。",
+      "summary": "WolfspeedやInnoscienceなどがSiC/GaN技術を強化。AIデータセンターやEV向けに高効率化・大容量化が進む。",
       "analysis": {
-        "short_term": "需要は引き続き堅調。供給能力が追いつくかが焦点。",
-        "mid_term": "AIモデルの進化で更なる高性能化要求が高まる。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味あり。"
+        "short_term": "AIデータセンター向け300mmウェーハ製造が本格化。",
+        "mid_term": "EV向けSiCモジュール採用がさらに拡大する見込み。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味が増す。"
       },
       "keywords": [
-        "AI",
         "SiC",
         "GaN",
-        "データセンター",
-        "パワー半導体"
+        "AIデータセンター",
+        "EV",
+        "300mmウェーハ"
       ],
       "companies_mentioned": [
-        "onsemi",
         "Wolfspeed",
+        "onsemi",
         "Innoscience",
         "Navitas"
       ]
     },
     {
-      "name": "AI設計・検証の高度化",
+      "name": "AI開発・検証プロセスの高度化と効率化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
         "equipment",
-        "frontend"
+        "general"
       ],
-      "summary": "AI技術が半導体設計・検証プロセスに深く浸透し、効率化と高度化を推進。AIエージェントの活用も進む。",
+      "summary": "AIの進化が半導体設計・検証手法に課題を提示。AIエージェント活用や検証早期化による効率化が求められる。",
       "analysis": {
-        "short_term": "AIツール導入が進み、設計サイクルの短縮が期待される。",
-        "mid_term": "AIによる設計・検証の自動化・最適化が進展する。",
-        "investment_implications": "AI設計ツール、EDA関連企業に注目。"
+        "short_term": "AIエージェントによる設計・検証支援ツールの登場。",
+        "mid_term": "検証手法の抜本的な見直しと自動化が進む。",
+        "investment_implications": "AI開発支援ツール関連企業に注目。"
       },
       "keywords": [
         "AI",
         "設計",
         "検証",
         "AIエージェント",
-        "EDA"
+        "自動化"
       ],
       "companies_mentioned": [
-        "アドバンテスト",
+        "IBM",
         "東芝",
-        "IBM"
+        "Efinix"
       ]
     },
     {
-      "name": "データセンターの省電力化・高効率化",
+      "name": "データセンターのインフラ進化と統合設計",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
+        "ai",
         "power",
-        "logic"
+        "memory"
       ],
-      "summary": "AIワークロード増大に伴い、データセンターの電力効率が最重要課題に。800V DC移行や高効率電源技術が求められる。",
+      "summary": "AIインフラは800V移行や統合設計アプローチが重要。ワットあたりのトークン数最大化が指標となる。",
       "analysis": {
         "short_term": "800V DC移行に向けた標準化とエコシステム構築が課題。",
-        "mid_term": "省電力化技術がデータセンターの競争力に直結する。",
-        "investment_implications": "高効率電源、冷却技術関連企業に注目。"
+        "mid_term": "AI特化型インフラの設計・最適化が進展する。",
+        "investment_implications": "データセンター向け高性能部品メーカーに追い風。"
       },
       "keywords": [
         "データセンター",
-        "省電力",
+        "AIインフラ",
         "800V",
-        "効率化"
+        "統合設計",
+        "HBM"
       ],
       "companies_mentioned": [
-        "Wolfspeed",
-        "Amazon"
+        "onsemi",
+        "Micron",
+        "AWS"
       ]
     },
     {
-      "name": "先端パッケージング技術の進化",
+      "name": "先端パッケージング技術の進化と競争",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "miniaturization",
-        "frontend",
-        "backend",
         "logic",
-        "memory"
+        "wafer",
+        "frontend",
+        "backend"
       ],
-      "summary": "チップレットや3D-ICなど、異種集積を実現する先端パッケージング技術が性能向上と小型化の鍵となる。",
+      "summary": "3D-ICやチップレット技術が進化。ウェーハスケールとチップレットの競争が激化し、データ転送速度向上が鍵。",
       "analysis": {
-        "short_term": "チップレット間のデータ転送速度向上が課題。",
-        "mid_term": "3D-ICのコデザインアプローチが普及する。",
-        "investment_implications": "先端パッケージング材料・装置メーカーに期待。"
+        "short_term": "3D-IC設計にはコデザインアプローチが不可欠。",
+        "mid_term": "ヘテロジニアス統合パッケージの実現が進む。",
+        "investment_implications": "先端パッケージング関連技術・材料メーカーに注目。"
       },
       "keywords": [
-        "チップレット",
         "3D-IC",
-        "パッケージング",
-        "異種集積"
+        "チップレット",
+        "ウェーハスケール",
+        "ヘテロジニアス統合",
+        "パッケージング"
       ],
       "companies_mentioned": [
-        "京セラ",
-        "Micron",
-        "IBM"
+        "IBM",
+        "京セラ"
       ]
     },
     {
-      "name": "次世代通信・光技術の重要性増大",
-      "confidence": 0.75,
-      "momentum": "rising",
+      "name": "半導体製造装置業界の業績回復の遅れ",
+      "confidence": 0.7,
+      "momentum": "stable",
       "related_fields": [
-        "analog",
-        "datacenter",
         "equipment",
-        "industrial"
+        "wafer",
+        "frontend",
+        "backend"
       ],
-      "summary": "高速・大容量通信の需要増に対応するため、シリコンフォトニクスや光回路設計IP、インジウムリン基板などの技術開発が進む。",
+      "summary": "国内半導体装置メーカーの業績は回復途上。増収増益企業は限定的で、市場全体の回復には時間を要する。",
       "analysis": {
-        "short_term": "光通信需要増に対応した生産能力増強が進む。",
-        "mid_term": "シリコンフォトニクス技術がデータセンターで普及。",
-        "investment_implications": "光通信関連部品・材料メーカーに注目。"
+        "short_term": "一部メーカーは前年比で業績改善の兆し。",
+        "mid_term": "先端プロセス投資の動向が業績を左右する。",
+        "investment_implications": "選別的な投資判断が必要となる。"
       },
       "keywords": [
-        "光通信",
-        "シリコンフォトニクス",
-        "インジウムリン",
-        "データセンター"
+        "半導体装置",
+        "業績",
+        "回復",
+        "投資",
+        "先端プロセス"
       ],
       "companies_mentioned": [
         "アドバンテスト",
-        "JX金属",
-        "OpenLight"
+        "国内半導体装置メーカー"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連半導体（特にパワー半導体）の需要拡大",
-      "データセンター向け高性能・高効率化技術への投資活発化",
-      "先端パッケージング技術の重要性向上"
+      "AI関連半導体の需要拡大",
+      "EVシフトによるパワー半導体需要増",
+      "データセンター投資の継続"
     ],
     "bearish": [
-      "半導体装置メーカーの業績のばらつき（国内主要8社中2社のみ増収増益）",
-      "検証手法がAI進化に追いついていない現状"
+      "半導体製造装置メーカーの業績回復の遅れ",
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "GaNポートフォリオに関する特許紛争の影響は限定的との見方"
+      "メモリ市場の需給バランス",
+      "先端ロジック開発競争の激化"
     ]
   },
-  "source_count": 32
+  "source_count": 49
 }
