@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-06-28T06:25:40.031088+09:00",
-  "date": "2026-06-28",
+  "generated_at": "2026-06-29T06:25:56.555167+09:00",
+  "date": "2026-06-29",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体のAIデータセンター・EV向け需要拡大",
+      "name": "SiC/GaNパワー半導体のAIデータセンター・EV向け拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "ai",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "ai"
       ],
-      "summary": "WolfspeedやInnoscienceなどがSiC/GaN技術を強化。AIデータセンターやEV向けに高効率化・大容量化が進む。",
+      "summary": "WolfspeedやonsemiなどがAIデータセンターやEV向けに次世代SiC/GaNパワー半導体の開発・供給を加速。300mmウェーハ製造や効率向上に注力。",
       "analysis": {
-        "short_term": "AIデータセンター向け300mmウェーハ製造が本格化。",
-        "mid_term": "EV向けSiCモジュール採用がさらに拡大する見込み。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味が増す。"
+        "short_term": "需要拡大と供給能力増強が続く。",
+        "mid_term": "主要プレイヤー間の競争激化と技術革新が予想される。",
+        "investment_implications": "関連企業への投資妙味は高い。"
       },
       "keywords": [
         "SiC",
@@ -33,135 +33,143 @@
       ]
     },
     {
-      "name": "AI開発・検証プロセスの高度化と効率化",
+      "name": "AIインフラ・チップ設計の高度化と検証課題",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "datacenter",
         "logic",
         "equipment",
-        "general"
-      ],
-      "summary": "AIの進化が半導体設計・検証手法に課題を提示。AIエージェント活用や検証早期化による効率化が求められる。",
-      "analysis": {
-        "short_term": "AIエージェントによる設計・検証支援ツールの登場。",
-        "mid_term": "検証手法の抜本的な見直しと自動化が進む。",
-        "investment_implications": "AI開発支援ツール関連企業に注目。"
-      },
-      "keywords": [
-        "AI",
-        "設計",
-        "検証",
-        "AIエージェント",
-        "自動化"
-      ],
-      "companies_mentioned": [
-        "IBM",
-        "東芝",
-        "Efinix"
-      ]
-    },
-    {
-      "name": "データセンターのインフラ進化と統合設計",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "ai",
-        "power",
-        "memory"
-      ],
-      "summary": "AIインフラは800V移行や統合設計アプローチが重要。ワットあたりのトークン数最大化が指標となる。",
-      "analysis": {
-        "short_term": "800V DC移行に向けた標準化とエコシステム構築が課題。",
-        "mid_term": "AI特化型インフラの設計・最適化が進展する。",
-        "investment_implications": "データセンター向け高性能部品メーカーに追い風。"
-      },
-      "keywords": [
-        "データセンター",
-        "AIインフラ",
-        "800V",
-        "統合設計",
-        "HBM"
-      ],
-      "companies_mentioned": [
-        "onsemi",
-        "Micron",
-        "AWS"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術の進化と競争",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "miniaturization",
-        "logic",
-        "wafer",
         "frontend",
         "backend"
       ],
-      "summary": "3D-ICやチップレット技術が進化。ウェーハスケールとチップレットの競争が激化し、データ転送速度向上が鍵。",
+      "summary": "AIデータセンターの巨大化とHPCクラスターの進化が、I/O設計や検証手法に新たな課題を提示。AIエージェント活用による設計・検証の効率化も進む。",
       "analysis": {
-        "short_term": "3D-IC設計にはコデザインアプローチが不可欠。",
-        "mid_term": "ヘテロジニアス統合パッケージの実現が進む。",
-        "investment_implications": "先端パッケージング関連技術・材料メーカーに注目。"
+        "short_term": "AIチップ開発競争が激化し、設計・検証のボトルネックが顕在化。",
+        "mid_term": "AIを活用した設計・検証ツールの普及と標準化が進む。",
+        "investment_implications": "AIインフラ関連技術・サービスに注目。"
       },
       "keywords": [
+        "AI",
+        "データセンター",
+        "HPC",
+        "I/O設計",
+        "検証",
+        "AIエージェント"
+      ],
+      "companies_mentioned": [
+        "onsemi",
+        "Synaptics",
+        "NVIDIA",
+        "AWS",
+        "IBM",
+        "Micron",
+        "Anthropic",
+        "Efinix",
+        "アドバンテスト",
+        "OpenLight",
+        "タムロン",
+        "東芝"
+      ]
+    },
+    {
+      "name": "次世代メモリ・パッケージング技術の進化",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "datacenter",
+        "logic",
+        "miniaturization",
+        "frontend",
+        "backend"
+      ],
+      "summary": "HBMシステムにおけるメモリ負荷軽減や、3D-IC設計、ウェーハスケール/チップレット技術の進化がデータ転送速度向上に貢献。",
+      "analysis": {
+        "short_term": "HBMや3D-ICの需要が堅調に推移。",
+        "mid_term": "チップレットやウェーハスケール統合技術が普及し、性能向上を牽引。",
+        "investment_implications": "先端パッケージング・メモリ関連企業に期待。"
+      },
+      "keywords": [
+        "HBM",
         "3D-IC",
         "チップレット",
         "ウェーハスケール",
-        "ヘテロジニアス統合",
-        "パッケージング"
+        "メモリ"
       ],
       "companies_mentioned": [
-        "IBM",
+        "Micron",
+        "Anthropic",
         "京セラ"
       ]
     },
     {
-      "name": "半導体製造装置業界の業績回復の遅れ",
-      "confidence": 0.7,
+      "name": "データセンターの電力効率と高電圧化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "power",
+        "equipment"
+      ],
+      "summary": "データセンターの800V DC移行が進む一方、安全基準やエコシステム整備が課題。電力効率向上と熱管理技術の重要性が増している。",
+      "analysis": {
+        "short_term": "800V DC移行に向けた技術開発と標準化が進展。",
+        "mid_term": "データセンターの電力インフラが刷新され、エネルギー効率が向上。",
+        "investment_implications": "データセンター向け電源・冷却ソリューションに注目。"
+      },
+      "keywords": [
+        "データセンター",
+        "800V DC",
+        "電力効率",
+        "熱管理"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "半導体装置メーカーの業績回復と技術革新",
+      "confidence": 0.75,
       "momentum": "stable",
       "related_fields": [
         "equipment",
-        "wafer",
         "frontend",
-        "backend"
+        "backend",
+        "wafer"
       ],
-      "summary": "国内半導体装置メーカーの業績は回復途上。増収増益企業は限定的で、市場全体の回復には時間を要する。",
+      "summary": "国内半導体装置メーカーの業績は回復途上だが、先端技術への投資は継続。光回路設計IPや高精度基板など、新たな技術開発も進む。",
       "analysis": {
-        "short_term": "一部メーカーは前年比で業績改善の兆し。",
-        "mid_term": "先端プロセス投資の動向が業績を左右する。",
-        "investment_implications": "選別的な投資判断が必要となる。"
+        "short_term": "一部メーカーの業績は改善傾向。",
+        "mid_term": "先端プロセス対応の装置需要が回復し、業績が本格化。",
+        "investment_implications": "技術力のある装置メーカーに投資機会。"
       },
       "keywords": [
         "半導体装置",
-        "業績",
-        "回復",
-        "投資",
-        "先端プロセス"
+        "先端プロセス",
+        "光回路",
+        "基板"
       ],
       "companies_mentioned": [
         "アドバンテスト",
-        "国内半導体装置メーカー"
+        "OpenLight",
+        "京セラ",
+        "JX金属"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連半導体の需要拡大",
-      "EVシフトによるパワー半導体需要増",
-      "データセンター投資の継続"
+      "AI関連半導体・インフラ需要の継続的な拡大",
+      "パワー半導体（SiC/GaN）の成長加速",
+      "先端パッケージング・メモリ市場の活況"
     ],
     "bearish": [
-      "半導体製造装置メーカーの業績回復の遅れ",
-      "地政学リスクによるサプライチェーンの不確実性"
+      "半導体装置メーカーの短期的な業績のばらつき",
+      "地政学的リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "メモリ市場の需給バランス",
-      "先端ロジック開発競争の激化"
+      "データセンターの800V DC移行における標準化の遅れ"
     ]
   },
-  "source_count": 49
+  "source_count": 52
 }
