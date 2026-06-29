@@ -1,32 +1,250 @@
 {
-  "generated_at": "2026-06-29T06:25:51.595878+09:00",
+  "generated_at": "2026-06-30T06:32:48.941095+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "This Chinese SUV Sold 100,000 Units In Seven Months For A Good Reason",
-    "summary": "中国EVメーカーNIOの新型SUV「ES8」が7ヶ月で10万台を販売。収益化に貢献するほどの高い評価を得ている。",
+    "stars": 4,
+    "title": "SiTime Upgrades Chorus Clock Generators",
+    "summary": "SiTimeがAIデータセンター向けクロックジェネレータ「Chorus 2」を発表。性能2倍、ジッター半減、スキュー2.5倍低減。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/reviews/799953/nio-es8-drive-review-2026"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/sitime-upgrades-chorus-clock-generators"
       }
     ]
   },
   "sections": {
-    "business": [],
-    "tools": [],
-    "company": [
+    "business": [
       {
-        "title": "This Chinese SUV Sold 100,000 Units In Seven Months For A Good Reason",
-        "blurb": "中国EVメーカーNIOの新型SUV「ES8」が7ヶ月で10万台を販売。収益化に貢献するほどの高い評価を得ている。",
-        "category": "company",
-        "date": "2026-06-28",
-        "stars": 3,
+        "title": "SiTime Upgrades Chorus Clock Generators",
+        "blurb": "SiTimeがAIデータセンター向けクロックジェネレータ「Chorus 2」を発表。性能2倍、ジッター半減、スキュー2.5倍低減。",
+        "category": "business",
+        "date": "2026-06-30",
+        "stars": 4,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/799953/nio-es8-drive-review-2026"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/sitime-upgrades-chorus-clock-generators"
         },
         "field": null
+      },
+      {
+        "title": "The Evolution in Data Center Power Distribution Panel, Part 2: SSTs",
+        "blurb": "データセンターで800VDCへの移行が進み、SST（Solid State Transformer）の採用が拡大。半導体選定や導入初期段階で技術は発展途上。",
+        "category": "business",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-evolution-in-data-center-power-distribution-panel-part-2-ssts"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Rethinking Chip Verification",
+        "blurb": "仕様エンジニアリングがチップ検証のボトルネック解消策として注目されている。",
+        "category": "business",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/rethinking-chip-verification"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GaNアンプはどんな音がする？ Siアンプと聴き比べたら",
+        "blurb": "GaNアンプの音質をSiアンプと比較。DACチップのように増幅素子で音を選ぶ楽しみが広がる可能性。",
+        "category": "business",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news072.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "レゾナック、高純度フッ化水素ガスの製造体制強化",
+        "blurb": "レゾナックは半導体製造に不可欠な高純度フッ化水素ガス（HFガス）の国内製造拠点を、徳山事業所でも開始し、2拠点体制を強化する。",
+        "category": "business",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news031.html"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "EAS tags: The invisible backbone of retail security",
+        "blurb": "小売業の防犯に不可欠なEASタグは、年間数十億ドル相当の商品を守る見えない基盤となっている。",
+        "category": "business",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/eas-tags-the-invisible-backbone-of-retail-security"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "Frenetic Expands Magnetics Design Tools with Planar Transformer Support",
+        "blurb": "Freneticが磁気設計ツールを拡張し、平面トランスのサポートを追加。熱性能や冷却戦略の最適化を支援。",
+        "category": "tools",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/frenetic-expands-magnetics-design-tools-with-planar-transformer-support"
+        },
+        "field": null
+      },
+      {
+        "title": "熱放射を自在に操る新たな光デバイス提案、大阪公立大ら",
+        "blurb": "大阪公立大らは、熱放射の向きを自在に制御できる新たな光デバイスを理論提案。試作・実証へ。",
+        "category": "tools",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news033.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Dissecting an active Ethernet splitter",
+        "blurb": "イーサネットスプリッターでポート不足を解消。適切な製品選びが重要。",
+        "category": "tools",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/dissecting-an-active-ethernet-splitter"
+        },
+        "field": null
+      },
+      {
+        "title": "Qualinx Integrates Galileo OSNMA into GNSS Receiver",
+        "blurb": "Qualinxは低消費電力GNSS受信機にGalileo OSNMAを統合し、認証付き衛星測位をバッテリー駆動デバイスで利用可能にした。",
+        "category": "tools",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/qualinx-integrates-galileo-osnma-into-gnss-receiver"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "ぼっち系エンジニア、「幸せ」について論文とデータで殴られる",
+        "blurb": "都市交通計画特論の講義で、幸せには外出や人との交流が不可欠だと論理的に学ばされた。",
+        "category": "company",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news058.html"
+        },
+        "field": null
+      },
+      {
+        "title": "半導体主権の「現実解」　GFとQualinxが欧州域内製造フロー実証",
+        "blurb": "GFとQualinxが欧州域内製造フローでGNSS SoCを完成。半導体主権に向けた一歩だが、EDAや材料に課題。",
+        "category": "company",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news047.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "HW Fingerprinting Technique for Silicon Photonic ICs Using Photonic Crystal-based Density-Controlled Patterns (U. of Florida)",
+        "blurb": "フロリダ大の研究者は、フォトニック結晶パターンでシリコンフォトニクスICに固有の光署名を埋め込み、デバイス認証とサプライチェーンセキュリティを強化する技術を発表しました。",
+        "category": "company",
+        "date": "2026-06-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/photonic-crystal-fingerprints-target-silicon-photonics-supply-chain-security"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "LLM-driven, Formal Verification-Assisted Framework For Functional-Safety-Oriented Fault Criticality Assessment (ASU, TI)",
+        "blurb": "ASUとTIが、機能安全向けフォールトクリティカリティ評価のLLM駆動フレームワーク「SafeGen」を発表。高品質なアサーション生成を実現。",
+        "category": "company",
+        "date": "2026-06-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/llm-driven-formal-verification-assisted-framework-for-functional-safety-oriented-fault-criticality-assessment-asu-ti"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)",
+        "blurb": "ETH ZurichらがRISC-Vのオープンソースプラットフォーム「Croc」を発表。学生がRTLからシリコンまでチップ設計を学べる。",
+        "category": "company",
+        "date": "2026-06-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/open-source-risc-v-platform-trains-chip-designers-from-rtl-to-silicon-eth-z-lowrisc-u-of-bologna"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "sns": []

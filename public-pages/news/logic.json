@@ -1,50 +1,48 @@
 {
-  "generated_at": "2026-06-25T06:32:48.257246+09:00",
+  "generated_at": "2026-06-30T06:32:48.942580+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Automate the Pain Away: HW/SW Interface Design Methodology",
-    "summary": "接続された設計手法により、SoCライフサイクル全体で一貫性を保ちながら開発を加速できる。",
+    "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)",
+    "summary": "ETH ZurichらがRISC-Vのオープンソースプラットフォーム「Croc」を発表。学生がRTLからシリコンまでチップ設計を学べる。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/automate-the-pain-away-hw-sw-interface-design-methodology"
+        "url": "https://semiengineering.com/open-source-risc-v-platform-trains-chip-designers-from-rtl-to-silicon-eth-z-lowrisc-u-of-bologna"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "AmazonはNVIDIAに挑戦状を突きつけるのか",
-        "blurb": "世界最大のハイパースケーラーであるAWSは、AIアクセラレーターを大規模に販売することで、半導体市場の好機を捉えようとしているのだろうか。",
+        "title": "半導体主権の「現実解」　GFとQualinxが欧州域内製造フロー実証",
+        "blurb": "GFとQualinxが欧州域内製造フローでGNSS SoCを完成。半導体主権に向けた一歩だが、EDAや材料に課題。",
         "category": "company",
-        "date": "2026-06-24",
+        "date": "2026-06-29",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/24/news039.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news047.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
-          "industry": null
+          "market": null,
+          "industry": "foundry"
         }
-      }
-    ],
-    "tech": [
+      },
       {
-        "title": "Automate the Pain Away: HW/SW Interface Design Methodology",
-        "blurb": "接続された設計手法により、SoCライフサイクル全体で一貫性を保ちながら開発を加速できる。",
-        "category": "tools",
-        "date": "2026-06-24",
+        "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)",
+        "blurb": "ETH ZurichらがRISC-Vのオープンソースプラットフォーム「Croc」を発表。学生がRTLからシリコンまでチップ設計を学べる。",
+        "category": "company",
+        "date": "2026-06-30",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/automate-the-pain-away-hw-sw-interface-design-methodology"
+          "url": "https://semiengineering.com/open-source-risc-v-platform-trains-chip-designers-from-rtl-to-silicon-eth-z-lowrisc-u-of-bologna"
         },
         "field": {
           "primary": "logic",
@@ -55,6 +53,7 @@
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

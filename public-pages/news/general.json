@@ -1,32 +1,69 @@
 {
-  "generated_at": "2026-06-28T06:25:34.762265+09:00",
+  "generated_at": "2026-06-30T06:32:48.943681+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Cyber Resilience Act, From Silicon to Systems, WBG Semiconductor Partnerships: Embedded Week Insights",
-    "summary": "サイバーレジリエンス法、シリコンからシステムへの移行、WBG半導体パートナーシップに関するEmbedded Weekの洞察。",
+    "title": "HW Fingerprinting Technique for Silicon Photonic ICs Using Photonic Crystal-based Density-Controlled Patterns (U. of Florida)",
+    "summary": "フロリダ大の研究者は、フォトニック結晶パターンでシリコンフォトニクスICに固有の光署名を埋め込み、デバイス認証とサプライチェーンセキュリティを強化する技術を発表しました。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/cyber-resilience-act-from-silicon-to-systems-wbg-semiconductor-partnerships-embedded-week-insights"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/photonic-crystal-fingerprints-target-silicon-photonics-supply-chain-security"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "HW Fingerprinting Technique for Silicon Photonic ICs Using Photonic Crystal-based Density-Controlled Patterns (U. of Florida)",
+        "blurb": "フロリダ大の研究者は、フォトニック結晶パターンでシリコンフォトニクスICに固有の光署名を埋め込み、デバイス認証とサプライチェーンセキュリティを強化する技術を発表しました。",
+        "category": "company",
+        "date": "2026-06-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/photonic-crystal-fingerprints-target-silicon-photonics-supply-chain-security"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "LLM-driven, Formal Verification-Assisted Framework For Functional-Safety-Oriented Fault Criticality Assessment (ASU, TI)",
+        "blurb": "ASUとTIが、機能安全向けフォールトクリティカリティ評価のLLM駆動フレームワーク「SafeGen」を発表。高品質なアサーション生成を実現。",
+        "category": "company",
+        "date": "2026-06-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/llm-driven-formal-verification-assisted-framework-for-functional-safety-oriented-fault-criticality-assessment-asu-ti"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "Cyber Resilience Act, From Silicon to Systems, WBG Semiconductor Partnerships: Embedded Week Insights",
-        "blurb": "サイバーレジリエンス法、シリコンからシステムへの移行、WBG半導体パートナーシップに関するEmbedded Weekの洞察。",
+        "title": "Rethinking Chip Verification",
+        "blurb": "仕様エンジニアリングがチップ検証のボトルネック解消策として注目されている。",
         "category": "business",
-        "date": "2026-06-27",
+        "date": "2026-06-29",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/cyber-resilience-act-from-silicon-to-systems-wbg-semiconductor-partnerships-embedded-week-insights"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/rethinking-chip-verification"
         },
         "field": {
           "primary": "general",

@@ -1,32 +1,153 @@
 {
-  "generated_at": "2026-06-29T06:25:51.595878+09:00",
+  "generated_at": "2026-06-28T06:25:34.760551+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "This Chinese SUV Sold 100,000 Units In Seven Months For A Good Reason",
-    "summary": "中国EVメーカーNIOの新型SUV「ES8」が7ヶ月で10万台を販売。収益化に貢献するほどの高い評価を得ている。",
+    "title": "Wolfspeed CEO Reflects on Year One: New Generations, 300mm Wafers, and a Company Transformed",
+    "summary": "Wolfspeed CEO、就任1年を振り返る。負債再編、新世代SiC、AIデータセンター向け300mmウェーハに注力。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/reviews/799953/nio-es8-drive-review-2026"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/wolfspeed-ceo-reflects-on-year-one-new-generations-300mm-wafers-and-a-company-transformed"
       }
     ]
   },
   "sections": {
-    "business": [],
-    "tools": [],
-    "company": [
+    "business": [
       {
-        "title": "This Chinese SUV Sold 100,000 Units In Seven Months For A Good Reason",
-        "blurb": "中国EVメーカーNIOの新型SUV「ES8」が7ヶ月で10万台を販売。収益化に貢献するほどの高い評価を得ている。",
-        "category": "company",
-        "date": "2026-06-28",
+        "title": "Cyber Resilience Act, From Silicon to Systems, WBG Semiconductor Partnerships: Embedded Week Insights",
+        "blurb": "サイバーレジリエンス法、シリコンからシステムへの移行、WBG半導体パートナーシップに関するEmbedded Weekの洞察。",
+        "category": "business",
+        "date": "2026-06-27",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/cyber-resilience-act-from-silicon-to-systems-wbg-semiconductor-partnerships-embedded-week-insights"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Is The $25K Slate Truck Just Too Basic? I Rode In One To Find Out.",
+        "blurb": "2万5千ドルのSlate EVトラックは、手巻き窓など基本的な装備だが、乗り心地は良好。詳細な試乗インプレッション。",
+        "category": "business",
+        "date": "2026-06-27",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/799953/nio-es8-drive-review-2026"
+          "url": "https://insideevs.com/features/799969/slate-ev-first-ride-impressions"
         },
         "field": null
+      },
+      {
+        "title": "Slate's Cheap EV Pickup Is Surprisingly Easy To Make Expensive",
+        "blurb": "Slateの2万5千ドルのEVトラックはシンプルだが、豊富なアクセサリーで価格が跳ね上がる可能性がある。",
+        "category": "business",
+        "date": "2026-06-27",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/799725/slate-ev-hundreds-of-accessories"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [],
+    "company": [
+      {
+        "title": "Wolfspeed CEO Reflects on Year One: New Generations, 300mm Wafers, and a Company Transformed",
+        "blurb": "Wolfspeed CEO、就任1年を振り返る。負債再編、新世代SiC、AIデータセンター向け300mmウェーハに注力。",
+        "category": "company",
+        "date": "2026-06-27",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/wolfspeed-ceo-reflects-on-year-one-new-generations-300mm-wafers-and-a-company-transformed"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "onsemi Expands AI Strategy with Planned Synaptics Acquisition",
+        "blurb": "onsemiがSynapticsの買収を発表。AI戦略を強化し、インテリジェントな物理システムの開発を加速する。",
+        "category": "company",
+        "date": "2026-06-27",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/onsemi-expands-ai-strategy-with-planned-synaptics-acquisition"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Wolfspeed Gen 5 SiC: Breakthrough Efficiency, Built for Real-World Performance and Adoption",
+        "blurb": "Wolfspeed、次世代SiC技術を発表。AIデータセンター向けに効率向上と300mmウェハー製造を強化。",
+        "category": "company",
+        "date": "2026-06-27",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/wolfspeed-gen-5-sic-breakthrough-efficiency-built-for-real-world-performance-and-adoption"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "VIDEO: The New Xiaomi SU7 Is Very Much Ready For Europe",
+        "blurb": "Xiaomiの新型EV「SU7」は欧州市場投入の準備がほぼ完了しており、非常に魅力的だ。",
+        "category": "company",
+        "date": "2026-06-27",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/799960/su7-video-update-watch-xiaomi"
+        },
+        "field": null
+      },
+      {
+        "title": "Shell Built A Tiny EV With Hyper-Fast Charging And A New Cooling System",
+        "blurb": "シェルが超急速充電と新冷却システムを備えた小型EVを開発。ビジネスの鍵は冷却材にある。",
+        "category": "company",
+        "date": "2026-06-27",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/799823/shell-ev-battery-coolant-direct"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "sns": []
