@@ -1,181 +1,161 @@
 {
-  "generated_at": "2026-06-30T06:32:56.038548+09:00",
-  "date": "2026-06-30",
+  "generated_at": "2026-07-01T06:34:04.642827+09:00",
+  "date": "2026-07-01",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体のAIデータセンター・EV向け需要拡大",
-      "confidence": 0.95,
+      "name": "広帯域ギャップ材料の普及加速",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "ai",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "AIデータセンターの800VDC移行やEVの高効率化ニーズを受け、SiC・GaNパワー半導体の採用が加速。Wolfspeed、onsemiなどが技術革新と生産能力増強を推進。",
+      "summary": "SiCおよびGaN材料が、EV、データセンター、産業機器向けパワー半導体で採用拡大。高効率化と小型化に貢献。",
       "analysis": {
-        "short_term": "需要増で供給逼迫の可能性。価格上昇圧力。",
-        "mid_term": "技術進化と量産効果でコスト競争力向上。",
-        "investment_implications": "SiC/GaNメーカーへの投資妙味増大。"
+        "short_term": "SiC/GaNデバイスの性能向上とコスト低減が進む。",
+        "mid_term": "次世代パワーエレクトロニクスの中核技術として定着。",
+        "investment_implications": "関連材料・デバイスメーカーへの投資妙味増大。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "AI",
         "EV",
-        "800VDC"
+        "データセンター",
+        "パワー半導体"
       ],
       "companies_mentioned": [
         "Wolfspeed",
-        "onsemi",
-        "Innoscience",
-        "Navitas"
+        "onsemi"
       ]
     },
     {
-      "name": "AI・HPC向けチップ設計・検証の高度化と複雑化",
-      "confidence": 0.9,
+      "name": "AIによる設計・検証の革新",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
+        "memory",
         "datacenter",
-        "equipment",
         "frontend",
         "backend"
       ],
-      "summary": "AIの進化がチップ設計・検証プロセスに大きな影響。LLM活用や仕様エンジニアリング、早期検証の重要性が増し、EDAツールやIPベンダーの役割が拡大。",
+      "summary": "AI技術が半導体設計、検証、製造プロセスに深く浸透し、開発効率と品質を向上させる。",
       "analysis": {
-        "short_term": "検証手法のキャッチアップが急務。新ツール需要増。",
-        "mid_term": "AIエージェントによる設計・検証の自動化進展。",
-        "investment_implications": "EDA、IP、検証ソリューション関連企業に注目。"
+        "short_term": "LLM活用による設計・検証ツールの進化が加速。",
+        "mid_term": "AI駆動型設計が標準化し、開発サイクルが短縮。",
+        "investment_implications": "AI設計ツール・IPベンダーに注目。"
       },
       "keywords": [
         "AI",
-        "検証",
-        "設計",
         "LLM",
-        "EDA"
+        "設計自動化",
+        "検証",
+        "RISC-V"
       ],
       "companies_mentioned": [
         "onsemi",
         "Synaptics",
         "ASU",
-        "TI",
-        "ETH Zurich",
-        "lowRISC",
-        "U of Bologna",
-        "Efinix",
-        "Amazon",
-        "NVIDIA",
-        "アドバンテスト",
-        "OpenLight"
+        "TI"
       ]
     },
     {
-      "name": "データセンターの省電力化と高密度化",
-      "confidence": 0.85,
+      "name": "データセンターの電力効率向上",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
         "power",
-        "logic",
-        "miniaturization"
+        "ai"
       ],
-      "summary": "データセンターで800VDCへの移行が進み、SSTや高効率パワーデバイスの採用が拡大。消費電力抑制と高密度実装が喫緊の課題。",
+      "summary": "データセンターで800VDCへの移行が進み、SSTなどの新技術採用で電力効率向上と消費電力削減を目指す。",
       "analysis": {
-        "short_term": "800VDCインフラ整備に時間。安全基準整備が鍵。",
-        "mid_term": "省電力化技術がデータセンター競争力を左右。",
-        "investment_implications": "データセンター向け電源・冷却・半導体関連に投資機会。"
+        "short_term": "800VDCインフラ導入に向けた技術開発が活発化。",
+        "mid_term": "SST等の新技術がデータセンターの標準に。",
+        "investment_implications": "高効率電源・関連半導体メーカーに追い風。"
       },
       "keywords": [
         "データセンター",
         "800VDC",
         "SST",
-        "省電力",
-        "高密度化"
+        "電力効率",
+        "AI"
       ],
       "companies_mentioned": [
-        "Wolfspeed",
-        "onsemi",
-        "Synaptics"
+        "Wolfspeed"
       ]
     },
     {
-      "name": "半導体サプライチェーンのセキュリティと国内回帰",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "geopolitics",
-        "foundry",
-        "frontend",
-        "equipment",
-        "logic"
-      ],
-      "summary": "地政学リスクの高まりを受け、サプライチェーンの透明性確保と国内・地域内製造への関心が高まる。フロリダ大の光署名技術や欧州での製造フロー実証などが進む。",
-      "analysis": {
-        "short_term": "地政学リスクは依然として高止まり。",
-        "mid_term": "サプライチェーン再編の動きが継続・加速。",
-        "investment_implications": "国内・地域内製造拠点や関連技術への投資妙味。"
-      },
-      "keywords": [
-        "サプライチェーン",
-        "セキュリティ",
-        "国内製造",
-        "地政学リスク",
-        "シリコンフォトニクス"
-      ],
-      "companies_mentioned": [
-        "フロリダ大",
-        "GF",
-        "Qualinx",
-        "レゾナック"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術の進化と3D-IC",
+      "name": "次世代メモリ・ストレージ競争激化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "miniaturization",
-        "backend",
-        "logic",
-        "ai"
+        "memory",
+        "ai",
+        "datacenter"
       ],
-      "summary": "チップレット化や3D-IC設計が進む中、京セラの多層セラミックコア基板など、配線微細化や熱・反り抑制に貢献する先端パッケージング技術が重要性を増している。",
+      "summary": "AIブームを背景に、HBM、DRAM、SSDなどのメモリ・ストレージ市場が活況。次世代技術開発競争が激化。",
       "analysis": {
-        "short_term": "3D-IC設計のコデザインアプローチが鍵。",
-        "mid_term": "パッケージング技術が性能向上のボトルネック解消へ。",
-        "investment_implications": "先端パッケージング材料・装置メーカーに注目。"
+        "short_term": "HBM需要が引き続き高水準で推移。",
+        "mid_term": "多様なAIワークロードに対応するメモリ技術が登場。",
+        "investment_implications": "メモリメーカー間の競争激化と技術革新に注目。"
       },
       "keywords": [
-        "先端パッケージング",
-        "3D-IC",
-        "チップレット",
-        "セラミックコア基板",
-        "配線微細化"
+        "AI",
+        "メモリ",
+        "HBM",
+        "DRAM",
+        "SSD"
       ],
       "companies_mentioned": [
-        "京セラ",
-        "IBM"
+        "Micron"
+      ]
+    },
+    {
+      "name": "サステナビリティへの取り組み強化",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "industrial",
+        "automotive",
+        "frontend",
+        "wafer"
+      ],
+      "summary": "バイオマス由来材料やリサイクル技術など、半導体製造における環境負荷低減への取り組みが進展。",
+      "analysis": {
+        "short_term": "環境配慮型材料の開発・採用が進む。",
+        "mid_term": "サプライチェーン全体でのサステナビリティが重視される。",
+        "investment_implications": "環境技術を持つ企業への評価が高まる可能性。"
+      },
+      "keywords": [
+        "サステナビリティ",
+        "バイオマス",
+        "リサイクル",
+        "環境負荷低減"
+      ],
+      "companies_mentioned": [
+        "三菱電機"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI/HPC向け高性能半導体需要の継続的な拡大",
-      "データセンターの800VDC移行に伴うパワー半導体需要増",
-      "EVシフトによるSiC/GaNパワー半導体市場の成長",
-      "半導体サプライチェーン再編に伴う国内・地域内投資の活発化"
+      "広帯域ギャップ材料（SiC/GaN）の需要拡大",
+      "AI関連半導体の需要堅調",
+      "データセンター投資の増加",
+      "メモリ市場の回復基調"
     ],
     "bearish": [
-      "半導体装置メーカーの業績のばらつき（国内8社中2社のみ増収増益）",
-      "チップ検証手法がAI進化に追いついていない現状"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "一部分野における過剰在庫リスク"
     ],
     "neutral": [
-      "RISC-Vオープンソースプラットフォームの普及はまだ初期段階",
-      "GaNアンプの音質比較はニッチな市場動向"
+      "半導体製造装置の需要動向",
+      "新興国市場の成長性"
     ]
   },
-  "source_count": 37
+  "source_count": 23
 }

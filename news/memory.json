@@ -1,41 +1,59 @@
 {
-  "generated_at": "2026-06-27T06:31:44.799479+09:00",
+  "generated_at": "2026-07-01T06:33:58.462231+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
-    "stars": 2,
-    "title": "Chip Industry Week In Review",
-    "summary": "Onsemi to buy Synaptics; IBM's 7Å chip w/40% more SRAM area; 1nm MoS2 nanotubes; AI pressure points; memory updates; $25",
+    "stars": 3,
+    "title": "Chip Industry Technical Paper Roundup: June 30",
+    "summary": "半導体業界の技術論文まとめ。DRAM干渉、原子スケールプラズマ処理、酸化ガリウム相不安定性、ファブ制御用強化学習、組み込みプロセッサのタイミング漏洩、LLM支援RTL生成、TPU訓練スーパーコンピュータ。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-week-in-review-144"
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-30"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Chip Industry Week In Review",
-        "blurb": "Onsemi to buy Synaptics; IBM's 7Å chip w/40% more SRAM area; 1nm MoS2 nanotubes; AI pressure points; memory updates; $25",
-        "category": "company",
-        "date": "2026-06-26",
-        "stars": 2,
+        "title": "Chip Industry Technical Paper Roundup: June 30",
+        "blurb": "半導体業界の技術論文まとめ。DRAM干渉、原子スケールプラズマ処理、酸化ガリウム相不安定性、ファブ制御用強化学習、組み込みプロセッサのタイミング漏洩、LLM支援RTL生成、TPU訓練スーパーコンピュータ。",
+        "category": "business",
+        "date": "2026-06-30",
+        "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-144"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-30"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "backend",
+          "process": null,
           "market": null,
-          "industry": "geopolitics"
+          "industry": null
+        }
+      },
+      {
+        "title": "AI時代のメモリ／ストレージ覇権",
+        "blurb": "AIブームでメモリ・ストレージ市場が活況。HDD、SSD、HBMなどの次世代技術を巡るメーカー間の競争が激化している。",
+        "category": "business",
+        "date": "2026-06-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/30/news001.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T06:32:48.942580+09:00",
+  "generated_at": "2026-07-01T06:33:58.462545+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
@@ -15,29 +15,12 @@
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "半導体主権の「現実解」　GFとQualinxが欧州域内製造フロー実証",
-        "blurb": "GFとQualinxが欧州域内製造フローでGNSS SoCを完成。半導体主権に向けた一歩だが、EDAや材料に課題。",
-        "category": "company",
-        "date": "2026-06-29",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news047.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
+    "news": [],
+    "tech": [
       {
         "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)",
         "blurb": "ETH ZurichらがRISC-Vのオープンソースプラットフォーム「Croc」を発表。学生がRTLからシリコンまでチップ設計を学べる。",
-        "category": "company",
+        "category": "tools",
         "date": "2026-06-30",
         "stars": 3,
         "source": {
@@ -53,7 +36,6 @@
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }
