@@ -1,31 +1,86 @@
 {
-  "generated_at": "2026-07-01T06:33:58.462545+09:00",
+  "generated_at": "2026-07-02T06:33:54.262637+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)",
-    "summary": "ETH ZurichらがRISC-Vのオープンソースプラットフォーム「Croc」を発表。学生がRTLからシリコンまでチップ設計を学べる。",
+    "title": "Securing the Software Defined Vehicle: How Rambus and Telechips Enable Safe, Scalable Automotive SoC",
+    "summary": "RambusとTelechipsは、ハードウェアベースのRoot of Trustを含む、システムレベルのセキュリティを備えたスケーラブルな車載SoCプラットフォームを発表しました。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/open-source-risc-v-platform-trains-chip-designers-from-rtl-to-silicon-eth-z-lowrisc-u-of-bologna"
+        "url": "https://semiengineering.com/securing-the-software-defined-vehicle-how-rambus-and-telechips-enable-safe-scalable-automotive-soc"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)",
-        "blurb": "ETH ZurichらがRISC-Vのオープンソースプラットフォーム「Croc」を発表。学生がRTLからシリコンまでチップ設計を学べる。",
-        "category": "tools",
-        "date": "2026-06-30",
+        "title": "Securing the Software Defined Vehicle: How Rambus and Telechips Enable Safe, Scalable Automotive SoC",
+        "blurb": "RambusとTelechipsは、ハードウェアベースのRoot of Trustを含む、システムレベルのセキュリティを備えたスケーラブルな車載SoCプラットフォームを発表しました。",
+        "category": "company",
+        "date": "2026-07-01",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/open-source-risc-v-platform-trains-chip-designers-from-rtl-to-silicon-eth-z-lowrisc-u-of-bologna"
+          "url": "https://semiengineering.com/securing-the-software-defined-vehicle-how-rambus-and-telechips-enable-safe-scalable-automotive-soc"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "A Massively Parallel GPU Rasterizer for Next-generation Computational Lithography",
+        "blurb": "次世代計算リソグラフィ向けGPUラスタライザで高速化。半導体エンジニアリングの記事。",
+        "category": "tools",
+        "date": "2026-07-01",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/a-massively-parallel-gpu-rasterizer-for-next-generation-computational-lithography"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "HyperLane: GPU Virtualization with Imagination",
+        "blurb": "HyperLaneは、GPU仮想化技術で、分離性向上、リソース活用、SW機能統合を可能にする。",
+        "category": "tools",
+        "date": "2026-07-01",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hyperlane-gpu-virtualization-with-imagination"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Efficient Computer Introduces Efficient Labs Platform",
+        "blurb": "Efficient Computerが、プロセッサ開発を簡略化するブラウザベースの開発ツール「Efficient Labs」を発表。評価・試作を加速。",
+        "category": "tools",
+        "date": "2026-07-02",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/efficient-computer-introduces-efficient-labs-platform"
         },
         "field": {
           "primary": "logic",

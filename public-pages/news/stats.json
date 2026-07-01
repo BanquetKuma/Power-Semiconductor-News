@@ -1,23 +1,28 @@
 {
-  "generated_at": "2026-07-01T06:33:58.463758+09:00",
-  "date": "2026-07-01",
-  "total_items": 25,
-  "semiconductor_items": 11,
+  "generated_at": "2026-07-02T06:33:54.265099+09:00",
+  "date": "2026-07-02",
+  "total_items": 56,
+  "semiconductor_items": 17,
   "by_field": {
     "power": 2,
-    "memory": 2,
-    "logic": 1,
-    "idm": 1,
-    "general": 5
+    "logic": 4,
+    "analog": 1,
+    "ai": 1,
+    "datacenter": 1,
+    "foundry": 1,
+    "backend": 1,
+    "general": 6
   },
   "sources": [
+    "edn.com",
+    "embedded.com",
     "itmedia.co.jp",
     "powerelectronicsnews.com",
     "semiengineering.com"
   ],
   "sections": {
-    "business": 4,
-    "tools": 1,
+    "business": 6,
+    "tools": 9,
     "company": 7,
     "sns": 0
   }

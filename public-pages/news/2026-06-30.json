@@ -1,28 +1,76 @@
 {
-  "generated_at": "2026-07-01T06:33:58.460918+09:00",
+  "generated_at": "2026-06-30T06:32:48.941095+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Wide Bandgap Monthly Insights – June 2026",
-    "summary": "6月の広帯域ギャップ材料（SiC、GaN）に関する最新ニュースまとめ。",
+    "stars": 4,
+    "title": "SiTime Upgrades Chorus Clock Generators",
+    "summary": "SiTimeがAIデータセンター向けクロックジェネレータ「Chorus 2」を発表。性能2倍、ジッター半減、スキュー2.5倍低減。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-june-2026"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/sitime-upgrades-chorus-clock-generators"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Wide Bandgap Monthly Insights – June 2026",
-        "blurb": "6月の広帯域ギャップ材料（SiC、GaN）に関する最新ニュースまとめ。",
+        "title": "SiTime Upgrades Chorus Clock Generators",
+        "blurb": "SiTimeがAIデータセンター向けクロックジェネレータ「Chorus 2」を発表。性能2倍、ジッター半減、スキュー2.5倍低減。",
         "category": "business",
         "date": "2026-06-30",
+        "stars": 4,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/sitime-upgrades-chorus-clock-generators"
+        },
+        "field": null
+      },
+      {
+        "title": "The Evolution in Data Center Power Distribution Panel, Part 2: SSTs",
+        "blurb": "データセンターで800VDCへの移行が進み、SST（Solid State Transformer）の採用が拡大。半導体選定や導入初期段階で技術は発展途上。",
+        "category": "business",
+        "date": "2026-06-29",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-june-2026"
+          "url": "https://www.powerelectronicsnews.com/the-evolution-in-data-center-power-distribution-panel-part-2-ssts"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Rethinking Chip Verification",
+        "blurb": "仕様エンジニアリングがチップ検証のボトルネック解消策として注目されている。",
+        "category": "business",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/rethinking-chip-verification"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GaNアンプはどんな音がする？ Siアンプと聴き比べたら",
+        "blurb": "GaNアンプの音質をSiアンプと比較。DACチップのように増幅素子で音を選ぶ楽しみが広がる可能性。",
+        "category": "business",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news072.html"
         },
         "field": {
           "primary": "power",
@@ -33,81 +81,117 @@
         }
       },
       {
-        "title": "Chip Industry Technical Paper Roundup: June 30",
-        "blurb": "半導体業界の技術論文まとめ。DRAM干渉、原子スケールプラズマ処理、酸化ガリウム相不安定性、ファブ制御用強化学習、組み込みプロセッサのタイミング漏洩、LLM支援RTL生成、TPU訓練スーパーコンピュータ。",
+        "title": "レゾナック、高純度フッ化水素ガスの製造体制強化",
+        "blurb": "レゾナックは半導体製造に不可欠な高純度フッ化水素ガス（HFガス）の国内製造拠点を、徳山事業所でも開始し、2拠点体制を強化する。",
         "category": "business",
-        "date": "2026-06-30",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-30"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Micronの業績、利益額は3四半期連続、利益率は2四半期連続で過去最高を更新",
-        "blurb": "Micron、26年度第3四半期は売上高営業利益率80.4%で過去最高。全顧客分野で売上3倍超。",
-        "category": "business",
-        "date": "2026-06-30",
+        "date": "2026-06-29",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/30/news065.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news031.html"
         },
         "field": {
-          "primary": "idm",
+          "primary": "frontend",
           "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "AI時代のメモリ／ストレージ覇権",
-        "blurb": "AIブームでメモリ・ストレージ市場が活況。HDD、SSD、HBMなどの次世代技術を巡るメーカー間の競争が激化している。",
-        "category": "business",
-        "date": "2026-06-30",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/30/news001.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
+          "process": "frontend",
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "EAS tags: The invisible backbone of retail security",
+        "blurb": "小売業の防犯に不可欠なEASタグは、年間数十億ドル相当の商品を守る見えない基盤となっている。",
+        "category": "business",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/eas-tags-the-invisible-backbone-of-retail-security"
+        },
+        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)",
-        "blurb": "ETH ZurichらがRISC-Vのオープンソースプラットフォーム「Croc」を発表。学生がRTLからシリコンまでチップ設計を学べる。",
+        "title": "Frenetic Expands Magnetics Design Tools with Planar Transformer Support",
+        "blurb": "Freneticが磁気設計ツールを拡張し、平面トランスのサポートを追加。熱性能や冷却戦略の最適化を支援。",
         "category": "tools",
-        "date": "2026-06-30",
+        "date": "2026-06-29",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/open-source-risc-v-platform-trains-chip-designers-from-rtl-to-silicon-eth-z-lowrisc-u-of-bologna"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/frenetic-expands-magnetics-design-tools-with-planar-transformer-support"
+        },
+        "field": null
+      },
+      {
+        "title": "熱放射を自在に操る新たな光デバイス提案、大阪公立大ら",
+        "blurb": "大阪公立大らは、熱放射の向きを自在に制御できる新たな光デバイスを理論提案。試作・実証へ。",
+        "category": "tools",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news033.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Dissecting an active Ethernet splitter",
+        "blurb": "イーサネットスプリッターでポート不足を解消。適切な製品選びが重要。",
+        "category": "tools",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/dissecting-an-active-ethernet-splitter"
+        },
+        "field": null
+      },
+      {
+        "title": "Qualinx Integrates Galileo OSNMA into GNSS Receiver",
+        "blurb": "Qualinxは低消費電力GNSS受信機にGalileo OSNMAを統合し、認証付き衛星測位をバッテリー駆動デバイスで利用可能にした。",
+        "category": "tools",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/qualinx-integrates-galileo-osnma-into-gnss-receiver"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "ぼっち系エンジニア、「幸せ」について論文とデータで殴られる",
+        "blurb": "都市交通計画特論の講義で、幸せには外出や人との交流が不可欠だと論理的に学ばされた。",
+        "category": "company",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news058.html"
+        },
+        "field": null
+      },
+      {
+        "title": "半導体主権の「現実解」　GFとQualinxが欧州域内製造フロー実証",
+        "blurb": "GFとQualinxが欧州域内製造フローでGNSS SoCを完成。半導体主権に向けた一歩だが、EDAや材料に課題。",
+        "category": "company",
+        "date": "2026-06-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news047.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "foundry"
         }
-      }
-    ],
-    "company": [
+      },
       {
         "title": "HW Fingerprinting Technique for Silicon Photonic ICs Using Photonic Crystal-based Density-Controlled Patterns (U. of Florida)",
         "blurb": "フロリダ大の研究者は、フォトニック結晶パターンでシリコンフォトニクスICに固有の光署名を埋め込み、デバイス認証とサプライチェーンセキュリティを強化する技術を発表しました。",
@@ -145,84 +229,18 @@
         }
       },
       {
-        "title": "直径1nmの半導体ナノチューブの合成に成功、東大ら",
-        "blurb": "東大、直径1nmの半導体ナノチューブ合成に成功。GAA型トランジスタのチャネル材料として期待。",
+        "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)",
+        "blurb": "ETH ZurichらがRISC-Vのオープンソースプラットフォーム「Croc」を発表。学生がRTLからシリコンまでチップ設計を学べる。",
         "category": "company",
         "date": "2026-06-30",
         "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/30/news049.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "カメラでも存在感放つ中国　Insta360／DJIの全天ドローンを分解",
-        "blurb": "中国メーカーInsta360とDJIの全天カメラ搭載ドローンを分解。Insta360は市場シェア60%以上、中国メーカー全体で95%以上を占める。",
-        "category": "company",
-        "date": "2026-06-30",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/29/news023.html"
-        },
-        "field": null
-      },
-      {
-        "title": "バイオマス度40％で高耐熱性のエポキシ樹脂　三菱電機が新開発",
-        "blurb": "三菱電機はバイオマス度40%以上で耐熱性・流動性を備えたエポキシ樹脂を開発。2030年までに半導体やモーターへの適用を目指す。",
-        "category": "company",
-        "date": "2026-06-30",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/30/news067.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Half-Bridge GaN Drive for Optical Phased Array LiDAR’s",
-        "blurb": "A GaN half-bridge driver enables high-frequency, high-current pulse laser operation for optical phased array LiDAR syste",
-        "category": "company",
-        "date": "2026-06-30",
-        "stars": 2,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/half-bridge-gan-drive-for-optical-phased-array-lidars"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Research Bits: June 30",
-        "blurb": "Monolithic 3D integration; near-field heat transfer. The post Research Bits: June 30 appeared first on Semiconductor Eng",
-        "category": "company",
-        "date": "2026-06-30",
-        "stars": 2,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-june-30"
+          "url": "https://semiengineering.com/open-source-risc-v-platform-trains-chip-designers-from-rtl-to-silicon-eth-z-lowrisc-u-of-bologna"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
           "market": null,
           "industry": null
