@@ -1,184 +1,168 @@
 {
-  "generated_at": "2026-07-02T06:34:00.896459+09:00",
-  "date": "2026-07-02",
+  "generated_at": "2026-07-03T06:27:13.887016+09:00",
+  "date": "2026-07-03",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ（WBG）材料の進化と採用拡大",
+      "name": "広帯域ギャップ（WBG）材料の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "datacenter",
-        "industrial"
+        "ai"
       ],
-      "summary": "SiCおよびGaN材料の性能向上、製造技術の進展により、EV、データセンター、産業機器などでの採用が加速。",
+      "summary": "SiCとGaNの性能向上が進み、EV、データセンター、AIインフラなどでの採用が拡大。コスト競争力と供給安定化が鍵。",
       "analysis": {
-        "short_term": "新世代製品の発表と採用事例の増加が続く。",
-        "mid_term": "300mmウェーハ化や基板技術の進展でコスト競争力向上。",
-        "investment_implications": "WBG材料メーカー、関連装置・材料サプライヤーに注目。"
+        "short_term": "EV・データセンター向け需要増でSiC/GaN市場は堅調。",
+        "mid_term": "300mmウェーハ化や新材料開発で性能・コスト競争が激化。",
+        "investment_implications": "WBG材料メーカー、関連装置メーカーに注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "高効率"
+        "AI"
       ],
       "companies_mentioned": [
-        "Wolfspeed",
         "onsemi",
-        "サンケン電気",
+        "Wolfspeed",
+        "Infineon",
         "東北大学"
       ]
     },
     {
-      "name": "AIとデータセンターのインフラ投資加速",
+      "name": "AIインフラとデータセンターの進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "logic",
+        "power",
         "memory",
-        "backend"
+        "foundry"
       ],
-      "summary": "AI処理能力向上のため、データセンターの電力供給、冷却、コンピューティングリソースへの投資が拡大。",
+      "summary": "AI需要増に伴い、データセンターの電力効率、計算能力、ストレージ容量が飛躍的に向上。800VDC、HBM、光接続などが重要技術に。",
       "analysis": {
-        "short_term": "AIサーバー向け高性能チップ、HBMの需要が継続。",
-        "mid_term": "800VDC電源、SST、チップレット設計などインフラ技術が進化。",
-        "investment_implications": "AIチップ、メモリ、データセンターインフラ関連企業に追い風。"
+        "short_term": "AIチップ需要は引き続き旺盛、関連インフラ投資も加速。",
+        "mid_term": "電力供給、冷却、データ転送技術の革新がデータセンターの性能を左右。",
+        "investment_implications": "AI向けチップ、メモリ、高速インターコネクト、データセンター関連企業に投資妙味。"
       },
       "keywords": [
         "AI",
         "データセンター",
         "HBM",
-        "チップレット",
-        "800VDC"
+        "800VDC",
+        "光接続"
       ],
       "companies_mentioned": [
         "onsemi",
-        "Synaptics",
-        "Micron",
-        "Cadence",
-        "NVIDIA",
-        "OKI",
+        "Wolfspeed",
+        "GF",
         "ソシオネクスト",
-        "TSMC"
+        "Micron",
+        "エレファンテック",
+        "OKI"
       ]
     },
     {
-      "name": "車載半導体の高度化とセキュリティ強化",
-      "confidence": 0.88,
+      "name": "ソフトウェア定義車両（SDV）のセキュリティ強化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "logic",
-        "security",
-        "datacenter"
+        "analog",
+        "geopolitics"
       ],
-      "summary": "ソフトウェア定義型車両（SDV）の実現に向け、車載SoCの性能向上、セキュリティ、デジタルツイン活用が進む。",
+      "summary": "OTAアップデートや集中コンピューティングにより、車両のセキュリティリスクが増大。信頼性の再構築とセキュアなソフトウェア開発が不可欠。",
       "analysis": {
-        "short_term": "車載SoCのセキュリティ機能実装が重要視される。",
-        "mid_term": "電子デジタルツインによる開発効率化・安全性向上が進展。",
-        "investment_implications": "車載SoC、セキュリティソリューション、EDAツールに注目。"
+        "short_term": "サイバーセキュリティ対策への投資が自動車メーカーで加速。",
+        "mid_term": "ハードウェアとソフトウェアの統合的なセキュリティ設計が重要に。",
+        "investment_implications": "車載半導体、セキュリティソリューションプロバイダーに注目。"
       },
       "keywords": [
         "SDV",
-        "車載SoC",
         "セキュリティ",
-        "デジタルツイン",
-        "Root of Trust"
+        "OTA",
+        "信頼性",
+        "サイバーセキュリティ"
       ],
       "companies_mentioned": [
-        "Rambus",
-        "Telechips",
-        "GF",
-        "Qualinx"
+        "MIPI"
       ]
     },
     {
-      "name": "次世代コンピューティングとエッジAIの融合",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "ai",
-        "datacenter",
-        "industrial",
-        "miniaturization"
-      ],
-      "summary": "GPU仮想化、計算リソグラフィ、エッジデバイスでのローカルAI処理など、コンピューティング能力の分散と高度化が進む。",
-      "analysis": {
-        "short_term": "エッジデバイスの接続性・処理能力向上のための技術開発。",
-        "mid_term": "GPU仮想化やAI推論チップの性能競争が激化。",
-        "investment_implications": "GPU、AIアクセラレータ、エッジコンピューティング関連企業に機会。"
-      },
-      "keywords": [
-        "GPU",
-        "エッジAI",
-        "仮想化",
-        "計算リソグラフィ",
-        "Wi-Fi 7"
-      ],
-      "companies_mentioned": [
-        "Imagination",
-        "アドバンテスト",
-        "OpenLight"
-      ]
-    },
-    {
-      "name": "半導体製造技術の革新とサプライチェーン再編",
+      "name": "エッジAIの普及と開発モデル",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
-        "frontend",
-        "backend",
-        "geopolitics",
-        "wafer"
+        "ai",
+        "logic",
+        "industrial",
+        "automotive"
       ],
-      "summary": "先端プロセス開発、新材料、宇宙製造、地域内製造フロー実証など、技術革新と地政学リスク対応が進む。",
+      "summary": "エッジAIの普及には、高性能なシリコンだけでなく、開発モデルやエコシステムの整備が重要。DSPの採用事例が参考になる。",
       "analysis": {
-        "short_term": "先端材料・化学品の供給体制強化が継続。",
-        "mid_term": "宇宙空間での製造や地域内製造フローの実現性が問われる。",
-        "investment_implications": "先端材料メーカー、ファウンドリ、EDAツールベンダーに注目。"
+        "short_term": "エッジAI向けプロセッサの多様化と性能向上が続く。",
+        "mid_term": "開発ツールの進化とソフトウェア最適化が普及の鍵となる。",
+        "investment_implications": "エッジAI向けSoC、開発プラットフォーム提供企業に機会。"
       },
       "keywords": [
-        "チップレット",
-        "1.4nm",
-        "フッ化水素ガス",
-        "宇宙製造",
-        "半導体主権"
+        "エッジAI",
+        "DSP",
+        "開発モデル",
+        "SoC"
       ],
       "companies_mentioned": [
-        "ソシオネクスト",
-        "TSMC",
-        "レゾナック",
+        "Synaptics"
+      ]
+    },
+    {
+      "name": "次世代製造技術と宇宙での半導体製造",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "equipment",
+        "frontend",
+        "miniaturization"
+      ],
+      "summary": "計算リソグラフィの高速化、ナノチューブ活用、宇宙での製造など、半導体製造技術の革新が進む。地球外での製造は新たな可能性を開く。",
+      "analysis": {
+        "short_term": "微細化競争は継続、新材料・新構造の探求が活発化。",
+        "mid_term": "宇宙製造は長期的な視点だが、技術的ブレークスルーの可能性。",
+        "investment_implications": "先端製造装置、材料、研究開発型企業に注目。"
+      },
+      "keywords": [
+        "計算リソグラフィ",
+        "ナノチューブ",
+        "宇宙製造",
+        "微細化"
+      ],
+      "companies_mentioned": [
         "GF",
-        "Qualinx",
-        "東大",
-        "三菱電機"
+        "ソシオネクスト",
+        "レゾナック",
+        "東大"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "WBG材料（SiC/GaN）の需要拡大と技術革新。",
-      "AIサーバーおよびデータセンター向け半導体の需要増。",
-      "車載半導体市場の成長と高機能化。",
-      "メモリ市場の回復とHBM需要の継続。",
-      "先端製造技術（チップレット、新プロセス）への投資活発化。"
+      "AI需要によるメモリ・ストレージ市場の活況",
+      "EV・データセンター向けパワー半導体需要の増加",
+      "データセンターの800VDC移行とSST採用加速",
+      "メモリ製造装置への投資額増加"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性。",
-      "一部の汎用半導体における過剰供給リスク。",
-      "先端技術開発における巨額な設備投資負担。"
+      "AIによるサイバー攻撃リスクの増大（データフュージョン、LLM脆弱性）"
     ],
     "neutral": [
-      "半導体製造装置市場の変動性。",
-      "半導体材料の安定供給確保に向けた取り組み。"
+      "NVMe 2.0の普及によるSSDアクセス改善",
+      "ヒューマノイド技術の進展（視覚・運動）"
     ]
   },
-  "source_count": 37
+  "source_count": 39
 }

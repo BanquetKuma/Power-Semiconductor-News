@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-02T06:33:54.263502+09:00",
+  "generated_at": "2026-07-03T06:27:06.880921+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AIサーバ用高密度基板の目視判定をAIで、OKIが新技術",
-    "summary": "OKIはAIサーバ用高密度基板の目視検査時間を約8割削減するAI技術を開発。検査精度向上と時間短縮に貢献。",
+    "title": "Three Things DSP Adoption Can Teach Us About Edge AI",
+    "summary": "DSP採用から学ぶエッジAI開発の教訓。シリコンではなく開発モデルが普及の鍵となる。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/01/news032.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/three-things-dsp-adoption-can-teach-us-about-edge-ai"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "AIサーバ用高密度基板の目視判定をAIで、OKIが新技術",
-        "blurb": "OKIはAIサーバ用高密度基板の目視検査時間を約8割削減するAI技術を開発。検査精度向上と時間短縮に貢献。",
+        "title": "多層基板の層間接続材料を開発、エレファンテック",
+        "blurb": "エレファンテックが多層基板の層間接続材料「SAphire B」を開発。AIサーバ等向けに低抵抗・高信頼接続を実現。",
         "category": "company",
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/01/news032.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/02/news053.html"
         },
         "field": {
           "primary": "ai",
@@ -35,7 +35,26 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Three Things DSP Adoption Can Teach Us About Edge AI",
+        "blurb": "DSP採用から学ぶエッジAI開発の教訓。シリコンではなく開発モデルが普及の鍵となる。",
+        "category": "tools",
+        "date": "2026-07-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/three-things-dsp-adoption-can-teach-us-about-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-07-02T06:33:54.262637+09:00",
+  "generated_at": "2026-07-03T06:27:06.880258+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Securing the Software Defined Vehicle: How Rambus and Telechips Enable Safe, Scalable Automotive SoC",
-    "summary": "RambusとTelechipsは、ハードウェアベースのRoot of Trustを含む、システムレベルのセキュリティを備えたスケーラブルな車載SoCプラットフォームを発表しました。",
+    "title": "Accelerating Computational Lithography With GPU Rasterization",
+    "summary": "GPUラスタライゼーションでナノスケール半導体製造の計算リソグラフィを高速化。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/securing-the-software-defined-vehicle-how-rambus-and-telechips-enable-safe-scalable-automotive-soc"
+        "url": "https://semiengineering.com/accelerating-computational-lithography-with-gpu-rasterization"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Securing the Software Defined Vehicle: How Rambus and Telechips Enable Safe, Scalable Automotive SoC",
-        "blurb": "RambusとTelechipsは、ハードウェアベースのRoot of Trustを含む、システムレベルのセキュリティを備えたスケーラブルな車載SoCプラットフォームを発表しました。",
+        "title": "UWB SoC provides precise distance measurement",
+        "blurb": "インフィニオン、センチメートル級測距が可能なUWB SoC「AIROC UWB TSL100」を発表。",
         "category": "company",
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-the-software-defined-vehicle-how-rambus-and-telechips-enable-safe-scalable-automotive-soc"
+          "name": "edn.com",
+          "url": "https://www.edn.com/uwb-soc-provides-precise-distance-measurement"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip combines NFC and post-quantum security",
+        "blurb": "STマイクロエレクトロニクスが、NFCと量子コンピュータ耐性暗号技術を統合した新チップを発表。セキュリティ強化に貢献。",
+        "category": "company",
+        "date": "2026-07-02",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/chip-combines-nfc-and-post-quantum-security"
         },
         "field": {
           "primary": "logic",
@@ -37,44 +55,8 @@
     ],
     "tech": [
       {
-        "title": "A Massively Parallel GPU Rasterizer for Next-generation Computational Lithography",
-        "blurb": "次世代計算リソグラフィ向けGPUラスタライザで高速化。半導体エンジニアリングの記事。",
-        "category": "tools",
-        "date": "2026-07-01",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-massively-parallel-gpu-rasterizer-for-next-generation-computational-lithography"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "HyperLane: GPU Virtualization with Imagination",
-        "blurb": "HyperLaneは、GPU仮想化技術で、分離性向上、リソース活用、SW機能統合を可能にする。",
-        "category": "tools",
-        "date": "2026-07-01",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hyperlane-gpu-virtualization-with-imagination"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Efficient Computer Introduces Efficient Labs Platform",
-        "blurb": "Efficient Computerが、プロセッサ開発を簡略化するブラウザベースの開発ツール「Efficient Labs」を発表。評価・試作を加速。",
+        "blurb": "Efficient Computerは、汎用プロセッサ「Electron E1」向け開発ツール「Efficient Labs」を発表。ブラウザベースで、組み込み開発の複雑さを軽減し、評価・試作を加速する。",
         "category": "tools",
         "date": "2026-07-02",
         "stars": 3,
@@ -91,6 +73,25 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "Accelerating Computational Lithography With GPU Rasterization",
+        "blurb": "GPUラスタライゼーションでナノスケール半導体製造の計算リソグラフィを高速化。",
+        "category": "business",
+        "date": "2026-07-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/accelerating-computational-lithography-with-gpu-rasterization"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

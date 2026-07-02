@@ -1,50 +1,31 @@
 {
-  "generated_at": "2026-07-02T06:33:54.264831+09:00",
+  "generated_at": "2026-07-03T06:27:06.883004+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Blog Review: July 1",
-    "summary": "イーサネット自動交渉、過剰設計回避のマルチフィジックス、PCB設計再利用、モバイルLLM量子化、BSPDNモデリング。",
+    "title": "Defending Against AI-Enabled Data Fusion",
+    "summary": "AIによるマルチモーダルデータ融合は、攻撃者がデジタルツインを悪用するリスクを高める。対策が急務。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/blog-review-july-1-2"
+        "url": "https://semiengineering.com/defending-against-ai-enabled-data-fusion"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "「地球で作れない高性能半導体」宇宙で製造目指す　レゾナックら",
-        "blurb": "レゾナックらは、宇宙空間で重力の影響を受けない高性能半導体の製造を目指し、BEAM、日本低軌道社と覚書を締結した。",
-        "category": "company",
-        "date": "2026-07-01",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/01/news049.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "Blog Review: July 1",
-        "blurb": "イーサネット自動交渉、過剰設計回避のマルチフィジックス、PCB設計再利用、モバイルLLM量子化、BSPDNモデリング。",
+        "title": "Defending Against AI-Enabled Data Fusion",
+        "blurb": "AIによるマルチモーダルデータ融合は、攻撃者がデジタルツインを悪用するリスクを高める。対策が急務。",
         "category": "tools",
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-july-1-2"
+          "url": "https://semiengineering.com/defending-against-ai-enabled-data-fusion"
         },
         "field": {
           "primary": "general",
@@ -55,14 +36,14 @@
         }
       },
       {
-        "title": "Build Your Device Security Test Lab",
-        "blurb": "デバイスのセキュリティテストラボを構築。ハードウェア、ソフトウェア、専門家トレーニングを組み合わせ、組み込みシステムやチップのセキュリティ目標達成を支援。",
+        "title": "NVMe 2.0 Explained: What’s New And Why It Matters",
+        "blurb": "NVMe 2.0は、新しいコマンドセット、広範なメディアサポート、改善されたトランスポート組織により、従来のブロックベースSSDアクセスを超えて拡張されます。",
         "category": "tools",
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/build-your-device-security-test-lab"
+          "url": "https://semiengineering.com/nvme-2-0-explained-whats-new-and-why-it-matters"
         },
         "field": {
           "primary": "general",
@@ -73,14 +54,50 @@
         }
       },
       {
-        "title": "Solid-State Circuit Breakers From A System Perspective",
-        "blurb": "次世代電気システム向けに、保護、効率、信頼性を向上させるSSCBの利点と設計上の課題を解説。",
+        "title": "Breaking LLMs With Fuzzing: Inside GPTFuzz’s Automated Jailbreak Machine",
+        "blurb": "GPTFuzzは、大規模な入力プローブによりLLMの脆弱性や危険な挙動を自動検出する。",
         "category": "tools",
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/solid-state-circuit-breakers-from-a-system-perspective"
+          "url": "https://semiengineering.com/breaking-llms-with-fuzzing-inside-gptfuzzs-automated-jailbreak-machine"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Securing Camera Data: Introducing The MIPI CSE 2.0 Security Solution",
+        "blurb": "MIPI CSE 2.0は、カメラデータの画像データパスと制御チャネルの両方を保護する包括的で柔軟なセキュリティアーキテクチャです。",
+        "category": "tools",
+        "date": "2026-07-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/securing-camera-data-introducing-the-mipi-cse-2-0-security-solution"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Fine-Tuning Humanoid Vision And Movement",
+        "blurb": "人間の視覚と動作に近づくヒューマノイド技術が進展。次は嗅覚・味覚への応用も期待される。",
+        "category": "tools",
+        "date": "2026-07-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/fine-tuning-humanoid-vision-and-movement"
         },
         "field": {
           "primary": "general",
@@ -93,32 +110,14 @@
     ],
     "market": [
       {
-        "title": "Connectivity and Compute in Next-Generation Edge Devices",
-        "blurb": "次世代エッジデバイスはWi-Fi 7、ローカルAI処理、インテリジェントセンシングを統合し、接続性とコンピューティング能力を向上させる。",
+        "title": "Securing The Software-Defined Vehicle Starts With Re-Architecting Trust",
+        "blurb": "ソフトウェア定義車のセキュリティは、信頼の再構築から始まる。集中コンピューティングとOTAアップデートがリスクプロファイルを根本的に変える。",
         "category": "business",
-        "date": "2026-07-01",
+        "date": "2026-07-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/connectivity-and-compute-in-next-generation-edge-devices"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Re-Engineering Engineering for Automotive with Electronics Digital Twins for the SDV Era",
-        "blurb": "SDV時代に向け、電子デジタルツインで自動車開発を再構築。ソフトウェア開発加速、コスト削減、安全性向上を実現。",
-        "category": "business",
-        "date": "2026-07-01",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/re-engineering-engineering-for-automotive-with-electronics-digital-twins-for-the-sdv-era"
+          "url": "https://semiengineering.com/securing-the-software-defined-vehicle-starts-with-re-architecting-trust"
         },
         "field": {
           "primary": "general",
