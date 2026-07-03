@@ -1,32 +1,31 @@
 {
-  "generated_at": "2026-07-01T06:33:58.462231+09:00",
+  "generated_at": "2026-07-04T07:03:03.557037+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Technical Paper Roundup: June 30",
-    "summary": "半導体業界の技術論文まとめ。DRAM干渉、原子スケールプラズマ処理、酸化ガリウム相不安定性、ファブ制御用強化学習、組み込みプロセッサのタイミング漏洩、LLM支援RTL生成、TPU訓練スーパーコンピュータ。",
+    "title": "キオクシア、第10世代「BiCS FLASH」を北上で生産開始　AI需要に照準",
+    "summary": "キオクシアは北上工場で第10世代3次元NAND「BiCS FLASH」の生産を開始。AI需要に対応。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-30"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news138.html"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Chip Industry Technical Paper Roundup: June 30",
-        "blurb": "半導体業界の技術論文まとめ。DRAM干渉、原子スケールプラズマ処理、酸化ガリウム相不安定性、ファブ制御用強化学習、組み込みプロセッサのタイミング漏洩、LLM支援RTL生成、TPU訓練スーパーコンピュータ。",
-        "category": "business",
-        "date": "2026-06-30",
+        "title": "Waveshare RP2350-USB-C – A Compact Dev Board with Dual USB-C Ports",
+        "blurb": "WaveshareがRaspberry Pi RP2350A MCU搭載の小型開発ボード「RP2350-USB-C」を発表。デュアルUSB-Cポート搭載。",
+        "category": "tools",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-30"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/waveshare-rp2350-usb-c-a-compact-dev-board-with-dual-usb-c-ports"
         },
         "field": {
           "primary": "memory",
@@ -35,16 +34,18 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "market": [
       {
-        "title": "AI時代のメモリ／ストレージ覇権",
-        "blurb": "AIブームでメモリ・ストレージ市場が活況。HDD、SSD、HBMなどの次世代技術を巡るメーカー間の競争が激化している。",
+        "title": "キオクシア、第10世代「BiCS FLASH」を北上で生産開始　AI需要に照準",
+        "blurb": "キオクシアは北上工場で第10世代3次元NAND「BiCS FLASH」の生産を開始。AI需要に対応。",
         "category": "business",
-        "date": "2026-06-30",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/30/news001.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news138.html"
         },
         "field": {
           "primary": "memory",

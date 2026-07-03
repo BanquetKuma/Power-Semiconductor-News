@@ -1,75 +1,56 @@
 {
-  "generated_at": "2026-07-03T06:27:06.879589+09:00",
+  "generated_at": "2026-07-04T07:03:03.556480+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "PCIM 2026: onsemi’s Sam Francis on SiC EV Adoption, GaN Expansion, and the Innoscience Partnership",
-    "summary": "onsemiのサム・フランシス氏が、欧州と中国のSiC EV普及格差、GaNとSiCの補完関係、Innoscienceとの提携について語る。",
+    "title": "Battery Energy Storage Systems, Motor Control for Robotics, GaN Half-Bridge Driver: Power Electronics Week Insights",
+    "summary": "電力エレクトロニクス週間の最新動向：蓄電池、ロボット用モーター制御、GaNハーフブリッジドライバ。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/pcim-2026-onsemis-sam-francis-on-sic-ev-adoption-gan-expansion-and-the-innoscience-partnership"
+        "url": "https://www.powerelectronicsnews.com/battery-energy-storage-systems-motor-control-for-robotics-gan-half-bridge-driver-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Infineonがパワー半導体新工場 拠点の能力倍増でAI需要に対応",
-        "blurb": "Infineonがドイツにパワー半導体新工場を開設。AI、車載、再エネ需要に対応し、売上高50億ユーロを目指す。",
-        "category": "company",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news045.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "PCIM 2026: onsemi’s Sam Francis on SiC EV Adoption, GaN Expansion, and the Innoscience Partnership",
-        "blurb": "onsemiのサム・フランシス氏が、欧州と中国のSiC EV普及格差、GaNとSiCの補完関係、Innoscienceとの提携について語る。",
+        "title": "Battery Energy Storage Systems, Motor Control for Robotics, GaN Half-Bridge Driver: Power Electronics Week Insights",
+        "blurb": "電力エレクトロニクス週間の最新動向：蓄電池、ロボット用モーター制御、GaNハーフブリッジドライバ。",
         "category": "business",
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/pcim-2026-onsemis-sam-francis-on-sic-ev-adoption-gan-expansion-and-the-innoscience-partnership"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "80-V MOSFET improves power supply efficiency",
-        "blurb": "東芝が新世代プロセスで80V耐圧NチャネルMOSFETを開発。電源効率を向上させる。",
-        "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/80-v-mosfet-improves-power-supply-efficiency"
+          "url": "https://www.powerelectronicsnews.com/battery-energy-storage-systems-motor-control-for-robotics-gan-half-bridge-driver-power-electronics-week-insights"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "東芝D＆Sがパワー半導体新製品、AIデータセンター高効率化に",
+        "blurb": "東芝D＆Sは、AIデータセンター向けに80V耐圧パワーMOSFET新製品「TPM1R408RH」を開発・出荷開始。",
+        "category": "business",
+        "date": "2026-07-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news030.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "datacenter",
           "industry": null
         }
       }

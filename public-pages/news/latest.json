@@ -1,118 +1,58 @@
 {
-  "generated_at": "2026-07-03T06:27:06.878036+09:00",
+  "generated_at": "2026-07-04T07:03:03.555274+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "PCIM 2026: onsemi’s Sam Francis on SiC EV Adoption, GaN Expansion, and the Innoscience Partnership",
-    "summary": "onsemiのサム・フランシス氏が、欧州と中国のSiC EV普及格差、GaNとSiCの補完関係、Innoscienceとの提携について語る。",
+    "stars": 4,
+    "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
+    "summary": "CMUとUCLAの研究者が、HLS互換性向上のためLLMエージェントでソフトウェアをリファクタリングする手法を発表。既存ツール比で6.51倍の高速化を報告。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/pcim-2026-onsemis-sam-francis-on-sic-ev-adoption-gan-expansion-and-the-innoscience-partnership"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "PCIM 2026: onsemi’s Sam Francis on SiC EV Adoption, GaN Expansion, and the Innoscience Partnership",
-        "blurb": "onsemiのサム・フランシス氏が、欧州と中国のSiC EV普及格差、GaNとSiCの補完関係、Innoscienceとの提携について語る。",
+        "title": "Understanding the basics of battery energy storage systems",
+        "blurb": "バッテリーエネルギー貯蔵システムの性能は、電力変換、エネルギー管理、熱設計で決まる。基礎を解説。",
         "category": "business",
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/pcim-2026-onsemis-sam-francis-on-sic-ev-adoption-gan-expansion-and-the-innoscience-partnership"
+          "url": "https://www.powerelectronicsnews.com/understanding-the-basics-of-battery-energy-storage-systems"
+        },
+        "field": null
+      },
+      {
+        "title": "Battery Energy Storage Systems, Motor Control for Robotics, GaN Half-Bridge Driver: Power Electronics Week Insights",
+        "blurb": "電力エレクトロニクス週間の最新動向：蓄電池、ロボット用モーター制御、GaNハーフブリッジドライバ。",
+        "category": "business",
+        "date": "2026-07-03",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/battery-energy-storage-systems-motor-control-for-robotics-gan-half-bridge-driver-power-electronics-week-insights"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "AI Data Centers And Auto Industry Converge On Same Issues",
-        "blurb": "EVとAIデータセンターは、電力網との連携や新エネルギー解決策で共通の課題に直面。両分野で技術革新が進む。",
-        "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-data-centers-and-auto-industry-converge-on-same-issues"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Accelerating Computational Lithography With GPU Rasterization",
-        "blurb": "GPUラスタライゼーションでナノスケール半導体製造の計算リソグラフィを高速化。",
-        "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/accelerating-computational-lithography-with-gpu-rasterization"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "frontend",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Securing The Software-Defined Vehicle Starts With Re-Architecting Trust",
-        "blurb": "ソフトウェア定義車のセキュリティは、信頼の再構築から始まる。集中コンピューティングとOTAアップデートがリスクプロファイルを根本的に変える。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "韓国がAIに注力、新工場建設、インテル拡張、メモリ供給確保、AI関連投資、成熟ノードの需要増など、半導体業界の動向を網羅。",
         "category": "business",
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-the-software-defined-vehicle-starts-with-re-architecting-trust"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Platform Firmware Resiliency: How To Protect Your Data Center From The Ground Up",
-        "blurb": "データセンターをファームウェア攻撃から保護する構造化された方法。攻撃のエスカレーションを防ぐ。",
-        "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/platform-firmware-resiliency-how-to-protect-your-data-center-from-the-ground-up"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "光接続の標準規格「OCI」対応シリコン、GFが27年に投入",
-        "blurb": "GFは2027年までに、AIインフラ向け光インターコネクトの標準規格「OCI」対応シリコンを投入する。",
-        "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/02/news065.html"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-145"
         },
         "field": {
           "primary": "foundry",
@@ -123,258 +63,32 @@
         }
       },
       {
-        "title": "メモリ向け300mm製造装置の投資額、26年に初の500億ドル超へ",
-        "blurb": "2026年、メモリ製造装置への投資額が初めて500億ドル超え、27年には570億ドルに達する見込み。",
+        "title": "キオクシア、第10世代「BiCS FLASH」を北上で生産開始　AI需要に照準",
+        "blurb": "キオクシアは北上工場で第10世代3次元NAND「BiCS FLASH」の生産を開始。AI需要に対応。",
         "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/02/news054.html"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ルネサスがタイミングデバイス事業売却を完了、売却益4433億円",
-        "blurb": "ルネサスがタイミングデバイス事業を米SiTimeに4433億円で売却完了。26年12月期第3四半期に譲渡益を計上予定。",
-        "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/02/news052.html"
-        },
-        "field": null
-      },
-      {
-        "title": "SSDs are hot: Why AI demands micro-cooling",
-        "blurb": "AIの進化に伴い、SSDの発熱が限界に達しつつあります。マイクロ冷却技術が不可欠になっています。",
-        "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ssds-are-hot-why-ai-demands-micro-cooling"
-        },
-        "field": null
-      },
-      {
-        "title": "80-V MOSFET improves power supply efficiency",
-        "blurb": "東芝が新世代プロセスで80V耐圧NチャネルMOSFETを開発。電源効率を向上させる。",
-        "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/80-v-mosfet-improves-power-supply-efficiency"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Smart Power in Compact Spaces: Rethinking Motor Control for Robotics",
-        "blurb": "ロボットの小型化と熱管理を実現する、統合モーター制御プラットフォームによるモーター制御、センシング、電力管理の設計方法。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/smart-power-in-compact-spaces-rethinking-motor-control-for-robotics"
-        },
-        "field": null
-      },
-      {
-        "title": "Defending Against AI-Enabled Data Fusion",
-        "blurb": "AIによるマルチモーダルデータ融合は、攻撃者がデジタルツインを悪用するリスクを高める。対策が急務。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/defending-against-ai-enabled-data-fusion"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Three Things DSP Adoption Can Teach Us About Edge AI",
-        "blurb": "DSP採用から学ぶエッジAI開発の教訓。シリコンではなく開発モデルが普及の鍵となる。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/three-things-dsp-adoption-can-teach-us-about-edge-ai"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "NVMe 2.0 Explained: What’s New And Why It Matters",
-        "blurb": "NVMe 2.0は、新しいコマンドセット、広範なメディアサポート、改善されたトランスポート組織により、従来のブロックベースSSDアクセスを超えて拡張されます。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/nvme-2-0-explained-whats-new-and-why-it-matters"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Breaking LLMs With Fuzzing: Inside GPTFuzz’s Automated Jailbreak Machine",
-        "blurb": "GPTFuzzは、大規模な入力プローブによりLLMの脆弱性や危険な挙動を自動検出する。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/breaking-llms-with-fuzzing-inside-gptfuzzs-automated-jailbreak-machine"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Securing Camera Data: Introducing The MIPI CSE 2.0 Security Solution",
-        "blurb": "MIPI CSE 2.0は、カメラデータの画像データパスと制御チャネルの両方を保護する包括的で柔軟なセキュリティアーキテクチャです。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-camera-data-introducing-the-mipi-cse-2-0-security-solution"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Fine-Tuning Humanoid Vision And Movement",
-        "blurb": "人間の視覚と動作に近づくヒューマノイド技術が進展。次は嗅覚・味覚への応用も期待される。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/fine-tuning-humanoid-vision-and-movement"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Tachometer frequency to 4-20mA loop current converter",
-        "blurb": "タコメーターの周波数信号を4-20mAループ電流に変換するコンバーターは、産業用途で経済的。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/tachometer-frequency-to-4-20ma-loop-current-converter"
-        },
-        "field": null
-      },
-      {
-        "title": "Wireless module simplifies multiprotocol IoT design",
-        "blurb": "Quectelの新型ワイヤレスモジュールは、Wi-Fi 6、BLE 5.4、Zigbee、Threadを統合し、IoT設計を簡素化します。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/wireless-module-simplifies-multiprotocol-iot-design"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Efficient Computer Introduces Efficient Labs Platform",
-        "blurb": "Efficient Computerは、汎用プロセッサ「Electron E1」向け開発ツール「Efficient Labs」を発表。ブラウザベースで、組み込み開発の複雑さを軽減し、評価・試作を加速する。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/efficient-computer-introduces-efficient-labs-platform"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Kyocera AVX Launches Antenna Integration Tool",
-        "blurb": "京セラAVXがRF設計者向けにアンテナ選定・配置を最適化するウェブツール「Antenna Integrator Studio」を発表。製品品質・性能向上と市場投入期間短縮に貢献。",
-        "category": "tools",
         "date": "2026-07-03",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/kyocera-avx-launches-antenna-integration-tool"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news138.html"
         },
-        "field": null
-      }
-    ],
-    "company": [
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
       {
-        "title": "Infineonがパワー半導体新工場 拠点の能力倍増でAI需要に対応",
-        "blurb": "Infineonがドイツにパワー半導体新工場を開設。AI、車載、再エネ需要に対応し、売上高50億ユーロを目指す。",
-        "category": "company",
-        "date": "2026-07-02",
+        "title": "東芝D＆Sがパワー半導体新製品、AIデータセンター高効率化に",
+        "blurb": "東芝D＆Sは、AIデータセンター向けに80V耐圧パワーMOSFET新製品「TPM1R408RH」を開発・出荷開始。",
+        "category": "business",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news045.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news030.html"
         },
         "field": {
           "primary": "power",
@@ -385,116 +99,216 @@
         }
       },
       {
-        "title": "多層基板の層間接続材料を開発、エレファンテック",
-        "blurb": "エレファンテックが多層基板の層間接続材料「SAphire B」を開発。AIサーバ等向けに低抵抗・高信頼接続を実現。",
-        "category": "company",
-        "date": "2026-07-02",
+        "title": "住友化学がサムスン電機とガラスコア基板の合弁会社設立",
+        "blurb": "住友化学はサムスン電機と、先端半導体向けガラスコア基板事業の合弁会社を設立。サムスン電機が66％出資。",
+        "category": "business",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/02/news053.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news068.html"
         },
         "field": {
-          "primary": "ai",
+          "primary": "idm",
           "device": null,
           "process": null,
-          "market": "ai",
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "Absolute illiteracy about absolute maximum ratings",
+        "blurb": "絶対最大定格を超えるストレスは、チップの誤動作を引き起こす可能性があります。キーワードは「可能性」です。",
+        "category": "business",
+        "date": "2026-07-03",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/absolute-illiteracy-about-absolute-maximum-ratings"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "キオクシアやソニーの技術開発に注目　2026年6月の記事ランキング",
-        "blurb": "キオクシアやソニーの技術開発が注目された、2026年6月のEE Times Japan人気記事ランキング。",
-        "category": "company",
-        "date": "2026-07-02",
+        "title": "Why CXL Type 3 memory matters, what your platform must provide",
+        "blurb": "CXL Type 3メモリはローカルDIMMと異なり、レイテンシ・容量ピラミッドでエキスパンダーメモリの位置づけを解説。",
+        "category": "business",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/02/news042.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/why-cxl-type-3-memory-matters-what-your-platform-must-provide"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
+        "blurb": "CMUとUCLAの研究者が、HLS互換性向上のためLLMエージェントでソフトウェアをリファクタリングする手法を発表。既存ツール比で6.51倍の高速化を報告。",
+        "category": "tools",
+        "date": "2026-07-04",
+        "stars": 4,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Flux Report Examines Challenges of AI-Generated Code in Production",
+        "blurb": "Fluxの調査によると、AI生成コードの導入が進む一方、リスク管理との間にギャップがあることが判明した。",
+        "category": "tools",
+        "date": "2026-07-03",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/flux-report-examines-challenges-of-ai-generated-code-in-production"
         },
         "field": null
       },
       {
-        "title": "The interposer-to-PCB realization corridor in CoWoP",
-        "blurb": "CoWoSパッケージにおけるインターポーザからPCBへのピッチ変換が課題。高度なパッケージング技術の実現に向けた重要な要素。",
-        "category": "company",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/the-interposer-to-pcb-realization-corridor-in-cowop"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "UWB SoC provides precise distance measurement",
-        "blurb": "インフィニオン、センチメートル級測距が可能なUWB SoC「AIROC UWB TSL100」を発表。",
-        "category": "company",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/uwb-soc-provides-precise-distance-measurement"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip combines NFC and post-quantum security",
-        "blurb": "STマイクロエレクトロニクスが、NFCと量子コンピュータ耐性暗号技術を統合した新チップを発表。セキュリティ強化に貢献。",
-        "category": "company",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/chip-combines-nfc-and-post-quantum-security"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Hall current sensor delivers sigma-delta output",
-        "blurb": "Melexis社が、信号品質を向上させる2次デルタシグマデジタル出力を備えたホール電流センサーMLX91229を発表しました。",
-        "category": "company",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/hall-current-sensor-delivers-sigma-delta-output"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "SiMa Unveils Agentic Development Environment for Physical AI",
-        "blurb": "SiMaが物理AI向けエージェンティック開発環境を発表。開発期間を数ヶ月から数時間・数日に短縮。",
-        "category": "company",
-        "date": "2026-07-02",
+        "title": "Kyocera AVX Launches Antenna Integration Tool",
+        "blurb": "京セラAVXがRF設計者向けにアンテナ選定・配置を最適化するウェブツール「Antenna Integrator Studio」をリリース。製品品質・性能向上と市場投入期間短縮を支援。",
+        "category": "tools",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/sima-unveils-agentic-development-environment-for-physical-ai"
+          "url": "https://www.embedded.com/kyocera-avx-launches-antenna-integration-tool"
+        },
+        "field": null
+      },
+      {
+        "title": "Waveshare RP2350-USB-C – A Compact Dev Board with Dual USB-C Ports",
+        "blurb": "WaveshareがRaspberry Pi RP2350A MCU搭載の小型開発ボード「RP2350-USB-C」を発表。デュアルUSB-Cポート搭載。",
+        "category": "tools",
+        "date": "2026-07-03",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/waveshare-rp2350-usb-c-a-compact-dev-board-with-dual-usb-c-ports"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)",
+        "blurb": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイスの電荷注入最適化に不可欠。",
+        "category": "tools",
+        "date": "2026-07-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/computational-strategies-for-schottky-barrier-heights-prediction-nist-u-maryland-johns-hopkins"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Probabilistic Memory Architecture That Bridges The Gap Between RNG Sampling and Memory Access (Notre Dame, Georgia Tech, Villanova)",
+        "blurb": "ノートルダム大らが、乱数生成とメモリアクセスを統合する確率的メモリp-MEMを発表。低遅延・省電力化に貢献。",
+        "category": "tools",
+        "date": "2026-07-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/probabilistic-memory-architecture-that-bridges-the-gap-between-rng-sampling-and-memory-access-notre-dame-georgia-tech-villanova"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "ルネサスが描く2035年　「AIがユーザーになる時代」の成長戦略",
+        "blurb": "ルネサス、2035年を見据えAIインフラ、フィジカルAI、エッジインテリジェンスを成長ドライバーとする戦略を発表。",
+        "category": "company",
+        "date": "2026-07-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news052.html"
+        },
+        "field": null
+      },
+      {
+        "title": "高集積FPGAで防衛システムの進化支える、Alteraの戦略",
+        "blurb": "Alteraは防衛システム向け新FPGAを発表。航空宇宙・防衛市場を成長分野と捉え、注力する戦略を説明。",
+        "category": "company",
+        "date": "2026-07-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news057.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "リチウム金属電池の性能を最大化する指標を発見、東北大",
+        "blurb": "東北大がリチウム金属電池の性能最大化指標を発見。「イオン協調輸送」と「保護膜の強さ」が鍵。",
+        "category": "company",
+        "date": "2026-07-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news029.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Würth Elektronik’s WE-FNCS Targets Low-Frequency EMI Shielding",
+        "blurb": "ヴィルス・エレクトロニクスが低周波電磁干渉（EMI）を抑制する薄型・柔軟なナノ結晶シート「WE-FNCS」を発表。10Hz～120MHzに対応。",
+        "category": "company",
+        "date": "2026-07-03",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/wurth-elektroniks-we-fncs-targets-low-frequency-emi-shielding"
+        },
+        "field": null
+      },
+      {
+        "title": "Agentic Software for Physical AI, Rigid-Flex PCB Prototyping, LEO Satellites: Embedded Week Insights",
+        "blurb": "物理AI向けエージェンティックソフト、フレキシブル基板試作コスト削減、低軌道衛星のペイロード指向に関する最新動向をまとめた記事。",
+        "category": "company",
+        "date": "2026-07-04",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/agentic-software-for-physical-ai-rigid-flex-pcb-prototyping-leo-satellites-embedded-week-insights"
         },
         "field": null
       }

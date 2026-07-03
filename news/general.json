@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-03T06:27:06.883004+09:00",
+  "generated_at": "2026-07-04T07:03:03.558317+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Defending Against AI-Enabled Data Fusion",
-    "summary": "AIによるマルチモーダルデータ融合は、攻撃者がデジタルツインを悪用するリスクを高める。対策が急務。",
+    "stars": 4,
+    "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
+    "summary": "CMUとUCLAの研究者が、HLS互換性向上のためLLMエージェントでソフトウェアをリファクタリングする手法を発表。既存ツール比で6.51倍の高速化を報告。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/defending-against-ai-enabled-data-fusion"
+        "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
       }
     ]
   },
@@ -18,14 +18,14 @@
     "news": [],
     "tech": [
       {
-        "title": "Defending Against AI-Enabled Data Fusion",
-        "blurb": "AIによるマルチモーダルデータ融合は、攻撃者がデジタルツインを悪用するリスクを高める。対策が急務。",
+        "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
+        "blurb": "CMUとUCLAの研究者が、HLS互換性向上のためLLMエージェントでソフトウェアをリファクタリングする手法を発表。既存ツール比で6.51倍の高速化を報告。",
         "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
+        "date": "2026-07-04",
+        "stars": 4,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/defending-against-ai-enabled-data-fusion"
+          "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
         },
         "field": {
           "primary": "general",
@@ -36,14 +36,14 @@
         }
       },
       {
-        "title": "NVMe 2.0 Explained: What’s New And Why It Matters",
-        "blurb": "NVMe 2.0は、新しいコマンドセット、広範なメディアサポート、改善されたトランスポート組織により、従来のブロックベースSSDアクセスを超えて拡張されます。",
+        "title": "Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)",
+        "blurb": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイスの電荷注入最適化に不可欠。",
         "category": "tools",
-        "date": "2026-07-02",
+        "date": "2026-07-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/nvme-2-0-explained-whats-new-and-why-it-matters"
+          "url": "https://semiengineering.com/computational-strategies-for-schottky-barrier-heights-prediction-nist-u-maryland-johns-hopkins"
         },
         "field": {
           "primary": "general",
@@ -54,50 +54,14 @@
         }
       },
       {
-        "title": "Breaking LLMs With Fuzzing: Inside GPTFuzz’s Automated Jailbreak Machine",
-        "blurb": "GPTFuzzは、大規模な入力プローブによりLLMの脆弱性や危険な挙動を自動検出する。",
+        "title": "Probabilistic Memory Architecture That Bridges The Gap Between RNG Sampling and Memory Access (Notre Dame, Georgia Tech, Villanova)",
+        "blurb": "ノートルダム大らが、乱数生成とメモリアクセスを統合する確率的メモリp-MEMを発表。低遅延・省電力化に貢献。",
         "category": "tools",
-        "date": "2026-07-02",
+        "date": "2026-07-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/breaking-llms-with-fuzzing-inside-gptfuzzs-automated-jailbreak-machine"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Securing Camera Data: Introducing The MIPI CSE 2.0 Security Solution",
-        "blurb": "MIPI CSE 2.0は、カメラデータの画像データパスと制御チャネルの両方を保護する包括的で柔軟なセキュリティアーキテクチャです。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-camera-data-introducing-the-mipi-cse-2-0-security-solution"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Fine-Tuning Humanoid Vision And Movement",
-        "blurb": "人間の視覚と動作に近づくヒューマノイド技術が進展。次は嗅覚・味覚への応用も期待される。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/fine-tuning-humanoid-vision-and-movement"
+          "url": "https://semiengineering.com/probabilistic-memory-architecture-that-bridges-the-gap-between-rng-sampling-and-memory-access-notre-dame-georgia-tech-villanova"
         },
         "field": {
           "primary": "general",
@@ -110,14 +74,14 @@
     ],
     "market": [
       {
-        "title": "Securing The Software-Defined Vehicle Starts With Re-Architecting Trust",
-        "blurb": "ソフトウェア定義車のセキュリティは、信頼の再構築から始まる。集中コンピューティングとOTAアップデートがリスクプロファイルを根本的に変える。",
+        "title": "Absolute illiteracy about absolute maximum ratings",
+        "blurb": "絶対最大定格を超えるストレスは、チップの誤動作を引き起こす可能性があります。キーワードは「可能性」です。",
         "category": "business",
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/securing-the-software-defined-vehicle-starts-with-re-architecting-trust"
+          "name": "edn.com",
+          "url": "https://www.edn.com/absolute-illiteracy-about-absolute-maximum-ratings"
         },
         "field": {
           "primary": "general",

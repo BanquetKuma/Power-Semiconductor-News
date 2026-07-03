@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-07-03T06:27:06.880258+09:00",
+  "generated_at": "2026-07-04T07:03:03.557327+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Accelerating Computational Lithography With GPU Rasterization",
-    "summary": "GPUラスタライゼーションでナノスケール半導体製造の計算リソグラフィを高速化。",
+    "title": "高集積FPGAで防衛システムの進化支える、Alteraの戦略",
+    "summary": "Alteraは防衛システム向け新FPGAを発表。航空宇宙・防衛市場を成長分野と捉え、注力する戦略を説明。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/accelerating-computational-lithography-with-gpu-rasterization"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news057.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "UWB SoC provides precise distance measurement",
-        "blurb": "インフィニオン、センチメートル級測距が可能なUWB SoC「AIROC UWB TSL100」を発表。",
+        "title": "高集積FPGAで防衛システムの進化支える、Alteraの戦略",
+        "blurb": "Alteraは防衛システム向け新FPGAを発表。航空宇宙・防衛市場を成長分野と捉え、注力する戦略を説明。",
         "category": "company",
-        "date": "2026-07-02",
+        "date": "2026-07-03",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/uwb-soc-provides-precise-distance-measurement"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip combines NFC and post-quantum security",
-        "blurb": "STマイクロエレクトロニクスが、NFCと量子コンピュータ耐性暗号技術を統合した新チップを発表。セキュリティ強化に貢献。",
-        "category": "company",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/chip-combines-nfc-and-post-quantum-security"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news057.html"
         },
         "field": {
           "primary": "logic",
@@ -53,45 +35,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "Efficient Computer Introduces Efficient Labs Platform",
-        "blurb": "Efficient Computerは、汎用プロセッサ「Electron E1」向け開発ツール「Efficient Labs」を発表。ブラウザベースで、組み込み開発の複雑さを軽減し、評価・試作を加速する。",
-        "category": "tools",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/efficient-computer-introduces-efficient-labs-platform"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "Accelerating Computational Lithography With GPU Rasterization",
-        "blurb": "GPUラスタライゼーションでナノスケール半導体製造の計算リソグラフィを高速化。",
-        "category": "business",
-        "date": "2026-07-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/accelerating-computational-lithography-with-gpu-rasterization"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }
