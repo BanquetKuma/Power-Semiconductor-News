@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-07-04T07:03:03.558317+09:00",
+  "generated_at": "2026-07-05T06:57:12.666357+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
-    "summary": "CMUとUCLAの研究者が、HLS互換性向上のためLLMエージェントでソフトウェアをリファクタリングする手法を発表。既存ツール比で6.51倍の高速化を報告。",
+    "stars": 3,
+    "title": "Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)",
+    "summary": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイス最適化に不可欠。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
+        "url": "https://semiengineering.com/computational-strategies-for-schottky-barrier-heights-prediction-nist-u-maryland-johns-hopkins"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
-        "blurb": "CMUとUCLAの研究者が、HLS互換性向上のためLLMエージェントでソフトウェアをリファクタリングする手法を発表。既存ツール比で6.51倍の高速化を報告。",
-        "category": "tools",
+        "title": "Probabilistic Memory Architecture That Bridges The Gap Between RNG Sampling and Memory Access (Notre Dame, Georgia Tech, Villanova)",
+        "blurb": "ノートルダム大らが、乱数生成とメモリアクセスを統合する確率的メモリp-MEMを発表。推論処理の効率化に貢献。",
+        "category": "company",
         "date": "2026-07-04",
-        "stars": 4,
+        "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
+          "url": "https://semiengineering.com/probabilistic-memory-architecture-that-bridges-the-gap-between-rng-sampling-and-memory-access-notre-dame-georgia-tech-villanova"
         },
         "field": {
           "primary": "general",
@@ -34,10 +33,12 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [
       {
         "title": "Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)",
-        "blurb": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイスの電荷注入最適化に不可欠。",
+        "blurb": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイス最適化に不可欠。",
         "category": "tools",
         "date": "2026-07-04",
         "stars": 3,
@@ -54,14 +55,14 @@
         }
       },
       {
-        "title": "Probabilistic Memory Architecture That Bridges The Gap Between RNG Sampling and Memory Access (Notre Dame, Georgia Tech, Villanova)",
-        "blurb": "ノートルダム大らが、乱数生成とメモリアクセスを統合する確率的メモリp-MEMを発表。低遅延・省電力化に貢献。",
+        "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
+        "blurb": "カーネギーメロン大とUCLAの研究者が、HLS互換性向上のためのLLMエージェントを開発。既存ツール比で6.51倍の高速化を実現。",
         "category": "tools",
         "date": "2026-07-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/probabilistic-memory-architecture-that-bridges-the-gap-between-rng-sampling-and-memory-access-notre-dame-georgia-tech-villanova"
+          "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
         },
         "field": {
           "primary": "general",
@@ -72,25 +73,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "Absolute illiteracy about absolute maximum ratings",
-        "blurb": "絶対最大定格を超えるストレスは、チップの誤動作を引き起こす可能性があります。キーワードは「可能性」です。",
-        "category": "business",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/absolute-illiteracy-about-absolute-maximum-ratings"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

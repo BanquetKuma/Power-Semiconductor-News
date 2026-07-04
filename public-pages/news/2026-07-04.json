@@ -1,216 +1,36 @@
 {
-  "generated_at": "2026-07-04T07:03:03.555274+09:00",
+  "generated_at": "2026-07-05T06:57:12.665632+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
-    "summary": "CMUとUCLAの研究者が、HLS互換性向上のためLLMエージェントでソフトウェアをリファクタリングする手法を発表。既存ツール比で6.51倍の高速化を報告。",
+    "stars": 3,
+    "title": "Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)",
+    "summary": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイス最適化に不可欠。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
+        "url": "https://semiengineering.com/computational-strategies-for-schottky-barrier-heights-prediction-nist-u-maryland-johns-hopkins"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Understanding the basics of battery energy storage systems",
-        "blurb": "バッテリーエネルギー貯蔵システムの性能は、電力変換、エネルギー管理、熱設計で決まる。基礎を解説。",
+        "title": "Agentic Software for Physical AI, Rigid-Flex PCB Prototyping, LEO Satellites: Embedded Week Insights",
+        "blurb": "AI、フレキシブル基板、衛星通信の最新動向をまとめた記事。技術革新に注目。",
         "category": "business",
-        "date": "2026-07-03",
+        "date": "2026-07-04",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/understanding-the-basics-of-battery-energy-storage-systems"
-        },
-        "field": null
-      },
-      {
-        "title": "Battery Energy Storage Systems, Motor Control for Robotics, GaN Half-Bridge Driver: Power Electronics Week Insights",
-        "blurb": "電力エレクトロニクス週間の最新動向：蓄電池、ロボット用モーター制御、GaNハーフブリッジドライバ。",
-        "category": "business",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/battery-energy-storage-systems-motor-control-for-robotics-gan-half-bridge-driver-power-electronics-week-insights"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "韓国がAIに注力、新工場建設、インテル拡張、メモリ供給確保、AI関連投資、成熟ノードの需要増など、半導体業界の動向を網羅。",
-        "category": "business",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-145"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "キオクシア、第10世代「BiCS FLASH」を北上で生産開始　AI需要に照準",
-        "blurb": "キオクシアは北上工場で第10世代3次元NAND「BiCS FLASH」の生産を開始。AI需要に対応。",
-        "category": "business",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news138.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "東芝D＆Sがパワー半導体新製品、AIデータセンター高効率化に",
-        "blurb": "東芝D＆Sは、AIデータセンター向けに80V耐圧パワーMOSFET新製品「TPM1R408RH」を開発・出荷開始。",
-        "category": "business",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news030.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "住友化学がサムスン電機とガラスコア基板の合弁会社設立",
-        "blurb": "住友化学はサムスン電機と、先端半導体向けガラスコア基板事業の合弁会社を設立。サムスン電機が66％出資。",
-        "category": "business",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news068.html"
-        },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Absolute illiteracy about absolute maximum ratings",
-        "blurb": "絶対最大定格を超えるストレスは、チップの誤動作を引き起こす可能性があります。キーワードは「可能性」です。",
-        "category": "business",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/absolute-illiteracy-about-absolute-maximum-ratings"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Why CXL Type 3 memory matters, what your platform must provide",
-        "blurb": "CXL Type 3メモリはローカルDIMMと異なり、レイテンシ・容量ピラミッドでエキスパンダーメモリの位置づけを解説。",
-        "category": "business",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/why-cxl-type-3-memory-matters-what-your-platform-must-provide"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/agentic-software-for-physical-ai-rigid-flex-pcb-prototyping-leo-satellites-embedded-week-insights"
         },
         "field": null
       }
     ],
     "tools": [
       {
-        "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
-        "blurb": "CMUとUCLAの研究者が、HLS互換性向上のためLLMエージェントでソフトウェアをリファクタリングする手法を発表。既存ツール比で6.51倍の高速化を報告。",
-        "category": "tools",
-        "date": "2026-07-04",
-        "stars": 4,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Flux Report Examines Challenges of AI-Generated Code in Production",
-        "blurb": "Fluxの調査によると、AI生成コードの導入が進む一方、リスク管理との間にギャップがあることが判明した。",
-        "category": "tools",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/flux-report-examines-challenges-of-ai-generated-code-in-production"
-        },
-        "field": null
-      },
-      {
-        "title": "Kyocera AVX Launches Antenna Integration Tool",
-        "blurb": "京セラAVXがRF設計者向けにアンテナ選定・配置を最適化するウェブツール「Antenna Integrator Studio」をリリース。製品品質・性能向上と市場投入期間短縮を支援。",
-        "category": "tools",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/kyocera-avx-launches-antenna-integration-tool"
-        },
-        "field": null
-      },
-      {
-        "title": "Waveshare RP2350-USB-C – A Compact Dev Board with Dual USB-C Ports",
-        "blurb": "WaveshareがRaspberry Pi RP2350A MCU搭載の小型開発ボード「RP2350-USB-C」を発表。デュアルUSB-Cポート搭載。",
-        "category": "tools",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/waveshare-rp2350-usb-c-a-compact-dev-board-with-dual-usb-c-ports"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)",
-        "blurb": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイスの電荷注入最適化に不可欠。",
+        "blurb": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイス最適化に不可欠。",
         "category": "tools",
         "date": "2026-07-04",
         "stars": 3,
@@ -227,9 +47,29 @@
         }
       },
       {
-        "title": "Probabilistic Memory Architecture That Bridges The Gap Between RNG Sampling and Memory Access (Notre Dame, Georgia Tech, Villanova)",
-        "blurb": "ノートルダム大らが、乱数生成とメモリアクセスを統合する確率的メモリp-MEMを発表。低遅延・省電力化に貢献。",
+        "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
+        "blurb": "カーネギーメロン大とUCLAの研究者が、HLS互換性向上のためのLLMエージェントを開発。既存ツール比で6.51倍の高速化を実現。",
         "category": "tools",
+        "date": "2026-07-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "Probabilistic Memory Architecture That Bridges The Gap Between RNG Sampling and Memory Access (Notre Dame, Georgia Tech, Villanova)",
+        "blurb": "ノートルダム大らが、乱数生成とメモリアクセスを統合する確率的メモリp-MEMを発表。推論処理の効率化に貢献。",
+        "category": "company",
         "date": "2026-07-04",
         "stars": 3,
         "source": {
@@ -243,74 +83,6 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "company": [
-      {
-        "title": "ルネサスが描く2035年　「AIがユーザーになる時代」の成長戦略",
-        "blurb": "ルネサス、2035年を見据えAIインフラ、フィジカルAI、エッジインテリジェンスを成長ドライバーとする戦略を発表。",
-        "category": "company",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news052.html"
-        },
-        "field": null
-      },
-      {
-        "title": "高集積FPGAで防衛システムの進化支える、Alteraの戦略",
-        "blurb": "Alteraは防衛システム向け新FPGAを発表。航空宇宙・防衛市場を成長分野と捉え、注力する戦略を説明。",
-        "category": "company",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news057.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "リチウム金属電池の性能を最大化する指標を発見、東北大",
-        "blurb": "東北大がリチウム金属電池の性能最大化指標を発見。「イオン協調輸送」と「保護膜の強さ」が鍵。",
-        "category": "company",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news029.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Würth Elektronik’s WE-FNCS Targets Low-Frequency EMI Shielding",
-        "blurb": "ヴィルス・エレクトロニクスが低周波電磁干渉（EMI）を抑制する薄型・柔軟なナノ結晶シート「WE-FNCS」を発表。10Hz～120MHzに対応。",
-        "category": "company",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/wurth-elektroniks-we-fncs-targets-low-frequency-emi-shielding"
-        },
-        "field": null
-      },
-      {
-        "title": "Agentic Software for Physical AI, Rigid-Flex PCB Prototyping, LEO Satellites: Embedded Week Insights",
-        "blurb": "物理AI向けエージェンティックソフト、フレキシブル基板試作コスト削減、低軌道衛星のペイロード指向に関する最新動向をまとめた記事。",
-        "category": "company",
-        "date": "2026-07-04",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/agentic-software-for-physical-ai-rigid-flex-pcb-prototyping-leo-satellites-embedded-week-insights"
-        },
-        "field": null
       }
     ],
     "sns": []

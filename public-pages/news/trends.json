@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-07-04T07:03:10.641540+09:00",
-  "date": "2026-07-04",
+  "generated_at": "2026-07-05T06:57:17.966962+09:00",
+  "date": "2026-07-05",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の需要拡大",
+      "name": "広帯域ギャップ（WBG）材料の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "datacenter"
       ],
-      "summary": "SiCおよびGaNを用いたパワー半導体のEV、データセンター、ロボット、再生可能エネルギー分野での採用が加速。高効率化、小型化に貢献。",
+      "summary": "SiCとGaNのEV、データセンター、ロボット分野での採用が拡大。高効率化と小型化に貢献。",
       "analysis": {
-        "short_term": "SiC/GaN製品の供給逼迫が継続する可能性。",
-        "mid_term": "新工場建設や技術開発競争が激化し、コスト競争力向上へ。",
-        "investment_implications": "SiC/GaN材料・デバイスメーカーへの投資妙味。"
+        "short_term": "EVシフトとデータセンター増強で需要増。",
+        "mid_term": "新材料開発と製造技術向上が鍵。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味。"
       },
       "keywords": [
         "SiC",
@@ -34,7 +33,7 @@
       ]
     },
     {
-      "name": "AIインフラ向け半導体需要の急増",
+      "name": "AIインフラ向け高性能化と供給網強化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -43,133 +42,136 @@
         "memory",
         "logic",
         "foundry",
-        "equipment"
+        "equipment",
+        "backend"
       ],
-      "summary": "AIサーバ、データセンター向けに高性能・高集積な半導体、メモリ、基板、製造装置への投資が拡大。特に最先端プロセスや特殊材料への需要が高い。",
+      "summary": "AIサーバ向けにメモリ、基板、チップレット、製造装置への投資が活発化。供給網の安定化も重要視。",
       "analysis": {
-        "short_term": "AI関連半導体の供給不足が続く可能性。",
-        "mid_term": "最先端ロジック・メモリの生産能力増強と、光接続技術の標準化が進む。",
-        "investment_implications": "AI向けチップ、メモリ、製造装置、基板関連企業に注目。"
+        "short_term": "AI需要拡大でメモリ、基板、チップレット需要増。",
+        "mid_term": "製造装置投資は供給能力拡大に寄与。",
+        "investment_implications": "AIインフラ関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "データセンター",
+        "サーバ",
         "メモリ",
-        "ロジック",
-        "製造装置"
+        "チップレット",
+        "製造装置",
+        "基板"
       ],
       "companies_mentioned": [
         "キオクシア",
-        "GF",
         "ソシオネクスト",
-        "TSMC",
-        "Micron",
+        "GF",
         "エレファンテック",
         "OKI",
         "住友化学",
-        "レゾナック"
+        "Micron",
+        "インテル"
       ]
     },
     {
-      "name": "ソフトウェア定義型車両（SDV）の進化",
+      "name": "データセンターの電力効率と高電圧化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
-        "logic",
-        "ai",
-        "datacenter"
+        "datacenter",
+        "power",
+        "automotive"
       ],
-      "summary": "自動車の機能がソフトウェア中心に移行し、高度なコンピューティング能力、セキュリティ、OTAアップデートが不可欠に。AIとの連携も強化。",
+      "summary": "データセンターで800VDCへの移行が進み、SSTの採用が加速。電力効率向上が喫緊の課題。",
       "analysis": {
-        "short_term": "SDV向け半導体、ソフトウェア開発競争が激化。",
-        "mid_term": "車載コンピューティングの集中化と、セキュリティ技術の重要性が増す。",
-        "investment_implications": "車載半導体、ソフトウェアプラットフォーム企業に注目。"
+        "short_term": "電力消費増大で高効率化技術が不可欠。",
+        "mid_term": "800VDCインフラ整備が普及の鍵。",
+        "investment_implications": "データセンター向け電源・半導体関連。"
       },
       "keywords": [
-        "SDV",
-        "自動車",
-        "AI",
-        "セキュリティ",
-        "OTA"
+        "データセンター",
+        "800VDC",
+        "SST",
+        "電力効率",
+        "パワー半導体"
       ],
       "companies_mentioned": [
-        "Altera"
+        "東芝D＆S"
       ]
     },
     {
-      "name": "広帯域ギャップ（WBG）材料の基盤技術開発",
+      "name": "ソフトウェア定義型システムとセキュリティ",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "frontend",
-        "wafer"
+        "automotive",
+        "ai",
+        "logic",
+        "general"
       ],
-      "summary": "SiC、GaNに続く次世代WBG材料や、大口径基板製造技術の開発が進展。高性能・高効率な次世代パワーデバイス実現に向けた基盤強化。",
+      "summary": "ソフトウェア定義車（SDV）やAIエージェントの進化に伴い、セキュリティと信頼性の確保が重要課題となる。",
       "analysis": {
-        "short_term": "次世代WBG材料の研究開発が加速。",
-        "mid_term": "大口径基板製造技術の実用化がコスト削減の鍵に。",
-        "investment_implications": "材料・基板技術を持つ研究機関や企業への期待。"
+        "short_term": "AIによるデータ融合のセキュリティリスク増大。",
+        "mid_term": "SDVの信頼性再構築が不可欠。",
+        "investment_implications": "セキュリティソリューション企業に注目。"
       },
       "keywords": [
-        "WBG",
-        "SiC",
-        "GaN",
-        "基板",
-        "材料"
+        "ソフトウェア定義",
+        "セキュリティ",
+        "AI",
+        "SDV",
+        "LLM"
       ],
       "companies_mentioned": [
-        "東北大学"
+        "カーネギーメロン大",
+        "UCLA"
       ]
     },
     {
-      "name": "計算リソグラフィの高速化",
+      "name": "次世代コンピューティングと材料科学",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "equipment",
-        "frontend",
         "logic",
-        "ai"
+        "memory",
+        "frontend",
+        "miniaturization",
+        "general"
       ],
-      "summary": "GPUラスタライゼーションやLLMエージェントを活用し、半導体製造における計算リソグラフィや設計プロセスを高速化。生産性向上に貢献。",
+      "summary": "計算リソグラフィの高速化、確率的メモリ、ナノチューブ合成など、次世代コンピューティングを支える基礎技術開発が進展。",
       "analysis": {
-        "short_term": "AI/GPU活用による設計・製造プロセス高速化が進む。",
-        "mid_term": "計算負荷の高いプロセスにおける効率化が競争力に直結。",
-        "investment_implications": "AI/GPU技術と半導体製造プロセスを組み合わせる企業。"
+        "short_term": "GPU活用で製造プロセス効率化。",
+        "mid_term": "新材料・新アーキテクチャが性能向上。",
+        "investment_implications": "基礎研究開発型企業への長期投資。"
       },
       "keywords": [
         "計算リソグラフィ",
+        "確率的メモリ",
+        "ナノチューブ",
         "GPU",
-        "LLM",
-        "設計",
-        "製造"
+        "GAA"
       ],
       "companies_mentioned": [
-        "Carnegie Mellon",
-        "UCLA"
+        "Altera",
+        "東大",
+        "NIST",
+        "U. Maryland",
+        "Johns Hopkins"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続的な増加",
-      "EV市場の拡大に伴うパワー半導体需要増",
-      "データセンターの800VDC移行とSST採用拡大",
-      "メモリ製造装置への投資額過去最高更新見込み",
-      "高集積FPGAの防衛システムへの採用拡大"
+      "AI需要の継続的な拡大",
+      "EV市場におけるパワー半導体需要の増加",
+      "データセンターのインフラ投資活発化",
+      "メモリ市場の回復と需要増（特にAI向け）"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "先端半導体製造における技術的課題とコスト増"
+      "地政学的リスクによるサプライチェーンの不安定化",
+      "先端製造装置への巨額投資に伴う過剰供給リスク（中長期的視点）"
     ],
     "neutral": [
-      "Schottky障壁高さ予測の新計算戦略発表",
-      "確率的メモリp-MEMの低遅延・省電力化への期待",
-      "NVMe 2.0によるSSDアクセス性能向上",
-      "宇宙での半導体製造の可能性模索"
+      "宇宙での半導体製造という長期的な技術開発",
+      "NVMe 2.0のようなストレージ規格の進化"
     ]
   },
-  "source_count": 40
+  "source_count": 45
 }
