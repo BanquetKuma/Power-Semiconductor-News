@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:57:17.966962+09:00",
-  "date": "2026-07-05",
+  "generated_at": "2026-07-06T06:59:33.575356+09:00",
+  "date": "2026-07-06",
   "meta_trends": [
     {
       "name": "広帯域ギャップ（WBG）材料の普及加速",
@@ -9,31 +9,32 @@
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "SiCとGaNのEV、データセンター、ロボット分野での採用が拡大。高効率化と小型化に貢献。",
+      "summary": "SiCおよびGaN材料の採用がEV、データセンター、産業機器で拡大。電力変換効率向上に貢献。",
       "analysis": {
-        "short_term": "EVシフトとデータセンター増強で需要増。",
-        "mid_term": "新材料開発と製造技術向上が鍵。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味。"
+        "short_term": "需要増で供給逼迫の可能性。価格動向を注視。",
+        "mid_term": "新材料・新製造技術開発が競争力に影響。",
+        "investment_implications": "WBG材料メーカー、関連装置メーカーに注目。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
         "データセンター",
-        "パワー半導体"
+        "電力効率"
       ],
       "companies_mentioned": [
         "onsemi",
-        "Innoscience",
         "Infineon",
+        "東芝D＆S",
         "サンケン電気",
         "東北大学"
       ]
     },
     {
-      "name": "AIインフラ向け高性能化と供給網強化",
+      "name": "AIインフラ投資の継続拡大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -45,133 +46,125 @@
         "equipment",
         "backend"
       ],
-      "summary": "AIサーバ向けにメモリ、基板、チップレット、製造装置への投資が活発化。供給網の安定化も重要視。",
+      "summary": "AIサーバー、データセンター向け半導体、製造装置への投資が活発化。高性能化と供給能力増強が進む。",
       "analysis": {
-        "short_term": "AI需要拡大でメモリ、基板、チップレット需要増。",
-        "mid_term": "製造装置投資は供給能力拡大に寄与。",
-        "investment_implications": "AIインフラ関連企業に注目。"
+        "short_term": "AI需要は引き続き旺盛。メモリ、ロジック、基板関連に追い風。",
+        "mid_term": "AIチップの多様化とエッジAIの普及が新たな投資機会を生む。",
+        "investment_implications": "AIチップメーカー、ファウンドリ、メモリ、装置メーカーに恩恵。"
       },
       "keywords": [
         "AI",
-        "サーバ",
-        "メモリ",
-        "チップレット",
-        "製造装置",
-        "基板"
-      ],
-      "companies_mentioned": [
-        "キオクシア",
-        "ソシオネクスト",
-        "GF",
-        "エレファンテック",
-        "OKI",
-        "住友化学",
-        "Micron",
-        "インテル"
-      ]
-    },
-    {
-      "name": "データセンターの電力効率と高電圧化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "power",
-        "automotive"
-      ],
-      "summary": "データセンターで800VDCへの移行が進み、SSTの採用が加速。電力効率向上が喫緊の課題。",
-      "analysis": {
-        "short_term": "電力消費増大で高効率化技術が不可欠。",
-        "mid_term": "800VDCインフラ整備が普及の鍵。",
-        "investment_implications": "データセンター向け電源・半導体関連。"
-      },
-      "keywords": [
         "データセンター",
-        "800VDC",
-        "SST",
-        "電力効率",
-        "パワー半導体"
+        "メモリ",
+        "ロジック",
+        "製造装置"
       ],
       "companies_mentioned": [
-        "東芝D＆S"
+        "マイクロン",
+        "キオクシア",
+        "GF",
+        "ソシオネクスト",
+        "OKI",
+        "エレファンテック",
+        "住友化学"
       ]
     },
     {
-      "name": "ソフトウェア定義型システムとセキュリティ",
+      "name": "ソフトウェア定義型車両（SDV）へのシフト",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "automotive",
-        "ai",
         "logic",
-        "general"
+        "datacenter",
+        "security"
       ],
-      "summary": "ソフトウェア定義車（SDV）やAIエージェントの進化に伴い、セキュリティと信頼性の確保が重要課題となる。",
+      "summary": "自動車の機能がソフトウェア中心に移行。高性能コンピューティング、セキュリティ、OTAアップデートが重要に。",
       "analysis": {
-        "short_term": "AIによるデータ融合のセキュリティリスク増大。",
-        "mid_term": "SDVの信頼性再構築が不可欠。",
-        "investment_implications": "セキュリティソリューション企業に注目。"
+        "short_term": "SDV向け半導体、ソフトウェア開発プラットフォームへの関心高まる。",
+        "mid_term": "サイバーセキュリティ対策がSDV普及の鍵となる。",
+        "investment_implications": "車載半導体、ソフトウェア開発企業、セキュリティ企業に注目。"
       },
       "keywords": [
-        "ソフトウェア定義",
-        "セキュリティ",
-        "AI",
         "SDV",
-        "LLM"
+        "自動車",
+        "ソフトウェア",
+        "セキュリティ",
+        "OTA"
       ],
       "companies_mentioned": [
-        "カーネギーメロン大",
-        "UCLA"
+        "Altera"
       ]
     },
     {
-      "name": "次世代コンピューティングと材料科学",
+      "name": "エッジAIの普及とDSPの役割",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
+        "ai",
         "logic",
-        "memory",
-        "frontend",
-        "miniaturization",
-        "general"
+        "industrial",
+        "automotive",
+        "datacenter"
       ],
-      "summary": "計算リソグラフィの高速化、確率的メモリ、ナノチューブ合成など、次世代コンピューティングを支える基礎技術開発が進展。",
+      "summary": "エッジAIデバイスでの処理が増加。DSPは低消費電力・リアルタイム処理で重要性を増す。",
       "analysis": {
-        "short_term": "GPU活用で製造プロセス効率化。",
-        "mid_term": "新材料・新アーキテクチャが性能向上。",
-        "investment_implications": "基礎研究開発型企業への長期投資。"
+        "short_term": "DSP搭載製品の採用が進む。開発モデルの重要性が増す。",
+        "mid_term": "エッジAIのユースケース拡大がDSP市場を牽引。",
+        "investment_implications": "DSPメーカー、エッジAIソリューションプロバイダーに機会。"
       },
       "keywords": [
-        "計算リソグラフィ",
+        "エッジAI",
+        "DSP",
+        "低消費電力",
+        "リアルタイム処理"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "次世代メモリ・ストレージ技術の進化",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "datacenter",
+        "logic",
+        "frontend",
+        "backend"
+      ],
+      "summary": "NVMe 2.0、確率的メモリなど、データ処理速度と効率を高める新技術が登場。",
+      "analysis": {
+        "short_term": "データセンター、高性能コンピューティングでの採用が進む。",
+        "mid_term": "AI、ビッグデータ処理の高度化に対応するメモリ・ストレージが鍵。",
+        "investment_implications": "メモリ、SSDコントローラー、ストレージ技術関連企業に注目。"
+      },
+      "keywords": [
+        "NVMe 2.0",
         "確率的メモリ",
-        "ナノチューブ",
-        "GPU",
-        "GAA"
+        "データセンター",
+        "AI"
       ],
       "companies_mentioned": [
-        "Altera",
-        "東大",
-        "NIST",
-        "U. Maryland",
-        "Johns Hopkins"
+        "Notre Dame",
+        "Georgia Tech",
+        "Villanova"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要の継続的な拡大",
-      "EV市場におけるパワー半導体需要の増加",
-      "データセンターのインフラ投資活発化",
-      "メモリ市場の回復と需要増（特にAI向け）"
+      "AI需要によるメモリ・ロジック・製造装置への継続的な投資",
+      "EVシフトに伴うSiC/GaNパワー半導体の需要拡大",
+      "データセンターの800VDC移行とSST採用拡大"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不安定化",
-      "先端製造装置への巨額投資に伴う過剰供給リスク（中長期的視点）"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "AI開発における電力消費と環境負荷への懸念"
     ],
     "neutral": [
-      "宇宙での半導体製造という長期的な技術開発",
-      "NVMe 2.0のようなストレージ規格の進化"
+      "半導体製造における計算リソグラフィのGPU活用進展",
+      "宇宙空間での半導体製造という長期的な研究開発"
     ]
   },
-  "source_count": 45
+  "source_count": 44
 }
