@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-07-05T06:57:12.666357+09:00",
+  "generated_at": "2026-07-07T07:11:59.415850+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)",
-    "summary": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイス最適化に不可欠。",
+    "title": "Research Bits: July 6",
+    "summary": "半導体特性予測のニューラルネット、強誘電体酸化チタン薄膜、双方向ピクセルに関する研究。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/computational-strategies-for-schottky-barrier-heights-prediction-nist-u-maryland-johns-hopkins"
+        "url": "https://semiengineering.com/research-bits-july-6"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Probabilistic Memory Architecture That Bridges The Gap Between RNG Sampling and Memory Access (Notre Dame, Georgia Tech, Villanova)",
-        "blurb": "ノートルダム大らが、乱数生成とメモリアクセスを統合する確率的メモリp-MEMを発表。推論処理の効率化に貢献。",
+        "title": "メモリ起点に後工程へ本格参入　半導体の総合材料メーカー目指すADEKA",
+        "blurb": "ADEKAは半導体材料の研究施設を本格稼働させ、メモリに加えロジックや後工程も手掛ける総合メーカーを目指す。",
         "category": "company",
-        "date": "2026-07-04",
+        "date": "2026-07-06",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/probabilistic-memory-architecture-that-bridges-the-gap-between-rng-sampling-and-memory-access-notre-dame-georgia-tech-villanova"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Maryland, Johns Hopkins)",
-        "blurb": "NIST等がSchottky障壁高予測の新計算戦略を発表。電子・光電子デバイス最適化に不可欠。",
-        "category": "tools",
-        "date": "2026-07-04",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/computational-strategies-for-schottky-barrier-heights-prediction-nist-u-maryland-johns-hopkins"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news095.html"
         },
         "field": {
           "primary": "general",
@@ -55,14 +35,50 @@
         }
       },
       {
-        "title": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
-        "blurb": "カーネギーメロン大とUCLAの研究者が、HLS互換性向上のためのLLMエージェントを開発。既存ツール比で6.51倍の高速化を実現。",
-        "category": "tools",
-        "date": "2026-07-04",
+        "title": "「AIは依然として古い性能法則に従っている」 Tenstorrent Jim Keller氏",
+        "blurb": "TenstorrentのJim Keller氏は、AIチップの性能は依然として古い法則に従っていると述べ、同社サーバ「Galaxy」の性能披露イベントについて語った。",
+        "category": "company",
+        "date": "2026-07-06",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news069.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "半導体材料で新たな光機能性を解明、北海道大",
+        "blurb": "北大は銅添加タングステン酸半導体ナノ材料で静電容量性と導電性の両挙動を解明した。",
+        "category": "company",
+        "date": "2026-07-06",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news028.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "IBM Unveils Sub-1 Nanometer Chip With New Nanostack Architecture",
+        "blurb": "IBMが新アーキテクチャで1nm未満のチップを発表。3次元トランジスタ設計で性能と効率を向上させる。",
+        "category": "company",
+        "date": "2026-07-06",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/ibm-unveils-sub-1-nanometer-chip-with-new-nanostack-architecture"
         },
         "field": {
           "primary": "general",
@@ -73,6 +89,26 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "Research Bits: July 6",
+        "blurb": "半導体特性予測のニューラルネット、強誘電体酸化チタン薄膜、双方向ピクセルに関する研究。",
+        "category": "business",
+        "date": "2026-07-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-july-6"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

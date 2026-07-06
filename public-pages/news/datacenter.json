@@ -1,32 +1,69 @@
 {
-  "generated_at": "2026-07-03T06:27:06.881494+09:00",
+  "generated_at": "2026-07-07T07:11:59.415370+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Platform Firmware Resiliency: How To Protect Your Data Center From The Ground Up",
-    "summary": "データセンターをファームウェア攻撃から保護する構造化された方法。攻撃のエスカレーションを防ぐ。",
+    "title": "The Evolution in Data Center Power Distribution PCIM Panel, Part 3: BBUs/CBUs and SSCBs",
+    "summary": "データセンター向け800V電源配電盤の進化。BBUs/CBUs/SSCBsが登場するも、技術的課題は未解決。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/platform-firmware-resiliency-how-to-protect-your-data-center-from-the-ground-up"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/the-evolution-in-data-center-power-distribution-panel-part-3-bbus-cbus-and-sscbs"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "What's Next for the Renesas 365 Development Platform",
+        "blurb": "ルネサスが米スタートアップPictorusを買収。行動モデリング技術をRenesas 365に統合し、組み込み開発環境を強化する。",
+        "category": "company",
+        "date": "2026-07-07",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/whats-next-for-the-renesas-365-development-platform"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "Platform Firmware Resiliency: How To Protect Your Data Center From The Ground Up",
-        "blurb": "データセンターをファームウェア攻撃から保護する構造化された方法。攻撃のエスカレーションを防ぐ。",
+        "title": "The Evolution in Data Center Power Distribution PCIM Panel, Part 3: BBUs/CBUs and SSCBs",
+        "blurb": "データセンター向け800V電源配電盤の進化。BBUs/CBUs/SSCBsが登場するも、技術的課題は未解決。",
         "category": "business",
-        "date": "2026-07-02",
+        "date": "2026-07-06",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-evolution-in-data-center-power-distribution-panel-part-3-bbus-cbus-and-sscbs"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Data Center AI Growth Faces Challenging Bottlenecks",
+        "blurb": "データセンターAIの成長は、ボトルネックにより停滞する可能性がある。半導体エンジニアリングの記事。",
+        "category": "business",
+        "date": "2026-07-06",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/platform-firmware-resiliency-how-to-protect-your-data-center-from-the-ground-up"
+          "url": "https://semiengineering.com/data-center-ai-growth-faces-challenging-bottlenecks"
         },
         "field": {
           "primary": "datacenter",
