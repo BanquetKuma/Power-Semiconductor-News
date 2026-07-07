@@ -1,156 +1,124 @@
 {
-  "generated_at": "2026-07-07T07:12:05.251051+09:00",
-  "date": "2026-07-07",
+  "generated_at": "2026-07-08T07:10:13.348196+09:00",
+  "date": "2026-07-08",
   "meta_trends": [
     {
-      "name": "GaN・SiCパワー半導体の需要拡大",
+      "name": "パワー半導体需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "datacenter",
-        "industrial"
+        "industrial",
+        "ai"
       ],
-      "summary": "GaN・SiCといった広帯域ギャップ材料を用いたパワー半導体の採用が、EV、データセンター、ロボティクス等で加速。高効率化・小型化に貢献。",
+      "summary": "AI、車載、産業、再生可能エネルギー向けにパワー半導体の生産能力増強が進む。特にGaN技術の進展が顕著。",
       "analysis": {
-        "short_term": "需要増が継続、供給能力が鍵。",
-        "mid_term": "技術進化とコスト低減が進む。",
-        "investment_implications": "関連企業への投資妙味大。"
+        "short_term": "生産能力増強が供給増に繋がるか注視。",
+        "mid_term": "高効率化ニーズでGaN/SiC採用加速。",
+        "investment_implications": "パワー半導体メーカーに注目。"
       },
       "keywords": [
         "GaN",
         "SiC",
-        "power electronics",
+        "AI",
         "EV",
-        "datacenter"
+        "データセンター"
       ],
       "companies_mentioned": [
-        "onsemi",
         "Infineon",
-        "東芝D＆S"
+        "onsemi",
+        "Innoscience"
       ]
     },
     {
-      "name": "AIインフラ投資の継続とボトルネック",
+      "name": "データセンター電力効率向上",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "datacenter",
-        "memory",
-        "equipment",
-        "foundry"
+        "power",
+        "ai"
       ],
-      "summary": "AI需要を背景としたデータセンター、メモリ、製造装置への巨額投資が続く一方、電力供給や技術的ボトルネックが成長の制約となる可能性。",
+      "summary": "AI需要増に伴い、データセンターの800V化やGaN技術による高効率・高密度電力変換が重要視されている。",
       "analysis": {
-        "short_term": "投資は活発だが、供給制約に注意。",
-        "mid_term": "インフラ拡充と技術革新が並行。",
-        "investment_implications": "AIインフラ関連企業に注目。"
+        "short_term": "800V配電盤の技術課題解決が焦点。",
+        "mid_term": "電力効率改善がデータセンターコスト削減に寄与。",
+        "investment_implications": "データセンターインフラ関連に投資妙味。"
       },
       "keywords": [
-        "AI",
-        "datacenter",
-        "memory",
-        "semiconductor manufacturing equipment"
-      ],
-      "companies_mentioned": [
-        "マイクロン",
-        "キオクシア",
-        "GF"
-      ]
-    },
-    {
-      "name": "データセンターの電源・配電技術進化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "power"
-      ],
-      "summary": "データセンターの高電力化・高効率化のため、800V電源配電盤などの新技術が登場。技術的課題解決が今後の鍵となる。",
-      "analysis": {
-        "short_term": "技術開発競争が激化。",
-        "mid_term": "標準化と実用化が進む見込み。",
-        "investment_implications": "電源・配電技術関連企業を注視。"
-      },
-      "keywords": [
-        "datacenter",
         "800V",
-        "power distribution"
+        "GaN",
+        "データセンター",
+        "AI"
       ],
       "companies_mentioned": []
     },
     {
-      "name": "半導体材料・製造プロセスの革新",
-      "confidence": 0.75,
+      "name": "次世代材料(GaN/SiC)の普及",
+      "confidence": 0.92,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "backend",
-        "foundry",
-        "equipment",
-        "wafer"
+        "power",
+        "automotive",
+        "industrial"
       ],
-      "summary": "新材料開発（光機能性、ガラスコア基板等）や、計算リソグラフィ高速化、LLM活用によるHLSなど、製造プロセス全体の効率化・高性能化が進む。",
+      "summary": "GaN/SiCは高耐圧、高効率、小型化を実現し、EVや産業機器での採用が進む。歩留まり向上技術も重要。",
       "analysis": {
-        "short_term": "研究開発が活発化。",
-        "mid_term": "実用化・量産化への期待。",
-        "investment_implications": "材料・装置メーカーに機会。"
+        "short_term": "SiC EV採用の地域差に注目。",
+        "mid_term": "GaN/SiCの補完関係が進化。",
+        "investment_implications": "材料・製造技術を持つ企業を評価。"
       },
       "keywords": [
-        "semiconductor materials",
-        "computational lithography",
-        "HLS",
-        "LLM"
+        "GaN",
+        "SiC",
+        "EV",
+        "歩留まり"
       ],
       "companies_mentioned": [
-        "ADEKA",
-        "エレファンテック",
-        "住友化学"
+        "onsemi",
+        "Innoscience"
       ]
     },
     {
-      "name": "ソフトウェア定義型システムのセキュリティ強化",
-      "confidence": 0.7,
+      "name": "AIによる半導体テスト革新",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
+        "ai",
+        "backend",
         "logic",
-        "ai"
+        "foundry",
+        "fabless"
       ],
-      "summary": "ソフトウェア定義車（SDV）やAIによるデータ融合など、ソフトウェア中心のシステムにおいて、信頼性確保とセキュリティ対策が急務となっている。",
+      "summary": "AIを活用したデータフィードフォワードがチップレットテストの効率化・高度化を促進し、歩留まり向上に貢献。",
       "analysis": {
-        "short_term": "セキュリティリスクへの懸念。",
-        "mid_term": "新たなセキュリティアーキテクチャが求められる。",
-        "investment_implications": "セキュリティソリューションに注目。"
+        "short_term": "チップレット設計の普及がAI活用を後押し。",
+        "mid_term": "テスト工程の自動化・知能化が進展。",
+        "investment_implications": "先進パッケージング・テスト関連企業に注目。"
       },
       "keywords": [
-        "software-defined vehicle",
         "AI",
-        "security",
-        "data fusion"
+        "チップレット",
+        "テスト",
+        "バックエンド"
       ],
-      "companies_mentioned": [
-        "Altera"
-      ]
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "GaN・SiCパワー半導体の需要急増",
-      "AIインフラへの巨額投資継続",
-      "メモリ製造装置市場の拡大",
-      "データセンター向け高効率電源技術の進展"
+      "パワー半導体需要の底堅さ",
+      "AI・データセンター投資の継続",
+      "次世代材料へのシフト加速"
     ],
     "bearish": [
-      "AI成長のボトルネック懸念",
-      "地政学的リスクによるサプライチェーンの不安定化（示唆）"
+      "地政学的リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "研究開発段階の新技術（LLM活用HLS、確率的メモリ等）の実用化動向",
-      "自動車業界とデータセンター業界の共通課題（電力供給）"
+      "メモリ市場の回復ペース"
     ]
   },
-  "source_count": 40
+  "source_count": 8
 }
