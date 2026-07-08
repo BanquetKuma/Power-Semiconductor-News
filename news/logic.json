@@ -1,41 +1,77 @@
 {
-  "generated_at": "2026-07-07T07:11:59.414677+09:00",
+  "generated_at": "2026-07-09T07:03:46.473768+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AAEON Unveils MIX-PTLWV1 Mini-ITX with Intel Core Ultra Series 3 SoC",
-    "summary": "AAEONがIntel Core Ultra搭載Mini-ITX「MIX-PTLWV1」発表。エッジ・産業用途向け。",
+    "title": "Chip Industry Technical Paper Roundup: July 8",
+    "summary": "半導体業界の技術論文まとめ。ショットキーバリア、エージェンティックHLS、エッジ向け確率的メモリ、RISC-V SoCプラットフォームなど。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/aaeon-unveils-mix-ptlwv1-mini-itx-with-intel-core-ultra-series-3-soc"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-8-2"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "AAEON Unveils MIX-PTLWV1 Mini-ITX with Intel Core Ultra Series 3 SoC",
-        "blurb": "AAEONがIntel Core Ultra搭載Mini-ITX「MIX-PTLWV1」発表。エッジ・産業用途向け。",
-        "category": "company",
-        "date": "2026-07-06",
+        "title": "Chip Industry Technical Paper Roundup: July 8",
+        "blurb": "半導体業界の技術論文まとめ。ショットキーバリア、エージェンティックHLS、エッジ向け確率的メモリ、RISC-V SoCプラットフォームなど。",
+        "category": "business",
+        "date": "2026-07-08",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/aaeon-unveils-mix-ptlwv1-mini-itx-with-intel-core-ultra-series-3-soc"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-8-2"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "industrial",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「Wildcat Lake」で最新IPのAI PCを価格重視のユーザーにも、Intel",
+        "blurb": "インテルは最新IP搭載のAI PC「Wildcat Lake」を投入。構成を絞り価格を抑え、性能向上や長時間駆動で買い替え需要を狙う。",
+        "category": "business",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news066.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
           "industry": "idm"
         }
+      },
+      {
+        "title": "Understanding all costs involved in analog ASIC development",
+        "blurb": "アナログASIC開発のコストは、人件費、ソフトウェアツール、試作製造の3つに大別される。",
+        "category": "business",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/understanding-all-costs-involved-in-analog-asic-development"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

@@ -1,31 +1,50 @@
 {
-  "generated_at": "2026-07-04T07:03:03.557037+09:00",
+  "generated_at": "2026-07-09T07:03:46.473074+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "キオクシア、第10世代「BiCS FLASH」を北上で生産開始　AI需要に照準",
-    "summary": "キオクシアは北上工場で第10世代3次元NAND「BiCS FLASH」の生産を開始。AI需要に対応。",
+    "title": "Field Guide to DDR Signal Integrity Analysis",
+    "summary": "DDR5のコンプライアンス違反を実機ではなくシミュレーションで検出する手法を解説。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news138.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/field-guide-to-ddr-signal-integrity-analysis"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Waveshare RP2350-USB-C – A Compact Dev Board with Dual USB-C Ports",
-        "blurb": "WaveshareがRaspberry Pi RP2350A MCU搭載の小型開発ボード「RP2350-USB-C」を発表。デュアルUSB-Cポート搭載。",
-        "category": "tools",
-        "date": "2026-07-03",
+        "title": "Enterprise SSD accelerates AI server data transfer",
+        "blurb": "サムスンはAIサーバー向けに、PCIe 6.0対応のエンタープライズSSD「PM1763」を発表。9世代V-NANDと4nmコントローラー搭載。",
+        "category": "company",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/waveshare-rp2350-usb-c-a-compact-dev-board-with-dual-usb-c-ports"
+          "name": "edn.com",
+          "url": "https://www.edn.com/enterprise-ssd-accelerates-ai-server-data-transfer"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "ai",
+          "industry": "idm"
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Field Guide to DDR Signal Integrity Analysis",
+        "blurb": "DDR5のコンプライアンス違反を実機ではなくシミュレーションで検出する手法を解説。",
+        "category": "tools",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/field-guide-to-ddr-signal-integrity-analysis"
         },
         "field": {
           "primary": "memory",
@@ -36,25 +55,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "キオクシア、第10世代「BiCS FLASH」を北上で生産開始　AI需要に照準",
-        "blurb": "キオクシアは北上工場で第10世代3次元NAND「BiCS FLASH」の生産を開始。AI需要に対応。",
-        "category": "business",
-        "date": "2026-07-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/03/news138.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

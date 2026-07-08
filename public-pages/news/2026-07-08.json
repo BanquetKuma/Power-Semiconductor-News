@@ -1,46 +1,118 @@
 {
-  "generated_at": "2026-07-08T07:10:02.991277+09:00",
+  "generated_at": "2026-07-09T07:03:46.471355+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Infineon Opens World’s Largest Power Semiconductor Fab",
-    "summary": "インフィニオン、世界最大のパワー半導体工場を開設。AI、車載、産業、再生可能エネルギー市場向け生産能力を増強。",
+    "title": "New Allegro A81415 PMIC Simplifies Brake-by-Wire Systems",
+    "summary": "Allegroの新PMIC「A81415」は、電源管理と車輪速センシングを統合し、ブレーキバイワイヤシステムの設計を簡素化します。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/infineon-opens-worlds-largest-power-semiconductor-fab"
+        "url": "https://www.powerelectronicsnews.com/new-allegro-a81415-pmic-simplifies-brake-by-wire-systems"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Smart GaN Interfaces for 800 V Data Center Power",
-        "blurb": "800Vデータセンター向け次世代GaNインターフェース。高効率・高密度電力変換を実現し、AI分野での活用が期待される。",
+        "title": "New Allegro A81415 PMIC Simplifies Brake-by-Wire Systems",
+        "blurb": "Allegroの新PMIC「A81415」は、電源管理と車輪速センシングを統合し、ブレーキバイワイヤシステムの設計を簡素化します。",
         "category": "business",
-        "date": "2026-07-07",
+        "date": "2026-07-08",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/smart-gan-interfaces-for-800-v-data-center-power"
+          "url": "https://www.powerelectronicsnews.com/new-allegro-a81415-pmic-simplifies-brake-by-wire-systems"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "analog",
+          "device": "analog",
           "process": null,
-          "market": "datacenter",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices",
-        "blurb": "SiC/GaNデバイスの歩留まり向上に、光ルミネッセンス検査が欠陥検出で貢献。",
+        "title": "Chip Industry Technical Paper Roundup: July 8",
+        "blurb": "半導体業界の技術論文まとめ。ショットキーバリア、エージェンティックHLS、エッジ向け確率的メモリ、RISC-V SoCプラットフォームなど。",
         "category": "business",
-        "date": "2026-07-07",
+        "date": "2026-07-08",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/photoluminescence-inspection-is-changing-how-manufacturers-protect-yield-in-sic-and-gan-devices"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-8-2"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Unifying Software And Semiconductor Development",
+        "blurb": "ソフトウェアと半導体開発を統合し、トレーサビリティ、自動化、AI対応設計フローを実現。",
+        "category": "business",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/unifying-software-and-semiconductor-development"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "PCIe 7.0 in Practice: Design Considerations for Storage, Networking, and AI",
+        "blurb": "PCIe 7.0は、ストレージ、ネットワーク、AI分野のデータボトルネック解消と性能・信頼性向上に不可欠。",
+        "category": "business",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/pcie-7-0-in-practice-design-considerations-for-storage-networking-and-ai"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Blog Review: July 8",
+        "blurb": "システム複雑化、セキュリティイーサネット、3D-IC向けIP、オンデバイスジェスチャー認識、MRCプロトコルなどについて解説。",
+        "category": "business",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-july-8-3"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "米国でInnoscience製GaN販売禁止　Infineonへの特許侵害が確定",
+        "blurb": "Infineonへの特許侵害が確定し、InnoscienceのGaN製品が米国での輸入・販売禁止となった。",
+        "category": "business",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news079.html"
         },
         "field": {
           "primary": "power",
@@ -51,43 +123,290 @@
         }
       },
       {
-        "title": "From Data Accumulation To Data Activation: AI-Driven Data Feed Forward For Chiplet-Based Test",
-        "blurb": "AIを活用したデータフィードフォワードがチップレットテストを変革。先進パッケージングでデータ活用を促進し、下流工程にインテリジェンスを提供。",
+        "title": "「Wildcat Lake」で最新IPのAI PCを価格重視のユーザーにも、Intel",
+        "blurb": "インテルは最新IP搭載のAI PC「Wildcat Lake」を投入。構成を絞り価格を抑え、性能向上や長時間駆動で買い替え需要を狙う。",
         "category": "business",
-        "date": "2026-07-07",
+        "date": "2026-07-08",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-data-accumulation-to-data-activation-ai-driven-data-feed-forward-for-chiplet-based-test"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news066.html"
         },
         "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "波長多重PONシステムで10W超の大電力伝送、電気通信大ら",
+        "blurb": "電気通信大らは、空孔コア光ファイバーで10W超の大電力光信号伝送に成功。波長多重PONシステムでの応用が期待される。",
+        "category": "business",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news032.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Understanding all costs involved in analog ASIC development",
+        "blurb": "アナログASIC開発のコストは、人件費、ソフトウェアツール、試作製造の3つに大別される。",
+        "category": "business",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/understanding-all-costs-involved-in-analog-asic-development"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
           "market": null,
           "industry": null
         }
       }
     ],
-    "tools": [],
-    "company": [
+    "tools": [
       {
-        "title": "Infineon Opens World’s Largest Power Semiconductor Fab",
-        "blurb": "インフィニオン、世界最大のパワー半導体工場を開設。AI、車載、産業、再生可能エネルギー市場向け生産能力を増強。",
-        "category": "company",
-        "date": "2026-07-07",
+        "title": "Building a Zeta Converter Using Integrated Buck Converter ICs",
+        "blurb": "統合された降圧コンバータICを用いてゼータコンバータを構築し、昇降圧変換の課題に対応する。",
+        "category": "tools",
+        "date": "2026-07-08",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-opens-worlds-largest-power-semiconductor-fab"
+          "url": "https://www.powerelectronicsnews.com/building-a-zeta-converter-using-integrated-buck-converter-ics"
+        },
+        "field": null
+      },
+      {
+        "title": "Field Guide to DDR Signal Integrity Analysis",
+        "blurb": "DDR5のコンプライアンス違反を実機ではなくシミュレーションで検出する手法を解説。",
+        "category": "tools",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/field-guide-to-ddr-signal-integrity-analysis"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The Ultimate Guide to PCI Express: Specs, Features, Use Cases and PCIe 7.0",
+        "blurb": "PCI Express 7.0設計では、コントローラーIPが標準に準拠した設計を加速する上で重要となる。",
+        "category": "tools",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-ultimate-guide-to-pci-express-specs-features-use-cases-and-pcie-7-0"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「世界最高精度」で曲面ミラーの絶対形状を測定、産総研",
+        "blurb": "産総研が曲面ミラーの絶対形状を非接触・2nm精度で計測する装置を開発。EUV露光装置等に活用可能。",
+        "category": "tools",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news031.html"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Solid state airflow sensor with linear 4-20mA output",
+        "blurb": "自己発熱ダーリントンペアを用いた、線形4-20mA出力の固体エアフローセンサー。非線形性を補正し、シンプルで高感度なセンサーを実現。",
+        "category": "tools",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/solid-state-airflow-sensor-with-linear-4-20ma-output"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "CXL Type 3: Tooling and boot path from power-on to usable memory",
+        "blurb": "CXL Type 3メモリ拡張器のツールエコシステムと、電源投入からメモリ使用可能になるまでのブートシーケンスを紹介します。",
+        "category": "tools",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/cxl-type-3-tooling-and-boot-path-from-power-on-to-usable-memory"
+        },
+        "field": null
+      },
+      {
+        "title": "Hall-effect sensor measures 10-turn position",
+        "blurb": "Vishayの34 PHEセンサーは、3600°の範囲で10回転の線形または回転変位を測定するホール効果絶対位置センサーです。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/hall-effect-sensor-measures-10-turn-position"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "IP enables 8K image and video post-processing",
+        "blurb": "VeriSiliconのIPは、ロボットやドローン向けの8K画像・動画後処理を可能にし、画質を向上させます。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ip-enables-8k-image-and-video-post-processing"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "Vishay Launches 40 V TrenchFET Gen IV MOSFETs",
+        "blurb": "Vishayが40V TrenchFET Gen IV MOSFETを発表。BLDCモーター等のスイッチング信頼性を向上。",
+        "category": "company",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/vishay-launches-40-v-trenchfet-gen-iv-mosfets"
+        },
+        "field": null
+      },
+      {
+        "title": "Arm Neoverse CMN-700: Performance Analysis Methodology",
+        "blurb": "Arm Neoverse CMN-700の性能分析手法。コア以外の遅延やスループット制限の原因解明には、インターコネクト内のリクエスト処理理解が不可欠。",
+        "category": "company",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/arm-neoverse-cmn-700-performance-analysis-methodology"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「TECHNO-FRONTIER 2026」の歩き方",
+        "blurb": "「TECHNO-FRONTIER 2026」が7月15～17日に東京ビッグサイトで開催。編集部が注目ポイントを紹介。",
+        "category": "company",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/09/news097.html"
+        },
+        "field": null
+      },
+      {
+        "title": "onsemiが米国とフィリピンの2工場を売却　ファブライト推進",
+        "blurb": "onsemiは米国のウエハー工場とフィリピンの後工程工場を売却。ファブライト戦略で製造コスト構造を改善し、粗利益率拡大を目指す。",
+        "category": "company",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news061.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Enterprise SSD accelerates AI server data transfer",
+        "blurb": "サムスンはAIサーバー向けに、PCIe 6.0対応のエンタープライズSSD「PM1763」を発表。9世代V-NANDと4nmコントローラー搭載。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/enterprise-ssd-accelerates-ai-server-data-transfer"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "ai",
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "Stacked-die half-bridge boosts MOSFET power density",
+        "blurb": "AOSは、積層ダイ設計により、高密度化された半ブリッジMOSFETを搭載したDFN6×5 AmpStackパッケージを発表しました。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/stacked-die-half-bridge-boosts-mosfet-power-density"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Hybrid capacitors target automotive power",
+        "blurb": "太陽誘電が車載向け導電性高分子ハイブリッドアルミ電解コンデンサの新シリーズを発表。AEC-Q200準拠。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/hybrid-capacitors-target-automotive-power"
+        },
+        "field": null
       }
     ],
     "sns": []

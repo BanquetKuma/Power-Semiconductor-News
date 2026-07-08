@@ -1,27 +1,28 @@
 {
-  "generated_at": "2026-07-08T07:10:13.348196+09:00",
-  "date": "2026-07-08",
+  "generated_at": "2026-07-09T07:03:52.632311+09:00",
+  "date": "2026-07-09",
   "meta_trends": [
     {
-      "name": "パワー半導体需要拡大",
+      "name": "パワー半導体の需要拡大と技術革新",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "datacenter",
-        "industrial",
-        "ai"
+        "ai",
+        "industrial"
       ],
-      "summary": "AI、車載、産業、再生可能エネルギー向けにパワー半導体の生産能力増強が進む。特にGaN技術の進展が顕著。",
+      "summary": "AI、車載、データセンター、再生可能エネルギー向けにパワー半導体の需要が急増。GaNやSiCといった新材料の採用が進み、高効率・高密度化が進展。",
       "analysis": {
-        "short_term": "生産能力増強が供給増に繋がるか注視。",
-        "mid_term": "高効率化ニーズでGaN/SiC採用加速。",
-        "investment_implications": "パワー半導体メーカーに注目。"
+        "short_term": "インフィニオンの工場増強、GaNインターフェースの登場で供給増と技術革新が加速。",
+        "mid_term": "SiC/GaNデバイスの収率向上技術、800V電源配電盤の進化が市場を牽引。",
+        "investment_implications": "パワー半導体メーカー、特にGaN/SiCに強みを持つ企業に注目。"
       },
       "keywords": [
         "GaN",
         "SiC",
+        "パワー半導体",
         "AI",
         "EV",
         "データセンター"
@@ -33,92 +34,132 @@
       ]
     },
     {
-      "name": "データセンター電力効率向上",
+      "name": "AI・データセンター向け高速インターコネクト",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
+        "ai",
         "datacenter",
-        "power",
-        "ai"
+        "logic",
+        "memory",
+        "backend"
       ],
-      "summary": "AI需要増に伴い、データセンターの800V化やGaN技術による高効率・高密度電力変換が重要視されている。",
+      "summary": "AI処理の高速化とデータセンターの帯域幅拡大のため、PCIe 7.0やArm Neoverseのような高性能インターコネクト技術が不可欠になっている。",
       "analysis": {
-        "short_term": "800V配電盤の技術課題解決が焦点。",
-        "mid_term": "電力効率改善がデータセンターコスト削減に寄与。",
-        "investment_implications": "データセンターインフラ関連に投資妙味。"
+        "short_term": "PCIe 7.0の設計考慮事項に関する情報が増加し、実装に向けた動きが活発化。",
+        "mid_term": "AIチップレットや高性能サーバー向けに、インターコネクトIPの重要性が増す。",
+        "investment_implications": "インターコネクトIPベンダー、AIチップメーカーに追い風。"
       },
       "keywords": [
-        "800V",
-        "GaN",
+        "PCIe 7.0",
+        "AI",
         "データセンター",
-        "AI"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "次世代材料(GaN/SiC)の普及",
-      "confidence": 0.92,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "automotive",
-        "industrial"
-      ],
-      "summary": "GaN/SiCは高耐圧、高効率、小型化を実現し、EVや産業機器での採用が進む。歩留まり向上技術も重要。",
-      "analysis": {
-        "short_term": "SiC EV採用の地域差に注目。",
-        "mid_term": "GaN/SiCの補完関係が進化。",
-        "investment_implications": "材料・製造技術を持つ企業を評価。"
-      },
-      "keywords": [
-        "GaN",
-        "SiC",
-        "EV",
-        "歩留まり"
+        "インターコネクト",
+        "Arm"
       ],
       "companies_mentioned": [
-        "onsemi",
-        "Innoscience"
+        "Intel",
+        "Arm"
       ]
     },
     {
-      "name": "AIによる半導体テスト革新",
+      "name": "先端パッケージングとテストのAI活用",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "backend",
-        "logic",
+        "ai",
         "foundry",
-        "fabless"
+        "equipment"
       ],
-      "summary": "AIを活用したデータフィードフォワードがチップレットテストの効率化・高度化を促進し、歩留まり向上に貢献。",
+      "summary": "チップレットベースのテストにおいて、AIを活用したデータフィードフォワードがデータ活用を変革し、高度なパッケージング技術の重要性を高めている。",
       "analysis": {
-        "short_term": "チップレット設計の普及がAI活用を後押し。",
-        "mid_term": "テスト工程の自動化・知能化が進展。",
-        "investment_implications": "先進パッケージング・テスト関連企業に注目。"
+        "short_term": "AIによるテストデータ活用技術が、歩留まり向上とコスト削減に貢献。",
+        "mid_term": "チップレット設計の普及に伴い、先端パッケージング材料やテスト装置への需要が増加。",
+        "investment_implications": "先端パッケージング材料メーカー、AIを活用したテストソリューション提供企業に注目。"
       },
       "keywords": [
-        "AI",
         "チップレット",
+        "AI",
         "テスト",
-        "バックエンド"
+        "パッケージング",
+        "歩留まり"
+      ],
+      "companies_mentioned": [
+        "旭化成",
+        "ADEKA"
+      ]
+    },
+    {
+      "name": "メモリ市場の価格上昇鈍化とAI需要",
+      "confidence": 0.8,
+      "momentum": "stable",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter"
+      ],
+      "summary": "DRAM、NANDともに価格上昇率は鈍化傾向だが、AI需要は引き続き堅調。キオクシアやマイクロンはAI向けメモリ増産に投資。",
+      "analysis": {
+        "short_term": "第3四半期の価格上昇率は10～18%程度で、前四半期より落ち着く見込み。",
+        "mid_term": "AIサーバー向けメモリ需要は継続し、市場を下支えする可能性。",
+        "investment_implications": "メモリメーカーの生産能力増強計画と、AI需要の動向を注視。"
+      },
+      "keywords": [
+        "DRAM",
+        "NAND",
+        "AI",
+        "メモリ価格",
+        "キオクシア",
+        "マイクロン"
+      ],
+      "companies_mentioned": [
+        "キオクシア",
+        "マイクロン"
+      ]
+    },
+    {
+      "name": "ソフトウェアと半導体開発の統合",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "ai",
+        "frontend",
+        "backend",
+        "automotive"
+      ],
+      "summary": "ソフトウェアとハードウェア開発の統合により、トレーサビリティ、自動化、AI対応設計フローの実現を目指す動きが加速している。",
+      "analysis": {
+        "short_term": "開発プロセスの効率化と品質向上が期待される。",
+        "mid_term": "AIを活用した設計自動化ツールが普及し、開発期間の短縮に貢献。",
+        "investment_implications": "EDAツールベンダー、AIを活用した開発プラットフォーム提供企業に注目。"
+      },
+      "keywords": [
+        "ソフトウェア",
+        "ハードウェア",
+        "統合開発",
+        "AI",
+        "自動化"
       ],
       "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "パワー半導体需要の底堅さ",
-      "AI・データセンター投資の継続",
-      "次世代材料へのシフト加速"
+      "パワー半導体（GaN/SiC）の需要急増と技術革新",
+      "AI・データセンター向け高速インターコネクト技術の進化",
+      "先端パッケージングとテストにおけるAI活用の進展",
+      "世界半導体市場の過去最高更新（2026年5月）"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性"
+      "InnoscienceのGaN製品、米国での販売禁止（特許侵害）",
+      "メモリ価格上昇率の鈍化傾向"
     ],
     "neutral": [
-      "メモリ市場の回復ペース"
+      "onsemiのファブライト戦略による製造コスト構造改善",
+      "産総研による曲面ミラー計測技術の開発（EUV露光装置等への応用期待）"
     ]
   },
-  "source_count": 8
+  "source_count": 36
 }

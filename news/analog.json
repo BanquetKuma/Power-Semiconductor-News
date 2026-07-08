@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-07T07:11:59.414960+09:00",
+  "generated_at": "2026-07-09T07:03:46.474133+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "TP-Link’s Tapo T300 sensor detects water and other liquid-leak dangers",
-    "summary": "TP-Linkの新製品「Tapo T300」は、水漏れなどの液体漏れを検知し、危険を知らせるセンサーです。様々な用途が考えられます。",
+    "title": "New Allegro A81415 PMIC Simplifies Brake-by-Wire Systems",
+    "summary": "Allegroの新PMIC「A81415」は、電源管理と車輪速センシングを統合し、ブレーキバイワイヤシステムの設計を簡素化します。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/tp-links-tapo-t300-sensor-detects-water-and-other-liquid-leak-dangers"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/new-allegro-a81415-pmic-simplifies-brake-by-wire-systems"
       }
     ]
   },
@@ -18,14 +18,32 @@
     "news": [],
     "tech": [
       {
-        "title": "TP-Link’s Tapo T300 sensor detects water and other liquid-leak dangers",
-        "blurb": "TP-Linkの新製品「Tapo T300」は、水漏れなどの液体漏れを検知し、危険を知らせるセンサーです。様々な用途が考えられます。",
+        "title": "Solid state airflow sensor with linear 4-20mA output",
+        "blurb": "自己発熱ダーリントンペアを用いた、線形4-20mA出力の固体エアフローセンサー。非線形性を補正し、シンプルで高感度なセンサーを実現。",
         "category": "tools",
-        "date": "2026-07-06",
+        "date": "2026-07-08",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/tp-links-tapo-t300-sensor-detects-water-and-other-liquid-leak-dangers"
+          "url": "https://www.edn.com/solid-state-airflow-sensor-with-linear-4-20ma-output"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Hall-effect sensor measures 10-turn position",
+        "blurb": "Vishayの34 PHEセンサーは、3600°の範囲で10回転の線形または回転変位を測定するホール効果絶対位置センサーです。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/hall-effect-sensor-measures-10-turn-position"
         },
         "field": {
           "primary": "analog",
@@ -36,6 +54,25 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "New Allegro A81415 PMIC Simplifies Brake-by-Wire Systems",
+        "blurb": "Allegroの新PMIC「A81415」は、電源管理と車輪速センシングを統合し、ブレーキバイワイヤシステムの設計を簡素化します。",
+        "category": "business",
+        "date": "2026-07-08",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/new-allegro-a81415-pmic-simplifies-brake-by-wire-systems"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }
