@@ -1,51 +1,32 @@
 {
-  "generated_at": "2026-07-07T07:11:59.415370+09:00",
+  "generated_at": "2026-07-10T07:19:57.341963+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Evolution in Data Center Power Distribution PCIM Panel, Part 3: BBUs/CBUs and SSCBs",
-    "summary": "データセンター向け800V電源配電盤の進化。BBUs/CBUs/SSCBsが登場するも、技術的課題は未解決。",
+    "title": "Edge Intelligence Redefines What SDVs Can Do",
+    "summary": "ソフトウェア定義車両（SDV）は、エッジでのデータ処理を必要としています。クラウドへのデータ送信は非効率的でコストがかかるため、エッジインテリジェンスが重要視されています。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/the-evolution-in-data-center-power-distribution-panel-part-3-bbus-cbus-and-sscbs"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/edge-intelligence-redefines-what-sdvs-can-do"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "What's Next for the Renesas 365 Development Platform",
-        "blurb": "ルネサスが米スタートアップPictorusを買収。行動モデリング技術をRenesas 365に統合し、組み込み開発環境を強化する。",
-        "category": "company",
-        "date": "2026-07-07",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/whats-next-for-the-renesas-365-development-platform"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "The Evolution in Data Center Power Distribution PCIM Panel, Part 3: BBUs/CBUs and SSCBs",
-        "blurb": "データセンター向け800V電源配電盤の進化。BBUs/CBUs/SSCBsが登場するも、技術的課題は未解決。",
+        "title": "Edge Intelligence Redefines What SDVs Can Do",
+        "blurb": "ソフトウェア定義車両（SDV）は、エッジでのデータ処理を必要としています。クラウドへのデータ送信は非効率的でコストがかかるため、エッジインテリジェンスが重要視されています。",
         "category": "business",
-        "date": "2026-07-06",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-evolution-in-data-center-power-distribution-panel-part-3-bbus-cbus-and-sscbs"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/edge-intelligence-redefines-what-sdvs-can-do"
         },
         "field": {
           "primary": "datacenter",
@@ -56,21 +37,21 @@
         }
       },
       {
-        "title": "Data Center AI Growth Faces Challenging Bottlenecks",
-        "blurb": "データセンターAIの成長は、ボトルネックにより停滞する可能性がある。半導体エンジニアリングの記事。",
+        "title": "Qualcomm Unveils Dragonfly Data Center Portfolio for Agentic AI Infrastructure",
+        "blurb": "QualcommがAIインフラ向け「Dragonfly」を発表。推論スループット向上、省電力化、コスト削減を目指す。",
         "category": "business",
-        "date": "2026-07-06",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/data-center-ai-growth-faces-challenging-bottlenecks"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/qualcomm-unveils-dragonfly-data-center-portfolio-for-agentic-ai-infrastructure"
         },
         "field": {
           "primary": "datacenter",
           "device": null,
           "process": null,
           "market": "datacenter",
-          "industry": null
+          "industry": "fabless"
         }
       }
     ]

@@ -1,32 +1,31 @@
 {
-  "generated_at": "2026-07-09T07:03:46.473768+09:00",
+  "generated_at": "2026-07-10T07:19:57.341175+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Technical Paper Roundup: July 8",
-    "summary": "半導体業界の技術論文まとめ。ショットキーバリア、エージェンティックHLS、エッジ向け確率的メモリ、RISC-V SoCプラットフォームなど。",
+    "title": "From Host Node To Heterogeneous Rack: Rethinking The AI CPU",
+    "summary": "AIインフラの専門化に伴い、CPUはエージェント型ワークロードのオーケストレーション層へと進化。ヘテロジニアス・ラック構成が重要に。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-8-2"
+        "url": "https://semiengineering.com/from-host-node-to-heterogeneous-rack-rethinking-the-ai-cpu"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Chip Industry Technical Paper Roundup: July 8",
-        "blurb": "半導体業界の技術論文まとめ。ショットキーバリア、エージェンティックHLS、エッジ向け確率的メモリ、RISC-V SoCプラットフォームなど。",
-        "category": "business",
-        "date": "2026-07-08",
+        "title": "Benchmarking An NPU At Scale",
+        "blurb": "NPUの広範なハードウェア構成でのモデル全体を再コンパイル・再プロファイルするベンチマーク。",
+        "category": "tools",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-8-2"
+          "url": "https://semiengineering.com/benchmarking-an-npu-at-scale"
         },
         "field": {
           "primary": "logic",
@@ -35,34 +34,18 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "market": [
       {
-        "title": "「Wildcat Lake」で最新IPのAI PCを価格重視のユーザーにも、Intel",
-        "blurb": "インテルは最新IP搭載のAI PC「Wildcat Lake」を投入。構成を絞り価格を抑え、性能向上や長時間駆動で買い替え需要を狙う。",
+        "title": "From Host Node To Heterogeneous Rack: Rethinking The AI CPU",
+        "blurb": "AIインフラの専門化に伴い、CPUはエージェント型ワークロードのオーケストレーション層へと進化。ヘテロジニアス・ラック構成が重要に。",
         "category": "business",
-        "date": "2026-07-08",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news066.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Understanding all costs involved in analog ASIC development",
-        "blurb": "アナログASIC開発のコストは、人件費、ソフトウェアツール、試作製造の3つに大別される。",
-        "category": "business",
-        "date": "2026-07-08",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/understanding-all-costs-involved-in-analog-asic-development"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-host-node-to-heterogeneous-rack-rethinking-the-ai-cpu"
         },
         "field": {
           "primary": "logic",

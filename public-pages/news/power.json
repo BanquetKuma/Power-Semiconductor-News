@@ -1,24 +1,60 @@
 {
-  "generated_at": "2026-07-09T07:03:46.472771+09:00",
+  "generated_at": "2026-07-10T07:19:57.340544+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "米国でInnoscience製GaN販売禁止　Infineonへの特許侵害が確定",
-    "summary": "Infineonへの特許侵害が確定し、InnoscienceのGaN製品が米国での輸入・販売禁止となった。",
+    "title": "Toshiba Unveils U-MOS11-H 80V MOSFET",
+    "summary": "東芝が低オン抵抗・高効率な80V耐圧MOSFET「U-MOS11-H」を発表。スイッチング性能と熱特性を向上。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news079.html"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/toshiba-unveils-u-mos11-h-80v-mosfet"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "Toshiba Unveils U-MOS11-H 80V MOSFET",
+        "blurb": "東芝が低オン抵抗・高効率な80V耐圧MOSFET「U-MOS11-H」を発表。スイッチング性能と熱特性を向上。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/toshiba-unveils-u-mos11-h-80v-mosfet"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "WolfspeedがNavitasを特許侵害で提訴、主力のGaN／SiC製品対象に",
+        "blurb": "WolfspeedがNavitasを特許侵害で提訴。SiC・GaNパワー半導体関連の5件の特許侵害を主張。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news067.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Stacked-die half-bridge boosts MOSFET power density",
-        "blurb": "AOSは、積層ダイ設計により、高密度化された半ブリッジMOSFETを搭載したDFN6×5 AmpStackパッケージを発表しました。",
+        "blurb": "AOSは、積層ダイ技術を用いた新パッケージで、MOSFETの電力密度を向上させるハーフブリッジ回路を発表しました。",
         "category": "company",
         "date": "2026-07-09",
         "stars": 3,
@@ -36,25 +72,6 @@
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "米国でInnoscience製GaN販売禁止　Infineonへの特許侵害が確定",
-        "blurb": "Infineonへの特許侵害が確定し、InnoscienceのGaN製品が米国での輸入・販売禁止となった。",
-        "category": "business",
-        "date": "2026-07-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news079.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

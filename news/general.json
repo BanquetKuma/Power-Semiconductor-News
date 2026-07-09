@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-09T07:03:46.474876+09:00",
+  "generated_at": "2026-07-10T07:19:57.342606+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Unifying Software And Semiconductor Development",
-    "summary": "ソフトウェアと半導体開発を統合し、トレーサビリティ、自動化、AI対応設計フローを実現。",
+    "title": "The Architecture Decisions Behind A Production-Ready EDA AI Agent",
+    "summary": "半導体・PCB設計向けAIエージェント開発では、汎用フレームワークでは対応できない課題解決が必要。アーキテクチャ設計の重要性を解説。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/unifying-software-and-semiconductor-development"
+        "url": "https://semiengineering.com/the-architecture-decisions-behind-a-production-ready-eda-ai-agent"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Arm Neoverse CMN-700: Performance Analysis Methodology",
-        "blurb": "Arm Neoverse CMN-700の性能分析手法。コア以外の遅延やスループット制限の原因解明には、インターコネクト内のリクエスト処理理解が不可欠。",
+        "title": "2次元半導体を用い室温で発光を電気的に制御、東大ら",
+        "blurb": "東大らは、2次元半導体「単層二硫化モリブデン」で室温発光を電気制御する光電子デバイスを開発した。",
         "category": "company",
-        "date": "2026-07-08",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/arm-neoverse-cmn-700-performance-analysis-methodology"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news034.html"
         },
         "field": {
           "primary": "general",
@@ -35,14 +35,32 @@
         }
       },
       {
-        "title": "onsemiが米国とフィリピンの2工場を売却　ファブライト推進",
-        "blurb": "onsemiは米国のウエハー工場とフィリピンの後工程工場を売却。ファブライト戦略で製造コスト構造を改善し、粗利益率拡大を目指す。",
+        "title": "住友ベーク、中国で封止材の生産能力30％増強へ　AI市場の拡大見据え",
+        "blurb": "住友ベークライトは2028年12月頃、中国で半導体封止材の生産能力を約30％増強する。AI市場拡大を見据える。",
         "category": "company",
-        "date": "2026-07-08",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/08/news061.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news063.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「国際メモリワークショップ（IMW）」が始まるまで",
+        "blurb": "ベルギーで半導体メモリ技術の国際学会IMWが開催。今年で50周年を迎え、imecディレクターによる記念講演が行われた。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news029.html"
         },
         "field": {
           "primary": "general",
@@ -55,14 +73,50 @@
     ],
     "tech": [
       {
-        "title": "The Ultimate Guide to PCI Express: Specs, Features, Use Cases and PCIe 7.0",
-        "blurb": "PCI Express 7.0設計では、コントローラーIPが標準に準拠した設計を加速する上で重要となる。",
+        "title": "The Architecture Decisions Behind A Production-Ready EDA AI Agent",
+        "blurb": "半導体・PCB設計向けAIエージェント開発では、汎用フレームワークでは対応できない課題解決が必要。アーキテクチャ設計の重要性を解説。",
         "category": "tools",
-        "date": "2026-07-08",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-ultimate-guide-to-pci-express-specs-features-use-cases-and-pcie-7-0"
+          "url": "https://semiengineering.com/the-architecture-decisions-behind-a-production-ready-eda-ai-agent"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "UALink Under The Hood: Why Full-Stack Verification Wins",
+        "blurb": "UALinkは、シリコンのトランザクションを追跡し、パス全体で意味とバイトを維持するフルスタック検証の利点を解説。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ualink-under-the-hood-why-full-stack-verification-wins"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "An AI Model Fit For Purpose",
+        "blurb": "AIモデルは、作成された文脈外での使用は誤解を招く可能性がある。目的適合性が重要。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/an-ai-model-fit-for-purpose"
         },
         "field": {
           "primary": "general",
@@ -75,14 +129,14 @@
     ],
     "market": [
       {
-        "title": "Unifying Software And Semiconductor Development",
-        "blurb": "ソフトウェアと半導体開発を統合し、トレーサビリティ、自動化、AI対応設計フローを実現。",
+        "title": "AI Is Rewriting The IP Playbook",
+        "blurb": "AIの進化が半導体IPの作成、検証、管理、販売方法を根本的に変革している。",
         "category": "business",
-        "date": "2026-07-08",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/unifying-software-and-semiconductor-development"
+          "url": "https://semiengineering.com/ai-is-rewriting-the-ip-playbook"
         },
         "field": {
           "primary": "general",
@@ -93,32 +147,14 @@
         }
       },
       {
-        "title": "PCIe 7.0 in Practice: Design Considerations for Storage, Networking, and AI",
-        "blurb": "PCIe 7.0は、ストレージ、ネットワーク、AI分野のデータボトルネック解消と性能・信頼性向上に不可欠。",
+        "title": "Where Does Quantum Computing Stand?",
+        "blurb": "量子コンピューティングは研究段階から高生産量へとゆっくりと移行しており、実用化が進んでいます。",
         "category": "business",
-        "date": "2026-07-08",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/pcie-7-0-in-practice-design-considerations-for-storage-networking-and-ai"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Blog Review: July 8",
-        "blurb": "システム複雑化、セキュリティイーサネット、3D-IC向けIP、オンデバイスジェスチャー認識、MRCプロトコルなどについて解説。",
-        "category": "business",
-        "date": "2026-07-08",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-july-8-3"
+          "url": "https://semiengineering.com/where-does-quantum-computing-stand"
         },
         "field": {
           "primary": "general",
