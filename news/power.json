@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-10T07:19:57.340544+09:00",
+  "generated_at": "2026-07-11T06:59:51.475989+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Toshiba Unveils U-MOS11-H 80V MOSFET",
-    "summary": "東芝が低オン抵抗・高効率な80V耐圧MOSFET「U-MOS11-H」を発表。スイッチング性能と熱特性を向上。",
+    "title": "Munich Court Rules in Favor of Infineon in Latest GaN IP Case",
+    "summary": "独ミュンヘン地裁、インフィニオンのGaN特許を支持。ドイツ国内での侵害製品販売を制限。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/toshiba-unveils-u-mos11-h-80v-mosfet"
+        "url": "https://www.powerelectronicsnews.com/munich-court-rules-in-favor-of-infineon-in-latest-gan-ip-case"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Toshiba Unveils U-MOS11-H 80V MOSFET",
-        "blurb": "東芝が低オン抵抗・高効率な80V耐圧MOSFET「U-MOS11-H」を発表。スイッチング性能と熱特性を向上。",
+        "title": "Munich Court Rules in Favor of Infineon in Latest GaN IP Case",
+        "blurb": "独ミュンヘン地裁、インフィニオンのGaN特許を支持。ドイツ国内での侵害製品販売を制限。",
         "category": "company",
-        "date": "2026-07-09",
+        "date": "2026-07-10",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/toshiba-unveils-u-mos11-h-80v-mosfet"
+          "url": "https://www.powerelectronicsnews.com/munich-court-rules-in-favor-of-infineon-in-latest-gan-ip-case"
         },
         "field": {
           "primary": "power",
@@ -35,32 +35,14 @@
         }
       },
       {
-        "title": "WolfspeedがNavitasを特許侵害で提訴、主力のGaN／SiC製品対象に",
-        "blurb": "WolfspeedがNavitasを特許侵害で提訴。SiC・GaNパワー半導体関連の5件の特許侵害を主張。",
+        "title": "パワー半導体企業ランキング、日本勢は三菱電機ら5社がトップ20入り",
+        "blurb": "2025年パワー半導体企業売上高ランキングで、三菱電機、富士電機、東芝、ローム、ルネサスがトップ20入り。日本勢は計5社。",
         "category": "company",
-        "date": "2026-07-09",
+        "date": "2026-07-10",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news067.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Stacked-die half-bridge boosts MOSFET power density",
-        "blurb": "AOSは、積層ダイ技術を用いた新パッケージで、MOSFETの電力密度を向上させるハーフブリッジ回路を発表しました。",
-        "category": "company",
-        "date": "2026-07-09",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/stacked-die-half-bridge-boosts-mosfet-power-density"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/10/news072.html"
         },
         "field": {
           "primary": "power",
@@ -72,6 +54,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Smart GaN Interfaces for 800V Data Centers, Zeta Converter, GaN Lateral SJ Schottky Diode: Electronics Week Insights",
+        "blurb": "800Vデータセンター向けGaNインターフェース、Zetaコンバータ、GaNダイオードの最新動向。",
+        "category": "business",
+        "date": "2026-07-10",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/smart-gan-interfaces-for-800v-data-centers-zeta-converter-gan-lateral-sj-schottky-diode-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

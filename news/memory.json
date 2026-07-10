@@ -1,57 +1,58 @@
 {
-  "generated_at": "2026-07-10T07:19:57.340864+09:00",
+  "generated_at": "2026-07-11T06:59:51.476413+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Expansion Of LPDDR Into Edge AI Platforms",
-    "summary": "LPDDRがエッジAIプラットフォームに拡大。スマホの省電力技術がリアルタイム推論のニーズに応える。",
+    "title": "時価総額45兆円に　キオクシア復活劇を支えたNAND戦略",
+    "summary": "キオクシアはAIデータセンター向けSSD市場で攻勢を強め、第10世代NANDで存在感を高めている。時価総額は45兆円に達した。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/the-expansion-of-lpddr-into-edge-ai-platforms"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/10/news073.html"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "Renesas 365 Dev Platform, NOR Flash Safety Features, Edge Intelligence in SDVs: Embedded Week Insights",
+        "blurb": "ルネサス365開発プラットフォーム、NORフラッシュの安全機能、SDVのエッジAIなど、組み込み技術の最新動向を解説。",
+        "category": "company",
+        "date": "2026-07-11",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/renesas-365-dev-platform-nor-flash-safety-features-edge-intelligence-in-sdvs-embedded-week-insights"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "The Expansion Of LPDDR Into Edge AI Platforms",
-        "blurb": "LPDDRがエッジAIプラットフォームに拡大。スマホの省電力技術がリアルタイム推論のニーズに応える。",
+        "title": "時価総額45兆円に　キオクシア復活劇を支えたNAND戦略",
+        "blurb": "キオクシアはAIデータセンター向けSSD市場で攻勢を強め、第10世代NANDで存在感を高めている。時価総額は45兆円に達した。",
         "category": "business",
-        "date": "2026-07-09",
+        "date": "2026-07-10",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-expansion-of-lpddr-into-edge-ai-platforms"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/10/news073.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": "ai",
+          "market": "datacenter",
           "industry": null
-        }
-      },
-      {
-        "title": "Enterprise SSD accelerates AI server data transfer",
-        "blurb": "サムスンはAIサーバー向けに、PCIe 6.0対応のエンタープライズSSD「PM1763」を発表。9世代V-NANDと4nmコントローラー搭載。",
-        "category": "business",
-        "date": "2026-07-09",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/enterprise-ssd-accelerates-ai-server-data-transfer"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "ai",
-          "industry": "idm"
         }
       }
     ]

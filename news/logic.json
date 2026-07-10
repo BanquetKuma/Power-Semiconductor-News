@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-07-10T07:19:57.341175+09:00",
+  "generated_at": "2026-07-11T06:59:51.476848+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "From Host Node To Heterogeneous Rack: Rethinking The AI CPU",
-    "summary": "AIインフラの専門化に伴い、CPUはエージェント型ワークロードのオーケストレーション層へと進化。ヘテロジニアス・ラック構成が重要に。",
+    "title": "Lotus Microsystems Unveils vStrata Vertical Power Delivery Platform",
+    "summary": "Lotus MicrosystemsがAIアクセラレータ効率向上とラック密度改善のため、電源・熱管理統合プラットフォーム「vStrata」を発表。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/from-host-node-to-heterogeneous-rack-rethinking-the-ai-cpu"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/lotus-microsystems-unveils-vstrata-vertical-power-delivery-platform"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Benchmarking An NPU At Scale",
-        "blurb": "NPUの広範なハードウェア構成でのモデル全体を再コンパイル・再プロファイルするベンチマーク。",
-        "category": "tools",
-        "date": "2026-07-09",
+        "title": "Lotus Microsystems Unveils vStrata Vertical Power Delivery Platform",
+        "blurb": "Lotus MicrosystemsがAIアクセラレータ効率向上とラック密度改善のため、電源・熱管理統合プラットフォーム「vStrata」を発表。",
+        "category": "company",
+        "date": "2026-07-11",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/benchmarking-an-npu-at-scale"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/lotus-microsystems-unveils-vstrata-vertical-power-delivery-platform"
         },
         "field": {
           "primary": "logic",
@@ -36,22 +35,23 @@
         }
       }
     ],
+    "tech": [],
     "market": [
       {
-        "title": "From Host Node To Heterogeneous Rack: Rethinking The AI CPU",
-        "blurb": "AIインフラの専門化に伴い、CPUはエージェント型ワークロードのオーケストレーション層へと進化。ヘテロジニアス・ラック構成が重要に。",
+        "title": "u-blox ALMA-B2 Brings Bluetooth 6.0 and Edge AI to Low-Power IoT",
+        "blurb": "u-bloxの新モジュールALMA-B2は、Bluetooth 6.0とエッジAIを低消費電力IoTデバイスに提供。Nordic製プラットフォーム搭載。",
         "category": "business",
-        "date": "2026-07-09",
+        "date": "2026-07-10",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-host-node-to-heterogeneous-rack-rethinking-the-ai-cpu"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/u-blox-alma-b2-brings-bluetooth-6-0-and-edge-ai-to-low-power-iot"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
