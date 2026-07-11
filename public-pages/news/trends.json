@@ -1,41 +1,36 @@
 {
-  "generated_at": "2026-07-11T06:59:56.959000+09:00",
-  "date": "2026-07-11",
+  "generated_at": "2026-07-12T06:46:52.498048+09:00",
+  "date": "2026-07-12",
   "meta_trends": [
     {
-      "name": "AIインフラの進化と特化",
+      "name": "AIインフラの進化と電力・熱管理",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "datacenter",
-        "ai",
-        "frontend",
-        "equipment"
+        "power",
+        "ai"
       ],
-      "summary": "AIアクセラレータ、NPU、ヘテロジニアス・ラック構成など、AI処理に特化したハードウェアとインフラの進化が加速。EDAツールやIP開発もAI活用が進む。",
+      "summary": "AIアクセラレータの高性能化に伴い、電力供給と熱管理の統合プラットフォームが重要視されている。ラック密度向上も喫緊の課題。",
       "analysis": {
-        "short_term": "AIチップ需要は引き続き堅調。関連インフラ投資も活発。",
-        "mid_term": "AI処理の多様化に対応するチップアーキテクチャ競争が激化。",
-        "investment_implications": "AI特化型チップ、EDA、IP関連企業に注目。"
+        "short_term": "AIチップの需要増で関連技術開発が加速。",
+        "mid_term": "高密度・高効率化技術が競争優位の鍵に。",
+        "investment_implications": "電力・熱管理ソリューション提供企業に注目。"
       },
       "keywords": [
         "AI",
-        "NPU",
-        "EDA",
-        "IP",
-        "Heterogeneous Computing"
+        "vStrata",
+        "電力管理",
+        "熱管理",
+        "ラック密度"
       ],
       "companies_mentioned": [
-        "Lotus Microsystems",
-        "Intel",
-        "Apple",
-        "東京科学大",
-        "産総研"
+        "Lotus Microsystems"
       ]
     },
     {
-      "name": "パワー半導体の需要拡大と技術競争",
+      "name": "GaN/SiCパワー半導体の知財競争激化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -44,82 +39,48 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "GaNやSiCといった次世代パワー半導体の技術開発と特許訴訟が活発化。EV、データセンター、産業機器向け需要が拡大。",
+      "summary": "GaNおよびSiCパワー半導体分野で、大手企業間の特許侵害訴訟が頻発。知財戦略が市場での優位性を左右する。",
       "analysis": {
-        "short_term": "GaN/SiC関連の特許紛争に注視。EV市場の動向が鍵。",
-        "mid_term": "高性能・高効率なパワー半導体への需要は継続。",
-        "investment_implications": "GaN/SiC技術を持つ企業、EV関連サプライヤーに注目。"
+        "short_term": "訴訟リスクが一部企業の販売に影響。",
+        "mid_term": "技術開発と並行した知財戦略が不可欠。",
+        "investment_implications": "知財ポートフォリオが強固な企業が有利。"
       },
       "keywords": [
         "GaN",
         "SiC",
-        "EV",
-        "800V",
-        "Power Semiconductor"
+        "特許",
+        "訴訟",
+        "インフィニオン",
+        "Wolfspeed"
       ],
       "companies_mentioned": [
         "Infineon",
         "Wolfspeed",
         "Navitas",
-        "Toshiba",
-        "三菱電機",
-        "富士電機",
-        "東芝",
-        "ローム",
-        "ルネサス",
         "Innoscience"
       ]
     },
     {
-      "name": "メモリ技術の進化とエッジAIへの応用",
+      "name": "車載半導体の高度化とセンサー統合",
       "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "memory",
-        "ai",
-        "datacenter",
-        "logic"
-      ],
-      "summary": "LPDDRなどの省電力メモリ技術がエッジAIプラットフォームに拡大。AIデータセンター向けSSD市場も活況。",
-      "analysis": {
-        "short_term": "エッジAIデバイスの普及に伴い、省電力メモリ需要が増加。",
-        "mid_term": "AI処理のリアルタイム性向上のため、メモリ性能向上が継続。",
-        "investment_implications": "高性能メモリ、NANDフラッシュ関連企業に期待。"
-      },
-      "keywords": [
-        "LPDDR",
-        "Edge AI",
-        "SSD",
-        "NAND",
-        "AI Data Center"
-      ],
-      "companies_mentioned": [
-        "Micron",
-        "キオクシア"
-      ]
-    },
-    {
-      "name": "センサー技術の高度化と統合",
-      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "analog",
         "automotive",
-        "industrial",
-        "logic"
+        "power"
       ],
-      "summary": "車載、産業、医療分野向けに、センサー事業の買収やPMICとの統合が進む。高精度・多機能化がトレンド。",
+      "summary": "自動運転や電動化の進展により、車載向け半導体の高性能化・高機能化が進む。センサー事業の統合も加速。",
       "analysis": {
-        "short_term": "車載向けセンサー需要は安定。PMIC統合による効率化が進む。",
-        "mid_term": "IoT、自動運転の進展で高機能センサーの需要が増加。",
-        "investment_implications": "センサー関連、アナログICメーカーに注目。"
+        "short_term": "車載向けPMICやセンサーの需要堅調。",
+        "mid_term": "統合ソリューション提供企業が競争力強化。",
+        "investment_implications": "車載向けアナログ・センサー分野に投資妙味。"
       },
       "keywords": [
-        "Sensor",
+        "車載",
+        "センサー",
         "PMIC",
-        "Automotive",
-        "Brake-by-Wire",
-        "ams OSRAM"
+        "ブレーキバイワイヤ",
+        "自動運転"
       ],
       "companies_mentioned": [
         "Infineon",
@@ -128,52 +89,76 @@
       ]
     },
     {
-      "name": "半導体製造・設計プロセスのAI活用",
-      "confidence": 0.85,
+      "name": "AIによるIPエコシステムの変革",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "backend",
         "logic",
-        "equipment",
         "ai",
-        "foundry"
+        "frontend",
+        "general"
       ],
-      "summary": "AIエージェントが半導体・PCB設計、検証プロセスに導入され、開発効率向上に貢献。製造装置の技術教育も強化。",
+      "summary": "AI技術が半導体IPの設計、検証、管理、販売プロセスを根本から変革し、新たなIP戦略が求められている。",
       "analysis": {
-        "short_term": "EDA分野でのAI活用が本格化。設計期間短縮への期待。",
-        "mid_term": "AIによる設計・検証の自動化が進み、開発サイクルの高速化。",
-        "investment_implications": "AIを活用したEDAツール、設計サービス企業に注目。"
+        "short_term": "AIを活用したEDAツールの開発が進展。",
+        "mid_term": "IPライセンスモデルの多様化が予想される。",
+        "investment_implications": "AIを活用したIP開発・提供企業に注目。"
       },
       "keywords": [
-        "AI Agent",
+        "AI",
+        "IP",
         "EDA",
-        "HLS",
-        "Verification",
-        "リガク"
+        "検証",
+        "設計"
       ],
       "companies_mentioned": [
-        "リガク",
-        "住友ベークライト"
+        "Intel"
+      ]
+    },
+    {
+      "name": "メモリ技術の進化とエッジAIへの応用",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter",
+        "logic"
+      ],
+      "summary": "LPDDRなどのメモリ技術がエッジAIプラットフォームへ拡大し、リアルタイム推論の省電力化に貢献。データセンター向けNAND需要も拡大。",
+      "analysis": {
+        "short_term": "エッジAI向けメモリの需要が拡大。",
+        "mid_term": "大容量・低消費電力メモリが競争力を左右。",
+        "investment_implications": "メモリメーカーの技術開発力に注目。"
+      },
+      "keywords": [
+        "LPDDR",
+        "エッジAI",
+        "NAND",
+        "SSD",
+        "省電力"
+      ],
+      "companies_mentioned": [
+        "キオクシア"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
       "世界半導体市場の過去最高更新（2026年5月）",
-      "日本市場の顕著な成長（前年比23％増）",
-      "AI関連投資の活発化（マイクロン、アップル契約）",
-      "パワー半導体（GaN/SiC）市場の拡大",
-      "キオクシアの時価総額急増（NAND戦略）"
+      "日本市場の前年比大幅増（2026年5月）",
+      "AIインフラ投資の活発化",
+      "車載半導体市場の堅調な成長",
+      "データセンター向けメモリ需要の拡大"
     ],
     "bearish": [
       "半導体業界の人材不足",
-      "特許侵害訴訟の増加（GaN/SiC分野）"
+      "知財訴訟による一部製品の販売制限リスク"
     ],
     "neutral": [
       "量子コンピューティングの緩やかな量産移行",
-      "2次元半導体、室温発光デバイスの研究開発進展"
+      "標準化や技術開発における課題の存在"
     ]
   },
-  "source_count": 46
+  "source_count": 50
 }

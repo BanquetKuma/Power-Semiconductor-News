@@ -1,150 +1,282 @@
 {
-  "generated_at": "2026-07-11T06:59:51.474672+09:00",
+  "generated_at": "2026-07-10T07:19:57.338891+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Lotus Microsystems Unveils vStrata Vertical Power Delivery Platform",
-    "summary": "Lotus MicrosystemsがAIアクセラレータ効率向上とラック密度改善のため、電源・熱管理統合プラットフォーム「vStrata」を発表。",
+    "title": "Toshiba Unveils U-MOS11-H 80V MOSFET",
+    "summary": "東芝が低オン抵抗・高効率な80V耐圧MOSFET「U-MOS11-H」を発表。スイッチング性能と熱特性を向上。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/lotus-microsystems-unveils-vstrata-vertical-power-delivery-platform"
+        "url": "https://www.powerelectronicsnews.com/toshiba-unveils-u-mos11-h-80v-mosfet"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Smart GaN Interfaces for 800V Data Centers, Zeta Converter, GaN Lateral SJ Schottky Diode: Electronics Week Insights",
-        "blurb": "800Vデータセンター向けGaNインターフェース、Zetaコンバータ、GaNダイオードの最新動向。",
+        "title": "The Expansion Of LPDDR Into Edge AI Platforms",
+        "blurb": "LPDDRがエッジAIプラットフォームに拡大。スマホの省電力技術がリアルタイム推論のニーズに応える。",
         "category": "business",
-        "date": "2026-07-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/smart-gan-interfaces-for-800v-data-centers-zeta-converter-gan-lateral-sj-schottky-diode-electronics-week-insights"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Infineon Completes Acquisition of Non-Optical ams OSRAM Sensor Business",
-        "blurb": "インフィニオンがams OSRAMの非光学センサー事業を買収完了。車載、産業、医療、コンシューマー向けセンサーポートフォリオを拡充。",
-        "category": "business",
-        "date": "2026-07-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-completes-acquisition-of-non-optical-ams-osram-sensor-business"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "マイクロン米投資拡大、アップル300億ドル契約、半導体業界は人材不足や技術開発、標準化など課題多し。",
-        "category": "business",
-        "date": "2026-07-10",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-146"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "時価総額45兆円に　キオクシア復活劇を支えたNAND戦略",
-        "blurb": "キオクシアはAIデータセンター向けSSD市場で攻勢を強め、第10世代NANDで存在感を高めている。時価総額は45兆円に達した。",
-        "category": "business",
-        "date": "2026-07-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/10/news073.html"
+          "url": "https://semiengineering.com/the-expansion-of-lpddr-into-edge-ai-platforms"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "AI Is Rewriting The IP Playbook",
+        "blurb": "AIの進化が半導体IPの作成、検証、管理、販売方法を根本的に変革している。",
+        "category": "business",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-is-rewriting-the-ip-playbook"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Where Does Quantum Computing Stand?",
+        "blurb": "量子コンピューティングは研究段階から高生産量へとゆっくりと移行しており、実用化が進んでいます。",
+        "category": "business",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/where-does-quantum-computing-stand"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "From Host Node To Heterogeneous Rack: Rethinking The AI CPU",
+        "blurb": "AIインフラの専門化に伴い、CPUはエージェント型ワークロードのオーケストレーション層へと進化。ヘテロジニアス・ラック構成が重要に。",
+        "category": "business",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-host-node-to-heterogeneous-rack-rethinking-the-ai-cpu"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Enterprise SSD accelerates AI server data transfer",
+        "blurb": "サムスンはAIサーバー向けに、PCIe 6.0対応のエンタープライズSSD「PM1763」を発表。9世代V-NANDと4nmコントローラー搭載。",
+        "category": "business",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/enterprise-ssd-accelerates-ai-server-data-transfer"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "ai",
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "Edge Intelligence Redefines What SDVs Can Do",
+        "blurb": "ソフトウェア定義車両（SDV）は、エッジでのデータ処理を必要としています。クラウドへのデータ送信は非効率的でコストがかかるため、エッジインテリジェンスが重要視されています。",
+        "category": "business",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/edge-intelligence-redefines-what-sdvs-can-do"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
           "process": null,
           "market": "datacenter",
           "industry": null
         }
       },
       {
-        "title": "Roundup: New Digital Isolator Launches Target Industrial and Automotive Systems",
-        "blurb": "3社が産業・車載向け新デジタルアイソレータを発表。RS485、低消費電力、統合電源供給に対応。",
+        "title": "Qualcomm Unveils Dragonfly Data Center Portfolio for Agentic AI Infrastructure",
+        "blurb": "QualcommがAIインフラ向け「Dragonfly」を発表。推論スループット向上、省電力化、コスト削減を目指す。",
         "category": "business",
-        "date": "2026-07-10",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/roundup-new-digital-isolator-launches-target-industrial-and-automotive-systems"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/qualcomm-unveils-dragonfly-data-center-portfolio-for-agentic-ai-infrastructure"
         },
         "field": {
-          "primary": "industrial",
+          "primary": "datacenter",
           "device": null,
           "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "u-blox ALMA-B2 Brings Bluetooth 6.0 and Edge AI to Low-Power IoT",
-        "blurb": "u-bloxの新モジュールALMA-B2は、Bluetooth 6.0とエッジAIを低消費電力IoTデバイスに提供。Nordic製プラットフォーム搭載。",
-        "category": "business",
-        "date": "2026-07-10",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/u-blox-alma-b2-brings-bluetooth-6-0-and-edge-ai-to-low-power-iot"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
+          "market": "datacenter",
+          "industry": "fabless"
         }
       }
     ],
     "tools": [
       {
-        "title": "Blinkers",
-        "blurb": "選択的振動により、望ましくない副作用なしに注意を引く。",
+        "title": "Power Corner: THDP0400 and TICS Wideband Shunts, Explained",
+        "blurb": "TektronixのSeamus Brokaw氏が、ワイドバンドギャップ電源測定用の差動プローブTHDP0400と電流シャントプローブTICSについて解説。",
         "category": "tools",
-        "date": "2026-07-10",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/blinkers"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-thdp0400-and-tics-wideband-shunts-explained"
         },
         "field": null
       },
       {
-        "title": "Microchip Offers Free MPLAB Compiler and AI Tools",
-        "blurb": "マイクロチップ、MPLAB XCコンパイラとAI開発スイートを無料化。組み込み・エッジAI開発者の障壁を低減。",
+        "title": "The Architecture Decisions Behind A Production-Ready EDA AI Agent",
+        "blurb": "半導体・PCB設計向けAIエージェント開発では、汎用フレームワークでは対応できない課題解決が必要。アーキテクチャ設計の重要性を解説。",
         "category": "tools",
-        "date": "2026-07-11",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-offers-free-mplab-compiler-and-ai-tools"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-architecture-decisions-behind-a-production-ready-eda-ai-agent"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "UALink Under The Hood: Why Full-Stack Verification Wins",
+        "blurb": "UALinkは、シリコンのトランザクションを追跡し、パス全体で意味とバイトを維持するフルスタック検証の利点を解説。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ualink-under-the-hood-why-full-stack-verification-wins"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Benchmarking An NPU At Scale",
+        "blurb": "NPUの広範なハードウェア構成でのモデル全体を再コンパイル・再プロファイルするベンチマーク。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/benchmarking-an-npu-at-scale"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "An AI Model Fit For Purpose",
+        "blurb": "AIモデルは、作成された文脈外での使用は誤解を招く可能性がある。目的適合性が重要。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/an-ai-model-fit-for-purpose"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「ゾウの鼻先に着想」優しくつかみ、触って感じるロボットハンド",
+        "blurb": "北陸先端科学技術大学院大学と英キングス・カレッジ・ロンドンの研究グループが、ゾウの鼻に着想を得た、優しくつかみ触感も伝わるロボットハンド「EleTac」を開発した。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news032.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Hall-effect sensor measures 10-turn position",
+        "blurb": "Vishayの34 PHEセンサーは、3600°の範囲で10回転の線形または回転変位を測定するホール効果絶対位置センサーです。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/hall-effect-sensor-measures-10-turn-position"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "IP enables 8K image and video post-processing",
+        "blurb": "VeriSiliconのIPは、ロボットやドローン向けに8K映像の画像処理を可能にし、画質を向上させます。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ip-enables-8k-image-and-video-post-processing"
+        },
+        "field": null
+      },
+      {
+        "title": "Catalina GW9200 Embedded SBC Brings NXP i.MX95, 10GbE, and Edge AI",
+        "blurb": "NXP i.MX95搭載のCatalina GW9200 SBCは、10GbE、モジュール拡張、Linux、最大2TOPSのAIを産業用エッジ向けに提供。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/catalina-gw9200-embedded-sbc-brings-nxp-i-mx95-10gbe-and-edge-ai"
         },
         "field": {
           "primary": "ai",
@@ -153,18 +285,30 @@
           "market": "ai",
           "industry": null
         }
+      },
+      {
+        "title": "KYOCERA AVX Launches Web-Based Antenna Selection Tool",
+        "blurb": "京セラAVXがウェブベースのアンテナ選定ツールをローンチ。RFエンジニアは試作前に配置や性能をシミュレーション可能。",
+        "category": "tools",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/kyocera-avx-launches-web-based-antenna-selection-tool"
+        },
+        "field": null
       }
     ],
     "company": [
       {
-        "title": "Munich Court Rules in Favor of Infineon in Latest GaN IP Case",
-        "blurb": "独ミュンヘン地裁、インフィニオンのGaN特許を支持。ドイツ国内での侵害製品販売を制限。",
+        "title": "Toshiba Unveils U-MOS11-H 80V MOSFET",
+        "blurb": "東芝が低オン抵抗・高効率な80V耐圧MOSFET「U-MOS11-H」を発表。スイッチング性能と熱特性を向上。",
         "category": "company",
-        "date": "2026-07-10",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/munich-court-rules-in-favor-of-infineon-in-latest-gan-ip-case"
+          "url": "https://www.powerelectronicsnews.com/toshiba-unveils-u-mos11-h-80v-mosfet"
         },
         "field": {
           "primary": "power",
@@ -175,44 +319,104 @@
         }
       },
       {
-        "title": "リガク、半導体計測装置の実習専用拠点を開設",
-        "blurb": "リガクは大阪に半導体計測装置の実習拠点を開設。サービスエンジニアの技術教育を拡充し、グローバルなサービス体制を強化する。",
+        "title": "TAIYO YUDEN Launches HVX-K and HTX-K Hybrid Capacitors",
+        "blurb": "太陽誘電が、高容量・80V動作・高リップル電流対応のハイブリッドコンデンサ「HVX-K」「HTX-K」を発売。車載規格AEC-Q200準拠。",
         "category": "company",
-        "date": "2026-07-10",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/10/news048.html"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "JDI、香港の販売子会社を解散　26年度は売上高71.7％減",
-        "blurb": "JDIは香港の販売子会社JDI Hong Kongを解散・清算すると発表。2026年9月末に事業停止予定。",
-        "category": "company",
-        "date": "2026-07-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/10/news064.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/taiyo-yuden-launches-hvx-k-and-htx-k-hybrid-capacitors"
         },
         "field": null
       },
       {
-        "title": "パワー半導体企業ランキング、日本勢は三菱電機ら5社がトップ20入り",
-        "blurb": "2025年パワー半導体企業売上高ランキングで、三菱電機、富士電機、東芝、ローム、ルネサスがトップ20入り。日本勢は計5社。",
+        "title": "2次元半導体を用い室温で発光を電気的に制御、東大ら",
+        "blurb": "東大らは、2次元半導体「単層二硫化モリブデン」で室温発光を電気制御する光電子デバイスを開発した。",
         "category": "company",
-        "date": "2026-07-10",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/10/news072.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news034.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "住友ベーク、中国で封止材の生産能力30％増強へ　AI市場の拡大見据え",
+        "blurb": "住友ベークライトは2028年12月頃、中国で半導体封止材の生産能力を約30％増強する。AI市場拡大を見据える。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news063.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "田中貴金属、水素社会実現へ「国内最大」燃料電池発電システム稼働",
+        "blurb": "田中貴金属が国内最大級の純水素型燃料電池発電システムを稼働開始。湘南工場の電力需要の34%を賄い、水素活用実証を進める。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news062.html"
+        },
+        "field": null
+      },
+      {
+        "title": "「全固体電池疑惑」が投げかけたもの",
+        "blurb": "DONUT LABの全固体電池開発に関する疑惑が、今後の動向に影響を与える可能性。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news074.html"
+        },
+        "field": null
+      },
+      {
+        "title": "「国際メモリワークショップ（IMW）」が始まるまで",
+        "blurb": "ベルギーで半導体メモリ技術の国際学会IMWが開催。今年で50周年を迎え、imecディレクターによる記念講演が行われた。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news029.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "WolfspeedがNavitasを特許侵害で提訴、主力のGaN／SiC製品対象に",
+        "blurb": "WolfspeedがNavitasを特許侵害で提訴。SiC・GaNパワー半導体関連の5件の特許侵害を主張。",
+        "category": "company",
+        "date": "2026-07-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news067.html"
         },
         "field": {
           "primary": "power",
@@ -223,50 +427,44 @@
         }
       },
       {
-        "title": "SK hynix、韓国内に118兆円投資　NASDAQ上場も目前",
-        "blurb": "SK hynixは韓国に約118兆円投資し、生産能力を拡大。2026年7月には米NASDAQに上場予定。",
+        "title": "Carl Sagan’s prescient thoughts on AI and robots",
+        "blurb": "カール・セーガンはAIとロボットについて先見の明のある考えを持っていた。過去の技術発展を驚くほど正確に予測していた。",
         "category": "company",
-        "date": "2026-07-10",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/10/news076.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/carl-sagans-prescient-thoughts-on-ai-and-robots"
         },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
+        "field": null
       },
       {
-        "title": "分子ゆらぎを制御したポリイミド絶縁材料を開発、東京科学大",
-        "blurb": "東京科学大が分子ゆらぎ制御で高周波誘電損失を低減するポリイミド絶縁材料を開発。6GやAI半導体向けに期待。",
+        "title": "Stacked-die half-bridge boosts MOSFET power density",
+        "blurb": "AOSは、積層ダイ技術を用いた新パッケージで、MOSFETの電力密度を向上させるハーフブリッジ回路を発表しました。",
         "category": "company",
-        "date": "2026-07-10",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/10/news047.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/stacked-die-half-bridge-boosts-mosfet-power-density"
         },
         "field": {
-          "primary": "ai",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Rethinking automotive compute in the software-defined era",
-        "blurb": "ソフトウェア定義型車（SDV）が次世代自動車プラットフォームを席巻する見込み。コンピューティングアーキテクチャの再考が急務。",
+        "title": "Hybrid capacitors target automotive power",
+        "blurb": "太陽誘電が車載向け導電性高分子ハイブリッドアルミ電解コンデンサの新シリーズを発表。AEC-Q200準拠。",
         "category": "company",
-        "date": "2026-07-10",
+        "date": "2026-07-09",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/rethinking-automotive-compute-in-the-software-defined-era"
+          "url": "https://www.edn.com/hybrid-capacitors-target-automotive-power"
         },
         "field": null
       },
@@ -289,40 +487,16 @@
         }
       },
       {
-        "title": "Lotus Microsystems Unveils vStrata Vertical Power Delivery Platform",
-        "blurb": "Lotus MicrosystemsがAIアクセラレータ効率向上とラック密度改善のため、電源・熱管理統合プラットフォーム「vStrata」を発表。",
+        "title": "MG Wants To Out-Mini Mini With Its New Electric Concept",
+        "blurb": "MGが新型EVコンセプト「MG GO！」を発表。2027年発売予定で、英国のノスタルジアを前面に出した小型車。",
         "category": "company",
-        "date": "2026-07-11",
+        "date": "2026-07-10",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/lotus-microsystems-unveils-vstrata-vertical-power-delivery-platform"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/801160/mg-go-concept-mg2-preview"
         },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Renesas 365 Dev Platform, NOR Flash Safety Features, Edge Intelligence in SDVs: Embedded Week Insights",
-        "blurb": "ルネサス365開発プラットフォーム、NORフラッシュの安全機能、SDVのエッジAIなど、組み込み技術の最新動向を解説。",
-        "category": "company",
-        "date": "2026-07-11",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/renesas-365-dev-platform-nor-flash-safety-features-edge-intelligence-in-sdvs-embedded-week-insights"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
+        "field": null
       }
     ],
     "sns": []
