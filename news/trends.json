@@ -1,57 +1,27 @@
 {
-  "generated_at": "2026-07-12T06:46:52.498048+09:00",
-  "date": "2026-07-12",
+  "generated_at": "2026-07-13T06:46:24.407398+09:00",
+  "date": "2026-07-13",
   "meta_trends": [
     {
-      "name": "AIインフラの進化と電力・熱管理",
-      "confidence": 0.95,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "datacenter",
-        "power",
-        "ai"
-      ],
-      "summary": "AIアクセラレータの高性能化に伴い、電力供給と熱管理の統合プラットフォームが重要視されている。ラック密度向上も喫緊の課題。",
-      "analysis": {
-        "short_term": "AIチップの需要増で関連技術開発が加速。",
-        "mid_term": "高密度・高効率化技術が競争優位の鍵に。",
-        "investment_implications": "電力・熱管理ソリューション提供企業に注目。"
-      },
-      "keywords": [
-        "AI",
-        "vStrata",
-        "電力管理",
-        "熱管理",
-        "ラック密度"
-      ],
-      "companies_mentioned": [
-        "Lotus Microsystems"
-      ]
-    },
-    {
-      "name": "GaN/SiCパワー半導体の知財競争激化",
+      "name": "GaNパワー半導体の普及と知財競争",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "datacenter"
       ],
-      "summary": "GaNおよびSiCパワー半導体分野で、大手企業間の特許侵害訴訟が頻発。知財戦略が市場での優位性を左右する。",
+      "summary": "GaN技術はデータセンターやEV向けに普及が進む一方、インフィニオンとWolfspeedによる特許侵害訴訟が激化しており、業界再編の可能性も示唆。",
       "analysis": {
-        "short_term": "訴訟リスクが一部企業の販売に影響。",
-        "mid_term": "技術開発と並行した知財戦略が不可欠。",
-        "investment_implications": "知財ポートフォリオが強固な企業が有利。"
+        "short_term": "特許訴訟の動向が短期的な株価に影響。",
+        "mid_term": "GaN採用拡大で市場は成長、技術優位性と知財戦略が鍵。",
+        "investment_implications": "GaN技術を持つ企業、または知財リスクの低い企業に注目。"
       },
       "keywords": [
         "GaN",
-        "SiC",
         "特許",
-        "訴訟",
-        "インフィニオン",
-        "Wolfspeed"
+        "データセンター",
+        "EV"
       ],
       "companies_mentioned": [
         "Infineon",
@@ -61,104 +31,139 @@
       ]
     },
     {
-      "name": "車載半導体の高度化とセンサー統合",
-      "confidence": 0.85,
+      "name": "AI向け半導体需要の継続拡大",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "analog",
-        "automotive",
-        "power"
-      ],
-      "summary": "自動運転や電動化の進展により、車載向け半導体の高性能化・高機能化が進む。センサー事業の統合も加速。",
-      "analysis": {
-        "short_term": "車載向けPMICやセンサーの需要堅調。",
-        "mid_term": "統合ソリューション提供企業が競争力強化。",
-        "investment_implications": "車載向けアナログ・センサー分野に投資妙味。"
-      },
-      "keywords": [
-        "車載",
-        "センサー",
-        "PMIC",
-        "ブレーキバイワイヤ",
-        "自動運転"
-      ],
-      "companies_mentioned": [
-        "Infineon",
-        "ams OSRAM",
-        "Allegro"
-      ]
-    },
-    {
-      "name": "AIによるIPエコシステムの変革",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
         "ai",
-        "frontend",
-        "general"
+        "logic",
+        "memory",
+        "datacenter",
+        "automotive"
       ],
-      "summary": "AI技術が半導体IPの設計、検証、管理、販売プロセスを根本から変革し、新たなIP戦略が求められている。",
+      "summary": "AIアクセラレータ、AI PC、エッジAI向けLPDDRなど、AI関連半導体の需要が多岐にわたり拡大。データセンター、車載、コンシューマー分野で顕著。",
       "analysis": {
-        "short_term": "AIを活用したEDAツールの開発が進展。",
-        "mid_term": "IPライセンスモデルの多様化が予想される。",
-        "investment_implications": "AIを活用したIP開発・提供企業に注目。"
+        "short_term": "AIチップ関連の設備投資と新製品投入が活発化。",
+        "mid_term": "AIの進化に伴い、高性能・低消費電力半導体の需要は継続。",
+        "investment_implications": "AI向け半導体メーカー、IPプロバイダー、関連材料・装置メーカーに投資妙味。"
       },
       "keywords": [
         "AI",
-        "IP",
-        "EDA",
-        "検証",
-        "設計"
+        "データセンター",
+        "AI PC",
+        "LPDDR"
       ],
       "companies_mentioned": [
-        "Intel"
+        "Lotus Microsystems",
+        "Intel",
+        "キオクシア",
+        "SK hynix"
       ]
     },
     {
-      "name": "メモリ技術の進化とエッジAIへの応用",
-      "confidence": 0.75,
+      "name": "車載半導体の高度化と集積化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "ai",
-        "datacenter",
-        "logic"
+        "automotive",
+        "analog",
+        "logic",
+        "power"
       ],
-      "summary": "LPDDRなどのメモリ技術がエッジAIプラットフォームへ拡大し、リアルタイム推論の省電力化に貢献。データセンター向けNAND需要も拡大。",
+      "summary": "ブレーキバイワイヤシステム向けPMICや、ソフトウェア定義車両（SDV）向けHAL（ハードウェア抽象化レイヤー）の研究など、車載半導体の機能高度化と集積化が進展。",
       "analysis": {
-        "short_term": "エッジAI向けメモリの需要が拡大。",
-        "mid_term": "大容量・低消費電力メモリが競争力を左右。",
-        "investment_implications": "メモリメーカーの技術開発力に注目。"
+        "short_term": "SDV関連技術開発が加速し、標準化の動きも活発化。",
+        "mid_term": "自動運転や電動化の進展で、車載半導体市場は着実に成長。",
+        "investment_implications": "車載向け半導体、特にセンサー、PMIC、SoCメーカーに注目。"
       },
       "keywords": [
-        "LPDDR",
-        "エッジAI",
-        "NAND",
-        "SSD",
-        "省電力"
+        "車載",
+        "SDV",
+        "PMIC",
+        "HAL"
       ],
       "companies_mentioned": [
-        "キオクシア"
+        "Allegro",
+        "シュツットガルト大学",
+        "インフィニオン"
+      ]
+    },
+    {
+      "name": "先端製造技術と新材料開発の進展",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "wafer",
+        "logic",
+        "memory",
+        "equipment"
+      ],
+      "summary": "3nm GAA-FET SRAM、モノリシック集積フォトニクス、室温動作量子プロセッサなど、最先端の製造技術や新材料開発が活発化。CMOS互換性が重要視。",
+      "analysis": {
+        "short_term": "研究開発段階の技術が多く、実用化には時間。",
+        "mid_term": "CMOS製造技術の延長線上にある技術は、早期の実用化が期待。",
+        "investment_implications": "先端プロセス技術を持つファウンドリ、材料メーカー、研究開発型企業に注目。"
+      },
+      "keywords": [
+        "GAA-FET",
+        "フォトニクス",
+        "量子コンピュータ",
+        "CMOS"
+      ],
+      "companies_mentioned": [
+        "SJSU",
+        "Sandia",
+        "MITRE",
+        "NUS",
+        "東京科学大",
+        "東大"
+      ]
+    },
+    {
+      "name": "ファブライト戦略と製造拠点の最適化",
+      "confidence": 0.75,
+      "momentum": "stable",
+      "related_fields": [
+        "idm",
+        "fabless",
+        "foundry",
+        "geopolitics"
+      ],
+      "summary": "onsemiのファブライト戦略推進や、SK hynixの韓国国内への巨額投資など、IDM各社は製造拠点の最適化や生産能力増強を進めている。",
+      "analysis": {
+        "short_term": "地政学リスクを考慮したサプライチェーン再編が進む。",
+        "mid_term": "ファブライト化により、企業は設計・開発に注力。",
+        "investment_implications": "ファウンドリへの依存度が高まる一方、IDMの戦略転換に注目。"
+      },
+      "keywords": [
+        "ファブライト",
+        "製造拠点",
+        "サプライチェーン",
+        "設備投資"
+      ],
+      "companies_mentioned": [
+        "onsemi",
+        "SK hynix",
+        "マイクロン"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
       "世界半導体市場の過去最高更新（2026年5月）",
-      "日本市場の前年比大幅増（2026年5月）",
-      "AIインフラ投資の活発化",
-      "車載半導体市場の堅調な成長",
-      "データセンター向けメモリ需要の拡大"
+      "AI関連半導体需要の継続的な拡大",
+      "車載半導体市場の着実な成長",
+      "日本市場の顕著な回復（2026年5月）"
     ],
     "bearish": [
-      "半導体業界の人材不足",
-      "知財訴訟による一部製品の販売制限リスク"
+      "半導体業界における人材不足と標準化の課題",
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "量子コンピューティングの緩やかな量産移行",
-      "標準化や技術開発における課題の存在"
+      "先端製造技術の実用化に向けた研究開発競争",
+      "パワー半導体分野における日本企業の健闘"
     ]
   },
-  "source_count": 50
+  "source_count": 47
 }

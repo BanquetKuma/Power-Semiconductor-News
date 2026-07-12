@@ -1,66 +1,30 @@
 {
-  "generated_at": "2026-07-10T07:19:57.342606+09:00",
+  "generated_at": "2026-07-13T06:46:18.365581+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Architecture Decisions Behind A Production-Ready EDA AI Agent",
-    "summary": "半導体・PCB設計向けAIエージェント開発では、汎用フレームワークでは対応できない課題解決が必要。アーキテクチャ設計の重要性を解説。",
+    "title": "Hardware Abstraction Layer Study Targets Software-Defined Vehicles (U. of Stuttgart)",
+    "summary": "シュツットガルト大学がソフトウェア定義車両向けHALの研究を発表。モジュール性、相互運用性、リアルタイム処理、OTA更新能力がSDVには不可欠。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/the-architecture-decisions-behind-a-production-ready-eda-ai-agent"
+        "url": "https://semiengineering.com/hardware-abstraction-layer-study-targets-software-defined-vehicles-u-of-stuttgart"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "2次元半導体を用い室温で発光を電気的に制御、東大ら",
-        "blurb": "東大らは、2次元半導体「単層二硫化モリブデン」で室温発光を電気制御する光電子デバイスを開発した。",
+        "title": "Hardware Abstraction Layer Study Targets Software-Defined Vehicles (U. of Stuttgart)",
+        "blurb": "シュツットガルト大学がソフトウェア定義車両向けHALの研究を発表。モジュール性、相互運用性、リアルタイム処理、OTA更新能力がSDVには不可欠。",
         "category": "company",
-        "date": "2026-07-09",
+        "date": "2026-07-13",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news034.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "住友ベーク、中国で封止材の生産能力30％増強へ　AI市場の拡大見据え",
-        "blurb": "住友ベークライトは2028年12月頃、中国で半導体封止材の生産能力を約30％増強する。AI市場拡大を見据える。",
-        "category": "company",
-        "date": "2026-07-09",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news063.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「国際メモリワークショップ（IMW）」が始まるまで",
-        "blurb": "ベルギーで半導体メモリ技術の国際学会IMWが開催。今年で50周年を迎え、imecディレクターによる記念講演が行われた。",
-        "category": "company",
-        "date": "2026-07-09",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/09/news029.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hardware-abstraction-layer-study-targets-software-defined-vehicles-u-of-stuttgart"
         },
         "field": {
           "primary": "general",
@@ -71,99 +35,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "The Architecture Decisions Behind A Production-Ready EDA AI Agent",
-        "blurb": "半導体・PCB設計向けAIエージェント開発では、汎用フレームワークでは対応できない課題解決が必要。アーキテクチャ設計の重要性を解説。",
-        "category": "tools",
-        "date": "2026-07-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-architecture-decisions-behind-a-production-ready-eda-ai-agent"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "UALink Under The Hood: Why Full-Stack Verification Wins",
-        "blurb": "UALinkは、シリコンのトランザクションを追跡し、パス全体で意味とバイトを維持するフルスタック検証の利点を解説。",
-        "category": "tools",
-        "date": "2026-07-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ualink-under-the-hood-why-full-stack-verification-wins"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "An AI Model Fit For Purpose",
-        "blurb": "AIモデルは、作成された文脈外での使用は誤解を招く可能性がある。目的適合性が重要。",
-        "category": "tools",
-        "date": "2026-07-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/an-ai-model-fit-for-purpose"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "AI Is Rewriting The IP Playbook",
-        "blurb": "AIの進化が半導体IPの作成、検証、管理、販売方法を根本的に変革している。",
-        "category": "business",
-        "date": "2026-07-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-is-rewriting-the-ip-playbook"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Where Does Quantum Computing Stand?",
-        "blurb": "量子コンピューティングは研究段階から高生産量へとゆっくりと移行しており、実用化が進んでいます。",
-        "category": "business",
-        "date": "2026-07-09",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/where-does-quantum-computing-stand"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }

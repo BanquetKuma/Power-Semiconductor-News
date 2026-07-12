@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-07-12T06:46:47.912274+09:00",
+  "generated_at": "2026-07-13T06:46:18.364503+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Renesas 365 Dev Platform, NOR Flash Safety Features, Edge Intelligence in SDVs: Embedded Week Insights",
-    "summary": "ルネサス365開発プラットフォーム、NORフラッシュの安全機能、SDVのエッジAIなど、組み込み技術の最新動向を解説。",
+    "title": "Open DRAM Model For PIM Analysis In 3D DRAM (Georgia Tech)",
+    "summary": "Georgia Techの研究者が3D DRAM向けにDRAM動作の回路レベル解析を可能にする「Open DRAM Model」を発表しました。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/renesas-365-dev-platform-nor-flash-safety-features-edge-intelligence-in-sdvs-embedded-week-insights"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/open-dram-model-for-pim-analysis-in-3d-dram-georgia-tech"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Renesas 365 Dev Platform, NOR Flash Safety Features, Edge Intelligence in SDVs: Embedded Week Insights",
-        "blurb": "ルネサス365開発プラットフォーム、NORフラッシュの安全機能、SDVのエッジAIなど、組み込み技術の最新動向を解説。",
+        "title": "3nm GAA-FET SRAM Review Evaluates Self-Heating And Radiation Hardness (SJSU, Sandia)",
+        "blurb": "SJSUとSandiaの研究者が、3nm GAA-FET SRAMの自己発熱と放射線耐性を評価する論文を発表。基板分離技術の違いによる影響を分析。",
         "category": "company",
-        "date": "2026-07-11",
+        "date": "2026-07-13",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/renesas-365-dev-platform-nor-flash-safety-features-edge-intelligence-in-sdvs-embedded-week-insights"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/3nm-gaa-fet-sram-review-evaluates-self-heating-and-radiation-hardness-sjsu-sandia"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Open DRAM Model For PIM Analysis In 3D DRAM (Georgia Tech)",
+        "blurb": "Georgia Techの研究者が3D DRAM向けにDRAM動作の回路レベル解析を可能にする「Open DRAM Model」を発表しました。",
+        "category": "tools",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/open-dram-model-for-pim-analysis-in-3d-dram-georgia-tech"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": "fabless"
+          "industry": null
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }
