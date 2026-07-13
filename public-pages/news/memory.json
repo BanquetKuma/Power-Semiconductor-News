@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-13T06:46:18.364503+09:00",
+  "generated_at": "2026-07-14T06:54:23.372795+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Open DRAM Model For PIM Analysis In 3D DRAM (Georgia Tech)",
-    "summary": "Georgia Techの研究者が3D DRAM向けにDRAM動作の回路レベル解析を可能にする「Open DRAM Model」を発表しました。",
+    "title": "Near-memory Dequantization Architecture In Custom HBM for LLM inference (SK hynix)",
+    "summary": "SK hynixがLLM推論向けに、メモリ内で重みを量子化解除する「StreamDQ」を発表。AI推論の高速化と省電力化に貢献。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/open-dram-model-for-pim-analysis-in-3d-dram-georgia-tech"
+        "url": "https://semiengineering.com/near-memory-dequantization-architecture-in-custom-hbm-for-llm-inference-sk-hynix"
       }
     ]
   },
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "3nm GAA-FET SRAM Review Evaluates Self-Heating And Radiation Hardness (SJSU, Sandia)",
-        "blurb": "SJSUとSandiaの研究者が、3nm GAA-FET SRAMの自己発熱と放射線耐性を評価する論文を発表。基板分離技術の違いによる影響を分析。",
+        "blurb": "SJSUとSandiaの研究者が、3nm GAA-FET SRAMの自己発熱と放射線耐性に関する論文を発表。基板分離技術の影響を評価。",
         "category": "company",
         "date": "2026-07-13",
         "stars": 3,
@@ -32,6 +32,42 @@
           "process": "miniaturization",
           "market": null,
           "industry": null
+        }
+      },
+      {
+        "title": "Intelの夢の跡――頓挫したドイツ工場予定地のいま",
+        "blurb": "インテルがドイツに建設予定だった工場は頓挫。現在はDRAMメーカーの遺伝子を受け継ぐ企業が関わる。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/13/news069.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Near-memory Dequantization Architecture In Custom HBM for LLM inference (SK hynix)",
+        "blurb": "SK hynixがLLM推論向けに、メモリ内で重みを量子化解除する「StreamDQ」を発表。AI推論の高速化と省電力化に貢献。",
+        "category": "company",
+        "date": "2026-07-14",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/near-memory-dequantization-architecture-in-custom-hbm-for-llm-inference-sk-hynix"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": "idm"
         }
       }
     ],

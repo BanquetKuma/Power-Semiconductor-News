@@ -1,169 +1,163 @@
 {
-  "generated_at": "2026-07-13T06:46:24.407398+09:00",
-  "date": "2026-07-13",
+  "generated_at": "2026-07-14T06:54:28.682926+09:00",
+  "date": "2026-07-14",
   "meta_trends": [
     {
-      "name": "GaNパワー半導体の普及と知財競争",
+      "name": "AI向け高性能・高効率半導体需要拡大",
+      "confidence": 0.95,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "datacenter",
+        "logic",
+        "memory",
+        "power"
+      ],
+      "summary": "AIサーバー、LLM推論、データセンター向けに、高効率な電力供給、高速処理、大容量メモリの需要が急増。革新的なアーキテクチャ開発も活発。",
+      "analysis": {
+        "short_term": "AIチップ、HBM、高効率電源ICの需要は引き続き堅調。",
+        "mid_term": "AIインフラ投資は継続、新技術・新アーキテクチャの採用が進む。",
+        "investment_implications": "AI関連の最先端技術を持つ企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "LLM",
+        "HBM",
+        "DC/DC",
+        "GaN"
+      ],
+      "companies_mentioned": [
+        "Flex Power Modules",
+        "Lotus Microsystems",
+        "SK hynix",
+        "住友ベークライト"
+      ]
+    },
+    {
+      "name": "次世代パワー半導体技術の競争激化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "GaN技術はデータセンターやEV向けに普及が進む一方、インフィニオンとWolfspeedによる特許侵害訴訟が激化しており、業界再編の可能性も示唆。",
+      "summary": "GaNおよびSiC技術の特許紛争が激化。800Vシステム対応や高効率化がデータセンター、EV、産業機器で求められている。",
       "analysis": {
-        "short_term": "特許訴訟の動向が短期的な株価に影響。",
-        "mid_term": "GaN採用拡大で市場は成長、技術優位性と知財戦略が鍵。",
-        "investment_implications": "GaN技術を持つ企業、または知財リスクの低い企業に注目。"
+        "short_term": "GaN/SiC特許訴訟の動向を注視する必要がある。",
+        "mid_term": "次世代パワー半導体市場でのリーダーシップ争いが続く。",
+        "investment_implications": "特許ポートフォリオが強力な企業が有利。"
       },
       "keywords": [
         "GaN",
-        "特許",
-        "データセンター",
-        "EV"
+        "SiC",
+        "800V",
+        "特許紛争"
       ],
       "companies_mentioned": [
         "Infineon",
         "Wolfspeed",
         "Navitas",
-        "Innoscience"
+        "Toshiba",
+        "三菱電機",
+        "富士電機",
+        "ローム",
+        "ルネサス"
       ]
     },
     {
-      "name": "AI向け半導体需要の継続拡大",
-      "confidence": 0.95,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "memory",
-        "datacenter",
-        "automotive"
-      ],
-      "summary": "AIアクセラレータ、AI PC、エッジAI向けLPDDRなど、AI関連半導体の需要が多岐にわたり拡大。データセンター、車載、コンシューマー分野で顕著。",
-      "analysis": {
-        "short_term": "AIチップ関連の設備投資と新製品投入が活発化。",
-        "mid_term": "AIの進化に伴い、高性能・低消費電力半導体の需要は継続。",
-        "investment_implications": "AI向け半導体メーカー、IPプロバイダー、関連材料・装置メーカーに投資妙味。"
-      },
-      "keywords": [
-        "AI",
-        "データセンター",
-        "AI PC",
-        "LPDDR"
-      ],
-      "companies_mentioned": [
-        "Lotus Microsystems",
-        "Intel",
-        "キオクシア",
-        "SK hynix"
-      ]
-    },
-    {
-      "name": "車載半導体の高度化と集積化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "analog",
-        "logic",
-        "power"
-      ],
-      "summary": "ブレーキバイワイヤシステム向けPMICや、ソフトウェア定義車両（SDV）向けHAL（ハードウェア抽象化レイヤー）の研究など、車載半導体の機能高度化と集積化が進展。",
-      "analysis": {
-        "short_term": "SDV関連技術開発が加速し、標準化の動きも活発化。",
-        "mid_term": "自動運転や電動化の進展で、車載半導体市場は着実に成長。",
-        "investment_implications": "車載向け半導体、特にセンサー、PMIC、SoCメーカーに注目。"
-      },
-      "keywords": [
-        "車載",
-        "SDV",
-        "PMIC",
-        "HAL"
-      ],
-      "companies_mentioned": [
-        "Allegro",
-        "シュツットガルト大学",
-        "インフィニオン"
-      ]
-    },
-    {
-      "name": "先端製造技術と新材料開発の進展",
+      "name": "IoTとエネルギーハーベスティングの普及",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "wafer",
-        "logic",
-        "memory",
-        "equipment"
+        "industrial",
+        "analog",
+        "power"
       ],
-      "summary": "3nm GAA-FET SRAM、モノリシック集積フォトニクス、室温動作量子プロセッサなど、最先端の製造技術や新材料開発が活発化。CMOS互換性が重要視。",
+      "summary": "バッテリーフリーIoTソリューションへの投資が増加。エネルギーハーベスティングICの開発が進み、持続可能なIoTデバイスの実現を目指す。",
       "analysis": {
-        "short_term": "研究開発段階の技術が多く、実用化には時間。",
-        "mid_term": "CMOS製造技術の延長線上にある技術は、早期の実用化が期待。",
-        "investment_implications": "先端プロセス技術を持つファウンドリ、材料メーカー、研究開発型企業に注目。"
+        "short_term": "エネルギーハーベスティングICの技術開発と市場投入が進む。",
+        "mid_term": "IoTデバイスの省電力化・長寿命化が進み、普及を後押し。",
+        "investment_implications": "低消費電力IC、エネルギーハーベスティング技術に注目。"
       },
       "keywords": [
-        "GAA-FET",
-        "フォトニクス",
-        "量子コンピュータ",
-        "CMOS"
+        "IoT",
+        "エネルギーハーベスティング",
+        "バッテリーフリー"
       ],
       "companies_mentioned": [
-        "SJSU",
-        "Sandia",
-        "MITRE",
-        "NUS",
-        "東京科学大",
-        "東大"
+        "e-peas"
       ]
     },
     {
-      "name": "ファブライト戦略と製造拠点の最適化",
+      "name": "次世代コンピューティング向け新材料・新構造",
       "confidence": 0.75,
-      "momentum": "stable",
+      "momentum": "rising",
       "related_fields": [
-        "idm",
-        "fabless",
-        "foundry",
-        "geopolitics"
+        "logic",
+        "memory",
+        "wafer",
+        "frontend"
       ],
-      "summary": "onsemiのファブライト戦略推進や、SK hynixの韓国国内への巨額投資など、IDM各社は製造拠点の最適化や生産能力増強を進めている。",
+      "summary": "2次元半導体、量子コンピューティング、光集積など、CMOS互換の新材料・新構造の研究開発が加速。製造プロセスの革新を目指す。",
       "analysis": {
-        "short_term": "地政学リスクを考慮したサプライチェーン再編が進む。",
-        "mid_term": "ファブライト化により、企業は設計・開発に注力。",
-        "investment_implications": "ファウンドリへの依存度が高まる一方、IDMの戦略転換に注目。"
+        "short_term": "基礎研究段階だが、将来的な技術ブレークスルーに期待。",
+        "mid_term": "CMOS製造ラインへの統合可能性を探る動きが活発化。",
+        "investment_implications": "先端材料・プロセス技術を持つ研究機関・スタートアップに注目。"
       },
       "keywords": [
-        "ファブライト",
-        "製造拠点",
-        "サプライチェーン",
-        "設備投資"
+        "2次元半導体",
+        "量子コンピューティング",
+        "光集積",
+        "CMOS"
       ],
       "companies_mentioned": [
-        "onsemi",
-        "SK hynix",
-        "マイクロン"
+        "東京科学大",
+        "東大",
+        "NUS"
+      ]
+    },
+    {
+      "name": "ソフトウェア定義車両（SDV）向け半導体",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "logic",
+        "analog",
+        "power"
+      ],
+      "summary": "ソフトウェア定義車両（SDV）の実現に向け、モジュール性、相互運用性、リアルタイム処理能力を持つ半導体ソリューションが不可欠。",
+      "analysis": {
+        "short_term": "SDV向けHALの研究開発が進展。",
+        "mid_term": "車載半導体市場におけるソフトウェア対応能力が重要視される。",
+        "investment_implications": "車載向け高性能・高信頼性半導体メーカーに注目。"
+      },
+      "keywords": [
+        "SDV",
+        "車載半導体",
+        "HAL",
+        "OTA"
+      ],
+      "companies_mentioned": [
+        "U. of Stuttgart",
+        "Infineon"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の過去最高更新（2026年5月）",
-      "AI関連半導体需要の継続的な拡大",
-      "車載半導体市場の着実な成長",
-      "日本市場の顕著な回復（2026年5月）"
+      "AI関連スタートアップへの資金調達活況（Q2 2026）",
+      "AIデータセンター向けNAND需要の急増",
+      "パワー半導体企業ランキングにおける日本勢の健闘"
     ],
     "bearish": [
-      "半導体業界における人材不足と標準化の課題",
-      "地政学リスクによるサプライチェーンの不確実性"
+      "インテル、ドイツ工場計画頓挫"
     ],
     "neutral": [
-      "先端製造技術の実用化に向けた研究開発競争",
-      "パワー半導体分野における日本企業の健闘"
+      "半導体計測装置の実習拠点開設によるサービス体制強化"
     ]
   },
-  "source_count": 47
+  "source_count": 46
 }

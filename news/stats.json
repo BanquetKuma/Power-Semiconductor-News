@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-07-13T06:46:18.365791+09:00",
-  "date": "2026-07-13",
-  "total_items": 65,
-  "semiconductor_items": 6,
+  "generated_at": "2026-07-14T06:54:23.375744+09:00",
+  "date": "2026-07-14",
+  "total_items": 61,
+  "semiconductor_items": 19,
   "by_field": {
-    "memory": 2,
+    "memory": 4,
     "logic": 1,
-    "backend": 1,
+    "analog": 1,
+    "ai": 1,
+    "automotive": 1,
+    "datacenter": 2,
+    "industrial": 2,
     "wafer": 1,
-    "general": 1
+    "general": 6
   },
   "sources": [
     "edn.com",
@@ -19,9 +23,9 @@
     "semiengineering.com"
   ],
   "sections": {
-    "business": 0,
-    "tools": 2,
-    "company": 4,
+    "business": 5,
+    "tools": 3,
+    "company": 15,
     "sns": 0
   }
 }

@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-13T06:46:18.363694+09:00",
+  "generated_at": "2026-07-12T06:46:47.911577+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Open DRAM Model For PIM Analysis In 3D DRAM (Georgia Tech)",
-    "summary": "Georgia Techの研究者が3D DRAM向けにDRAM動作の回路レベル解析を可能にする「Open DRAM Model」を発表しました。",
+    "title": "Lotus Microsystems Unveils vStrata Vertical Power Delivery Platform",
+    "summary": "Lotus MicrosystemsがAIアクセラレータ効率向上とラック密度改善のため、電力・熱管理統合プラットフォーム「vStrata」を発表。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/open-dram-model-for-pim-analysis-in-3d-dram-georgia-tech"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/lotus-microsystems-unveils-vstrata-vertical-power-delivery-platform"
       }
     ]
   },
@@ -16,112 +16,94 @@
     "business": [],
     "tools": [
       {
-        "title": "Open DRAM Model For PIM Analysis In 3D DRAM (Georgia Tech)",
-        "blurb": "Georgia Techの研究者が3D DRAM向けにDRAM動作の回路レベル解析を可能にする「Open DRAM Model」を発表しました。",
+        "title": "Microchip Offers Free MPLAB Compiler and AI Tools",
+        "blurb": "マイクロチップ、MPLAB XCコンパイラとAI開発スイートを無償提供。組み込み・エッジAI開発の障壁を低減。",
         "category": "tools",
-        "date": "2026-07-13",
+        "date": "2026-07-11",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/open-dram-model-for-pim-analysis-in-3d-dram-georgia-tech"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/microchip-offers-free-mplab-compiler-and-ai-tools"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
+          "primary": "ai",
+          "device": null,
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       },
       {
-        "title": "AI Framework Maps Thermal Behavior In 3D Photonic Circuits (U. of Florida et al.)",
-        "blurb": "AIフレームワークが3Dフォトニック回路の熱挙動をマッピングし、熱管理課題を解決。高性能コンピューティング等に貢献。",
+        "title": "Can You Extend An EV's Range With Portable Battery Banks? This Guy Is Trying It.",
+        "blurb": "ポータブルバッテリーでEVの航続距離を延長する試み。DIYで実現可能か検証中。",
         "category": "tools",
-        "date": "2026-07-13",
+        "date": "2026-07-11",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-framework-maps-thermal-behavior-in-3d-photonic-circuits-u-of-florida-et-al"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/801327/extend-range-ev-battery-pack"
         },
         "field": {
-          "primary": "backend",
+          "primary": "automotive",
           "device": null,
-          "process": "backend",
-          "market": null,
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       }
     ],
     "company": [
       {
-        "title": "Hardware Abstraction Layer Study Targets Software-Defined Vehicles (U. of Stuttgart)",
-        "blurb": "シュツットガルト大学がソフトウェア定義車両向けHALの研究を発表。モジュール性、相互運用性、リアルタイム処理、OTA更新能力がSDVには不可欠。",
+        "title": "Lotus Microsystems Unveils vStrata Vertical Power Delivery Platform",
+        "blurb": "Lotus MicrosystemsがAIアクセラレータ効率向上とラック密度改善のため、電力・熱管理統合プラットフォーム「vStrata」を発表。",
         "category": "company",
-        "date": "2026-07-13",
+        "date": "2026-07-11",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hardware-abstraction-layer-study-targets-software-defined-vehicles-u-of-stuttgart"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "3nm GAA-FET SRAM Review Evaluates Self-Heating And Radiation Hardness (SJSU, Sandia)",
-        "blurb": "SJSUとSandiaの研究者が、3nm GAA-FET SRAMの自己発熱と放射線耐性を評価する論文を発表。基板分離技術の違いによる影響を分析。",
-        "category": "company",
-        "date": "2026-07-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/3nm-gaa-fet-sram-review-evaluates-self-heating-and-radiation-hardness-sjsu-sandia"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Monolithic CMOS Platform Integrates Piezo-Optomechanical Photonics (Mitre et al.)",
-        "blurb": "MITREらが、圧電・光・機械集積フォトニクスとCMOSエレクトロニクスをモノリシック集積する新プラットフォームを発表。CMOS製造技術で実現。",
-        "category": "company",
-        "date": "2026-07-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/monolithic-cmos-platform-integrates-piezo-optomechanical-photonics-mitre-et-al"
-        },
-        "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Room-temperature, CMOS-compatible Photonic Quantum Processor (NUS et al.)",
-        "blurb": "NUSなどの研究チームが、室温で動作するCMOS互換の量子フォトニックプロセッサを発表。標準的な製造プロセスで実現。",
-        "category": "company",
-        "date": "2026-07-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/room-temperature-cmos-compatible-photonic-quantum-processor-nus-et-al"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/lotus-microsystems-unveils-vstrata-vertical-power-delivery-platform"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Renesas 365 Dev Platform, NOR Flash Safety Features, Edge Intelligence in SDVs: Embedded Week Insights",
+        "blurb": "ルネサス365開発プラットフォーム、NORフラッシュの安全機能、SDVのエッジAIなど、組み込み技術の最新動向を解説。",
+        "category": "company",
+        "date": "2026-07-11",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/renesas-365-dev-platform-nor-flash-safety-features-edge-intelligence-in-sdvs-embedded-week-insights"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Toyota's EV Sales Have More Than Doubled This Year",
+        "blurb": "トヨタのEV販売、今年に入り倍増。かつて遅れをとっていたが、他社が苦戦する中で成長を遂げている。",
+        "category": "company",
+        "date": "2026-07-11",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/801340/toyota-ev-sales-doubled-2026"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       }
