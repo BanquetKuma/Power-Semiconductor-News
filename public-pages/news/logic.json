@@ -1,30 +1,68 @@
 {
-  "generated_at": "2026-07-14T06:54:23.373109+09:00",
+  "generated_at": "2026-07-15T06:55:24.054002+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Room-temperature, CMOS-compatible Photonic Quantum Processor (NUS et al.)",
-    "summary": "NUSなどの研究チームが、室温で動作するCMOS互換の量子フォトニックプロセッサを発表。標準的な製造プロセスで実現。",
+    "title": "Intel、アイルランドに57億ドル投資　Intel 3生産強化",
+    "summary": "Intelはアイルランドに57億ドル投資し、AI・HPC向け「Intel 3」プロセッサの生産能力を強化する。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/room-temperature-cmos-compatible-photonic-quantum-processor-nus-et-al"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news059.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Room-temperature, CMOS-compatible Photonic Quantum Processor (NUS et al.)",
-        "blurb": "NUSなどの研究チームが、室温で動作するCMOS互換の量子フォトニックプロセッサを発表。標準的な製造プロセスで実現。",
+        "title": "Intel、アイルランドに57億ドル投資　Intel 3生産強化",
+        "blurb": "Intelはアイルランドに57億ドル投資し、AI・HPC向け「Intel 3」プロセッサの生産能力を強化する。",
         "category": "company",
-        "date": "2026-07-13",
+        "date": "2026-07-14",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/room-temperature-cmos-compatible-photonic-quantum-processor-nus-et-al"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news059.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Modos Flow – A 60Hz E-Ink Monitor Powered by AMD Zynq 7000 SoC",
+        "blurb": "AMD Zynq 7000 SoC搭載の60Hz E-Inkモニター「Modos Flow」が登場。FPGA技術で高速リフレッシュを実現し、USB Type-C接続。",
+        "category": "tools",
+        "date": "2026-07-14",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/modos-flow-a-60hz-e-ink-monitor-powered-by-amd-zynq-7000-soc"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Microchip Releases Free VectorBlox 3.0 SDK",
+        "blurb": "MicrochipがAI推論を高速化するVectorBlox 3.0 SDKを無償公開。FPGA/SoC向けにCNNモデル実装を簡略化し、性能と電力効率を向上。",
+        "category": "tools",
+        "date": "2026-07-15",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk"
         },
         "field": {
           "primary": "logic",
@@ -35,7 +73,25 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Crypto mining SoC unearths a need for custom IP",
+        "blurb": "カスタムIPの必要性が浮き彫りになった仮想通貨マイニングSoC。カスタムセルの影響はSoC設計フロー全体に波及する。",
+        "category": "business",
+        "date": "2026-07-14",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/crypto-mining-soc-unearths-a-need-for-custom-ip"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }
