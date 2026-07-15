@@ -1,62 +1,44 @@
 {
-  "generated_at": "2026-07-15T06:55:24.054002+09:00",
+  "generated_at": "2026-07-16T06:57:54.011100+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Intel、アイルランドに57億ドル投資　Intel 3生産強化",
-    "summary": "Intelはアイルランドに57億ドル投資し、AI・HPC向け「Intel 3」プロセッサの生産能力を強化する。",
+    "title": "Arteris, Arm Partner to Strengthen Hardware Security Verification",
+    "summary": "ArterisとArmは、ハードウェアの脆弱性を設計段階で特定するセキュリティ検証技術の採用を拡大し、将来のプロセッサ開発におけるハードウェアセキュリティを強化する。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news059.html"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/arteris-arm-partner-to-strengthen-hardware-security-verification"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Intel、アイルランドに57億ドル投資　Intel 3生産強化",
-        "blurb": "Intelはアイルランドに57億ドル投資し、AI・HPC向け「Intel 3」プロセッサの生産能力を強化する。",
+        "title": "Arteris, Arm Partner to Strengthen Hardware Security Verification",
+        "blurb": "ArterisとArmは、ハードウェアの脆弱性を設計段階で特定するセキュリティ検証技術の採用を拡大し、将来のプロセッサ開発におけるハードウェアセキュリティを強化する。",
         "category": "company",
-        "date": "2026-07-14",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news059.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/arteris-arm-partner-to-strengthen-hardware-security-verification"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": "idm"
+          "industry": null
         }
       }
     ],
     "tech": [
       {
-        "title": "Modos Flow – A 60Hz E-Ink Monitor Powered by AMD Zynq 7000 SoC",
-        "blurb": "AMD Zynq 7000 SoC搭載の60Hz E-Inkモニター「Modos Flow」が登場。FPGA技術で高速リフレッシュを実現し、USB Type-C接続。",
-        "category": "tools",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/modos-flow-a-60hz-e-ink-monitor-powered-by-amd-zynq-7000-soc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
         "title": "Microchip Releases Free VectorBlox 3.0 SDK",
-        "blurb": "MicrochipがAI推論を高速化するVectorBlox 3.0 SDKを無償公開。FPGA/SoC向けにCNNモデル実装を簡略化し、性能と電力効率を向上。",
+        "blurb": "MicrochipがAI推論を容易にするVectorBlox 3.0 SDKを無償公開。FPGA/SoC向けに性能と電力効率を向上。",
         "category": "tools",
         "date": "2026-07-15",
         "stars": 3,
@@ -73,25 +55,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "Crypto mining SoC unearths a need for custom IP",
-        "blurb": "カスタムIPの必要性が浮き彫りになった仮想通貨マイニングSoC。カスタムセルの影響はSoC設計フロー全体に波及する。",
-        "category": "business",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/crypto-mining-soc-unearths-a-need-for-custom-ip"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

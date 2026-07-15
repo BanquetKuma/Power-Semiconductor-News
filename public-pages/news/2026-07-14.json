@@ -1,28 +1,46 @@
 {
-  "generated_at": "2026-07-15T06:55:24.051461+09:00",
+  "generated_at": "2026-07-14T06:54:23.371285+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ROHM Launches DFN8080 and TOLL Super Junction MOSFETs",
-    "summary": "ROHMがAI・産業用電源向けに低損失・高放熱の600V耐圧MOSFETを発売。",
+    "title": "e-peas Secures $22 Million to Expand Battery-Free Ambient IoT Solutions",
+    "summary": "e-peasが2200万ドルを調達。バッテリーフリーIoTソリューションの拡大、エネルギーハーベスティングIC開発、グローバル展開を加速。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/rohm-launches-dfn8080-and-toll-super-junction-mosfets"
+        "url": "https://www.powerelectronicsnews.com/e-peas-secures-22-million-to-expand-battery-free-ambient-iot-solutions"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "EDA/SIP Revenue Up 12.7%; APAC Roars Back",
-        "blurb": "EDA/SIPの収益が12.7%増加。特にアジア太平洋地域の回復が顕著で、市場は引き続き二桁成長。",
+        "title": "The Evolution in Data Center Power Distribution PCIM Panel, Part 4: DC/DC platforms and VPD",
+        "blurb": "データセンターの電力配電に関するPCIMパネルの議論。800V DC/DCプラットフォームのトレードオフとVPDロードマップについて。",
         "category": "business",
-        "date": "2026-07-14",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-evolution-in-data-center-power-distribution-pcim-panel-part-4-dc-dc-platforms-and-vpd"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Startup Funding: Q2 2026",
+        "blurb": "2026年第2四半期、AI関連スタートアップ80社が60億ドル超を調達。資金調達は活況。",
+        "category": "business",
+        "date": "2026-07-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back"
+          "url": "https://semiengineering.com/startup-funding-q2-2026"
         },
         "field": {
           "primary": "general",
@@ -33,44 +51,26 @@
         }
       },
       {
-        "title": "Evatec、600mmパネル対応成膜装置で日本パッケージ市場に本格参入",
-        "blurb": "日本エバテックがAI・HPC向け次世代パッケージング市場に参入。大型パネル対応成膜装置「CLUSTERLINE 600」を展開。",
+        "title": "e-peas Secures $22 Million to Expand Battery-Free Ambient IoT Solutions",
+        "blurb": "e-peasが2200万ドルを調達。バッテリーフリーIoTソリューションの拡大、エネルギーハーベスティングIC開発、グローバル展開を加速。",
         "category": "business",
         "date": "2026-07-14",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news048.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/e-peas-secures-22-million-to-expand-battery-free-ambient-iot-solutions"
         },
         "field": {
-          "primary": "frontend",
+          "primary": "industrial",
           "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Crypto mining SoC unearths a need for custom IP",
-        "blurb": "カスタムIPの必要性が浮き彫りになった仮想通貨マイニングSoC。カスタムセルの影響はSoC設計フロー全体に波及する。",
-        "category": "business",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/crypto-mining-soc-unearths-a-need-for-custom-ip"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
           "process": null,
-          "market": null,
+          "market": "industrial",
           "industry": null
         }
       },
       {
         "title": "Swissbit, Nexperia Partner on Secure Hardware Platforms",
-        "blurb": "SwissbitとNexperiaがAI・クラウド・サーバー向けにセキュアなハードウェアプラットフォーム開発で提携。高性能コンピューティングを支援。",
+        "blurb": "SwissbitとNexperiaがAI・クラウド・サーバー向けセキュアハードウェアプラットフォーム開発で提携。高性能コンピューティングを支援。",
         "category": "business",
         "date": "2026-07-14",
         "stars": 3,
@@ -103,28 +103,48 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tools": [
       {
-        "title": "Exclusive: We Finally Know The Slate Truck's Destination Fee. Here's The Final Price",
-        "blurb": "Slateトラックの米国での最終価格が判明。目的地料金はピックアップトラックで最安値となる見込み。",
-        "category": "business",
-        "date": "2026-07-15",
+        "title": "Open DRAM Model For PIM Analysis In 3D DRAM (Georgia Tech)",
+        "blurb": "Georgia Techの研究者が3D DRAM向けにDRAM動作の回路レベル解析を可能にする「Open DRAM Model」を発表しました。",
+        "category": "tools",
+        "date": "2026-07-13",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801631/slate-truck-price-destination-fee"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/open-dram-model-for-pim-analysis-in-3d-dram-georgia-tech"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Ultrasonic device claims to repel pests",
+        "blurb": "超音波害虫駆除装置の内部構造を調査。低価格と論争が話題。効果は不明。",
+        "category": "tools",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ultrasonic-device-claims-to-repel-pests"
         },
         "field": null
       },
       {
-        "title": "Walmart EV Charger Deployments Exploded In Q2. Only Tesla Installed More Plugs",
-        "blurb": "ウォルマートのEV充電器設置数が第2四半期に急増。テスラに次ぐ規模で、Electrify Americaなどを上回った。",
-        "category": "business",
-        "date": "2026-07-15",
+        "title": "More than a plug: The hidden USB engineering in your EV",
+        "blurb": "EVのUSBポートは単なる接続端子ではなく、エネルギー、データ、サービスへの入り口であり、現代のモビリティを定義する重要な技術となっている。",
+        "category": "tools",
+        "date": "2026-07-13",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801603/walmart-q2-ev-fast-charging-growth"
+          "name": "edn.com",
+          "url": "https://www.edn.com/more-than-a-plug-the-hidden-usb-engineering-in-your-ev"
         },
         "field": {
           "primary": "automotive",
@@ -135,16 +155,34 @@
         }
       }
     ],
-    "tools": [
+    "company": [
       {
-        "title": "AI Models On The Edge",
-        "blurb": "エッジAI向けNPUの柔軟性を損なわずにカスタマイズする技術。セミコンダクター・エンジニアリングの記事。",
-        "category": "tools",
-        "date": "2026-07-14",
+        "title": "Flex Power Modules Launches BMR353 Eighth-Brick IBC",
+        "blurb": "Flex Power ModulesがAIサーバー向け高効率DC/DCコンバーター「BMR353」を発表。ピーク電力供給能力を持つ。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/flex-power-modules-launches-bmr353-eighth-brick-ibc"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Change Is Tough",
+        "blurb": "変化は常に困難だが、個人としてその意味を理解することが求められている。",
+        "category": "company",
+        "date": "2026-07-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-models-on-the-edge"
+          "url": "https://semiengineering.com/change-is-tough"
         },
         "field": {
           "primary": "general",
@@ -155,142 +193,206 @@
         }
       },
       {
-        "title": "Making noise with a BANG, part 2: Software, integration and operating results",
-        "blurb": "低コストで回路の周波数応答を測定できるプロジェクト。ソフトウェアと統合による動作結果を解説。",
-        "category": "tools",
-        "date": "2026-07-14",
+        "title": "Innovation First, AI Second: Lessons From SSN And The Future Of Test",
+        "blurb": "人間のエンジニアが革新的なアーキテクチャを開発。AIは価値最大化を支援。SSNとテストの未来からの教訓。",
+        "category": "company",
+        "date": "2026-07-13",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/making-noise-with-a-bang-part-2-software-integration-and-operating-results"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/innovation-first-ai-second-lessons-from-ssn-and-the-future-of-test"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Rethinking Ethernet For The AI Scale-Up Era: Inside ESUN",
+        "blurb": "AI時代に向け、イーサネットをロスレス・低遅延・決定論的な転送へ進化させるESUNの取り組み。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/rethinking-ethernet-for-the-ai-scale-up-era-inside-esun"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Hardware Abstraction Layer Study Targets Software-Defined Vehicles (U. of Stuttgart)",
+        "blurb": "シュトゥットガルト大学がソフトウェア定義車両向けHALの研究を発表。モジュール性、相互運用性、リアルタイム処理、OTA更新能力がSDVには不可欠。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hardware-abstraction-layer-study-targets-software-defined-vehicles-u-of-stuttgart"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "3nm GAA-FET SRAM Review Evaluates Self-Heating And Radiation Hardness (SJSU, Sandia)",
+        "blurb": "SJSUとSandiaの研究者が、3nm GAA-FET SRAMの自己発熱と放射線耐性に関する論文を発表。基板分離技術の影響を評価。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/3nm-gaa-fet-sram-review-evaluates-self-heating-and-radiation-hardness-sjsu-sandia"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Monolithic CMOS Platform Integrates Piezo-Optomechanical Photonics (Mitre et al.)",
+        "blurb": "MITREらが、圧電・光機械フォトニクスとCMOSエレクトロニクスをモノリシック集積する新プラットフォームを発表。CMOS製造技術で実現。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/monolithic-cmos-platform-integrates-piezo-optomechanical-photonics-mitre-et-al"
+        },
+        "field": {
+          "primary": "wafer",
+          "device": null,
+          "process": "wafer",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Room-temperature, CMOS-compatible Photonic Quantum Processor (NUS et al.)",
+        "blurb": "NUSなどの研究チームが、室温で動作するCMOS互換の量子フォトニックプロセッサを発表。標準的な製造プロセスで実現。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/room-temperature-cmos-compatible-photonic-quantum-processor-nus-et-al"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "高周波電力校正で10倍の高精度　HIOKIが新計測標準",
+        "blurb": "日置電機は、電力計の誤差校正で従来比約10倍の高精度を実現する新たな計測標準を開発した。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/13/news078.html"
         },
         "field": null
       },
       {
-        "title": "Modos Flow – A 60Hz E-Ink Monitor Powered by AMD Zynq 7000 SoC",
-        "blurb": "AMD Zynq 7000 SoC搭載の60Hz E-Inkモニター「Modos Flow」が登場。FPGA技術で高速リフレッシュを実現し、USB Type-C接続。",
-        "category": "tools",
-        "date": "2026-07-14",
+        "title": "Intelの夢の跡――頓挫したドイツ工場予定地のいま",
+        "blurb": "インテルがドイツに建設予定だった工場は頓挫。現在はDRAMメーカーの遺伝子を受け継ぐ企業が関わる。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/13/news069.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "150GHz帯MIMO用フェーズドアレイ無線機IC、東京科学大",
+        "blurb": "東京科学大が6G向け150GHz帯MIMO無線機ICを開発。アンテナ一体型モジュールで144Gbps超高速通信を実証。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/13/news028.html"
+        },
+        "field": null
+      },
+      {
+        "title": "オキサイドが量子通信用レーザー新開発",
+        "blurb": "オキサイドは量子通信用レーザーを新開発し、量子中継器向けに初出荷。量子分野での事業加速を目指す。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/13/news041.html"
+        },
+        "field": null
+      },
+      {
+        "title": "転写プロセスに頼らない集積回路用プラットフォームへ道筋、東大ら",
+        "blurb": "東大らは、サファイア基板上に二次元半導体を直接成長させ、トランジスタ動作に成功。転写プロセス不要の集積回路プラットフォームへの道筋を開いた。",
+        "category": "company",
+        "date": "2026-07-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/13/news027.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GigaDevice Enters EEPROM Market with Rugged GD24CL Series",
+        "blurb": "GigaDeviceが産業・IoT向けに高信頼性EEPROM「GD24CL」シリーズを発表。400万回の書き換え寿命とECC機能を搭載。",
+        "category": "company",
+        "date": "2026-07-13",
         "stars": 3,
         "source": {
           "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/modos-flow-a-60hz-e-ink-monitor-powered-by-amd-zynq-7000-soc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Microchip Releases Free VectorBlox 3.0 SDK",
-        "blurb": "MicrochipがAI推論を高速化するVectorBlox 3.0 SDKを無償公開。FPGA/SoC向けにCNNモデル実装を簡略化し、性能と電力効率を向上。",
-        "category": "tools",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Liquid Instruments Unveils GenInst Studio for Custom Test Design",
-        "blurb": "Liquid Instrumentsがカスタムテスト設計用のGenInst Studioを発表。AIで数分でアプリケーション固有の計測器を提供。",
-        "category": "tools",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "ROHM Launches DFN8080 and TOLL Super Junction MOSFETs",
-        "blurb": "ROHMがAI・産業用電源向けに低損失・高放熱の600V耐圧MOSFETを発売。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/rohm-launches-dfn8080-and-toll-super-junction-mosfets"
+          "url": "https://www.electronics-lab.com/gigadevice-enters-eeprom-market-with-rugged-gd24cl-series"
         },
         "field": {
           "primary": "industrial",
           "device": null,
           "process": null,
           "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Infineon Brings Bidirectional Switching to Rugged SiC Power Designs",
-        "blurb": "インフィニオン、双方向電力流と堅牢なSiC性能を組み合わせた750V CoolSiC BDSを発表。トップサイド冷却パッケージ採用。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-brings-bidirectional-switching-to-rugged-sic-power-designs"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "e-peas Secures $22 Million to Expand Battery-Free Ambient IoT Solutions",
-        "blurb": "e-peasが2200万ドルを調達。バッテリーフリーIoTソリューションの拡大、エネルギーハーベスティングIC開発、グローバル展開を加速。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/e-peas-secures-22-million-to-expand-battery-free-ambient-iot-solutions"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Research Bits: July 14",
-        "blurb": "脳型メモリトランジスタ、菌糸体PCB、有機半導体ドーピングの研究成果。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-july-14"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
           "industry": null
         }
       },
       {
         "title": "Near-memory Dequantization Architecture In Custom HBM for LLM inference (SK hynix)",
-        "blurb": "SK hynixがLLM推論向けに、HBM内で重み量子化解除を高速化する「StreamDQ」を発表。AI推論を大幅に高速化し、エネルギー消費を削減。",
+        "blurb": "SK hynixがLLM推論向けに、メモリ内で重みを量子化解除する「StreamDQ」を発表。AI推論の高速化と省電力化に貢献。",
         "category": "company",
         "date": "2026-07-14",
         "stars": 3,
@@ -304,144 +406,6 @@
           "process": null,
           "market": null,
           "industry": "idm"
-        }
-      },
-      {
-        "title": "電流を流さず単一原子磁石の情報読み書きに成功、東大",
-        "blurb": "東大は単一原子磁石の情報読み書きに成功。発熱・エネルギー損失が極小の超高密度メモリ実現の可能性を示した。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news036.html"
-        },
-        "field": null
-      },
-      {
-        "title": "数百層の3D NAND内部構造を非破壊で観察可能に、東北大",
-        "blurb": "東北大学は、数百層の3D NAND内部構造を非破壊で3次元可視化する技術を開発。開発効率向上に貢献。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news037.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Bosch、米国8インチSiC工場でサンプル生産開始　26年中に量産へ",
-        "blurb": "ボッシュは米国の8インチSiC工場でサンプル生産を開始し、2026年中に量産を目指す。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news061.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "onsemiのSynaptics買収が示す、エッジAIの本格到来",
-        "blurb": "onsemiが約70億ドルでSynapticsを買収。エッジAI/フィジカルAI分野の強化が狙い。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news060.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Intel、アイルランドに57億ドル投資　Intel 3生産強化",
-        "blurb": "Intelはアイルランドに57億ドル投資し、AI・HPC向け「Intel 3」プロセッサの生産能力を強化する。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news059.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "'Completely False': Lucid Denies Report That It's Weighing Bankruptcy After Shares Crash",
-        "blurb": "EVメーカーのLucidは、経営破綻の憶測を否定。株価急落を受け、同社は「完全に虚偽」と声明を発表した。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801645/lucid-stock-crash-bankruptcy-rumor"
-        },
-        "field": null
-      },
-      {
-        "title": "'We Will Not Survive': Toyota Boss Wants Japanese Automakers To Team Up To Beat Chinese EVs",
-        "blurb": "トヨタ社長は、中国EVに対抗するため、日本の自動車メーカーの連携を提案。生き残りをかけた戦略が注目される。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801643/toyota-koji-sato-japan-rival-chinese-ev"
-        },
-        "field": null
-      },
-      {
-        "title": "Nearly 10,000 EVs Were Tested For Battery Degradation. These 2 Models Won Out.",
-        "blurb": "スウェーデンでの約1万件のEVバッテリー劣化テストで、2モデルが62,000マイル走行後も97%以上の容量を維持した。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801624/sweden-batter-degradation-group-test"
-        },
-        "field": null
-      },
-      {
-        "title": "The Company Behind TikTok Could Get Into The Autonomous Car Race: Report",
-        "blurb": "TikTokの親会社ByteDanceが自動運転車分野への参入を検討していると報じられた。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801592/tikotk-bytedance-autonomous-car-game"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
         }
       }
     ],

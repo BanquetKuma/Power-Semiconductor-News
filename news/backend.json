@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-07-13T06:46:18.365038+09:00",
+  "generated_at": "2026-07-16T06:57:54.012447+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AI Framework Maps Thermal Behavior In 3D Photonic Circuits (U. of Florida et al.)",
-    "summary": "AIフレームワークが3Dフォトニック回路の熱挙動をマッピングし、熱管理課題を解決。高性能コンピューティング等に貢献。",
+    "title": "「半導体業界は黄金期」 TSMCが語る最新ロードマップ",
+    "summary": "TSMCは最新ロードマップで、2028年にA14、2029年にA13/A12の量産を予定。パッケージング技術開発も加速。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ai-framework-maps-thermal-behavior-in-3d-photonic-circuits-u-of-florida-et-al"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news074.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "AI Framework Maps Thermal Behavior In 3D Photonic Circuits (U. of Florida et al.)",
-        "blurb": "AIフレームワークが3Dフォトニック回路の熱挙動をマッピングし、熱管理課題を解決。高性能コンピューティング等に貢献。",
-        "category": "tools",
-        "date": "2026-07-13",
+        "title": "Towerが日本2拠点でシリコンフォトニクス生産強化へ　新井工場を再整備",
+        "blurb": "Tower Semiconductorは、日本国内の2拠点でシリコンフォトニクスなどの生産能力を拡充すると発表しました。",
+        "category": "company",
+        "date": "2026-07-15",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-framework-maps-thermal-behavior-in-3d-photonic-circuits-u-of-florida-et-al"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news058.html"
         },
         "field": {
           "primary": "backend",
@@ -36,6 +35,26 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "「半導体業界は黄金期」 TSMCが語る最新ロードマップ",
+        "blurb": "TSMCは最新ロードマップで、2028年にA14、2029年にA13/A12の量産を予定。パッケージング技術開発も加速。",
+        "category": "business",
+        "date": "2026-07-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news074.html"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

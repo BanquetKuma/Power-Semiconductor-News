@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-15T06:55:24.056511+09:00",
+  "generated_at": "2026-07-16T06:57:54.012950+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AI Models On The Edge",
-    "summary": "エッジAI向けNPUの柔軟性を損なわずにカスタマイズする技術。セミコンダクター・エンジニアリングの記事。",
+    "title": "Blog Review: July 15",
+    "summary": "PCIe ATS検証、物理AI、AI EDA導入、カスタムAMBA Vizプラグイン、V2G、ファブ建設労働力に関するブログレビュー。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ai-models-on-the-edge"
+        "url": "https://semiengineering.com/blog-review-july-15-3"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Research Bits: July 14",
-        "blurb": "脳型メモリトランジスタ、菌糸体PCB、有機半導体ドーピングの研究成果。",
+        "title": "「不揮発性メモリワークショップ（NVSMW）」の黎明期",
+        "blurb": "不揮発性メモリワークショップ（NVSMW）は国際メモリワークショップ（IMW）の前身。黎明期約10年を解説する。",
         "category": "company",
-        "date": "2026-07-14",
+        "date": "2026-07-15",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-july-14"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news024.html"
         },
         "field": {
           "primary": "general",
@@ -35,36 +35,71 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "AI Models On The Edge",
-        "blurb": "エッジAI向けNPUの柔軟性を損なわずにカスタマイズする技術。セミコンダクター・エンジニアリングの記事。",
-        "category": "tools",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-models-on-the-edge"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": [
       {
-        "title": "EDA/SIP Revenue Up 12.7%; APAC Roars Back",
-        "blurb": "EDA/SIPの収益が12.7%増加。特にアジア太平洋地域の回復が顕著で、市場は引き続き二桁成長。",
+        "title": "Blog Review: July 15",
+        "blurb": "PCIe ATS検証、物理AI、AI EDA導入、カスタムAMBA Vizプラグイン、V2G、ファブ建設労働力に関するブログレビュー。",
         "category": "business",
-        "date": "2026-07-14",
+        "date": "2026-07-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back"
+          "url": "https://semiengineering.com/blog-review-july-15-3"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI In Chip Design: Lots Of Promise, Plenty Of Unanswered Questions",
+        "blurb": "AIは半導体設計に大きな可能性を秘めるが、成功分野や影響は未解決の課題が多い。",
+        "category": "business",
+        "date": "2026-07-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-in-chip-design-lots-of-promise-plenty-of-unanswered-questions"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "2026年上半期の半導体業界を振り返る――電子版2026年7月号",
+        "blurb": "2026年7月号の電子版限定記事では、2026年上半期の半導体業界の動向を振り返る。",
+        "category": "business",
+        "date": "2026-07-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news031.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "株価爆騰・キオクシアの「これまで」と「これから」を考える",
+        "blurb": "AIの推論用途でSSD需要が急拡大し、キオクシアの株価が急騰。東芝時代からの歴史、強み、今後の針路、日本の半導体政策の課題を考察。",
+        "category": "business",
+        "date": "2026-07-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news030.html"
         },
         "field": {
           "primary": "general",

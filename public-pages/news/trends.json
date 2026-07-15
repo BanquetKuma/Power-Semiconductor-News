@@ -1,150 +1,144 @@
 {
-  "generated_at": "2026-07-15T06:55:28.278745+09:00",
-  "date": "2026-07-15",
+  "generated_at": "2026-07-16T06:57:58.749623+09:00",
+  "date": "2026-07-16",
   "meta_trends": [
     {
       "name": "SiC/GaNパワー半導体の需要拡大",
-      "confidence": 0.9,
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "industrial",
+        "datacenter"
       ],
-      "summary": "SiC/GaNデバイスは高効率・高耐圧で、EV、データセンター、産業機器の省電力化・高性能化に不可欠。",
+      "summary": "EV、産業機器、データセンター向けにSiC/GaNパワー半導体の需要が急速に拡大。インフィニオン、ボッシュ、ロームなどが生産能力増強や新製品投入を加速。",
       "analysis": {
-        "short_term": "供給能力増強と技術革新が続く。",
-        "mid_term": "EVシフト加速で需要は堅調。",
-        "investment_implications": "SiC/GaNメーカーへの投資妙味。"
+        "short_term": "供給制約が続くも、需要は堅調に推移。",
+        "mid_term": "生産能力増強が供給を改善し、市場拡大を後押し。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味は高い。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "データセンター",
-        "省電力"
+        "パワー半導体"
       ],
       "companies_mentioned": [
         "Infineon",
-        "ROHM",
-        "Bosch"
+        "Bosch",
+        "ROHM"
       ]
     },
     {
-      "name": "AI向け高性能半導体・パッケージング需要増",
-      "confidence": 0.95,
+      "name": "AI向け半導体ソリューションの進化",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "memory",
         "logic",
-        "frontend",
-        "equipment"
+        "memory",
+        "backend",
+        "frontend"
       ],
-      "summary": "AIアクセラレータ、HBM、次世代パッケージング技術がAI処理能力向上とデータセンター効率化を牽引。",
+      "summary": "AIアクセラレータ、HBM、データセンター向け電源など、AI処理の高速化・効率化を目指した半導体ソリューション開発が活発化。",
       "analysis": {
-        "short_term": "AIチップ開発競争が激化。",
-        "mid_term": "データセンター投資が拡大。",
-        "investment_implications": "AI向け半導体・装置メーカーに注目。"
+        "short_term": "AIチップ開発競争が激化し、関連技術への投資が増加。",
+        "mid_term": "AIEDA、カスタムチップ、高密度パッケージングが市場を牽引。",
+        "investment_implications": "AIインフラ関連企業に注目が集まる。"
       },
       "keywords": [
         "AI",
         "HBM",
-        "パッケージング",
         "データセンター",
-        "NPU"
+        "EDA"
       ],
       "companies_mentioned": [
-        "Flex Power Modules",
-        "Lotus Microsystems",
         "SK hynix",
-        "Evatec",
-        "Intel",
-        "キオクシア"
+        "TSMC",
+        "Lotus Microsystems",
+        "onsemi"
       ]
     },
     {
-      "name": "エッジAIの本格化とIoTソリューション",
+      "name": "IoT/エッジデバイス向け省電力技術",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "industrial",
         "automotive",
+        "power",
         "logic"
       ],
-      "summary": "エッジAI処理能力向上と、バッテリーフリーIoTソリューションが普及。センサー事業も拡大。",
+      "summary": "バッテリーフリーIoTやエッジAI向けNPUなど、低消費電力化と高効率化を実現する技術開発が進展。e-peasやonsemiが注力。",
       "analysis": {
-        "short_term": "エッジAI向けNPU開発が活発。",
-        "mid_term": "IoTデバイスの普及が進む。",
-        "investment_implications": "エッジAI・IoT関連企業に投資機会。"
+        "short_term": "エネルギーハーベスティングICの需要が増加。",
+        "mid_term": "エッジAIの普及に伴い、省電力NPUの重要性が増す。",
+        "investment_implications": "低消費電力技術を持つ企業に成長機会。"
       },
       "keywords": [
-        "エッジAI",
         "IoT",
-        "NPU",
-        "センサー",
+        "エッジAI",
+        "省電力",
         "バッテリーフリー"
       ],
       "companies_mentioned": [
         "e-peas",
         "onsemi",
-        "Synaptics",
-        "Infineon",
-        "ams OSRAM"
+        "Synaptics"
       ]
     },
     {
-      "name": "データセンター電力効率化の進化",
+      "name": "先端パッケージング技術の重要性増大",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
+        "backend",
+        "frontend",
+        "ai",
         "datacenter",
-        "power",
         "logic"
       ],
-      "summary": "800V DC/DCプラットフォームやVPD、GaNインターフェースなど、データセンターの電力配電効率化が進む。",
+      "summary": "AI/HPC向け高性能チップの実現には、チップレット統合や高密度実装を可能にする先端パッケージング技術が不可欠。TSMCやEvatecが開発を加速。",
       "analysis": {
-        "short_term": "高電圧化技術の採用が進む。",
-        "mid_term": "データセンターの省電力化が重要に。",
-        "investment_implications": "データセンター向け電源・半導体関連。"
+        "short_term": "パッケージング材料・装置メーカーへの需要が堅調。",
+        "mid_term": "3Dパッケージング技術の進化が性能向上を牽引。",
+        "investment_implications": "パッケージング関連技術を持つ企業に投資機会。"
       },
       "keywords": [
-        "データセンター",
-        "800V",
-        "DC/DC",
-        "VPD",
-        "GaN"
+        "パッケージング",
+        "チップレット",
+        "3D NAND",
+        "HPC"
       ],
       "companies_mentioned": [
-        "Flex Power Modules",
-        "Infineon"
+        "TSMC",
+        "Evatec",
+        "東北大学"
       ]
     },
     {
-      "name": "EDA/SIP市場の回復と成長",
+      "name": "EDA/SIP市場の持続的成長",
       "confidence": 0.75,
-      "momentum": "rising",
+      "momentum": "stable",
       "related_fields": [
-        "equipment",
-        "foundry",
-        "fabless",
         "logic",
-        "memory",
-        "ai"
+        "ai",
+        "frontend",
+        "backend",
+        "equipment"
       ],
-      "summary": "EDA/SIP市場はアジア太平洋地域の回復を牽引役に二桁成長を継続。半導体設計・製造エコシステムが活性化。",
+      "summary": "半導体設計・検証ツールのEDA/SIP市場は、AI開発の活発化を背景に二桁成長を維持。特にアジア太平洋地域の回復が顕著。",
       "analysis": {
-        "short_term": "アジア太平洋地域の回復が続く。",
-        "mid_term": "半導体需要全体が底堅い。",
-        "investment_implications": "EDA/SIP企業への投資は有望。"
+        "short_term": "AI向け設計ツールの需要が市場を牽引。",
+        "mid_term": "カスタムチップ設計の増加がEDA市場を後押し。",
+        "investment_implications": "EDA/SIP企業は安定した成長が見込める。"
       },
       "keywords": [
         "EDA",
         "SIP",
-        "市場回復",
+        "AI設計",
         "アジア太平洋"
       ],
       "companies_mentioned": []
@@ -152,17 +146,19 @@
   ],
   "market_signals": {
     "bullish": [
-      "AI関連スタートアップへの資金調達活発化",
-      "EDA/SIP市場の二桁成長",
-      "SiC/GaNデバイスの需要拡大"
+      "SiC/GaNパワー半導体需要の急増",
+      "AI関連スタートアップへの巨額資金流入",
+      "EDA/SIP市場の二桁成長継続",
+      "データセンター向け高効率電源の需要増",
+      "エッジAI市場の拡大"
     ],
     "bearish": [
-      "Intelドイツ工場計画頓挫（一部地域への影響）"
+      "ファブ建設労働力不足への懸念（ブログ記事より）"
     ],
     "neutral": [
-      "ソフトウェア定義車両向けHAL研究進展",
-      "脳型メモリトランジスタ等の先端研究"
+      "物理AI、V2G、カスタムAMBA Vizプラグインなど、多様な技術開発が進展",
+      "不揮発性メモリワークショップの歴史的考察"
     ]
   },
-  "source_count": 56
+  "source_count": 50
 }
