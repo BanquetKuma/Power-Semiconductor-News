@@ -1,76 +1,58 @@
 {
-  "generated_at": "2026-07-16T06:57:54.009391+09:00",
+  "generated_at": "2026-07-17T07:01:30.450546+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Infineon Launches Rad-Hard GaN Driver for Space Power Systems",
-    "summary": "インフィニオン、宇宙用放射線耐性GaNドライバー発売。衛星電力変換の効率と信頼性を向上。",
+    "title": "WeEn Strengthens Solid-State Transformer Portfolio",
+    "summary": "WeEnがSiCパワーモジュールで固体絶縁変圧器（SST）を強化。AIデータセンター、EV急速充電、再生可能エネルギーシステムに対応。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/infineon-launches-rad-hard-gan-driver-for-space-power-systems"
+        "url": "https://www.powerelectronicsnews.com/ween-strengthens-solid-state-transformer-portfolio"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Hybrid-LCC Based on IGCTs in HVDC Transmission",
-        "blurb": "IGCTを用いたハイブリッドLCC技術により、HVDC送電の低損失化を実現。脱炭素社会に不可欠な電力インフラ技術。",
+        "title": "WeEn Strengthens Solid-State Transformer Portfolio",
+        "blurb": "WeEnがSiCパワーモジュールで固体絶縁変圧器（SST）を強化。AIデータセンター、EV急速充電、再生可能エネルギーシステムに対応。",
         "category": "business",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/hybrid-lcc-based-on-igcts-in-hvdc-transmission"
+          "url": "https://www.powerelectronicsnews.com/ween-strengthens-solid-state-transformer-portfolio"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Power Corner: Vicor’s Maury Wood on Vertical Power Delivery for AI Data Centers",
+        "blurb": "AIデータセンター向け垂直給電技術について、VicorのMaury Wood氏が解説。AIプロセッサの電力消費増大に対応し、導通損失削減策を探る。",
+        "category": "business",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-vicors-maury-wood-on-vertical-power-delivery-for-ai-data-centers"
         },
         "field": null
       },
       {
-        "title": "Blog Review: July 15",
-        "blurb": "PCIe ATS検証、物理AI、AI EDA導入、カスタムAMBA Vizプラグイン、V2G、ファブ建設労働力に関するブログレビュー。",
+        "title": "Can Fine-Pitch Hybrid Bonding Go High Volume?",
+        "blurb": "ファインピッチハイブリッド接合は量産可能か？微細化には、バックエンドの歩留まりとコストでファブレベルの表面・位置制御維持が必要。",
         "category": "business",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-july-15-3"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI In Chip Design: Lots Of Promise, Plenty Of Unanswered Questions",
-        "blurb": "AIは半導体設計に大きな可能性を秘めるが、成功分野や影響は未解決の課題が多い。",
-        "category": "business",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-in-chip-design-lots-of-promise-plenty-of-unanswered-questions"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「半導体業界は黄金期」 TSMCが語る最新ロードマップ",
-        "blurb": "TSMCは最新ロードマップで、2028年にA14、2029年にA13/A12の量産を予定。パッケージング技術開発も加速。",
-        "category": "business",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news074.html"
+          "url": "https://semiengineering.com/can-fine-pitch-hybrid-bonding-go-high-volume"
         },
         "field": {
           "primary": "backend",
@@ -81,14 +63,14 @@
         }
       },
       {
-        "title": "2026年上半期の半導体業界を振り返る――電子版2026年7月号",
-        "blurb": "2026年7月号の電子版限定記事では、2026年上半期の半導体業界の動向を振り返る。",
+        "title": "Optimizing The Nano-TSV-to-BPR Connection In Backside Power Networks",
+        "blurb": "裏面給電網におけるナノTSV-BPR接続の最適化。角丸が抵抗感度に与える影響を仮想モデルで分析。",
         "category": "business",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news031.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/optimizing-the-nano-tsv-to-bpr-connection-in-backside-power-networks"
         },
         "field": {
           "primary": "general",
@@ -99,14 +81,14 @@
         }
       },
       {
-        "title": "株価爆騰・キオクシアの「これまで」と「これから」を考える",
-        "blurb": "AIの推論用途でSSD需要が急拡大し、キオクシアの株価が急騰。東芝時代からの歴史、強み、今後の針路、日本の半導体政策の課題を考察。",
+        "title": "New Nonvolatile Memory Winners Emerge",
+        "blurb": "次世代不揮発性メモリとしてRRAM、MRAMが有望視され、FeRAMも存在感を示す。UltraRAMも debut 予定。",
         "category": "business",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news030.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/new-nonvolatile-memory-winners-emerge"
         },
         "field": {
           "primary": "general",
@@ -117,20 +99,134 @@
         }
       },
       {
-        "title": "Deep physics, materials science enhance dielectrics, varactors",
-        "blurb": "誘電体・バラクターの性能向上のため、物理学と材料科学を深く探求。有望な結果が得られた。",
+        "title": "Co-Packaged Optics for Multi-Die Designs",
+        "blurb": "マルチチップ設計向け共包光技術は、電気損失を低減し、エネルギー効率と通信距離を向上させ、銅線だけでは困難な帯域幅密度を実現します。",
         "category": "business",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/co-packaged-optics-for-multi-die-designs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Alternative Materials For Hybrid Bonding",
+        "blurb": "ハイブリッド接合向けに、ナノツイン銅、SiCN、BCB、パッシベーション金属などの代替材料が検討されている。",
+        "category": "business",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/alternative-materials-for-hybrid-bonding"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Accelerating Sustainability With Smart Manufacturing",
+        "blurb": "半導体メーカー向け、スマート製造による持続可能性加速のロードマップ。炭素排出、水、廃棄物削減に焦点を当てる。",
+        "category": "business",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/accelerating-sustainability-with-smart-manufacturing"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "26年Q1のESD業界売上高57億ドル規模に、日本はマイナス成長",
+        "blurb": "26年Q1のESD業界売上高は57億ドル超えで前年比12.7%増。日本市場はマイナス成長。",
+        "category": "business",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news028.html"
+        },
+        "field": null
+      },
+      {
+        "title": "AppleとBroadcomの「300億ドル契約」、Intelにもチャンスか",
+        "blurb": "AppleとBroadcomの300億ドル契約は、Appleのデータセンター事業成長とサプライチェーン強化、Intelに新たなビジネスチャンスをもたらす可能性がある。",
+        "category": "business",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news063.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": "geopolitics"
+        }
+      },
+      {
+        "title": "TVS diodes clamp automotive transients",
+        "blurb": "LittelfuseのTVSダイオード新シリーズは、48V車載電子機器を過渡電圧から保護します。",
+        "category": "business",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/deep-physics-materials-science-enhance-dielectrics-varactors"
+          "url": "https://www.edn.com/tvs-diodes-clamp-automotive-transients"
+        },
+        "field": null
+      },
+      {
+        "title": "RDIMM chipset boosts server memory bandwidth",
+        "blurb": "ランバスのDDR5 RDIMMチップセットは、サーバーメモリ帯域幅を向上させ、最大9600 MT/sのDDR5 RDIMMをサポートします。",
+        "category": "business",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/rdimm-chipset-boosts-server-memory-bandwidth"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "The Protocol Wars: The Factory Floor's Fragmentation Problem",
+        "blurb": "工場ではPLC監視を単一プラットフォームに統合し、問題検出・解決を迅速化、効率を向上させる。",
+        "category": "business",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/the-protocol-wars-the-factory-floors-fragmentation-problem"
         },
         "field": null
       },
       {
         "title": "Vishay Expands Resettable Overcurrent Protection With Slim PTCs",
-        "blurb": "Vishayが薄型PTCサーミスタを発表。小型で低抵抗、高速トリップタイムを実現し、電源やバッテリーシステムに適しています。",
+        "blurb": "Vishayが薄型PTCサーミスタを発表。小型で低抵抗、高速応答が特徴で、電源やバッテリーシステムに適しています。",
         "category": "business",
         "date": "2026-07-16",
         "stars": 3,
@@ -143,118 +239,14 @@
     ],
     "tools": [
       {
-        "title": "How to Design a Dual-Mode LDO for Battery-Powered Devices | ADPL40505AEVKIT#",
-        "blurb": "バッテリー駆動機器向けデュアルモードLDO設計を実機で解説。モード遷移、PSRR、保護、熱管理を網羅。",
+        "title": "Why Metal TIM Warpage Simulations Fail—And How To Fix Them",
+        "blurb": "金属TIMの熱応力シミュレーションの失敗原因と解決策。実際の使用条件下での特性評価が重要。",
         "category": "tools",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/how-to-design-a-dual-mode-ldo-for-battery-powered-devices-adpl40505aevkit"
-        },
-        "field": null
-      },
-      {
-        "title": "Painlessly convert Hz to 4-20mA current loop",
-        "blurb": "LM2917ICを使用し、周波数（Hz）を4-20mA電流ループに容易に変換する方法を紹介。",
-        "category": "tools",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/painlessly-convert-hz-to-4-20ma-current-loop"
-        },
-        "field": null
-      },
-      {
-        "title": "‘Mind of the Engineer’ survey: A reality check on where EEs stand on AI",
-        "blurb": "エンジニアのAIに対する意識調査。AIは職を奪うのか、エンジニアのあり方を変えるのか。調査参加で議論に加わろう。",
-        "category": "tools",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/mind-of-the-engineer-survey-a-reality-check-on-where-ees-stand-on-ai"
-        },
-        "field": null
-      },
-      {
-        "title": "Microchip Releases Free VectorBlox 3.0 SDK",
-        "blurb": "MicrochipがAI推論を容易にするVectorBlox 3.0 SDKを無償公開。FPGA/SoC向けに性能と電力効率を向上。",
-        "category": "tools",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Liquid Instruments Unveils GenInst Studio for Custom Test Design",
-        "blurb": "Liquid Instrumentsがカスタムテスト設計用のGenInst Studioを発表。AIで数分でアプリケーション固有の計測器を提供。",
-        "category": "tools",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/liquid-instruments-unveils-geninst-studio-for-custom-test-design"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Bosch Expands U.S. SiC Manufacturing with Roseville Investment",
-        "blurb": "ボッシュ、米ローズビル工場でSiC製造を拡大。2026年からの商業生産に向け、サンプル生産を開始。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/bosch-expands-u-s-sic-manufacturing-with-roseville-investment"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ローム、新型の上面放熱パッケージ採用SiC MOSFET",
-        "blurb": "ロームは、上面放熱パッケージ採用の新型SiC MOSFETを開発・量産開始。高い放熱性と耐圧を両立させた。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news033.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「不揮発性メモリワークショップ（NVSMW）」の黎明期",
-        "blurb": "不揮発性メモリワークショップ（NVSMW）は国際メモリワークショップ（IMW）の前身。黎明期約10年を解説する。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news024.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/why-metal-tim-warpage-simulations-fail-and-how-to-fix-them"
         },
         "field": {
           "primary": "general",
@@ -265,53 +257,67 @@
         }
       },
       {
-        "title": "誤差1m以下のUWB位置検知システム、村田製作所",
-        "blurb": "村田製作所は、誤差1m以下のUWB位置検知システムを開発・提供開始。工場や倉庫での作業者・物品の所在把握と業務効率改善に貢献。",
-        "category": "company",
-        "date": "2026-07-15",
+        "title": "From Feature-Scale Simulation To Digital Twins: Helping Process Engineers Tackle Growing Complexity",
+        "blurb": "物理ベースのワークフローでプロセスエンジニアが複雑化する技術革新に対応。シミュレーションからデジタルツインへ。",
+        "category": "tools",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news032.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-feature-scale-simulation-to-digital-twins-helping-process-engineers-tackle-growing-complexity"
         },
         "field": {
-          "primary": "idm",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Towerが日本2拠点でシリコンフォトニクス生産強化へ　新井工場を再整備",
-        "blurb": "Tower Semiconductorは、日本国内の2拠点でシリコンフォトニクスなどの生産能力を拡充すると発表しました。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news058.html"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "FriendlyELEC NanoPi M6V2 Adds Dual Mic Input to RK3588S SBC",
-        "blurb": "FriendlyELECがRK3588S搭載のNanoPi M6V2を発表。デュアルマイク入力、8GB LPDDR5、NVMe対応などが特徴。",
-        "category": "company",
-        "date": "2026-07-15",
+        "title": "USB-C’s lingering incompatibilities and other complexities, part 1: Direct-connect complications",
+        "blurb": "USB-Cは仕様から22年経つが、実装の不備が多い。直接接続の複雑さが原因。詳細は記事参照。",
+        "category": "tools",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/friendlyelec-nanopi-m6v2-adds-dual-mic-input-to-rk3588s-sbc"
+          "name": "edn.com",
+          "url": "https://www.edn.com/usb-cs-lingering-incompatibilities-and-other-complexities-part-1-direct-connect-complications"
         },
         "field": null
       },
+      {
+        "title": "Holotomography system analyzes glass defects",
+        "blurb": "Tomocube社のHT-T1Dは、半導体パッケージ用ガラス基板の3D欠陥を高解像度で解析するデスクトップ型ホロトモグラフィシステムです。",
+        "category": "tools",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/holotomography-system-analyzes-glass-defects"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Microchip offers free MPLAB compilers, AI tools",
+        "blurb": "マイクロチップ、MPLAB XC Proコンパイラと機械学習開発スイートを無償提供開始。",
+        "category": "tools",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/microchip-offers-free-mplab-compilers-ai-tools"
+        },
+        "field": null
+      }
+    ],
+    "company": [
       {
         "title": "Infineon Launches Rad-Hard GaN Driver for Space Power Systems",
         "blurb": "インフィニオン、宇宙用放射線耐性GaNドライバー発売。衛星電力変換の効率と信頼性を向上。",
@@ -331,8 +337,98 @@
         }
       },
       {
+        "title": "微細化で変わる材料の役割　富士フイルムのR＆Dを変えたDX戦略とは",
+        "blurb": "富士フイルムは半導体微細化に対応するため、DX戦略としてデジタルツインを導入。2030年度売上5000億円を目指す。",
+        "category": "company",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news066.html"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Intelが高NA EUV露光装置を量産導入　Intel 18Aの一部レイヤーに適用",
+        "blurb": "IntelがASMLの高NA EUV露光装置の量産出荷を開始。Intel 18Aの一部レイヤーに適用。",
+        "category": "company",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news053.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "frontend",
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "新ポリマー半導体で有機薄膜太陽電池の性能向上、広島大ら",
+        "blurb": "広島大らは新ポリマー半導体「PTNT2T」の電荷移動度起源を解明し、有機薄膜太陽電池で世界最高水準の効率を実現した。",
+        "category": "company",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news027.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Rad-hard gate driver enables GaN adoption",
+        "blurb": "インフィニオン、宇宙用途向け放射線耐性GaNゲートドライバRIC70115を発表。信頼性向上でGaN採用を促進。",
+        "category": "company",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/rad-hard-gate-driver-enables-gan-adoption"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Nvidia Expands Thor Modules for Scalable Robotics and Edge AI",
+        "blurb": "Nvidiaがロボティクス・エッジAI向けにThorモジュールを拡張。T3000/T2000で、サイズ・電力・コストを最適化。",
+        "category": "company",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nvidia-expands-thor-modules-for-scalable-robotics-and-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
         "title": "Arteris, Arm Partner to Strengthen Hardware Security Verification",
-        "blurb": "ArterisとArmは、ハードウェアの脆弱性を設計段階で特定するセキュリティ検証技術の採用を拡大し、将来のプロセッサ開発におけるハードウェアセキュリティを強化する。",
+        "blurb": "ArterisとArmが提携し、ハードウェア設計段階でのセキュリティ脆弱性検証を強化。将来のプロセッサ開発でCycuity Radixプラットフォームを活用。",
         "category": "company",
         "date": "2026-07-16",
         "stars": 3,
@@ -349,34 +445,22 @@
         }
       },
       {
-        "title": "Hyundai’s $5 Billion EV Battery Plant In Georgia Powers Up",
-        "blurb": "現代自動車、ジョージア州に50億ドル投資しEVバッテリー工場を稼働。SKオンと提携し、近隣のメタプラント・アメリカに供給。",
+        "title": "ADLINK Unveils COM-HPC Mini Module for Edge AI Applications",
+        "blurb": "ADLINKがエッジAI向けCOM-HPC Miniモジュールを発表。Intel Panther Lake搭載、最大180 TOPSのAI性能。",
         "category": "company",
         "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801765/hyundai-sk-on-ev-battery-plant-georgia"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/adlink-unveils-com-hpc-mini-module-for-edge-ai-applications"
         },
         "field": {
-          "primary": "automotive",
+          "primary": "ai",
           "device": null,
           "process": null,
-          "market": "automotive",
-          "industry": null
+          "market": "ai",
+          "industry": "idm"
         }
-      },
-      {
-        "title": "Volvo Could Bring An Electric Sedan And Wagon To U.S. By 2028: Report",
-        "blurb": "ボルボ、2028年までに米国でEVセダンとワゴンを復活させる可能性。ガス車モデル廃止後。",
-        "category": "company",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801771/volvo-sedan-wagon-america"
-        },
-        "field": null
       }
     ],
     "sns": []

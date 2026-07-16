@@ -1,24 +1,42 @@
 {
-  "generated_at": "2026-07-16T06:57:54.011100+09:00",
+  "generated_at": "2026-07-17T07:01:30.452501+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Arteris, Arm Partner to Strengthen Hardware Security Verification",
-    "summary": "ArterisとArmは、ハードウェアの脆弱性を設計段階で特定するセキュリティ検証技術の採用を拡大し、将来のプロセッサ開発におけるハードウェアセキュリティを強化する。",
+    "title": "Intelが高NA EUV露光装置を量産導入　Intel 18Aの一部レイヤーに適用",
+    "summary": "IntelがASMLの高NA EUV露光装置の量産出荷を開始。Intel 18Aの一部レイヤーに適用。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/arteris-arm-partner-to-strengthen-hardware-security-verification"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news053.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "Intelが高NA EUV露光装置を量産導入　Intel 18Aの一部レイヤーに適用",
+        "blurb": "IntelがASMLの高NA EUV露光装置の量産出荷を開始。Intel 18Aの一部レイヤーに適用。",
+        "category": "company",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news053.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "frontend",
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
         "title": "Arteris, Arm Partner to Strengthen Hardware Security Verification",
-        "blurb": "ArterisとArmは、ハードウェアの脆弱性を設計段階で特定するセキュリティ検証技術の採用を拡大し、将来のプロセッサ開発におけるハードウェアセキュリティを強化する。",
+        "blurb": "ArterisとArmが提携し、ハードウェア設計段階でのセキュリティ脆弱性検証を強化。将来のプロセッサ開発でCycuity Radixプラットフォームを活用。",
         "category": "company",
         "date": "2026-07-16",
         "stars": 3,
@@ -35,26 +53,26 @@
         }
       }
     ],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "Microchip Releases Free VectorBlox 3.0 SDK",
-        "blurb": "MicrochipがAI推論を容易にするVectorBlox 3.0 SDKを無償公開。FPGA/SoC向けに性能と電力効率を向上。",
-        "category": "tools",
-        "date": "2026-07-15",
+        "title": "RDIMM chipset boosts server memory bandwidth",
+        "blurb": "ランバスのDDR5 RDIMMチップセットは、サーバーメモリ帯域幅を向上させ、最大9600 MT/sのDDR5 RDIMMをサポートします。",
+        "category": "business",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-releases-free-vectorblox-3-0-sdk"
+          "name": "edn.com",
+          "url": "https://www.edn.com/rdimm-chipset-boosts-server-memory-bandwidth"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "datacenter",
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-16T06:57:54.012950+09:00",
+  "generated_at": "2026-07-17T07:01:30.454632+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Blog Review: July 15",
-    "summary": "PCIe ATS検証、物理AI、AI EDA導入、カスタムAMBA Vizプラグイン、V2G、ファブ建設労働力に関するブログレビュー。",
+    "title": "Why Metal TIM Warpage Simulations Fail—And How To Fix Them",
+    "summary": "金属TIMの熱応力シミュレーションの失敗原因と解決策。実際の使用条件下での特性評価が重要。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/blog-review-july-15-3"
+        "url": "https://semiengineering.com/why-metal-tim-warpage-simulations-fail-and-how-to-fix-them"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "「不揮発性メモリワークショップ（NVSMW）」の黎明期",
-        "blurb": "不揮発性メモリワークショップ（NVSMW）は国際メモリワークショップ（IMW）の前身。黎明期約10年を解説する。",
+        "title": "新ポリマー半導体で有機薄膜太陽電池の性能向上、広島大ら",
+        "blurb": "広島大らは新ポリマー半導体「PTNT2T」の電荷移動度起源を解明し、有機薄膜太陽電池で世界最高水準の効率を実現した。",
         "category": "company",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news024.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news027.html"
         },
         "field": {
           "primary": "general",
@@ -35,17 +35,72 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Why Metal TIM Warpage Simulations Fail—And How To Fix Them",
+        "blurb": "金属TIMの熱応力シミュレーションの失敗原因と解決策。実際の使用条件下での特性評価が重要。",
+        "category": "tools",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/why-metal-tim-warpage-simulations-fail-and-how-to-fix-them"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "From Feature-Scale Simulation To Digital Twins: Helping Process Engineers Tackle Growing Complexity",
+        "blurb": "物理ベースのワークフローでプロセスエンジニアが複雑化する技術革新に対応。シミュレーションからデジタルツインへ。",
+        "category": "tools",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-feature-scale-simulation-to-digital-twins-helping-process-engineers-tackle-growing-complexity"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Holotomography system analyzes glass defects",
+        "blurb": "Tomocube社のHT-T1Dは、半導体パッケージ用ガラス基板の3D欠陥を高解像度で解析するデスクトップ型ホロトモグラフィシステムです。",
+        "category": "tools",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/holotomography-system-analyzes-glass-defects"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": [
       {
-        "title": "Blog Review: July 15",
-        "blurb": "PCIe ATS検証、物理AI、AI EDA導入、カスタムAMBA Vizプラグイン、V2G、ファブ建設労働力に関するブログレビュー。",
+        "title": "Optimizing The Nano-TSV-to-BPR Connection In Backside Power Networks",
+        "blurb": "裏面給電網におけるナノTSV-BPR接続の最適化。角丸が抵抗感度に与える影響を仮想モデルで分析。",
         "category": "business",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-july-15-3"
+          "url": "https://semiengineering.com/optimizing-the-nano-tsv-to-bpr-connection-in-backside-power-networks"
         },
         "field": {
           "primary": "general",
@@ -56,14 +111,14 @@
         }
       },
       {
-        "title": "AI In Chip Design: Lots Of Promise, Plenty Of Unanswered Questions",
-        "blurb": "AIは半導体設計に大きな可能性を秘めるが、成功分野や影響は未解決の課題が多い。",
+        "title": "New Nonvolatile Memory Winners Emerge",
+        "blurb": "次世代不揮発性メモリとしてRRAM、MRAMが有望視され、FeRAMも存在感を示す。UltraRAMも debut 予定。",
         "category": "business",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-in-chip-design-lots-of-promise-plenty-of-unanswered-questions"
+          "url": "https://semiengineering.com/new-nonvolatile-memory-winners-emerge"
         },
         "field": {
           "primary": "general",
@@ -74,14 +129,14 @@
         }
       },
       {
-        "title": "2026年上半期の半導体業界を振り返る――電子版2026年7月号",
-        "blurb": "2026年7月号の電子版限定記事では、2026年上半期の半導体業界の動向を振り返る。",
+        "title": "Co-Packaged Optics for Multi-Die Designs",
+        "blurb": "マルチチップ設計向け共包光技術は、電気損失を低減し、エネルギー効率と通信距離を向上させ、銅線だけでは困難な帯域幅密度を実現します。",
         "category": "business",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news031.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/co-packaged-optics-for-multi-die-designs"
         },
         "field": {
           "primary": "general",
@@ -92,14 +147,14 @@
         }
       },
       {
-        "title": "株価爆騰・キオクシアの「これまで」と「これから」を考える",
-        "blurb": "AIの推論用途でSSD需要が急拡大し、キオクシアの株価が急騰。東芝時代からの歴史、強み、今後の針路、日本の半導体政策の課題を考察。",
+        "title": "Accelerating Sustainability With Smart Manufacturing",
+        "blurb": "半導体メーカー向け、スマート製造による持続可能性加速のロードマップ。炭素排出、水、廃棄物削減に焦点を当てる。",
         "category": "business",
-        "date": "2026-07-15",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news030.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/accelerating-sustainability-with-smart-manufacturing"
         },
         "field": {
           "primary": "general",

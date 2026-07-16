@@ -1,37 +1,55 @@
 {
-  "generated_at": "2026-07-15T06:55:24.054770+09:00",
+  "generated_at": "2026-07-17T07:01:30.452913+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "onsemiのSynaptics買収が示す、エッジAIの本格到来",
-    "summary": "onsemiが約70億ドルでSynapticsを買収。エッジAI/フィジカルAI分野の強化が狙い。",
+    "title": "Nvidia Expands Thor Modules for Scalable Robotics and Edge AI",
+    "summary": "Nvidiaがロボティクス・エッジAI向けにThorモジュールを拡張。T3000/T2000で、サイズ・電力・コストを最適化。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news060.html"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/nvidia-expands-thor-modules-for-scalable-robotics-and-edge-ai"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "onsemiのSynaptics買収が示す、エッジAIの本格到来",
-        "blurb": "onsemiが約70億ドルでSynapticsを買収。エッジAI/フィジカルAI分野の強化が狙い。",
+        "title": "Nvidia Expands Thor Modules for Scalable Robotics and Edge AI",
+        "blurb": "Nvidiaがロボティクス・エッジAI向けにThorモジュールを拡張。T3000/T2000で、サイズ・電力・コストを最適化。",
         "category": "company",
-        "date": "2026-07-14",
+        "date": "2026-07-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news060.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nvidia-expands-thor-modules-for-scalable-robotics-and-edge-ai"
         },
         "field": {
           "primary": "ai",
           "device": null,
           "process": null,
           "market": "ai",
-          "industry": null
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "ADLINK Unveils COM-HPC Mini Module for Edge AI Applications",
+        "blurb": "ADLINKがエッジAI向けCOM-HPC Miniモジュールを発表。Intel Panther Lake搭載、最大180 TOPSのAI性能。",
+        "category": "company",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/adlink-unveils-com-hpc-mini-module-for-edge-ai-applications"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": "idm"
         }
       }
     ],

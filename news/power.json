@@ -1,57 +1,21 @@
 {
-  "generated_at": "2026-07-16T06:57:54.010735+09:00",
+  "generated_at": "2026-07-17T07:01:30.452100+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Infineon Launches Rad-Hard GaN Driver for Space Power Systems",
-    "summary": "インフィニオン、宇宙用放射線耐性GaNドライバー発売。衛星電力変換の効率と信頼性を向上。",
+    "title": "WeEn Strengthens Solid-State Transformer Portfolio",
+    "summary": "WeEnがSiCパワーモジュールで固体絶縁変圧器（SST）を強化。AIデータセンター、EV急速充電、再生可能エネルギーシステムに対応。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/infineon-launches-rad-hard-gan-driver-for-space-power-systems"
+        "url": "https://www.powerelectronicsnews.com/ween-strengthens-solid-state-transformer-portfolio"
       }
     ]
   },
   "sections": {
     "news": [
-      {
-        "title": "Bosch Expands U.S. SiC Manufacturing with Roseville Investment",
-        "blurb": "ボッシュ、米ローズビル工場でSiC製造を拡大。2026年からの商業生産に向け、サンプル生産を開始。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/bosch-expands-u-s-sic-manufacturing-with-roseville-investment"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ローム、新型の上面放熱パッケージ採用SiC MOSFET",
-        "blurb": "ロームは、上面放熱パッケージ採用の新型SiC MOSFETを開発・量産開始。高い放熱性と耐圧を両立させた。",
-        "category": "company",
-        "date": "2026-07-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news033.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
       {
         "title": "Infineon Launches Rad-Hard GaN Driver for Space Power Systems",
         "blurb": "インフィニオン、宇宙用放射線耐性GaNドライバー発売。衛星電力変換の効率と信頼性を向上。",
@@ -69,9 +33,46 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Rad-hard gate driver enables GaN adoption",
+        "blurb": "インフィニオン、宇宙用途向け放射線耐性GaNゲートドライバRIC70115を発表。信頼性向上でGaN採用を促進。",
+        "category": "company",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/rad-hard-gate-driver-enables-gan-adoption"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "WeEn Strengthens Solid-State Transformer Portfolio",
+        "blurb": "WeEnがSiCパワーモジュールで固体絶縁変圧器（SST）を強化。AIデータセンター、EV急速充電、再生可能エネルギーシステムに対応。",
+        "category": "business",
+        "date": "2026-07-16",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ween-strengthens-solid-state-transformer-portfolio"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }
