@@ -1,30 +1,32 @@
 {
-  "generated_at": "2026-07-17T07:01:30.452100+09:00",
+  "generated_at": "2026-07-18T06:51:03.457428+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "WeEn Strengthens Solid-State Transformer Portfolio",
-    "summary": "WeEnがSiCパワーモジュールで固体絶縁変圧器（SST）を強化。AIデータセンター、EV急速充電、再生可能エネルギーシステムに対応。",
+    "title": "Understanding MPPT Algorithms, Hybrid-LCC Systems with IGCTs, SiC Bidirectional Switches: Electronics Week Insights",
+    "summary": "MPPTアルゴリズム、IGCT搭載ハイブリッドLCCシステム、SiC双方向スイッチに関する最新技術動向。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/ween-strengthens-solid-state-transformer-portfolio"
+        "url": "https://www.powerelectronicsnews.com/understanding-mppt-algorithms-hybrid-lcc-systems-with-igcts-sic-bidirectional-switches-electronics-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Infineon Launches Rad-Hard GaN Driver for Space Power Systems",
-        "blurb": "インフィニオン、宇宙用放射線耐性GaNドライバー発売。衛星電力変換の効率と信頼性を向上。",
-        "category": "company",
-        "date": "2026-07-16",
+        "title": "Understanding MPPT for Increased Efficiency in PV Inverters",
+        "blurb": "MPPTアルゴリズムは、3つのインバータアーキテクチャでPVインバータの効率を最適化します。",
+        "category": "business",
+        "date": "2026-07-17",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/infineon-launches-rad-hard-gan-driver-for-space-power-systems"
+          "url": "https://www.powerelectronicsnews.com/understanding-mppt-for-increased-efficiency-in-pv-inverters"
         },
         "field": {
           "primary": "power",
@@ -35,41 +37,20 @@
         }
       },
       {
-        "title": "Rad-hard gate driver enables GaN adoption",
-        "blurb": "インフィニオン、宇宙用途向け放射線耐性GaNゲートドライバRIC70115を発表。信頼性向上でGaN採用を促進。",
-        "category": "company",
-        "date": "2026-07-16",
+        "title": "Understanding MPPT Algorithms, Hybrid-LCC Systems with IGCTs, SiC Bidirectional Switches: Electronics Week Insights",
+        "blurb": "MPPTアルゴリズム、IGCT搭載ハイブリッドLCCシステム、SiC双方向スイッチに関する最新技術動向。",
+        "category": "business",
+        "date": "2026-07-18",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rad-hard-gate-driver-enables-gan-adoption"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/understanding-mppt-algorithms-hybrid-lcc-systems-with-igcts-sic-bidirectional-switches-electronics-week-insights"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [],
-    "market": [
-      {
-        "title": "WeEn Strengthens Solid-State Transformer Portfolio",
-        "blurb": "WeEnがSiCパワーモジュールで固体絶縁変圧器（SST）を強化。AIデータセンター、EV急速充電、再生可能エネルギーシステムに対応。",
-        "category": "business",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/ween-strengthens-solid-state-transformer-portfolio"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
           "industry": null
         }
       }

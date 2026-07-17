@@ -1,78 +1,59 @@
 {
-  "generated_at": "2026-07-17T07:01:30.452501+09:00",
+  "generated_at": "2026-07-18T06:51:03.458194+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Intelが高NA EUV露光装置を量産導入　Intel 18Aの一部レイヤーに適用",
-    "summary": "IntelがASMLの高NA EUV露光装置の量産出荷を開始。Intel 18Aの一部レイヤーに適用。",
+    "title": "QualcommのDragonfly C1000を読み解く　「苦手な戦場」で勝負できるのか",
+    "summary": "QualcommがAIデータセンター用CPU「Dragonfly C1000」を発表。独自コア「Oryon」を採用し、競争力を探る。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news053.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news028.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Intelが高NA EUV露光装置を量産導入　Intel 18Aの一部レイヤーに適用",
-        "blurb": "IntelがASMLの高NA EUV露光装置の量産出荷を開始。Intel 18Aの一部レイヤーに適用。",
+        "title": "QualcommのDragonfly C1000を読み解く　「苦手な戦場」で勝負できるのか",
+        "blurb": "QualcommがAIデータセンター用CPU「Dragonfly C1000」を発表。独自コア「Oryon」を採用し、競争力を探る。",
         "category": "company",
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news053.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "frontend",
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Arteris, Arm Partner to Strengthen Hardware Security Verification",
-        "blurb": "ArterisとArmが提携し、ハードウェア設計段階でのセキュリティ脆弱性検証を強化。将来のプロセッサ開発でCycuity Radixプラットフォームを活用。",
-        "category": "company",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/arteris-arm-partner-to-strengthen-hardware-security-verification"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [],
-    "market": [
-      {
-        "title": "RDIMM chipset boosts server memory bandwidth",
-        "blurb": "ランバスのDDR5 RDIMMチップセットは、サーバーメモリ帯域幅を向上させ、最大9600 MT/sのDDR5 RDIMMをサポートします。",
-        "category": "business",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rdimm-chipset-boosts-server-memory-bandwidth"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news028.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": "datacenter",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Forlinx Unveils Rockchip RK3572 SoM and Development Board for AIoT",
+        "blurb": "ForlinxがAIoT向けRockchip RK3572搭載SoMと開発ボードを発表。オクタコアCPU、4TOPS NPU、Linux 6.12対応。",
+        "category": "company",
+        "date": "2026-07-17",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/forlinx-unveils-rockchip-rk3572-som-and-development-board-for-aiot"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

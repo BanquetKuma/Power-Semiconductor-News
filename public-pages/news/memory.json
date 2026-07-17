@@ -1,59 +1,60 @@
 {
-  "generated_at": "2026-07-15T06:55:24.053525+09:00",
+  "generated_at": "2026-07-18T06:51:03.457793+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Near-memory Dequantization Architecture In Custom HBM for LLM inference (SK hynix)",
-    "summary": "SK hynixがLLM推論向けに、HBM内で重み量子化解除を高速化する「StreamDQ」を発表。AI推論を大幅に高速化し、エネルギー消費を削減。",
+    "title": "Chip Industry Week In Review",
+    "summary": "Intelの拡張、CadenceのAI、フォトニクス、ドイツの資金調達、CHIPS法、HBM標準、Rapidus提携など、半導体業界の最新動向。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/near-memory-dequantization-architecture-in-custom-hbm-for-llm-inference-sk-hynix"
+        "url": "https://semiengineering.com/chip-industry-week-in-review-147"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Near-memory Dequantization Architecture In Custom HBM for LLM inference (SK hynix)",
-        "blurb": "SK hynixがLLM推論向けに、HBM内で重み量子化解除を高速化する「StreamDQ」を発表。AI推論を大幅に高速化し、エネルギー消費を削減。",
+        "title": "「NAND技術革新を支える」、ラムリサーチが四日市に新オフィス",
+        "blurb": "ラムリサーチが四日市に新オフィスを開設。NAND技術革新を支え、顧客との連携強化を目指す。",
         "category": "company",
-        "date": "2026-07-14",
+        "date": "2026-07-17",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/near-memory-dequantization-architecture-in-custom-hbm-for-llm-inference-sk-hynix"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news037.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "数百層の3D NAND内部構造を非破壊で観察可能に、東北大",
-        "blurb": "東北大学は、数百層の3D NAND内部構造を非破壊で3次元可視化する技術を開発。開発効率向上に貢献。",
-        "category": "company",
-        "date": "2026-07-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news037.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "frontend",
-          "market": null,
           "industry": null
         }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "Intelの拡張、CadenceのAI、フォトニクス、ドイツの資金調達、CHIPS法、HBM標準、Rapidus提携など、半導体業界の最新動向。",
+        "category": "business",
+        "date": "2026-07-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-147"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
+          "market": null,
+          "industry": "foundry"
+        }
+      }
+    ]
   }
 }

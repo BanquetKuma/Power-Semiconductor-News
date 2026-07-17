@@ -1,30 +1,32 @@
 {
-  "generated_at": "2026-07-17T07:01:30.452913+09:00",
+  "generated_at": "2026-07-18T06:51:03.459226+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Nvidia Expands Thor Modules for Scalable Robotics and Edge AI",
-    "summary": "Nvidiaがロボティクス・エッジAI向けにThorモジュールを拡張。T3000/T2000で、サイズ・電力・コストを最適化。",
+    "title": "The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, 'Mind of the Engineer' survey: Embedded Week Insights",
+    "summary": "工場プロトコル戦争、NVIDIAのロボティクス・エッジAI用Thorモジュール、技術者意識調査など、組み込み技術の最新動向をまとめた記事。",
     "sources": [
       {
         "name": "embedded.com",
-        "url": "https://www.embedded.com/nvidia-expands-thor-modules-for-scalable-robotics-and-edge-ai"
+        "url": "https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Nvidia Expands Thor Modules for Scalable Robotics and Edge AI",
-        "blurb": "Nvidiaがロボティクス・エッジAI向けにThorモジュールを拡張。T3000/T2000で、サイズ・電力・コストを最適化。",
-        "category": "company",
-        "date": "2026-07-16",
+        "title": "The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, 'Mind of the Engineer' survey: Embedded Week Insights",
+        "blurb": "工場プロトコル戦争、NVIDIAのロボティクス・エッジAI用Thorモジュール、技術者意識調査など、組み込み技術の最新動向をまとめた記事。",
+        "category": "business",
+        "date": "2026-07-18",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/nvidia-expands-thor-modules-for-scalable-robotics-and-edge-ai"
+          "url": "https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights"
         },
         "field": {
           "primary": "ai",
@@ -33,27 +35,7 @@
           "market": "ai",
           "industry": "fabless"
         }
-      },
-      {
-        "title": "ADLINK Unveils COM-HPC Mini Module for Edge AI Applications",
-        "blurb": "ADLINKがエッジAI向けCOM-HPC Miniモジュールを発表。Intel Panther Lake搭載、最大180 TOPSのAI性能。",
-        "category": "company",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/adlink-unveils-com-hpc-mini-module-for-edge-ai-applications"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": "idm"
-        }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
