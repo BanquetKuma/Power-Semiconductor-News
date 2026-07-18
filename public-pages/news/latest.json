@@ -1,91 +1,19 @@
 {
-  "generated_at": "2026-07-18T06:51:03.455966+09:00",
+  "generated_at": "2026-07-19T06:48:06.698955+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "The CMMC Pause: The DoD Suspends Phase 2 Requirements",
-    "summary": "国防総省はCMMCフェーズ2要件を一時停止。60日間の見直しが防衛産業基盤に影響。",
+    "stars": 3,
+    "title": "Understanding MPPT Algorithms, Hybrid-LCC Systems with IGCTs, SiC Bidirectional Switches: Electronics Week Insights",
+    "summary": "MPPTアルゴリズム、IGCT搭載ハイブリッドLCCシステム、SiC双方向スイッチに関する最新技術動向。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/the-cmmc-pause-the-dod-suspends-phase-2-requirements"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/understanding-mppt-algorithms-hybrid-lcc-systems-with-igcts-sic-bidirectional-switches-electronics-week-insights"
       }
     ]
   },
   "sections": {
     "business": [
-      {
-        "title": "Understanding MPPT for Increased Efficiency in PV Inverters",
-        "blurb": "MPPTアルゴリズムは、3つのインバータアーキテクチャでPVインバータの効率を最適化します。",
-        "category": "business",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/understanding-mppt-for-increased-efficiency-in-pv-inverters"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "Intelの拡張、CadenceのAI、フォトニクス、ドイツの資金調達、CHIPS法、HBM標準、Rapidus提携など、半導体業界の最新動向。",
-        "category": "business",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-147"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "backend",
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "「フィジカルAIは日本がけん引 早く動くべき」NVIDIA CEO提言",
-        "blurb": "富士通などがNVIDIA技術を活用しフィジカルAI事業検討開始。NVIDIA CEOは日本が新産業革命をけん引すると提言。",
-        "category": "business",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news081.html"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "GM Wants To Lower EV Owners’ Energy Bills With Smarter Home Charging",
-        "blurb": "GMはWeaveGridと提携し、EV所有者の家庭での充電を管理し、電気料金を削減するプログラムを提供します。",
-        "category": "business",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801983/gm-energy-weave-grid-ev-managed-charging"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
       {
         "title": "Understanding MPPT Algorithms, Hybrid-LCC Systems with IGCTs, SiC Bidirectional Switches: Electronics Week Insights",
         "blurb": "MPPTアルゴリズム、IGCT搭載ハイブリッドLCCシステム、SiC双方向スイッチに関する最新技術動向。",
@@ -105,9 +33,42 @@
         }
       },
       {
-        "title": "The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, 'Mind of the Engineer' survey: Embedded Week Insights",
-        "blurb": "工場プロトコル戦争、NVIDIAのロボティクス・エッジAI用Thorモジュール、技術者意識調査など、組み込み技術の最新動向をまとめた記事。",
+        "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
+        "blurb": "中国のXPeng L03、欧州市場投入へ。Googleマップ搭載、テスラより約35万円安。",
         "category": "business",
+        "date": "2026-07-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch"
+        },
+        "field": null
+      },
+      {
+        "title": "California's EV Rebate Won't Apply To All Cars. These 13 Automakers Qualify",
+        "blurb": "カリフォルニア州のEV購入補助金、対象外となるメーカーも。BMW、メルセデスなどはリストから除外。",
+        "category": "business",
+        "date": "2026-07-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802050/california-ev-tax-credit-brands"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [],
+    "company": [
+      {
+        "title": "The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, 'Mind of the Engineer' survey: Embedded Week Insights",
+        "blurb": "工場プロトコル戦争、NVIDIAのロボティクス・エッジAI向けThorモジュール、技術者意識調査など、組み込み技術の最新動向をまとめた記事。",
+        "category": "company",
         "date": "2026-07-18",
         "stars": 3,
         "source": {
@@ -123,105 +84,11 @@
         }
       },
       {
-        "title": "Toyota Is Paying EV Drivers $3,000 To Switch To A bZ",
-        "blurb": "トヨタはEV所有者に対し、bZへの乗り換えで3000ドルのインセンティブを提供。",
-        "category": "business",
-        "date": "2026-07-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/802060/toyota-bz-3000-conquest-cash"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "California's EV Rebate Won't Apply To All Cars. These 13 Automakers Qualify",
-        "blurb": "カリフォルニア州のEV購入補助金、対象外となるメーカーも。BMWやメルセデスはリストから除外された。",
-        "category": "business",
-        "date": "2026-07-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/802050/california-ev-tax-credit-brands"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Winners And Losers In EVs In 2026 So Far",
-        "blurb": "2026年のEV市場は再編期。テスラは復活し、新EV「チップ」も登場。勝者と敗者が明確化。",
-        "category": "business",
-        "date": "2026-07-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/802053/ev-winners-losers-sales-2026"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "'Completely Insane': China Has 650 New Car Models So Far This Year",
-        "blurb": "中国では今年、既に650もの新型車が登場。月平均30台ペースで、米国の年間ペースを上回る。",
-        "category": "business",
-        "date": "2026-07-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801909/china-650-new-car-models"
-        },
-        "field": null
-      },
-      {
-        "title": "BYD Wants To Overtake Toyota, And It Says It Doesn't Need America To Do It",
-        "blurb": "BYDは5年以内に世界一の自動車メーカーを目指す。米国市場での販売は必須ではないとしている。",
-        "category": "business",
-        "date": "2026-07-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801940/byd-toyota-domination-goal-sales"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "A ferroelectric-fluid motor may challenge magnetic-motor designs",
-        "blurb": "誘電体流体を用いた非磁性モーターが開発され、磁気モーターに取って代わる可能性。100年の歳月を経て実現。",
-        "category": "tools",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-ferroelectric-fluid-motor-may-challenge-magnetic-motor-designs"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
         "title": "The CMMC Pause: The DoD Suspends Phase 2 Requirements",
-        "blurb": "国防総省はCMMCフェーズ2要件を一時停止。60日間の見直しが防衛産業基盤に影響。",
+        "blurb": "米国防総省がCMMCフェーズ2要件を一時停止。60日間の見直しが防衛産業基盤に影響。",
         "category": "company",
         "date": "2026-07-18",
-        "stars": 4,
+        "stars": 3,
         "source": {
           "name": "embedded.com",
           "url": "https://www.embedded.com/the-cmmc-pause-the-dod-suspends-phase-2-requirements"
@@ -235,128 +102,32 @@
         }
       },
       {
-        "title": "「NAND技術革新を支える」、ラムリサーチが四日市に新オフィス",
-        "blurb": "ラムリサーチが四日市に新オフィスを開設。NAND技術革新を支え、顧客との連携強化を目指す。",
+        "title": "This Suzuki’s Engine Blew Up. The Owner Converted It Into An EV In Just Five Days",
+        "blurb": "スズキのSUVのエンジンを5日間でEVに改造。部品代は高級電動自転車より安価。",
         "category": "company",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news037.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "QualcommのDragonfly C1000を読み解く　「苦手な戦場」で勝負できるのか",
-        "blurb": "QualcommがAIデータセンター用CPU「Dragonfly C1000」を発表。独自コア「Oryon」を採用し、競争力を探る。",
-        "category": "company",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news028.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "datacenter",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "「フィジカルAIは次の産業革命」富士通／NVIDIAらが社会実装で連携",
-        "blurb": "富士通、NVIDIAらとフィジカルAIの社会実装で連携。ファナックらと協調制御基盤の共通化・オープン化を進める。",
-        "category": "company",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news054.html"
-        },
-        "field": null
-      },
-      {
-        "title": "酸化物界面における「隠れた電荷移動経路」を特定、東北大ら",
-        "blurb": "東北大とKEKは酸化物ナノ界面の隠れた電荷移動経路を特定。理論をデバイス設計に導入し、機能設計を可能にする。",
-        "category": "company",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news036.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Vector Photonics Develops New PCSEL Packaging Technology",
-        "blurb": "Vector Photonicsは、PCSELの商用化を妨げるスケーラブルで熱効率の高いパッケージング技術の課題を解決するAMPPSプログラムを開始しました。",
-        "category": "company",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/vector-photonics-develops-new-pcsel-packaging-technology"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Allegro’s A81415 Merges Safety, Power, and Wheel-Speed Sensing",
-        "blurb": "Allegro社の新IC「A81415」は、安全、電力、車輪速検知を統合し、部品点数と基板スペースを削減。ブレーキバイワイヤ用途に最適。",
-        "category": "company",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/allegros-a81415-merges-safety-power-and-wheel-speed-sensing"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Forlinx Unveils Rockchip RK3572 SoM and Development Board for AIoT",
-        "blurb": "ForlinxがAIoT向けRockchip RK3572搭載SoMと開発ボードを発表。オクタコアCPU、4TOPS NPU、Linux 6.12対応。",
-        "category": "company",
-        "date": "2026-07-17",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/forlinx-unveils-rockchip-rk3572-som-and-development-board-for-aiot"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "MG Is Putting Semi-Solid Batteries In Its Next Plug-In Hybrids",
-        "blurb": "MGは次期プラグインハイブリッド車に半固体電池を搭載。欧州では初の純EVにも採用予定。",
-        "category": "company",
-        "date": "2026-07-17",
+        "date": "2026-07-18",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801989/mg-semi-solid-state-phev"
+          "url": "https://insideevs.com/news/801873/suzuki-suv-ev-conversion-fast-cheap"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Toyota Is Paying EV Drivers $3,000 To Switch To A bZ",
+        "blurb": "トヨタはEV所有者に対し、bZへの乗り換えで3,000ドルのインセンティブを提供。",
+        "category": "company",
+        "date": "2026-07-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802060/toyota-bz-3000-conquest-cash"
         },
         "field": {
           "primary": "automotive",
