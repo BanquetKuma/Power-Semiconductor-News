@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-19T06:48:11.863701+09:00",
-  "date": "2026-07-19",
+  "generated_at": "2026-07-20T06:50:09.965201+09:00",
+  "date": "2026-07-20",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の進化",
+      "name": "SiC/GaNパワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,17 +12,17 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaNを用いたパワー半導体の高効率化・高信頼性化が進展。AIデータセンター、EV、再生可能エネルギー分野での採用拡大。",
+      "summary": "SiCおよびGaNパワー半導体の性能向上、コスト低減が進み、EV、データセンター、再生可能エネルギー分野での採用が加速。耐放射線性や双方向スイッチングなどの新技術も登場。",
       "analysis": {
-        "short_term": "需要拡大継続。供給能力増強が鍵。",
-        "mid_term": "EVシフト加速で需要はさらに拡大。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味大。"
+        "short_term": "需要拡大継続、供給能力増強が焦点。",
+        "mid_term": "EVシフトとデータセンター効率化で成長続く。",
+        "investment_implications": "SiC/GaNメーカーへの投資妙味大。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "AI",
+        "データセンター",
         "再生可能エネルギー"
       ],
       "companies_mentioned": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "name": "AI・データセンター向け半導体",
+      "name": "AI・データセンター向け高性能半導体",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -42,18 +42,18 @@
         "logic",
         "memory"
       ],
-      "summary": "AI処理能力向上のため、高性能CPU、GPU、HBMなどの需要が急増。データセンター向けカスタムチップ開発も活発化。",
+      "summary": "AI処理能力向上のため、高性能CPU、GPU、HBMメモリの開発競争が激化。データセンターの帯域幅密度とエネルギー効率向上が重要課題。",
       "analysis": {
-        "short_term": "HBM供給逼迫続く。新CPU投入も注目。",
-        "mid_term": "AIインフラ投資は継続、新技術競争激化。",
-        "investment_implications": "AIチップ関連企業に継続投資。"
+        "short_term": "HBM標準化と供給体制が鍵。",
+        "mid_term": "AIインフラ投資は継続、新アーキテクチャ登場。",
+        "investment_implications": "AIチップ・メモリ関連企業に注目。"
       },
       "keywords": [
         "AI",
+        "データセンター",
         "HBM",
         "CPU",
-        "GPU",
-        "データセンター"
+        "GPU"
       ],
       "companies_mentioned": [
         "Intel",
@@ -61,101 +61,110 @@
         "Apple",
         "Broadcom",
         "TSMC",
-        "Ram Research"
+        "ラムリサーチ"
       ]
     },
     {
-      "name": "先端パッケージング技術の重要性増大",
+      "name": "先端パッケージング技術の進化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
         "memory",
-        "miniaturization",
         "datacenter"
       ],
-      "summary": "チップレット化や3D積層技術が進展。ファインピッチハイブリッド接合、共包光技術などが性能向上と小型化に貢献。",
+      "summary": "微細化の限界を克服するため、ハイブリッド接合や共包光技術などの先端パッケージング技術が重要視されている。量産性とコスト維持が課題。",
       "analysis": {
-        "short_term": "量産化に向けた技術課題解決が焦点。",
-        "mid_term": "高性能化・高密度化の鍵となる。",
-        "investment_implications": "先端パッケージング技術を持つ企業に注目。"
+        "short_term": "技術開発競争が激化。",
+        "mid_term": "高性能化・省電力化に貢献。",
+        "investment_implications": "パッケージング技術を持つ企業に期待。"
       },
       "keywords": [
-        "チップレット",
         "ハイブリッド接合",
         "共包光",
-        "3D積層"
+        "TSV",
+        "GAA"
       ],
       "companies_mentioned": [
         "TSMC",
-        "Intel"
+        "富士フイルム"
       ]
     },
     {
-      "name": "次世代メモリ技術の多様化",
-      "confidence": 0.75,
+      "name": "不揮発性メモリの多様化と進化",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "HBMに加え、RRAM、MRAM、FeRAM、UltraRAMなど、多様な不揮発性メモリ技術が開発・実用化へ向かう。",
+      "summary": "NANDフラッシュに加え、RRAM、MRAM、FeRAMなどの次世代不揮発性メモリが有望視されている。AI推論用途でのSSD需要拡大も顕著。",
       "analysis": {
-        "short_term": "HBM需要が牽引。新メモリの用途模索。",
-        "mid_term": "AI用途での性能・コスト競争が激化。",
-        "investment_implications": "次世代メモリ開発企業に注目。"
+        "short_term": "SSD需要の急拡大が続く。",
+        "mid_term": "新メモリ技術の性能・コスト競争が鍵。",
+        "investment_implications": "メモリメーカーの動向を注視。"
       },
       "keywords": [
-        "不揮発性メモリ",
+        "NAND",
         "RRAM",
         "MRAM",
-        "HBM"
+        "SSD",
+        "AI推論"
       ],
       "companies_mentioned": [
-        "キオクシア"
+        "キオクシア",
+        "ラムリサーチ"
       ]
     },
     {
-      "name": "サステナビリティとスマート製造",
-      "confidence": 0.7,
+      "name": "半導体製造プロセスの高度化とDX",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "general",
-        "fab",
+        "frontend",
+        "backend",
         "equipment",
-        "industrial"
+        "industrial",
+        "general"
       ],
-      "summary": "半導体製造における環境負荷低減（CO2、水、廃棄物）が重要課題。インダストリー4.0技術活用によるスマート製造が推進。",
+      "summary": "微細化・複雑化に対応するため、高NA EUV露光装置の導入や、シミュレーション・デジタルツイン活用によるDX推進が進む。材料開発も重要。",
       "analysis": {
-        "short_term": "ESG投資の観点から注目度上昇。",
-        "mid_term": "製造プロセス効率化と環境対応の両立。",
-        "investment_implications": "環境技術・スマート製造ソリューションに期待。"
+        "short_term": "先端露光装置の導入と活用が焦点。",
+        "mid_term": "DXによる生産性・品質向上が期待。",
+        "investment_implications": "製造装置・材料メーカーに注目。"
       },
       "keywords": [
-        "サステナビリティ",
-        "スマート製造",
-        "インダストリー4.0",
-        "ESG"
+        "EUV",
+        "高NA EUV",
+        "デジタルツイン",
+        "DX",
+        "材料"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Intel",
+        "ASML",
+        "富士フイルム"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
       "AI・データセンター向け投資の継続",
-      "EV普及に伴うパワー半導体需要の拡大",
-      "先端パッケージング技術の重要性向上"
+      "EVシフトによるパワー半導体需要拡大",
+      "先端パッケージング技術の重要性増大",
+      "NANDフラッシュ需要の急拡大"
     ],
     "bearish": [
       "地政学リスクによるサプライチェーンの不確実性",
-      "高インフレ・金利上昇による設備投資抑制懸念"
+      "先端製造装置の供給制約"
     ],
     "neutral": [
-      "半導体製造装置の需要は堅調だが、一部調整局面も",
-      "メモリ市況は需給バランスを見ながら変動"
+      "半導体業界全体の景気循環",
+      "各国の半導体政策の動向"
     ]
   },
-  "source_count": 51
+  "source_count": 49
 }
