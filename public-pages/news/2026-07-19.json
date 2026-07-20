@@ -1,30 +1,133 @@
 {
-  "generated_at": "2026-07-20T06:50:04.448593+09:00",
+  "generated_at": "2026-07-19T06:48:06.698955+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Bentley's EV Will Use an Orchestra to Replicate the Sound of a V8",
-    "summary": "ベントレーはEVのV8サウンドを再現するため、ドラムを中心にオーケストラを活用し、エンジンの鼓動を表現する。",
+    "title": "Understanding MPPT Algorithms, Hybrid-LCC Systems with IGCTs, SiC Bidirectional Switches: Electronics Week Insights",
+    "summary": "MPPTアルゴリズム、IGCT搭載ハイブリッドLCCシステム、SiC双方向スイッチに関する最新技術動向。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/news/801933/bentley-orchestra-replicate-v8-ev"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/understanding-mppt-algorithms-hybrid-lcc-systems-with-igcts-sic-bidirectional-switches-electronics-week-insights"
       }
     ]
   },
   "sections": {
-    "business": [],
-    "tools": [],
-    "company": [
+    "business": [
       {
-        "title": "Bentley's EV Will Use an Orchestra to Replicate the Sound of a V8",
-        "blurb": "ベントレーはEVのV8サウンドを再現するため、ドラムを中心にオーケストラを活用し、エンジンの鼓動を表現する。",
-        "category": "company",
-        "date": "2026-07-19",
+        "title": "Understanding MPPT Algorithms, Hybrid-LCC Systems with IGCTs, SiC Bidirectional Switches: Electronics Week Insights",
+        "blurb": "MPPTアルゴリズム、IGCT搭載ハイブリッドLCCシステム、SiC双方向スイッチに関する最新技術動向。",
+        "category": "business",
+        "date": "2026-07-18",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/understanding-mppt-algorithms-hybrid-lcc-systems-with-igcts-sic-bidirectional-switches-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
+        "blurb": "中国のXPeng L03、欧州市場投入へ。Googleマップ搭載、テスラより約35万円安。",
+        "category": "business",
+        "date": "2026-07-18",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/801933/bentley-orchestra-replicate-v8-ev"
+          "url": "https://insideevs.com/news/802044/xpeng-mona-l03-europe-launch"
+        },
+        "field": null
+      },
+      {
+        "title": "California's EV Rebate Won't Apply To All Cars. These 13 Automakers Qualify",
+        "blurb": "カリフォルニア州のEV購入補助金、対象外となるメーカーも。BMW、メルセデスなどはリストから除外。",
+        "category": "business",
+        "date": "2026-07-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802050/california-ev-tax-credit-brands"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [],
+    "company": [
+      {
+        "title": "The Protocol Wars in Factories, Nvidia's Thor Modules for Robotics and Edge AI, 'Mind of the Engineer' survey: Embedded Week Insights",
+        "blurb": "工場プロトコル戦争、NVIDIAのロボティクス・エッジAI向けThorモジュール、技術者意識調査など、組み込み技術の最新動向をまとめた記事。",
+        "category": "company",
+        "date": "2026-07-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/the-protocol-wars-in-factories-nvidias-thor-modules-for-robotics-and-edge-ai-mind-of-the-engineer-survey-embedded-week-insights"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "The CMMC Pause: The DoD Suspends Phase 2 Requirements",
+        "blurb": "米国防総省がCMMCフェーズ2要件を一時停止。60日間の見直しが防衛産業基盤に影響。",
+        "category": "company",
+        "date": "2026-07-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/the-cmmc-pause-the-dod-suspends-phase-2-requirements"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "This Suzuki’s Engine Blew Up. The Owner Converted It Into An EV In Just Five Days",
+        "blurb": "スズキのSUVのエンジンを5日間でEVに改造。部品代は高級電動自転車より安価。",
+        "category": "company",
+        "date": "2026-07-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/801873/suzuki-suv-ev-conversion-fast-cheap"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Toyota Is Paying EV Drivers $3,000 To Switch To A bZ",
+        "blurb": "トヨタはEV所有者に対し、bZへの乗り換えで3,000ドルのインセンティブを提供。",
+        "category": "company",
+        "date": "2026-07-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802060/toyota-bz-3000-conquest-cash"
         },
         "field": {
           "primary": "automotive",

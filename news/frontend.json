@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-07-15T06:55:24.056146+09:00",
+  "generated_at": "2026-07-21T06:58:17.509476+09:00",
   "field": "frontend",
   "field_label": "前工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Evatec、600mmパネル対応成膜装置で日本パッケージ市場に本格参入",
-    "summary": "日本エバテックがAI・HPC向け次世代パッケージング市場に参入。大型パネル対応成膜装置「CLUSTERLINE 600」を展開。",
+    "title": "3D Mask Effects Enhance Imaging in High-NA EUV and Hyper-NA EUV Litho (Fraunhofer, ASML)",
+    "summary": "フラウンホーファーとASMLは、高NA/ハイパーNA EUVリソグラフィにおける3Dマスク効果の利点に関する論文を発表しました。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news048.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/3d-mask-effects-enhance-imaging-in-high-na-euv-and-hyper-na-euv-litho-fraunhofer-asml"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Evatec、600mmパネル対応成膜装置で日本パッケージ市場に本格参入",
-        "blurb": "日本エバテックがAI・HPC向け次世代パッケージング市場に参入。大型パネル対応成膜装置「CLUSTERLINE 600」を展開。",
-        "category": "business",
-        "date": "2026-07-14",
+        "title": "3D Mask Effects Enhance Imaging in High-NA EUV and Hyper-NA EUV Litho (Fraunhofer, ASML)",
+        "blurb": "フラウンホーファーとASMLは、高NA/ハイパーNA EUVリソグラフィにおける3Dマスク効果の利点に関する論文を発表しました。",
+        "category": "company",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/14/news048.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/3d-mask-effects-enhance-imaging-in-high-na-euv-and-hyper-na-euv-litho-fraunhofer-asml"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Litho Patterning of Conformal Thin-Film Coatings on Complex 3D Structures (KTH Royal)",
+        "blurb": "KTH王立工科大学の研究者らが、複雑な3D構造上に薄膜をパターン化する新手法を発表。リフトオフマスク技術を活用し、微細な回路形成に貢献。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/3d-scaffold-masks-pattern-conformal-thin-films-down-to-27-nm"
         },
         "field": {
           "primary": "frontend",
@@ -36,6 +52,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

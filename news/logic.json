@@ -1,59 +1,78 @@
 {
-  "generated_at": "2026-07-18T06:51:03.458194+09:00",
+  "generated_at": "2026-07-21T06:58:17.507973+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "QualcommのDragonfly C1000を読み解く　「苦手な戦場」で勝負できるのか",
-    "summary": "QualcommがAIデータセンター用CPU「Dragonfly C1000」を発表。独自コア「Oryon」を採用し、競争力を探る。",
+    "title": "Inference Accelerator that Integrates Compute-in-Interconnect and Memory to Mitigate the Memory Wall (NUS)",
+    "summary": "NUSの研究者が、メモリの壁を緩和する推論アクセラレータ「CIMERA」を発表。計算とメモリを統合し、LLM推論を高速化。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news028.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/inference-accelerator-that-integrates-compute-in-interconnect-and-memory-to-mitigate-the-memory-wall-nus"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "QualcommのDragonfly C1000を読み解く　「苦手な戦場」で勝負できるのか",
-        "blurb": "QualcommがAIデータセンター用CPU「Dragonfly C1000」を発表。独自コア「Oryon」を採用し、競争力を探る。",
+        "title": "Qualcomm Snapdragon C Targets $300 Laptops with AI and All-Day Battery",
+        "blurb": "クアルコム、AIと長時間バッテリー搭載の300ドルノートPC向け新CPU「Snapdragon C」を発表。学生や中小企業をターゲット。",
         "category": "company",
-        "date": "2026-07-17",
+        "date": "2026-07-20",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news028.html"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/qualcomm-snapdragon-c-targets-300-laptops-with-ai-and-all-day-battery"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "datacenter",
+          "market": null,
           "industry": "fabless"
         }
       },
       {
-        "title": "Forlinx Unveils Rockchip RK3572 SoM and Development Board for AIoT",
-        "blurb": "ForlinxがAIoT向けRockchip RK3572搭載SoMと開発ボードを発表。オクタコアCPU、4TOPS NPU、Linux 6.12対応。",
+        "title": "Inference Accelerator that Integrates Compute-in-Interconnect and Memory to Mitigate the Memory Wall (NUS)",
+        "blurb": "NUSの研究者が、メモリの壁を緩和する推論アクセラレータ「CIMERA」を発表。計算とメモリを統合し、LLM推論を高速化。",
         "category": "company",
-        "date": "2026-07-17",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/forlinx-unveils-rockchip-rk3572-som-and-development-board-for-aiot"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/inference-accelerator-that-integrates-compute-in-interconnect-and-memory-to-mitigate-the-memory-wall-nus"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Partnership Advances Agentic AI for SoC Design",
+        "blurb": "RapidusとCadenceが提携し、AIを活用したSoC設計を加速。設計時間を半減させる見込み。",
+        "category": "business",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/partnership-advances-agentic-ai-for-soc-design"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      }
+    ]
   }
 }

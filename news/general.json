@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-17T07:01:30.454632+09:00",
+  "generated_at": "2026-07-21T06:58:17.509897+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Why Metal TIM Warpage Simulations Fail—And How To Fix Them",
-    "summary": "金属TIMの熱応力シミュレーションの失敗原因と解決策。実際の使用条件下での特性評価が重要。",
+    "title": "Graph Transformer Speeds IC Interconnect Signal Integrity Analysis (Buffalo, Stuttgart, IBM)",
+    "summary": "IBMなどがIC設計における信号品質解析を高速化する新技術「Si-GT」を発表。グラフ変換器を用いた手法で、精度と速度を向上。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/why-metal-tim-warpage-simulations-fail-and-how-to-fix-them"
+        "url": "https://semiengineering.com/graph-transformer-speeds-ic-interconnect-signal-integrity-analysis-buffalo-stuttgart-ibm"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "新ポリマー半導体で有機薄膜太陽電池の性能向上、広島大ら",
-        "blurb": "広島大らは新ポリマー半導体「PTNT2T」の電荷移動度起源を解明し、有機薄膜太陽電池で世界最高水準の効率を実現した。",
+        "title": "Verifying Networks On Chip",
+        "blurb": "チップレットとコヒーレンシの進化により、チップ上のネットワーク検証が複雑化。半導体エンジニアリングの記事。",
         "category": "company",
-        "date": "2026-07-16",
+        "date": "2026-07-20",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news027.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/verifying-networks-on-chip"
         },
         "field": {
           "primary": "general",
@@ -37,50 +37,14 @@
     ],
     "tech": [
       {
-        "title": "Why Metal TIM Warpage Simulations Fail—And How To Fix Them",
-        "blurb": "金属TIMの熱応力シミュレーションの失敗原因と解決策。実際の使用条件下での特性評価が重要。",
+        "title": "Graph Transformer Speeds IC Interconnect Signal Integrity Analysis (Buffalo, Stuttgart, IBM)",
+        "blurb": "IBMなどがIC設計における信号品質解析を高速化する新技術「Si-GT」を発表。グラフ変換器を用いた手法で、精度と速度を向上。",
         "category": "tools",
-        "date": "2026-07-16",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-metal-tim-warpage-simulations-fail-and-how-to-fix-them"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "From Feature-Scale Simulation To Digital Twins: Helping Process Engineers Tackle Growing Complexity",
-        "blurb": "物理ベースのワークフローでプロセスエンジニアが複雑化する技術革新に対応。シミュレーションからデジタルツインへ。",
-        "category": "tools",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-feature-scale-simulation-to-digital-twins-helping-process-engineers-tackle-growing-complexity"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Holotomography system analyzes glass defects",
-        "blurb": "Tomocube社のHT-T1Dは、半導体パッケージ用ガラス基板の3D欠陥を高解像度で解析するデスクトップ型ホロトモグラフィシステムです。",
-        "category": "tools",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/holotomography-system-analyzes-glass-defects"
+          "url": "https://semiengineering.com/graph-transformer-speeds-ic-interconnect-signal-integrity-analysis-buffalo-stuttgart-ibm"
         },
         "field": {
           "primary": "general",
@@ -93,68 +57,14 @@
     ],
     "market": [
       {
-        "title": "Optimizing The Nano-TSV-to-BPR Connection In Backside Power Networks",
-        "blurb": "裏面給電網におけるナノTSV-BPR接続の最適化。角丸が抵抗感度に与える影響を仮想モデルで分析。",
+        "title": "NbAs Nanowires Show Lower Resistivity as Interconnect Dimensions Shrink (Cornell, NYCU, IBM et al.)",
+        "blurb": "NbAsナノワイヤは、配線寸法縮小時に低抵抗を示し、次世代インターコネクトへの応用が期待される。",
         "category": "business",
-        "date": "2026-07-16",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/optimizing-the-nano-tsv-to-bpr-connection-in-backside-power-networks"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "New Nonvolatile Memory Winners Emerge",
-        "blurb": "次世代不揮発性メモリとしてRRAM、MRAMが有望視され、FeRAMも存在感を示す。UltraRAMも debut 予定。",
-        "category": "business",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/new-nonvolatile-memory-winners-emerge"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Co-Packaged Optics for Multi-Die Designs",
-        "blurb": "マルチチップ設計向け共包光技術は、電気損失を低減し、エネルギー効率と通信距離を向上させ、銅線だけでは困難な帯域幅密度を実現します。",
-        "category": "business",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/co-packaged-optics-for-multi-die-designs"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Accelerating Sustainability With Smart Manufacturing",
-        "blurb": "半導体メーカー向け、スマート製造による持続可能性加速のロードマップ。炭素排出、水、廃棄物削減に焦点を当てる。",
-        "category": "business",
-        "date": "2026-07-16",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/accelerating-sustainability-with-smart-manufacturing"
+          "url": "https://semiengineering.com/nbas-nanowires-show-lower-resistivity-as-interconnect-dimensions-shrink-cornell-nycu-ibm-et-al"
         },
         "field": {
           "primary": "general",
