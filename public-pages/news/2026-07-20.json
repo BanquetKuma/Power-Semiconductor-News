@@ -1,302 +1,30 @@
 {
-  "generated_at": "2026-07-21T06:58:17.506643+09:00",
+  "generated_at": "2026-07-20T06:50:04.448593+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Diodes Acquires ElevATE to Expand ATE IC Portfolio",
-    "summary": "Diodes社がElevATEを買収し、ATE ICポートフォリオを拡充。アナログIC事業を強化し、自動テスト装置分野でのプレゼンスを拡大する。",
+    "title": "Bentley's EV Will Use an Orchestra to Replicate the Sound of a V8",
+    "summary": "ベントレーはEVのV8サウンドを再現するため、ドラムを中心にオーケストラを活用し、エンジンの鼓動を表現する。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/diodes-acquires-elevate-to-expand-ate-ic-portfolio"
+        "name": "insideevs.com",
+        "url": "https://insideevs.com/news/801933/bentley-orchestra-replicate-v8-ev"
       }
     ]
   },
   "sections": {
-    "business": [
-      {
-        "title": "Data Center Chokepoints Tied To AI, Political Pressure, Supply Chain",
-        "blurb": "AI需要と政治的圧力、サプライチェーン問題が米国のデータセンター建設を複雑化させている。",
-        "category": "business",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/data-center-chokepoints-tied-to-ai-political-pressure-supply-chain"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": "geopolitics"
-        }
-      },
-      {
-        "title": "Rambus Debuts DDR5 9600 RDIMM Chipset for AI Servers",
-        "blurb": "RambusはAIサーバー向けDDR5 9600 RDIMMチップセットを発表。エージェンティックAIやHPC向けに帯域幅を強化。",
-        "category": "business",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/rambus-debuts-ddr5-9600-rdimm-chipset-for-ai-servers"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "NbAs Nanowires Show Lower Resistivity as Interconnect Dimensions Shrink (Cornell, NYCU, IBM et al.)",
-        "blurb": "NbAsナノワイヤは、配線寸法縮小時に低抵抗を示し、次世代インターコネクトへの応用が期待される。",
-        "category": "business",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/nbas-nanowires-show-lower-resistivity-as-interconnect-dimensions-shrink-cornell-nycu-ibm-et-al"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Partnership Advances Agentic AI for SoC Design",
-        "blurb": "RapidusとCadenceが提携し、AIを活用したSoC設計を加速。設計時間を半減させる見込み。",
-        "category": "business",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/partnership-advances-agentic-ai-for-soc-design"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Power Electronics Course with QSPICE (Episode 14): Supercapacitors in Power Electronics",
-        "blurb": "QSPICE講座第14回は、ESR、漏れ電流、セルバランシングを考慮したスーパーキャパシタのモデリング。",
-        "category": "tools",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-14-supercapacitors-in-power-electronics"
-        },
-        "field": null
-      },
-      {
-        "title": "Precision in motion: The engineering value of LVDTs",
-        "blurb": "LVDTは高精度な変位センサーであり、その動作原理、重要性、主要な応用分野について解説。",
-        "category": "tools",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/precision-in-motion-the-engineering-value-of-lvdts"
-        },
-        "field": null
-      },
-      {
-        "title": "Adapter makes CarPlay connectivity wireless",
-        "blurb": "CarPlayの接続をワイヤレス化するアダプターが登場。BluetoothとWi-Fiを組み合わせ、スマホと車の接続を解放する。",
-        "category": "tools",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/adapter-makes-carplay-connectivity-wireless"
-        },
-        "field": null
-      },
-      {
-        "title": "Graph Transformer Speeds IC Interconnect Signal Integrity Analysis (Buffalo, Stuttgart, IBM)",
-        "blurb": "IBMなどがIC設計における信号品質解析を高速化する新技術「Si-GT」を発表。グラフ変換器を用いた手法で、精度と速度を向上。",
-        "category": "tools",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/graph-transformer-speeds-ic-interconnect-signal-integrity-analysis-buffalo-stuttgart-ibm"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Ultralytics Optimizes YOLO26 for Intel OpenVINO",
-        "blurb": "UltralyticsがYOLOv26をIntel OpenVINO向けに最適化。Intelプロセッサ上で高速・低遅延なコンピュータビジョンを実現。",
-        "category": "tools",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/ultralytics-optimizes-yolo26-for-intel-openvino"
-        },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      }
-    ],
+    "business": [],
+    "tools": [],
     "company": [
       {
-        "title": "Diodes Acquires ElevATE to Expand ATE IC Portfolio",
-        "blurb": "Diodes社がElevATEを買収し、ATE ICポートフォリオを拡充。アナログIC事業を強化し、自動テスト装置分野でのプレゼンスを拡大する。",
+        "title": "Bentley's EV Will Use an Orchestra to Replicate the Sound of a V8",
+        "blurb": "ベントレーはEVのV8サウンドを再現するため、ドラムを中心にオーケストラを活用し、エンジンの鼓動を表現する。",
         "category": "company",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/diodes-acquires-elevate-to-expand-ate-ic-portfolio"
-        },
-        "field": null
-      },
-      {
-        "title": "Verifying Networks On Chip",
-        "blurb": "チップレットとコヒーレンシの進化により、チップ上のネットワーク検証が複雑化。半導体エンジニアリングの記事。",
-        "category": "company",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/verifying-networks-on-chip"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Qualcomm Snapdragon C Targets $300 Laptops with AI and All-Day Battery",
-        "blurb": "クアルコム、AIと長時間バッテリー搭載の300ドルノートPC向け新CPU「Snapdragon C」を発表。学生や中小企業をターゲット。",
-        "category": "company",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/qualcomm-snapdragon-c-targets-300-laptops-with-ai-and-all-day-battery"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "The 2027 BMW i5 Gets More Range Just As The Tesla Model S Fades Away",
-        "blurb": "2027年型BMW i5は航続距離が延長され、全モデルにNACS充電ポートが標準装備。テスラ モデルSの衰退と対照的。",
-        "category": "company",
-        "date": "2026-07-20",
+        "date": "2026-07-19",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/802185/2027-bmw-i5-range-increase"
-        },
-        "field": null
-      },
-      {
-        "title": "3D Mask Effects Enhance Imaging in High-NA EUV and Hyper-NA EUV Litho (Fraunhofer, ASML)",
-        "blurb": "フラウンホーファーとASMLは、高NA/ハイパーNA EUVリソグラフィにおける3Dマスク効果の利点に関する論文を発表しました。",
-        "category": "company",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/3d-mask-effects-enhance-imaging-in-high-na-euv-and-hyper-na-euv-litho-fraunhofer-asml"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Inference Accelerator that Integrates Compute-in-Interconnect and Memory to Mitigate the Memory Wall (NUS)",
-        "blurb": "NUSの研究者が、メモリの壁を緩和する推論アクセラレータ「CIMERA」を発表。計算とメモリを統合し、LLM推論を高速化。",
-        "category": "company",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/inference-accelerator-that-integrates-compute-in-interconnect-and-memory-to-mitigate-the-memory-wall-nus"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Litho Patterning of Conformal Thin-Film Coatings on Complex 3D Structures (KTH Royal)",
-        "blurb": "KTH王立工科大学の研究者らが、複雑な3D構造上に薄膜をパターン化する新手法を発表。リフトオフマスク技術を活用し、微細な回路形成に貢献。",
-        "category": "company",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/3d-scaffold-masks-pattern-conformal-thin-films-down-to-27-nm"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "PSA: Don't Use An Old Charging Adapter For Your Rivian R2. It May Melt",
-        "blurb": "リビアンR2、古い充電アダプターの使用は溶ける危険性あり。400V高アンペア充電に対応していないため注意。",
-        "category": "company",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/802239/rivian-r2-melted-charging-adapter"
-        },
-        "field": null
-      },
-      {
-        "title": "I Was Going To Go Back To Gas. Here’s Why I Just Couldn’t Give Up My EV",
-        "blurb": "中古EVは中古ガソリン車よりお得なだけでなく、体験も優れている。EVを手放せない理由。",
-        "category": "company",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/802230/why-i-wont-go-back-to-gas"
+          "url": "https://insideevs.com/news/801933/bentley-orchestra-replicate-v8-ev"
         },
         "field": {
           "primary": "automotive",
@@ -305,18 +33,6 @@
           "market": "automotive",
           "industry": null
         }
-      },
-      {
-        "title": "Volkswagen's E-Bike Tries To Keep You Safe With A Rearview Camera And Smart Helmet",
-        "blurb": "フォルクスワーゲンが、後方カメラとスマートヘルメットを備えた安全な電動自転車を発表。ナビや危険アラート機能も搭載。",
-        "category": "company",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/802219/volkswagen-ebike-smart-helmet"
-        },
-        "field": null
       }
     ],
     "sns": []

@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-07-18T06:51:03.457793+09:00",
+  "generated_at": "2026-07-22T07:02:09.714254+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Week In Review",
-    "summary": "Intelの拡張、CadenceのAI、フォトニクス、ドイツの資金調達、CHIPS法、HBM標準、Rapidus提携など、半導体業界の最新動向。",
+    "title": "Monolithic 3D-DRAM with Oxide-Semiconductor Architecture (imec, KU Leuven, Samsung, Lam)",
+    "summary": "imecらは酸化物半導体を用いた積層型3D-DRAMを開発。プロセス・デバイスシミュレーションで最適化。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-week-in-review-147"
+        "url": "https://semiengineering.com/monolithic-3d-dram-with-oxide-semiconductor-architecture-imec-ku-leuven-samsung-lam"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "「NAND技術革新を支える」、ラムリサーチが四日市に新オフィス",
-        "blurb": "ラムリサーチが四日市に新オフィスを開設。NAND技術革新を支え、顧客との連携強化を目指す。",
+        "title": "Monolithic 3D-DRAM with Oxide-Semiconductor Architecture (imec, KU Leuven, Samsung, Lam)",
+        "blurb": "imecらは酸化物半導体を用いた積層型3D-DRAMを開発。プロセス・デバイスシミュレーションで最適化。",
         "category": "company",
-        "date": "2026-07-17",
+        "date": "2026-07-22",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news037.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/monolithic-3d-dram-with-oxide-semiconductor-architecture-imec-ku-leuven-samsung-lam"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "idm"
         }
       }
     ],
     "tech": [],
     "market": [
       {
-        "title": "Chip Industry Week In Review",
-        "blurb": "Intelの拡張、CadenceのAI、フォトニクス、ドイツの資金調達、CHIPS法、HBM標準、Rapidus提携など、半導体業界の最新動向。",
+        "title": "Chip Industry Technical Paper Roundup: July 21",
+        "blurb": "半導体業界の技術論文まとめ。LLM推論向けNear-memory HBM、3D DRAMのPIM、SDV抽象化、3nm GAAFET、CMOS-フォトニック集積、量子フォトニックチップ、AI熱モデリングなど。",
         "category": "business",
-        "date": "2026-07-17",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-147"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-21"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "backend",
+          "process": "miniaturization",
           "market": null,
-          "industry": "foundry"
+          "industry": null
         }
       }
     ]

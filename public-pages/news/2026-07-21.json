@@ -1,58 +1,40 @@
 {
-  "generated_at": "2026-07-21T06:58:17.506643+09:00",
+  "generated_at": "2026-07-22T07:02:09.712458+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Diodes Acquires ElevATE to Expand ATE IC Portfolio",
-    "summary": "Diodes社がElevATEを買収し、ATE ICポートフォリオを拡充。アナログIC事業を強化し、自動テスト装置分野でのプレゼンスを拡大する。",
+    "title": "Inside Amperesand’s SST: A Conversation with CEO Brian Dow",
+    "summary": "AmperesandのCEOがSiCモジュール、熱設計、冗長性、業界標準化について語る。同社のSST設計に迫る。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/diodes-acquires-elevate-to-expand-ate-ic-portfolio"
+        "url": "https://www.powerelectronicsnews.com/inside-amperesands-sst-a-conversation-with-ceo-brian-dow"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Data Center Chokepoints Tied To AI, Political Pressure, Supply Chain",
-        "blurb": "AI需要と政治的圧力、サプライチェーン問題が米国のデータセンター建設を複雑化させている。",
+        "title": "Chip Industry Technical Paper Roundup: July 21",
+        "blurb": "半導体業界の技術論文まとめ。LLM推論向けNear-memory HBM、3D DRAMのPIM、SDV抽象化、3nm GAAFET、CMOS-フォトニック集積、量子フォトニックチップ、AI熱モデリングなど。",
         "category": "business",
-        "date": "2026-07-20",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/data-center-chokepoints-tied-to-ai-political-pressure-supply-chain"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-21"
         },
         "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": "geopolitics"
-        }
-      },
-      {
-        "title": "Rambus Debuts DDR5 9600 RDIMM Chipset for AI Servers",
-        "blurb": "RambusはAIサーバー向けDDR5 9600 RDIMMチップセットを発表。エージェンティックAIやHPC向けに帯域幅を強化。",
-        "category": "business",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/rambus-debuts-ddr5-9600-rdimm-chipset-for-ai-servers"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
+          "primary": "memory",
+          "device": "memory",
+          "process": "miniaturization",
+          "market": null,
           "industry": null
         }
       },
       {
         "title": "NbAs Nanowires Show Lower Resistivity as Interconnect Dimensions Shrink (Cornell, NYCU, IBM et al.)",
-        "blurb": "NbAsナノワイヤは、配線寸法縮小時に低抵抗を示し、次世代インターコネクトへの応用が期待される。",
+        "blurb": "NbAsナノワイヤは、配線寸法縮小に伴い低抵抗化。次世代インターコネクトへの応用が期待される。",
         "category": "business",
         "date": "2026-07-21",
         "stars": 3,
@@ -67,6 +49,54 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "IoTで現場管理をデジタル化　予兆保全プラットフォーム",
+        "blurb": "NagarroはIoTを活用し、製造現場の予防保全と予兆保全を一括管理できるプラットフォーム「UpKeeper」を発表した。",
+        "category": "business",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news062.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "半導体製造装置売上高、26年は過去最高の1659億米ドルへ",
+        "blurb": "SEMIは、2026年の半導体製造装置売上高が過去最高の1659億ドルに達すると予測。設備投資は5年連続で成長し、2028年には2295億ドル規模になると見込む。",
+        "category": "business",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news034.html"
+        },
+        "field": {
+          "primary": "equipment",
+          "device": null,
+          "process": "equipment",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "自動車は95％の時間は止まっている……「使わない時間」から考える可能性",
+        "blurb": "自動車は95%の時間停止しており、この「使わない時間」の活用が新たな可能性を生む。",
+        "category": "business",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news065.html"
+        },
+        "field": null
       },
       {
         "title": "Partnership Advances Agentic AI for SoC Design",
@@ -85,44 +115,38 @@
           "market": null,
           "industry": "foundry"
         }
+      },
+      {
+        "title": "EVs Just Hit 25% Market Share In Europe",
+        "blurb": "欧州の電気自動車（EV）市場シェアが25.6%に達し、販売台数は約40%増加しました。",
+        "category": "business",
+        "date": "2026-07-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802351/europe-ev-sales-half-year"
+        },
+        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Power Electronics Course with QSPICE (Episode 14): Supercapacitors in Power Electronics",
-        "blurb": "QSPICE講座第14回は、ESR、漏れ電流、セルバランシングを考慮したスーパーキャパシタのモデリング。",
+        "title": "Research Bits: July 21",
+        "blurb": "薄膜TMDトランジスタ、ダイヤモンド欠陥検出、ロール・ツー・ロールリソグラフィの研究。",
         "category": "tools",
-        "date": "2026-07-20",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-14-supercapacitors-in-power-electronics"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-july-21"
         },
-        "field": null
-      },
-      {
-        "title": "Precision in motion: The engineering value of LVDTs",
-        "blurb": "LVDTは高精度な変位センサーであり、その動作原理、重要性、主要な応用分野について解説。",
-        "category": "tools",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/precision-in-motion-the-engineering-value-of-lvdts"
-        },
-        "field": null
-      },
-      {
-        "title": "Adapter makes CarPlay connectivity wireless",
-        "blurb": "CarPlayの接続をワイヤレス化するアダプターが登場。BluetoothとWi-Fiを組み合わせ、スマホと車の接続を解放する。",
-        "category": "tools",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/adapter-makes-carplay-connectivity-wireless"
-        },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
         "title": "Graph Transformer Speeds IC Interconnect Signal Integrity Analysis (Buffalo, Stuttgart, IBM)",
@@ -137,6 +161,36 @@
         "field": {
           "primary": "general",
           "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Simple, compact circuit conveniently controls devices and systems",
+        "blurb": "RCデバイス開発者向けに、簡単でコンパクトなPWM回路がデバイスやシステムを便利に制御するテストツールとして紹介されています。",
+        "category": "tools",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/simple-compact-circuit-conveniently-controls-devices-and-systems"
+        },
+        "field": null
+      },
+      {
+        "title": "Pros and Cons of MCU Hardware and Software Peripherals",
+        "blurb": "MCUのコア独立周辺機能(CIP)は、CPU介入なしでタスクを実行するハードウェア回路。利点と欠点を解説。",
+        "category": "tools",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
           "process": null,
           "market": null,
           "industry": null
@@ -159,66 +213,66 @@
           "market": null,
           "industry": "idm"
         }
-      }
-    ],
-    "company": [
-      {
-        "title": "Diodes Acquires ElevATE to Expand ATE IC Portfolio",
-        "blurb": "Diodes社がElevATEを買収し、ATE ICポートフォリオを拡充。アナログIC事業を強化し、自動テスト装置分野でのプレゼンスを拡大する。",
-        "category": "company",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/diodes-acquires-elevate-to-expand-ate-ic-portfolio"
-        },
-        "field": null
       },
       {
-        "title": "Verifying Networks On Chip",
-        "blurb": "チップレットとコヒーレンシの進化により、チップ上のネットワーク検証が複雑化。半導体エンジニアリングの記事。",
-        "category": "company",
-        "date": "2026-07-20",
+        "title": "HW-based Methods to Dynamically Throttle AI Performance (Princeton University)",
+        "blurb": "プリンストン大学の研究者が、AI性能を動的に抑制するハードウェア機構を発表。GPUメモリサブシステムのリソースを制御し、性能を制限する。",
+        "category": "tools",
+        "date": "2026-07-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/verifying-networks-on-chip"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Qualcomm Snapdragon C Targets $300 Laptops with AI and All-Day Battery",
-        "blurb": "クアルコム、AIと長時間バッテリー搭載の300ドルノートPC向け新CPU「Snapdragon C」を発表。学生や中小企業をターゲット。",
-        "category": "company",
-        "date": "2026-07-20",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/qualcomm-snapdragon-c-targets-300-laptops-with-ai-and-all-day-battery"
+          "url": "https://semiengineering.com/hw-based-methods-to-dynamically-throttle-ai-performance-princeton-university"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": "fabless"
+          "industry": null
         }
       },
       {
-        "title": "The 2027 BMW i5 Gets More Range Just As The Tesla Model S Fades Away",
-        "blurb": "2027年型BMW i5は航続距離が延長され、全モデルにNACS充電ポートが標準装備。テスラ モデルSの衰退と対照的。",
-        "category": "company",
-        "date": "2026-07-20",
+        "title": "Missing sense: Why physical AI can see everything and feel nothing",
+        "blurb": "物理AIは人間のように自信を持って現実世界と対話できるかが将来を左右する。感覚の欠如が課題。",
+        "category": "tools",
+        "date": "2026-07-22",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/802185/2027-bmw-i5-range-increase"
+          "name": "edn.com",
+          "url": "https://www.edn.com/missing-sense-why-physical-ai-can-see-everything-and-feel-nothing"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "Inside Amperesand’s SST: A Conversation with CEO Brian Dow",
+        "blurb": "AmperesandのCEOがSiCモジュール、熱設計、冗長性、業界標準化について語る。同社のSST設計に迫る。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/inside-amperesands-sst-a-conversation-with-ceo-brian-dow"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Texas Instruments Brings Cell-Level Intelligence to Battery Monitoring",
+        "blurb": "テキサス・インスツルメンツ、セルレベルの知能をバッテリー監視に導入。BQ79826Z-Q1はEISを統合し、早期のセル変化検出と高電圧パックの診断を可能に。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/texas-instruments-brings-cell-level-intelligence-to-battery-monitoring"
         },
         "field": null
       },
@@ -242,7 +296,7 @@
       },
       {
         "title": "Inference Accelerator that Integrates Compute-in-Interconnect and Memory to Mitigate the Memory Wall (NUS)",
-        "blurb": "NUSの研究者が、メモリの壁を緩和する推論アクセラレータ「CIMERA」を発表。計算とメモリを統合し、LLM推論を高速化。",
+        "blurb": "シンガポール国立大学が、メモリの壁を克服する推論アクセラレータ「CIMERA」を発表。計算とメモリを統合し、LLM推論を高速化。",
         "category": "company",
         "date": "2026-07-21",
         "stars": 3,
@@ -277,44 +331,116 @@
         }
       },
       {
-        "title": "PSA: Don't Use An Old Charging Adapter For Your Rivian R2. It May Melt",
-        "blurb": "リビアンR2、古い充電アダプターの使用は溶ける危険性あり。400V高アンペア充電に対応していないため注意。",
+        "title": "「国産AIスタック」を持たないカナダ、ソブリンAIをどう構築するのか",
+        "blurb": "カナダはAI人材・研究基盤を持つが、国産AIスタック構築には戦略的パートナーとの連携と迅速なインフラ整備が不可欠。",
         "category": "company",
         "date": "2026-07-21",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/802239/rivian-r2-melted-charging-adapter"
-        },
-        "field": null
-      },
-      {
-        "title": "I Was Going To Go Back To Gas. Here’s Why I Just Couldn’t Give Up My EV",
-        "blurb": "中古EVは中古ガソリン車よりお得なだけでなく、体験も優れている。EVを手放せない理由。",
-        "category": "company",
-        "date": "2026-07-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/802230/why-i-wont-go-back-to-gas"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news054.html"
         },
         "field": {
-          "primary": "automotive",
+          "primary": "ai",
           "device": null,
           "process": null,
-          "market": "automotive",
+          "market": "ai",
           "industry": null
         }
       },
       {
-        "title": "Volkswagen's E-Bike Tries To Keep You Safe With A Rearview Camera And Smart Helmet",
-        "blurb": "フォルクスワーゲンが、後方カメラとスマートヘルメットを備えた安全な電動自転車を発表。ナビや危険アラート機能も搭載。",
+        "title": "1つの2次元結晶ナノ構造で2つの光機能を実現、岡山大ら",
+        "blurb": "岡山大らは、2次元結晶ナノ構造で光を集める・ためる機能を両立し、偏光で切り替え可能にした。応用が期待される。",
         "category": "company",
         "date": "2026-07-21",
         "stars": 3,
         "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news033.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Siemens EDA acquires SoC toolmaker Precision Innovations",
+        "blurb": "シーメンスEDAがAI駆動のSoC設計ツール開発企業Precision Innovationsを買収。設計チームへのAI活用拡大を目指す。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/siemens-eda-acquires-soc-toolmaker-precision-innovations"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Avalue EPC-WCL Fanless Edge AI System Packs Wildcat Lake SoC",
+        "blurb": "Avalueが、産業用エッジAI向けにIntel Core 3 (Wildcat Lake)搭載のファンレスシステム「EPC-WCL」を発表。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/avalue-epc-wcl-fanless-edge-ai-system-packs-wildcat-lake-soc"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "Monolithic 3D-DRAM with Oxide-Semiconductor Architecture (imec, KU Leuven, Samsung, Lam)",
+        "blurb": "imecらは酸化物半導体を用いた積層型3D-DRAMを開発。プロセス・デバイスシミュレーションで最適化。",
+        "category": "company",
+        "date": "2026-07-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/monolithic-3d-dram-with-oxide-semiconductor-architecture-imec-ku-leuven-samsung-lam"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "NXP Unveils Single-Chip Automotive Audio and Radio Processor",
+        "blurb": "NXPがAI/ML対応の車載オーディオ・ラジオプロセッサ「SAF9800」を発表。車載インフォテインメントシステムの簡素化に貢献。",
+        "category": "company",
+        "date": "2026-07-22",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nxp-unveils-single-chip-automotive-audio-and-radio-processor"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "BYD Wants To Take the World's Fastest Car Record... From Itself",
+        "blurb": "BYDは、自社記録を更新し、世界最速の市販車記録をさらに塗り替えることを目指しています。",
+        "category": "company",
+        "date": "2026-07-22",
+        "stars": 3,
+        "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/802219/volkswagen-ebike-smart-helmet"
+          "url": "https://insideevs.com/news/802361/byd-wants-break-speed-record"
         },
         "field": null
       }
