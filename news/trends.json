@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-22T07:02:15.562588+09:00",
-  "date": "2026-07-22",
+  "generated_at": "2026-07-23T07:02:20.124462+09:00",
+  "date": "2026-07-23",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体の需要拡大",
+      "name": "SiC/GaNパワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,170 +12,166 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiCパワー半導体は、EV、再生可能エネルギー、データセンター向けSSTなどで採用が進み、効率向上と小型化に貢献。製造能力増強も活発化。",
+      "summary": "SiCやGaNを用いた高耐圧・高効率パワー半導体の開発が進み、EV、再生可能エネルギー、データセンター、産業機器への応用が拡大しています。",
       "analysis": {
-        "short_term": "需要増は継続。供給能力増強が追いつくか注視。",
-        "mid_term": "EVシフトとデータセンター需要で安定成長が見込める。",
-        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味あり。"
+        "short_term": "需要増と供給能力増強が続く。",
+        "mid_term": "コスト低減と標準化が進む。",
+        "investment_implications": "関連企業への投資妙味あり。"
       },
       "keywords": [
         "SiC",
+        "GaN",
         "EV",
         "SST",
-        "再生可能エネルギー",
-        "データセンター"
+        "高効率"
       ],
       "companies_mentioned": [
         "Amperesand",
         "WeEn",
-        "Infineon",
-        "Bosch",
-        "Rohm"
+        "Microchip"
       ]
     },
     {
-      "name": "AI向け半導体・技術開発加速",
+      "name": "AI向け半導体需要の急増と設備投資拡大",
       "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "datacenter",
+        "logic",
+        "memory",
+        "equipment",
+        "foundry"
+      ],
+      "summary": "AI、特に生成AIの普及により、高性能AI半導体の需要が爆発的に増加し、TSMCなどのファウンドリや製造装置メーカーへの巨額投資を牽引しています。",
+      "analysis": {
+        "short_term": "供給制約が続く可能性。",
+        "mid_term": "設備投資効果が徐々に現れる。",
+        "investment_implications": "ファウンドリ、AIチップメーカーに注目。"
+      },
+      "keywords": [
+        "AI",
+        "TSMC",
+        "設備投資",
+        "HBM",
+        "データセンター"
+      ],
+      "companies_mentioned": [
+        "TSMC",
+        "NVIDIA",
+        "Qualcomm",
+        "Rapidus"
+      ]
+    },
+    {
+      "name": "チップレット技術と3D-ICの進展",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "memory",
-        "ai",
-        "datacenter",
-        "equipment",
         "frontend",
-        "backend"
+        "backend",
+        "miniaturization",
+        "datacenter"
       ],
-      "summary": "AI推論・学習向けに、高性能・高効率なプロセッサ、メモリ（HBM、3D DRAM）、インターコネクト技術が急速に進化。ハードウェアによる性能制御も。",
+      "summary": "チップレット技術と3D-IC（積層型IC）の採用が進み、高性能化、低消費電力化、小型化を実現。IP活用や設計データ管理も重要になっています。",
       "analysis": {
-        "short_term": "LLM推論向け需要が堅調に推移する見込み。",
-        "mid_term": "AIチップの競争激化と、新アーキテクチャの登場が続く。",
-        "investment_implications": "AI特化型チップ、メモリ、関連装置メーカーに注目。"
+        "short_term": "標準化と相互運用性が課題。",
+        "mid_term": "多様なアプリケーションで採用拡大。",
+        "investment_implications": "パッケージング、EDA関連企業に期待。"
       },
       "keywords": [
-        "AI",
-        "LLM",
-        "HBM",
-        "3D DRAM",
-        "推論アクセラレータ"
+        "チップレット",
+        "3D-IC",
+        "IP",
+        "相互運用性",
+        "積層"
       ],
       "companies_mentioned": [
-        "Princeton University",
         "imec",
         "Samsung",
         "Lam",
-        "NUS",
-        "NVIDIA",
-        "Qualcomm",
-        "TSMC",
-        "Intel",
-        "Buffalo",
-        "Stuttgart",
-        "IBM",
-        "キオクシア"
+        "Rapidus",
+        "Cadence"
       ]
     },
     {
-      "name": "最先端リソグラフィ技術の進化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "frontend",
-        "equipment",
-        "logic",
-        "memory"
-      ],
-      "summary": "高NA/ハイパーNA EUVリソグラフィ技術が進化。3Dマスク効果の活用や、複雑な3D構造への薄膜パターニング技術も開発され、微細化を支える。",
-      "analysis": {
-        "short_term": "Intelによる高NA EUVの量産導入が本格化。",
-        "mid_term": "EUV技術のさらなる高度化と、装置・材料メーカーの連携が重要。",
-        "investment_implications": "EUV露光装置、マスク、関連材料メーカーに恩恵。"
-      },
-      "keywords": [
-        "EUV",
-        "高NA",
-        "リソグラフィ",
-        "微細化",
-        "ASML"
-      ],
-      "companies_mentioned": [
-        "Fraunhofer",
-        "ASML",
-        "KTH Royal",
-        "Intel",
-        "富士フイルム"
-      ]
-    },
-    {
-      "name": "製造装置市場の過去最高更新",
+      "name": "RISC-Vとオープンイノベーションの加速",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "equipment",
-        "foundry",
-        "idm",
-        "wafer"
+        "logic",
+        "ai",
+        "automotive",
+        "industrial",
+        "frontend"
       ],
-      "summary": "2026年の半導体製造装置売上高は過去最高を更新し、2028年にはさらに拡大予測。設備投資はAI需要や先端プロセス開発を背景に堅調。",
+      "summary": "オープンソースISAであるRISC-Vの採用が拡大し、カスタムSoC設計やセキュリティ強化が進んでいます。エコシステム構築が鍵となります。",
       "analysis": {
-        "short_term": "設備投資は引き続き高水準で推移する見込み。",
-        "mid_term": "先端プロセスへの投資競争が激化し、装置メーカーの成長を牽引。",
-        "investment_implications": "主要な製造装置メーカーへの投資は有望。"
+        "short_term": "特定分野での採用が増加。",
+        "mid_term": "エコシステムが成熟し普及加速。",
+        "investment_implications": "RISC-V関連IP、開発ツールに注目。"
       },
       "keywords": [
-        "製造装置",
-        "設備投資",
-        "先端プロセス",
-        "SEMI"
+        "RISC-V",
+        "オープンソース",
+        "カスタムSoC",
+        "セキュリティ"
       ],
       "companies_mentioned": [
-        "SEMI",
-        "TSMC",
-        "Intel",
-        "ラムリサーチ"
+        "Microchip",
+        "Rapidus"
       ]
     },
     {
-      "name": "宇宙・防衛向け半導体の重要性増大",
+      "name": "材料・製造プロセスの革新とDX",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "logic",
-        "automotive",
-        "geopolitics"
+        "frontend",
+        "backend",
+        "equipment",
+        "wafer",
+        "miniaturization"
       ],
-      "summary": "宇宙用電源システム向けに放射線耐性を持つGaNドライバーが登場。高信頼性・高効率な半導体は、宇宙開発や防衛分野での需要が増加傾向。",
+      "summary": "微細化に対応するための新材料開発や、DXを活用した設計・製造プロセスの効率化が進んでいます。製造装置市場も過去最高を更新する見込みです。",
       "analysis": {
-        "short_term": "宇宙関連のプロジェクト増加に伴い、需要は安定。",
-        "mid_term": "技術開発競争が激化し、高付加価値製品が求められる。",
-        "investment_implications": "高信頼性・特殊用途向け半導体メーカーに注目。"
+        "short_term": "新材料・新プロセスの実用化。",
+        "mid_term": "DXによる生産性向上が進む。",
+        "investment_implications": "材料メーカー、装置メーカーに注目。"
       },
       "keywords": [
-        "宇宙",
-        "放射線耐性",
-        "GaN",
-        "防衛"
+        "微細化",
+        "材料",
+        "DX",
+        "製造装置",
+        "EUV"
       ],
       "companies_mentioned": [
-        "Infineon"
+        "富士フイルム",
+        "Intel",
+        "レゾナック",
+        "ラムリサーチ",
+        "ASML"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiCパワー半導体の需要拡大と供給能力増強",
-      "AI向け半導体・装置市場の急成長",
-      "先端リソグラフィ技術への投資活発化",
-      "半導体製造装置市場の過去最高更新予測",
-      "宇宙・防衛分野における高信頼性半導体の需要増"
+      "AI半導体需要の継続的な拡大",
+      "SiC/GaNパワー半導体の採用加速",
+      "半導体製造装置市場の過去最高予測",
+      "チップレット/3D-IC技術の進展"
     ],
-    "bearish": [],
+    "bearish": [
+      "地政学リスクによるサプライチェーンの不確実性",
+      "一部分野における需要の飽和懸念"
+    ],
     "neutral": [
-      "メモリ技術（3D DRAM、HBM）の進化と競争",
-      "インターコネクト技術の重要性増大（NbAsナノワイヤ、グラフ変換器）",
-      "IoTを活用した予兆保全プラットフォームの展開"
+      "RISC-Vエコシステムの成熟度",
+      "メモリ市場のサイクル変動"
     ]
   },
-  "source_count": 49
+  "source_count": 45
 }

@@ -1,31 +1,50 @@
 {
-  "generated_at": "2026-07-22T07:02:09.716848+09:00",
+  "generated_at": "2026-07-23T07:02:15.018019+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Research Bits: July 21",
-    "summary": "薄膜TMDトランジスタ、ダイヤモンド欠陥検出、ロール・ツー・ロールリソグラフィの研究。",
+    "title": "Bringing Design Data Management into the Developer Workflow",
+    "summary": "開発ワークフローに設計データ管理を統合し、EDAデータ管理と開発環境のギャップを埋める。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/research-bits-july-21"
+        "url": "https://semiengineering.com/bringing-design-data-management-into-the-developer-workflow"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "レゾナックのUS-JOINT、imecや大学と連携でパッケージ研究加速",
+        "blurb": "レゾナックは半導体後工程研究でimecやパデュー大学と連携。US-JOINTコンソーシアムでパッケージ技術開発を加速する。",
+        "category": "company",
+        "date": "2026-07-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news072.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
-        "title": "Research Bits: July 21",
-        "blurb": "薄膜TMDトランジスタ、ダイヤモンド欠陥検出、ロール・ツー・ロールリソグラフィの研究。",
+        "title": "Bringing Design Data Management into the Developer Workflow",
+        "blurb": "開発ワークフローに設計データ管理を統合し、EDAデータ管理と開発環境のギャップを埋める。",
         "category": "tools",
-        "date": "2026-07-21",
+        "date": "2026-07-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-july-21"
+          "url": "https://semiengineering.com/bringing-design-data-management-into-the-developer-workflow"
         },
         "field": {
           "primary": "general",
@@ -36,14 +55,14 @@
         }
       },
       {
-        "title": "Graph Transformer Speeds IC Interconnect Signal Integrity Analysis (Buffalo, Stuttgart, IBM)",
-        "blurb": "IBMなどがIC設計における信号品質解析を高速化する新技術「Si-GT」を発表。グラフ変換器を用いた手法で、精度と速度を向上。",
+        "title": "無線チップ不要、「音」でデータを送受信　既存機器に通信機能を追加",
+        "blurb": "スマート・ソリューション・テクノロジーが音波通信技術「TrustSound」を発表。既存機器のスピーカー・マイクで無線チップなしに通信可能。",
         "category": "tools",
-        "date": "2026-07-21",
+        "date": "2026-07-22",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/graph-transformer-speeds-ic-interconnect-signal-integrity-analysis-buffalo-stuttgart-ibm"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news070.html"
         },
         "field": {
           "primary": "general",
@@ -56,14 +75,14 @@
     ],
     "market": [
       {
-        "title": "NbAs Nanowires Show Lower Resistivity as Interconnect Dimensions Shrink (Cornell, NYCU, IBM et al.)",
-        "blurb": "NbAsナノワイヤは、配線寸法縮小に伴い低抵抗化。次世代インターコネクトへの応用が期待される。",
+        "title": "Silicon Starts with Proven IP: eBook",
+        "blurb": "IP戦略はアーキテクチャ決定事項。シリコン実証済みIPはリスク低減、市場投入期間短縮に貢献。",
         "category": "business",
-        "date": "2026-07-21",
+        "date": "2026-07-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/nbas-nanowires-show-lower-resistivity-as-interconnect-dimensions-shrink-cornell-nycu-ibm-et-al"
+          "url": "https://semiengineering.com/silicon-starts-with-proven-ip"
         },
         "field": {
           "primary": "general",
@@ -74,14 +93,14 @@
         }
       },
       {
-        "title": "IoTで現場管理をデジタル化　予兆保全プラットフォーム",
-        "blurb": "NagarroはIoTを活用し、製造現場の予防保全と予兆保全を一括管理できるプラットフォーム「UpKeeper」を発表した。",
+        "title": "Hybrid Microcontrollers Reshape Embedded Computing",
+        "blurb": "ハイブリッドMCUは、複雑な設計で効率を高めるため、最適なオンチップハードウェアブロックにワークロードを割り当て、性能と機能を最適化する。",
         "category": "business",
-        "date": "2026-07-21",
+        "date": "2026-07-23",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news062.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/hybrid-microcontrollers-reshape-embedded-computing"
         },
         "field": {
           "primary": "general",
