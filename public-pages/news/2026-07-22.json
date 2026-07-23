@@ -1,82 +1,46 @@
 {
-  "generated_at": "2026-07-23T07:02:15.014827+09:00",
+  "generated_at": "2026-07-22T07:02:09.712458+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Microchip Introduces Industrial 90 W PoE Midspan",
-    "summary": "マイクロチップ社が産業用90W PoEミッドスパンを発表。工場自動化やIIoT向けにEthernet経由で高電力を供給。",
+    "title": "Inside Amperesand’s SST: A Conversation with CEO Brian Dow",
+    "summary": "AmperesandのCEOがSiCモジュール、熱設計、冗長性、業界標準化について語る。同社のSST設計に迫る。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/microchip-introduces-industrial-90-w-poe-midspan"
+        "url": "https://www.powerelectronicsnews.com/inside-amperesands-sst-a-conversation-with-ceo-brian-dow"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Microchip Introduces Industrial 90 W PoE Midspan",
-        "blurb": "マイクロチップ社が産業用90W PoEミッドスパンを発表。工場自動化やIIoT向けにEthernet経由で高電力を供給。",
+        "title": "Chip Industry Technical Paper Roundup: July 21",
+        "blurb": "半導体業界の技術論文まとめ。LLM推論向けNear-memory HBM、3D DRAMのPIM、SDV抽象化、3nm GAAFET、CMOS-フォトニック集積、量子フォトニックチップ、AI熱モデリングなど。",
         "category": "business",
-        "date": "2026-07-22",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/microchip-introduces-industrial-90-w-poe-midspan"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-21"
         },
         "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Vertical GaN/NiO Superjunction Schottky Diode",
-        "blurb": "窒化ガリウムと酸化ニッケルのヘテロ接合を用いた垂直型超接合ショットキーダイオードが開発され、1100Vの耐圧を達成しました。",
-        "category": "business",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vertical-gan-nio-superjunction-schottky-diode"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
+          "primary": "memory",
+          "device": "memory",
+          "process": "miniaturization",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Blog Review: July 22",
-        "blurb": "AIの物理的セキュリティ、エージェントへのフィードバック、3D-ICセキュリティ、チップレット相互運用性、RFデジタルツインについて解説。",
+        "title": "NbAs Nanowires Show Lower Resistivity as Interconnect Dimensions Shrink (Cornell, NYCU, IBM et al.)",
+        "blurb": "NbAsナノワイヤは、配線寸法縮小に伴い低抵抗化。次世代インターコネクトへの応用が期待される。",
         "category": "business",
-        "date": "2026-07-22",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-july-22-3"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Silicon Starts with Proven IP: eBook",
-        "blurb": "IP戦略はアーキテクチャ決定事項。シリコン実証済みIPはリスク低減、市場投入期間短縮に貢献。",
-        "category": "business",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/silicon-starts-with-proven-ip"
+          "url": "https://semiengineering.com/nbas-nanowires-show-lower-resistivity-as-interconnect-dimensions-shrink-cornell-nycu-ibm-et-al"
         },
         "field": {
           "primary": "general",
@@ -87,68 +51,14 @@
         }
       },
       {
-        "title": "AI半導体の需要急増　TSMCは対応に苦慮か",
-        "blurb": "TSMCはAI半導体の需要増に対応するため、2026年の設備投資を約640億ドルに増額し、米国で追加投資1000億ドルを計画。",
+        "title": "IoTで現場管理をデジタル化　予兆保全プラットフォーム",
+        "blurb": "NagarroはIoTを活用し、製造現場の予防保全と予兆保全を一括管理できるプラットフォーム「UpKeeper」を発表した。",
         "category": "business",
-        "date": "2026-07-22",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news097.html"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Enterprise AI: Reshaping AI processor architectures",
-        "blurb": "エンタープライズAIはGPUの限界を露呈し、リアルタイム・メモリ中心・低遅延推論向けの新プロセッサアーキテクチャを必要としている。",
-        "category": "business",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/enterprise-ai-reshaping-ai-processor-architectures"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Siemens Expands EDA Portfolio with Defacto Technologies Acquisition",
-        "blurb": "シーメンスがEDAソフトウェア企業のDefacto Technologiesを買収。SoC設計自動化技術を強化し、EDAポートフォリオを拡充する。",
-        "category": "business",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/siemens-expands-eda-portfolio-with-defacto-technologies-acquisition"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Hybrid Microcontrollers Reshape Embedded Computing",
-        "blurb": "ハイブリッドMCUは、複雑な設計で効率を高めるため、最適なオンチップハードウェアブロックにワークロードを割り当て、性能と機能を最適化する。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/hybrid-microcontrollers-reshape-embedded-computing"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news062.html"
         },
         "field": {
           "primary": "general",
@@ -157,18 +67,78 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "半導体製造装置売上高、26年は過去最高の1659億米ドルへ",
+        "blurb": "SEMIは、2026年の半導体製造装置売上高が過去最高の1659億ドルに達すると予測。設備投資は5年連続で成長し、2028年には2295億ドル規模になると見込む。",
+        "category": "business",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news034.html"
+        },
+        "field": {
+          "primary": "equipment",
+          "device": null,
+          "process": "equipment",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "自動車は95％の時間は止まっている……「使わない時間」から考える可能性",
+        "blurb": "自動車は95%の時間停止しており、この「使わない時間」の活用が新たな可能性を生む。",
+        "category": "business",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news065.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Partnership Advances Agentic AI for SoC Design",
+        "blurb": "RapidusとCadenceが提携し、AIを活用したSoC設計を加速。設計時間を半減させる見込み。",
+        "category": "business",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/partnership-advances-agentic-ai-for-soc-design"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "EVs Just Hit 25% Market Share In Europe",
+        "blurb": "欧州の電気自動車（EV）市場シェアが25.6%に達し、販売台数は約40%増加しました。",
+        "category": "business",
+        "date": "2026-07-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802351/europe-ev-sales-half-year"
+        },
+        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Bringing Design Data Management into the Developer Workflow",
-        "blurb": "開発ワークフローに設計データ管理を統合し、EDAデータ管理と開発環境のギャップを埋める。",
+        "title": "Research Bits: July 21",
+        "blurb": "薄膜TMDトランジスタ、ダイヤモンド欠陥検出、ロール・ツー・ロールリソグラフィの研究。",
         "category": "tools",
-        "date": "2026-07-22",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/bringing-design-data-management-into-the-developer-workflow"
+          "url": "https://semiengineering.com/research-bits-july-21"
         },
         "field": {
           "primary": "general",
@@ -179,8 +149,74 @@
         }
       },
       {
+        "title": "Graph Transformer Speeds IC Interconnect Signal Integrity Analysis (Buffalo, Stuttgart, IBM)",
+        "blurb": "IBMなどがIC設計における信号品質解析を高速化する新技術「Si-GT」を発表。グラフ変換器を用いた手法で、精度と速度を向上。",
+        "category": "tools",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/graph-transformer-speeds-ic-interconnect-signal-integrity-analysis-buffalo-stuttgart-ibm"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Simple, compact circuit conveniently controls devices and systems",
+        "blurb": "RCデバイス開発者向けに、簡単でコンパクトなPWM回路がデバイスやシステムを便利に制御するテストツールとして紹介されています。",
+        "category": "tools",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/simple-compact-circuit-conveniently-controls-devices-and-systems"
+        },
+        "field": null
+      },
+      {
+        "title": "Pros and Cons of MCU Hardware and Software Peripherals",
+        "blurb": "MCUのコア独立周辺機能(CIP)は、CPU介入なしでタスクを実行するハードウェア回路。利点と欠点を解説。",
+        "category": "tools",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/pros-and-cons-of-mcu-hardware-and-software-peripherals"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Ultralytics Optimizes YOLO26 for Intel OpenVINO",
+        "blurb": "UltralyticsがYOLOv26をIntel OpenVINO向けに最適化。Intelプロセッサ上で高速・低遅延なコンピュータビジョンを実現。",
+        "category": "tools",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/ultralytics-optimizes-yolo26-for-intel-openvino"
+        },
+        "field": {
+          "primary": "idm",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      },
+      {
         "title": "HW-based Methods to Dynamically Throttle AI Performance (Princeton University)",
-        "blurb": "プリンストン大学の研究者は、AIの実行時性能を動的に制限するハードウェア機構を発表しました。",
+        "blurb": "プリンストン大学の研究者が、AI性能を動的に抑制するハードウェア機構を発表。GPUメモリサブシステムのリソースを制御し、性能を制限する。",
         "category": "tools",
         "date": "2026-07-22",
         "stars": 3,
@@ -197,38 +233,8 @@
         }
       },
       {
-        "title": "無線チップ不要、「音」でデータを送受信　既存機器に通信機能を追加",
-        "blurb": "スマート・ソリューション・テクノロジーが音波通信技術「TrustSound」を発表。既存機器のスピーカー・マイクで無線チップなしに通信可能。",
-        "category": "tools",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news070.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Current converter performs purely on paltry phantom power",
-        "blurb": "追加電源不要で4-20mA信号を0-20mAに変換し、接地負荷に供給する電流コンバーター。",
-        "category": "tools",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/current-converter-performs-purely-on-paltry-phantom-power"
-        },
-        "field": null
-      },
-      {
         "title": "Missing sense: Why physical AI can see everything and feel nothing",
-        "blurb": "物理AIは人間のように自信を持って現実世界と対話できるかが将来を左右する。触覚がないため、全てを見ても何も感じない。",
+        "blurb": "物理AIは人間のように自信を持って現実世界と対話できるかが将来を左右する。感覚の欠如が課題。",
         "category": "tools",
         "date": "2026-07-22",
         "stars": 3,
@@ -237,102 +243,48 @@
           "url": "https://www.edn.com/missing-sense-why-physical-ai-can-see-everything-and-feel-nothing"
         },
         "field": null
-      },
-      {
-        "title": "Modos Flow is a 13.3-inch Open-Source 13.3-inch 60Hz E-Paper Monitor",
-        "blurb": "Modos Flowは、読書や開発に適した13.3インチのオープンソース電子ペーパーモニターです。USB-C接続で60Hzに対応し、日々の生産性向上に貢献します。",
-        "category": "tools",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/modos-flow-is-a-13-3-inch-open-source-13-3-inch-60hz-e-paper-monitor"
-        },
-        "field": null
-      },
-      {
-        "title": "Low-power RTC simplifies embedded timekeeping",
-        "blurb": "Mikroe社が超低消費電力のRTCボード「RTC 27 Click」を発表。アラーム、ウォッチドッグ、タイムスタンプ機能を搭載し、組み込み機器の時刻管理を簡素化します。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/low-power-rtc-simplifies-embedded-timekeeping"
-        },
-        "field": null
-      },
-      {
-        "title": "AI assistant optimizes inference pipelines",
-        "blurb": "Axelera AIのAIアシスタント「Voyager Wingman」は、AIアプリ開発を加速する。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-assistant-optimizes-inference-pipelines"
-        },
-        "field": null
-      },
-      {
-        "title": "FPGA SDK enables sparse AI models",
-        "blurb": "マイクロチップ、FPGA向けAI開発SDK新版を発表。スパースニューラルネットワークをサポートし、AI実装を簡素化。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fpga-sdk-enables-sparse-ai-models"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "MIKROE’s RTC 27 Click Brings Nano-Power Timekeeping to Embedded Designs",
-        "blurb": "MIKROEがNXPのRTCチップ搭載の「RTC 27 Click」を発表。低消費電力でリアルタイムクロック機能を提供。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/mikroes-rtc-27-click-brings-nano-power-timekeeping-to-embedded-designs"
-        },
-        "field": null
       }
     ],
     "company": [
       {
-        "title": "Enabling Comprehensive CWE-based Assurance for RISC-V Processors",
-        "blurb": "RISC-VプロセッサIP向けに、CWEベースの包括的なセキュリティ保証手法を開発。サードパーティIPの脆弱性対策を強化。",
+        "title": "Inside Amperesand’s SST: A Conversation with CEO Brian Dow",
+        "blurb": "AmperesandのCEOがSiCモジュール、熱設計、冗長性、業界標準化について語る。同社のSST設計に迫る。",
         "category": "company",
-        "date": "2026-07-22",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enabling-comprehensive-cwe-based-assurance-for-risc-v-processors"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/inside-amperesands-sst-a-conversation-with-ceo-brian-dow"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "From Highways To Health Care: Portability Proves Key To Physical AI",
-        "blurb": "エッジAIの成功には、リソグラフィ、イメージング、チップレット、AIといった共通技術の活用が鍵。ヘルスケア分野でも物理AIのポータビリティが重要。",
+        "title": "Texas Instruments Brings Cell-Level Intelligence to Battery Monitoring",
+        "blurb": "テキサス・インスツルメンツ、セルレベルの知能をバッテリー監視に導入。BQ79826Z-Q1はEISを統合し、早期のセル変化検出と高電圧パックの診断を可能に。",
         "category": "company",
-        "date": "2026-07-22",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/texas-instruments-brings-cell-level-intelligence-to-battery-monitoring"
+        },
+        "field": null
+      },
+      {
+        "title": "3D Mask Effects Enhance Imaging in High-NA EUV and Hyper-NA EUV Litho (Fraunhofer, ASML)",
+        "blurb": "フラウンホーファーとASMLは、高NA/ハイパーNA EUVリソグラフィにおける3Dマスク効果の利点に関する論文を発表しました。",
+        "category": "company",
+        "date": "2026-07-21",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-highways-to-health-care-portability-proves-key-to-physical-ai"
+          "url": "https://semiengineering.com/3d-mask-effects-enhance-imaging-in-high-na-euv-and-hyper-na-euv-litho-fraunhofer-asml"
         },
         "field": {
           "primary": "frontend",
@@ -340,6 +292,108 @@
           "process": "frontend",
           "market": null,
           "industry": null
+        }
+      },
+      {
+        "title": "Inference Accelerator that Integrates Compute-in-Interconnect and Memory to Mitigate the Memory Wall (NUS)",
+        "blurb": "シンガポール国立大学が、メモリの壁を克服する推論アクセラレータ「CIMERA」を発表。計算とメモリを統合し、LLM推論を高速化。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/inference-accelerator-that-integrates-compute-in-interconnect-and-memory-to-mitigate-the-memory-wall-nus"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Litho Patterning of Conformal Thin-Film Coatings on Complex 3D Structures (KTH Royal)",
+        "blurb": "KTH王立工科大学の研究者らが、複雑な3D構造上に薄膜をパターン化する新手法を発表。リフトオフマスク技術を活用し、微細な回路形成に貢献。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/3d-scaffold-masks-pattern-conformal-thin-films-down-to-27-nm"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「国産AIスタック」を持たないカナダ、ソブリンAIをどう構築するのか",
+        "blurb": "カナダはAI人材・研究基盤を持つが、国産AIスタック構築には戦略的パートナーとの連携と迅速なインフラ整備が不可欠。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news054.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "1つの2次元結晶ナノ構造で2つの光機能を実現、岡山大ら",
+        "blurb": "岡山大らは、2次元結晶ナノ構造で光を集める・ためる機能を両立し、偏光で切り替え可能にした。応用が期待される。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news033.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Siemens EDA acquires SoC toolmaker Precision Innovations",
+        "blurb": "シーメンスEDAがAI駆動のSoC設計ツール開発企業Precision Innovationsを買収。設計チームへのAI活用拡大を目指す。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/siemens-eda-acquires-soc-toolmaker-precision-innovations"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Avalue EPC-WCL Fanless Edge AI System Packs Wildcat Lake SoC",
+        "blurb": "Avalueが、産業用エッジAI向けにIntel Core 3 (Wildcat Lake)搭載のファンレスシステム「EPC-WCL」を発表。",
+        "category": "company",
+        "date": "2026-07-21",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/avalue-epc-wcl-fanless-edge-ai-system-packs-wildcat-lake-soc"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": "idm"
         }
       },
       {
@@ -361,56 +415,8 @@
         }
       },
       {
-        "title": "レゾナックのUS-JOINT、imecや大学と連携でパッケージ研究加速",
-        "blurb": "レゾナックは半導体後工程研究でimecやパデュー大学と連携。US-JOINTコンソーシアムでパッケージ技術開発を加速する。",
-        "category": "company",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news072.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "日本政府の科学技術・イノベーション政策",
-        "blurb": "日本政府は2026年度版実装技術ロードマップで、科学技術・イノベーション政策を推進。注目市場と電子機器群の動向を分析。",
-        "category": "company",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news034.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Rapidusとケイデンス、エージェントAI活用の先端SoC設計で協業",
-        "blurb": "Rapidusとケイデンスは、エージェントAIで先端SoC設計を協業。設計ツール統合で、Rapidusは設計TATを最大2倍改善目指す。",
-        "category": "company",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news029.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "NXP Unveils Single-Chip Automotive Audio and Radio Processor",
-        "blurb": "NXPが、アナログラジオとAI音声処理を統合した車載向け単一チッププロセッサ「SAF9800」を発表。車載インフォテインメントシステムの簡素化を目指す。",
+        "blurb": "NXPがAI/ML対応の車載オーディオ・ラジオプロセッサ「SAF9800」を発表。車載インフォテインメントシステムの簡素化に貢献。",
         "category": "company",
         "date": "2026-07-22",
         "stars": 3,
@@ -427,32 +433,14 @@
         }
       },
       {
-        "title": "Rapidus, Cadence partner on agentic SoC AI",
-        "blurb": "RapidusとCadenceが協業し、高度なSoC設計向けエージェンティックAI開発を加速。設計期間短縮を目指す。",
+        "title": "BYD Wants To Take the World's Fastest Car Record... From Itself",
+        "blurb": "BYDは、自社記録を更新し、世界最速の市販車記録をさらに塗り替えることを目指しています。",
         "category": "company",
-        "date": "2026-07-23",
+        "date": "2026-07-22",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rapidus-cadence-partner-on-agentic-soc-ai"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "Fan driver delivers smooth motor control",
-        "blurb": "Melexisが新型ファン制御ICを発表。高出力ファン向けに滑らかなモーター制御を実現。",
-        "category": "company",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fan-driver-delivers-smooth-motor-control"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802361/byd-wants-break-speed-record"
         },
         "field": null
       }

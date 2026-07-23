@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-18T06:51:03.458888+09:00",
+  "generated_at": "2026-07-24T07:02:10.713573+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Allegro’s A81415 Merges Safety, Power, and Wheel-Speed Sensing",
-    "summary": "Allegro社の新IC「A81415」は、安全、電力、車輪速検知を統合し、部品点数と基板スペースを削減。ブレーキバイワイヤ用途に最適。",
+    "title": "Power Corner: Geir Kjosavik on Nordic Semiconductor’s PMIC Business",
+    "summary": "ノルディック・セミコンダクターのKjosavik氏が、PMIC戦略、燃料計の革新、180nmプロセスについて解説。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/allegros-a81415-merges-safety-power-and-wheel-speed-sensing"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/power-corner-geir-kjosavik-on-nordic-semiconductors-pmic-business"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Allegro’s A81415 Merges Safety, Power, and Wheel-Speed Sensing",
-        "blurb": "Allegro社の新IC「A81415」は、安全、電力、車輪速検知を統合し、部品点数と基板スペースを削減。ブレーキバイワイヤ用途に最適。",
+        "title": "三菱電機とソニー、AIビジョンセンサーで新会社設立へ",
+        "blurb": "三菱電機とソニーが製造業向けAIビジョンセンサーの新会社「Advanced Vision Solutions」を設立。2026年10月事業開始。",
         "category": "company",
-        "date": "2026-07-17",
+        "date": "2026-07-23",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/allegros-a81415-merges-safety-power-and-wheel-speed-sensing"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news079.html"
         },
         "field": {
           "primary": "analog",
@@ -35,7 +35,45 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "From Future Vision To Running Hardware: Verification At DAC 2026",
+        "blurb": "DAC 2026では、検証技術の将来像から、それを実現するエミュレーション・プロトタイピングハードウェアへと焦点が移る。",
+        "category": "tools",
+        "date": "2026-07-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-future-vision-to-running-hardware-verification-at-dac-2026"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Power Corner: Geir Kjosavik on Nordic Semiconductor’s PMIC Business",
+        "blurb": "ノルディック・セミコンダクターのKjosavik氏が、PMIC戦略、燃料計の革新、180nmプロセスについて解説。",
+        "category": "business",
+        "date": "2026-07-23",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-geir-kjosavik-on-nordic-semiconductors-pmic-business"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

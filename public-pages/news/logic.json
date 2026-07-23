@@ -1,75 +1,21 @@
 {
-  "generated_at": "2026-07-23T07:02:15.016590+09:00",
+  "generated_at": "2026-07-24T07:02:10.713203+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Enabling Comprehensive CWE-based Assurance for RISC-V Processors",
-    "summary": "RISC-VプロセッサIP向けに、CWEベースの包括的なセキュリティ保証手法を開発。サードパーティIPの脆弱性対策を強化。",
+    "title": "Avoid The Hidden Bottleneck Of Integration At Scale",
+    "summary": "大規模なSoC統合における隠れたボトルネックを回避するには、接続の自動化と単一の真実の源の確立が設計品質向上と迅速化に役立つ。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/enabling-comprehensive-cwe-based-assurance-for-risc-v-processors"
+        "url": "https://semiengineering.com/avoid-the-hidden-bottleneck-of-integration-at-scale"
       }
     ]
   },
   "sections": {
     "news": [
-      {
-        "title": "Enabling Comprehensive CWE-based Assurance for RISC-V Processors",
-        "blurb": "RISC-VプロセッサIP向けに、CWEベースの包括的なセキュリティ保証手法を開発。サードパーティIPの脆弱性対策を強化。",
-        "category": "company",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enabling-comprehensive-cwe-based-assurance-for-risc-v-processors"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Rapidusとケイデンス、エージェントAI活用の先端SoC設計で協業",
-        "blurb": "Rapidusとケイデンスは、エージェントAIで先端SoC設計を協業。設計ツール統合で、Rapidusは設計TATを最大2倍改善目指す。",
-        "category": "company",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news029.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "NXP Unveils Single-Chip Automotive Audio and Radio Processor",
-        "blurb": "NXPが、アナログラジオとAI音声処理を統合した車載向け単一チッププロセッサ「SAF9800」を発表。車載インフォテインメントシステムの簡素化を目指す。",
-        "category": "company",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/nxp-unveils-single-chip-automotive-audio-and-radio-processor"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
       {
         "title": "Rapidus, Cadence partner on agentic SoC AI",
         "blurb": "RapidusとCadenceが協業し、高度なSoC設計向けエージェンティックAI開発を加速。設計期間短縮を目指す。",
@@ -91,24 +37,6 @@
     ],
     "tech": [
       {
-        "title": "HW-based Methods to Dynamically Throttle AI Performance (Princeton University)",
-        "blurb": "プリンストン大学の研究者は、AIの実行時性能を動的に制限するハードウェア機構を発表しました。",
-        "category": "tools",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hw-based-methods-to-dynamically-throttle-ai-performance-princeton-university"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "FPGA SDK enables sparse AI models",
         "blurb": "マイクロチップ、FPGA向けAI開発SDK新版を発表。スパースニューラルネットワークをサポートし、AI実装を簡素化。",
         "category": "tools",
@@ -129,32 +57,14 @@
     ],
     "market": [
       {
-        "title": "Enterprise AI: Reshaping AI processor architectures",
-        "blurb": "エンタープライズAIはGPUの限界を露呈し、リアルタイム・メモリ中心・低遅延推論向けの新プロセッサアーキテクチャを必要としている。",
+        "title": "Avoid The Hidden Bottleneck Of Integration At Scale",
+        "blurb": "大規模なSoC統合における隠れたボトルネックを回避するには、接続の自動化と単一の真実の源の確立が設計品質向上と迅速化に役立つ。",
         "category": "business",
-        "date": "2026-07-22",
+        "date": "2026-07-23",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/enterprise-ai-reshaping-ai-processor-architectures"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Siemens Expands EDA Portfolio with Defacto Technologies Acquisition",
-        "blurb": "シーメンスがEDAソフトウェア企業のDefacto Technologiesを買収。SoC設計自動化技術を強化し、EDAポートフォリオを拡充する。",
-        "category": "business",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/siemens-expands-eda-portfolio-with-defacto-technologies-acquisition"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/avoid-the-hidden-bottleneck-of-integration-at-scale"
         },
         "field": {
           "primary": "logic",

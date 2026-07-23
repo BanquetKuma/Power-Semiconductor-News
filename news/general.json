@@ -1,50 +1,31 @@
 {
-  "generated_at": "2026-07-23T07:02:15.018019+09:00",
+  "generated_at": "2026-07-24T07:02:10.715417+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Bringing Design Data Management into the Developer Workflow",
-    "summary": "開発ワークフローに設計データ管理を統合し、EDAデータ管理と開発環境のギャップを埋める。",
+    "title": "Untangling Chip Traffic Jams",
+    "summary": "チップレット間の通信渋滞解消には、早期の整合性、混雑、熱、障害挙動の検証が必要。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/bringing-design-data-management-into-the-developer-workflow"
+        "url": "https://semiengineering.com/untangling-chip-traffic-jams"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "レゾナックのUS-JOINT、imecや大学と連携でパッケージ研究加速",
-        "blurb": "レゾナックは半導体後工程研究でimecやパデュー大学と連携。US-JOINTコンソーシアムでパッケージ技術開発を加速する。",
-        "category": "company",
-        "date": "2026-07-22",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news072.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "Bringing Design Data Management into the Developer Workflow",
-        "blurb": "開発ワークフローに設計データ管理を統合し、EDAデータ管理と開発環境のギャップを埋める。",
+        "title": "Designing Electro-Optical Chips",
+        "blurb": "フォトニクスはEDAに、チップだけでなく、電気光学システム内の光の物理学の検証を求めている。",
         "category": "tools",
-        "date": "2026-07-22",
+        "date": "2026-07-23",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/bringing-design-data-management-into-the-developer-workflow"
+          "url": "https://semiengineering.com/designing-electro-optical-chips"
         },
         "field": {
           "primary": "general",
@@ -55,14 +36,50 @@
         }
       },
       {
-        "title": "無線チップ不要、「音」でデータを送受信　既存機器に通信機能を追加",
-        "blurb": "スマート・ソリューション・テクノロジーが音波通信技術「TrustSound」を発表。既存機器のスピーカー・マイクで無線チップなしに通信可能。",
+        "title": "Why Chip Engineers Should Care About AI-Created Behavioral Models",
+        "blurb": "AIがチップ設計の行動モデル作成を自動化し、エンジニアの負担を軽減。人間は最終確認に集中可能。",
         "category": "tools",
-        "date": "2026-07-22",
+        "date": "2026-07-23",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/22/news070.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/why-chip-engineers-should-care-about-ai-created-behavioral-models"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Enhancing System Observability",
+        "blurb": "リアルタイム電圧テレメトリと機能監視を統合し、システム可観測性を向上させる。",
+        "category": "tools",
+        "date": "2026-07-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/enhancing-system-observability"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The End Of Physics Silos In Engineering AI",
+        "blurb": "AIによる工学分野の物理的挙動の断片的な理解は限界に。高度化するシステムに対応するため、分野横断的なAI統合が不可欠となる。",
+        "category": "tools",
+        "date": "2026-07-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-end-of-physics-silos-in-engineering-ai"
         },
         "field": {
           "primary": "general",
@@ -75,14 +92,68 @@
     ],
     "market": [
       {
-        "title": "Silicon Starts with Proven IP: eBook",
-        "blurb": "IP戦略はアーキテクチャ決定事項。シリコン実証済みIPはリスク低減、市場投入期間短縮に貢献。",
+        "title": "Untangling Chip Traffic Jams",
+        "blurb": "チップレット間の通信渋滞解消には、早期の整合性、混雑、熱、障害挙動の検証が必要。",
         "category": "business",
-        "date": "2026-07-22",
+        "date": "2026-07-23",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/silicon-starts-with-proven-ip"
+          "url": "https://semiengineering.com/untangling-chip-traffic-jams"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip Policy: The UK Vs. The US Vs. EU Vs. India",
+        "blurb": "半導体政策は、英米EU印で異なり、全企業に影響。",
+        "category": "business",
+        "date": "2026-07-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-policy-the-uk-vs-the-us-vs-eu-vs-india"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The Impact Of AI Automation On Chip Design",
+        "blurb": "AI自動化は半導体設計に影響を与えるが、データ利用可能性とメーカーの信頼度次第で導入速度は変わる。",
+        "category": "business",
+        "date": "2026-07-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/the-impact-of-ai-automation-on-chip-design"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "2026年3月期通期 国内半導体商社 業績まとめ",
+        "blurb": "2026年3月期、国内半導体商社18社のうち8社が増収増益。全体的に厳しい状況が続く。",
+        "category": "business",
+        "date": "2026-07-23",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news051.html"
         },
         "field": {
           "primary": "general",
