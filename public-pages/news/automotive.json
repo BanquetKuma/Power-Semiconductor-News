@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-07-24T07:02:10.714480+09:00",
+  "generated_at": "2026-07-25T07:03:03.643288+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "I Think The Hyundai Ioniq 9 Is The Best Three-Row EV Value. But That Might Not Be Enough",
-    "summary": "ヒュンダイの新型EV「アイオニック9」は、3列シートで最高の価値を持つ可能性があるが、それだけでは十分ではないかもしれない。",
+    "title": "Why 4D imaging radar is critical to AV commercialization",
+    "summary": "自動運転車の普及には4Dイメージングレーダーが不可欠。市場は今後10年で急成長の見込み。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/reviews/802603/hyundai-ioniq-9-ev-review-2026"
+        "name": "edn.com",
+        "url": "https://www.edn.com/why-4d-imaging-radar-is-critical-to-av-commercialization"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "I Think The Hyundai Ioniq 9 Is The Best Three-Row EV Value. But That Might Not Be Enough",
-        "blurb": "ヒュンダイの新型EV「アイオニック9」は、3列シートで最高の価値を持つ可能性があるが、それだけでは十分ではないかもしれない。",
+        "title": "Aurora's New Autonomous Truck Hardware Is Designed To Last One Million Miles",
+        "blurb": "Aurora社、自動運転トラック向け新ハードウェア「Aurora Driver 2」を発表。耐久性100万マイル、コスト半減を目指す。",
         "category": "company",
         "date": "2026-07-24",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/802603/hyundai-ioniq-9-ev-review-2026"
+          "url": "https://insideevs.com/news/802649/aurora-driver-2-autonomous-truck"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Why 4D imaging radar is critical to AV commercialization",
+        "blurb": "自動運転車の普及には4Dイメージングレーダーが不可欠。市場は今後10年で急成長の見込み。",
+        "category": "company",
+        "date": "2026-07-25",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/why-4d-imaging-radar-is-critical-to-av-commercialization"
         },
         "field": {
           "primary": "automotive",
@@ -36,6 +54,43 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "The Used EV Market Just Got Weirder",
+        "blurb": "中古EV市場が奇妙な展開。ホンダ・プロローグの生産終了、シボレー・ブレイザーEVの話題。",
+        "category": "business",
+        "date": "2026-07-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/802702/used-ev-honda-prologue-podcast"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Massachusetts EV Owners Will Earn Money By Selling Battery Power",
+        "blurb": "マサチューセッツ州、EVのバッテリー電力を売却する実証実験を開始。AIデータセンターによる電力負荷増大への対応。",
+        "category": "business",
+        "date": "2026-07-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802693/massachusetts-ev-owners-v2g-pilot-program"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }

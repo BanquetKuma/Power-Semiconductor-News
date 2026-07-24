@@ -1,172 +1,171 @@
 {
-  "generated_at": "2026-07-24T07:02:16.633048+09:00",
-  "date": "2026-07-24",
+  "generated_at": "2026-07-25T07:03:08.064656+09:00",
+  "date": "2026-07-25",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化",
+      "name": "AI向け高性能半導体需要の拡大",
       "confidence": 0.95,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "datacenter",
+        "logic",
+        "memory",
+        "equipment",
+        "frontend",
+        "backend"
+      ],
+      "summary": "AIアクセラレーター、推論チップ、EUV露光装置への投資が急増。TSMC、ASMLの増産計画が顕著。",
+      "analysis": {
+        "short_term": "需要逼迫、供給制約が継続する可能性。",
+        "mid_term": "設備投資拡大が供給能力を向上させる見込み。",
+        "investment_implications": "AI関連企業、製造装置メーカーに注目。"
+      },
+      "keywords": [
+        "AI",
+        "EUV",
+        "TSMC",
+        "ASML",
+        "推論チップ"
+      ],
+      "companies_mentioned": [
+        "TSMC",
+        "ASML",
+        "AMD",
+        "NVIDIA"
+      ]
+    },
+    {
+      "name": "パワー半導体（SiC/GaN）の普及加速",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "industrial",
+        "frontend"
       ],
-      "summary": "GaNやSiCを用いた高効率・高耐圧パワー半導体の開発が加速。EV、データセンター、産業機器での採用拡大が見込まれる。",
+      "summary": "SiC、GaNデバイスの技術開発と採用が進展。EV、産業機器、再生可能エネルギー分野での需要増。",
       "analysis": {
-        "short_term": "SiC/GaN製品のラインナップ拡充と性能向上が進む。",
-        "mid_term": "車載、データセンター向け需要が本格化し、市場が拡大。",
-        "investment_implications": "関連材料・製造装置メーカーにも恩恵。"
+        "short_term": "新技術開発と量産化への動きが活発化。",
+        "mid_term": "コスト低下と性能向上により、採用がさらに拡大。",
+        "investment_implications": "SiC/GaN材料・デバイスメーカーに投資妙味。"
       },
       "keywords": [
-        "GaN",
         "SiC",
+        "GaN",
         "EV",
-        "SST",
-        "PMIC"
+        "パワー半導体"
       ],
       "companies_mentioned": [
-        "Nordic Semiconductor",
-        "Microchip",
         "Amperesand",
-        "WeEn",
-        "三菱電機",
-        "ソニー",
-        "ラ​​ムリサーチ"
+        "Nordic Semiconductor",
+        "Microchip"
       ]
     },
     {
-      "name": "AIによる半導体設計・検証の変革",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "analog",
-        "frontend",
-        "backend",
-        "equipment"
-      ],
-      "summary": "AIが設計自動化、検証、行動モデル生成を支援し、開発効率と品質を向上。複雑化するチップ設計に対応。",
-      "analysis": {
-        "short_term": "AI活用設計ツールの導入が進み、開発期間短縮に貢献。",
-        "mid_term": "AIによる最適化がチップ性能をさらに引き上げ、新アーキテクチャを促進。",
-        "investment_implications": "AI設計ツール、EDAベンダーに注目。"
-      },
-      "keywords": [
-        "AI",
-        "EDA",
-        "設計自動化",
-        "検証",
-        "行動モデル"
-      ],
-      "companies_mentioned": [
-        "Rapidus",
-        "ケイデンス",
-        "NVIDIA",
-        "富士通"
-      ]
-    },
-    {
-      "name": "チップレット・3D-ICの普及加速",
-      "confidence": 0.88,
+      "name": "チップレット・3D-IC技術の進化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
         "miniaturization",
+        "ai",
         "datacenter"
       ],
-      "summary": "チップレット技術と3D-IC実装が、高性能化と省スペース化を実現。データセンターや高性能コンピューティングで重要度増。",
+      "summary": "チップレットインターフェース、3D-ICの設計・検証技術が重要視。高性能化と省電力化に貢献。",
       "analysis": {
-        "short_term": "インターフェース標準化と設計ツール連携が進展。",
-        "mid_term": "3D-ICの歩留まり向上とコスト低減が進み、普及が加速。",
-        "investment_implications": "先端パッケージング技術関連企業に期待。"
+        "short_term": "設計・検証ツールの高度化が求められる。",
+        "mid_term": "3D-ICの量産技術確立が普及の鍵となる。",
+        "investment_implications": "先端パッケージング技術を持つ企業に注目。"
       },
       "keywords": [
         "チップレット",
         "3D-IC",
         "パッケージング",
-        "インターフェース"
+        "EDA"
       ],
       "companies_mentioned": [
-        "レゾナック",
+        "Rapidus",
+        "Cadence",
         "imec",
-        "パデュー大学"
+        "レゾナック"
       ]
     },
     {
-      "name": "産業・IoT分野での半導体活用拡大",
-      "confidence": 0.85,
+      "name": "AIによる設計自動化の進展",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "industrial",
-        "iot",
-        "automotive",
         "logic",
-        "analog"
+        "frontend",
+        "ai",
+        "equipment"
       ],
-      "summary": "工場自動化、IIoT、予兆保全などで高機能・高信頼性半導体の需要が増加。PoEミッドスパンなどが活用。",
+      "summary": "AIがチップ設計プロセスを自動化し、設計者の負担を軽減。設計期間短縮と品質向上に寄与。",
       "analysis": {
-        "short_term": "産業用SoC、センサー類の採用が堅調に推移。",
-        "mid_term": "スマートファクトリー化の進展で、関連半導体需要が拡大。",
-        "investment_implications": "産業用半導体メーカーの成長に期待。"
+        "short_term": "AIモデルの精度と信頼性が導入の鍵。",
+        "mid_term": "設計自動化が半導体開発の標準となる可能性。",
+        "investment_implications": "AI設計ツールベンダーや、AI活用を進める企業。"
       },
       "keywords": [
-        "産業用",
-        "IoT",
-        "IIoT",
-        "工場自動化",
-        "PoE"
+        "AI",
+        "設計自動化",
+        "行動モデル",
+        "SoC"
       ],
       "companies_mentioned": [
-        "Microchip",
-        "Nagarro"
+        "NVIDIA",
+        "Rapidus",
+        "Cadence"
       ]
     },
     {
-      "name": "地政学リスクと半導体政策の重要性",
-      "confidence": 0.8,
-      "momentum": "stable",
+      "name": "フォトニクス・量子コンピューティング研究",
+      "confidence": 0.75,
+      "momentum": "rising",
       "related_fields": [
-        "geopolitics",
-        "foundry",
-        "idm",
-        "fabless"
+        "logic",
+        "frontend",
+        "ai",
+        "geopolitics"
       ],
-      "summary": "各国政府による半導体サプライチェーン強化策が進む。政策動向が投資環境や企業戦略に影響。",
+      "summary": "電気光学チップ、量子コンピュータの研究開発が活発化。次世代コンピューティングの基盤技術。",
       "analysis": {
-        "short_term": "各国政策の動向を注視する必要がある。",
-        "mid_term": "サプライチェーンの再編が進み、地域分散化が進む可能性。",
-        "investment_implications": "政策支援策の恩恵を受ける企業に注目。"
+        "short_term": "基礎研究段階だが、将来的な成長ポテンシャル大。",
+        "mid_term": "実用化に向けた技術的課題の克服が重要。",
+        "investment_implications": "長期的な視点で、先端技術研究開発企業に注目。"
       },
       "keywords": [
-        "半導体政策",
-        "サプライチェーン",
-        "地政学リスク",
-        "米国",
-        "EU",
-        "インド"
+        "フォトニクス",
+        "量子コンピュータ",
+        "EDA",
+        "シリコン"
       ],
       "companies_mentioned": [
-        "TSMC",
-        "Rapidus"
+        "日立",
+        "インテル",
+        "産総研",
+        "富士通"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI半導体需要の急増とTSMCの設備投資拡大",
-      "半導体製造装置売上高の過去最高予測",
-      "次世代パワー半導体（SiC/GaN）の技術進化と市場拡大"
+      "AI関連半導体・装置への旺盛な需要",
+      "パワー半導体（SiC/GaN）の採用拡大",
+      "半導体製造装置市場の過去最高予測",
+      "先端パッケージング技術への投資増加"
     ],
     "bearish": [
-      "国内半導体商社の業績が厳しい状況"
+      "一部半導体商社の業績低迷",
+      "SiC工場の閉鎖（特定企業）"
     ],
     "neutral": [
-      "チップレット・3D-ICの設計・検証における課題",
-      "音波通信など、無線チップに依存しない通信技術の登場"
+      "半導体政策の国家間での差異",
+      "AIによる設計自動化の導入速度はデータと信頼性に依存"
     ]
   },
-  "source_count": 47
+  "source_count": 48
 }

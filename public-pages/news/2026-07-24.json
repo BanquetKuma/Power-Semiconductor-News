@@ -1,216 +1,144 @@
 {
-  "generated_at": "2026-07-24T07:02:10.711255+09:00",
+  "generated_at": "2026-07-25T07:03:03.640309+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Corner: Geir Kjosavik on Nordic Semiconductor’s PMIC Business",
-    "summary": "ノルディック・セミコンダクターのKjosavik氏が、PMIC戦略、燃料計の革新、180nmプロセスについて解説。",
+    "title": "An Overview of Back-End-of-Line (BEOL) Integrated Magnetics",
+    "summary": "AIアクセラレーター向けオンチップ電圧調整を実現するBEOL統合磁気デバイス。CMOSウェーハに薄膜インダクタを埋め込む技術。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-corner-geir-kjosavik-on-nordic-semiconductors-pmic-business"
+        "url": "https://www.powerelectronicsnews.com/an-overview-of-back-end-of-line-beol-integrated-magnetics"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Power Corner: Geir Kjosavik on Nordic Semiconductor’s PMIC Business",
-        "blurb": "ノルディック・セミコンダクターのKjosavik氏が、PMIC戦略、燃料計の革新、180nmプロセスについて解説。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-geir-kjosavik-on-nordic-semiconductors-pmic-business"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Untangling Chip Traffic Jams",
-        "blurb": "チップレット間の通信渋滞解消には、早期の整合性、混雑、熱、障害挙動の検証が必要。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/untangling-chip-traffic-jams"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Policy: The UK Vs. The US Vs. EU Vs. India",
-        "blurb": "半導体政策は、英米EU印で異なり、全企業に影響。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-policy-the-uk-vs-the-us-vs-eu-vs-india"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Realizing The Future Of 3D-IC: Final Scenario And Sign-off",
-        "blurb": "3D-ICの未来実現には、チップレットインターフェースの経路計画、最適化、予測分析がPPAC目標達成に不可欠である。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/realizing-the-future-of-3d-ic-final-scenario-and-sign-off"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Avoid The Hidden Bottleneck Of Integration At Scale",
-        "blurb": "大規模なSoC統合における隠れたボトルネックを回避するには、接続の自動化と単一の真実の源の確立が設計品質向上と迅速化に役立つ。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/avoid-the-hidden-bottleneck-of-integration-at-scale"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The Impact Of AI Automation On Chip Design",
-        "blurb": "AI自動化は半導体設計に影響を与えるが、データ利用可能性とメーカーの信頼度次第で導入速度は変わる。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-impact-of-ai-automation-on-chip-design"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "2026年3月期通期 国内半導体商社 業績まとめ",
-        "blurb": "2026年3月期、国内半導体商社18社のうち8社が増収増益。全体的に厳しい状況が続く。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news051.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「メモリはまだまだ足りない」　NASDAQ上場のSK、旺盛な投資意欲",
-        "blurb": "SK hynixがNASDAQ上場。メモリメーカー大手は生産能力拡大へ大規模投資を発表。AIバブル懸念を一蹴。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news052.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Hybrid Microcontrollers Reshape Embedded Computing",
-        "blurb": "ハイブリッドMCUは、複雑な設計で効率を高めるため、最適なオンチップハードウェアブロックにワークロードを割り当て、性能と機能を最適化する。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/hybrid-microcontrollers-reshape-embedded-computing"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "A Bill Taking Aim At Chinese Cars In America Just Advanced In The Senate. It Could Hit Mercedes Too",
-        "blurb": "中国資本の比率が高い自動車メーカーを米国で禁止する法案が上院を通過。メルセデス・ベンツも影響を受ける可能性。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の週次レビュー。Amkorの買収、Intel Foundryの増収、Siemensの買収、SiC工場の閉鎖、AMDの動向、TSMCの値上げ、Nokiaの工場買収、決算、推論加速への投資、Keysightの新技術など。",
         "category": "business",
         "date": "2026-07-24",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/802474/senate-bill-chinese-car-crackdown"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "Designing Electro-Optical Chips",
-        "blurb": "フォトニクスはEDAに、チップだけでなく、電気光学システム内の光の物理学の検証を求めている。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/designing-electro-optical-chips"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-148"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "日本を資源大国へ　埋蔵量だけじゃない、南鳥島レアアース泥の価値",
+        "blurb": "南鳥島沖のレアアース泥は、中国を凌ぐ資源量を持つ可能性があり、日本の資源大国化に期待がかかる。",
+        "category": "business",
+        "date": "2026-07-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/24/news079.html"
+        },
+        "field": null
+      },
+      {
+        "title": "ASML、EUV露光装置の生産能力を27年と28年に30％増強",
+        "blurb": "ASMLはAI需要増に対応し、2027年にEUV・液浸露光装置の生産能力を30%増強する。通期売上高見通しも引き上げた。",
+        "category": "business",
+        "date": "2026-07-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/24/news064.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "frontend",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "From Future Vision To Running Hardware: Verification At DAC 2026",
-        "blurb": "DAC 2026では、検証技術の将来像から、それを実現するエミュレーション・プロトタイピングハードウェアへと焦点が移る。",
-        "category": "tools",
-        "date": "2026-07-23",
+        "title": "EMASS, Bosch Sensortec Collaborate on Asset Tracking Platform",
+        "blurb": "EMASSとBosch Sensortecが、低消費電力でエッジAIを活用した資産追跡プラットフォームの共同開発を発表。データ分析をローカルで行い、必要な情報のみ送信する。",
+        "category": "business",
+        "date": "2026-07-24",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-future-vision-to-running-hardware-verification-at-dac-2026"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/emass-bosch-sensortec-collaborate-on-asset-tracking-platform"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Bourns Expands Shielded Power Inductor Line for Automotive DC-DC Designs",
+        "blurb": "Bournsは、車載DC-DC設計向けに、EMIを抑制するシールド付きパワーインダクタの新シリーズを発表しました。",
+        "category": "business",
+        "date": "2026-07-24",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/bourns-expands-shielded-power-inductor-line-for-automotive-dc-dc-designs"
+        },
+        "field": null
+      },
+      {
+        "title": "The Used EV Market Just Got Weirder",
+        "blurb": "中古EV市場が奇妙な展開。ホンダ・プロローグの生産終了、シボレー・ブレイザーEVの話題。",
+        "category": "business",
+        "date": "2026-07-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/802702/used-ev-honda-prologue-podcast"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Massachusetts EV Owners Will Earn Money By Selling Battery Power",
+        "blurb": "マサチューセッツ州、EVのバッテリー電力を売却する実証実験を開始。AIデータセンターによる電力負荷増大への対応。",
+        "category": "business",
+        "date": "2026-07-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802693/massachusetts-ev-owners-v2g-pilot-program"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "光とひずみを検知できるフレキシブルセンサー開発、東京大",
+        "blurb": "東大が光とひずみを検知するフレキシブルセンサーを開発。ヘルスケアやロボットへの応用が期待される。",
+        "category": "tools",
+        "date": "2026-07-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news038.html"
         },
         "field": {
           "primary": "analog",
@@ -221,134 +149,26 @@
         }
       },
       {
-        "title": "Why Chip Engineers Should Care About AI-Created Behavioral Models",
-        "blurb": "AIがチップ設計の行動モデル作成を自動化し、エンジニアの負担を軽減。人間は最終確認に集中可能。",
+        "title": "Guitar Frets",
+        "blurb": "ギターのフレット間隔に黄金比を応用した記事。黄金比に基づいたフレット間隔の考え方を紹介。",
         "category": "tools",
-        "date": "2026-07-23",
+        "date": "2026-07-24",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-chip-engineers-should-care-about-ai-created-behavioral-models"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Enhancing System Observability",
-        "blurb": "リアルタイム電圧テレメトリと機能監視を統合し、システム可観測性を向上させる。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enhancing-system-observability"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The End Of Physics Silos In Engineering AI",
-        "blurb": "AIによる工学分野の物理的挙動の断片的な理解は限界に。高度化するシステムに対応するため、分野横断的なAI統合が不可欠となる。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-end-of-physics-silos-in-engineering-ai"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ノイズならぬ「臭いキャンセリング」 産業から生まれた消臭スプレー",
-        "blurb": "産業界発の「臭いキャンセリング」技術。芳香剤で臭いを隠すのではなく、臭いを分解する消臭スプレーが開発された。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news067.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/guitar-frets"
         },
         "field": null
       },
       {
-        "title": "USB-C’s lingering incompatibilities and complexities, part 2: Splitter issues",
-        "blurb": "USB-Cの複雑さと互換性の問題、特にスプリッターに関する課題について解説。技術的な難しさが指摘されている。",
+        "title": "Test, debug, and validation of CXL memory expanders",
+        "blurb": "CXLメモリ拡張器のテスト・デバッグ・検証に関する設計チュートリアル。帯域幅とストレス検証のためのワークロードツールを使用。",
         "category": "tools",
-        "date": "2026-07-23",
+        "date": "2026-07-24",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/usb-cs-lingering-incompatibilities-and-other-complexities-part-2-splitter-issues"
-        },
-        "field": null
-      },
-      {
-        "title": "Low-power RTC simplifies embedded timekeeping",
-        "blurb": "Mikroe社の低消費電力RTCボードは、アラーム、ウォッチドッグ、タイムスタンプ機能を備え、組み込み機器の時間管理を簡素化します。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/low-power-rtc-simplifies-embedded-timekeeping"
-        },
-        "field": null
-      },
-      {
-        "title": "AI assistant optimizes inference pipelines",
-        "blurb": "Axelera AIのAIアシスタント「Voyager Wingman」は、AIアプリ開発を加速する。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-assistant-optimizes-inference-pipelines"
-        },
-        "field": null
-      },
-      {
-        "title": "FPGA SDK enables sparse AI models",
-        "blurb": "マイクロチップ、FPGA向けAI開発SDK新版を発表。スパースニューラルネットワークをサポートし、AI実装を簡素化。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fpga-sdk-enables-sparse-ai-models"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "MIKROE’s RTC 27 Click Brings Nano-Power Timekeeping to Embedded Designs",
-        "blurb": "MIKROEがNXPのRTCチップ搭載の「RTC 27 Click」を発表。低消費電力でリアルタイムクロック機能を提供。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/mikroes-rtc-27-click-brings-nano-power-timekeeping-to-embedded-designs"
+          "url": "https://www.edn.com/test-debug-and-validation-of-cxl-memory-expanders"
         },
         "field": null
       },
@@ -363,132 +183,84 @@
           "url": "https://www.embedded.com/low-power-embedded-design-are-you-optimizing-the-wrong-thing"
         },
         "field": null
+      },
+      {
+        "title": "Hybrid MCUs, Low-Power Embedded Design, Pros and Cons of MCU HW and SW Peripherals: Embedded Week Insights",
+        "blurb": "ハイブリッドMCU、低消費電力組み込み設計、MCUのハード・ソフト周辺機能の長所短所に関するEmbedded Weekの洞察をまとめた記事。",
+        "category": "tools",
+        "date": "2026-07-25",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/hybrid-mcus-low-power-embedded-design-pros-and-cons-of-mcu-hw-and-sw-peripherals-embedded-week-insights"
+        },
+        "field": null
       }
     ],
     "company": [
       {
-        "title": "三菱電機とソニー、AIビジョンセンサーで新会社設立へ",
-        "blurb": "三菱電機とソニーが製造業向けAIビジョンセンサーの新会社「Advanced Vision Solutions」を設立。2026年10月事業開始。",
+        "title": "An Overview of Back-End-of-Line (BEOL) Integrated Magnetics",
+        "blurb": "AIアクセラレーター向けオンチップ電圧調整を実現するBEOL統合磁気デバイス。CMOSウェーハに薄膜インダクタを埋め込む技術。",
         "category": "company",
-        "date": "2026-07-23",
+        "date": "2026-07-24",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news079.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/an-overview-of-back-end-of-line-beol-integrated-magnetics"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "次世代MRAM開発に向けた設計指針示す、東京大",
-        "blurb": "東大、反強磁性体を用いた次世代MRAMの超高速スイッチング設計指針を提示。",
+        "title": "日立とインテル、産総研でシリコン量子コンピュータ研究開発",
+        "blurb": "日立とインテル、産総研とシリコン量子コンピュータ研究開発を開始。2030年度に1000量子ビット誤り耐性型試作機完成目指す。",
         "category": "company",
-        "date": "2026-07-23",
+        "date": "2026-07-24",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news037.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Rad-hard GaN converters: Design insights for space hardware",
-        "blurb": "宇宙用放射線耐性GaNコンバータ設計は、極限管理が鍵。スペースハードウェア向け設計洞察。",
-        "category": "company",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rad-hard-gan-converters-design-insights-for-space-hardware"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/24/news035.html"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Rapidus, Cadence partner on agentic SoC AI",
-        "blurb": "RapidusとCadenceが協業し、高度なSoC設計向けエージェンティックAI開発を加速。設計期間短縮を目指す。",
+        "title": "NeoEyes NE503 – A 4K Edge AI Camera With Hailo-15H 20 TOPS SoC",
+        "blurb": "NeoEyesがAIカメラ「NE503」を発表。4K解像度、20 TOPSのAI処理能力、IP67防塵防水対応で、セキュリティや産業用途に最適。",
         "category": "company",
-        "date": "2026-07-23",
+        "date": "2026-07-24",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rapidus-cadence-partner-on-agentic-soc-ai"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/neoeyes-ne503-a-4k-edge-ai-camera-with-hailo-15h-20-tops-soc"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "Fan driver delivers smooth motor control",
-        "blurb": "Melexisが新ファン制御ICを発表。高出力ファン向けに滑らかなモーター制御を実現。",
-        "category": "company",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fan-driver-delivers-smooth-motor-control"
-        },
-        "field": null
-      },
-      {
-        "title": "Aetina Adds Jetson T3000 and T2000 Support to Edge AI Systems",
-        "blurb": "AetinaはNvidiaの新Jetson T3000/T2000をエッジAIシステムに追加し、既存プラットフォームを拡張する。",
-        "category": "company",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/aetina-adds-jetson-t3000-and-t2000-support-to-edge-ai-systems"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
           "market": "ai",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Quectel FCM365X Is A Tri-Radio Wi-Fi 6, BLE 5.4 & 802.15.4 Module",
-        "blurb": "QuectelがWi-Fi 6, BLE 5.4, 802.15.4対応のIoTモジュールFCM365Xを発表。NXP製MCU搭載でスマート環境向け。",
-        "category": "company",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/quectel-fcm365x-is-a-tri-radio-wi-fi-6-ble-5-4-802-15-4-module"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
           "industry": null
         }
       },
       {
-        "title": "I Think The Hyundai Ioniq 9 Is The Best Three-Row EV Value. But That Might Not Be Enough",
-        "blurb": "ヒュンダイの新型EV「アイオニック9」は、3列シートで最高の価値を持つ可能性があるが、それだけでは十分ではないかもしれない。",
+        "title": "Aurora's New Autonomous Truck Hardware Is Designed To Last One Million Miles",
+        "blurb": "Aurora社、自動運転トラック向け新ハードウェア「Aurora Driver 2」を発表。耐久性100万マイル、コスト半減を目指す。",
         "category": "company",
         "date": "2026-07-24",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/802603/hyundai-ioniq-9-ev-review-2026"
+          "url": "https://insideevs.com/news/802649/aurora-driver-2-autonomous-truck"
         },
         "field": {
           "primary": "automotive",
@@ -497,6 +269,48 @@
           "market": "automotive",
           "industry": null
         }
+      },
+      {
+        "title": "Why 4D imaging radar is critical to AV commercialization",
+        "blurb": "自動運転車の普及には4Dイメージングレーダーが不可欠。市場は今後10年で急成長の見込み。",
+        "category": "company",
+        "date": "2026-07-25",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/why-4d-imaging-radar-is-critical-to-av-commercialization"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Tesla Now Has Nearly 1.5 Million FSD Subscribers",
+        "blurb": "テスラ、完全自動運転（FSD）のサブスクリプション登録者数が約150万人に達した。前四半期には20万人が新規登録。",
+        "category": "company",
+        "date": "2026-07-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802547/tesla-fsd-subscription-half"
+        },
+        "field": null
+      },
+      {
+        "title": "How Rivian Made The R2's Suspension Cheaper And Lighter Than The R1's But Just As Good",
+        "blurb": "Rivianは、R2のバッテリーとサスペンションを再設計し、R1と同等の性能を維持しつつ、コストと重量を削減することに成功した。",
+        "category": "company",
+        "date": "2026-07-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/802602/rivian-r2-battery-suspension"
+        },
+        "field": null
       }
     ],
     "sns": []

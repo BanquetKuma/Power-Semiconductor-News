@@ -1,79 +1,41 @@
 {
-  "generated_at": "2026-07-24T07:02:10.713203+09:00",
+  "generated_at": "2026-07-25T07:03:03.642007+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Avoid The Hidden Bottleneck Of Integration At Scale",
-    "summary": "大規模なSoC統合における隠れたボトルネックを回避するには、接続の自動化と単一の真実の源の確立が設計品質向上と迅速化に役立つ。",
+    "title": "NeoEyes NE503 – A 4K Edge AI Camera With Hailo-15H 20 TOPS SoC",
+    "summary": "NeoEyesがAIカメラ「NE503」を発表。4K解像度、20 TOPSのAI処理能力、IP67防塵防水対応で、セキュリティや産業用途に最適。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/avoid-the-hidden-bottleneck-of-integration-at-scale"
+        "name": "electronics-lab.com",
+        "url": "https://www.electronics-lab.com/neoeyes-ne503-a-4k-edge-ai-camera-with-hailo-15h-20-tops-soc"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Rapidus, Cadence partner on agentic SoC AI",
-        "blurb": "RapidusとCadenceが協業し、高度なSoC設計向けエージェンティックAI開発を加速。設計期間短縮を目指す。",
+        "title": "NeoEyes NE503 – A 4K Edge AI Camera With Hailo-15H 20 TOPS SoC",
+        "blurb": "NeoEyesがAIカメラ「NE503」を発表。4K解像度、20 TOPSのAI処理能力、IP67防塵防水対応で、セキュリティや産業用途に最適。",
         "category": "company",
-        "date": "2026-07-23",
+        "date": "2026-07-24",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rapidus-cadence-partner-on-agentic-soc-ai"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/neoeyes-ne503-a-4k-edge-ai-camera-with-hailo-15h-20-tops-soc"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "FPGA SDK enables sparse AI models",
-        "blurb": "マイクロチップ、FPGA向けAI開発SDK新版を発表。スパースニューラルネットワークをサポートし、AI実装を簡素化。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fpga-sdk-enables-sparse-ai-models"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
-    "market": [
-      {
-        "title": "Avoid The Hidden Bottleneck Of Integration At Scale",
-        "blurb": "大規模なSoC統合における隠れたボトルネックを回避するには、接続の自動化と単一の真実の源の確立が設計品質向上と迅速化に役立つ。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/avoid-the-hidden-bottleneck-of-integration-at-scale"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }

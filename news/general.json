@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-07-24T07:02:10.715417+09:00",
+  "generated_at": "2026-07-25T07:03:03.643647+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Untangling Chip Traffic Jams",
-    "summary": "チップレット間の通信渋滞解消には、早期の整合性、混雑、熱、障害挙動の検証が必要。",
+    "title": "An Overview of Back-End-of-Line (BEOL) Integrated Magnetics",
+    "summary": "AIアクセラレーター向けオンチップ電圧調整を実現するBEOL統合磁気デバイス。CMOSウェーハに薄膜インダクタを埋め込む技術。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/untangling-chip-traffic-jams"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/an-overview-of-back-end-of-line-beol-integrated-magnetics"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Designing Electro-Optical Chips",
-        "blurb": "フォトニクスはEDAに、チップだけでなく、電気光学システム内の光の物理学の検証を求めている。",
-        "category": "tools",
-        "date": "2026-07-23",
+        "title": "An Overview of Back-End-of-Line (BEOL) Integrated Magnetics",
+        "blurb": "AIアクセラレーター向けオンチップ電圧調整を実現するBEOL統合磁気デバイス。CMOSウェーハに薄膜インダクタを埋め込む技術。",
+        "category": "company",
+        "date": "2026-07-24",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/designing-electro-optical-chips"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/an-overview-of-back-end-of-line-beol-integrated-magnetics"
         },
         "field": {
           "primary": "general",
@@ -36,50 +35,14 @@
         }
       },
       {
-        "title": "Why Chip Engineers Should Care About AI-Created Behavioral Models",
-        "blurb": "AIがチップ設計の行動モデル作成を自動化し、エンジニアの負担を軽減。人間は最終確認に集中可能。",
-        "category": "tools",
-        "date": "2026-07-23",
+        "title": "日立とインテル、産総研でシリコン量子コンピュータ研究開発",
+        "blurb": "日立とインテル、産総研とシリコン量子コンピュータ研究開発を開始。2030年度に1000量子ビット誤り耐性型試作機完成目指す。",
+        "category": "company",
+        "date": "2026-07-24",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-chip-engineers-should-care-about-ai-created-behavioral-models"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Enhancing System Observability",
-        "blurb": "リアルタイム電圧テレメトリと機能監視を統合し、システム可観測性を向上させる。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enhancing-system-observability"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The End Of Physics Silos In Engineering AI",
-        "blurb": "AIによる工学分野の物理的挙動の断片的な理解は限界に。高度化するシステムに対応するため、分野横断的なAI統合が不可欠となる。",
-        "category": "tools",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-end-of-physics-silos-in-engineering-ai"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/24/news035.html"
         },
         "field": {
           "primary": "general",
@@ -90,97 +53,7 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "Untangling Chip Traffic Jams",
-        "blurb": "チップレット間の通信渋滞解消には、早期の整合性、混雑、熱、障害挙動の検証が必要。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/untangling-chip-traffic-jams"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Policy: The UK Vs. The US Vs. EU Vs. India",
-        "blurb": "半導体政策は、英米EU印で異なり、全企業に影響。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-policy-the-uk-vs-the-us-vs-eu-vs-india"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The Impact Of AI Automation On Chip Design",
-        "blurb": "AI自動化は半導体設計に影響を与えるが、データ利用可能性とメーカーの信頼度次第で導入速度は変わる。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-impact-of-ai-automation-on-chip-design"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "2026年3月期通期 国内半導体商社 業績まとめ",
-        "blurb": "2026年3月期、国内半導体商社18社のうち8社が増収増益。全体的に厳しい状況が続く。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/23/news051.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Hybrid Microcontrollers Reshape Embedded Computing",
-        "blurb": "ハイブリッドMCUは、複雑な設計で効率を高めるため、最適なオンチップハードウェアブロックにワークロードを割り当て、性能と機能を最適化する。",
-        "category": "business",
-        "date": "2026-07-23",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/hybrid-microcontrollers-reshape-embedded-computing"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }
