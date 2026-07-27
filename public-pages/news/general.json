@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-07-25T07:03:03.643647+09:00",
+  "generated_at": "2026-07-28T07:04:20.462091+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "An Overview of Back-End-of-Line (BEOL) Integrated Magnetics",
-    "summary": "AIアクセラレーター向けオンチップ電圧調整を実現するBEOL統合磁気デバイス。CMOSウェーハに薄膜インダクタを埋め込む技術。",
+    "title": "xMEMS Introduces XMC-1200 Solid-State Micro Fan",
+    "summary": "xMEMSがAR/XRヘッドセット向け冷却チップ「XMC-1200」を発表。AIスマートグラスの熱管理を改善。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/an-overview-of-back-end-of-line-beol-integrated-magnetics"
+        "url": "https://www.powerelectronicsnews.com/xmems-introduces-xmc-1200-solid-state-micro-fan"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "An Overview of Back-End-of-Line (BEOL) Integrated Magnetics",
-        "blurb": "AIアクセラレーター向けオンチップ電圧調整を実現するBEOL統合磁気デバイス。CMOSウェーハに薄膜インダクタを埋め込む技術。",
+        "title": "xMEMS Introduces XMC-1200 Solid-State Micro Fan",
+        "blurb": "xMEMSがAR/XRヘッドセット向け冷却チップ「XMC-1200」を発表。AIスマートグラスの熱管理を改善。",
         "category": "company",
-        "date": "2026-07-24",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/an-overview-of-back-end-of-line-beol-integrated-magnetics"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "日立とインテル、産総研でシリコン量子コンピュータ研究開発",
-        "blurb": "日立とインテル、産総研とシリコン量子コンピュータ研究開発を開始。2030年度に1000量子ビット誤り耐性型試作機完成目指す。",
-        "category": "company",
-        "date": "2026-07-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/24/news035.html"
+          "url": "https://www.powerelectronicsnews.com/xmems-introduces-xmc-1200-solid-state-micro-fan"
         },
         "field": {
           "primary": "general",
@@ -54,6 +36,61 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Preparing For AI-Driven Chip Design And Verification",
+        "blurb": "AIによる半導体設計・検証の時代が到来。仕事、市場、経済に大きな変化をもたらすが、その全容はまだ不明。",
+        "category": "business",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/preparing-for-ai-driven-chip-design-and-verification"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Why the Semiconductor Industry Needs A Common Language For Functional Safety",
+        "blurb": "半導体業界は機能安全のため共通言語を必要としている。自動化の将来に向けた標準化が鍵となる。",
+        "category": "business",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/why-the-semiconductor-industry-needs-a-common-language-for-functional-safety"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI需要でシリコンフォトニクスに「300mmウエハー化」の波",
+        "blurb": "AI需要増でシリコンフォトニクスに300mmウエハー化の波。高速データ通信への要求増が背景にある。",
+        "category": "business",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/27/news055.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

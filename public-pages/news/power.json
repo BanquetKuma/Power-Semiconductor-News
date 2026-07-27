@@ -1,39 +1,58 @@
 {
-  "generated_at": "2026-07-25T07:03:03.641486+09:00",
+  "generated_at": "2026-07-28T07:04:20.461086+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Week In Review",
-    "summary": "半導体業界の週次レビュー。Amkorの買収、Intel Foundryの増収、Siemensの買収、SiC工場の閉鎖、AMDの動向、TSMCの値上げ、Nokiaの工場買収、決算、推論加速への投資、Keysightの新技術など。",
+    "title": "Advanced thermal management and packaging techniques for SiC",
+    "summary": "SiCの熱管理とパッケージング技術に関する高度な手法。ダイアタッチ、インターコネクト、基板、封止、冷却を網羅。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-week-in-review-148"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/advanced-thermal-management-and-packaging-techniques-for-sic"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Chip Industry Week In Review",
-        "blurb": "半導体業界の週次レビュー。Amkorの買収、Intel Foundryの増収、Siemensの買収、SiC工場の閉鎖、AMDの動向、TSMCの値上げ、Nokiaの工場買収、決算、推論加速への投資、Keysightの新技術など。",
-        "category": "business",
-        "date": "2026-07-24",
+        "title": "Advanced thermal management and packaging techniques for SiC",
+        "blurb": "SiCの熱管理とパッケージング技術に関する高度な手法。ダイアタッチ、インターコネクト、基板、封止、冷却を網羅。",
+        "category": "tools",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-148"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/advanced-thermal-management-and-packaging-techniques-for-sic"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
-          "industry": "foundry"
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Integrating EIS into BMS, Vertical GaN/NiO SJ Schottky Diode, BEOL-Integrated Magnetics: Electronics Week Insights",
+        "blurb": "電子機器の最新動向として、EISのBMS統合、垂直GaN/NiO SJショットキーダイオード、BEOL統合磁気デバイスに関する記事が紹介された。",
+        "category": "business",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/integrating-eis-into-bms-vertical-gan-nio-sj-schottky-diode-beol-integrated-magnetics-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
         }
       }
     ]
