@@ -1,160 +1,162 @@
 {
-  "generated_at": "2026-07-29T07:02:03.813505+09:00",
-  "date": "2026-07-29",
+  "generated_at": "2026-07-30T06:58:47.339169+09:00",
+  "date": "2026-07-30",
   "meta_trends": [
     {
-      "name": "車載半導体の高性能化とSiC/GaN採用拡大",
-      "confidence": 0.9,
+      "name": "SiC/GaNパワー半導体の進化と普及",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "analog"
+        "industrial"
       ],
-      "summary": "車載用途で高効率・高耐圧のSiC/GaNデバイス採用が進み、EVやADASの性能向上に貢献。熱管理技術も重要化。",
+      "summary": "SiC/GaN技術は、高効率化、小型化、耐熱性向上により、特に車載用パワーエレクトロニクスや産業機器での採用が加速。",
       "analysis": {
-        "short_term": "SiC/GaNパワーデバイスの供給増とコスト低下が期待される。",
-        "mid_term": "車載向け新製品投入が活発化し、市場競争が激化する見込み。",
-        "investment_implications": "SiC/GaN材料・デバイスメーカー、車載半導体メーカーに注目。"
+        "short_term": "需要拡大と技術競争激化。供給制約が課題。",
+        "mid_term": "EVシフト加速でSiC/GaN需要は一層拡大。新材料・新構造開発が進む。",
+        "investment_implications": "SiC/GaNウェーハ、デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "ADAS",
-        "MOSFET",
-        "Diode"
+        "パワー半導体"
       ],
       "companies_mentioned": [
         "Toshiba",
-        "Amperesand",
-        "三菱電機"
+        "三菱電機",
+        "Amkor"
       ]
     },
     {
-      "name": "AIによる半導体設計・検証の革新",
-      "confidence": 0.85,
+      "name": "AIによる半導体設計・検証の変革",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
         "frontend",
         "backend",
+        "automotive",
         "datacenter"
       ],
-      "summary": "AIエージェントがASIC設計・検証を自動化し、生産性を飛躍的に向上させる。設計者の役割や市場構造に変化。",
+      "summary": "AIエージェントや自動化技術が、半導体設計・検証プロセスを根本から変革し、開発効率と性能を飛躍的に向上させる可能性。",
       "analysis": {
-        "short_term": "AI活用ツールの開発・導入が加速し、設計サイクルの短縮が進む。",
-        "mid_term": "AIによる設計最適化がチップ性能向上に貢献し、AI特化型チップ開発を促進。",
-        "investment_implications": "EDAツールベンダー、AIチップ開発企業、ファウンドリに恩恵。"
+        "short_term": "AIツール導入による生産性向上の模索が活発化。",
+        "mid_term": "AIネイティブな設計手法が標準化。雇用や市場構造に変化。",
+        "investment_implications": "AI設計ツール、EDAベンダー、AIチップ開発企業に注目。"
       },
       "keywords": [
         "AI",
-        "ASIC",
         "EDA",
-        "設計自動化",
-        "検証"
+        "ASIC",
+        "自動化"
       ],
       "companies_mentioned": [
-        "Intel"
+        "AMD",
+        "Microsoft",
+        "Brainchip"
       ]
     },
     {
-      "name": "チップレット技術と3D-ICの進化",
-      "confidence": 0.8,
+      "name": "先端パッケージング技術の重要性増大",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
+        "memory",
         "ai",
         "datacenter",
-        "memory"
+        "miniaturization"
       ],
-      "summary": "AI需要増で、複数のチップレットを積層する3D-IC技術の重要性が増大。インターコネクト技術が鍵となる。",
+      "summary": "チップレット集積や3D-ICなど、後工程技術が性能向上とコスト削減の鍵となる。反り管理など技術的課題も顕在化。",
       "analysis": {
-        "short_term": "チップレット間通信の最適化・標準化が進み、性能ボトルネック解消へ。",
-        "mid_term": "3D-ICの歩留まり向上とコスト低減が進み、高性能コンピューティングで普及。",
-        "investment_implications": "後工程技術、インターコネクト技術、チップレットメーカーに注目。"
+        "short_term": "大型化・薄型化に伴う反り管理技術が重要視される。",
+        "mid_term": "チップレットエコシステムが確立。多様なチップの統合が進む。",
+        "investment_implications": "先端パッケージング受託企業、関連材料・装置メーカーに期待。"
       },
       "keywords": [
         "チップレット",
         "3D-IC",
-        "インターコネクト",
-        "AI",
-        "後工程"
+        "先端パッケージング"
       ],
       "companies_mentioned": [
-        "AMD",
-        "Microsoft"
+        "Amkor",
+        "TSMC"
       ]
     },
     {
-      "name": "シリコンフォトニクスのAI需要対応",
-      "confidence": 0.75,
+      "name": "フォトニクス技術のAI・通信分野での応用拡大",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
+        "general",
         "ai",
-        "frontend",
-        "memory"
+        "datacenter",
+        "automotive",
+        "frontend"
       ],
-      "summary": "AIによるデータ通信量増大を受け、シリコンフォトニクス分野で300mmウエハー化への移行が加速。",
+      "summary": "シリコンフォトニクスがAI需要による高速データ通信や、電気光学システム設計の進化を牽引。300mmウエハー化も進展。",
       "analysis": {
-        "short_term": "高速・大容量データ通信向け光デバイスの需要が堅調に推移する。",
-        "mid_term": "300mmウエハー化により、シリコンフォトニクスチップの量産性とコスト競争力が向上。",
-        "investment_implications": "シリコンフォトニクス関連企業、光通信部品メーカーに追い風。"
+        "short_term": "300mmウエハー化への移行が加速し、生産能力増強へ。",
+        "mid_term": "光コンピューティングや光インターコネクトが実用化へ。",
+        "investment_implications": "シリコンフォトニクス関連企業、EDAツールベンダーに注目。"
       },
       "keywords": [
+        "フォトニクス",
         "シリコンフォトニクス",
         "AI",
-        "データセンター",
-        "300mmウエハー",
-        "光通信"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "機能安全と標準化の重要性向上",
-      "confidence": 0.7,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "industrial",
-        "logic",
-        "geopolitics"
-      ],
-      "summary": "自動運転やIIoTの普及に伴い、半導体業界全体で機能安全に関する共通言語と標準化の必要性が高まる。",
-      "analysis": {
-        "short_term": "機能安全規格への対応が、製品開発・市場参入の前提条件となる。",
-        "mid_term": "標準化された安全設計手法が、開発効率向上と信頼性確保に貢献する。",
-        "investment_implications": "機能安全対応に強みを持つ企業や、標準化推進に関わる企業に注目。"
-      },
-      "keywords": [
-        "機能安全",
-        "標準化",
-        "自動運転",
-        "IIoT",
-        "サイバーセキュリティ"
+        "高速通信"
       ],
       "companies_mentioned": [
-        "Microchip"
+        "JX金属"
+      ]
+    },
+    {
+      "name": "熱管理技術の高度化と多様化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "ai",
+        "automotive",
+        "general"
+      ],
+      "summary": "AIチップ、車載機器、AR/XRデバイスなど、高性能化に伴う発熱増大に対応するため、先進的な冷却技術やパッケージングが不可欠に。",
+      "analysis": {
+        "short_term": "小型・高効率な冷却ソリューションへの需要が高まる。",
+        "mid_term": "熱管理技術がデバイス性能を左右する要因に。",
+        "investment_implications": "冷却技術、放熱材料、高度パッケージング関連企業に投資機会。"
+      },
+      "keywords": [
+        "熱管理",
+        "冷却",
+        "AIチップ",
+        "AR/XR"
+      ],
+      "companies_mentioned": [
+        "xMEMS",
+        "三菱電機"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要によるEUV露光装置の生産能力増強（ASML）",
-      "データセンター向けパートナーシップ拡大（AMD, Microsoft）",
-      "車載用高機能半導体（SiC/GaN）の採用拡大",
-      "AIによる半導体設計・検証の効率化期待"
+      "SiC/GaNデバイスの需要拡大（特にEV向け）",
+      "AI関連チップおよびインフラ投資の継続",
+      "先端パッケージング技術への投資活発化",
+      "フォトニクス技術の応用分野拡大"
     ],
     "bearish": [
-      "国内半導体商社の業績に明暗分かれる（2026年3月期）"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "一部汎用半導体分野での供給過剰懸念"
     ],
     "neutral": [
-      "半導体政策の国際的な差異（英米EU印）",
-      "量子コンピュータ研究開発の進展（日立, Intel, 産総研）"
+      "半導体製造装置メーカーの生産能力増強",
+      "機能安全規格の標準化に向けた動き"
     ]
   },
-  "source_count": 39
+  "source_count": 44
 }

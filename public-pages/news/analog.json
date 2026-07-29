@@ -1,24 +1,42 @@
 {
-  "generated_at": "2026-07-29T07:01:57.605814+09:00",
+  "generated_at": "2026-07-30T06:58:41.738989+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "TDK, LG Innotek Collaborate on Physical AI Solutions",
-    "summary": "TDKとLGイノテックが、物理AI向けセンシング技術で提携。人型ロボット向け次世代ビジョン・触覚センサーモジュール開発に注力。",
+    "title": "人の動きをまねるロボットで実演　STのフィジカルAI向け製品群",
+    "summary": "STマイクロ、人の動きを模倣するロボットや一体型モーターを展示。フィジカルAI向けソリューションを提案。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/tdk-lg-innotek-collaborate-on-physical-ai-solutions"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news047.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "人の動きをまねるロボットで実演　STのフィジカルAI向け製品群",
+        "blurb": "STマイクロ、人の動きを模倣するロボットや一体型モーターを展示。フィジカルAI向けソリューションを提案。",
+        "category": "company",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news047.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "TDK, LG Innotek Collaborate on Physical AI Solutions",
-        "blurb": "TDKとLGイノテックが、物理AI向けセンシング技術で提携。人型ロボット向け次世代ビジョン・触覚センサーモジュール開発に注力。",
+        "blurb": "TDKとLGイノテックが、物理AI向けセンサー技術開発で提携。人型ロボット向け次世代ビジョン・触覚センサーモジュールに注力。",
         "category": "company",
         "date": "2026-07-29",
         "stars": 3,
@@ -35,7 +53,26 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Phantom-powered solid-state linear airflow sensor",
+        "blurb": "2線式で電源と信号を供給する、ファントム電源駆動の固体リニア風速センサー。",
+        "category": "tools",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/phantom-powered-solid-state-linear-airflow-sensor"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

@@ -1,106 +1,28 @@
 {
-  "generated_at": "2026-07-29T07:01:57.604407+09:00",
+  "generated_at": "2026-07-28T07:04:20.460099+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Toshiba Introduces AEC-Q101-Qualified 40 V MOSFET",
-    "summary": "東芝、車載用電源システム向けに低オン抵抗と高熱性能を両立したAEC-Q101準拠40V MOSFETを発表。",
+    "title": "Advanced thermal management and packaging techniques for SiC",
+    "summary": "SiCの熱管理とパッケージング技術に関する高度な手法。ダイアタッチ、インターコネクト、基板、封止、冷却を網羅。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/toshiba-introduces-aec-q101-qualified-40-v-mosfet"
+        "url": "https://www.powerelectronicsnews.com/advanced-thermal-management-and-packaging-techniques-for-sic"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Chip Industry Technical Paper Roundup: July 28",
-        "blurb": "半導体業界の技術論文まとめ：AIのスロットリング、M3D DRAM、信号整合性解析、EUVリソグラフィ、インターコネクト/メモリ内コンピューティングなど。",
+        "title": "Integrating EIS into BMS, Vertical GaN/NiO SJ Schottky Diode, BEOL-Integrated Magnetics: Electronics Week Insights",
+        "blurb": "電子機器の最新動向として、EISのBMS統合、垂直GaN/NiO SJショットキーダイオード、BEOL統合磁気デバイスに関する記事が紹介された。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-28"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AMDとMicrosoft、戦略的パートナーシップ拡大",
-        "blurb": "AMDとMicrosoftは、クラウドネットワーク性能向上のため戦略的パートナーシップを拡大。AMDシリコンとAzure Boostを統合し、性能と効率を向上させる。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news034.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "次世代EV向け800-48V降圧ユニットを小サイズで　Vicor展示",
-        "blurb": "Vicorは次世代EV向けに、小型で800V/48V対応の降圧ユニット「Paladin」を展示。省スペース化に貢献。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news065.html"
-        },
-        "field": null
-      },
-      {
-        "title": "国際間の競争が激化する研究開発",
-        "blurb": "JEITAが発行した実装技術ロードマップの第2章を紹介。海外との比較や電子機器群の分類・定義に焦点を当てる。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news025.html"
-        },
-        "field": null
-      },
-      {
-        "title": "ムーア氏も予見していたチップレット集積　AI時代に重要性増す",
-        "blurb": "AI時代、チップレット集積の後工程技術の重要性が増す。ムーア氏も約60年前にコスト優位性を示唆していた。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news045.html"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "三菱電機、OBC用SiCモジュール初公開　ディスクリート4個を置き換え",
-        "blurb": "三菱電機が車載OBC向けSiCモジュールを初公開。ディスクリート4個を置き換え、設計簡素化と実装面積削減を実現。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news046.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/integrating-eis-into-bms-vertical-gan-nio-sj-schottky-diode-beol-integrated-magnetics-electronics-week-insights"
         },
         "field": {
           "primary": "power",
@@ -111,38 +33,92 @@
         }
       },
       {
-        "title": "Why analog anti-tamper security IP is crucial in the PQC era",
-        "blurb": "ポスト量子暗号化（PQC）時代において、アナログ不正開封防止IPは、暗号アルゴリズムの物理的実装を保護するために不可欠です。",
+        "title": "Preparing For AI-Driven Chip Design And Verification",
+        "blurb": "AIによる半導体設計・検証の時代が到来。仕事、市場、経済に大きな変化をもたらすが、その全容はまだ不明。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/why-analog-anti-tamper-security-ip-is-crucial-in-the-pqc-era"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/preparing-for-ai-driven-chip-design-and-verification"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Why the Semiconductor Industry Needs A Common Language For Functional Safety",
+        "blurb": "半導体業界は機能安全のため共通言語を必要としている。自動化の将来に向けた標準化が鍵となる。",
+        "category": "business",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/why-the-semiconductor-industry-needs-a-common-language-for-functional-safety"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "縮小続くディスクメディア　21世紀の映画は1000年後に届くのか",
+        "blurb": "ディスクメディアの縮小が進む中、21世紀の映画は1000年後に保存・再生できるのかという課題が浮上しています。",
+        "category": "business",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/27/news057.html"
         },
         "field": null
       },
       {
-        "title": "Rapid scale-up in data center: The case for distributed optical circuit switching",
-        "blurb": "データセンターの迅速な拡張には分散型光回路スイッチング（dOCS）が有効。他の光技術の成熟を待たずに対応可能。",
+        "title": "AI需要でシリコンフォトニクスに「300mmウエハー化」の波",
+        "blurb": "AI需要増でシリコンフォトニクスに300mmウエハー化の波。高速データ通信への要求増が背景にある。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rapid-scale-up-in-data-center-the-case-for-distributed-optical-circuit-switching"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/27/news055.html"
         },
         "field": {
-          "primary": "datacenter",
+          "primary": "general",
           "device": null,
           "process": null,
-          "market": "datacenter",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Rugged 90 W PoE Midspan Targets Industrial IoT Deployments",
+        "blurb": "産業用IoT向けに、過酷な環境に耐える90W PoE対応ミッドスパンが登場。標準イーサネットケーブルで高出力を実現。",
+        "category": "business",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/allegros-a81415-merges-safety-power-and-wheel-speed-sensing-2"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
           "industry": null
         }
       },
       {
         "title": "The security imperative for software-defined vehicles",
-        "blurb": "ソフトウェア定義車両（SDV）への移行が進む自動車業界。従来のハードウェア中心からソフトウェア中心への変革に伴い、セキュリティが最重要課題となっている。",
+        "blurb": "ソフトウェア定義車両（SDV）への移行が進む自動車業界。従来のハードウェア中心からソフトウェア中心への変革に伴い、セキュリティの重要性が増している。",
         "category": "business",
         "date": "2026-07-28",
         "stars": 3,
@@ -154,7 +130,7 @@
       },
       {
         "title": "Synopsys, AMD, and Microsoft Expand Agentic AI for EDA",
-        "blurb": "シノプシス、AMD、MicrosoftはEDA向け自律型AI開発で提携。半導体設計ライフサイクル全体を自動化し、複雑なエンジニアリングタスクを効率化。",
+        "blurb": "シノプシス、AMD、マイクロソフトはEDA向け自律型AI開発で提携。半導体設計ライフサイクル全体を自動化し、複雑なエンジニアリング作業を効率化。",
         "category": "business",
         "date": "2026-07-28",
         "stars": 3,
@@ -173,70 +149,14 @@
     ],
     "tools": [
       {
-        "title": "Power Electronics Course with QSPICE (Episode 15): Supercapacitors in Power Electronics: The Automotive Starter",
-        "blurb": "Qspiceを用いたパワーエレクトロニクス講座第15回。自動車スターターにおけるスーパーキャパシタの役割について解説。",
+        "title": "Advanced thermal management and packaging techniques for SiC",
+        "blurb": "SiCの熱管理とパッケージング技術に関する高度な手法。ダイアタッチ、インターコネクト、基板、封止、冷却を網羅。",
         "category": "tools",
-        "date": "2026-07-28",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-15-supercapacitors-in-power-electronics-the-automotive-starter"
-        },
-        "field": null
-      },
-      {
-        "title": "Research Bits: July 28",
-        "blurb": "フォトニクス分野で、逆設計、光速低下、オンチップ電気光学アイソレータの研究が進展。",
-        "category": "tools",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-july-28"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Add-on beat frequency oscillator (BFO) for shortwave radio",
-        "blurb": "安価な短波ラジオに、高価なラジオに搭載されているビート周波数発振器（BFO）を追加する。",
-        "category": "tools",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/add-on-beat-frequency-oscillator-bfo-for-shortwave-radio"
-        },
-        "field": null
-      },
-      {
-        "title": "RP2350B BellsNWhistles Board Adds Onboard Debugger and HDMI",
-        "blurb": "RP2350B BellsNWhistlesボードは、オンボードデバッガーとHDMIを搭載し、ラピッドプロトタイピングを加速します。",
-        "category": "tools",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/rp2350b-bellsnwhistles-board-adds-onboard-debugger-and-hdmi"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Toshiba Introduces AEC-Q101-Qualified 40 V MOSFET",
-        "blurb": "東芝、車載用電源システム向けに低オン抵抗と高熱性能を両立したAEC-Q101準拠40V MOSFETを発表。",
-        "category": "company",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/toshiba-introduces-aec-q101-qualified-40-v-mosfet"
+          "url": "https://www.powerelectronicsnews.com/advanced-thermal-management-and-packaging-techniques-for-sic"
         },
         "field": {
           "primary": "power",
@@ -247,68 +167,130 @@
         }
       },
       {
-        "title": "固体電解質中でリチウムイオンが動く仕組み、分子レベルで解明",
-        "blurb": "次世代電池の固体電解質で、リチウムイオンが陰イオンの協同的な再配列で動く仕組みを分子レベルで解明した。",
-        "category": "company",
-        "date": "2026-07-28",
+        "title": "専用マイクとAIで聴覚官能検査を自動化　最短3秒で異常判定",
+        "blurb": "NTTデータCCSは、専用マイクとAIで製品の動作音から異常を最短3秒で判定するソリューション「Monone」を発表しました。",
+        "category": "tools",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news035.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/27/news063.html"
         },
         "field": null
       },
       {
-        "title": "電源システムの開発受託を「ホワイトボックス化」　設計書や回路図も提供",
-        "blurb": "ミラクシアは電源システム開発で設計書等も提供。顧客による不具合解析や派生開発を容易にする「ホワイトボックス化」を進める。",
-        "category": "company",
-        "date": "2026-07-28",
+        "title": "Blue’s original Snowball: A multi-capsule sonic catch-all",
+        "blurb": "BlueのSnowballマイクは、2つのカプセルと3つのピックアップ設定で多様な録音に対応。音質は良いが、外観は好みが分かれる。",
+        "category": "tools",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news066.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/blues-original-snowball-a-multi-capsule-sonic-catch-all"
         },
         "field": null
       },
       {
-        "title": "Congatec Launches Ryzen AI-based COM-HPC Module",
-        "blurb": "コンガテック、Ryzen AI搭載のCOM-HPCモジュールを発表。堅牢環境での物理AI用途向け。",
-        "category": "company",
-        "date": "2026-07-28",
+        "title": "Micro power generators: Turning everyday flows into energy",
+        "blurb": "日常の様々な流れ（水、風、熱など）を電力に変換するマイクロ発電機が、週末プロジェクトとして実用的になっています。",
+        "category": "tools",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/congatec-launches-ryzen-ai-based-com-hpc-module"
+          "name": "edn.com",
+          "url": "https://www.edn.com/micro-power-generators-turning-everyday-flows-into-energy"
         },
         "field": null
-      },
+      }
+    ],
+    "company": [
       {
-        "title": "TDK, LG Innotek Collaborate on Physical AI Solutions",
-        "blurb": "TDKとLGイノテックが、物理AI向けセンシング技術で提携。人型ロボット向け次世代ビジョン・触覚センサーモジュール開発に注力。",
+        "title": "xMEMS Introduces XMC-1200 Solid-State Micro Fan",
+        "blurb": "xMEMSがAR/XRヘッドセット向け冷却チップ「XMC-1200」を発表。AIスマートグラスの熱管理を改善。",
         "category": "company",
-        "date": "2026-07-29",
+        "date": "2026-07-27",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/tdk-lg-innotek-collaborate-on-physical-ai-solutions"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/xmems-introduces-xmc-1200-solid-state-micro-fan"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "A New Route to Fault-Tolerant Quantum Computers",
-        "blurb": "量子コンピュータの誤り耐性向上に向けた新ルートが開発された。量子ビット数の増加だけでなく、品質向上が実用化の鍵となる。",
+        "title": "AI Agent Orchestration For ASIC Autonomy",
+        "blurb": "AIエージェントによるASIC自律化で生産性10倍向上を目指す。半導体エンジニアリングの最新動向。",
         "category": "company",
-        "date": "2026-07-29",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-agent-orchestration-for-asic-autonomy"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "単一材料で同一箇所から多色発光するLED、大阪大らが開発",
+        "blurb": "大阪大と立命館大は、単一材料で同一箇所から多色発光するLEDを開発。電流注入量を変えても発光色は変化しない。",
+        "category": "company",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/27/news026.html"
+        },
+        "field": null
+      },
+      {
+        "title": "富士通と中華電信、台湾のAPN社会実装で協業",
+        "blurb": "富士通と中華電信が台湾でAPN社会実装と量子技術活用に向け協業。2年間の戦略的提携で基本合意。",
+        "category": "company",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/27/news025.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Graperain RV1126B SoM Packs a Rockchip AI Vision SoC and 3 TOPS NPU",
+        "blurb": "GraperainがAIoT向けSoM「RV1126B」を発表。Rockchip製AIビジョンSoCと3TOPS NPU搭載で4K映像処理も可能。",
+        "category": "company",
+        "date": "2026-07-27",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/graperain-rv1126b-som-packs-a-rockchip-ai-vision-soc-and-3-tops-npu"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Congatec Launches Ryzen AI-based COM-HPC Module",
+        "blurb": "コンガテック、Ryzen AI搭載のCOM-HPCモジュールを発表。過酷な環境での物理AI用途向け。",
+        "category": "company",
+        "date": "2026-07-28",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/a-new-route-to-fault-tolerant-quantum-computers"
+          "url": "https://www.embedded.com/congatec-launches-ryzen-ai-based-com-hpc-module"
         },
         "field": null
       }

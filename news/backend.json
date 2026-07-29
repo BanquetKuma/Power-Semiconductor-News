@@ -1,32 +1,69 @@
 {
-  "generated_at": "2026-07-29T07:01:57.606606+09:00",
+  "generated_at": "2026-07-30T06:58:41.740397+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ムーア氏も予見していたチップレット集積　AI時代に重要性増す",
-    "summary": "AI時代、チップレット集積の後工程技術の重要性が増す。ムーア氏も約60年前にコスト優位性を示唆していた。",
+    "title": "Flat Enough? Warpage Management Gets Harder In Advanced Packaging",
+    "summary": "先端パッケージングでは、大型化・薄型化に伴い反り管理が課題化。プロセス制御が重要に。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news045.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/flat-enough-warpage-management-gets-harder-in-advanced-packaging"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "AI platform unifies PCB, advanced packaging workflows",
+        "blurb": "ケイデンスは、PCBおよび先進パッケージング設計向けの業界初のエージェント型AIプラットフォーム「AuraStack AI Super Agent」を発表しました。",
+        "category": "company",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-platform-unifies-pcb-advanced-packaging-workflows"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "ムーア氏も予見していたチップレット集積　AI時代に重要性増す",
-        "blurb": "AI時代、チップレット集積の後工程技術の重要性が増す。ムーア氏も約60年前にコスト優位性を示唆していた。",
+        "title": "Flat Enough? Warpage Management Gets Harder In Advanced Packaging",
+        "blurb": "先端パッケージングでは、大型化・薄型化に伴い反り管理が課題化。プロセス制御が重要に。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news045.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/flat-enough-warpage-management-gets-harder-in-advanced-packaging"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI infrastructure is a multi-fab physical realization stack",
+        "blurb": "AIインフラは、ロジック、メモリ、フォトニクス、電源、成熟ノードシリコン、先進パッケージングが統合された物理的実現スタックである。",
+        "category": "business",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-infrastructure-is-a-multi-fab-physical-realization-stack"
         },
         "field": {
           "primary": "backend",

@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-29T07:01:57.605408+09:00",
+  "generated_at": "2026-07-30T06:58:41.738168+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Toshiba Introduces AEC-Q101-Qualified 40 V MOSFET",
-    "summary": "東芝、車載用電源システム向けに低オン抵抗と高熱性能を両立したAEC-Q101準拠40V MOSFETを発表。",
+    "title": "ALD/ALE in GaN Device Manufacturing",
+    "summary": "ALD/ALE技術がGaNデバイス製造の信頼性・ゲート絶縁膜品質を向上。パワーエレクトロニクス分野での応用が進む。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/toshiba-introduces-aec-q101-qualified-40-v-mosfet"
+        "url": "https://www.powerelectronicsnews.com/ald-ale-in-gan-device-manufacturing"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Toshiba Introduces AEC-Q101-Qualified 40 V MOSFET",
-        "blurb": "東芝、車載用電源システム向けに低オン抵抗と高熱性能を両立したAEC-Q101準拠40V MOSFETを発表。",
+        "title": "三菱電機、第5世代SiC MOSFETの核　オン抵抗25％減の独自構造",
+        "blurb": "三菱電機は、オン抵抗を25%低減した第5世代SiC MOSFETを公開。PCIMで概要を発表した。",
         "category": "company",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/toshiba-introduces-aec-q101-qualified-40-v-mosfet"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news056.html"
         },
         "field": {
           "primary": "power",
@@ -35,17 +35,54 @@
         }
       }
     ],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "三菱電機、OBC用SiCモジュール初公開　ディスクリート4個を置き換え",
-        "blurb": "三菱電機が車載OBC向けSiCモジュールを初公開。ディスクリート4個を置き換え、設計簡素化と実装面積削減を実現。",
-        "category": "business",
-        "date": "2026-07-28",
+        "title": "パワー半導体の「ワイヤー1本」も測定　光プローブ電流センサー",
+        "blurb": "シチズンファインデバイスは、光プローブでパワー半導体の電流を測定するセンサー「OpECS」を発表。ノイズに強く高精度な測定を実現。",
+        "category": "tools",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news046.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news064.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "ALD/ALE in GaN Device Manufacturing",
+        "blurb": "ALD/ALE技術がGaNデバイス製造の信頼性・ゲート絶縁膜品質を向上。パワーエレクトロニクス分野での応用が進む。",
+        "category": "business",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ald-ale-in-gan-device-manufacturing"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How SiC and GaN are reshaping automotive power electronics",
+        "blurb": "SiCとGaNデバイスは、自動車用パワーエレクトロニクスを高速化、高効率化、熱管理改善で変革している。",
+        "category": "business",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/how-sic-and-gan-are-reshaping-automotive-power-electronics"
         },
         "field": {
           "primary": "power",

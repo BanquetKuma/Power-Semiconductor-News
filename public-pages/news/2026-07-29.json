@@ -1,88 +1,46 @@
 {
-  "generated_at": "2026-07-29T07:01:57.604407+09:00",
+  "generated_at": "2026-07-30T06:58:41.736638+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Toshiba Introduces AEC-Q101-Qualified 40 V MOSFET",
-    "summary": "東芝、車載用電源システム向けに低オン抵抗と高熱性能を両立したAEC-Q101準拠40V MOSFETを発表。",
+    "title": "TDK Launches High-Current EP21 SMD Common-Mode Chokes",
+    "summary": "TDKは、低電圧EMCフィルタリング向けに、高電流容量、低DC抵抗、小型パッケージを組み合わせた新型フラットワイヤSMDコモンモードチョーク「EP21」を発表しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/toshiba-introduces-aec-q101-qualified-40-v-mosfet"
+        "url": "https://www.powerelectronicsnews.com/tdk-launches-high-current-ep21-smd-common-mode-chokes"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Chip Industry Technical Paper Roundup: July 28",
-        "blurb": "半導体業界の技術論文まとめ：AIのスロットリング、M3D DRAM、信号整合性解析、EUVリソグラフィ、インターコネクト/メモリ内コンピューティングなど。",
+        "title": "ALD/ALE in GaN Device Manufacturing",
+        "blurb": "ALD/ALE技術がGaNデバイス製造の信頼性・ゲート絶縁膜品質を向上。パワーエレクトロニクス分野での応用が進む。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-28"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ald-ale-in-gan-device-manufacturing"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "equipment",
+          "primary": "power",
+          "device": "power",
+          "process": "frontend",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "AMDとMicrosoft、戦略的パートナーシップ拡大",
-        "blurb": "AMDとMicrosoftは、クラウドネットワーク性能向上のため戦略的パートナーシップを拡大。AMDシリコンとAzure Boostを統合し、性能と効率を向上させる。",
+        "title": "Flat Enough? Warpage Management Gets Harder In Advanced Packaging",
+        "blurb": "先端パッケージングでは、大型化・薄型化に伴い反り管理が課題化。プロセス制御が重要に。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news034.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "次世代EV向け800-48V降圧ユニットを小サイズで　Vicor展示",
-        "blurb": "Vicorは次世代EV向けに、小型で800V/48V対応の降圧ユニット「Paladin」を展示。省スペース化に貢献。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news065.html"
-        },
-        "field": null
-      },
-      {
-        "title": "国際間の競争が激化する研究開発",
-        "blurb": "JEITAが発行した実装技術ロードマップの第2章を紹介。海外との比較や電子機器群の分類・定義に焦点を当てる。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news025.html"
-        },
-        "field": null
-      },
-      {
-        "title": "ムーア氏も予見していたチップレット集積　AI時代に重要性増す",
-        "blurb": "AI時代、チップレット集積の後工程技術の重要性が増す。ムーア氏も約60年前にコスト優位性を示唆していた。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news045.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/flat-enough-warpage-management-gets-harder-in-advanced-packaging"
         },
         "field": {
           "primary": "backend",
@@ -93,14 +51,62 @@
         }
       },
       {
-        "title": "三菱電機、OBC用SiCモジュール初公開　ディスクリート4個を置き換え",
-        "blurb": "三菱電機が車載OBC向けSiCモジュールを初公開。ディスクリート4個を置き換え、設計簡素化と実装面積削減を実現。",
+        "title": "Blog Review: July 29",
+        "blurb": "AI計算の再考、DFI 6、3D-IC信頼性、ブラウザでのローカルAI、表面処理とクリーニングに関するブログレビュー。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news046.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-july-29-3"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Accelerating the shift to next-gen SDVs with zonal MCUs",
+        "blurb": "次世代SDVへの移行を加速するゾーンMCU。高性能、高信頼性、柔軟性を提供。",
+        "category": "business",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/accelerating-the-shift-to-next-gen-sdvs-with-zonal-mcus"
+        },
+        "field": null
+      },
+      {
+        "title": "AI infrastructure is a multi-fab physical realization stack",
+        "blurb": "AIインフラは、ロジック、メモリ、フォトニクス、電源、成熟ノードシリコン、先進パッケージングが統合された物理的実現スタックである。",
+        "category": "business",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-infrastructure-is-a-multi-fab-physical-realization-stack"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How SiC and GaN are reshaping automotive power electronics",
+        "blurb": "SiCとGaNデバイスは、自動車用パワーエレクトロニクスを高速化、高効率化、熱管理改善で変革している。",
+        "category": "business",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/how-sic-and-gan-are-reshaping-automotive-power-electronics"
         },
         "field": {
           "primary": "power",
@@ -111,88 +117,156 @@
         }
       },
       {
-        "title": "Why analog anti-tamper security IP is crucial in the PQC era",
-        "blurb": "ポスト量子暗号化（PQC）時代において、アナログ不正開封防止IPは、暗号アルゴリズムの物理的実装を保護するために不可欠です。",
+        "title": "Ryzen processors power physical AI workloads",
+        "blurb": "AMDのRyzen AI Embedded X100シリーズは、CPU、GPU、NPUを統合し、物理AIワークロードに最適化された組み込みSoCです。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-30",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/why-analog-anti-tamper-security-ip-is-crucial-in-the-pqc-era"
-        },
-        "field": null
-      },
-      {
-        "title": "Rapid scale-up in data center: The case for distributed optical circuit switching",
-        "blurb": "データセンターの迅速な拡張には分散型光回路スイッチング（dOCS）が有効。他の光技術の成熟を待たずに対応可能。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rapid-scale-up-in-data-center-the-case-for-distributed-optical-circuit-switching"
+          "url": "https://www.edn.com/ryzen-processors-power-physical-ai-workloads"
         },
         "field": {
-          "primary": "datacenter",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
-          "market": "datacenter",
-          "industry": null
+          "market": null,
+          "industry": "fabless"
         }
       },
       {
-        "title": "The security imperative for software-defined vehicles",
-        "blurb": "ソフトウェア定義車両（SDV）への移行が進む自動車業界。従来のハードウェア中心からソフトウェア中心への変革に伴い、セキュリティが最重要課題となっている。",
+        "title": "Half-brick converter packs high power density",
+        "blurb": "Advanced Energy社が、ハーフブリックサイズで1100Wの高出力・高電力密度PFCコンバーターAIH03ZPFCを発表しました。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-30",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/the-security-imperative-for-software-defined-vehicles"
+          "url": "https://www.edn.com/half-brick-converter-packs-high-power-density"
         },
         "field": null
       },
       {
-        "title": "Synopsys, AMD, and Microsoft Expand Agentic AI for EDA",
-        "blurb": "シノプシス、AMD、MicrosoftはEDA向け自律型AI開発で提携。半導体設計ライフサイクル全体を自動化し、複雑なエンジニアリングタスクを効率化。",
+        "title": "Emerson Expands AI Capabilities Across Test Environment",
+        "blurb": "Emerson、AI機能拡張でテスト生産性を最大50%向上。NI Nigel AIがテスト環境全体で活用。",
         "category": "business",
-        "date": "2026-07-28",
+        "date": "2026-07-30",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/synopsys-amd-and-microsoft-expand-agentic-ai-for-eda"
+          "url": "https://www.embedded.com/emerson-expands-ai-capabilities-across-test-environment"
         },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": "fabless"
-        }
+        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Power Electronics Course with QSPICE (Episode 15): Supercapacitors in Power Electronics: The Automotive Starter",
-        "blurb": "Qspiceを用いたパワーエレクトロニクス講座第15回。自動車スターターにおけるスーパーキャパシタの役割について解説。",
+        "title": "Pre-Silicon Power Side-Channel Leakage In Processors (University of Lübeck)",
+        "blurb": "リューベック大学の研究者が、プロセッサ設計フローにおけるプリシリコン電力サイドチャネル漏洩の自動解析フレームワーク「SPARC」を発表しました。",
         "category": "tools",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/pre-silicon-power-side-channel-leakage-in-processors-university-of-lubeck"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "パワー半導体の「ワイヤー1本」も測定　光プローブ電流センサー",
+        "blurb": "シチズンファインデバイスは、光プローブでパワー半導体の電流を測定するセンサー「OpECS」を発表。ノイズに強く高精度な測定を実現。",
+        "category": "tools",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news064.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Phantom-powered solid-state linear airflow sensor",
+        "blurb": "2線式で電源と信号を供給する、ファントム電源駆動の固体リニア風速センサー。",
+        "category": "tools",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/phantom-powered-solid-state-linear-airflow-sensor"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "TerraMaster F4-425 Pro Hybrid NAS Features Intel N350 SoC and Dual 5GbE LAN",
+        "blurb": "TerraMaster F4-425 Proは、最大152TB対応のハイブリッドNAS。AI搭載OSとデュアル5GbE LANを備え、高速ワークフローをサポート。",
+        "category": "tools",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/terramaster-f4-425-pro-hybrid-nas-features-intel-n350-soc-and-dual-5gbe-lan"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "TDK Launches High-Current EP21 SMD Common-Mode Chokes",
+        "blurb": "TDKは、低電圧EMCフィルタリング向けに、高電流容量、低DC抵抗、小型パッケージを組み合わせた新型フラットワイヤSMDコモンモードチョーク「EP21」を発表しました。",
+        "category": "company",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-15-supercapacitors-in-power-electronics-the-automotive-starter"
+          "url": "https://www.powerelectronicsnews.com/tdk-launches-high-current-ep21-smd-common-mode-chokes"
         },
         "field": null
       },
       {
-        "title": "Research Bits: July 28",
-        "blurb": "フォトニクス分野で、逆設計、光速低下、オンチップ電気光学アイソレータの研究が進展。",
-        "category": "tools",
-        "date": "2026-07-28",
+        "title": "発光層を結晶化させた「薄膜結晶有機EL」を開発、富山大",
+        "blurb": "富山大が発光層を結晶化させた薄膜結晶有機ELを開発。低電圧・大電流密度を実現し、次世代技術となる可能性。",
+        "category": "company",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-july-28"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news041.html"
+        },
+        "field": null
+      },
+      {
+        "title": "令和8年熊本地震、半導体メーカー工場の対応状況",
+        "blurb": "令和8年熊本地震で、熊本県内の半導体メーカー各社は工場の被害状況確認を急いでいる。ルネサス、三菱電機、JASM、ソニーなどが対象。",
+        "category": "company",
+        "date": "2026-07-29",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news101.html"
         },
         "field": {
           "primary": "general",
@@ -203,40 +277,14 @@
         }
       },
       {
-        "title": "Add-on beat frequency oscillator (BFO) for shortwave radio",
-        "blurb": "安価な短波ラジオに、高価なラジオに搭載されているビート周波数発振器（BFO）を追加する。",
-        "category": "tools",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/add-on-beat-frequency-oscillator-bfo-for-shortwave-radio"
-        },
-        "field": null
-      },
-      {
-        "title": "RP2350B BellsNWhistles Board Adds Onboard Debugger and HDMI",
-        "blurb": "RP2350B BellsNWhistlesボードは、オンボードデバッガーとHDMIを搭載し、ラピッドプロトタイピングを加速します。",
-        "category": "tools",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/rp2350b-bellsnwhistles-board-adds-onboard-debugger-and-hdmi"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Toshiba Introduces AEC-Q101-Qualified 40 V MOSFET",
-        "blurb": "東芝、車載用電源システム向けに低オン抵抗と高熱性能を両立したAEC-Q101準拠40V MOSFETを発表。",
+        "title": "三菱電機、第5世代SiC MOSFETの核　オン抵抗25％減の独自構造",
+        "blurb": "三菱電機は、オン抵抗を25%低減した第5世代SiC MOSFETを公開。PCIMで概要を発表した。",
         "category": "company",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/toshiba-introduces-aec-q101-qualified-40-v-mosfet"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news056.html"
         },
         "field": {
           "primary": "power",
@@ -247,44 +295,44 @@
         }
       },
       {
-        "title": "固体電解質中でリチウムイオンが動く仕組み、分子レベルで解明",
-        "blurb": "次世代電池の固体電解質で、リチウムイオンが陰イオンの協同的な再配列で動く仕組みを分子レベルで解明した。",
+        "title": "人の動きをまねるロボットで実演　STのフィジカルAI向け製品群",
+        "blurb": "STマイクロ、人の動きを模倣するロボットや一体型モーターを展示。フィジカルAI向けソリューションを提案。",
         "category": "company",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news035.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news047.html"
         },
-        "field": null
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "電源システムの開発受託を「ホワイトボックス化」　設計書や回路図も提供",
-        "blurb": "ミラクシアは電源システム開発で設計書等も提供。顧客による不具合解析や派生開発を容易にする「ホワイトボックス化」を進める。",
+        "title": "JX金属、半導体用スパッタリングターゲットの加工能力を2倍に",
+        "blurb": "JX金属は韓国工場で約40億円を投資し、半導体用スパッタリングターゲットの加工能力を2027年度下期までに約2倍に増強する。",
         "category": "company",
-        "date": "2026-07-28",
+        "date": "2026-07-29",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news066.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news040.html"
         },
-        "field": null
-      },
-      {
-        "title": "Congatec Launches Ryzen AI-based COM-HPC Module",
-        "blurb": "コンガテック、Ryzen AI搭載のCOM-HPCモジュールを発表。堅牢環境での物理AI用途向け。",
-        "category": "company",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/congatec-launches-ryzen-ai-based-com-hpc-module"
-        },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
         "title": "TDK, LG Innotek Collaborate on Physical AI Solutions",
-        "blurb": "TDKとLGイノテックが、物理AI向けセンシング技術で提携。人型ロボット向け次世代ビジョン・触覚センサーモジュール開発に注力。",
+        "blurb": "TDKとLGイノテックが、物理AI向けセンサー技術開発で提携。人型ロボット向け次世代ビジョン・触覚センサーモジュールに注力。",
         "category": "company",
         "date": "2026-07-29",
         "stars": 3,
@@ -309,6 +357,108 @@
         "source": {
           "name": "embedded.com",
           "url": "https://www.embedded.com/a-new-route-to-fault-tolerant-quantum-computers"
+        },
+        "field": null
+      },
+      {
+        "title": "Edge AI coprocessor adopts M.2 form factor",
+        "blurb": "BrainchipのAkidaニューロモルフィックエンジン搭載AIコプロセッサAKD1500が、小型M.2フォームファクタで登場。",
+        "category": "company",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/edge-ai-coprocessor-adopts-m-2-form-factor"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Advantech AI servers leverage AMD EPYC",
+        "blurb": "アドバンテックはAMD EPYC 9006 SP8プロセッサ搭載のAIサーバーを発表。次世代AIインフラをサポート。",
+        "category": "company",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/advantech-ai-servers-leverage-amd-epyc"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "AI platform unifies PCB, advanced packaging workflows",
+        "blurb": "ケイデンスは、PCBおよび先進パッケージング設計向けの業界初のエージェント型AIプラットフォーム「AuraStack AI Super Agent」を発表しました。",
+        "category": "company",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-platform-unifies-pcb-advanced-packaging-workflows"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "BrainChip Launches AKD1500 M.2 Module for Fanless Edge AI",
+        "blurb": "BrainChipが、ファンレスで省電力なエッジAIアクセラレータAKD1500の新M.2モジュールを発表。産業・商業システムへのAI機能搭載を容易に。",
+        "category": "company",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/brainchip-launches-akd1500-m-2-module-for-fanless-edge-ai"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Toshiba’s TB67S531FTG Targets Noise-Prone Stepper Motor Designs",
+        "blurb": "東芝は、ノイズが多い環境でも同期を保つステッピングモータードライバー「TB67S531FTG」を発表しました。",
+        "category": "company",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/toshibas-tb67s531ftg-targets-noise-prone-stepper-motor-designs"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": "equipment",
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Ferrari Luce Reviews Are In And Sorry, But It Actually Seems Pretty Great",
+        "blurb": "フェラーリの新型セダン「ルチェ」のレビューが公開され、予想以上に好評であることが判明。スーパーセダンとしての性能に期待が集まる。",
+        "category": "company",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/803144/ferrari-luce-reviews-are-good"
         },
         "field": null
       }
