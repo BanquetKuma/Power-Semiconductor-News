@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-07-29T07:01:57.606195+09:00",
+  "generated_at": "2026-07-31T07:03:57.831375+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AMDとMicrosoft、戦略的パートナーシップ拡大",
-    "summary": "AMDとMicrosoftは、クラウドネットワーク性能向上のため戦略的パートナーシップを拡大。AMDシリコンとAzure Boostを統合し、性能と効率を向上させる。",
+    "title": "Renesas Upgrades DDR5 MRDIMM Chipset",
+    "summary": "ルネサスがAIデータセンター等向けに、サーバー向けMRDIMMで最高16,000MT/sの第3世代DDR5チップセットを発表。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news034.html"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/renesas-upgrades-ddr5-mrdimm-chipset"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "AMDとMicrosoft、戦略的パートナーシップ拡大",
-        "blurb": "AMDとMicrosoftは、クラウドネットワーク性能向上のため戦略的パートナーシップを拡大。AMDシリコンとAzure Boostを統合し、性能と効率を向上させる。",
-        "category": "business",
-        "date": "2026-07-28",
+        "title": "Renesas Upgrades DDR5 MRDIMM Chipset",
+        "blurb": "ルネサスがAIデータセンター等向けに、サーバー向けMRDIMMで最高16,000MT/sの第3世代DDR5チップセットを発表。",
+        "category": "company",
+        "date": "2026-07-31",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news034.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Rapid scale-up in data center: The case for distributed optical circuit switching",
-        "blurb": "データセンターの迅速な拡張には分散型光回路スイッチング（dOCS）が有効。他の光技術の成熟を待たずに対応可能。",
-        "category": "business",
-        "date": "2026-07-28",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rapid-scale-up-in-data-center-the-case-for-distributed-optical-circuit-switching"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/renesas-upgrades-ddr5-mrdimm-chipset"
         },
         "field": {
           "primary": "datacenter",
@@ -54,6 +34,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

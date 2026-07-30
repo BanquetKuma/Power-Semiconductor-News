@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T06:58:47.339169+09:00",
-  "date": "2026-07-30",
+  "generated_at": "2026-07-31T07:04:02.323576+09:00",
+  "date": "2026-07-31",
   "meta_trends": [
     {
       "name": "SiC/GaNパワー半導体の進化と普及",
@@ -9,154 +9,149 @@
       "related_fields": [
         "power",
         "automotive",
+        "datacenter",
         "industrial"
       ],
-      "summary": "SiC/GaN技術は、高効率化、小型化、耐熱性向上により、特に車載用パワーエレクトロニクスや産業機器での採用が加速。",
+      "summary": "SiC/GaNパワー半導体は、高効率・高速スイッチング・高耐圧を実現し、車載、データセンター、産業機器分野で採用が拡大。",
       "analysis": {
-        "short_term": "需要拡大と技術競争激化。供給制約が課題。",
-        "mid_term": "EVシフト加速でSiC/GaN需要は一層拡大。新材料・新構造開発が進む。",
-        "investment_implications": "SiC/GaNウェーハ、デバイスメーカーへの投資妙味。"
+        "short_term": "需要拡大と技術競争激化。供給安定化が課題。",
+        "mid_term": "EV、再生可能エネルギー、AIインフラで更なる成長。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "パワー半導体"
+        "データセンター",
+        "高効率"
       ],
       "companies_mentioned": [
+        "STMicroelectronics",
+        "SemiQ",
         "Toshiba",
         "三菱電機",
-        "Amkor"
+        "シチズンファインデバイス"
       ]
     },
     {
-      "name": "AIによる半導体設計・検証の変革",
+      "name": "AI向け計算能力の拡大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "datacenter",
         "logic",
-        "frontend",
-        "backend",
-        "automotive",
-        "datacenter"
+        "memory"
       ],
-      "summary": "AIエージェントや自動化技術が、半導体設計・検証プロセスを根本から変革し、開発効率と性能を飛躍的に向上させる可能性。",
+      "summary": "AI開発の規模拡大のため、計算クラスターが一般企業にも開放され、AIチップの需要が加速。",
       "analysis": {
-        "short_term": "AIツール導入による生産性向上の模索が活発化。",
-        "mid_term": "AIネイティブな設計手法が標準化。雇用や市場構造に変化。",
-        "investment_implications": "AI設計ツール、EDAベンダー、AIチップ開発企業に注目。"
+        "short_term": "AIチップ不足は継続、計算リソース確保が鍵。",
+        "mid_term": "AIインフラ投資は継続、高性能チップ開発競争激化。",
+        "investment_implications": "AIチップ、HPC関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "EDA",
-        "ASIC",
-        "自動化"
+        "HPC",
+        "計算クラスター",
+        "チップ不足"
       ],
       "companies_mentioned": [
         "AMD",
-        "Microsoft",
-        "Brainchip"
+        "Microsoft"
       ]
     },
     {
       "name": "先端パッケージング技術の重要性増大",
-      "confidence": 0.88,
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
-        "memory",
         "ai",
-        "datacenter",
-        "miniaturization"
+        "automotive"
       ],
-      "summary": "チップレット集積や3D-ICなど、後工程技術が性能向上とコスト削減の鍵となる。反り管理など技術的課題も顕在化。",
+      "summary": "AI時代、チップレット集積の後工程技術の重要性が増し、反り管理などの課題解決が求められる。",
       "analysis": {
-        "short_term": "大型化・薄型化に伴う反り管理技術が重要視される。",
-        "mid_term": "チップレットエコシステムが確立。多様なチップの統合が進む。",
-        "investment_implications": "先端パッケージング受託企業、関連材料・装置メーカーに期待。"
+        "short_term": "反り管理、歩留まり向上が喫緊の課題。",
+        "mid_term": "チップレット技術の成熟、3D-ICの信頼性向上。",
+        "investment_implications": "先端パッケージング関連技術・企業に注目。"
       },
       "keywords": [
         "チップレット",
+        "先端パッケージング",
         "3D-IC",
-        "先端パッケージング"
+        "反り管理"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "次世代メモリ技術の研究開発",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter"
+      ],
+      "summary": "NANDフラッシュとDRAMを統合したハイブリッドメモリなど、データ転送速度向上を目指す新技術が登場。",
+      "analysis": {
+        "short_term": "研究開発段階、実用化には時間。",
+        "mid_term": "高性能コンピューティングでの採用拡大期待。",
+        "investment_implications": "メモリ技術革新への長期投資。"
+      },
+      "keywords": [
+        "ハイブリッドメモリ",
+        "DRAM",
+        "NAND",
+        "高速化"
       ],
       "companies_mentioned": [
-        "Amkor",
-        "TSMC"
+        "University of Seoul"
       ]
     },
     {
-      "name": "フォトニクス技術のAI・通信分野での応用拡大",
-      "confidence": 0.85,
+      "name": "フィジカルAIとロボティクス",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
-        "general",
-        "ai",
-        "datacenter",
-        "automotive",
-        "frontend"
-      ],
-      "summary": "シリコンフォトニクスがAI需要による高速データ通信や、電気光学システム設計の進化を牽引。300mmウエハー化も進展。",
-      "analysis": {
-        "short_term": "300mmウエハー化への移行が加速し、生産能力増強へ。",
-        "mid_term": "光コンピューティングや光インターコネクトが実用化へ。",
-        "investment_implications": "シリコンフォトニクス関連企業、EDAツールベンダーに注目。"
-      },
-      "keywords": [
-        "フォトニクス",
-        "シリコンフォトニクス",
-        "AI",
-        "高速通信"
-      ],
-      "companies_mentioned": [
-        "JX金属"
-      ]
-    },
-    {
-      "name": "熱管理技術の高度化と多様化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
         "ai",
         "automotive",
-        "general"
+        "industrial",
+        "logic"
       ],
-      "summary": "AIチップ、車載機器、AR/XRデバイスなど、高性能化に伴う発熱増大に対応するため、先進的な冷却技術やパッケージングが不可欠に。",
+      "summary": "人の動きを模倣するロボットや、AR/XR向け冷却チップなど、フィジカルAI向けソリューションが提案されている。",
       "analysis": {
-        "short_term": "小型・高効率な冷却ソリューションへの需要が高まる。",
-        "mid_term": "熱管理技術がデバイス性能を左右する要因に。",
-        "investment_implications": "冷却技術、放熱材料、高度パッケージング関連企業に投資機会。"
+        "short_term": "AR/XR、ロボティクス分野での応用進展。",
+        "mid_term": "スマートファクトリー、自動運転への貢献期待。",
+        "investment_implications": "フィジカルAI関連技術・企業に注目。"
       },
       "keywords": [
-        "熱管理",
-        "冷却",
-        "AIチップ",
-        "AR/XR"
+        "フィジカルAI",
+        "ロボティクス",
+        "AR/XR",
+        "冷却"
       ],
       "companies_mentioned": [
-        "xMEMS",
-        "三菱電機"
+        "STMicroelectronics",
+        "xMEMS"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNデバイスの需要拡大（特にEV向け）",
-      "AI関連チップおよびインフラ投資の継続",
-      "先端パッケージング技術への投資活発化",
-      "フォトニクス技術の応用分野拡大"
+      "SiC/GaNパワー半導体の需要拡大",
+      "AI向け計算能力の増強",
+      "車載半導体市場の回復基調",
+      "先端パッケージング技術への投資増加"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "一部汎用半導体分野での供給過剰懸念"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "一部メモリ製品の価格下落懸念"
     ],
     "neutral": [
-      "半導体製造装置メーカーの生産能力増強",
-      "機能安全規格の標準化に向けた動き"
+      "半導体製造装置の需要は安定",
+      "熊本地震による一時的な生産影響"
     ]
   },
-  "source_count": 44
+  "source_count": 48
 }

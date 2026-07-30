@@ -1,25 +1,44 @@
 {
-  "generated_at": "2026-07-30T06:58:41.740397+09:00",
+  "generated_at": "2026-07-31T07:03:57.832218+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Flat Enough? Warpage Management Gets Harder In Advanced Packaging",
-    "summary": "先端パッケージングでは、大型化・薄型化に伴い反り管理が課題化。プロセス制御が重要に。",
+    "title": "Optimize hi-rel designs with rugged, flexible interconnects",
+    "summary": "高信頼性設計向けに、小型化・統合・性能向上を支える堅牢で柔軟なインターコネクトが登場。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/flat-enough-warpage-management-gets-harder-in-advanced-packaging"
+        "name": "edn.com",
+        "url": "https://www.edn.com/optimize-hi-rel-designs-with-rugged-flexible-interconnects"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
+      {
+        "title": "Optimize hi-rel designs with rugged, flexible interconnects",
+        "blurb": "高信頼性設計向けに、小型化・統合・性能向上を支える堅牢で柔軟なインターコネクトが登場。",
+        "category": "tools",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/optimize-hi-rel-designs-with-rugged-flexible-interconnects"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
       {
         "title": "AI platform unifies PCB, advanced packaging workflows",
-        "blurb": "ケイデンスは、PCBおよび先進パッケージング設計向けの業界初のエージェント型AIプラットフォーム「AuraStack AI Super Agent」を発表しました。",
-        "category": "company",
+        "blurb": "ケイデンスが業界初のAIプラットフォーム「AuraStack」を発表。PCBと先端パッケージング設計ワークフローを統合。",
+        "category": "tools",
         "date": "2026-07-30",
         "stars": 3,
         "source": {
@@ -35,44 +54,6 @@
         }
       }
     ],
-    "tech": [],
-    "market": [
-      {
-        "title": "Flat Enough? Warpage Management Gets Harder In Advanced Packaging",
-        "blurb": "先端パッケージングでは、大型化・薄型化に伴い反り管理が課題化。プロセス制御が重要に。",
-        "category": "business",
-        "date": "2026-07-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/flat-enough-warpage-management-gets-harder-in-advanced-packaging"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI infrastructure is a multi-fab physical realization stack",
-        "blurb": "AIインフラは、ロジック、メモリ、フォトニクス、電源、成熟ノードシリコン、先進パッケージングが統合された物理的実現スタックである。",
-        "category": "business",
-        "date": "2026-07-29",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-infrastructure-is-a-multi-fab-physical-realization-stack"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

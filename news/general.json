@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-30T06:58:41.740733+09:00",
+  "generated_at": "2026-07-31T07:03:57.832911+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "令和8年熊本地震、半導体メーカー工場の対応状況",
-    "summary": "令和8年熊本地震で、熊本県内の半導体メーカー各社は工場の被害状況確認を急いでいる。ルネサス、三菱電機、JASM、ソニーなどが対象。",
+    "title": "2D P-Type Semiconductors with Oxide N-Channel Transistors For Complementary BEOL CMOS (Stanford, Hanyang)",
+    "summary": "スタンフォード大と漢陽大の研究者らが、2D半導体を用いたp型トランジスタの製造技術を発表。CMOS回路の性能向上に期待。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news101.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/2d-p-type-semiconductors-with-oxide-n-channel-transistors-for-complementary-beol-cmos-stanford-hanyang"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "令和8年熊本地震、半導体メーカー工場の対応状況",
-        "blurb": "令和8年熊本地震で、熊本県内の半導体メーカー各社は工場の被害状況確認を急いでいる。ルネサス、三菱電機、JASM、ソニーなどが対象。",
+        "title": "2D P-Type Semiconductors with Oxide N-Channel Transistors For Complementary BEOL CMOS (Stanford, Hanyang)",
+        "blurb": "スタンフォード大と漢陽大の研究者らが、2D半導体を用いたp型トランジスタの製造技術を発表。CMOS回路の性能向上に期待。",
         "category": "company",
-        "date": "2026-07-29",
+        "date": "2026-07-30",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/28/news101.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/2d-p-type-semiconductors-with-oxide-n-channel-transistors-for-complementary-beol-cmos-stanford-hanyang"
         },
         "field": {
           "primary": "general",
@@ -35,14 +35,14 @@
         }
       },
       {
-        "title": "JX金属、半導体用スパッタリングターゲットの加工能力を2倍に",
-        "blurb": "JX金属は韓国工場で約40億円を投資し、半導体用スパッタリングターゲットの加工能力を2027年度下期までに約2倍に増強する。",
+        "title": "熊本を「未来の産業を生み出す拠点」へ　サイエンスパーク開発進む",
+        "blurb": "三井不動産と熊本県は、半導体やフィジカルAI開発を支援するサイエンスパークを設立。未来の産業拠点を目指す。",
         "category": "company",
-        "date": "2026-07-29",
+        "date": "2026-07-30",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news040.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/30/news074.html"
         },
         "field": {
           "primary": "general",
@@ -53,7 +53,45 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "Benchmarking Open-Source LLMs on Verilog RTL Generation Across 50 Tasks (NMIMS, IIT Roorkee, BITS Pilani)",
+        "blurb": "IIT Roorkee等の研究者が、50のタスクでオープンソースLLMのVerilog RTL生成能力を評価するベンチマークプラットフォームを発表。",
+        "category": "tools",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/benchmarking-open-source-llms-on-verilog-rtl-generation-across-50-tasks-nmims-iit-roorkee-bits-pilani"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "商社が見る激動の半導体市場　今後は「バッファー在庫の確保が重要に」",
+        "blurb": "コアスタッフは半導体市場の回復を見込み、CEDIも上昇傾向。今後はバッファー在庫確保が重要になると分析。",
+        "category": "business",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/30/news070.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

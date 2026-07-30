@@ -1,39 +1,113 @@
 {
-  "generated_at": "2026-07-29T07:01:57.605996+09:00",
+  "generated_at": "2026-07-31T07:03:57.831049+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Synopsys, AMD, and Microsoft Expand Agentic AI for EDA",
-    "summary": "シノプシス、AMD、MicrosoftはEDA向け自律型AI開発で提携。半導体設計ライフサイクル全体を自動化し、複雑なエンジニアリングタスクを効率化。",
+    "title": "Why autonomous agriculture needs inertial navigation",
+    "summary": "自動農業では、GPSだけでは果樹園などの環境変化に対応した正確な位置特定が困難なため、慣性航法が不可欠です。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/synopsys-amd-and-microsoft-expand-agentic-ai-for-eda"
+        "name": "edn.com",
+        "url": "https://www.edn.com/why-autonomous-agriculture-needs-inertial-navigation"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Synopsys, AMD, and Microsoft Expand Agentic AI for EDA",
-        "blurb": "シノプシス、AMD、MicrosoftはEDA向け自律型AI開発で提携。半導体設計ライフサイクル全体を自動化し、複雑なエンジニアリングタスクを効率化。",
-        "category": "business",
-        "date": "2026-07-28",
+        "title": "This Quad-Motor Electric Land Rover Defender Restomod Has More Range Than Some Teslas",
+        "blurb": "ランドローバー・ディフェンダーのレストモッドEVが登場。テスラの一部車種を超える航続距離375マイル（約600km）を実現。",
+        "category": "company",
+        "date": "2026-07-31",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/synopsys-amd-and-microsoft-expand-agentic-ai-for-eda"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/803290/electric-land-rover-defender-restomod"
         },
         "field": {
           "primary": "automotive",
           "device": null,
           "process": null,
           "market": "automotive",
-          "industry": "fabless"
+          "industry": null
+        }
+      },
+      {
+        "title": "Porsche's 6,000-Pound Electric Cayenne Beats Supercars To 60 MPH",
+        "blurb": "ポルシェの新型EVカイエン、60mphまで2.1秒で到達。スーパーカーを凌駕する加速性能。",
+        "category": "company",
+        "date": "2026-07-31",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/803270/porsche-cayenne-ev-60-mph"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "In A First, U.S. Clears Zoox's Steering Wheel-Free Robotaxis For Paid Rides",
+        "blurb": "米当局、ハンドルなし自動運転タクシー「Zoox」の有料運行を初許可。年間2500台まで。",
+        "category": "company",
+        "date": "2026-07-31",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/803262/zoox-robotaxi-pod-cleared-for-paid-rides-nhtsa"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Why autonomous agriculture needs inertial navigation",
+        "blurb": "自動農業では、GPSだけでは果樹園などの環境変化に対応した正確な位置特定が困難なため、慣性航法が不可欠です。",
+        "category": "tools",
+        "date": "2026-07-31",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/why-autonomous-agriculture-needs-inertial-navigation"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Dongfeng Just Unveiled A 1.5 MW EV Charger To Take On BYD. And It’s Just Getting Started",
+        "blurb": "東風が1.5MWのEV充電器を発表。BYDに対抗し、1000Vまで対応。",
+        "category": "business",
+        "date": "2026-07-30",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/803195/dongfeng-15-mw-ev-charger"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
         }
       }
     ]

@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-30T06:58:41.738596+09:00",
+  "generated_at": "2026-07-31T07:03:57.830222+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Pre-Silicon Power Side-Channel Leakage In Processors (University of Lübeck)",
-    "summary": "リューベック大学の研究者が、プロセッサ設計フローにおけるプリシリコン電力サイドチャネル漏洩の自動解析フレームワーク「SPARC」を発表しました。",
+    "title": "Ryzen processors power physical AI workloads",
+    "summary": "AMDのRyzen AI Embedded X100シリーズは、CPU、GPU、NPUを統合し、物理AIワークロードに最適化された組み込みSoCです。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/pre-silicon-power-side-channel-leakage-in-processors-university-of-lubeck"
+        "name": "edn.com",
+        "url": "https://www.edn.com/ryzen-processors-power-physical-ai-workloads"
       }
     ]
   },
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "BrainChip Launches AKD1500 M.2 Module for Fanless Edge AI",
-        "blurb": "BrainChipが、ファンレスで省電力なエッジAIアクセラレータAKD1500の新M.2モジュールを発表。産業・商業システムへのAI機能搭載を容易に。",
+        "blurb": "BrainChipが、ファンレスで省電力なエッジAIアクセラレータ「AKD1500」の新M.2モジュールを発表。産業・商業システムへのAI機能搭載を容易に。",
         "category": "company",
         "date": "2026-07-30",
         "stars": 3,
@@ -35,44 +35,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "Pre-Silicon Power Side-Channel Leakage In Processors (University of Lübeck)",
-        "blurb": "リューベック大学の研究者が、プロセッサ設計フローにおけるプリシリコン電力サイドチャネル漏洩の自動解析フレームワーク「SPARC」を発表しました。",
-        "category": "tools",
-        "date": "2026-07-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/pre-silicon-power-side-channel-leakage-in-processors-university-of-lubeck"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "TerraMaster F4-425 Pro Hybrid NAS Features Intel N350 SoC and Dual 5GbE LAN",
-        "blurb": "TerraMaster F4-425 Proは、最大152TB対応のハイブリッドNAS。AI搭載OSとデュアル5GbE LANを備え、高速ワークフローをサポート。",
-        "category": "tools",
-        "date": "2026-07-29",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/terramaster-f4-425-pro-hybrid-nas-features-intel-n350-soc-and-dual-5gbe-lan"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      }
-    ],
+    "tech": [],
     "market": [
       {
         "title": "Ryzen processors power physical AI workloads",
