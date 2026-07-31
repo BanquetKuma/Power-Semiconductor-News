@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-07-31T07:03:57.829914+09:00",
+  "generated_at": "2026-08-01T07:02:45.980785+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Hybrid Memory Combines NAND Flash And DRAM For Faster Data Transfer (U. of Seoul)",
-    "summary": "ソウル大学の研究者が、NANDフラッシュとDRAMを統合した新ハイブリッドメモリ「NAD」を発表。データ転送速度の向上を目指す。",
+    "title": "Chip Industry Week In Review",
+    "summary": "半導体業界の最新動向。CHIPS法、中国のDUV露光、UMCの拡張、DRAM不足、AIセキュリティ同盟などが注目。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/nad-memory-combines-nand-flash-and-dram-for-faster-data-transfer-u-of-seoul"
+        "url": "https://semiengineering.com/chip-industry-week-in-review-149"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Hybrid Memory Combines NAND Flash And DRAM For Faster Data Transfer (U. of Seoul)",
-        "blurb": "ソウル大学の研究者が、NANDフラッシュとDRAMを統合した新ハイブリッドメモリ「NAD」を発表。データ転送速度の向上を目指す。",
+        "title": "中国最大のDRAMメーカーCXMTがIPOへ　増産とHBM開発で存在感",
+        "blurb": "中国最大のDRAMメーカーCXMTがIPOへ。汎用DRAM増産とHBM開発で、世界のDRAM供給に影響を与える存在に。",
         "category": "company",
-        "date": "2026-07-30",
+        "date": "2026-07-31",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/nad-memory-combines-nand-flash-and-dram-for-faster-data-transfer-u-of-seoul"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/31/news068.html"
         },
         "field": {
           "primary": "memory",
@@ -33,9 +33,46 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "GPX10 Pro AI Processor Delivers Always-On Edge AI Below 100µW",
+        "blurb": "Ambient Scientificが超低消費電力AIプロセッサ「GPX10 Pro」を発表。100μW未満で常時稼働するエッジAIを実現。",
+        "category": "company",
+        "date": "2026-07-31",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/gpx10-pro-ai-processor-delivers-always-on-edge-ai-below-100%c2%b5w"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の最新動向。CHIPS法、中国のDUV露光、UMCの拡張、DRAM不足、AIセキュリティ同盟などが注目。",
+        "category": "business",
+        "date": "2026-07-31",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-149"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      }
+    ]
   }
 }

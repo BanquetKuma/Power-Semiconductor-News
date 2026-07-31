@@ -1,68 +1,51 @@
 {
-  "generated_at": "2026-07-30T06:58:41.738989+09:00",
+  "generated_at": "2026-08-01T07:02:45.981482+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "人の動きをまねるロボットで実演　STのフィジカルAI向け製品群",
-    "summary": "STマイクロ、人の動きを模倣するロボットや一体型モーターを展示。フィジカルAI向けソリューションを提案。",
+    "title": "ソニー半導体は1Q過去最高益、スマホ市況停滞も主要顧客ら拡大",
+    "summary": "ソニー半導体、スマホ市況停滞も主要顧客の拡大で1Q過去最高益。売上高5127億円、営業利益1222億円。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news047.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/31/news110.html"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "人の動きをまねるロボットで実演　STのフィジカルAI向け製品群",
-        "blurb": "STマイクロ、人の動きを模倣するロボットや一体型モーターを展示。フィジカルAI向けソリューションを提案。",
-        "category": "company",
-        "date": "2026-07-29",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/29/news047.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "TDK, LG Innotek Collaborate on Physical AI Solutions",
-        "blurb": "TDKとLGイノテックが、物理AI向けセンサー技術開発で提携。人型ロボット向け次世代ビジョン・触覚センサーモジュールに注力。",
-        "category": "company",
-        "date": "2026-07-29",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/tdk-lg-innotek-collaborate-on-physical-ai-solutions"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "Phantom-powered solid-state linear airflow sensor",
-        "blurb": "2線式で電源と信号を供給する、ファントム電源駆動の固体リニア風速センサー。",
+        "title": "Designer’s guide: Radar, LiDAR, and cameras advance ADAS",
+        "blurb": "ADASの安全性を高めるため、レーダー、LiDAR、カメラ技術の革新とセンサーフュージョンが自動車の知覚能力を向上させている。",
         "category": "tools",
-        "date": "2026-07-29",
+        "date": "2026-08-01",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/phantom-powered-solid-state-linear-airflow-sensor"
+          "url": "https://www.edn.com/designers-guide-radar-lidar-and-cameras-advance-adas"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "ソニー半導体は1Q過去最高益、スマホ市況停滞も主要顧客ら拡大",
+        "blurb": "ソニー半導体、スマホ市況停滞も主要顧客の拡大で1Q過去最高益。売上高5127億円、営業利益1222億円。",
+        "category": "business",
+        "date": "2026-07-31",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/31/news110.html"
         },
         "field": {
           "primary": "analog",
@@ -72,7 +55,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

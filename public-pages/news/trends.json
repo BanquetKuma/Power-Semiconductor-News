@@ -1,157 +1,155 @@
 {
-  "generated_at": "2026-07-31T07:04:02.323576+09:00",
-  "date": "2026-07-31",
+  "generated_at": "2026-08-01T07:02:50.920380+09:00",
+  "date": "2026-08-01",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の進化と普及",
+      "name": "SiC/GaNパワー半導体の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
         "industrial"
       ],
-      "summary": "SiC/GaNパワー半導体は、高効率・高速スイッチング・高耐圧を実現し、車載、データセンター、産業機器分野で採用が拡大。",
+      "summary": "SiC/GaNといった次世代パワー半導体の開発・量産化が加速。EV、再生可能エネルギー、産業機器での採用拡大が見込まれる。",
       "analysis": {
-        "short_term": "需要拡大と技術競争激化。供給安定化が課題。",
-        "mid_term": "EV、再生可能エネルギー、AIインフラで更なる成長。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味増大。"
+        "short_term": "SiC/GaNデバイスの性能向上とコスト低減が進む。",
+        "mid_term": "EVインバーター、充電インフラ、産業用電源での採用が本格化。",
+        "investment_implications": "SiC/GaN材料、デバイスメーカーへの投資妙味増加。"
       },
       "keywords": [
         "SiC",
         "GaN",
         "EV",
-        "データセンター",
-        "高効率"
+        "パワー半導体"
       ],
       "companies_mentioned": [
+        "Yokogawa",
         "STMicroelectronics",
         "SemiQ",
         "Toshiba",
         "三菱電機",
-        "シチズンファインデバイス"
+        "ルネサス"
       ]
     },
     {
-      "name": "AI向け計算能力の拡大",
-      "confidence": 0.9,
+      "name": "AI向け計算リソースの多様化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "logic",
-        "memory"
+        "logic"
       ],
-      "summary": "AI開発の規模拡大のため、計算クラスターが一般企業にも開放され、AIチップの需要が加速。",
+      "summary": "AI開発のボトルネック解消のため、国立研究所から一般企業への計算クラスター利用拡大。AIチップ不足への対応が進む。",
       "analysis": {
-        "short_term": "AIチップ不足は継続、計算リソース確保が鍵。",
-        "mid_term": "AIインフラ投資は継続、高性能チップ開発競争激化。",
-        "investment_implications": "AIチップ、HPC関連企業に注目。"
+        "short_term": "AI計算クラスターの利用が広がり、開発が加速。",
+        "mid_term": "AIチップの供給逼迫は続くも、代替ソリューションが浸透。",
+        "investment_implications": "AIインフラ、AIチップ関連企業への注目継続。"
       },
       "keywords": [
         "AI",
-        "HPC",
         "計算クラスター",
-        "チップ不足"
+        "AIチップ"
       ],
       "companies_mentioned": [
-        "AMD",
-        "Microsoft"
+        "NVIDIA"
       ]
     },
     {
-      "name": "先端パッケージング技術の重要性増大",
-      "confidence": 0.85,
+      "name": "先端パッケージング技術の進化",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
-        "ai",
-        "automotive"
+        "memory",
+        "ai"
       ],
-      "summary": "AI時代、チップレット集積の後工程技術の重要性が増し、反り管理などの課題解決が求められる。",
+      "summary": "先端パッケージングにおける反り管理など、プロセス制御の重要性が増大。高性能化・高密度化に対応する技術開発が進む。",
       "analysis": {
-        "short_term": "反り管理、歩留まり向上が喫緊の課題。",
-        "mid_term": "チップレット技術の成熟、3D-ICの信頼性向上。",
-        "investment_implications": "先端パッケージング関連技術・企業に注目。"
+        "short_term": "大型・薄型化に伴う反り管理技術が重要に。",
+        "mid_term": "3D-IC、チップレット技術の発展がAI・HPC性能を向上。",
+        "investment_implications": "先端パッケージング関連企業、材料メーカーに注目。"
       },
       "keywords": [
-        "チップレット",
         "先端パッケージング",
         "3D-IC",
-        "反り管理"
+        "チップレット"
       ],
       "companies_mentioned": []
     },
     {
-      "name": "次世代メモリ技術の研究開発",
+      "name": "新素材・新構造半導体の研究開発",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "ai",
-        "datacenter"
+        "general",
+        "power",
+        "logic",
+        "frontend"
       ],
-      "summary": "NANDフラッシュとDRAMを統合したハイブリッドメモリなど、データ転送速度向上を目指す新技術が登場。",
+      "summary": "エンジニアリングダイヤモンド、2D半導体、有機半導体など、次世代材料・構造の研究開発が活発化。性能向上や新用途開拓を目指す。",
       "analysis": {
-        "short_term": "研究開発段階、実用化には時間。",
-        "mid_term": "高性能コンピューティングでの採用拡大期待。",
-        "investment_implications": "メモリ技術革新への長期投資。"
+        "short_term": "ダイヤモンド、2D材料などの基礎研究が進展。",
+        "mid_term": "特定用途での実用化に向けた技術開発が加速。",
+        "investment_implications": "新素材・新構造関連のスタートアップや研究機関に注目。"
       },
       "keywords": [
-        "ハイブリッドメモリ",
-        "DRAM",
-        "NAND",
-        "高速化"
+        "ダイヤモンド半導体",
+        "2D半導体",
+        "有機半導体"
       ],
       "companies_mentioned": [
-        "University of Seoul"
+        "HAX",
+        "Stanford",
+        "University of Seoul",
+        "大阪公立大"
       ]
     },
     {
-      "name": "フィジカルAIとロボティクス",
+      "name": "地政学リスクとサプライチェーン再編",
       "confidence": 0.7,
-      "momentum": "rising",
+      "momentum": "stable",
       "related_fields": [
-        "ai",
-        "automotive",
-        "industrial",
-        "logic"
+        "geopolitics",
+        "foundry",
+        "memory",
+        "automotive"
       ],
-      "summary": "人の動きを模倣するロボットや、AR/XR向け冷却チップなど、フィジカルAI向けソリューションが提案されている。",
+      "summary": "CHIPS法、中国の半導体規制など地政学リスクが継続。サプライチェーンの強靭化、国内生産能力増強の動きが続く。",
       "analysis": {
-        "short_term": "AR/XR、ロボティクス分野での応用進展。",
-        "mid_term": "スマートファクトリー、自動運転への貢献期待。",
-        "investment_implications": "フィジカルAI関連技術・企業に注目。"
+        "short_term": "半導体製造装置・材料の国内供給網強化が進む。",
+        "mid_term": "地域分散型のサプライチェーン構築が加速。",
+        "investment_implications": "サプライチェーン再編の恩恵を受ける企業に注目。"
       },
       "keywords": [
-        "フィジカルAI",
-        "ロボティクス",
-        "AR/XR",
-        "冷却"
+        "CHIPS法",
+        "サプライチェーン",
+        "地政学リスク"
       ],
       "companies_mentioned": [
-        "STMicroelectronics",
-        "xMEMS"
+        "UMC",
+        "CXMT",
+        "JX金属"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
       "SiC/GaNパワー半導体の需要拡大",
-      "AI向け計算能力の増強",
-      "車載半導体市場の回復基調",
-      "先端パッケージング技術への投資増加"
+      "AI向け計算リソースの需要増",
+      "先端パッケージング技術の進展",
+      "車載半導体市場の回復期待"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "一部メモリ製品の価格下落懸念"
+      "一部メモリ製品の供給過剰懸念",
+      "地政学リスクによる供給制約"
     ],
     "neutral": [
-      "半導体製造装置の需要は安定",
-      "熊本地震による一時的な生産影響"
+      "半導体製造装置の投資動向",
+      "有機ELディスプレイ市場の動向"
     ]
   },
-  "source_count": 48
+  "source_count": 49
 }
