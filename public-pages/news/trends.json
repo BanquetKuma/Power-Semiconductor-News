@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-01T07:02:50.920380+09:00",
-  "date": "2026-08-01",
+  "generated_at": "2026-08-02T06:53:02.905888+09:00",
+  "date": "2026-08-02",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の普及加速",
+      "name": "広帯域ギャップ材料の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -11,11 +11,11 @@
         "automotive",
         "industrial"
       ],
-      "summary": "SiC/GaNといった次世代パワー半導体の開発・量産化が加速。EV、再生可能エネルギー、産業機器での採用拡大が見込まれる。",
+      "summary": "SiC、GaNといった広帯域ギャップ材料の採用がパワーエレクトロニクス分野で急速に進展。EV、再生可能エネルギー、産業機器での需要増が背景。",
       "analysis": {
-        "short_term": "SiC/GaNデバイスの性能向上とコスト低減が進む。",
-        "mid_term": "EVインバーター、充電インフラ、産業用電源での採用が本格化。",
-        "investment_implications": "SiC/GaN材料、デバイスメーカーへの投資妙味増加。"
+        "short_term": "SiC/GaNデバイスの供給逼迫が継続する可能性。",
+        "mid_term": "製造技術の進化とコスト低減が進み、さらなる用途拡大へ。",
+        "investment_implications": "SiC/GaN関連企業への投資妙味が増す。"
       },
       "keywords": [
         "SiC",
@@ -24,132 +24,141 @@
         "パワー半導体"
       ],
       "companies_mentioned": [
-        "Yokogawa",
-        "STMicroelectronics",
+        "STマイクロエレクトロニクス",
         "SemiQ",
-        "Toshiba",
         "三菱電機",
-        "ルネサス"
+        "横河電機"
       ]
     },
     {
-      "name": "AI向け計算リソースの多様化",
+      "name": "AIによる新材料・新技術開発",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "datacenter",
-        "logic"
+        "foundry",
+        "frontend",
+        "backend",
+        "general"
       ],
-      "summary": "AI開発のボトルネック解消のため、国立研究所から一般企業への計算クラスター利用拡大。AIチップ不足への対応が進む。",
+      "summary": "生成AIを活用した新材料開発や、設計・検証プロセスの効率化が進展。半導体開発のスピードと精度向上に貢献。",
       "analysis": {
-        "short_term": "AI計算クラスターの利用が広がり、開発が加速。",
-        "mid_term": "AIチップの供給逼迫は続くも、代替ソリューションが浸透。",
-        "investment_implications": "AIインフラ、AIチップ関連企業への注目継続。"
+        "short_term": "AIを活用した設計ツールの導入が進む。",
+        "mid_term": "新材料開発の加速により、次世代半導体技術の実現に寄与。",
+        "investment_implications": "AI技術を持つ企業や、AIを活用する材料・設計企業に注目。"
       },
       "keywords": [
         "AI",
-        "計算クラスター",
-        "AIチップ"
+        "新材料",
+        "生成AI",
+        "設計",
+        "開発"
       ],
       "companies_mentioned": [
-        "NVIDIA"
+        "三井化学",
+        "NVIDIA",
+        "IIT Roorkee"
       ]
     },
     {
-      "name": "先端パッケージング技術の進化",
+      "name": "先端パッケージング技術の重要性増大",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
         "memory",
-        "ai"
+        "ai",
+        "datacenter"
       ],
-      "summary": "先端パッケージングにおける反り管理など、プロセス制御の重要性が増大。高性能化・高密度化に対応する技術開発が進む。",
+      "summary": "チップの高性能化・高密度化に伴い、反り管理などの先端パッケージング技術が重要課題に。3D-IC技術の進展も後押し。",
       "analysis": {
-        "short_term": "大型・薄型化に伴う反り管理技術が重要に。",
-        "mid_term": "3D-IC、チップレット技術の発展がAI・HPC性能を向上。",
-        "investment_implications": "先端パッケージング関連企業、材料メーカーに注目。"
+        "short_term": "パッケージング工程での歩留まり改善が急務。",
+        "mid_term": "高性能コンピューティングやAI向けチップの需要増で、先端パッケージング市場は拡大。",
+        "investment_implications": "先端パッケージング関連企業への投資機会。"
       },
       "keywords": [
         "先端パッケージング",
         "3D-IC",
-        "チップレット"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "新素材・新構造半導体の研究開発",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "general",
-        "power",
-        "logic",
-        "frontend"
-      ],
-      "summary": "エンジニアリングダイヤモンド、2D半導体、有機半導体など、次世代材料・構造の研究開発が活発化。性能向上や新用途開拓を目指す。",
-      "analysis": {
-        "short_term": "ダイヤモンド、2D材料などの基礎研究が進展。",
-        "mid_term": "特定用途での実用化に向けた技術開発が加速。",
-        "investment_implications": "新素材・新構造関連のスタートアップや研究機関に注目。"
-      },
-      "keywords": [
-        "ダイヤモンド半導体",
-        "2D半導体",
-        "有機半導体"
+        "反り管理",
+        "高性能コンピューティング"
       ],
       "companies_mentioned": [
-        "HAX",
+        "M3D",
         "Stanford",
-        "University of Seoul",
-        "大阪公立大"
+        "Hanyang"
       ]
     },
     {
-      "name": "地政学リスクとサプライチェーン再編",
+      "name": "次世代メモリ技術の研究開発活発化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter"
+      ],
+      "summary": "NANDフラッシュとDRAMの統合や、HBM（High Bandwidth Memory）の開発など、データ転送速度向上に向けた次世代メモリ技術の研究開発が活発化。",
+      "analysis": {
+        "short_term": "HBMの供給不足がAI市場のボトルネックに。",
+        "mid_term": "新メモリ技術の実用化により、AIやデータセンターの性能が向上。",
+        "investment_implications": "次世代メモリ開発・製造に関わる企業に注目。"
+      },
+      "keywords": [
+        "メモリ",
+        "HBM",
+        "DRAM",
+        "NAND",
+        "AI"
+      ],
+      "companies_mentioned": [
+        "CXMT",
+        "U. of Seoul"
+      ]
+    },
+    {
+      "name": "地政学リスクと国内生産体制強化",
       "confidence": 0.7,
       "momentum": "stable",
       "related_fields": [
         "geopolitics",
         "foundry",
-        "memory",
-        "automotive"
+        "automotive",
+        "industrial"
       ],
-      "summary": "CHIPS法、中国の半導体規制など地政学リスクが継続。サプライチェーンの強靭化、国内生産能力増強の動きが続く。",
+      "summary": "地政学リスクの高まりを受け、半導体サプライチェーンの安定化に向けた国内生産体制の強化が進む。熊本での大規模投資が象徴的。",
       "analysis": {
-        "short_term": "半導体製造装置・材料の国内供給網強化が進む。",
-        "mid_term": "地域分散型のサプライチェーン構築が加速。",
-        "investment_implications": "サプライチェーン再編の恩恵を受ける企業に注目。"
+        "short_term": "熊本地震の影響が一部工場で懸念される。",
+        "mid_term": "国内での生産能力増強が進み、サプライチェーンの強靭化に寄与。",
+        "investment_implications": "国内半導体関連インフラ・製造企業への恩恵。"
       },
       "keywords": [
-        "CHIPS法",
+        "地政学リスク",
+        "国内生産",
         "サプライチェーン",
-        "地政学リスク"
+        "熊本"
       ],
       "companies_mentioned": [
-        "UMC",
-        "CXMT",
-        "JX金属"
+        "ソニー半導体",
+        "三井不動産",
+        "熊本県"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大",
-      "AI向け計算リソースの需要増",
-      "先端パッケージング技術の進展",
-      "車載半導体市場の回復期待"
+      "パワー半導体（SiC/GaN）市場の拡大",
+      "AI関連チップ需要の継続",
+      "先端パッケージング市場の成長"
     ],
     "bearish": [
-      "一部メモリ製品の供給過剰懸念",
-      "地政学リスクによる供給制約"
+      "一部レガシー製造ラインの閉鎖（ルネサス高崎工場）",
+      "半導体製造装置の供給能力の限界"
     ],
     "neutral": [
-      "半導体製造装置の投資動向",
-      "有機ELディスプレイ市場の動向"
+      "DRAM市場の需給バランス",
+      "半導体用スパッタリングターゲットの増産"
     ]
   },
-  "source_count": 49
+  "source_count": 54
 }
