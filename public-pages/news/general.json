@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-08-01T07:02:45.983176+09:00",
+  "generated_at": "2026-08-03T06:53:21.203716+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "HAX Backs Diamond Quanta’s Engineered Diamond Platform",
-    "summary": "HAXは、半導体、フォトニクス、パワーエレクトロニクス向けに、エンジニアリングダイヤモンド技術の商業化を支援します。",
+    "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
+    "summary": "MIT、Google、ワシントン大学の研究者が、ISA契約に基づきRTLプロセッサの機能的正確性と非漏洩性を検証するモジュール式手法「Granite」を発表。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/hax-backs-diamond-quantas-engineered-diamond-platform"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "光反応で有機半導体の作り分けに成功、大阪公立大",
-        "blurb": "大阪公立大は光照射条件で有機半導体の骨格を作り分ける技術を開発。軽くて柔らかい有機半導体の実現へ。",
-        "category": "company",
-        "date": "2026-07-31",
+        "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
+        "blurb": "MIT、Google、ワシントン大学の研究者が、ISA契約に基づきRTLプロセッサの機能的正確性と非漏洩性を検証するモジュール式手法「Granite」を発表。",
+        "category": "tools",
+        "date": "2026-08-03",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/31/news035.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw"
         },
         "field": {
           "primary": "general",
@@ -35,26 +36,6 @@
         }
       }
     ],
-    "tech": [],
-    "market": [
-      {
-        "title": "HAX Backs Diamond Quanta’s Engineered Diamond Platform",
-        "blurb": "HAXは、半導体、フォトニクス、パワーエレクトロニクス向けに、エンジニアリングダイヤモンド技術の商業化を支援します。",
-        "category": "business",
-        "date": "2026-07-31",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/hax-backs-diamond-quantas-engineered-diamond-platform"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }
