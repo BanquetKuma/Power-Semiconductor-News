@@ -1,78 +1,41 @@
 {
-  "generated_at": "2026-08-01T07:02:45.980785+09:00",
+  "generated_at": "2026-08-04T07:06:43.558086+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Week In Review",
-    "summary": "半導体業界の最新動向。CHIPS法、中国のDUV露光、UMCの拡張、DRAM不足、AIセキュリティ同盟などが注目。",
+    "title": "Forgix Packs RP2354 MCU and Trion T8 FPGA into a $50 Teensy-Size Board",
+    "summary": "ForgixはRP2354とFPGAを搭載した50ドルの小型開発ボードを発表。USB-Cも装備。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-week-in-review-149"
+        "name": "electronics-lab.com",
+        "url": "https://www.electronics-lab.com/forgix-packs-rp2354-mcu-and-trion-t8-fpga-into-a-50-teensy-size-board"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "中国最大のDRAMメーカーCXMTがIPOへ　増産とHBM開発で存在感",
-        "blurb": "中国最大のDRAMメーカーCXMTがIPOへ。汎用DRAM増産とHBM開発で、世界のDRAM供給に影響を与える存在に。",
-        "category": "company",
-        "date": "2026-07-31",
+        "title": "Forgix Packs RP2354 MCU and Trion T8 FPGA into a $50 Teensy-Size Board",
+        "blurb": "ForgixはRP2354とFPGAを搭載した50ドルの小型開発ボードを発表。USB-Cも装備。",
+        "category": "tools",
+        "date": "2026-08-03",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/31/news068.html"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/forgix-packs-rp2354-mcu-and-trion-t8-fpga-into-a-50-teensy-size-board"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "GPX10 Pro AI Processor Delivers Always-On Edge AI Below 100µW",
-        "blurb": "Ambient Scientificが超低消費電力AIプロセッサ「GPX10 Pro」を発表。100μW未満で常時稼働するエッジAIを実現。",
-        "category": "company",
-        "date": "2026-07-31",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/gpx10-pro-ai-processor-delivers-always-on-edge-ai-below-100%c2%b5w"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "ai",
           "industry": null
         }
       }
     ],
-    "tech": [],
-    "market": [
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "半導体業界の最新動向。CHIPS法、中国のDUV露光、UMCの拡張、DRAM不足、AIセキュリティ同盟などが注目。",
-        "category": "business",
-        "date": "2026-07-31",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-149"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      }
-    ]
+    "market": []
   }
 }

@@ -1,21 +1,58 @@
 {
-  "generated_at": "2026-08-03T06:53:21.203716+09:00",
+  "generated_at": "2026-08-04T07:06:43.559580+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
-    "summary": "MIT、Google、ワシントン大学の研究者が、ISA契約に基づきRTLプロセッサの機能的正確性と非漏洩性を検証するモジュール式手法「Granite」を発表。",
+    "title": "Chip Bridges Neuromorphic And Deep-Network Computing (TU Dresden)",
+    "summary": "ドレスデン工科大学などが、深層学習とニューロモーフィックコンピューティングを統合する新チップ「SpiNNaker2」を発表。最大4.5TOPSの性能。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw"
+        "url": "https://semiengineering.com/chip-bridges-neuromorphic-and-deep-network-computing-tu-dresden"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "Self-Driving Cars Have An Aging Problem",
+        "blurb": "自動運転車のセンサーはAI負荷で劣化。安全重要システムの信頼性維持に課題。",
+        "category": "company",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/self-driving-cars-have-an-aging-problem"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip Bridges Neuromorphic And Deep-Network Computing (TU Dresden)",
+        "blurb": "ドレスデン工科大学などが、深層学習とニューロモーフィックコンピューティングを統合する新チップ「SpiNNaker2」を発表。最大4.5TOPSの性能。",
+        "category": "company",
+        "date": "2026-08-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-bridges-neuromorphic-and-deep-network-computing-tu-dresden"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
         "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
@@ -36,6 +73,25 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "2026年2Qのウエハー出荷面積は7.4％増　AI需要がけん引",
+        "blurb": "2026年2Qのシリコンウエハー出荷面積は前年同期比7.4％増の35.73億平方インチ。AI需要が成長を牽引した。",
+        "category": "business",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news025.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

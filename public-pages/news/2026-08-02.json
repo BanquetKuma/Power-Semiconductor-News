@@ -1,73 +1,182 @@
 {
-  "generated_at": "2026-08-03T06:53:21.203185+09:00",
+  "generated_at": "2026-08-02T06:52:58.377507+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
-    "summary": "MIT、Google、ワシントン大学の研究者が、ISA契約に基づきRTLプロセッサの機能的正確性と非漏洩性を検証するモジュール式手法「Granite」を発表。",
+    "title": "Yokogawa Test & Measurement Releases WT1500 Precision Power Analyzer",
+    "summary": "横河電機が、xEVや再生可能エネルギー向けの高電圧測定ニーズに応える高精度電力計「WT1500」を発表しました。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/yokogawa-test-measurement-releases-wt1500-precision-power-analyzer"
       }
     ]
   },
   "sections": {
-    "business": [],
-    "tools": [
+    "business": [
       {
-        "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
-        "blurb": "MIT、Google、ワシントン大学の研究者が、ISA契約に基づきRTLプロセッサの機能的正確性と非漏洩性を検証するモジュール式手法「Granite」を発表。",
-        "category": "tools",
-        "date": "2026-08-03",
+        "title": "Florida Got $200 Million For EV Chargers. It Wants To Spend It On Air Taxis Instead",
+        "blurb": "フロリダ州、連邦政府からのEV充電器設置資金2億ドルを、まだFAA承認を得ていない空飛ぶクルマ（eVTOL）に使う意向。",
+        "category": "business",
+        "date": "2026-08-01",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/803441/florida-nevi-ev-charger-money-evtols-air-taxis"
         },
         "field": {
-          "primary": "general",
+          "primary": "automotive",
           "device": null,
           "process": null,
-          "market": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "‘Largest Supply Disruption In History’: High Oil Prices Drove Record EV Sales In 50 Countries",
+        "blurb": "高油価が世界50カ国でEV販売記録を後押し。米国は減少も、他国は石油依存低減へ。",
+        "category": "business",
+        "date": "2026-08-01",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/803381/ev-sales-records-50-countries-high-gas-prices"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "Designer’s guide: Radar, LiDAR, and cameras advance ADAS",
+        "blurb": "ADASの安全性を高めるため、レーダー、LiDAR、カメラ技術の進化とセンサーフュージョンが自動車の知覚能力を向上させている。",
+        "category": "tools",
+        "date": "2026-08-01",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/designers-guide-radar-lidar-and-cameras-advance-adas"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Fault-Tolerant Quantum Computers, Sustained Performance Defines the Next Phase of Edge AI, Agentic AI for EDA: Embedded Week Insights",
+        "blurb": "次世代AIは耐故障性量子コンピュータ、持続的性能、EDA向けエージェンティックAIが鍵となる。",
+        "category": "tools",
+        "date": "2026-08-01",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/fault-tolerant-quantum-computers-sustained-performance-defines-the-next-phase-of-edge-ai-agentic-ai-for-eda-embedded-week-insights"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
     "company": [
       {
-        "title": "EREVs Can Apparently Be Almost As Low-Maintenance As Full EVs",
-        "blurb": "Xiaomiの新型EREVは、オイル交換が3年不要で、EV並みの低メンテナンス性を実現。",
+        "title": "Yokogawa Test & Measurement Releases WT1500 Precision Power Analyzer",
+        "blurb": "横河電機が、xEVや再生可能エネルギー向けの高電圧測定ニーズに応える高精度電力計「WT1500」を発表しました。",
         "category": "company",
-        "date": "2026-08-02",
+        "date": "2026-08-01",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/yokogawa-test-measurement-releases-wt1500-precision-power-analyzer"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "I Was Worried When My Parents Went Full EV, But They Proved Me Wrong",
+        "blurb": "70代のノースカロライナ州の高齢者でも、EVライフスタイルは十分に送れる。心配していたが、彼らはそれを証明した。",
+        "category": "company",
+        "date": "2026-08-01",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/803385/erev-oil-change-china-xiaomi"
+          "url": "https://insideevs.com/features/803437/owner-story-ioniq-elderly-carolina"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "I Experienced The World’s First Electrostatic Speakers In A Production Car. Now I Can't Go Back",
+        "blurb": "レンジローバーSVに搭載された世界初の静電スピーカーは、コンサートホールのような音響体験を実現。一度聞いたら戻れないほどの感動。",
+        "category": "company",
+        "date": "2026-08-01",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/803291/range-rover-sv-ultra-electrostatic-speakers-warwick-acoustics"
         },
         "field": null
       },
       {
-        "title": "Lucid's New World Record Has Nothing To Do With Charging Speed Or Range",
-        "blurb": "Lucid、新SUV「Gravity」のV2L機能で音楽再生の世界記録を樹立。充電速度や航続距離とは無関係。",
+        "title": "Tesla Breaking Off Its China Business? Musk Calls It 'Absurdly Fake News'",
+        "blurb": "テスラ、中国事業の分離報道を「ばかげた偽ニュース」とイーロン・マスク氏が否定。SpaceX合併を巡る報道。",
         "category": "company",
-        "date": "2026-08-02",
+        "date": "2026-08-01",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/803237/lucid-gravity-world-record-music-djs"
+          "url": "https://insideevs.com/news/803408/musk-china-us-split-fake"
         },
         "field": null
       },
       {
-        "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
-        "blurb": "ヒョンデのEV「アイオニック5 N」と「アイオニック6 N」は、パワートレインを共有するが、ソフトウェアとシャシーチューニングで異なる走行特性を実現。",
+        "title": "The Ferrari Luce EV Proves The Haters Wrong",
+        "blurb": "フェラーリ・ルーチェEV、リビアンR2の航続距離テスト、ウェイモの安全性を検証したポッドキャスト。",
         "category": "company",
-        "date": "2026-08-02",
+        "date": "2026-08-01",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n"
+          "url": "https://insideevs.com/features/803406/ferrari-luce-rivian-r2-waymo-safety-podcast"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Ford CEO Thinks Chinese EVs Could Hit The U.S. Within 5 To 10 Years: Report",
+        "blurb": "フォードCEOは、中国製EVが5〜10年以内に米国市場に参入する可能性があると述べた。",
+        "category": "company",
+        "date": "2026-08-01",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/803284/ford-china-evs-5-years"
         },
         "field": null
       }

@@ -1,164 +1,177 @@
 {
-  "generated_at": "2026-08-03T06:53:25.698497+09:00",
-  "date": "2026-08-03",
+  "generated_at": "2026-08-04T07:06:48.458097+09:00",
+  "date": "2026-08-04",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体需要拡大",
+      "name": "広帯域ギャップ（WBG）材料の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
+        "datacenter",
         "industrial"
       ],
-      "summary": "SiCやGaNといった広帯域ギャップ材料を用いたパワー半導体の需要が、EVや再生可能エネルギー分野を中心に拡大。高効率化・小型化に貢献。",
+      "summary": "SiCおよびGaN材料の性能向上、製造技術の進展、ゲートドライバや実装技術の進化により、電力変換効率の向上と小型化が進んでいます。",
       "analysis": {
-        "short_term": "SiC/GaN向け新製品・技術発表が活発化。",
-        "mid_term": "量産体制強化とコスト低減が進む見込み。",
-        "investment_implications": "関連メーカーへの投資妙味増す。"
+        "short_term": "新製品投入と技術発表が活発化。需要拡大が続く。",
+        "mid_term": "EV、再生可能エネルギー、データセンターでの採用が加速。",
+        "investment_implications": "WBG関連技術を持つ企業への投資妙味が増す。"
       },
       "keywords": [
         "SiC",
         "GaN",
+        "電力変換",
         "EV",
-        "再生可能エネルギー",
-        "パワー半導体"
+        "再生可能エネルギー"
       ],
       "companies_mentioned": [
-        "Yokogawa Electric",
-        "STMicroelectronics",
+        "Teledyne HiRel",
+        "横河電機",
+        "STマイクロエレクトロニクス",
         "SemiQ",
-        "Toshiba",
-        "Mitsubishi Electric"
+        "三井化学"
       ]
     },
     {
-      "name": "AI・計算クラスターの普及",
-      "confidence": 0.85,
+      "name": "AI・データセンター向け需要の継続拡大",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "logic"
+        "memory",
+        "logic",
+        "foundry"
       ],
-      "summary": "AI開発のボトルネック解消のため、計算クラスターの利用が国立研究所から一般企業へ拡大。大規模AI開発を加速。",
+      "summary": "AI開発の加速に伴い、高性能AIチップ、HBM、データセンター向けインフラの需要が急増。計算クラスターの利用拡大も進んでいます。",
       "analysis": {
-        "short_term": "AIチップ需要は引き続き堅調。",
-        "mid_term": "計算リソースの分散・共有が進む可能性。",
-        "investment_implications": "AIインフラ関連企業に注目。"
+        "short_term": "AIチップ・部品の供給逼迫が継続。増産投資が活発化。",
+        "mid_term": "HBMや次世代AIチップの開発競争が激化。ファウンドリの稼働率も高止まり。",
+        "investment_implications": "AIインフラ、HBM、ファウンドリ関連企業に注目。"
       },
       "keywords": [
         "AI",
+        "データセンター",
+        "HBM",
         "計算クラスター",
-        "チップ不足",
-        "大規模AI"
+        "ファウンドリ"
       ],
       "companies_mentioned": [
-        "IBM",
+        "ルネサス",
+        "村田製作所",
+        "CXMT",
         "NVIDIA"
       ]
     },
     {
-      "name": "先端パッケージング技術の進化",
-      "confidence": 0.8,
+      "name": "先端プロセス・パッケージング技術の高度化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
+        "logic",
+        "frontend",
         "backend",
         "miniaturization",
-        "logic",
-        "memory"
+        "foundry"
       ],
-      "summary": "半導体の高集積化・高性能化に向け、先端パッケージング技術が重要性を増す。大型化・薄型化に伴う反り管理が課題。",
+      "summary": "2nmプロセスの商用化が始まり、チップの微細化・高性能化が進展。先端パッケージングでは反り管理などの課題克服が重要になっています。",
       "analysis": {
-        "short_term": "反り管理技術の重要性が高まる。",
-        "mid_term": "3D-IC等の実装技術開発が進展。",
-        "investment_implications": "パッケージング関連企業に機会。"
+        "short_term": "2nmプロセスの初期展開。歩留まり向上が鍵。",
+        "mid_term": "先端パッケージング技術が性能向上に不可欠となる。",
+        "investment_implications": "微細化・先端パッケージング技術を持つ企業が優位。"
       },
       "keywords": [
+        "2nmプロセス",
         "先端パッケージング",
-        "3D-IC",
-        "反り管理",
-        "高集積化"
+        "微細化",
+        "RTL",
+        "CMOS"
       ],
       "companies_mentioned": [
-        "Sony Semiconductor",
-        "UMC"
+        "Apple",
+        "Samsung",
+        "Google",
+        "MIT",
+        "Stanford"
       ]
     },
     {
       "name": "新材料・新構造半導体の研究開発",
-      "confidence": 0.75,
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "power",
         "logic",
         "frontend",
-        "foundry"
+        "wafer"
       ],
-      "summary": "人工ダイヤモンドや2D半導体、有機半導体など、次世代材料・構造の研究開発が活発化。性能向上や新機能実現を目指す。",
+      "summary": "エンジニアリングダイヤモンド、2D半導体、有機半導体など、次世代材料・構造の研究開発が活発化し、新たな応用分野の開拓が期待されます。",
       "analysis": {
-        "short_term": "基礎研究段階の技術発表が増加。",
-        "mid_term": "一部技術の実用化・商用化が進む可能性。",
-        "investment_implications": "将来性のある技術を持つ企業に注目。"
+        "short_term": "基礎研究段階だが、実用化に向けた動きが加速。",
+        "mid_term": "特定分野でのブレークスルーが期待される。",
+        "investment_implications": "将来的な技術革新の担い手となる企業に注目。"
       },
       "keywords": [
-        "人工ダイヤモンド",
+        "ダイヤモンド",
         "2D半導体",
         "有機半導体",
-        "新材料"
+        "新材料",
+        "フォトニクス"
       ],
       "companies_mentioned": [
+        "HAX",
         "Diamond Quanta",
-        "Stanford University",
-        "Hanyang University",
-        "Osaka Metropolitan University",
-        "Mitsui Chemicals"
+        "大阪公立大",
+        "Stanford",
+        "Hanyang"
       ]
     },
     {
-      "name": "地政学リスクと在庫管理の重要性",
-      "confidence": 0.7,
+      "name": "自動運転・インテリジェントシステムの信頼性",
+      "confidence": 0.75,
       "momentum": "stable",
       "related_fields": [
-        "geopolitics",
-        "foundry",
-        "general"
+        "automotive",
+        "ai",
+        "logic",
+        "analog"
       ],
-      "summary": "地政学リスクの高まりを受け、半導体サプライチェーンの安定化が課題。バッファー在庫の確保が重要視される。",
+      "summary": "自動運転車のセンサー劣化やAI負荷による信頼性維持が課題。安全重要システムの検証・信頼性向上が求められています。",
       "analysis": {
-        "short_term": "在庫調整の動きが続く可能性。",
-        "mid_term": "サプライチェーン強靭化への投資が増加。",
-        "investment_implications": "在庫管理・サプライチェーン関連企業に注目。"
+        "short_term": "信頼性向上のための技術開発・標準化が進む。",
+        "mid_term": "安全基準の厳格化に対応した製品開発が重要に。",
+        "investment_implications": "信頼性・検証技術関連企業に機会。"
       },
       "keywords": [
-        "地政学リスク",
-        "在庫管理",
-        "サプライチェーン",
-        "CHIPS法"
+        "自動運転",
+        "信頼性",
+        "AI",
+        "センサー",
+        "検証"
       ],
       "companies_mentioned": [
-        "CXMT",
-        "Core Staff",
-        "CEDI"
+        "MIT",
+        "Google",
+        "UW"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiC/GaNパワー半導体の需要拡大",
-      "AI関連の計算リソース需要増加",
-      "先端パッケージング技術への投資活発化",
-      "ソニー半導体の好調な業績"
+      "AI・データセンター向け需要の旺盛さ",
+      "WBG材料の採用拡大",
+      "2nmプロセスの商用化開始",
+      "半導体ウェハー出荷面積の増加"
     ],
     "bearish": [
-      "ルネサス高崎工場の閉鎖（一部ライン）",
-      "スマホ市況の停滞（ソニー半導体関連）"
+      "自動運転車のセンサー劣化問題",
+      "一部工場の閉鎖（ルネサス高崎）"
     ],
     "neutral": [
-      "半導体用スパッタリングターゲットの加工能力増強",
-      "熊本における半導体関連産業拠点の開発進展",
-      "令和8年熊本地震の影響調査"
+      "半導体業界のバッファー在庫確保の重要性",
+      "半導体製造技術による3D構造の実現"
     ]
   },
-  "source_count": 53
+  "source_count": 45
 }

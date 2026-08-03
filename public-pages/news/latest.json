@@ -1,19 +1,128 @@
 {
-  "generated_at": "2026-08-03T06:53:21.203185+09:00",
+  "generated_at": "2026-08-04T07:06:43.556635+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
-    "summary": "MIT、Google、ワシントン大学の研究者が、ISA契約に基づきRTLプロセッサの機能的正確性と非漏洩性を検証するモジュール式手法「Granite」を発表。",
+    "title": "Teledyne HiRel Introduces New GaN Gate Driver",
+    "summary": "Teledyne HiRelが新しいGaNゲートドライバーを発表。産業・航空宇宙向け電力変換を簡素化。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/teledyne-hirel-introduces-new-gan-gate-driver"
       }
     ]
   },
   "sections": {
-    "business": [],
+    "business": [
+      {
+        "title": "Pulse Capacitors in High Power Discharge Applications",
+        "blurb": "高出力放電用途のパルスコンデンサは、軍事、医療、エネルギー分野で利用され、特にセラミックタイプが有利です。",
+        "category": "business",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/pulse-capacitors-in-high-power-discharge-applications"
+        },
+        "field": null
+      },
+      {
+        "title": "HDD大手Seagateの四半期業績、3四半期連続で利益率が過去最高を更新",
+        "blurb": "HDD大手のSeagate、2026年度第4四半期で利益率が3四半期連続で過去最高を更新した。",
+        "category": "business",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news023.html"
+        },
+        "field": null
+      },
+      {
+        "title": "ルネサス、26年2Qは増収増益　データセンター需要強く「供給はパツパツ」",
+        "blurb": "ルネサス、26年2Qは増収増益。データセンター需要が好調で売上高24.8%増、営業利益は大幅増。地震の影響は限定的。",
+        "category": "business",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news038.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "2026年は「2nm商用化元年」 Panther Lake搭載PCなど最新機を分解",
+        "blurb": "2026年は2nmプロセッサ商用化元年。AppleやSamsungの最新PC/スマホを分解。秋にはApple/Googleからも2nmプロセッサ登場予定。",
+        "category": "business",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/31/news016.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "2026年2Qのウエハー出荷面積は7.4％増　AI需要がけん引",
+        "blurb": "2026年2Qのシリコンウエハー出荷面積は前年同期比7.4％増の35.73億平方インチ。AI需要が成長を牽引した。",
+        "category": "business",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news025.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "村田製作所、26年度1Qは売上高が過去最高　データセンター関連は81％増",
+        "blurb": "村田製作所、26年度1Q売上高は過去最高の5023億円。AIサーバ向け部品需要増が牽引。通期業績予想も上方修正。",
+        "category": "business",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news034.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Next-gen components power safer, smarter vehicles",
+        "blurb": "次世代部品がLED、MCU、センサー、電源デバイスなどを進化させ、より安全で信頼性の高い自動車を実現。",
+        "category": "business",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/next-gen-components-power-safer-smarter-vehicles"
+        },
+        "field": null
+      }
+    ],
     "tools": [
       {
         "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
@@ -32,42 +141,144 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Fluxgate basics: How magnetic saturation changes everything",
+        "blurb": "フラックスゲートセンサーは磁気飽和を利用し、高精度・高安定性を実現。通常の誘導検出器を凌駕する。",
+        "category": "tools",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/fluxgate-basics-how-magnetic-saturation-changes-everything"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Dissecting third-party camera batteries, part 1: Functional misbehavior",
+        "blurb": "サードパーティ製カメラバッテリーの機能不全を検証。安価な互換バッテリーは充電できない場合があり、経済的とは限らない。",
+        "category": "tools",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/dissecting-third-party-camera-batteries-part-1-functional-misbehavior"
+        },
+        "field": null
+      },
+      {
+        "title": "Forgix Packs RP2354 MCU and Trion T8 FPGA into a $50 Teensy-Size Board",
+        "blurb": "ForgixはRP2354とFPGAを搭載した50ドルの小型開発ボードを発表。USB-Cも装備。",
+        "category": "tools",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/forgix-packs-rp2354-mcu-and-trion-t8-fpga-into-a-50-teensy-size-board"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "company": [
       {
-        "title": "EREVs Can Apparently Be Almost As Low-Maintenance As Full EVs",
-        "blurb": "Xiaomiの新型EREVは、オイル交換が3年不要で、EV並みの低メンテナンス性を実現。",
+        "title": "Teledyne HiRel Introduces New GaN Gate Driver",
+        "blurb": "Teledyne HiRelが新しいGaNゲートドライバーを発表。産業・航空宇宙向け電力変換を簡素化。",
         "category": "company",
-        "date": "2026-08-02",
+        "date": "2026-08-03",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/803385/erev-oil-change-china-xiaomi"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/teledyne-hirel-introduces-new-gan-gate-driver"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Self-Driving Cars Have An Aging Problem",
+        "blurb": "自動運転車のセンサーはAI負荷で劣化。安全重要システムの信頼性維持に課題。",
+        "category": "company",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/self-driving-cars-have-an-aging-problem"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "想定以上に早い生産再開、10年前の教訓生きる",
+        "blurb": "免震・耐震強化と避難訓練の重要性が、想定より早い生産再開で再認識された。",
+        "category": "company",
+        "date": "2026-08-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news062.html"
         },
         "field": null
       },
       {
-        "title": "Lucid's New World Record Has Nothing To Do With Charging Speed Or Range",
-        "blurb": "Lucid、新SUV「Gravity」のV2L機能で音楽再生の世界記録を樹立。充電速度や航続距離とは無関係。",
+        "title": "Chip Bridges Neuromorphic And Deep-Network Computing (TU Dresden)",
+        "blurb": "ドレスデン工科大学などが、深層学習とニューロモーフィックコンピューティングを統合する新チップ「SpiNNaker2」を発表。最大4.5TOPSの性能。",
         "category": "company",
-        "date": "2026-08-02",
+        "date": "2026-08-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-bridges-neuromorphic-and-deep-network-computing-tu-dresden"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Rivian's Also E-Bike Kicks Off Deliveries Soon",
+        "blurb": "Rivianのeバイク「Also TM-B」が、遅延を経て今週から顧客への納車を開始する。",
+        "category": "company",
+        "date": "2026-08-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/803237/lucid-gravity-world-record-music-djs"
+          "url": "https://insideevs.com/news/803627/also-rivian-ebike-deliveries-begin"
         },
         "field": null
       },
       {
-        "title": "These Hyundai N EVs Share Hardware. Software Makes Them Feel Different",
-        "blurb": "ヒョンデのEV「アイオニック5 N」と「アイオニック6 N」は、パワートレインを共有するが、ソフトウェアとシャシーチューニングで異なる走行特性を実現。",
+        "title": "The Rivian R2 Will Let You Drift Like Chris Harris Until the Tires Blow Up",
+        "blurb": "新型EV「リビアンR2」は、オフロードSUVながらドリフト走行が可能。タイヤが破裂するまで楽しめるほどの走行性能を持つ。",
         "category": "company",
-        "date": "2026-08-02",
+        "date": "2026-08-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/803467/ioniq-5-ioniq-6-n"
+          "url": "https://insideevs.com/news/803630/rivian-r2-drift-tire-explodes"
         },
         "field": null
       }
