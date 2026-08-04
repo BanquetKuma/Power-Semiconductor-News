@@ -1,41 +1,78 @@
 {
-  "generated_at": "2026-08-04T07:06:43.557834+09:00",
+  "generated_at": "2026-08-05T07:09:17.883213+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Teledyne HiRel Introduces New GaN Gate Driver",
-    "summary": "Teledyne HiRelが新しいGaNゲートドライバーを発表。産業・航空宇宙向け電力変換を簡素化。",
+    "title": "JEDEC’s Advanced Testing Standards for SiC Power Devices",
+    "summary": "JEDECがSiCパワーデバイスの短絡耐性試験と加速ストレス試験の規格を発表。信頼性向上へ。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/teledyne-hirel-introduces-new-gan-gate-driver"
+        "url": "https://www.powerelectronicsnews.com/jedecs-advanced-testing-standards-for-sic-power-devices"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Teledyne HiRel Introduces New GaN Gate Driver",
-        "blurb": "Teledyne HiRelが新しいGaNゲートドライバーを発表。産業・航空宇宙向け電力変換を簡素化。",
+        "title": "JEDEC’s Advanced Testing Standards for SiC Power Devices",
+        "blurb": "JEDECがSiCパワーデバイスの短絡耐性試験と加速ストレス試験の規格を発表。信頼性向上へ。",
         "category": "company",
-        "date": "2026-08-03",
+        "date": "2026-08-04",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/teledyne-hirel-introduces-new-gan-gate-driver"
+          "url": "https://www.powerelectronicsnews.com/jedecs-advanced-testing-standards-for-sic-power-devices"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "industrial",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "酸化ガリウムの結晶内欠陥を3次元的に可視化",
+        "blurb": "ノベルクリスタルテクノロジーとJFCCは、次世代半導体材料「酸化ガリウム」の結晶欠陥を3次元可視化する技術を開発。非破壊・高速・高精度な評価が可能。",
+        "category": "company",
+        "date": "2026-08-04",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news026.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "FAや光デバイスがけん引　三菱電機、26年度Q1売上高は過去最高",
+        "blurb": "三菱電機、26年度Q1売上高・営業利益が過去最高。FAや光デバイスが貢献。通期見通しも上方修正。",
+        "category": "business",
+        "date": "2026-08-04",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/04/news064.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

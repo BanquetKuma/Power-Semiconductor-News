@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-08-04T07:06:43.558086+09:00",
+  "generated_at": "2026-08-05T07:09:17.883501+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Forgix Packs RP2354 MCU and Trion T8 FPGA into a $50 Teensy-Size Board",
-    "summary": "ForgixはRP2354とFPGAを搭載した50ドルの小型開発ボードを発表。USB-Cも装備。",
+    "title": "Chip Industry Technical Paper Roundup: Aug. 4",
+    "summary": "半導体業界の技術論文まとめ：NANDフラッシュとDRAMのハイブリッド、ニューロモルフィックコンピューティング、漏洩検証、酸化物エレクトロニクス、3D構造、LLMベンチマーク、サイドチャネル解析。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/forgix-packs-rp2354-mcu-and-trion-t8-fpga-into-a-50-teensy-size-board"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-4"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Forgix Packs RP2354 MCU and Trion T8 FPGA into a $50 Teensy-Size Board",
-        "blurb": "ForgixはRP2354とFPGAを搭載した50ドルの小型開発ボードを発表。USB-Cも装備。",
-        "category": "tools",
-        "date": "2026-08-03",
+        "title": "最大1000万IOPS　キオクシアが「Super High IOPS SSD」第1弾を開発",
+        "blurb": "キオクシアはAI向けSSD「GP1シリーズ」を開発。第2世代XL-FLASH採用で最大1000万IOPSの性能を実現。",
+        "category": "company",
+        "date": "2026-08-04",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/forgix-packs-rp2354-mcu-and-trion-t8-fpga-into-a-50-teensy-size-board"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/04/news096.html"
         },
         "field": {
           "primary": "memory",
@@ -36,6 +35,26 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "Chip Industry Technical Paper Roundup: Aug. 4",
+        "blurb": "半導体業界の技術論文まとめ：NANDフラッシュとDRAMのハイブリッド、ニューロモルフィックコンピューティング、漏洩検証、酸化物エレクトロニクス、3D構造、LLMベンチマーク、サイドチャネル解析。",
+        "category": "business",
+        "date": "2026-08-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-4"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "wafer",
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

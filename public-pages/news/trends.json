@@ -1,177 +1,168 @@
 {
-  "generated_at": "2026-08-04T07:06:48.458097+09:00",
-  "date": "2026-08-04",
+  "generated_at": "2026-08-05T07:09:22.440635+09:00",
+  "date": "2026-08-05",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ（WBG）材料の進化と普及",
+      "name": "広帯域ギャップ(WBG)材料の進化と応用拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
         "industrial"
       ],
-      "summary": "SiCおよびGaN材料の性能向上、製造技術の進展、ゲートドライバや実装技術の進化により、電力変換効率の向上と小型化が進んでいます。",
+      "summary": "SiC、GaNなどの広帯域ギャップ材料の標準化、新ゲートドライバ、熱管理・パッケージング技術が進展し、電力変換効率向上と小型化に貢献。",
       "analysis": {
-        "short_term": "新製品投入と技術発表が活発化。需要拡大が続く。",
-        "mid_term": "EV、再生可能エネルギー、データセンターでの採用が加速。",
-        "investment_implications": "WBG関連技術を持つ企業への投資妙味が増す。"
+        "short_term": "信頼性向上規格発表で採用加速。新製品投入活発。",
+        "mid_term": "EV、再生可能エネルギー、産業機器での採用が本格化。",
+        "investment_implications": "WBG材料関連企業に注目。技術開発力と量産体制が鍵。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "電力変換",
-        "EV",
-        "再生可能エネルギー"
+        "パワーデバイス",
+        "電力変換"
       ],
       "companies_mentioned": [
+        "JEDEC",
         "Teledyne HiRel",
-        "横河電機",
         "STマイクロエレクトロニクス",
-        "SemiQ",
-        "三井化学"
+        "ノベルクリスタルテクノロジー"
       ]
     },
     {
-      "name": "AI・データセンター向け需要の継続拡大",
+      "name": "AIチップ開発と計算リソースの拡大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "memory",
         "logic",
-        "foundry"
+        "frontend",
+        "backend"
       ],
-      "summary": "AI開発の加速に伴い、高性能AIチップ、HBM、データセンター向けインフラの需要が急増。計算クラスターの利用拡大も進んでいます。",
+      "summary": "AIチップの性能向上と大規模化が進む一方、計算クラスターの一般企業への開放や、チップレット設計のシミュレーション速度向上が課題。",
       "analysis": {
-        "short_term": "AIチップ・部品の供給逼迫が継続。増産投資が活発化。",
-        "mid_term": "HBMや次世代AIチップの開発競争が激化。ファウンドリの稼働率も高止まり。",
-        "investment_implications": "AIインフラ、HBM、ファウンドリ関連企業に注目。"
+        "short_term": "AIサーバー向け部品需要増。計算クラスター活用進む。",
+        "mid_term": "2nmプロセッサ商用化、AIチップのさらなる大型化。",
+        "investment_implications": "AIインフラ、高性能CPU/GPU、チップレット関連技術に投資妙味。"
       },
       "keywords": [
         "AI",
-        "データセンター",
-        "HBM",
+        "チップレット",
         "計算クラスター",
-        "ファウンドリ"
+        "2nm"
       ],
       "companies_mentioned": [
-        "ルネサス",
-        "村田製作所",
-        "CXMT",
-        "NVIDIA"
-      ]
-    },
-    {
-      "name": "先端プロセス・パッケージング技術の高度化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "frontend",
-        "backend",
-        "miniaturization",
-        "foundry"
-      ],
-      "summary": "2nmプロセスの商用化が始まり、チップの微細化・高性能化が進展。先端パッケージングでは反り管理などの課題克服が重要になっています。",
-      "analysis": {
-        "short_term": "2nmプロセスの初期展開。歩留まり向上が鍵。",
-        "mid_term": "先端パッケージング技術が性能向上に不可欠となる。",
-        "investment_implications": "微細化・先端パッケージング技術を持つ企業が優位。"
-      },
-      "keywords": [
-        "2nmプロセス",
-        "先端パッケージング",
-        "微細化",
-        "RTL",
-        "CMOS"
-      ],
-      "companies_mentioned": [
+        "DMP",
+        "NVIDIA",
         "Apple",
         "Samsung",
-        "Google",
-        "MIT",
-        "Stanford"
+        "Google"
       ]
     },
     {
-      "name": "新材料・新構造半導体の研究開発",
+      "name": "次世代材料・構造への投資と研究開発",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "logic",
-        "frontend",
-        "wafer"
+        "foundry",
+        "general",
+        "analog"
       ],
-      "summary": "エンジニアリングダイヤモンド、2D半導体、有機半導体など、次世代材料・構造の研究開発が活発化し、新たな応用分野の開拓が期待されます。",
+      "summary": "人工ダイヤモンド、酸化ガリウムなどの新材料や、ニューロモルフィックコンピューティング、伸縮性エレクトロニクスなどの新技術への投資・研究が進む。",
       "analysis": {
-        "short_term": "基礎研究段階だが、実用化に向けた動きが加速。",
-        "mid_term": "特定分野でのブレークスルーが期待される。",
-        "investment_implications": "将来的な技術革新の担い手となる企業に注目。"
+        "short_term": "新材料・新技術への出資・連携発表が増加。",
+        "mid_term": "実用化に向けた技術開発競争が激化。",
+        "investment_implications": "革新的な材料・技術を持つスタートアップや研究機関に注目。"
       },
       "keywords": [
-        "ダイヤモンド",
-        "2D半導体",
-        "有機半導体",
-        "新材料",
-        "フォトニクス"
+        "人工ダイヤモンド",
+        "酸化ガリウム",
+        "ニューロモルフィック",
+        "新材料"
       ],
       "companies_mentioned": [
         "HAX",
         "Diamond Quanta",
-        "大阪公立大",
-        "Stanford",
-        "Hanyang"
+        "TU Dresden",
+        "ソニー半導体",
+        "三井化学"
       ]
     },
     {
-      "name": "自動運転・インテリジェントシステムの信頼性",
+      "name": "サプライチェーンの信頼性とトレーサビリティ強化",
       "confidence": 0.75,
-      "momentum": "stable",
+      "momentum": "rising",
       "related_fields": [
-        "automotive",
-        "ai",
-        "logic",
-        "analog"
+        "geopolitics",
+        "foundry",
+        "frontend",
+        "backend",
+        "equipment"
       ],
-      "summary": "自動運転車のセンサー劣化やAI負荷による信頼性維持が課題。安全重要システムの検証・信頼性向上が求められています。",
+      "summary": "半導体製品の信頼性確保とサプライチェーンのレジリエンス向上が重要視され、トレーサビリティの重要性が再認識されている。",
       "analysis": {
-        "short_term": "信頼性向上のための技術開発・標準化が進む。",
-        "mid_term": "安全基準の厳格化に対応した製品開発が重要に。",
-        "investment_implications": "信頼性・検証技術関連企業に機会。"
+        "short_term": "COVID-19の教訓からサプライチェーンの可視化が進む。",
+        "mid_term": "地政学的リスクに対応した供給網構築が加速。",
+        "investment_implications": "サプライチェーン管理、トレーサビリティ技術関連企業に恩恵。"
       },
       "keywords": [
-        "自動運転",
+        "サプライチェーン",
+        "トレーサビリティ",
         "信頼性",
-        "AI",
-        "センサー",
-        "検証"
+        "レジリエンス"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "データセンター需要の継続的拡大",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "ai",
+        "memory",
+        "logic"
+      ],
+      "summary": "AIサーバー需要を中心にデータセンター向け製品・サービスの需要が堅調に推移しており、冷却システムなどのインフラ投資も活発化。",
+      "analysis": {
+        "short_term": "データセンター向け部品、冷却機器の需要が引き続き強い。",
+        "mid_term": "AI/HPC需要拡大に伴い、データセンターインフラ投資が継続。",
+        "investment_implications": "データセンター関連インフラ、高性能ストレージ、ネットワーク機器に注目。"
+      },
+      "keywords": [
+        "データセンター",
+        "AIサーバー",
+        "冷却",
+        "SSD"
       ],
       "companies_mentioned": [
-        "MIT",
-        "Google",
-        "UW"
+        "三菱電機",
+        "ルネサス",
+        "キオクシア",
+        "村田製作所"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け需要の旺盛さ",
-      "WBG材料の採用拡大",
-      "2nmプロセスの商用化開始",
-      "半導体ウェハー出荷面積の増加"
+      "広帯域ギャップ材料の標準化と新製品投入",
+      "AIチップ開発の加速と計算リソース拡大",
+      "データセンター需要の堅調な拡大",
+      "次世代材料・構造への投資活発化",
+      "ウエハー出荷面積の増加（AI需要けん引）"
     ],
     "bearish": [
       "自動運転車のセンサー劣化問題",
-      "一部工場の閉鎖（ルネサス高崎）"
+      "ルネサス高崎工場の閉鎖（一部ライン維持限界）"
     ],
     "neutral": [
-      "半導体業界のバッファー在庫確保の重要性",
-      "半導体製造技術による3D構造の実現"
+      "半導体トレーサビリティの重要性向上",
+      "ジュニアエンジニア育成の重要性",
+      "チップレット設計におけるシミュレーション速度の課題"
     ]
   },
-  "source_count": 45
+  "source_count": 46
 }
