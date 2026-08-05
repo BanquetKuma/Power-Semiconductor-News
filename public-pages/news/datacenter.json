@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-08-05T07:09:17.884316+09:00",
+  "generated_at": "2026-08-06T07:10:33.369492+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "三菱電機、米国にデータセンター向け冷却機器の新拠点",
-    "summary": "三菱電機、米国にデータセンター向け冷却機器の新拠点設立。2027年4月製造開始で、米市場でのワンストップサービス体制を強化する。",
+    "title": "Full Vehicle Integration Testing via Cloud-based Electronics Digital Twins at Volvo Cars",
+    "summary": "ボルボ・カーズは、クラウドベースの電子デジタルツインを活用し、ハードウェア到着前にソフトウェアスタックを検証する。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/04/news023.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/full-vehicle-integration-testing-via-cloud-based-electronics-digital-twins-at-volvo-cars"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "三菱電機、米国にデータセンター向け冷却機器の新拠点",
-        "blurb": "三菱電機、米国にデータセンター向け冷却機器の新拠点設立。2027年4月製造開始で、米市場でのワンストップサービス体制を強化する。",
+        "title": "Full Vehicle Integration Testing via Cloud-based Electronics Digital Twins at Volvo Cars",
+        "blurb": "ボルボ・カーズは、クラウドベースの電子デジタルツインを活用し、ハードウェア到着前にソフトウェアスタックを検証する。",
         "category": "company",
-        "date": "2026-08-04",
+        "date": "2026-08-05",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/full-vehicle-integration-testing-via-cloud-based-electronics-digital-twins-at-volvo-cars"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "直接液冷に初対応、キオクシアがデータセンター用NVMe SSD",
+        "blurb": "キオクシアは、直接液冷に対応したデータセンター向けNVMe SSD「NX1シリーズ」のサンプル出荷を開始。PCIe 5.0対応で高性能・高効率を実現。",
+        "category": "company",
+        "date": "2026-08-05",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/04/news023.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/05/news031.html"
         },
         "field": {
           "primary": "datacenter",
@@ -36,6 +54,43 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "CXL controller scales server memory",
+        "blurb": "Montage TechnologyがAIデータセンター向けCXL 3.2メモリ拡張コントローラーチップを発表。サーバーメモリ拡張に貢献。",
+        "category": "business",
+        "date": "2026-08-06",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/cxl-controller-scales-server-memory"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "DDR5 MRDIMM chipset boosts server bandwidth",
+        "blurb": "ルネサスがDDR5 MRDIMMチップセットを発表。サーバー帯域幅を最大16,000 MT/sに向上させる。",
+        "category": "business",
+        "date": "2026-08-06",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ddr5-mrdimm-chipset-boosts-server-bandwidth"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ]
   }
 }

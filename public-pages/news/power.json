@@ -1,48 +1,50 @@
 {
-  "generated_at": "2026-08-05T07:09:17.883213+09:00",
+  "generated_at": "2026-08-06T07:10:33.367736+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "JEDEC’s Advanced Testing Standards for SiC Power Devices",
-    "summary": "JEDECがSiCパワーデバイスの短絡耐性試験と加速ストレス試験の規格を発表。信頼性向上へ。",
+    "title": "PowiGaN Reaches 2200 V, Targeting Data Center and EV Auxiliary Supplies",
+    "summary": "Power Integrationsが業界初の2.2kV耐圧の横型GaNスイッチ「PowiGaN」を発表。データセンターやEV補助電源向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/jedecs-advanced-testing-standards-for-sic-power-devices"
+        "url": "https://www.powerelectronicsnews.com/powigan-reaches-2200-v-targeting-data-center-and-ev-auxiliary-supplies"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "JEDEC’s Advanced Testing Standards for SiC Power Devices",
-        "blurb": "JEDECがSiCパワーデバイスの短絡耐性試験と加速ストレス試験の規格を発表。信頼性向上へ。",
+        "title": "PowiGaN Reaches 2200 V, Targeting Data Center and EV Auxiliary Supplies",
+        "blurb": "Power Integrationsが業界初の2.2kV耐圧の横型GaNスイッチ「PowiGaN」を発表。データセンターやEV補助電源向け。",
         "category": "company",
-        "date": "2026-08-04",
+        "date": "2026-08-05",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/jedecs-advanced-testing-standards-for-sic-power-devices"
+          "url": "https://www.powerelectronicsnews.com/powigan-reaches-2200-v-targeting-data-center-and-ev-auxiliary-supplies"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [
       {
-        "title": "酸化ガリウムの結晶内欠陥を3次元的に可視化",
-        "blurb": "ノベルクリスタルテクノロジーとJFCCは、次世代半導体材料「酸化ガリウム」の結晶欠陥を3次元可視化する技術を開発。非破壊・高速・高精度な評価が可能。",
-        "category": "company",
-        "date": "2026-08-04",
+        "title": "Humanoid Robots Applications",
+        "blurb": "ヒューマノイドロボットの主要機能（力覚・触覚センサー、GaN、MCU、モーター制御、BMS、電源管理）をサポートするソリューション。",
+        "category": "tools",
+        "date": "2026-08-05",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news026.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/humanoid-robots-applications"
         },
         "field": {
           "primary": "power",
@@ -53,23 +55,40 @@
         }
       }
     ],
-    "tech": [],
     "market": [
       {
-        "title": "FAや光デバイスがけん引　三菱電機、26年度Q1売上高は過去最高",
-        "blurb": "三菱電機、26年度Q1売上高・営業利益が過去最高。FAや光デバイスが貢献。通期見通しも上方修正。",
+        "title": "Nextpower Acquires Zigor Power Conversion Assets",
+        "blurb": "NextpowerがZigorの電力変換資産を買収。ユーティリティ向けインバーター事業強化と米国製造能力拡大へ。",
         "category": "business",
-        "date": "2026-08-04",
+        "date": "2026-08-05",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/04/news064.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/nextpower-acquires-zigor-power-conversion-assets"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AIサーバ向け「生産キャパシティー超える受注」ローム",
+        "blurb": "ローム、AIサーバ向け受注が生産能力を超過。2026年度第1四半期は増収増益、特に自動車向けSiCデバイスとAIサーバ向け事業が好調。",
+        "category": "business",
+        "date": "2026-08-05",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/05/news097.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "ai",
           "industry": null
         }
       }

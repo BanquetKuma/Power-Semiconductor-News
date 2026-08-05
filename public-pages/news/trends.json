@@ -1,168 +1,165 @@
 {
-  "generated_at": "2026-08-05T07:09:22.440635+09:00",
-  "date": "2026-08-05",
+  "generated_at": "2026-08-06T07:10:37.986292+09:00",
+  "date": "2026-08-06",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ(WBG)材料の進化と応用拡大",
+      "name": "広帯域ギャップ材料の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
+        "datacenter",
         "industrial"
       ],
-      "summary": "SiC、GaNなどの広帯域ギャップ材料の標準化、新ゲートドライバ、熱管理・パッケージング技術が進展し、電力変換効率向上と小型化に貢献。",
+      "summary": "SiCおよびGaNデバイスの高性能化・信頼性向上が進み、データセンター、EV、産業機器など幅広い分野での採用が拡大。",
       "analysis": {
-        "short_term": "信頼性向上規格発表で採用加速。新製品投入活発。",
-        "mid_term": "EV、再生可能エネルギー、産業機器での採用が本格化。",
-        "investment_implications": "WBG材料関連企業に注目。技術開発力と量産体制が鍵。"
+        "short_term": "需要増で供給逼迫の可能性。",
+        "mid_term": "新材料・新製造技術開発が鍵。",
+        "investment_implications": "関連企業への投資妙味大。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "パワーデバイス",
-        "電力変換"
+        "EV",
+        "データセンター",
+        "パワーデバイス"
       ],
       "companies_mentioned": [
+        "Power Integrations",
         "JEDEC",
         "Teledyne HiRel",
         "STマイクロエレクトロニクス",
+        "ローム",
         "ノベルクリスタルテクノロジー"
       ]
     },
     {
-      "name": "AIチップ開発と計算リソースの拡大",
+      "name": "AI・データセンター向け高性能化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
         "datacenter",
+        "memory",
         "logic",
-        "frontend",
-        "backend"
+        "ai"
       ],
-      "summary": "AIチップの性能向上と大規模化が進む一方、計算クラスターの一般企業への開放や、チップレット設計のシミュレーション速度向上が課題。",
+      "summary": "AI処理能力向上のため、GPU、高性能SSD、高速インターコネクト、低遅延メモリなどの需要が急増。",
       "analysis": {
-        "short_term": "AIサーバー向け部品需要増。計算クラスター活用進む。",
-        "mid_term": "2nmプロセッサ商用化、AIチップのさらなる大型化。",
-        "investment_implications": "AIインフラ、高性能CPU/GPU、チップレット関連技術に投資妙味。"
+        "short_term": "AIサーバ向け受注が生産能力超え。",
+        "mid_term": "冷却技術や電力効率が重要課題。",
+        "investment_implications": "高性能メモリ・SSDメーカーに注目。"
       },
       "keywords": [
         "AI",
-        "チップレット",
-        "計算クラスター",
-        "2nm"
+        "データセンター",
+        "SSD",
+        "GPU",
+        "メモリ"
       ],
       "companies_mentioned": [
+        "キオクシア",
+        "ローム",
         "DMP",
-        "NVIDIA",
-        "Apple",
-        "Samsung",
-        "Google"
+        "ルネサス"
       ]
     },
     {
-      "name": "次世代材料・構造への投資と研究開発",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "foundry",
-        "general",
-        "analog"
-      ],
-      "summary": "人工ダイヤモンド、酸化ガリウムなどの新材料や、ニューロモルフィックコンピューティング、伸縮性エレクトロニクスなどの新技術への投資・研究が進む。",
-      "analysis": {
-        "short_term": "新材料・新技術への出資・連携発表が増加。",
-        "mid_term": "実用化に向けた技術開発競争が激化。",
-        "investment_implications": "革新的な材料・技術を持つスタートアップや研究機関に注目。"
-      },
-      "keywords": [
-        "人工ダイヤモンド",
-        "酸化ガリウム",
-        "ニューロモルフィック",
-        "新材料"
-      ],
-      "companies_mentioned": [
-        "HAX",
-        "Diamond Quanta",
-        "TU Dresden",
-        "ソニー半導体",
-        "三井化学"
-      ]
-    },
-    {
-      "name": "サプライチェーンの信頼性とトレーサビリティ強化",
-      "confidence": 0.75,
+      "name": "サプライチェーンの信頼性・可視化強化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "geopolitics",
         "foundry",
         "frontend",
-        "backend",
-        "equipment"
+        "backend"
       ],
-      "summary": "半導体製品の信頼性確保とサプライチェーンのレジリエンス向上が重要視され、トレーサビリティの重要性が再認識されている。",
+      "summary": "地政学リスクやコロナ禍の教訓から、トレーサビリティ確保やサイバーレジリエンス対応が不可欠に。",
       "analysis": {
-        "short_term": "COVID-19の教訓からサプライチェーンの可視化が進む。",
-        "mid_term": "地政学的リスクに対応した供給網構築が加速。",
-        "investment_implications": "サプライチェーン管理、トレーサビリティ技術関連企業に恩恵。"
+        "short_term": "材料供給の綱渡り続く可能性。",
+        "mid_term": "標準化と技術開発で信頼性向上。",
+        "investment_implications": "サプライチェーン管理技術に注目。"
       },
       "keywords": [
         "サプライチェーン",
         "トレーサビリティ",
-        "信頼性",
-        "レジリエンス"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "データセンター需要の継続的拡大",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "ai",
-        "memory",
-        "logic"
-      ],
-      "summary": "AIサーバー需要を中心にデータセンター向け製品・サービスの需要が堅調に推移しており、冷却システムなどのインフラ投資も活発化。",
-      "analysis": {
-        "short_term": "データセンター向け部品、冷却機器の需要が引き続き強い。",
-        "mid_term": "AI/HPC需要拡大に伴い、データセンターインフラ投資が継続。",
-        "investment_implications": "データセンター関連インフラ、高性能ストレージ、ネットワーク機器に注目。"
-      },
-      "keywords": [
-        "データセンター",
-        "AIサーバー",
-        "冷却",
-        "SSD"
+        "地政学リスク",
+        "サイバーレジリエンス"
       ],
       "companies_mentioned": [
-        "三菱電機",
-        "ルネサス",
-        "キオクシア",
-        "村田製作所"
+        "JEDEC",
+        "UC Berkeley"
       ]
+    },
+    {
+      "name": "物理的AI（フィジカルAI）の社会実装",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "automotive",
+        "industrial",
+        "logic"
+      ],
+      "summary": "ロボット、自動運転、スマートファクトリーなど、現実世界と連携するAI技術の開発と実用化が加速。",
+      "analysis": {
+        "short_term": "ヒューマノイドロボット向けソリューション登場。",
+        "mid_term": "ハードウェアとソフトウェアの統合が鍵。",
+        "investment_implications": "組み込み・制御技術関連に期待。"
+      },
+      "keywords": [
+        "フィジカルAI",
+        "ロボット",
+        "自動運転",
+        "スマートファクトリー",
+        "組み込み"
+      ],
+      "companies_mentioned": [
+        "DMP",
+        "Arm",
+        "ボルボ・カーズ"
+      ]
+    },
+    {
+      "name": "次世代メモリ技術の二極化",
+      "confidence": 0.75,
+      "momentum": "stable",
+      "related_fields": [
+        "memory",
+        "datacenter",
+        "ai"
+      ],
+      "summary": "DRAMは供給逼迫が継続する一方、NANDは供給緩和の見通し。AI向けなど特定用途での需要が市場を牽引。",
+      "analysis": {
+        "short_term": "DRAMの逼迫は継続。",
+        "mid_term": "NANDの価格動向に注目。",
+        "investment_implications": "用途別メモリ戦略が重要。"
+      },
+      "keywords": [
+        "DRAM",
+        "NAND",
+        "メモリ市場",
+        "AIメモリ"
+      ],
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "広帯域ギャップ材料の標準化と新製品投入",
-      "AIチップ開発の加速と計算リソース拡大",
-      "データセンター需要の堅調な拡大",
-      "次世代材料・構造への投資活発化",
-      "ウエハー出荷面積の増加（AI需要けん引）"
+      "広帯域ギャップ材料（SiC/GaN）の需要急増",
+      "AI・データセンター向け高性能SSDの需要拡大",
+      "AIサーバ向けロームの受注が生産能力超え",
+      "三菱電機、FA・光デバイス好調で過去最高売上",
+      "ルネサス、データセンター需要強く増収増益"
     ],
     "bearish": [
-      "自動運転車のセンサー劣化問題",
-      "ルネサス高崎工場の閉鎖（一部ライン維持限界）"
+      "中東情勢悪化による材料供給懸念（ヘリウム等）"
     ],
     "neutral": [
-      "半導体トレーサビリティの重要性向上",
-      "ジュニアエンジニア育成の重要性",
-      "チップレット設計におけるシミュレーション速度の課題"
+      "サイバーレジリエンス法（CRA）への対応",
+      "処理インメモリシミュレータの開発",
+      "シリコンフォトニクスMEMS光スイッチの研究"
     ]
   },
-  "source_count": 46
+  "source_count": 51
 }

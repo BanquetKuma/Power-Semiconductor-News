@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-08-05T07:09:17.883501+09:00",
+  "generated_at": "2026-08-06T07:10:33.368105+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Technical Paper Roundup: Aug. 4",
-    "summary": "半導体業界の技術論文まとめ：NANDフラッシュとDRAMのハイブリッド、ニューロモルフィックコンピューティング、漏洩検証、酸化物エレクトロニクス、3D構造、LLMベンチマーク、サイドチャネル解析。",
+    "title": "27年メモリ市場　DRAMは逼迫継続、NANDは供給緩和へ",
+    "summary": "2027年のメモリ市場、DRAMは供給逼迫が続き、NANDは供給緩和の見通し。需給動向が二極化。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-4"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/05/news058.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "最大1000万IOPS　キオクシアが「Super High IOPS SSD」第1弾を開発",
-        "blurb": "キオクシアはAI向けSSD「GP1シリーズ」を開発。第2世代XL-FLASH採用で最大1000万IOPSの性能を実現。",
+        "title": "Samsung Advances AI Memory with New 3D Architecture",
+        "blurb": "サムスンがAIインフラ向け新3Dメモリを発表。HBM、NANDフラッシュ、エンタープライズストレージの帯域幅、密度、電力効率を向上させる。",
         "category": "company",
-        "date": "2026-08-04",
+        "date": "2026-08-06",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/04/news096.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/samsung-advances-ai-memory-with-new-3d-architecture"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "idm"
         }
       }
     ],
     "tech": [],
     "market": [
       {
-        "title": "Chip Industry Technical Paper Roundup: Aug. 4",
-        "blurb": "半導体業界の技術論文まとめ：NANDフラッシュとDRAMのハイブリッド、ニューロモルフィックコンピューティング、漏洩検証、酸化物エレクトロニクス、3D構造、LLMベンチマーク、サイドチャネル解析。",
+        "title": "27年メモリ市場　DRAMは逼迫継続、NANDは供給緩和へ",
+        "blurb": "2027年のメモリ市場、DRAMは供給逼迫が続き、NANDは供給緩和の見通し。需給動向が二極化。",
         "category": "business",
-        "date": "2026-08-04",
+        "date": "2026-08-05",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-4"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/05/news058.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "wafer",
+          "process": null,
           "market": null,
           "industry": null
         }
