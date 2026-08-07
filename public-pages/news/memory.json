@@ -1,51 +1,32 @@
 {
-  "generated_at": "2026-08-06T07:10:33.368105+09:00",
+  "generated_at": "2026-08-07T10:00:45.114631+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "27年メモリ市場　DRAMは逼迫継続、NANDは供給緩和へ",
-    "summary": "2027年のメモリ市場、DRAMは供給逼迫が続き、NANDは供給緩和の見通し。需給動向が二極化。",
+    "title": "Last-Level Caches Matter Even More in the HBM Era",
+    "summary": "HBMは帯域幅を大幅に増加させるが、レイテンシ、電力、データ局所性が重要であり、ラストレベルキャッシュの重要性は増している。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/05/news058.html"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/last-level-caches-matter-even-more-in-the-hbm-era"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Samsung Advances AI Memory with New 3D Architecture",
-        "blurb": "サムスンがAIインフラ向け新3Dメモリを発表。HBM、NANDフラッシュ、エンタープライズストレージの帯域幅、密度、電力効率を向上させる。",
-        "category": "company",
-        "date": "2026-08-06",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/samsung-advances-ai-memory-with-new-3d-architecture"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      }
-    ],
+    "news": [],
     "tech": [],
     "market": [
       {
-        "title": "27年メモリ市場　DRAMは逼迫継続、NANDは供給緩和へ",
-        "blurb": "2027年のメモリ市場、DRAMは供給逼迫が続き、NANDは供給緩和の見通し。需給動向が二極化。",
+        "title": "Last-Level Caches Matter Even More in the HBM Era",
+        "blurb": "HBMは帯域幅を大幅に増加させるが、レイテンシ、電力、データ局所性が重要であり、ラストレベルキャッシュの重要性は増している。",
         "category": "business",
-        "date": "2026-08-05",
+        "date": "2026-08-07",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/05/news058.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/last-level-caches-matter-even-more-in-the-hbm-era"
         },
         "field": {
           "primary": "memory",

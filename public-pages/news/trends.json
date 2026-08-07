@@ -1,165 +1,166 @@
 {
-  "generated_at": "2026-08-06T07:10:37.986292+09:00",
-  "date": "2026-08-06",
+  "generated_at": "2026-08-07T10:00:50.922485+09:00",
+  "date": "2026-08-07",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ材料の普及加速",
+      "name": "AI需要によるパワー半導体需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
-        "datacenter",
-        "industrial"
+        "ai",
+        "datacenter"
       ],
-      "summary": "SiCおよびGaNデバイスの高性能化・信頼性向上が進み、データセンター、EV、産業機器など幅広い分野での採用が拡大。",
+      "summary": "AIサーバー向け半導体の受注が生産能力を超過し、パワー半導体（特にGaN、SiC）の需要が急増。データセンターやEV補助電源向けも拡大。",
       "analysis": {
-        "short_term": "需要増で供給逼迫の可能性。",
-        "mid_term": "新材料・新製造技術開発が鍵。",
-        "investment_implications": "関連企業への投資妙味大。"
-      },
-      "keywords": [
-        "SiC",
-        "GaN",
-        "EV",
-        "データセンター",
-        "パワーデバイス"
-      ],
-      "companies_mentioned": [
-        "Power Integrations",
-        "JEDEC",
-        "Teledyne HiRel",
-        "STマイクロエレクトロニクス",
-        "ローム",
-        "ノベルクリスタルテクノロジー"
-      ]
-    },
-    {
-      "name": "AI・データセンター向け高性能化",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "memory",
-        "logic",
-        "ai"
-      ],
-      "summary": "AI処理能力向上のため、GPU、高性能SSD、高速インターコネクト、低遅延メモリなどの需要が急増。",
-      "analysis": {
-        "short_term": "AIサーバ向け受注が生産能力超え。",
-        "mid_term": "冷却技術や電力効率が重要課題。",
-        "investment_implications": "高性能メモリ・SSDメーカーに注目。"
+        "short_term": "受注超過が継続し、供給逼迫が続く見込み。",
+        "mid_term": "AIインフラ投資拡大で、パワー半導体市場は堅調に成長。",
+        "investment_implications": "パワー半導体メーカー、特にGaN/SiC関連企業への投資妙味増す。"
       },
       "keywords": [
         "AI",
+        "パワー半導体",
+        "GaN",
+        "SiC",
         "データセンター",
-        "SSD",
-        "GPU",
-        "メモリ"
+        "EV"
       ],
       "companies_mentioned": [
-        "キオクシア",
+        "Power Integrations",
         "ローム",
-        "DMP",
-        "ルネサス"
+        "太陽誘電",
+        "三菱電機"
       ]
     },
     {
-      "name": "サプライチェーンの信頼性・可視化強化",
+      "name": "車載・エッジAIの重要性増大",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "ai",
+        "logic",
+        "image"
+      ],
+      "summary": "NXPによるAmbarella買収検討など、車載ADASやエッジAI分野での競争が激化。AIエージェントによる設計自動化も進展。",
+      "analysis": {
+        "short_term": "M&Aや技術開発競争が加速する見込み。",
+        "mid_term": "自動運転やスマート化の進展で、車載・エッジAIチップの需要は拡大。",
+        "investment_implications": "車載半導体、AIチップメーカーへの注目度が高まる。"
+      },
+      "keywords": [
+        "車載",
+        "エッジAI",
+        "ADAS",
+        "自動運転",
+        "AIエージェント"
+      ],
+      "companies_mentioned": [
+        "NXP",
+        "Ambarella",
+        "Yokogawa",
+        "DMP"
+      ]
+    },
+    {
+      "name": "半導体セキュリティの重要性向上",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
+        "logic",
+        "memory",
+        "automotive",
         "geopolitics",
-        "foundry",
-        "frontend",
-        "backend"
+        "datacenter"
       ],
-      "summary": "地政学リスクやコロナ禍の教訓から、トレーサビリティ確保やサイバーレジリエンス対応が不可欠に。",
+      "summary": "AIの進化、宇宙インターネット、USBの信頼性向上など、セキュリティリスクが増大。チップの信頼性・検証が最重要課題に。",
       "analysis": {
-        "short_term": "材料供給の綱渡り続く可能性。",
-        "mid_term": "標準化と技術開発で信頼性向上。",
-        "investment_implications": "サプライチェーン管理技術に注目。"
+        "short_term": "セキュリティ関連技術・IPへの需要が増加。",
+        "mid_term": "サプライチェーン全体でのセキュリティ対策が不可欠となる。",
+        "investment_implications": "セキュリティIP、認証技術関連企業に投資機会。"
       },
       "keywords": [
+        "セキュリティ",
+        "AI",
+        "信頼性",
         "サプライチェーン",
-        "トレーサビリティ",
-        "地政学リスク",
-        "サイバーレジリエンス"
+        "PUF",
+        "USB"
       ],
       "companies_mentioned": [
-        "JEDEC",
-        "UC Berkeley"
+        "xMEMS",
+        "Teledyne HiRel",
+        "JEDEC"
       ]
     },
     {
-      "name": "物理的AI（フィジカルAI）の社会実装",
+      "name": "データセンターの高性能化・省電力化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "automotive",
-        "industrial",
+        "datacenter",
+        "power",
+        "memory",
         "logic"
       ],
-      "summary": "ロボット、自動運転、スマートファクトリーなど、現実世界と連携するAI技術の開発と実用化が加速。",
+      "summary": "データセンター向けに直接液冷対応SSDや高精度電力計が登場。AIサーバーの普及に伴い、冷却技術や高効率化への要求が高まる。",
       "analysis": {
-        "short_term": "ヒューマノイドロボット向けソリューション登場。",
-        "mid_term": "ハードウェアとソフトウェアの統合が鍵。",
-        "investment_implications": "組み込み・制御技術関連に期待。"
+        "short_term": "高性能SSDや冷却ソリューションの需要が堅調。",
+        "mid_term": "データセンターのインフラ投資は継続し、関連技術の進化が続く。",
+        "investment_implications": "データセンター向けSSD、冷却技術関連企業に注目。"
       },
       "keywords": [
-        "フィジカルAI",
-        "ロボット",
-        "自動運転",
-        "スマートファクトリー",
-        "組み込み"
+        "データセンター",
+        "SSD",
+        "液冷",
+        "電力計",
+        "AIサーバー"
       ],
       "companies_mentioned": [
-        "DMP",
-        "Arm",
-        "ボルボ・カーズ"
+        "キオクシア",
+        "三菱電機",
+        "横河電機"
       ]
     },
     {
-      "name": "次世代メモリ技術の二極化",
+      "name": "中国パワー半導体市場の成長と価格競争",
       "confidence": 0.75,
-      "momentum": "stable",
+      "momentum": "rising",
       "related_fields": [
-        "memory",
-        "datacenter",
-        "ai"
+        "power",
+        "geopolitics"
       ],
-      "summary": "DRAMは供給逼迫が継続する一方、NANDは供給緩和の見通し。AI向けなど特定用途での需要が市場を牽引。",
+      "summary": "中国パワー半導体市場は2035年に3兆円超規模に達すると予測。特にSiCの成長が期待される一方、価格競争の激化が予想される。",
       "analysis": {
-        "short_term": "DRAMの逼迫は継続。",
-        "mid_term": "NANDの価格動向に注目。",
-        "investment_implications": "用途別メモリ戦略が重要。"
+        "short_term": "中国国内メーカーの競争力強化が進む。",
+        "mid_term": "グローバル市場での価格競争がさらに激化する可能性。",
+        "investment_implications": "中国市場の動向と、グローバルプレイヤーの競争力に注視。"
       },
       "keywords": [
-        "DRAM",
-        "NAND",
-        "メモリ市場",
-        "AIメモリ"
+        "中国",
+        "パワー半導体",
+        "SiC",
+        "価格競争"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "富士経済"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "広帯域ギャップ材料（SiC/GaN）の需要急増",
-      "AI・データセンター向け高性能SSDの需要拡大",
-      "AIサーバ向けロームの受注が生産能力超え",
-      "三菱電機、FA・光デバイス好調で過去最高売上",
-      "ルネサス、データセンター需要強く増収増益"
+      "AI需要によるパワー半導体、メモリ、ロジック需要の堅調な伸び。",
+      "車載・エッジAI分野での技術開発競争とM&A活発化。",
+      "データセンターの高性能化・省電力化に向けた投資拡大。",
+      "セキュリティ関連技術・IPへの需要増加。"
     ],
     "bearish": [
-      "中東情勢悪化による材料供給懸念（ヘリウム等）"
+      "中国パワー半導体市場における価格競争の激化懸念。",
+      "地政学的リスク（材料供給懸念など）の継続。"
     ],
     "neutral": [
-      "サイバーレジリエンス法（CRA）への対応",
-      "処理インメモリシミュレータの開発",
-      "シリコンフォトニクスMEMS光スイッチの研究"
+      "DRAMは逼迫継続、NANDは供給緩和の見通しでメモリ市場の二極化。"
     ]
   },
-  "source_count": 51
+  "source_count": 45
 }
