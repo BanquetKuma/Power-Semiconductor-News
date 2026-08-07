@@ -1,96 +1,60 @@
 {
-  "generated_at": "2026-08-06T07:10:33.368520+09:00",
+  "generated_at": "2026-08-08T06:36:19.311515+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "GPU-Accelerated Differentiable Framework Resolving Trade-off Between Speed and Accuracy in Switching Power Analysis (Duke, Synopsys)",
-    "summary": "Duke大とSynopsysがGPU活用し、高速・高精度なスイッチング電源解析フレームワーク「DiffPower」を発表。",
+    "title": "Chip Industry Week in Review",
+    "summary": "SKハイニックスが380億ドル規模の新工場建設へ。メモリ密度向上や2026年の半導体市場予測も。米国の新規制やCHIPS法支出への懸念も報じられた。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/gpu-accelerated-differentiable-framework-resolving-trade-off-between-speed-and-accuracy-in-switching-power-analysis-duke-synopsys"
+        "url": "https://semiengineering.com/chip-industry-week-in-review-150"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "画像鮮明化を1チップで実現　組み込みも容易に",
-        "blurb": "ロジック・アンド・デザインが画像鮮明化技術「LISr」をSoC化。機器への組み込みが容易になり、視覚化技術の普及が期待される。",
+        "title": "Lam Researchフィラッハ拠点40周年　Rapidus「最先端半導体支える重要な役割」",
+        "blurb": "Lam Researchのフィラッハ拠点が40周年。Rapidusは、同拠点が最先端半導体実現に重要だと評価した。",
         "category": "company",
-        "date": "2026-08-05",
+        "date": "2026-08-07",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/05/news077.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/07/news054.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
-          "process": null,
+          "process": "frontend",
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Silicon Labs Delivers its Lowest-Power Bluetooth LE SoC",
-        "blurb": "Silicon Labsが、低消費電力、高セキュリティ、高集積なBluetooth LE SoC「BG2B」を発表しました。",
-        "category": "company",
-        "date": "2026-08-06",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/silicon-labs-delivers-its-lowest-power-bluetooth-le-soc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
+          "industry": "foundry"
         }
       }
     ],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "Embedded HSM Root of Trust with Arm Cortex-M33 Processor",
-        "blurb": "Arm Cortex-M33プロセッサ搭載の組み込みHSMが、V2XやADAS等で必要とされるハードウェアRoot of Trustベースのセキュリティを実現。",
-        "category": "tools",
-        "date": "2026-08-05",
+        "title": "Chip Industry Week in Review",
+        "blurb": "SKハイニックスが380億ドル規模の新工場建設へ。メモリ密度向上や2026年の半導体市場予測も。米国の新規制やCHIPS法支出への懸念も報じられた。",
+        "category": "business",
+        "date": "2026-08-07",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rt-648-embedded-hsm-root-of-trust-with-arm-cortex-m33-processor"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "GPU-Accelerated Differentiable Framework Resolving Trade-off Between Speed and Accuracy in Switching Power Analysis (Duke, Synopsys)",
-        "blurb": "Duke大とSynopsysがGPU活用し、高速・高精度なスイッチング電源解析フレームワーク「DiffPower」を発表。",
-        "category": "tools",
-        "date": "2026-08-06",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/gpu-accelerated-differentiable-framework-resolving-trade-off-between-speed-and-accuracy-in-switching-power-analysis-duke-synopsys"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-150"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "idm"
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

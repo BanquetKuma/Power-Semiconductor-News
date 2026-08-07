@@ -1,166 +1,174 @@
 {
-  "generated_at": "2026-08-07T10:00:50.922485+09:00",
-  "date": "2026-08-07",
+  "generated_at": "2026-08-08T06:36:23.627041+09:00",
+  "date": "2026-08-08",
   "meta_trends": [
     {
-      "name": "AI需要によるパワー半導体需要拡大",
+      "name": "次世代パワー半導体の需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "ai",
-        "datacenter"
+        "automotive",
+        "datacenter",
+        "ai"
       ],
-      "summary": "AIサーバー向け半導体の受注が生産能力を超過し、パワー半導体（特にGaN、SiC）の需要が急増。データセンターやEV補助電源向けも拡大。",
+      "summary": "GaNやSiCといったワイドバンドギャップ半導体の高耐圧化・高性能化が進み、EV、データセンター、AIサーバー等での採用が加速している。",
       "analysis": {
-        "short_term": "受注超過が継続し、供給逼迫が続く見込み。",
-        "mid_term": "AIインフラ投資拡大で、パワー半導体市場は堅調に成長。",
-        "investment_implications": "パワー半導体メーカー、特にGaN/SiC関連企業への投資妙味増す。"
+        "short_term": "高耐圧GaN/SiC製品の供給逼迫が続く見込み。",
+        "mid_term": "用途拡大と量産効果でコスト競争力向上へ。",
+        "investment_implications": "関連メーカーへの投資妙味は高い。"
       },
       "keywords": [
-        "AI",
-        "パワー半導体",
         "GaN",
         "SiC",
+        "EV",
         "データセンター",
-        "EV"
+        "AIサーバー"
       ],
       "companies_mentioned": [
         "Power Integrations",
         "ローム",
-        "太陽誘電",
-        "三菱電機"
+        "太陽誘電"
       ]
     },
     {
-      "name": "車載・エッジAIの重要性増大",
+      "name": "AI向け半導体需要の継続と多様化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
         "ai",
+        "memory",
         "logic",
-        "image"
+        "datacenter",
+        "automotive"
       ],
-      "summary": "NXPによるAmbarella買収検討など、車載ADASやエッジAI分野での競争が激化。AIエージェントによる設計自動化も進展。",
+      "summary": "AI演算の効率化やエッジAIの普及に向け、高性能・低消費電力なAI半導体、および関連メモリ・ストレージの需要が拡大している。",
       "analysis": {
-        "short_term": "M&Aや技術開発競争が加速する見込み。",
-        "mid_term": "自動運転やスマート化の進展で、車載・エッジAIチップの需要は拡大。",
-        "investment_implications": "車載半導体、AIチップメーカーへの注目度が高まる。"
+        "short_term": "AI向けメモリ（DRAM、NAND）の逼迫が継続。",
+        "mid_term": "画像処理AIやデータセンター向けSSDの性能競争激化。",
+        "investment_implications": "AIチップ関連企業、高性能メモリ・SSDメーカーに注目。"
       },
       "keywords": [
-        "車載",
-        "エッジAI",
-        "ADAS",
-        "自動運転",
-        "AIエージェント"
+        "AI",
+        "DRAM",
+        "NAND",
+        "SSD",
+        "エッジAI"
       ],
       "companies_mentioned": [
+        "SKハイニックス",
+        "Samsung",
+        "Micron",
+        "キオクシア",
         "NXP",
         "Ambarella",
-        "Yokogawa",
-        "DMP"
+        "エスペック"
+      ]
+    },
+    {
+      "name": "先端パッケージング技術の重要性増大",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "logic",
+        "memory",
+        "ai",
+        "foundry"
+      ],
+      "summary": "3D積層や異種集積など、チップレット化や高性能化を実現する先端パッケージング技術の開発が進展し、半導体性能向上の鍵となっている。",
+      "analysis": {
+        "short_term": "フレキシブル基板向け接着技術が進化。",
+        "mid_term": "先端ロジック・メモリの統合技術が競争力に。",
+        "investment_implications": "先端パッケージング関連技術・企業に注目。"
+      },
+      "keywords": [
+        "3D積層",
+        "異種集積",
+        "チップレット",
+        "パッケージング"
+      ],
+      "companies_mentioned": [
+        "imec",
+        "TSMC",
+        "Lam Research",
+        "Rapidus"
+      ]
+    },
+    {
+      "name": "半導体サプライチェーンの地政学リスクと国内回帰",
+      "confidence": 0.8,
+      "momentum": "stable",
+      "related_fields": [
+        "geopolitics",
+        "frontend",
+        "backend",
+        "foundry",
+        "logic",
+        "memory"
+      ],
+      "summary": "地政学リスクによる材料供給懸念がある一方、各国で半導体製造拠点の国内回帰やサプライチェーン強靭化の動きが進んでいる。",
+      "analysis": {
+        "short_term": "一部材料の供給逼迫リスクは継続。",
+        "mid_term": "国内製造能力拡大への投資が本格化。",
+        "investment_implications": "サプライチェーン安定化に貢献する企業に妙味。"
+      },
+      "keywords": [
+        "地政学リスク",
+        "サプライチェーン",
+        "国内回帰",
+        "CHIPS法"
+      ],
+      "companies_mentioned": [
+        "SKハイニックス",
+        "TSMC",
+        "Rapidus"
       ]
     },
     {
       "name": "半導体セキュリティの重要性向上",
-      "confidence": 0.85,
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "memory",
+        "ai",
         "automotive",
-        "geopolitics",
         "datacenter"
       ],
-      "summary": "AIの進化、宇宙インターネット、USBの信頼性向上など、セキュリティリスクが増大。チップの信頼性・検証が最重要課題に。",
+      "summary": "AIやIoTデバイスの普及、USBインターフェースの重要性増大に伴い、ハードウェアレベルでのセキュリティ対策（PUF、Root of Trust等）が不可欠になっている。",
       "analysis": {
-        "short_term": "セキュリティ関連技術・IPへの需要が増加。",
-        "mid_term": "サプライチェーン全体でのセキュリティ対策が不可欠となる。",
-        "investment_implications": "セキュリティIP、認証技術関連企業に投資機会。"
+        "short_term": "AIによるセキュリティ脅威と防御の両面活用。",
+        "mid_term": "自動車・データセンター向けに高信頼性セキュリティIP需要増。",
+        "investment_implications": "セキュリティIP・ソリューション提供企業に注目。"
       },
       "keywords": [
         "セキュリティ",
-        "AI",
-        "信頼性",
-        "サプライチェーン",
         "PUF",
-        "USB"
+        "Root of Trust",
+        "AI",
+        "自動車"
       ],
       "companies_mentioned": [
-        "xMEMS",
-        "Teledyne HiRel",
-        "JEDEC"
-      ]
-    },
-    {
-      "name": "データセンターの高性能化・省電力化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "power",
-        "memory",
-        "logic"
-      ],
-      "summary": "データセンター向けに直接液冷対応SSDや高精度電力計が登場。AIサーバーの普及に伴い、冷却技術や高効率化への要求が高まる。",
-      "analysis": {
-        "short_term": "高性能SSDや冷却ソリューションの需要が堅調。",
-        "mid_term": "データセンターのインフラ投資は継続し、関連技術の進化が続く。",
-        "investment_implications": "データセンター向けSSD、冷却技術関連企業に注目。"
-      },
-      "keywords": [
-        "データセンター",
-        "SSD",
-        "液冷",
-        "電力計",
-        "AIサーバー"
-      ],
-      "companies_mentioned": [
-        "キオクシア",
-        "三菱電機",
-        "横河電機"
-      ]
-    },
-    {
-      "name": "中国パワー半導体市場の成長と価格競争",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "geopolitics"
-      ],
-      "summary": "中国パワー半導体市場は2035年に3兆円超規模に達すると予測。特にSiCの成長が期待される一方、価格競争の激化が予想される。",
-      "analysis": {
-        "short_term": "中国国内メーカーの競争力強化が進む。",
-        "mid_term": "グローバル市場での価格競争がさらに激化する可能性。",
-        "investment_implications": "中国市場の動向と、グローバルプレイヤーの競争力に注視。"
-      },
-      "keywords": [
-        "中国",
-        "パワー半導体",
-        "SiC",
-        "価格競争"
-      ],
-      "companies_mentioned": [
-        "富士経済"
+        "NXP",
+        "Ambarella"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要によるパワー半導体、メモリ、ロジック需要の堅調な伸び。",
-      "車載・エッジAI分野での技術開発競争とM&A活発化。",
-      "データセンターの高性能化・省電力化に向けた投資拡大。",
-      "セキュリティ関連技術・IPへの需要増加。"
+      "世界半導体売上高、単月で過去最高を記録（2026年6月）",
+      "AI需要好調によるコンデンサーのBBレシオ高水準（太陽誘電）",
+      "AIサーバ向け受注が生産能力を超過（ローム）",
+      "DRAM市場の逼迫継続見通し（2027年）"
     ],
     "bearish": [
-      "中国パワー半導体市場における価格競争の激化懸念。",
-      "地政学的リスク（材料供給懸念など）の継続。"
+      "中国パワー半導体市場における価格競争の激化予測"
     ],
     "neutral": [
-      "DRAMは逼迫継続、NANDは供給緩和の見通しでメモリ市場の二極化。"
+      "中東情勢悪化による一部材料供給懸念も工場停止は回避",
+      "NAND市場は供給緩和の見通し（2027年）"
     ]
   },
-  "source_count": 45
+  "source_count": 56
 }
