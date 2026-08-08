@@ -1,173 +1,160 @@
 {
-  "generated_at": "2026-08-08T06:36:23.627041+09:00",
-  "date": "2026-08-08",
+  "generated_at": "2026-08-09T06:27:33.006683+09:00",
+  "date": "2026-08-09",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の需要拡大",
-      "confidence": 0.95,
+      "name": "ワイドバンドギャップ半導体の普及加速",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "ai"
+        "datacenter"
       ],
-      "summary": "GaNやSiCといったワイドバンドギャップ半導体の高耐圧化・高性能化が進み、EV、データセンター、AIサーバー等での採用が加速している。",
+      "summary": "GaNとSiCの耐圧向上、テスト標準化が進み、データセンターやEV補助電源など応用分野が拡大。PowiGaN 2.2kV GaNスイッチなどが登場。",
       "analysis": {
-        "short_term": "高耐圧GaN/SiC製品の供給逼迫が続く見込み。",
-        "mid_term": "用途拡大と量産効果でコスト競争力向上へ。",
-        "investment_implications": "関連メーカーへの投資妙味は高い。"
+        "short_term": "需要増、供給逼迫の可能性あり。",
+        "mid_term": "技術進化とコスト低下で採用拡大。",
+        "investment_implications": "関連メーカーに注目、技術優位性を見極める。"
       },
       "keywords": [
         "GaN",
         "SiC",
         "EV",
-        "データセンター",
-        "AIサーバー"
+        "データセンター"
       ],
       "companies_mentioned": [
-        "Power Integrations",
-        "ローム",
-        "太陽誘電"
+        "PowiGaN",
+        "JEDEC",
+        "Power Integrations"
       ]
     },
     {
-      "name": "AI向け半導体需要の継続と多様化",
-      "confidence": 0.9,
+      "name": "AI向け半導体需要の継続的拡大",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "memory",
-        "logic",
         "datacenter",
-        "automotive"
+        "logic"
       ],
-      "summary": "AI演算の効率化やエッジAIの普及に向け、高性能・低消費電力なAI半導体、および関連メモリ・ストレージの需要が拡大している。",
+      "summary": "AIサーバー向け半導体の受注が生産能力を超過。DRAM市場は逼迫継続、NANDは供給緩和の見通し。AI演算効率化技術も進展。",
       "analysis": {
-        "short_term": "AI向けメモリ（DRAM、NAND）の逼迫が継続。",
-        "mid_term": "画像処理AIやデータセンター向けSSDの性能競争激化。",
-        "investment_implications": "AIチップ関連企業、高性能メモリ・SSDメーカーに注目。"
+        "short_term": "供給制約が続く可能性。",
+        "mid_term": "AIチップの高性能化・低消費電力化が進む。",
+        "investment_implications": "AI関連サプライヤーに投資妙味。"
       },
       "keywords": [
         "AI",
         "DRAM",
         "NAND",
         "SSD",
-        "エッジAI"
+        "コンデンサー"
       ],
       "companies_mentioned": [
-        "SKハイニックス",
+        "ローム",
+        "太陽誘電",
         "Samsung",
         "Micron",
-        "キオクシア",
-        "NXP",
-        "Ambarella",
-        "エスペック"
+        "SK hynix",
+        "キオクシア"
       ]
     },
     {
-      "name": "先端パッケージング技術の重要性増大",
+      "name": "車載半導体の重要性増大",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "logic",
-        "memory",
-        "ai",
-        "foundry"
-      ],
-      "summary": "3D積層や異種集積など、チップレット化や高性能化を実現する先端パッケージング技術の開発が進展し、半導体性能向上の鍵となっている。",
-      "analysis": {
-        "short_term": "フレキシブル基板向け接着技術が進化。",
-        "mid_term": "先端ロジック・メモリの統合技術が競争力に。",
-        "investment_implications": "先端パッケージング関連技術・企業に注目。"
-      },
-      "keywords": [
-        "3D積層",
-        "異種集積",
-        "チップレット",
-        "パッケージング"
-      ],
-      "companies_mentioned": [
-        "imec",
-        "TSMC",
-        "Lam Research",
-        "Rapidus"
-      ]
-    },
-    {
-      "name": "半導体サプライチェーンの地政学リスクと国内回帰",
-      "confidence": 0.8,
-      "momentum": "stable",
-      "related_fields": [
-        "geopolitics",
-        "frontend",
-        "backend",
-        "foundry",
-        "logic",
-        "memory"
-      ],
-      "summary": "地政学リスクによる材料供給懸念がある一方、各国で半導体製造拠点の国内回帰やサプライチェーン強靭化の動きが進んでいる。",
-      "analysis": {
-        "short_term": "一部材料の供給逼迫リスクは継続。",
-        "mid_term": "国内製造能力拡大への投資が本格化。",
-        "investment_implications": "サプライチェーン安定化に貢献する企業に妙味。"
-      },
-      "keywords": [
-        "地政学リスク",
-        "サプライチェーン",
-        "国内回帰",
-        "CHIPS法"
-      ],
-      "companies_mentioned": [
-        "SKハイニックス",
-        "TSMC",
-        "Rapidus"
-      ]
-    },
-    {
-      "name": "半導体セキュリティの重要性向上",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "memory",
-        "ai",
         "automotive",
-        "datacenter"
+        "ai",
+        "power",
+        "logic"
       ],
-      "summary": "AIやIoTデバイスの普及、USBインターフェースの重要性増大に伴い、ハードウェアレベルでのセキュリティ対策（PUF、Root of Trust等）が不可欠になっている。",
+      "summary": "ADASやエッジAI強化のため、NXPがAmbarella買収を検討。自動車グレードのPUF IPも登場し、安全性・セキュリティが重視される。",
       "analysis": {
-        "short_term": "AIによるセキュリティ脅威と防御の両面活用。",
-        "mid_term": "自動車・データセンター向けに高信頼性セキュリティIP需要増。",
-        "investment_implications": "セキュリティIP・ソリューション提供企業に注目。"
+        "short_term": "M&Aや技術開発が活発化。",
+        "mid_term": "自動運転・電動化の進展で需要増。",
+        "investment_implications": "車載向け技術を持つ企業に注目。"
       },
       "keywords": [
-        "セキュリティ",
+        "ADAS",
+        "エッジAI",
         "PUF",
-        "Root of Trust",
-        "AI",
-        "自動車"
+        "車載"
       ],
       "companies_mentioned": [
         "NXP",
         "Ambarella"
       ]
+    },
+    {
+      "name": "先端製造技術とサプライチェーンの再編",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "frontend",
+        "backend",
+        "geopolitics"
+      ],
+      "summary": "TSMCは日本での役割を重視。RapidusはLam Researchの技術を評価。材料供給の懸念も、工場停止は回避傾向。",
+      "analysis": {
+        "short_term": "地政学リスクと材料供給に注意。",
+        "mid_term": "各国の半導体製造能力強化が進む。",
+        "investment_implications": "サプライチェーンの安定性・多様性を評価。"
+      },
+      "keywords": [
+        "TSMC",
+        "Rapidus",
+        "日本",
+        "サプライチェーン",
+        "材料"
+      ],
+      "companies_mentioned": [
+        "TSMC",
+        "Rapidus",
+        "Lam Research"
+      ]
+    },
+    {
+      "name": "次世代エネルギー貯蔵技術の開発",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "industrial",
+        "automotive"
+      ],
+      "summary": "Mana BatteryとSaftがアノードフリーのナトリウムイオン電池を開発。防衛、航空宇宙、産業用エネルギー貯蔵向け。",
+      "analysis": {
+        "short_term": "実用化に向けた開発競争。",
+        "mid_term": "既存電池技術との競合・共存。",
+        "investment_implications": "次世代電池関連技術に注目。"
+      },
+      "keywords": [
+        "ナトリウムイオン電池",
+        "エネルギー貯蔵",
+        "アノードフリー"
+      ],
+      "companies_mentioned": [
+        "Mana Battery",
+        "Saft"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体売上高、単月で過去最高を記録（2026年6月）",
-      "AI需要好調によるコンデンサーのBBレシオ高水準（太陽誘電）",
-      "AIサーバ向け受注が生産能力を超過（ローム）",
-      "DRAM市場の逼迫継続見通し（2027年）"
+      "世界半導体売上高、単月過去最高更新",
+      "AI需要によるコンデンサーBBレシオ高水準",
+      "AIサーバ向け半導体受注が生産能力超過"
     ],
     "bearish": [
-      "中国パワー半導体市場における価格競争の激化予測"
+      "中国パワー半導体市場の価格競争激化予測"
     ],
     "neutral": [
-      "中東情勢悪化による一部材料供給懸念も工場停止は回避",
-      "NAND市場は供給緩和の見通し（2027年）"
+      "DRAM市場シェア変動",
+      "NAND市場は供給緩和の見通し"
     ]
   },
   "source_count": 56
