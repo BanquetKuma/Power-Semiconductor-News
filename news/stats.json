@@ -1,14 +1,19 @@
 {
-  "generated_at": "2026-08-10T06:29:04.828673+09:00",
-  "date": "2026-08-10",
-  "total_items": 89,
-  "semiconductor_items": 1,
+  "generated_at": "2026-08-11T06:38:34.339244+09:00",
+  "date": "2026-08-11",
+  "total_items": 75,
+  "semiconductor_items": 9,
   "by_field": {
-    "automotive": 1
+    "power": 2,
+    "logic": 1,
+    "analog": 1,
+    "automotive": 2,
+    "datacenter": 1,
+    "foundry": 1,
+    "backend": 1
   },
   "sources": [
     "edn.com",
-    "electrek.co",
     "electronics-lab.com",
     "embedded.com",
     "insideevs.com",
@@ -17,9 +22,9 @@
     "semiengineering.com"
   ],
   "sections": {
-    "business": 1,
-    "tools": 0,
-    "company": 4,
+    "business": 5,
+    "tools": 7,
+    "company": 8,
     "sns": 0
   }
 }

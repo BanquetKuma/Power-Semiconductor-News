@@ -1,36 +1,55 @@
 {
-  "generated_at": "2026-08-09T06:27:30.076912+09:00",
+  "generated_at": "2026-08-11T06:38:34.337270+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)",
-    "summary": "MITらが窒化ガリウム薄膜の熱輸送を高速X線回折で可視化する新手法を開発。熱伝導率と熱境界伝導率を測定可能に。",
+    "title": "A Closer Look at Infineon’s RIC70115 Rad-Hard GaN Gate Driver",
+    "summary": "インフィニオンが放射線耐性GaNゲートドライバRIC70115を発表。衛星など高信頼性宇宙用途向け。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ultrafast-x-ray-diffraction-maps-thermal-transport-in-gan-thin-films-mit-slac-stanford-argonne"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/a-closer-look-at-infineons-ric70115-rad-hard-gan-gate-driver"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Ultrafast X-Ray Diffraction Maps Thermal Transport In GaN Thin Films (MIT, SLAC, Stanford, Argonne)",
-        "blurb": "MITらが窒化ガリウム薄膜の熱輸送を高速X線回折で可視化する新手法を開発。熱伝導率と熱境界伝導率を測定可能に。",
-        "category": "tools",
-        "date": "2026-08-08",
+        "title": "A Closer Look at Infineon’s RIC70115 Rad-Hard GaN Gate Driver",
+        "blurb": "インフィニオンが放射線耐性GaNゲートドライバRIC70115を発表。衛星など高信頼性宇宙用途向け。",
+        "category": "company",
+        "date": "2026-08-10",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ultrafast-x-ray-diffraction-maps-thermal-transport-in-gan-thin-films-mit-slac-stanford-argonne"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/a-closer-look-at-infineons-ric70115-rad-hard-gan-gate-driver"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Femtosecond Laser Process Targets Depth-Controlled 4H-SiC Wafer Slicing (Texas A&M, KIMM, UST)",
+        "blurb": "テキサスA&M大学らが、フェムト秒レーザーでSiCウエハーを深さ制御しながらスライスする新技術を発表。低欠陥で薄層化が可能。",
+        "category": "tools",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/femtosecond-laser-process-targets-depth-controlled-4h-sic-wafer-slicing-texas-am-kimm-ust"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "wafer",
           "market": null,
           "industry": null
         }
