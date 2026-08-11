@@ -1,84 +1,198 @@
 {
-  "generated_at": "2026-08-11T06:38:34.335974+09:00",
+  "generated_at": "2026-08-12T06:43:03.509882+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A Closer Look at Infineon’s RIC70115 Rad-Hard GaN Gate Driver",
-    "summary": "インフィニオンが放射線耐性GaNゲートドライバRIC70115を発表。衛星など高信頼性宇宙用途向け。",
+    "title": "Apex Microtechnology Expands Precision Power Op Amp Portfolio",
+    "summary": "Apex Microtechnologyが、高熱性能、保護機能、小型パッケージを備えた高精度パワーオペアンプを発表し、製品ラインを拡充しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/a-closer-look-at-infineons-ric70115-rad-hard-gan-gate-driver"
+        "url": "https://www.powerelectronicsnews.com/apex-microtechnology-expands-precision-power-op-amp-portfolio"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "How Data Center AI Can Keep Growing, Despite Supply Chain Bottlenecks",
-        "blurb": "データセンターAIの成長は、サプライチェーンの制約下でも効率化で継続可能。供給が追いついた後の戦略も重要。",
+        "title": "Apex Microtechnology Expands Precision Power Op Amp Portfolio",
+        "blurb": "Apex Microtechnologyが、高熱性能、保護機能、小型パッケージを備えた高精度パワーオペアンプを発表し、製品ラインを拡充しました。",
         "category": "business",
-        "date": "2026-08-10",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/apex-microtechnology-expands-precision-power-op-amp-portfolio"
+        },
+        "field": null
+      },
+      {
+        "title": "From Hype To Implementation: Building The Core Pillars For AI In Semiconductors",
+        "blurb": "AIの半導体実装は、データ断片化、ガバナンス不在、インフラサイロ化が課題。実用化に向けた基盤構築が重要。",
+        "category": "business",
+        "date": "2026-08-11",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-data-center-ai-can-keep-growing-despite-supply-chain-bottlenecks"
+          "url": "https://semiengineering.com/from-hype-to-implementation-building-the-core-pillars-for-ai-in-semiconductors"
         },
         "field": {
-          "primary": "datacenter",
+          "primary": "general",
           "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": "geopolitics"
-        }
-      },
-      {
-        "title": "Chip Industry Technical Paper Roundup: Aug. 10",
-        "blurb": "半導体技術論文 roundup：光スイッチング、PIMシミュレーション、シリコンフォトニクスMEMS、GPU活用電源解析、ニューロモルフィック計算など。",
-        "category": "business",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-11"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "Research Bits: Aug. 10",
-        "blurb": "薄膜チップ積層、MoS2を用いたアナログCAM、センサーレベルでの処理とメモリに関する研究。",
-        "category": "business",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-aug-10"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "ドイツ人がエアコンを買い始めた 猛暑で膨らむ市場と中国勢の攻勢",
-        "blurb": "猛暑で欧州のエアコン需要が急増。特にドイツ市場で中国メーカーの存在感が高まっている。",
+        "title": "HBM Becomes Testbed For 3D Assembly Yield",
+        "blurb": "HBMは3Dスタックテスト、DFT、信頼性の検証場となり、3Dアセンブリ歩留まりのテストベッドとなっている。",
         "category": "business",
-        "date": "2026-08-10",
+        "date": "2026-08-11",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/10/news084.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hbm-becomes-testbed-for-3d-assembly-yield"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How Long Does A Measurement Remain Valid?",
+        "blurb": "半導体テストにおける測定値の有効期間は、チップやテストパス、前提条件の変更により変動する。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-long-does-a-measurement-remain-valid"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI Chiplet Architectures Redefining Test Insertions",
+        "blurb": "AIチップレットアーキテクチャは、テスト挿入のあり方を再定義し、品質保証の場所を再配分しています。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-chiplet-architectures-redefining-test-insertions"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "CPO Test Won’t Scale Without Standardization",
+        "blurb": "CPOエコシステムでは、標準化が進まなければ収益化は実現しない。テストの規模拡大には標準化が不可欠である。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/cpo-test-wont-scale-without-standardization"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 1",
+        "blurb": "半導体は製品産業からエコシステム産業へと進化し、競争優位性を再定義しています。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-1"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Automotive low side output switch architecture suitable for 8 to 48 volt buses and beyond",
+        "blurb": "車載向け低側出力スイッチの新アーキテクチャは、8～48Vバスに対応し、保護・診断機能も強化。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/automotive-low-side-output-switch-architecture-suitable-for-8-to-48-volt-buses-and-beyond"
         },
         "field": null
+      },
+      {
+        "title": "Inference 2.0: How enterprise AI is reshaping AI system architectures",
+        "blurb": "企業AIは推論をコンテキスト認識ワークフローに変え、AIシステムアーキテクチャを再構築。AI性能の再定義が求められる。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/inference-2-0-how-enterprise-ai-is-reshaping-ai-system-architectures"
+        },
+        "field": null
+      },
+      {
+        "title": "Silicon Motion Unveils PerformaShape Technology for AI SSDs",
+        "blurb": "Silicon MotionがAI SSD向け新技術「PerformaShape」を発表。エージェントAIインフラの永続メモリ層として、予測可能な性能を提供。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GM Exits Planned $3.5B Battery Factory, Leaving Samsung SDI In Full Control",
+        "blurb": "GMがインディアナ州の35億ドルのバッテリー工場への出資を売却し、サムスンSDIが全株式を取得。合弁事業は解消された。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804446/gm-sells-indiana-battery-factory-stake-samsung-sdi"
+        },
+        "field": {
+          "primary": "idm",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "idm"
+        }
       },
       {
         "title": "Tesla Burned Through Its California EV Rebate Funds In Just Five Days",
@@ -97,85 +211,129 @@
           "market": "automotive",
           "industry": null
         }
+      },
+      {
+        "title": "The Ford Fathom Will Get a $25,000 Hybrid Crossover Sibling: Report",
+        "blurb": "フォード、2万5千ドルから買えるハイブリッドクロスオーバーを発表か。初代エスケープに似たデザイン。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804399/ford-fathom-hybrid-crossover"
+        },
+        "field": null
+      },
+      {
+        "title": "Kia Just Revealed EV3 Pricing. It's Even Cheaper Than We Expected",
+        "blurb": "キアEV3、予想より安価な価格設定を発表。日産リーフやシボレー・ボルトと同等。",
+        "category": "business",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804556/2027-kia-ev3-prices-revealed"
+        },
+        "field": null
+      },
+      {
+        "title": "EV Myth Busted: No, They're Not 'Dirtier' Than Gas Cars, Even If You Use Fossil Fuel Power",
+        "blurb": "EVは化石燃料電力で充電しても、ガソリン車より「汚い」ということはない。懐疑論は誤り。",
+        "category": "business",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/804527/evs-arent-dirtier-than-gas"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "tools": [
       {
-        "title": "光周波数コムでわずかな動きを捉える3D計測技術、新潟大",
-        "blurb": "新潟大らが光周波数コムで生体組織などの微細な動きを捉える3D計測技術を開発。透明材料の計測にも応用可能。",
+        "title": "Parallel-Connected RB-IGCTs for HVDC Circuit Breaker Applications",
+        "blurb": "HVDC送電網の故障遮断向けに、並列接続されたRB-IGCTが効率的な双方向ソリッドステートDC遮断器を実現。",
         "category": "tools",
-        "date": "2026-08-10",
+        "date": "2026-08-11",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/10/news029.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/parallel-connected-rb-igcts-for-hvdc-circuit-breaker-applications"
         },
         "field": null
       },
       {
-        "title": "Dissecting third-party camera batteries, part 2: Swelling",
-        "blurb": "サードパーティ製カメラバッテリーの膨張問題について解説。バッテリーの膨張は問題を引き起こす可能性がある。",
+        "title": "Measuring What Matters: Using Picosecond Ultrasonic Technology For SiCr Film Thickness Control In BCD Devices",
+        "blurb": "BCDデバイスにおけるSiCr膜厚制御にピコ秒超音波技術を活用。プロセスパラメータ監視でデバイス精度と信頼性を向上。",
         "category": "tools",
-        "date": "2026-08-10",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/measuring-what-matters-using-picosecond-ultrasonic-technology-for-sicr-film-thickness-control-in-bcd-devices"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Simplifying Embedded System Design with a Modern Software Ecosystem",
+        "blurb": "ADIは、CodeFusion Studioを用いたオープンでモジュール化されたソフトウェアエコシステムが、組み込みシステム設計の開発工数を削減できると説明。",
+        "category": "tools",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/simplifying-embedded-system-design-with-a-modern-software-ecosystem"
+        },
+        "field": null
+      },
+      {
+        "title": "Analog uncertainty-aware design: How it replaces Monte Carlo with certifiable yield intelligence",
+        "blurb": "アナログIC設計でモンテカルロ法に代わる不確実性考慮設計が登場。収量インテリジェンスで信頼性向上。",
+        "category": "tools",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/dissecting-third-party-camera-batteries-part-2-swelling"
+          "url": "https://www.edn.com/analog-uncertainty-aware-design-how-it-replaces-monte-carlo-with-certifiable-yield-intelligence"
         },
         "field": null
-      },
+      }
+    ],
+    "company": [
       {
-        "title": "Component and layout rules for USB-C, PD, and CMTI",
-        "blurb": "USB-C、PD、CMTIの設計に関するコンポーネント選択、レイアウト制約、設計実務のルールを解説。",
-        "category": "tools",
-        "date": "2026-08-10",
+        "title": "Failure Analysis HW Enables System-Level Debug For 3D ICs (Google, TU Delft)",
+        "blurb": "Googleとデルフト工科大が3D IC向けシステムレベルデバッグを可能にする新FAハードウェアを発表。",
+        "category": "company",
+        "date": "2026-08-11",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/component-and-layout-rules-for-usb-c-pd-and-cmti"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/failure-analysis-hw-enables-system-level-debug-for-3d-ics-google-tu-delft"
         },
-        "field": null
-      },
-      {
-        "title": "Clintech Pico Board exposes all 48 RP2354B GPIOs in Pico-compatible design",
-        "blurb": "ClintechのPicoボードは、RP2354Bを搭載し、USB-C、QSPI拡張、全48GPIOへのアクセスを提供。Raspberry Pi Pico互換。",
-        "category": "tools",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/clintech-pico-board-exposes-all-48-rp2354b-gpios-in-pico-compatible-design"
-        },
-        "field": null
-      },
-      {
-        "title": "Ford’s New AI Assistant Can Read Your Car’s Manual And Diagnostics",
-        "blurb": "フォードの新AIアシスタントは、車の取扱説明書や診断情報を読み取り、質問に回答します。",
-        "category": "tools",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804375/ford-ai-assistant-evs"
-        },
-        "field": null
-      },
-      {
-        "title": "This Kit Turns The Volkswagen ID. Buzz Into A More Capable Off-Road Van",
-        "blurb": "フォルクスワーゲンID.バズをオフロード仕様にするカスタムキットが登場。アウトドアでの活躍が期待される。",
-        "category": "tools",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804362/vw-id-buzz-off-road-kit"
-        },
-        "field": null
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
       },
       {
         "title": "Femtosecond Laser Process Targets Depth-Controlled 4H-SiC Wafer Slicing (Texas A&M, KIMM, UST)",
-        "blurb": "テキサスA&M大学らが、フェムト秒レーザーでSiCウエハーを深さ制御しながらスライスする新技術を発表。低欠陥で薄層化が可能。",
-        "category": "tools",
+        "blurb": "テキサスA&M大らが、フェムト秒レーザーでSiCウェハーを深さ制御しながらスライスする新技術を発表。低欠陥で薄層化が可能。",
+        "category": "company",
         "date": "2026-08-11",
         "stars": 3,
         "source": {
@@ -189,105 +347,121 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "company": [
-      {
-        "title": "A Closer Look at Infineon’s RIC70115 Rad-Hard GaN Gate Driver",
-        "blurb": "インフィニオンが放射線耐性GaNゲートドライバRIC70115を発表。衛星など高信頼性宇宙用途向け。",
-        "category": "company",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/a-closer-look-at-infineons-ric70115-rad-hard-gan-gate-driver"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       },
       {
-        "title": "TDK Introduces High-Ripple 125-V Axial Aluminum Capacitors",
-        "blurb": "TDKが、高リップル対応の125V軸方向アルミ電解コンデンサを発表。DCリンク用途に最適。",
-        "category": "company",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/tdk-introduces-high-ripple-125-v-axial-aluminum-capacitors"
-        },
-        "field": null
-      },
-      {
-        "title": "TOTOが茅ケ崎市にセラミック事業の新研究開発棟 170億円投じ",
-        "blurb": "TOTOは茅ケ崎市に約170億円を投じ、2028年4月竣工予定の新研究開発棟を建設。セラミック事業の強化を図る。",
-        "category": "company",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/10/news030.html"
-        },
-        "field": null
-      },
-      {
-        "title": "「ファウンドリーの実力」試されるIntel",
-        "blurb": "Intel Foundryが回復基調。2026年第2四半期決算は好調。Fortinetとの協業は、TSMC以外の選択肢となり得るか試金石となる。",
-        "category": "company",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/10/news058.html"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "Danisense’s DP12IP Squeezes ppm-Class Precision Into a 32mm Package",
-        "blurb": "Danisense、小型・高安定性電源向けに18AまでのDC/AC測定が可能な高精度フラックスゲートトランスデューサーDP12IPを発表。",
-        "category": "company",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/danisenses-dp12ip-squeezes-ppm-class-precision-into-a-32mm-package"
-        },
-        "field": null
-      },
-      {
-        "title": "Smart’s Smallest EV Is Back, And It Promises A Lot More Range",
-        "blurb": "スマートの小型EV「#2」が、航続距離を大幅に伸ばして復活。旧モデルの約3倍の航続距離を誇る。",
-        "category": "company",
-        "date": "2026-08-10",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804340/smart-2-official-ev"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Optimizing Chiplet Placement And Interposer Footprint For 2.5D Systems (A*STAR)",
-        "blurb": "A*STARが2.5Dシステム向けチップレット配置とインターポーザーフットプリントの最適化手法「FAPlace」を発表。",
+        "title": "WINSYSTEMS SBC-477 Rugged SBC Packs 13th Gen Intel CPUs and DDR5",
+        "blurb": "WINSYSTEMSが産業用途向けに13世代Intel CPUとDDR5搭載の堅牢なSBC-477を発表。過酷な環境での動作に対応。",
         "category": "company",
         "date": "2026-08-11",
         "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/winsystems-sbc-477-rugged-sbc-packs-13th-gen-intel-cpus-and-ddr5"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": "idm"
+        }
+      },
+      {
+        "title": "'It's Always Your Fault': Kyle Shanahan's Tesla Was On Autopilot When He Crashed. He Still Blames Himself",
+        "blurb": "49ersのヘッドコーチがテスラを自動運転中に衝突させたが、自身に責任があると認めた。",
+        "category": "company",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804420/49ers-coach-crash-tesla-autopilot"
+        },
+        "field": null
+      },
+      {
+        "title": "The McLaren P1 Is Getting A Huge Battery Upgrade With 3X The Original Capacity",
+        "blurb": "マクラーレンP1、オリジナル容量の3倍のバッテリーにアップグレード。プラグインハイブリッドブームの火付け役が最新技術で進化。",
+        "category": "company",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804474/mclaren-p1-battery-upgrade"
+        },
+        "field": null
+      },
+      {
+        "title": "The 2027 Kia EV3 Is Almost Here—With 280 Miles Of Range For The AWD Models",
+        "blurb": "2027年型キアEV3、EPA航続距離280マイル（AWDモデル）で登場。手頃な価格帯。",
+        "category": "company",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804460/2027-kia-ev3-epa-range-official"
+        },
+        "field": null
+      },
+      {
+        "title": "Nordic nRF9151 Enables Cellular and Satellite IoT Devices",
+        "blurb": "Nordic Semiconductorのモジュールが衛星通信とセルラー通信を統合したIoTデバイス開発を簡素化。LooUQのモデムがNTN認証を取得。",
+        "category": "company",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nordic-nrf9151-enables-cellular-and-satellite-iot-devices"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Tesla Roadster Is Supposedly (Once Again) Coming 'Very Soon'",
+        "blurb": "テスラ・ロードスター、9年越しの「もうすぐ」が再び。待望の新型車、発売時期は未定だが期待は高まる。",
+        "category": "company",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804554/tesla-roadster-very-soon-again"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla Recalls 20,000 Cars Over Uber-Bright Headlights",
+        "blurb": "テスラ、ヘッドライトが眩しすぎる不具合で約2万台をリコール。対向車や歩行者の安全に配慮し、ソフトウェア更新で対応。",
+        "category": "company",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804520/tesla-recall-20k-bright-headlights"
+        },
+        "field": null
+      },
+      {
+        "title": "Chevy Is Giving Up On The Chinese Market",
+        "blurb": "シボレー、中国市場から撤退へ。2014年に年間70万台販売したが、2025年には9千台に激減。",
+        "category": "company",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804539/chevrolet-quits-china-give-up"
+        },
+        "field": null
+      },
+      {
+        "title": "Optimizing Chiplet Placement And Interposer Footprint For 2.5D Systems (A*STAR)",
+        "blurb": "Researchers from A*STAR published a technical paper titled “FAPlace: Joint Optimization of Chiplet Placement and Interpo",
+        "category": "company",
+        "date": "2026-08-11",
+        "stars": 2,
         "source": {
           "name": "semiengineering.com",
           "url": "https://semiengineering.com/optimizing-chiplet-placement-and-interposer-footprint-for-2-5d-systems-astar"
@@ -299,18 +473,6 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "The Ford Fathom Will Get a $25,000 Hybrid Crossover Sibling: Report",
-        "blurb": "フォード、2万5千ドルから買えるハイブリッドクロスオーバーを開発中。初代エスケープに似たデザインになる見込み。",
-        "category": "company",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804399/ford-fathom-hybrid-crossover"
-        },
-        "field": null
       }
     ],
     "sns": []

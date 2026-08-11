@@ -1,31 +1,51 @@
 {
-  "generated_at": "2026-08-09T06:27:30.077192+09:00",
+  "generated_at": "2026-08-12T06:43:03.511805+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "HBM, Agentic AI Platform for PCB Design, Ku-Band RFoF Transmitter: Embedded Week Insights",
-    "summary": "高帯域幅メモリ、PCB設計向けAIプラットフォーム、KuバンドRFoF送信機など、Embedded Weekの最新技術動向をまとめた記事。",
+    "title": "HBM Becomes Testbed For 3D Assembly Yield",
+    "summary": "HBMは3Dスタックテスト、DFT、信頼性の検証場となり、3Dアセンブリ歩留まりのテストベッドとなっている。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/hbm-agentic-ai-platform-for-pcb-design-ku-band-rfof-transmitter-embedded-week-insights"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/hbm-becomes-testbed-for-3d-assembly-yield"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "HBM, Agentic AI Platform for PCB Design, Ku-Band RFoF Transmitter: Embedded Week Insights",
-        "blurb": "高帯域幅メモリ、PCB設計向けAIプラットフォーム、KuバンドRFoF送信機など、Embedded Weekの最新技術動向をまとめた記事。",
-        "category": "tools",
-        "date": "2026-08-08",
+        "title": "Failure Analysis HW Enables System-Level Debug For 3D ICs (Google, TU Delft)",
+        "blurb": "Googleとデルフト工科大が3D IC向けシステムレベルデバッグを可能にする新FAハードウェアを発表。",
+        "category": "company",
+        "date": "2026-08-11",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/hbm-agentic-ai-platform-for-pcb-design-ku-band-rfof-transmitter-embedded-week-insights"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/failure-analysis-hw-enables-system-level-debug-for-3d-ics-google-tu-delft"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "HBM Becomes Testbed For 3D Assembly Yield",
+        "blurb": "HBMは3Dスタックテスト、DFT、信頼性の検証場となり、3Dアセンブリ歩留まりのテストベッドとなっている。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hbm-becomes-testbed-for-3d-assembly-yield"
         },
         "field": {
           "primary": "memory",
@@ -35,7 +55,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

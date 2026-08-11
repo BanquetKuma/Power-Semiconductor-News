@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T06:38:39.380493+09:00",
-  "date": "2026-08-11",
+  "generated_at": "2026-08-12T06:43:07.629809+09:00",
+  "date": "2026-08-12",
   "meta_trends": [
     {
-      "name": "ワイドバンドギャップ半導体の進化と普及",
+      "name": "パワー半導体、特にSiC/GaNの需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,175 +12,150 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "GaNとSiCの耐圧向上、高信頼性化が進み、データセンター、EV、宇宙用途など幅広い分野での採用が加速。",
+      "summary": "AIサーバー、EV、産業機器向けにSiC/GaNパワー半導体の需要が急増。特にSiCは高電圧・高効率が求められる分野で採用が進む。",
       "analysis": {
-        "short_term": "高耐圧GaNスイッチ、SiCテスト標準化が進展。供給は逼迫気味。",
-        "mid_term": "中国市場でのSiC需要増、価格競争激化の可能性。技術標準化が鍵。",
-        "investment_implications": "GaN/SiC材料・デバイスメーカーに注目。サプライチェーンも重要。"
+        "short_term": "供給能力が追いつかず、品薄感続く。価格上昇圧力。",
+        "mid_term": "生産能力増強が鍵。中国市場の価格競争も注視。",
+        "investment_implications": "SiC/GaN材料・デバイスメーカーに注目。"
       },
       "keywords": [
-        "GaN",
         "SiC",
+        "GaN",
+        "AIサーバー",
         "EV",
-        "データセンター",
-        "宇宙"
+        "パワー半導体"
       ],
       "companies_mentioned": [
         "Infineon",
-        "Power Integrations",
         "PowiGaN",
         "ローム",
-        "太陽誘電"
+        "富士経済"
       ]
     },
     {
-      "name": "AI向け半導体需要の継続と多様化",
+      "name": "AIチップレットと3D実装技術の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "datacenter",
         "logic",
         "memory",
-        "analog",
-        "power"
+        "backend",
+        "datacenter"
       ],
-      "summary": "AIサーバー向け半導体の需要が生産能力を超過。データセンターの効率化やエッジAI向けチップ開発も活発化。",
+      "summary": "AI性能向上のため、チップレット化と3D積層技術が不可欠に。HBMは3Dアセンブリのテストベッド化し、歩留まり向上に貢献。",
       "analysis": {
-        "short_term": "AI向けメモリ、パワー半導体の供給逼迫が継続。NANDは緩和傾向。",
-        "mid_term": "車載・エッジAI向けM&Aや新チップ開発が進む。データセンターの拡張性も重要。",
-        "investment_implications": "AIチップ、メモリ、CXLコントローラー、関連部品メーカーに期待。"
+        "short_term": "チップレット設計・テストの複雑化が進む。",
+        "mid_term": "3D ICの歩留まり向上と標準化が普及の鍵。",
+        "investment_implications": "先端パッケージング、テスト技術関連企業に期待。"
       },
       "keywords": [
         "AI",
-        "データセンター",
-        "GPU",
-        "メモリ",
-        "CXL"
-      ],
-      "companies_mentioned": [
-        "SKハイニックス",
-        "Samsung",
-        "Micron",
-        "NXP",
-        "Ambarella",
-        "Montage Technology",
-        "エスペック",
-        "ローム"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術の重要性増大",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "logic",
-        "ai",
-        "datacenter",
-        "foundry"
-      ],
-      "summary": "チップレット技術や2.5D/3Dパッケージングの最適化が進展。高性能化とコスト削減の両立が鍵。",
-      "analysis": {
-        "short_term": "チップレット配置最適化技術が登場。ウェハー接合技術も進化。",
-        "mid_term": "TSMC、Intel Foundryなどが先端パッケージングで競争。日本企業の連携も重要。",
-        "investment_implications": "ファウンドリ、パッケージング受託、材料メーカーの動向を注視。"
-      },
-      "keywords": [
         "チップレット",
-        "2.5D",
-        "3Dパッケージング",
-        "インターポーザー",
-        "ウェハー接合"
+        "3D実装",
+        "HBM",
+        "テスト"
       ],
       "companies_mentioned": [
+        "Lam Research",
+        "Rapidus",
+        "Google",
+        "TU Delft",
         "A*STAR",
-        "TSMC",
-        "Intel Foundry",
-        "imec",
-        "Rapidus"
+        "Silicon Motion"
       ]
     },
     {
-      "name": "新材料・新技術による性能向上",
+      "name": "衛星通信とIoTの融合",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "logic",
-        "frontend",
-        "backend",
-        "general"
+        "industrial",
+        "geopolitics",
+        "datacenter"
       ],
-      "summary": "フェムト秒レーザー加工、X線回折による熱輸送解析、ナトリウムイオン電池など、新技術が性能向上に貢献。",
+      "summary": "セルラー通信と衛星通信を統合する技術が進展。IoTデバイスの接続性向上に貢献し、特に遠隔地での利用が拡大。",
       "analysis": {
-        "short_term": "SiCウェハー加工、GaN熱輸送解析の新技術が発表。",
-        "mid_term": "光学特性の高速切り替え、MEMSプラットフォームの応用拡大が期待。",
-        "investment_implications": "先端材料、レーザー加工、新電池技術関連企業に注目。"
+        "short_term": "NTN認証取得モジュールが登場。",
+        "mid_term": "低軌道衛星コンステレーションとの連携強化。",
+        "investment_implications": "衛星通信モジュール、IoTプラットフォーム関連。"
       },
       "keywords": [
-        "フェムト秒レーザー",
-        "SiC",
-        "GaN",
-        "ナトリウムイオン電池",
-        "MEMS"
+        "衛星通信",
+        "IoT",
+        "NTN",
+        "Nordic Semiconductor"
       ],
       "companies_mentioned": [
-        "Texas A&M",
-        "KIMM",
-        "UST",
-        "MIT",
-        "SLAC",
-        "Stanford",
-        "Argonne",
-        "Imperial College London",
-        "U. of Exeter",
-        "Mana Battery",
-        "Saft",
-        "xMEMS"
+        "Nordic Semiconductor",
+        "LooUQ"
       ]
     },
     {
-      "name": "地政学リスクとサプライチェーンの安定化",
+      "name": "半導体エコシステムと標準化の重要性",
       "confidence": 0.75,
-      "momentum": "stable",
+      "momentum": "rising",
       "related_fields": [
-        "geopolitics",
-        "foundry",
-        "frontend",
-        "equipment"
+        "general",
+        "datacenter",
+        "logic",
+        "foundry"
       ],
-      "summary": "中東情勢悪化による材料供給懸念も、半導体工場停止は回避。CHIPS法関連の動きも継続。",
+      "summary": "半導体産業は製品中心からエコシステム中心へ移行。CPOなどの新技術は標準化が進まなければスケールしない。",
       "analysis": {
-        "short_term": "ヘリウム供給など一部材料の綱渡り状態が続く可能性。",
-        "mid_term": "サプライチェーンの多様化・強靭化が引き続き重要課題となる。",
-        "investment_implications": "材料供給リスクの低い地域・企業、代替材料開発に注目。"
+        "short_term": "標準化議論が活発化。",
+        "mid_term": "エコシステム全体の競争力強化が課題。",
+        "investment_implications": "標準化推進企業、プラットフォーム提供企業。"
       },
       "keywords": [
-        "地政学",
-        "サプライチェーン",
-        "CHIPS法",
-        "材料供給",
-        "ヘリウム"
+        "エコシステム",
+        "標準化",
+        "CPO",
+        "競争優位性"
       ],
       "companies_mentioned": []
+    },
+    {
+      "name": "AI実装における課題と基盤構築",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "datacenter",
+        "logic",
+        "backend"
+      ],
+      "summary": "AIの半導体実装は、データ、ガバナンス、インフラの課題を抱える。実用化にはこれらの基盤構築が不可欠。",
+      "analysis": {
+        "short_term": "AI向け評価装置の需要増。",
+        "mid_term": "データ管理・活用技術の重要性が増す。",
+        "investment_implications": "AIインフラ、データ管理ソリューション。"
+      },
+      "keywords": [
+        "AI",
+        "実装",
+        "データ",
+        "インフラ",
+        "エスペック"
+      ],
+      "companies_mentioned": [
+        "エスペック"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体売上高単月過去最高更新",
-      "AI需要によるパワー半導体、メモリの逼迫継続",
-      "Intel Foundryの回復基調と新規顧客獲得",
-      "DRAM市場の供給逼迫継続見通し"
+      "世界半導体市場、単月過去最高更新（26年6月）",
+      "DRAM市場、Samsung首位返り咲き、Micronも迫る",
+      "太陽誘電、AI需要でBBレシオ1.72、通期業績上方修正"
     ],
     "bearish": [
-      "中国パワー半導体市場での価格競争激化予測",
-      "NAND市場の供給緩和見通し"
+      "中国パワー半導体市場、価格競争さらに激化予測"
     ],
     "neutral": [
-      "地政学リスクによる一部材料供給懸念",
-      "データセンターAI成長における効率化の重要性"
+      "Intel Foundry、回復基調もTSMC以外の選択肢となるか試金石",
+      "中東情勢悪化による材料供給懸念も工場停止は回避"
     ]
   },
-  "source_count": 44
+  "source_count": 41
 }

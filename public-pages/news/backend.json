@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-11T06:38:34.339042+09:00",
+  "generated_at": "2026-08-12T06:43:03.513262+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Optimizing Chiplet Placement And Interposer Footprint For 2.5D Systems (A*STAR)",
-    "summary": "A*STARが2.5Dシステム向けチップレット配置とインターポーザーフットプリントの最適化手法「FAPlace」を発表。",
+    "title": "AI Chiplet Architectures Redefining Test Insertions",
+    "summary": "AIチップレットアーキテクチャは、テスト挿入のあり方を再定義し、品質保証の場所を再配分しています。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/optimizing-chiplet-placement-and-interposer-footprint-for-2-5d-systems-astar"
+        "url": "https://semiengineering.com/ai-chiplet-architectures-redefining-test-insertions"
       }
     ]
   },
@@ -18,10 +18,10 @@
     "news": [
       {
         "title": "Optimizing Chiplet Placement And Interposer Footprint For 2.5D Systems (A*STAR)",
-        "blurb": "A*STARが2.5Dシステム向けチップレット配置とインターポーザーフットプリントの最適化手法「FAPlace」を発表。",
+        "blurb": "Researchers from A*STAR published a technical paper titled “FAPlace: Joint Optimization of Chiplet Placement and Interpo",
         "category": "company",
         "date": "2026-08-11",
-        "stars": 3,
+        "stars": 2,
         "source": {
           "name": "semiengineering.com",
           "url": "https://semiengineering.com/optimizing-chiplet-placement-and-interposer-footprint-for-2-5d-systems-astar"
@@ -36,6 +36,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "AI Chiplet Architectures Redefining Test Insertions",
+        "blurb": "AIチップレットアーキテクチャは、テスト挿入のあり方を再定義し、品質保証の場所を再配分しています。",
+        "category": "business",
+        "date": "2026-08-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-chiplet-architectures-redefining-test-insertions"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }
