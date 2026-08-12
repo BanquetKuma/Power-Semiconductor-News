@@ -1,40 +1,28 @@
 {
-  "generated_at": "2026-08-12T06:43:03.509882+09:00",
+  "generated_at": "2026-08-13T06:41:42.872510+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Apex Microtechnology Expands Precision Power Op Amp Portfolio",
-    "summary": "Apex Microtechnologyが、高熱性能、保護機能、小型パッケージを備えた高精度パワーオペアンプを発表し、製品ラインを拡充しました。",
+    "stars": 4,
+    "title": "Microchip Upgrades PolarFire FPGA Ethernet Sensor Bridge",
+    "summary": "マイクロチップが、エッジAI推論向けFPGAセンサーブリッジを刷新。カメラ数倍増、低価格化を実現。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/apex-microtechnology-expands-precision-power-op-amp-portfolio"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/microchip-upgrades-polarfire-fpga-ethernet-sensor-bridge"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Apex Microtechnology Expands Precision Power Op Amp Portfolio",
-        "blurb": "Apex Microtechnologyが、高熱性能、保護機能、小型パッケージを備えた高精度パワーオペアンプを発表し、製品ラインを拡充しました。",
+        "title": "What Are DDR5 DIMM Chipsets? The Complete Guide To RCDs, PMICs, SPD Hubs, And More",
+        "blurb": "DDR5 DIMMチップセットの仕組み、重要性、DDR5技術との関連、モジュールアーキテクチャによる帯域幅拡張について解説。",
         "category": "business",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/apex-microtechnology-expands-precision-power-op-amp-portfolio"
-        },
-        "field": null
-      },
-      {
-        "title": "From Hype To Implementation: Building The Core Pillars For AI In Semiconductors",
-        "blurb": "AIの半導体実装は、データ断片化、ガバナンス不在、インフラサイロ化が課題。実用化に向けた基盤構築が重要。",
-        "category": "business",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-hype-to-implementation-building-the-core-pillars-for-ai-in-semiconductors"
+          "url": "https://semiengineering.com/what-are-ddr5-dimm-chipsets-the-complete-guide-to-rcds-pmics-spd-hubs-and-more"
         },
         "field": {
           "primary": "general",
@@ -45,32 +33,14 @@
         }
       },
       {
-        "title": "HBM Becomes Testbed For 3D Assembly Yield",
-        "blurb": "HBMは3Dスタックテスト、DFT、信頼性の検証場となり、3Dアセンブリ歩留まりのテストベッドとなっている。",
+        "title": "Blog Review: Aug. 12",
+        "blurb": "半導体エンジニアリングのブログ記事。マルチフィジックス、高速M-PHY、3D-IC用STCO、AI向けEDA、ワークロード最適化について。",
         "category": "business",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hbm-becomes-testbed-for-3d-assembly-yield"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "How Long Does A Measurement Remain Valid?",
-        "blurb": "半導体テストにおける測定値の有効期間は、チップやテストパス、前提条件の変更により変動する。",
-        "category": "business",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-long-does-a-measurement-remain-valid"
+          "url": "https://semiengineering.com/blog-review-aug-12-3"
         },
         "field": {
           "primary": "general",
@@ -81,32 +51,32 @@
         }
       },
       {
-        "title": "AI Chiplet Architectures Redefining Test Insertions",
-        "blurb": "AIチップレットアーキテクチャは、テスト挿入のあり方を再定義し、品質保証の場所を再配分しています。",
+        "title": "Standards-Compliant 112G PHY for Linear Optics: Driving Efficient AI Infrastructure",
+        "blurb": "AIインフラ向け112G PHY IPが登場。消費電力、遅延、熱負荷を低減し、高速データ転送を実現。",
         "category": "business",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-chiplet-architectures-redefining-test-insertions"
+          "url": "https://semiengineering.com/standards-compliant-112g-phy-for-linear-optics-driving-efficient-ai-infrastructure"
         },
         "field": {
-          "primary": "backend",
+          "primary": "datacenter",
           "device": null,
-          "process": "backend",
-          "market": null,
+          "process": null,
+          "market": "datacenter",
           "industry": null
         }
       },
       {
-        "title": "CPO Test Won’t Scale Without Standardization",
-        "blurb": "CPOエコシステムでは、標準化が進まなければ収益化は実現しない。テストの規模拡大には標準化が不可欠である。",
+        "title": "レゾナック26年度上期は156.5％増益　後工程材料が大幅成長",
+        "blurb": "レゾナックの26年12月期中間決算は、売上高5.4％増、営業利益156.5％増。AI需要を背景に半導体・電子材料、特に後工程材料が大幅成長を牽引した。",
         "category": "business",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cpo-test-wont-scale-without-standardization"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/12/news038.html"
         },
         "field": {
           "primary": "general",
@@ -117,134 +87,50 @@
         }
       },
       {
-        "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 1",
-        "blurb": "半導体は製品産業からエコシステム産業へと進化し、競争優位性を再定義しています。",
+        "title": "ソニーとTSMC、イメージセンサー合弁会社に7470億円　熊本で29年量産",
+        "blurb": "ソニーとTSMCは、熊本で次世代イメージセンサーを製造する合弁会社を設立。両社で計7470億円を拠出し、2029年に量産開始予定。",
         "category": "business",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-1"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/12/news054.html"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "analog",
+          "device": "analog",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Automotive low side output switch architecture suitable for 8 to 48 volt buses and beyond",
-        "blurb": "車載向け低側出力スイッチの新アーキテクチャは、8～48Vバスに対応し、保護・診断機能も強化。",
+        "title": "Record high wafer shipments. Can fabs keep pace?",
+        "blurb": "ウェーハ出荷記録更新。ファブは供給追いつくか？材料、パッケージング、物流も課題。",
         "category": "business",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/automotive-low-side-output-switch-architecture-suitable-for-8-to-48-volt-buses-and-beyond"
-        },
-        "field": null
-      },
-      {
-        "title": "Inference 2.0: How enterprise AI is reshaping AI system architectures",
-        "blurb": "企業AIは推論をコンテキスト認識ワークフローに変え、AIシステムアーキテクチャを再構築。AI性能の再定義が求められる。",
-        "category": "business",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/inference-2-0-how-enterprise-ai-is-reshaping-ai-system-architectures"
-        },
-        "field": null
-      },
-      {
-        "title": "Silicon Motion Unveils PerformaShape Technology for AI SSDs",
-        "blurb": "Silicon MotionがAI SSD向け新技術「PerformaShape」を発表。エージェントAIインフラの永続メモリ層として、予測可能な性能を提供。",
-        "category": "business",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds"
+          "url": "https://www.edn.com/record-high-wafer-shipments-can-fabs-keep-pace"
         },
         "field": {
-          "primary": "general",
+          "primary": "wafer",
           "device": null,
-          "process": null,
+          "process": "wafer",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "GM Exits Planned $3.5B Battery Factory, Leaving Samsung SDI In Full Control",
-        "blurb": "GMがインディアナ州の35億ドルのバッテリー工場への出資を売却し、サムスンSDIが全株式を取得。合弁事業は解消された。",
-        "category": "business",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804446/gm-sells-indiana-battery-factory-stake-samsung-sdi"
-        },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Tesla Burned Through Its California EV Rebate Funds In Just Five Days",
-        "blurb": "カリフォルニア州のEV購入補助金、テスラは5日で使い果たす。需要喚起策が早期に終了。",
-        "category": "business",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804405/tesla-runs-out-of-california-ev-rebates"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Ford Fathom Will Get a $25,000 Hybrid Crossover Sibling: Report",
-        "blurb": "フォード、2万5千ドルから買えるハイブリッドクロスオーバーを発表か。初代エスケープに似たデザイン。",
-        "category": "business",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804399/ford-fathom-hybrid-crossover"
-        },
-        "field": null
-      },
-      {
-        "title": "Kia Just Revealed EV3 Pricing. It's Even Cheaper Than We Expected",
-        "blurb": "キアEV3、予想より安価な価格設定を発表。日産リーフやシボレー・ボルトと同等。",
+        "title": "Voltpost’s Lamppost EV Chargers Are Now Live In New York State",
+        "blurb": "Voltpostがニューヨーク州で街灯型EV充電器の展開を開始。コネチカット州、カリフォルニア州への拡大も計画。",
         "category": "business",
         "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804556/2027-kia-ev3-prices-revealed"
-        },
-        "field": null
-      },
-      {
-        "title": "EV Myth Busted: No, They're Not 'Dirtier' Than Gas Cars, Even If You Use Fossil Fuel Power",
-        "blurb": "EVは化石燃料電力で充電しても、ガソリン車より「汚い」ということはない。懐疑論は誤り。",
-        "category": "business",
-        "date": "2026-08-12",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/804527/evs-arent-dirtier-than-gas"
+          "url": "https://insideevs.com/news/804613/voltpost-lammpost-ev-charger-new-york-state"
         },
         "field": {
           "primary": "automotive",
@@ -257,26 +143,26 @@
     ],
     "tools": [
       {
-        "title": "Parallel-Connected RB-IGCTs for HVDC Circuit Breaker Applications",
-        "blurb": "HVDC送電網の故障遮断向けに、並列接続されたRB-IGCTが効率的な双方向ソリッドステートDC遮断器を実現。",
+        "title": "Power Electronics Course with QSPICE (Episode 16): Step-Down DC/DC Converter",
+        "blurb": "QSPICEを用いた降圧DC/DCコンバータの動作、効率、EMI、部品選定のトレードオフを解析する。",
         "category": "tools",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/parallel-connected-rb-igcts-for-hvdc-circuit-breaker-applications"
+          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-16-step-down-dc-dc-converter"
         },
         "field": null
       },
       {
-        "title": "Measuring What Matters: Using Picosecond Ultrasonic Technology For SiCr Film Thickness Control In BCD Devices",
-        "blurb": "BCDデバイスにおけるSiCr膜厚制御にピコ秒超音波技術を活用。プロセスパラメータ監視でデバイス精度と信頼性を向上。",
+        "title": "True ECAD-MCAD Co-Design for Full-System 3D EM Simulation",
+        "blurb": "ECADとMCADの連携により、3D電磁界シミュレーションの自動化で時間短縮を実現。",
         "category": "tools",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/measuring-what-matters-using-picosecond-ultrasonic-technology-for-sicr-film-thickness-control-in-bcd-devices"
+          "url": "https://semiengineering.com/true-ecad-mcad-co-design-for-full-system-3d-em-simulation"
         },
         "field": {
           "primary": "general",
@@ -287,20 +173,26 @@
         }
       },
       {
-        "title": "Simplifying Embedded System Design with a Modern Software Ecosystem",
-        "blurb": "ADIは、CodeFusion Studioを用いたオープンでモジュール化されたソフトウェアエコシステムが、組み込みシステム設計の開発工数を削減できると説明。",
+        "title": "Cheap and cheerful LMC555 RC PWM pulse generator",
+        "blurb": "安価なLMC555チップでRC PWMテスト信号を生成する回路。",
         "category": "tools",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/simplifying-embedded-system-design-with-a-modern-software-ecosystem"
+          "name": "edn.com",
+          "url": "https://www.edn.com/cheap-and-cheerful-lmc555-rc-pwm-pulse-generator"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
         "title": "Analog uncertainty-aware design: How it replaces Monte Carlo with certifiable yield intelligence",
-        "blurb": "アナログIC設計でモンテカルロ法に代わる不確実性考慮設計が登場。収量インテリジェンスで信頼性向上。",
+        "blurb": "アナログIC設計の新手法「不確実性認識設計」は、モンテカルロ法に代わり、保証可能な収量インテリジェンスを提供します。",
         "category": "tools",
         "date": "2026-08-12",
         "stars": 3,
@@ -309,102 +201,138 @@
           "url": "https://www.edn.com/analog-uncertainty-aware-design-how-it-replaces-monte-carlo-with-certifiable-yield-intelligence"
         },
         "field": null
-      }
-    ],
-    "company": [
+      },
       {
-        "title": "Failure Analysis HW Enables System-Level Debug For 3D ICs (Google, TU Delft)",
-        "blurb": "Googleとデルフト工科大が3D IC向けシステムレベルデバッグを可能にする新FAハードウェアを発表。",
-        "category": "company",
-        "date": "2026-08-11",
+        "title": "LILYGO T-Display C5 Packs ESP32-C5, Wi-Fi 6, and 1.9-Inch Touchscreen",
+        "blurb": "LILYGO T-Display C5は、Wi-Fi 6、Bluetooth 5 LE、1.9インチタッチディスプレイ搭載のESP32-C5開発ボードです。",
+        "category": "tools",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/failure-analysis-hw-enables-system-level-debug-for-3d-ics-google-tu-delft"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/lilygo-t-display-c5-packs-esp32-c5-wi-fi-6-and-1-9-inch-touchscreen"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Femtosecond Laser Process Targets Depth-Controlled 4H-SiC Wafer Slicing (Texas A&M, KIMM, UST)",
-        "blurb": "テキサスA&M大らが、フェムト秒レーザーでSiCウェハーを深さ制御しながらスライスする新技術を発表。低欠陥で薄層化が可能。",
-        "category": "company",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/femtosecond-laser-process-targets-depth-controlled-4h-sic-wafer-slicing-texas-am-kimm-ust"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "wafer",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "WINSYSTEMS SBC-477 Rugged SBC Packs 13th Gen Intel CPUs and DDR5",
-        "blurb": "WINSYSTEMSが産業用途向けに13世代Intel CPUとDDR5搭載の堅牢なSBC-477を発表。過酷な環境での動作に対応。",
-        "category": "company",
-        "date": "2026-08-11",
+        "title": "RAFI’s Smart Encoder Brings Software-Defined Haptics to Rotary Controls",
+        "blurb": "RAFIのスマートエンコーダーは、回転ノブのクリック感やトルクなどをソフトウェアで調整可能にし、ハードウェア設計の変更なしに機能を追加できる。",
+        "category": "tools",
+        "date": "2026-08-13",
         "stars": 3,
         "source": {
           "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/winsystems-sbc-477-rugged-sbc-packs-13th-gen-intel-cpus-and-ddr5"
+          "url": "https://www.electronics-lab.com/rafis-smart-encoder-brings-software-defined-haptics-to-rotary-controls"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "Microchip Upgrades PolarFire FPGA Ethernet Sensor Bridge",
+        "blurb": "マイクロチップが、エッジAI推論向けFPGAセンサーブリッジを刷新。カメラ数倍増、低価格化を実現。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 4,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/microchip-upgrades-polarfire-fpga-ethernet-sensor-bridge"
         },
         "field": {
-          "primary": "industrial",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
-          "market": "industrial",
-          "industry": "idm"
+          "market": null,
+          "industry": "fabless"
         }
       },
       {
-        "title": "'It's Always Your Fault': Kyle Shanahan's Tesla Was On Autopilot When He Crashed. He Still Blames Himself",
-        "blurb": "49ersのヘッドコーチがテスラを自動運転中に衝突させたが、自身に責任があると認めた。",
+        "title": "Navitas Files GaN Patent Infringement Lawsuit Against Renesas",
+        "blurb": "Navitasは、RenesasのGaN製品が自社の特許を侵害しているとして訴訟を起こしました。半導体IP保護が目的です。",
         "category": "company",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804420/49ers-coach-crash-tesla-autopilot"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/navitas-files-gan-patent-infringement-lawsuit-against-renesas"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Navitasがルネサスを提訴　GaN特許侵害で",
+        "blurb": "NavitasがルネサスをGaN特許侵害で提訴。Navitasは自社の米国特許4件がルネサスの主要GaN製品群に侵害されたと主張している。",
+        "category": "company",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/13/news036.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AlGaN系紫外半導体レーザーで最高レベルの変換効率を実現",
+        "blurb": "名城大学と三重大学は、AlGaN系紫外レーザーの変換効率向上の鍵が内部光損失の最小化であることを実験で証明した。",
+        "category": "company",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/12/news026.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "JDIが債務超過を解消、「上場維持を必ず果たす」",
+        "blurb": "JDIは2026年6月末時点で債務超過を解消。茂原工場の生産終了で売上減も、営業赤字は大幅改善し上場維持を目指す。",
+        "category": "company",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/12/news037.html"
         },
         "field": null
       },
       {
-        "title": "The McLaren P1 Is Getting A Huge Battery Upgrade With 3X The Original Capacity",
-        "blurb": "マクラーレンP1、オリジナル容量の3倍のバッテリーにアップグレード。プラグインハイブリッドブームの火付け役が最新技術で進化。",
+        "title": "折り紙技術活用、通信衛星の小型軽量化を可能に 東京科学大",
+        "blurb": "東京科学大が折り紙技術で小型軽量な通信衛星用無線機を開発。宇宙実証に成功し、高速大容量通信の衛星搭載に道を開いた。",
         "category": "company",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804474/mclaren-p1-battery-upgrade"
-        },
-        "field": null
-      },
-      {
-        "title": "The 2027 Kia EV3 Is Almost Here—With 280 Miles Of Range For The AWD Models",
-        "blurb": "2027年型キアEV3、EPA航続距離280マイル（AWDモデル）で登場。手頃な価格帯。",
-        "category": "company",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804460/2027-kia-ev3-epa-range-official"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/12/news025.html"
         },
         "field": null
       },
       {
         "title": "Nordic nRF9151 Enables Cellular and Satellite IoT Devices",
-        "blurb": "Nordic Semiconductorのモジュールが衛星通信とセルラー通信を統合したIoTデバイス開発を簡素化。LooUQのモデムがNTN認証を取得。",
+        "blurb": "Nordic SemiconductorのnRF9151モジュールが、セルラーと衛星通信の両方に対応するIoTデバイス開発を簡素化。LooUQのモデムがSkylo認証を取得。",
         "category": "company",
         "date": "2026-08-12",
         "stars": 3,
@@ -421,58 +349,136 @@
         }
       },
       {
-        "title": "Tesla Roadster Is Supposedly (Once Again) Coming 'Very Soon'",
-        "blurb": "テスラ・ロードスター、9年越しの「もうすぐ」が再び。待望の新型車、発売時期は未定だが期待は高まる。",
+        "title": "This Is The Fastest Hydrogen-Powered Car in the World",
+        "blurb": "世界最速の水素自動車が時速406.320マイルを記録。新たな世界記録を樹立しました。",
         "category": "company",
         "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804554/tesla-roadster-very-soon-again"
+          "url": "https://insideevs.com/news/804563/jcb-hydromax-hydrogen-speed-record"
         },
         "field": null
       },
       {
-        "title": "Tesla Recalls 20,000 Cars Over Uber-Bright Headlights",
-        "blurb": "テスラ、ヘッドライトが眩しすぎる不具合で約2万台をリコール。対向車や歩行者の安全に配慮し、ソフトウェア更新で対応。",
+        "title": "EVgo And GM's Gas Station-Like Flagship Charging Network Is Growing Fast",
+        "blurb": "EVgoとGMは、デトロイトにガスステーションのような急速充電ステーションを開設。350kW充電器と設備へのアクセスを提供。",
         "category": "company",
         "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804520/tesla-recall-20k-bright-headlights"
+          "url": "https://insideevs.com/news/804596/evgo-gm-flagship-ev-charging-stations-update"
         },
         "field": null
       },
       {
-        "title": "Chevy Is Giving Up On The Chinese Market",
-        "blurb": "シボレー、中国市場から撤退へ。2014年に年間70万台販売したが、2025年には9千台に激減。",
+        "title": "2D GAA CFETs Need Contact And Parasitic Co-Optimization At A2 Node (imec)",
+        "blurb": "imecは、A2ノード向け2D GAA CFETの最適化には、コンタクトと寄生要素の協調最適化が必要だと発表した。",
         "category": "company",
-        "date": "2026-08-12",
+        "date": "2026-08-13",
         "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804539/chevrolet-quits-china-give-up"
-        },
-        "field": null
-      },
-      {
-        "title": "Optimizing Chiplet Placement And Interposer Footprint For 2.5D Systems (A*STAR)",
-        "blurb": "Researchers from A*STAR published a technical paper titled “FAPlace: Joint Optimization of Chiplet Placement and Interpo",
-        "category": "company",
-        "date": "2026-08-11",
-        "stars": 2,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/optimizing-chiplet-placement-and-interposer-footprint-for-2-5d-systems-astar"
+          "url": "https://semiengineering.com/2d-gaa-cfets-need-contact-and-parasitic-co-optimization-at-a2-node-imec"
         },
         "field": {
-          "primary": "backend",
+          "primary": "miniaturization",
           "device": null,
-          "process": "backend",
+          "process": "miniaturization",
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Defect Prediction in Optical Lithography, EUVL, and NIL (National Taiwan University)",
+        "blurb": "台湾大学の研究者が、リソグラフィ、EUVL、NILにおける欠陥予測の技術論文を発表。物理ベース、データ駆動、ハイブリッド手法を提案。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/defect-prediction-in-optical-lithography-euvl-and-nil-national-taiwan-university"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "TI Unveils CAN XL Transceiver",
+        "blurb": "TIが業界初のCAN XLトランシーバーを発表。産業用ロボット等で高速・大容量通信を実現。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/ti-unveils-can-xl-transceiver"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Here's A Mechanic's Take On The Subaru Trailseeker",
+        "blurb": "整備士がスバル・トレイルシーカーをトヨタ・BZ4Xウッドランドツインより購入する理由を解説。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804734/subaru-trailseeker-mechanic-walkthrough"
+        },
+        "field": null
+      },
+      {
+        "title": "Mitsubishi Taps iPhone Manufacturer For its Next EV",
+        "blurb": "三菱自動車、iPhone製造のフォックスコンと提携し、豪州・NZ向けEV「ASX VR-e」を開発。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804706/iphone-foxtron-australia-mitsubishi-asx"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "The Lucid Cosmos Will Have More Range Than Any Tesla",
+        "blurb": "Lucidの新型EV「Cosmos」は、テスラを超える航続距離400マイル超え。CEOがTVインタビューで明らかに。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804699/lucid-cosmos-400-miles-of-range"
+        },
+        "field": null
+      },
+      {
+        "title": "Cadillac Will Give Escalade IQ Buyers Rolls-Royce-Style Customization for an Extra $54,995",
+        "blurb": "キャデラック、新型EV「エスカレードIQ」購入者にロールスロイス級のカスタムオプションを5万4995ドルで提供。高級EV市場での差別化を図る。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804540/cadillac-escalade-iq-curated-customization"
+        },
+        "field": null
       }
     ],
     "sns": []

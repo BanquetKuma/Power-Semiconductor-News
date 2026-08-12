@@ -1,31 +1,68 @@
 {
-  "generated_at": "2026-08-12T06:43:03.513770+09:00",
+  "generated_at": "2026-08-13T06:41:42.877283+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "From Hype To Implementation: Building The Core Pillars For AI In Semiconductors",
-    "summary": "AIの半導体実装は、データ断片化、ガバナンス不在、インフラサイロ化が課題。実用化に向けた基盤構築が重要。",
+    "title": "What Are DDR5 DIMM Chipsets? The Complete Guide To RCDs, PMICs, SPD Hubs, And More",
+    "summary": "DDR5 DIMMチップセットの仕組み、重要性、DDR5技術との関連、モジュールアーキテクチャによる帯域幅拡張について解説。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/from-hype-to-implementation-building-the-core-pillars-for-ai-in-semiconductors"
+        "url": "https://semiengineering.com/what-are-ddr5-dimm-chipsets-the-complete-guide-to-rcds-pmics-spd-hubs-and-more"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "AlGaN系紫外半導体レーザーで最高レベルの変換効率を実現",
+        "blurb": "名城大学と三重大学は、AlGaN系紫外レーザーの変換効率向上の鍵が内部光損失の最小化であることを実験で証明した。",
+        "category": "company",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/12/news026.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
-        "title": "Measuring What Matters: Using Picosecond Ultrasonic Technology For SiCr Film Thickness Control In BCD Devices",
-        "blurb": "BCDデバイスにおけるSiCr膜厚制御にピコ秒超音波技術を活用。プロセスパラメータ監視でデバイス精度と信頼性を向上。",
+        "title": "True ECAD-MCAD Co-Design for Full-System 3D EM Simulation",
+        "blurb": "ECADとMCADの連携により、3D電磁界シミュレーションの自動化で時間短縮を実現。",
         "category": "tools",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/measuring-what-matters-using-picosecond-ultrasonic-technology-for-sicr-film-thickness-control-in-bcd-devices"
+          "url": "https://semiengineering.com/true-ecad-mcad-co-design-for-full-system-3d-em-simulation"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Cheap and cheerful LMC555 RC PWM pulse generator",
+        "blurb": "安価なLMC555チップでRC PWMテスト信号を生成する回路。",
+        "category": "tools",
+        "date": "2026-08-12",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/cheap-and-cheerful-lmc555-rc-pwm-pulse-generator"
         },
         "field": {
           "primary": "general",
@@ -38,14 +75,14 @@
     ],
     "market": [
       {
-        "title": "From Hype To Implementation: Building The Core Pillars For AI In Semiconductors",
-        "blurb": "AIの半導体実装は、データ断片化、ガバナンス不在、インフラサイロ化が課題。実用化に向けた基盤構築が重要。",
+        "title": "What Are DDR5 DIMM Chipsets? The Complete Guide To RCDs, PMICs, SPD Hubs, And More",
+        "blurb": "DDR5 DIMMチップセットの仕組み、重要性、DDR5技術との関連、モジュールアーキテクチャによる帯域幅拡張について解説。",
         "category": "business",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-hype-to-implementation-building-the-core-pillars-for-ai-in-semiconductors"
+          "url": "https://semiengineering.com/what-are-ddr5-dimm-chipsets-the-complete-guide-to-rcds-pmics-spd-hubs-and-more"
         },
         "field": {
           "primary": "general",
@@ -56,14 +93,14 @@
         }
       },
       {
-        "title": "How Long Does A Measurement Remain Valid?",
-        "blurb": "半導体テストにおける測定値の有効期間は、チップやテストパス、前提条件の変更により変動する。",
+        "title": "Blog Review: Aug. 12",
+        "blurb": "半導体エンジニアリングのブログ記事。マルチフィジックス、高速M-PHY、3D-IC用STCO、AI向けEDA、ワークロード最適化について。",
         "category": "business",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-long-does-a-measurement-remain-valid"
+          "url": "https://semiengineering.com/blog-review-aug-12-3"
         },
         "field": {
           "primary": "general",
@@ -74,50 +111,14 @@
         }
       },
       {
-        "title": "CPO Test Won’t Scale Without Standardization",
-        "blurb": "CPOエコシステムでは、標準化が進まなければ収益化は実現しない。テストの規模拡大には標準化が不可欠である。",
+        "title": "レゾナック26年度上期は156.5％増益　後工程材料が大幅成長",
+        "blurb": "レゾナックの26年12月期中間決算は、売上高5.4％増、営業利益156.5％増。AI需要を背景に半導体・電子材料、特に後工程材料が大幅成長を牽引した。",
         "category": "business",
-        "date": "2026-08-11",
+        "date": "2026-08-12",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cpo-test-wont-scale-without-standardization"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 1",
-        "blurb": "半導体は製品産業からエコシステム産業へと進化し、競争優位性を再定義しています。",
-        "category": "business",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-1"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Silicon Motion Unveils PerformaShape Technology for AI SSDs",
-        "blurb": "Silicon MotionがAI SSD向け新技術「PerformaShape」を発表。エージェントAIインフラの永続メモリ層として、予測可能な性能を提供。",
-        "category": "business",
-        "date": "2026-08-11",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/silicon-motion-unveils-performashape-technology-for-ai-ssds"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/12/news038.html"
         },
         "field": {
           "primary": "general",
