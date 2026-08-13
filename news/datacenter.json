@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T06:41:42.875700+09:00",
+  "generated_at": "2026-08-14T06:41:38.917061+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Standards-Compliant 112G PHY for Linear Optics: Driving Efficient AI Infrastructure",
-    "summary": "AIインフラ向け112G PHY IPが登場。消費電力、遅延、熱負荷を低減し、高速データ転送を実現。",
+    "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
+    "summary": "DDR5 9600 RDIMMが登場し、サーバーメモリの性能基準を引き上げました。データセンターの効率的なデータ管理が重要視されています。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/standards-compliant-112g-phy-for-linear-optics-driving-efficient-ai-infrastructure"
+        "url": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory"
       }
     ]
   },
@@ -19,14 +19,32 @@
     "tech": [],
     "market": [
       {
-        "title": "Standards-Compliant 112G PHY for Linear Optics: Driving Efficient AI Infrastructure",
-        "blurb": "AIインフラ向け112G PHY IPが登場。消費電力、遅延、熱負荷を低減し、高速データ転送を実現。",
+        "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
+        "blurb": "DDR5 9600 RDIMMが登場し、サーバーメモリの性能基準を引き上げました。データセンターの効率的なデータ管理が重要視されています。",
         "category": "business",
-        "date": "2026-08-12",
+        "date": "2026-08-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/standards-compliant-112g-phy-for-linear-optics-driving-efficient-ai-infrastructure"
+          "url": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Four-channel USB-UART IC boosts server management",
+        "blurb": "MaxLinearのUSB-UARTブリッジIC「MxL81434」は、AIデータセンターのサーバー管理を高速化し、コンソールアクセスを強化します。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/four-channel-usb-uart-ic-boosts-server-management"
         },
         "field": {
           "primary": "datacenter",
