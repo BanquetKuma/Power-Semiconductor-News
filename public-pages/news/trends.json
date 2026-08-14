@@ -1,172 +1,176 @@
 {
-  "generated_at": "2026-08-14T06:41:42.237700+09:00",
-  "date": "2026-08-14",
+  "generated_at": "2026-08-15T06:22:32.066138+09:00",
+  "date": "2026-08-15",
   "meta_trends": [
     {
-      "name": "ワイドバンドギャップ半導体の普及",
-      "confidence": 0.95,
+      "name": "SiC/GaNパワー半導体の進化と普及",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "SiCやGaNといったワイドバンドギャップ半導体の採用が、高効率・高温耐性が求められる分野で加速。ゲートドライバやパワーモジュール関連技術も進化。",
+      "summary": "SiCやGaNといった次世代パワー半導体の性能向上と応用拡大が進展。高電圧・高効率化がEV、データセンター、産業機器の性能向上を牽引。",
       "analysis": {
-        "short_term": "SiC/GaN製品の訴訟や新製品発表が活発化。",
-        "mid_term": "EV、データセンター、産業機器での採用拡大が続く。",
-        "investment_implications": "SiC/GaN関連技術を持つ企業に注目。"
+        "short_term": "SiC/GaN製品のロードマップ前進と訴訟動向に注目。",
+        "mid_term": "EV、再生可能エネルギー、データセンターでの採用拡大が加速。",
+        "investment_implications": "SiC/GaN技術を持つ企業への投資妙味増大。"
       },
       "keywords": [
         "SiC",
         "GaN",
-        "パワー半導体",
         "EV",
-        "データセンター"
+        "データセンター",
+        "高効率"
       ],
       "companies_mentioned": [
-        "Cissoid",
-        "Navitas",
-        "Infineon",
-        "PowiGaN",
         "NoMIS Power",
-        "Renesas"
+        "Infineon",
+        "Navitas",
+        "Renesas",
+        "Cissoid"
       ]
     },
     {
-      "name": "AIインフラの進化とボトルネック解消",
-      "confidence": 0.9,
+      "name": "AI向け高性能・高密度化の加速",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
         "memory",
         "logic",
-        "logic",
-        "backend"
+        "foundry"
       ],
-      "summary": "AIの規模拡大に伴い、計算能力、メモリ帯域幅、インターコネクトのボトルネック解消が急務。光インターコネクトや特定AIモデル向けチップ開発が進む。",
+      "summary": "AI処理能力向上のため、チップの高性能化・高密度化が急速に進展。データセンターの1MWラック化や光インターコネクトへの移行も進行。",
       "analysis": {
-        "short_term": "AIチップ需要でシリコン供給制約とコスト増。",
-        "mid_term": "光インターコネクト、CPO、AI特化型チップの導入が進む。",
-        "investment_implications": "AIインフラ関連技術・材料企業に投資妙味。"
+        "short_term": "AIチップ開発競争激化、特定モデル向けチップも登場。",
+        "mid_term": "データセンターのアーキテクチャ刷新、メモリ帯域幅の重要性が増す。",
+        "investment_implications": "AIチップ、高性能メモリ、先進プロセスを持つ企業に注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
-        "光インターコネクト",
-        "CPO",
-        "メモリ",
-        "推論チップ"
+        "高性能",
+        "高密度化",
+        "光インターコネクト"
       ],
       "companies_mentioned": [
         "AMD",
-        "Google",
-        "TSMC",
         "Lam Research",
-        "NEO.AI"
+        "ASE",
+        "MediaTek",
+        "Infineon",
+        "Altera",
+        "TSMC",
+        "Intel"
       ]
     },
     {
-      "name": "垂直統合とエコシステム強化",
+      "name": "垂直統合とエコシステム連携の重要性増大",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "foundry",
-        "idm",
+        "general",
         "logic",
-        "frontend",
-        "backend"
+        "datacenter",
+        "automotive"
       ],
-      "summary": "システム最適化のため、ハードとソフト両方の理解を持つ垂直統合が進展。ファウンドリと顧客間の協業や、IP保護の重要性が増している。",
+      "summary": "ハードウェアとソフトウェアの深い理解がシステム最適化に不可欠となり、垂直統合やエコシステム内での協力が重要視されている。",
       "analysis": {
-        "short_term": "Intel Foundryの回復基調、TSMCの日本戦略が注目。",
-        "mid_term": "垂直統合モデルがシステム性能向上に寄与。",
-        "investment_implications": "垂直統合型企業や協業関係の強化に注目。"
+        "short_term": "EDAツールにおける自己検証の重要性が高まる。",
+        "mid_term": "システムレベルでの最適化を可能にする協業が増加。",
+        "investment_implications": "垂直統合モデルや、エコシステム構築に強みを持つ企業が有利。"
       },
       "keywords": [
         "垂直統合",
-        "ファウンドリ",
+        "エコシステム",
+        "システム最適化",
         "EDA",
-        "IP保護",
-        "協業"
+        "ソフトウェア"
       ],
       "companies_mentioned": [
+        "Google",
         "Intel",
         "TSMC",
-        "Fortinet",
-        "Rapidus"
+        "Sony"
       ]
     },
     {
-      "name": "先端材料と後工程の重要性増大",
+      "name": "先端材料・後工程材料の需要拡大",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "wafer",
-        "frontend",
-        "memory"
+        "ai",
+        "datacenter"
       ],
-      "summary": "AI需要を背景に、高純度材料や後工程材料の需要が拡大。光通信や先端半導体製造を支える材料技術が競争力の源泉となっている。",
+      "summary": "AI需要の拡大に伴い、半導体後工程材料や高純度材料の需要が大幅に増加。生産能力増強の動きが見られる。",
       "analysis": {
-        "short_term": "後工程材料の大幅成長が業績を牽引。",
-        "mid_term": "先端材料の増産投資が継続する見込み。",
-        "investment_implications": "先端材料メーカーの成長性に期待。"
+        "short_term": "後工程材料メーカーの業績好調が続く見込み。",
+        "mid_term": "先端材料の安定供給が半導体産業全体の成長を支える。",
+        "investment_implications": "後工程材料や特殊材料メーカーへの投資機会。"
       },
       "keywords": [
-        "後工程材料",
-        "高純度赤燐",
-        "光通信",
-        "先端材料"
+        "後工程",
+        "材料",
+        "AI",
+        "高純度",
+        "増産"
       ],
       "companies_mentioned": [
-        "日本化学工業",
-        "レゾナック"
+        "レゾナック",
+        "日本化学工業"
       ]
     },
     {
-      "name": "サーバーメモリ性能の向上",
-      "confidence": 0.75,
-      "momentum": "rising",
+      "name": "特許紛争とIP保護の重要性",
+      "confidence": 0.7,
+      "momentum": "stable",
       "related_fields": [
-        "memory",
-        "datacenter",
-        "ai"
+        "general",
+        "logic",
+        "power",
+        "geopolitics"
       ],
-      "summary": "DDR5 9600 RDIMMなどの高性能サーバーメモリが登場し、データセンターの効率的なデータ管理とAI処理能力を向上させている。",
+      "summary": "技術革新の速い半導体業界では、知的財産（IP）を巡る訴訟が増加傾向。IP保護の重要性が改めて認識されている。",
       "analysis": {
-        "short_term": "DDR5メモリの普及が加速。",
-        "mid_term": "AIワークロードに対応するメモリ技術開発が進む。",
-        "investment_implications": "メモリメーカーの市場シェア変動に注視。"
+        "short_term": "主要企業間の特許訴訟の動向を注視する必要がある。",
+        "mid_term": "IP戦略が企業の競争力に影響を与える可能性。",
+        "investment_implications": "IPポートフォリオが強固な企業への信頼度が高まる。"
       },
       "keywords": [
-        "DDR5",
-        "サーバーメモリ",
-        "データセンター",
-        "AI"
+        "特許",
+        "IP保護",
+        "訴訟",
+        "知的財産",
+        "競争"
       ],
       "companies_mentioned": [
-        "Samsung",
-        "Micron",
-        "SK hynix"
+        "Navitas",
+        "Renesas"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の単月過去最高更新",
-      "後工程材料の大幅成長",
-      "AIインフラ関連技術への投資活発化"
+      "SiC/GaNパワー半導体の性能向上と市場拡大",
+      "AI向けチップおよび関連技術への旺盛な需要",
+      "データセンターの高性能化・高密度化投資の継続",
+      "先端材料・後工程材料の需要増による関連企業の業績向上",
+      "世界半導体市場の単月過去最高売上更新"
     ],
     "bearish": [
       "AI需要増によるシリコン供給制約とコスト増",
-      "特許侵害訴訟による不確実性"
+      "主要企業間の特許紛争リスク"
     ],
     "neutral": [
-      "DRAM市場シェアの変動",
-      "ファウンドリ市場の競争激化"
+      "垂直統合モデルとエコシステム連携の進展",
+      "光インターコネクトや新技術への移行による既存技術の陳腐化リスク"
     ]
   },
-  "source_count": 45
+  "source_count": 40
 }

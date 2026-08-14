@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-14T06:41:38.917061+09:00",
+  "generated_at": "2026-08-15T06:22:27.143166+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
-    "summary": "DDR5 9600 RDIMMが登場し、サーバーメモリの性能基準を引き上げました。データセンターの効率的なデータ管理が重要視されています。",
+    "title": "Chip Industry Week In Review",
+    "summary": "半導体業界の週刊レビュー。Lam ResearchとASEの拡張、データセンターの動向、新技術、特許訴訟、AIチップなど。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory"
+        "url": "https://semiengineering.com/chip-industry-week-in-review-151"
       }
     ]
   },
@@ -19,39 +19,21 @@
     "tech": [],
     "market": [
       {
-        "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
-        "blurb": "DDR5 9600 RDIMMが登場し、サーバーメモリの性能基準を引き上げました。データセンターの効率的なデータ管理が重要視されています。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の週刊レビュー。Lam ResearchとASEの拡張、データセンターの動向、新技術、特許訴訟、AIチップなど。",
         "category": "business",
-        "date": "2026-08-13",
+        "date": "2026-08-14",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-151"
         },
         "field": {
           "primary": "datacenter",
           "device": null,
           "process": null,
           "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Four-channel USB-UART IC boosts server management",
-        "blurb": "MaxLinearのUSB-UARTブリッジIC「MxL81434」は、AIデータセンターのサーバー管理を高速化し、コンソールアクセスを強化します。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/four-channel-usb-uart-ic-boosts-server-management"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
+          "industry": "fabless"
         }
       }
     ]
