@@ -1,82 +1,118 @@
 {
-  "generated_at": "2026-08-15T06:22:27.140346+09:00",
+  "generated_at": "2026-08-14T06:41:38.913568+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Toshiba Adds Low-Power Quad-Channel Digital Isolators",
-    "summary": "東芝、低消費電力・高耐圧の4チャンネルデジタルアイソレータを発表。小型パッケージで高CMTIを実現。",
+    "title": "TDK Introduces Programmable DDSM DC-DC Converters",
+    "summary": "TDKは、高効率でデジタル監視・電圧変換が可能なDINレールDC-DCコンバータ「DDSM」シリーズを発表しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/toshiba-adds-low-power-quad-channel-digital-isolators"
+        "url": "https://www.powerelectronicsnews.com/tdk-introduces-programmable-ddsm-dc-dc-converters"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "As Robots Leave the Factory, Battery Architecture Moves to the Foreground",
-        "blurb": "工場外で活動する人型ロボットは、質量配分、稼働時間、セル監視の複雑さを両立する柔軟な分散型バッテリーアーキテクチャを必要とする。",
+        "title": "The 1-Megawatt Rack Debate",
+        "blurb": "1メガワットラックの議論：ラックあたりの計算能力向上か、アーキテクチャ再考か。半導体エンジニアリング。",
         "category": "business",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/as-robots-leave-the-factory-battery-architecture-moves-to-the-foreground"
-        },
-        "field": null
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "半導体業界の週刊レビュー。Lam ResearchとASEの拡張、データセンターの動向、新技術、特許訴訟、AIチップなど。",
-        "category": "business",
-        "date": "2026-08-14",
+        "date": "2026-08-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-151"
+          "url": "https://semiengineering.com/the-1-megawatt-rack-debate"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Vertical Integration Becoming Pervasive",
+        "blurb": "ハードとソフト両方の理解がシステム最適化に不可欠。アーキテクチャ選択には協力が必要。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/vertical-integration-becoming-pervasive"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Copper’s Grip On AI Scaling Is Starting To Slip",
+        "blurb": "AIの規模拡大に伴い、銅配線から光インターコネクトや回路切り替えへの移行が進み、データセンターの拡張方法が変化している。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/coppers-grip-on-ai-scaling-is-starting-to-slip"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
+        "blurb": "DDR5 9600 RDIMMが登場し、サーバーメモリの性能基準を引き上げました。データセンターの効率的なデータ管理が重要視されています。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory"
         },
         "field": {
           "primary": "datacenter",
           "device": null,
           "process": null,
           "market": "datacenter",
-          "industry": "fabless"
+          "industry": null
         }
       },
       {
-        "title": "HDD大手WDの四半期業績、売上高が5四半期連続で前期を超える",
-        "blurb": "HDD大手のWD、2026年度第4四半期の売上高が5四半期連続で前期超えを達成。",
+        "title": "Packet-Based NPUs In The LLM Era: From Compute-Bound CNNs To Memory-Bound Edge And Automotive Workloads",
+        "blurb": "LLM時代、エッジプロセッサは従来の認識ネットワークに加え、LLMや生成機能を搭載。メモリ帯域幅が重要に。",
         "category": "business",
-        "date": "2026-08-14",
+        "date": "2026-08-13",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news068.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/packet-based-npus-in-the-llm-era-from-compute-bound-cnns-to-memory-bound-edge-and-automotive-workloads"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "フィジカルAIが生み出す新たな「設計思想」――電子版2026年8月号",
-        "blurb": "電子版2026年8月号では、フィジカルAIがもたらす新しい設計思想に迫るEE Exclusiveを掲載。",
+        "title": "Is Pergrammable A Word?",
+        "blurb": "SoC設計者は、高効率かつ完全なプログラマビリティを持つAIシリコンを求めている。",
         "category": "business",
-        "date": "2026-08-14",
+        "date": "2026-08-13",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news063.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs",
-        "blurb": "アルテラ、Agilex FPGAでDDR5/LPDDR5対応を拡充。開発者は帯域幅、消費電力、基板スペース、部品供給の最適化で柔軟性が向上。",
-        "category": "business",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/is-pergrammable-a-word"
         },
         "field": {
           "primary": "logic",
@@ -87,26 +123,420 @@
         }
       },
       {
-        "title": "Used Tesla Model S Prices Have Fallen Dramatically. But Their Batteries Are Holding Up Great",
-        "blurb": "中古テスラ モデルS、価格は大幅下落もバッテリー性能は健在。高年式・過走行車でも容量維持、スーパーチャージャー無料特典付きも。",
+        "title": "What Will It Take To Deploy CPO At Scale?",
+        "blurb": "コパッケージド・オプティクス(CPO)の大規模展開には、製造、テスト、運用の課題解決が必要。",
         "category": "business",
-        "date": "2026-08-14",
+        "date": "2026-08-13",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/804570/old-model-s-degradation-diaries"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/what-will-it-take-to-deploy-cpo-at-scale"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Linear Optics And The Push To Scale AI Interconnects",
+        "blurb": "AIの進化に伴い、信号処理をホストSerDesに戻し、電力、遅延、熱負荷を削減するリニアオプティクス技術が注目されている。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/linear-optics-and-the-push-to-scale-ai-interconnects"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "From Tokens To Tasks: Why Agentic AI Changes The Infrastructure Conversation",
+        "blurb": "AIが単なる応答から業務遂行へ移行。モデル中心のワークフロー全体を最適化するインフラが不可欠に。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-tokens-to-tasks-why-agentic-ai-changes-the-infrastructure-conversation"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "日本化学工業が高純度赤燐を増産へ 光通信関連需要に対応",
+        "blurb": "日本化学工業は、光通信関連需要に対応するため、高純度赤燐の生産能力を約60%増強する。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/13/news030.html"
+        },
+        "field": {
+          "primary": "wafer",
+          "device": null,
+          "process": "wafer",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "TI a first mover in CAN XL transceivers",
+        "blurb": "TIがCAN XLトランシーバーで先行参入。高帯域幅と大ペイロードを実現しつつ、既存CANプロトコルの利点を維持。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ti-a-first-mover-in-can-xl-transceivers"
         },
         "field": null
       },
       {
-        "title": "The 2027 Karma Gyesera Is $35,000 Cheaper Than The Revero It Replaces",
-        "blurb": "カルマは、後継車種「リベロ」より3.5万ドル安価な新型EV「ゲセラ」を2027年に発売。EV単体で約128km走行可能。",
+        "title": "Made by Google 2026: This limited silicon-supply situation really sucks",
+        "blurb": "AI需要増によるシリコン供給制約と関税が、Googleとユーザーのコスト増を招いている。",
         "category": "business",
-        "date": "2026-08-14",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/made-by-google-2026-this-limited-silicon-supply-situation-really-sucks"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Four-channel USB-UART IC boosts server management",
+        "blurb": "MaxLinearのUSB-UARTブリッジIC「MxL81434」は、AIデータセンターのサーバー管理を高速化し、コンソールアクセスを強化します。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/four-channel-usb-uart-ic-boosts-server-management"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "OpenLight and Tower Accelerate Photonic IC Development",
+        "blurb": "OpenLightとTower Semiconductorが、フォトニックIC開発を加速。OpenLightのPDKがCadence EDAツールで利用可能になり、開発者は既存のIC設計環境でフォトニックICを設計可能に。",
+        "category": "business",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/openlight-and-tower-accelerate-photonic-ic-development"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
+        "blurb": "エージェント型EDAワークフローにおける自己検証の重要性。出力を基盤とすることで、エンジニアは自信を持って構築できる。",
+        "category": "tools",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "eFuse speeds overcurrent detection",
+        "blurb": "Kinetic TechnologiesのeFuse「KTS1630」は、過電流、短絡、熱故障から電子機器を保護します。",
+        "category": "tools",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/efuse-speeds-overcurrent-detection"
+        },
+        "field": null
+      },
+      {
+        "title": "RTD terahertz evaluation kit quadruples output",
+        "blurb": "ロームはテラヘルツ波発振デバイス第2世代ベースの評価キットRTD-EVK-G2を提供。出力が4倍に向上。",
+        "category": "tools",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/rtd-terahertz-evaluation-kit-quadruples-output"
+        },
+        "field": null
+      },
+      {
+        "title": "RAFI’s Smart Encoder Brings Software-Defined Haptics to Rotary Controls",
+        "blurb": "RAFIのスマートエンコーダーは、回転ノブのクリック感やトルクなどをソフトウェアで調整可能にし、ハードウェア設計の変更なしに機能を追加できる。",
+        "category": "tools",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/rafis-smart-encoder-brings-software-defined-haptics-to-rotary-controls"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "TDK Introduces Programmable DDSM DC-DC Converters",
+        "blurb": "TDKは、高効率でデジタル監視・電圧変換が可能なDINレールDC-DCコンバータ「DDSM」シリーズを発表しました。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/tdk-introduces-programmable-ddsm-dc-dc-converters"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Power Corner: Cissoid’s Path from Gate Drivers to Inverter Control",
+        "blurb": "Cissoid社は高温SiC・IGBTモジュール、HADESゲートドライバ、エンジニアリングサービスについて語る。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-cissoids-path-from-gate-drivers-to-inverter-control"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AIモデルをチップに焼き付ける　AMDが新興Taalas買収",
+        "blurb": "AMDがAI推論チップ開発のTaalasを買収。特定AIモデルに特化し、重みを直接焼き付ける技術で高速推論を実現。Instinct GPUとの統合を目指す。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/13/news057.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "パナソニックねぶた会、50年の歴史に幕　「最終運行」で跳ねてきた",
+        "blurb": "パナソニックねぶた会が50年の歴史に幕を下ろしました。最終運行で、祭りの熱気とともにその歴史を締めくくりました。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/13/news066.html"
+        },
+        "field": null
+      },
+      {
+        "title": "見えない光で発電、無色透明な有機太陽電池を開発",
+        "blurb": "阪大・東大などが近赤外光で発電する無色透明な有機太陽電池を開発。窓ガラスやウェアラブルデバイスへの応用が期待される。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/13/news029.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Radon: Level detection, risk determination, and as-needed mitigation",
+        "blurb": "ラドンは空気や地下水に存在し健康リスクとなるため、定期的な測定と必要に応じた対策が重要です。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/radon-level-detection-risk-determination-and-as-needed-mitigation"
+        },
+        "field": null
+      },
+      {
+        "title": "6.5-kV SiC MOSFET reaches 8-kV blocking",
+        "blurb": "NoMIS Powerが6.5kVのSiC MOSFETを開発、8kV超の耐圧と90mΩのオン抵抗を達成。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/6-5-kv-sic-mosfet-reaches-8-kv-blocking"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Memory platform tackles AI bottlenecks",
+        "blurb": "NEO.AIは、AIメモリシステムのSRAM・DRAMの拡張限界を克服するメモリプラットフォームです。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/memory-platform-tackles-ai-bottlenecks"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Humanoid Robots Need a Real-Time, Distributed Nervous System",
+        "blurb": "ヒューマノイドロボットの複雑な動きを実現するには、リアルタイム分散神経システムが不可欠。多種多様なタスク遂行に必要。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/humanoid-robots-need-a-real-time-distributed-nervous-system"
+        },
+        "field": null
+      },
+      {
+        "title": "TI Unveils CAN XL Transceiver",
+        "blurb": "TIが産業用ロボット向けに、高速・大容量通信が可能な業界初のCAN XLトランシーバ「TCAN6062」を発表。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/ti-unveils-can-xl-transceiver"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Microchip Upgrades PolarFire FPGA Ethernet Sensor Bridge",
+        "blurb": "マイクロチップが、エッジAI推論向けFPGAセンサーブリッジを刷新。カメラ数倍増、低価格化を実現。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/microchip-upgrades-polarfire-fpga-ethernet-sensor-bridge"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "ESP32-C61-MINI-1 Brings Wi-Fi 6, BLE 5.3, and Matter Support",
+        "blurb": "Espressifの新ESP32-C61-MINI-1は、Wi-Fi 6、BLE 5.3、Matter対応でIoT開発を強化。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/esp32-c61-mini-1-brings-wi-fi-6-ble-5-3-and-matter-support"
+        },
+        "field": null
+      },
+      {
+        "title": "Rivian Just Added The ‘Number One Most Requested Feature’ To The R1S",
+        "blurb": "リビアンは、R2と同様に、2027年モデルのR1SとR1Tのトリムレベルを分かりやすく改良した。",
+        "category": "company",
+        "date": "2026-08-13",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804900/karma-kaveya-pricing"
+          "url": "https://insideevs.com/news/804640/2027-rivian-r1s-r1s-trims-interior-price"
+        },
+        "field": null
+      },
+      {
+        "title": "Ford Converts Louisville Plant For The $28,000 Fathom Electric Truck In Under A Year",
+        "blurb": "フォードは、2027年第1四半期に2万8000ドルのEVトラック「ファゾム」の生産を開始するため、ルイビル工場を1年足らずで改造完了した。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/804739/ford-fathom-ev-retooling-louisville-assembly-plant-complete"
+        },
+        "field": null
+      },
+      {
+        "title": "After 500 Hard Miles In A BMW iX3, Range Anxiety Feels Outdated",
+        "blurb": "BMW iX3での500マイル走行で、航続距離の不安は過去のものとなった。高速道路、田舎道、山道での走行でも、長距離移動が容易であることを示した。",
+        "category": "company",
+        "date": "2026-08-13",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/804813/bmw-ix3-romania-roadtrip-transfagarasan"
         },
         "field": {
           "primary": "automotive",
@@ -115,218 +545,10 @@
           "market": "automotive",
           "industry": null
         }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Secrets of oscilloscope time measurements",
-        "blurb": "オシロスコープはハードウェアとソフトウェアで時間測定分解能を向上。処理の多くは透過的。",
-        "category": "tools",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/secrets-of-oscilloscope-time-measurements"
-        },
-        "field": null
-      },
-      {
-        "title": "Humanoid Robots, Simplifying Embedded System Design, Photonic IC Development: Embedded Week Insights",
-        "blurb": "ヒューマノイドロボット、組込みシステム設計の簡略化、フォトニックIC開発など、Embedded Weekの最新動向をまとめた記事。",
-        "category": "tools",
-        "date": "2026-08-15",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/humanoid-robots-simplifying-embedded-system-design-photonic-ic-development-embedded-week-insights"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Toshiba Adds Low-Power Quad-Channel Digital Isolators",
-        "blurb": "東芝、低消費電力・高耐圧の4チャンネルデジタルアイソレータを発表。小型パッケージで高CMTIを実現。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/toshiba-adds-low-power-quad-channel-digital-isolators"
-        },
-        "field": null
-      },
-      {
-        "title": "NoMIS Power Advances SiC Roadmap with 6.5 kV MOSFET",
-        "blurb": "NoMIS Powerは、次世代高電圧電源システム向けに6.5kV SiC MOSFETを発表し、ロードマップを前進させた。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/nomis-power-advances-sic-roadmap-with-6-5-kv-mosfet"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Battery Architectures for Humanoids, Parallel-Connected RB-IGCTs, Infineon’s RIC70115 Rad-Hard GaN Gate Driver: Electronics Week Insights",
-        "blurb": "人型ロボット用バッテリー、並列接続RB-IGCT、インフィニオンの耐放射線性GaNゲートドライバなど、最新技術動向を紹介。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/battery-architectures-for-humanoids-parallel-connected-rb-igcts-infineons-ric70115-rad-hard-gan-gate-driver-electronics-week-insights"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ナトリウムイオン電池正極を大幅に長寿命化、東京理科大",
-        "blurb": "東京理科大はナトリウムイオン電池正極の長寿命化メカニズムを解明。層状酸化物正極にも応用可能で、技術発展に寄与。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news038.html"
-        },
-        "field": null
-      },
-      {
-        "title": "「先の見えない時代にRISC-Vは最適」　SDVでの標準化目指すInfineon",
-        "blurb": "インフィニオンはSDV時代の車載開発向けにRISC-Vの標準化を目指す。同社はRISC-Vエコシステムの構築を進めている。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news047.html"
-        },
-        "field": null
-      },
-      {
-        "title": "MediaTek、インフィニオンの車載NORフラッシュを認定",
-        "blurb": "MediaTekの車載コックピットプラットフォーム「C-X1」が、インフィニオンの車載NORフラッシュメモリを認定しました。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news037.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Siemens and ASU Launch Online PCB Design Microcredential Program",
-        "blurb": "シーメンスとアリゾナ州立大学が、PCB設計スキルギャップ解消のためオンラインマイクロクレデンシャルプログラムを開始。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/siemens-and-asu-launch-online-pcb-design-microcredential-program"
-        },
-        "field": null
-      },
-      {
-        "title": "NXP RW610FML Module Brings Wi-Fi 6 and BLE 5.4 Connectivity",
-        "blurb": "NXPがWi-Fi 6とBLE 5.4対応の小型モジュール「RW610FML」を発表。Cortex-M33 MCU、8MBフラッシュ、高度なセキュリティを搭載。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/nxp-rw610fml-module-brings-wi-fi-6-and-ble-5-4-connectivity"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Tesla’s ‘Flying Roadster’ May Debut This Month Alongside A Street Legal Version",
-        "blurb": "テスラ、SpaceX製スラスター搭載の「空飛ぶロードスター」を今月発表か。公道走行可能なモデルも。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804993/tesla-flying-roadster-spacex-thrusters"
-        },
-        "field": null
-      },
-      {
-        "title": "Here's How Zoox's Robotaxi Safety Testing Will Work",
-        "blurb": "Zoox、ロボタクシーの安全テスト計画を発表。顧客へのサービス提供開始に伴い、詳細な安全基準を公開。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804737/zoox-robotaxi-safety-testing-framwork"
-        },
-        "field": null
-      },
-      {
-        "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
-        "blurb": "テスラの自動運転機能に「連続走行距離」のゲーミフィケーションが導入されたが、危険性を指摘する声が上がっている。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804844/tesla-fsd-streak-25k-miles"
-        },
-        "field": null
-      },
-      {
-        "title": "This Is The World's Largest Electric Aircraft—And Its First Flight Cost Just $5",
-        "blurb": "米国製電動航空機「Heart X1」が初飛行に成功。1.100フィート上昇し、1MW超の出力を記録。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804915/heart-aerospace-x1-largest-electric-aircraft-first-flight"
-        },
-        "field": null
-      },
-      {
-        "title": "2027 Lucid Gravity GT-S: Meet America’s Most Powerful Three-Row SUV",
-        "blurb": "新型EV SUV「Gravity GT-S」は、Lucid Air Sapphireにインスパイアされ、パワフルな3列シートSUVとして登場。日常をより楽しく。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804819/lucid-gravity-gt-s-specs-photos-official"
-        },
-        "field": null
       },
       {
         "title": "NJ Dealer Claims Polestar Intentionally Quit The U.S. With Government Ban As Cover Up",
-        "blurb": "NJのディーラーが、ポールスターが米国撤退を計画し、政府の規制を口実にしたと主張し訴訟を起こした。",
+        "blurb": "NJのディーラーが、ポールスターは政府の禁止を口実に米国撤退を計画していたと訴訟を起こした。",
         "category": "company",
         "date": "2026-08-14",
         "stars": 3,
@@ -337,14 +559,32 @@
         "field": null
       },
       {
-        "title": "The Porsche Taycan’s Days May Be Numbered: Report",
-        "blurb": "ポルシェ、タイカンを2030年までに生産終了か。メーカーは肯定も否定もせず。",
+        "title": "2027 Kia Telluride Hybrid Review: Outclassed By The EV9?",
+        "blurb": "2027年型キア・テルライド・ハイブリッドはEVのような機能を追加。EV9に匹敵するか？",
         "category": "company",
-        "date": "2026-08-15",
+        "date": "2026-08-14",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/805004/porsche-taycan-days-numbered-report"
+          "url": "https://insideevs.com/reviews/804226/2027-kia-telluride-hybrid-outclassed-by-ev9"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "VIDEO: I Drove China's Best Selling Car. It's Really Good",
+        "blurb": "中国で最も売れている車、Geely EX2のレビュー。BYDやテスラを抑えた理由を探る。",
+        "category": "company",
+        "date": "2026-08-14",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/803772/geely-ex2-review-video-ex2"
         },
         "field": null
       }

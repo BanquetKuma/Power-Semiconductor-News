@@ -1,139 +1,25 @@
 {
-  "generated_at": "2026-08-15T06:22:27.140346+09:00",
+  "generated_at": "2026-08-16T06:18:15.270217+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Toshiba Adds Low-Power Quad-Channel Digital Isolators",
-    "summary": "東芝、低消費電力・高耐圧の4チャンネルデジタルアイソレータを発表。小型パッケージで高CMTIを実現。",
+    "title": "Humanoid Robots, Simplifying Embedded System Design, Photonic IC Development: Embedded Week Insights",
+    "summary": "ヒューマノイドロボット、組込みシステム設計の簡略化、フォトニックIC開発の最新動向をまとめた記事。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/toshiba-adds-low-power-quad-channel-digital-isolators"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/humanoid-robots-simplifying-embedded-system-design-photonic-ic-development-embedded-week-insights"
       }
     ]
   },
   "sections": {
-    "business": [
-      {
-        "title": "As Robots Leave the Factory, Battery Architecture Moves to the Foreground",
-        "blurb": "工場外で活動する人型ロボットは、質量配分、稼働時間、セル監視の複雑さを両立する柔軟な分散型バッテリーアーキテクチャを必要とする。",
-        "category": "business",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/as-robots-leave-the-factory-battery-architecture-moves-to-the-foreground"
-        },
-        "field": null
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "半導体業界の週刊レビュー。Lam ResearchとASEの拡張、データセンターの動向、新技術、特許訴訟、AIチップなど。",
-        "category": "business",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-151"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "HDD大手WDの四半期業績、売上高が5四半期連続で前期を超える",
-        "blurb": "HDD大手のWD、2026年度第4四半期の売上高が5四半期連続で前期超えを達成。",
-        "category": "business",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news068.html"
-        },
-        "field": null
-      },
-      {
-        "title": "フィジカルAIが生み出す新たな「設計思想」――電子版2026年8月号",
-        "blurb": "電子版2026年8月号では、フィジカルAIがもたらす新しい設計思想に迫るEE Exclusiveを掲載。",
-        "category": "business",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news063.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs",
-        "blurb": "アルテラ、Agilex FPGAでDDR5/LPDDR5対応を拡充。開発者は帯域幅、消費電力、基板スペース、部品供給の最適化で柔軟性が向上。",
-        "category": "business",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Used Tesla Model S Prices Have Fallen Dramatically. But Their Batteries Are Holding Up Great",
-        "blurb": "中古テスラ モデルS、価格は大幅下落もバッテリー性能は健在。高年式・過走行車でも容量維持、スーパーチャージャー無料特典付きも。",
-        "category": "business",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/804570/old-model-s-degradation-diaries"
-        },
-        "field": null
-      },
-      {
-        "title": "The 2027 Karma Gyesera Is $35,000 Cheaper Than The Revero It Replaces",
-        "blurb": "カルマは、後継車種「リベロ」より3.5万ドル安価な新型EV「ゲセラ」を2027年に発売。EV単体で約128km走行可能。",
-        "category": "business",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804900/karma-kaveya-pricing"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Secrets of oscilloscope time measurements",
-        "blurb": "オシロスコープはハードウェアとソフトウェアで時間測定分解能を向上。処理の多くは透過的。",
-        "category": "tools",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/secrets-of-oscilloscope-time-measurements"
-        },
-        "field": null
-      },
+    "business": [],
+    "tools": [],
+    "company": [
       {
         "title": "Humanoid Robots, Simplifying Embedded System Design, Photonic IC Development: Embedded Week Insights",
-        "blurb": "ヒューマノイドロボット、組込みシステム設計の簡略化、フォトニックIC開発など、Embedded Weekの最新動向をまとめた記事。",
-        "category": "tools",
+        "blurb": "ヒューマノイドロボット、組込みシステム設計の簡略化、フォトニックIC開発の最新動向をまとめた記事。",
+        "category": "company",
         "date": "2026-08-15",
         "stars": 3,
         "source": {
@@ -141,198 +27,16 @@
           "url": "https://www.embedded.com/humanoid-robots-simplifying-embedded-system-design-photonic-ic-development-embedded-week-insights"
         },
         "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Toshiba Adds Low-Power Quad-Channel Digital Isolators",
-        "blurb": "東芝、低消費電力・高耐圧の4チャンネルデジタルアイソレータを発表。小型パッケージで高CMTIを実現。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/toshiba-adds-low-power-quad-channel-digital-isolators"
-        },
-        "field": null
       },
       {
-        "title": "NoMIS Power Advances SiC Roadmap with 6.5 kV MOSFET",
-        "blurb": "NoMIS Powerは、次世代高電圧電源システム向けに6.5kV SiC MOSFETを発表し、ロードマップを前進させた。",
+        "title": "This Chinese Electric SUV Just Recreated Mercedes’ Most Controversial Ad",
+        "blurb": "中国のEV、ボイヤがメルセデスを模倣し、トンネル内で逆さま走行を再現。2010年のメルセデスの物議を醸した広告を彷彿とさせる。",
         "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/nomis-power-advances-sic-roadmap-with-6-5-kv-mosfet"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Battery Architectures for Humanoids, Parallel-Connected RB-IGCTs, Infineon’s RIC70115 Rad-Hard GaN Gate Driver: Electronics Week Insights",
-        "blurb": "人型ロボット用バッテリー、並列接続RB-IGCT、インフィニオンの耐放射線性GaNゲートドライバなど、最新技術動向を紹介。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/battery-architectures-for-humanoids-parallel-connected-rb-igcts-infineons-ric70115-rad-hard-gan-gate-driver-electronics-week-insights"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ナトリウムイオン電池正極を大幅に長寿命化、東京理科大",
-        "blurb": "東京理科大はナトリウムイオン電池正極の長寿命化メカニズムを解明。層状酸化物正極にも応用可能で、技術発展に寄与。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news038.html"
-        },
-        "field": null
-      },
-      {
-        "title": "「先の見えない時代にRISC-Vは最適」　SDVでの標準化目指すInfineon",
-        "blurb": "インフィニオンはSDV時代の車載開発向けにRISC-Vの標準化を目指す。同社はRISC-Vエコシステムの構築を進めている。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news047.html"
-        },
-        "field": null
-      },
-      {
-        "title": "MediaTek、インフィニオンの車載NORフラッシュを認定",
-        "blurb": "MediaTekの車載コックピットプラットフォーム「C-X1」が、インフィニオンの車載NORフラッシュメモリを認定しました。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/14/news037.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Siemens and ASU Launch Online PCB Design Microcredential Program",
-        "blurb": "シーメンスとアリゾナ州立大学が、PCB設計スキルギャップ解消のためオンラインマイクロクレデンシャルプログラムを開始。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/siemens-and-asu-launch-online-pcb-design-microcredential-program"
-        },
-        "field": null
-      },
-      {
-        "title": "NXP RW610FML Module Brings Wi-Fi 6 and BLE 5.4 Connectivity",
-        "blurb": "NXPがWi-Fi 6とBLE 5.4対応の小型モジュール「RW610FML」を発表。Cortex-M33 MCU、8MBフラッシュ、高度なセキュリティを搭載。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/nxp-rw610fml-module-brings-wi-fi-6-and-ble-5-4-connectivity"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Tesla’s ‘Flying Roadster’ May Debut This Month Alongside A Street Legal Version",
-        "blurb": "テスラ、SpaceX製スラスター搭載の「空飛ぶロードスター」を今月発表か。公道走行可能なモデルも。",
-        "category": "company",
-        "date": "2026-08-14",
+        "date": "2026-08-15",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804993/tesla-flying-roadster-spacex-thrusters"
-        },
-        "field": null
-      },
-      {
-        "title": "Here's How Zoox's Robotaxi Safety Testing Will Work",
-        "blurb": "Zoox、ロボタクシーの安全テスト計画を発表。顧客へのサービス提供開始に伴い、詳細な安全基準を公開。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804737/zoox-robotaxi-safety-testing-framwork"
-        },
-        "field": null
-      },
-      {
-        "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
-        "blurb": "テスラの自動運転機能に「連続走行距離」のゲーミフィケーションが導入されたが、危険性を指摘する声が上がっている。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804844/tesla-fsd-streak-25k-miles"
-        },
-        "field": null
-      },
-      {
-        "title": "This Is The World's Largest Electric Aircraft—And Its First Flight Cost Just $5",
-        "blurb": "米国製電動航空機「Heart X1」が初飛行に成功。1.100フィート上昇し、1MW超の出力を記録。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804915/heart-aerospace-x1-largest-electric-aircraft-first-flight"
-        },
-        "field": null
-      },
-      {
-        "title": "2027 Lucid Gravity GT-S: Meet America’s Most Powerful Three-Row SUV",
-        "blurb": "新型EV SUV「Gravity GT-S」は、Lucid Air Sapphireにインスパイアされ、パワフルな3列シートSUVとして登場。日常をより楽しく。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804819/lucid-gravity-gt-s-specs-photos-official"
-        },
-        "field": null
-      },
-      {
-        "title": "NJ Dealer Claims Polestar Intentionally Quit The U.S. With Government Ban As Cover Up",
-        "blurb": "NJのディーラーが、ポールスターが米国撤退を計画し、政府の規制を口実にしたと主張し訴訟を起こした。",
-        "category": "company",
-        "date": "2026-08-14",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/804851/nj-dealer-suing-polestar-coverup"
+          "url": "https://insideevs.com/news/804955/chinese-ev-voyah-tunnel-loop-stunt"
         },
         "field": null
       },
