@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-08-06T07:10:33.368830+09:00",
+  "generated_at": "2026-08-18T06:23:12.439697+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Ambiq Launches heliaPROFILER for Edge AI Development",
-    "summary": "Ambiqは、エッジAI開発を加速するオープンソースツール「heliaPROFILER」を発表。Apollo SoC上でAIモデルの実行を詳細に分析し、最適化を支援する。",
+    "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
+    "summary": "SensiBelとAizipが光学MEMSマイクとエッジAIビームフォーミングを統合し、騒音下での音声認識精度向上を目指す。",
     "sources": [
       {
         "name": "embedded.com",
-        "url": "https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development"
+        "url": "https://www.embedded.com/sensibel-and-aizip-combine-optical-mems-and-edge-ai-beamforming"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Ambiq Launches heliaPROFILER for Edge AI Development",
-        "blurb": "Ambiqは、エッジAI開発を加速するオープンソースツール「heliaPROFILER」を発表。Apollo SoC上でAIモデルの実行を詳細に分析し、最適化を支援する。",
-        "category": "tools",
-        "date": "2026-08-05",
+        "title": "Edge AI Computer reComputer Mini J5011 Supports 8x GMSL2 Cameras",
+        "blurb": "Seeed StudioがJetson AGX Orin搭載のAIコンピューター「reComputer Mini J5011」を発表。8台のGMSL2カメラに対応し、高いAI性能を持つ。",
+        "category": "company",
+        "date": "2026-08-17",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/ambiq-launches-heliaprofiler-for-edge-ai-development"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/edge-ai-computer-recomputer-mini-j5011-supports-8x-gmsl2-cameras"
         },
         "field": {
           "primary": "ai",
@@ -36,6 +35,26 @@
         }
       }
     ],
-    "market": []
+    "tech": [],
+    "market": [
+      {
+        "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
+        "blurb": "SensiBelとAizipが光学MEMSマイクとエッジAIビームフォーミングを統合し、騒音下での音声認識精度向上を目指す。",
+        "category": "business",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/sensibel-and-aizip-combine-optical-mems-and-edge-ai-beamforming"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ]
   }
 }

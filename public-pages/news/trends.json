@@ -1,22 +1,56 @@
 {
-  "generated_at": "2026-08-17T06:17:13.434365+09:00",
-  "date": "2026-08-17",
+  "generated_at": "2026-08-18T06:23:15.856237+09:00",
+  "date": "2026-08-18",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化",
+      "name": "AI向け高電力・高効率化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
         "datacenter",
-        "industrial"
+        "logic",
+        "ai"
       ],
-      "summary": "SiCやGaNなどの次世代パワー半導体技術が、高電圧、高効率、小型化を実現し、EV、データセンター、産業機器の性能向上を牽引。",
+      "summary": "AIの電力需要増に対応するため、データセンターやチップレベルで800V DCアーキテクチャ、SiC/GaNデバイス、高効率コンバーターの導入が加速。",
       "analysis": {
-        "short_term": "技術開発競争激化、特許訴訟も増加。",
-        "mid_term": "採用拡大とコスト低下が進む。",
-        "investment_implications": "関連企業への投資妙味増す。"
+        "short_term": "800V DC関連技術の標準化と採用拡大が進む。",
+        "mid_term": "SiC/GaNデバイスの性能向上とコスト低下が鍵となる。",
+        "investment_implications": "高電力・高効率化技術を持つ企業に注目。"
+      },
+      "keywords": [
+        "800V DC",
+        "SiC",
+        "GaN",
+        "AI",
+        "データセンター"
+      ],
+      "companies_mentioned": [
+        "PowerUP",
+        "Para Light",
+        "NoMIS Power",
+        "Infineon",
+        "Navitas",
+        "Renesas",
+        "AMD",
+        "Nvidia"
+      ]
+    },
+    {
+      "name": "広帯域ギャップ半導体の普及",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial",
+        "datacenter"
+      ],
+      "summary": "SiCおよびGaNデバイスは、高電圧、高効率、高温耐性が求められる分野（EV、データセンター、産業機器）で採用が拡大。",
+      "analysis": {
+        "short_term": "SiC/GaNの製造能力増強とコスト競争が激化。",
+        "mid_term": "耐放射線性や高信頼性など、特定用途向け製品開発が進む。",
+        "investment_implications": "SiC/GaN材料・デバイスメーカーの成長が期待される。"
       },
       "keywords": [
         "SiC",
@@ -26,48 +60,41 @@
         "高効率"
       ],
       "companies_mentioned": [
+        "Para Light",
         "NoMIS Power",
         "Infineon",
+        "Cissoid",
         "Navitas",
-        "Renesas",
-        "Cissoid"
+        "Renesas"
       ]
     },
     {
-      "name": "AI向けインフラ・チップ需要拡大",
-      "confidence": 0.9,
+      "name": "AI向けメモリ・インターコネクト進化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
-        "logic",
         "memory",
+        "datacenter",
         "ai",
-        "frontend",
-        "backend"
+        "logic"
       ],
-      "summary": "AIの規模拡大に伴い、データセンターの計算能力、メモリ帯域幅、チップ間通信の高速化が求められ、関連技術・材料需要が急増。",
+      "summary": "AI処理におけるメモリ帯域幅のボトルネック解消のため、DDR5 RDIMMの高速化や光インターコネクトへの移行が進む。",
       "analysis": {
-        "short_term": "供給制約とコスト増が課題。",
-        "mid_term": "光インターコネクト、新メモリ技術が普及。",
-        "investment_implications": "AIインフラ関連企業に注目。"
+        "short_term": "高帯域幅メモリの需要が継続的に増加する。",
+        "mid_term": "光インターコネクト技術の実用化と普及が焦点となる。",
+        "investment_implications": "メモリ、インターコネクト技術関連企業に投資妙味。"
       },
       "keywords": [
-        "AI",
-        "データセンター",
-        "光インターコネクト",
+        "DDR5",
         "メモリ",
-        "チップ間通信"
+        "光インターコネクト",
+        "AI",
+        "データセンター"
       ],
       "companies_mentioned": [
         "Nvidia",
-        "AMD",
-        "Lam Research",
-        "ASE",
-        "MediaTek",
-        "インフィニオン",
-        "ソニー",
-        "TSMC",
-        "レゾナック"
+        "MaxLinear",
+        "NEO.AI"
       ]
     },
     {
@@ -75,110 +102,78 @@
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "datacenter",
-        "automotive",
         "foundry",
         "fabless",
-        "idm"
+        "idm",
+        "ai",
+        "automotive"
       ],
-      "summary": "システム最適化のため、ハードとソフト両方の理解を持つ垂直統合が進み、EDAツールやIP開発、ファウンドリとの連携が重要化。",
+      "summary": "システム最適化のため、ハードとソフト両方の理解に基づく垂直統合や、サプライヤー間の協力体制構築が進展。",
       "analysis": {
-        "short_term": "EDAツールの高度化が進む。",
-        "mid_term": "特定用途向けチップ開発が加速。",
-        "investment_implications": "エコシステム全体を評価。"
+        "short_term": "特定用途向けSoC開発で垂直統合の動きが活発化。",
+        "mid_term": "エコシステム全体での技術開発と標準化が重要になる。",
+        "investment_implications": "垂直統合型企業やエコシステム連携企業に注目。"
       },
       "keywords": [
         "垂直統合",
-        "EDA",
-        "IP",
+        "エコシステム",
         "SoC",
-        "AIチップ"
+        "AI",
+        "自動運転"
       ],
       "companies_mentioned": [
         "AMD",
-        "Intel",
+        "Sony",
+        "TSMC",
         "Google",
-        "Altera"
+        "MediaTek",
+        "Infineon"
       ]
     },
     {
-      "name": "先端材料・製造技術の重要性増大",
+      "name": "先端材料・後工程の重要性増大",
       "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
         "wafer",
-        "frontend",
         "backend",
-        "foundry",
-        "equipment"
+        "frontend",
+        "industrial"
       ],
-      "summary": "高純度材料や後工程材料の需要が増加し、製造プロセスの革新が半導体性能向上とコスト削減の鍵となる。",
+      "summary": "AI需要拡大に伴い、高純度材料や半導体後工程材料の需要が急増し、生産能力増強や技術革新が進む。",
       "analysis": {
-        "short_term": "特定材料の供給制約が顕在化。",
-        "mid_term": "新材料・工法の開発競争が激化。",
-        "investment_implications": "材料・製造装置メーカーに注目。"
+        "short_term": "後工程材料メーカーの業績が好調に推移する。",
+        "mid_term": "先端材料の安定供給体制構築が課題となる。",
+        "investment_implications": "材料メーカー、後工程受託企業に投資機会。"
       },
       "keywords": [
         "高純度材料",
         "後工程",
+        "AI",
         "赤燐",
-        "製造技術",
-        "ファウンドリ"
+        "レゾナック"
       ],
       "companies_mentioned": [
         "日本化学工業",
-        "レゾナック",
-        "TSMC",
-        "Intel"
-      ]
-    },
-    {
-      "name": "車載半導体の高度化と標準化",
-      "confidence": 0.65,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "power",
-        "memory",
-        "analog",
-        "logic"
-      ],
-      "summary": "自動運転や電動化の進展により、車載半導体には高性能化、高信頼性、省電力性が求められ、標準化とエコシステム連携が進む。",
-      "analysis": {
-        "short_term": "車載向け新規格への対応が急務。",
-        "mid_term": "ADAS/AD向けチップの競争激化。",
-        "investment_implications": "車載半導体メーカーに投資機会。"
-      },
-      "keywords": [
-        "車載",
-        "ADAS",
-        "自動運転",
-        "EV",
-        "イメージセンサー"
-      ],
-      "companies_mentioned": [
-        "MediaTek",
-        "インフィニオン",
-        "ソニー",
-        "TSMC"
+        "レゾナック"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場、単月で過去最高売上更新（2026年6月）",
-      "AI需要による後工程材料の大幅成長",
-      "次世代パワー半導体（SiC, GaN）の技術開発加速と採用拡大"
+      "AI向け半導体需要の継続的な拡大",
+      "SiC/GaNデバイス市場の成長加速",
+      "データセンター投資の活発化",
+      "車載半導体市場の回復基調"
     ],
     "bearish": [
-      "AI需要増によるシリコン供給制約とコスト増",
-      "NavitasによるRenesasへの特許侵害訴訟（IP保護の重要性増大）"
+      "地政学的リスクによるサプライチェーンの不安定化",
+      "一部分野における過剰在庫のリスク（ただしAI関連は除く）"
     ],
     "neutral": [
-      "1メガワットラックの議論（データセンターアーキテクチャの再考）",
-      "エージェント型EDAワークフローにおける自己検証の重要性"
+      "半導体製造装置への投資動向",
+      "メモリ市場の需給バランス"
     ]
   },
-  "source_count": 40
+  "source_count": 45
 }

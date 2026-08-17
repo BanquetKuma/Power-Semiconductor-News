@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-08-14T06:41:38.918224+09:00",
+  "generated_at": "2026-08-18T06:23:12.441380+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The 1-Megawatt Rack Debate",
-    "summary": "1メガワットラックの議論：ラックあたりの計算能力向上か、アーキテクチャ再考か。半導体エンジニアリング。",
+    "title": "Precision Under Pressure: Rethinking Bond Reliability In High-Density Semiconductor Test",
+    "summary": "高密度半導体テストにおけるワイヤボンド信頼性の再考。長期性能と歩留まり向上のための重要管理点として浮上。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/the-1-megawatt-rack-debate"
+        "url": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
-        "blurb": "エージェント型EDAワークフローにおける自己検証の重要性。出力を基盤とすることで、エンジニアは自信を持って構築できる。",
-        "category": "tools",
-        "date": "2026-08-13",
+        "title": "Precision Under Pressure: Rethinking Bond Reliability In High-Density Semiconductor Test",
+        "blurb": "高密度半導体テストにおけるワイヤボンド信頼性の再考。長期性能と歩留まり向上のための重要管理点として浮上。",
+        "category": "company",
+        "date": "2026-08-17",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters"
+          "url": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test"
         },
         "field": {
           "primary": "general",
@@ -36,169 +35,7 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "The 1-Megawatt Rack Debate",
-        "blurb": "1メガワットラックの議論：ラックあたりの計算能力向上か、アーキテクチャ再考か。半導体エンジニアリング。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-1-megawatt-rack-debate"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Vertical Integration Becoming Pervasive",
-        "blurb": "ハードとソフト両方の理解がシステム最適化に不可欠。アーキテクチャ選択には協力が必要。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/vertical-integration-becoming-pervasive"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Copper’s Grip On AI Scaling Is Starting To Slip",
-        "blurb": "AIの規模拡大に伴い、銅配線から光インターコネクトや回路切り替えへの移行が進み、データセンターの拡張方法が変化している。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/coppers-grip-on-ai-scaling-is-starting-to-slip"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Packet-Based NPUs In The LLM Era: From Compute-Bound CNNs To Memory-Bound Edge And Automotive Workloads",
-        "blurb": "LLM時代、エッジプロセッサは従来の認識ネットワークに加え、LLMや生成機能を搭載。メモリ帯域幅が重要に。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/packet-based-npus-in-the-llm-era-from-compute-bound-cnns-to-memory-bound-edge-and-automotive-workloads"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "What Will It Take To Deploy CPO At Scale?",
-        "blurb": "コパッケージド・オプティクス(CPO)の大規模展開には、製造、テスト、運用の課題解決が必要。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/what-will-it-take-to-deploy-cpo-at-scale"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Linear Optics And The Push To Scale AI Interconnects",
-        "blurb": "AIの進化に伴い、信号処理をホストSerDesに戻し、電力、遅延、熱負荷を削減するリニアオプティクス技術が注目されている。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/linear-optics-and-the-push-to-scale-ai-interconnects"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "From Tokens To Tasks: Why Agentic AI Changes The Infrastructure Conversation",
-        "blurb": "AIが単なる応答から業務遂行へ移行。モデル中心のワークフロー全体を最適化するインフラが不可欠に。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-tokens-to-tasks-why-agentic-ai-changes-the-infrastructure-conversation"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Made by Google 2026: This limited silicon-supply situation really sucks",
-        "blurb": "AI需要増によるシリコン供給制約と関税が、Googleとユーザーのコスト増を招いている。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/made-by-google-2026-this-limited-silicon-supply-situation-really-sucks"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "OpenLight and Tower Accelerate Photonic IC Development",
-        "blurb": "OpenLightとTower Semiconductorが、フォトニックIC開発を加速。OpenLightのPDKがCadence EDAツールで利用可能になり、開発者は既存のIC設計環境でフォトニックICを設計可能に。",
-        "category": "business",
-        "date": "2026-08-13",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/openlight-and-tower-accelerate-photonic-ic-development"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }

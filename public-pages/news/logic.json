@@ -1,32 +1,51 @@
 {
-  "generated_at": "2026-08-15T06:22:27.142382+09:00",
+  "generated_at": "2026-08-18T06:23:12.438925+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs",
-    "summary": "アルテラ、Agilex FPGAでDDR5/LPDDR5対応を拡充。開発者は帯域幅、消費電力、基板スペース、部品供給の最適化で柔軟性が向上。",
+    "title": "800VDC Pushes AI Power Design From Grid To Gate",
+    "summary": "AIの電力供給で、変電所からチップまでの800VDC化が次なる課題。電力変換経路全体がボトルネックとなる。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "Silicon Labs’ BG2B SoC Targets Ultra-Low-Power Bluetooth Designs",
+        "blurb": "Silicon Labsの新Bluetooth 6 SoC「BG2B」は、超低消費電力とセキュリティを両立し、IoT機器のバッテリー寿命を延ばします。",
+        "category": "company",
+        "date": "2026-08-17",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/silicon-labs-bg2b-soc-targets-ultra-low-power-bluetooth-designs"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "Altera Expands DDR5 and LPDDR5 Support Across Agilex FPGAs",
-        "blurb": "アルテラ、Agilex FPGAでDDR5/LPDDR5対応を拡充。開発者は帯域幅、消費電力、基板スペース、部品供給の最適化で柔軟性が向上。",
+        "title": "800VDC Pushes AI Power Design From Grid To Gate",
+        "blurb": "AIの電力供給で、変電所からチップまでの800VDC化が次なる課題。電力変換経路全体がボトルネックとなる。",
         "category": "business",
-        "date": "2026-08-14",
+        "date": "2026-08-17",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/altera-expands-ddr5-and-lpddr5-support-across-agilex-fpgas"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate"
         },
         "field": {
           "primary": "logic",
