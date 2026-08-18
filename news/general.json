@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-08-18T06:23:12.441380+09:00",
+  "generated_at": "2026-08-19T06:20:47.502952+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Precision Under Pressure: Rethinking Bond Reliability In High-Density Semiconductor Test",
-    "summary": "高密度半導体テストにおけるワイヤボンド信頼性の再考。長期性能と歩留まり向上のための重要管理点として浮上。",
+    "title": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
+    "summary": "半導体企業の決算概要。AI需要は予想外の分野にも拡大。80社超の収益と成長を分析。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test"
+        "url": "https://semiengineering.com/chip-industry-earnings-roundup"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Precision Under Pressure: Rethinking Bond Reliability In High-Density Semiconductor Test",
-        "blurb": "高密度半導体テストにおけるワイヤボンド信頼性の再考。長期性能と歩留まり向上のための重要管理点として浮上。",
-        "category": "company",
-        "date": "2026-08-17",
+        "title": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
+        "blurb": "半導体企業の決算概要。AI需要は予想外の分野にも拡大。80社超の収益と成長を分析。",
+        "category": "business",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test"
+          "url": "https://semiengineering.com/chip-industry-earnings-roundup"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI silicon: Package becoming system architecture",
+        "blurb": "AIシステムは個別のパッケージ選択から統合技術プラットフォームへと移行。パッケージがシステムアーキテクチャになりつつある。",
+        "category": "business",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-silicon-package-becoming-system-architecture"
         },
         "field": {
           "primary": "general",
@@ -34,8 +54,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

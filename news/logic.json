@@ -1,60 +1,41 @@
 {
-  "generated_at": "2026-08-18T06:23:12.438925+09:00",
+  "generated_at": "2026-08-19T06:20:47.500594+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "800VDC Pushes AI Power Design From Grid To Gate",
-    "summary": "AIの電力供給で、変電所からチップまでの800VDC化が次なる課題。電力変換経路全体がボトルネックとなる。",
+    "title": "NXP FRDM-IMX95-PRO Development Board Brings 8 eTOPS AI and 10GbE Connectivity",
+    "summary": "NXPがAI処理能力8 eTOPS、10GbE対応の開発ボード「FRDM-IMX95-PRO」を発表。エッジAIや産業用途に最適。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate"
+        "name": "electronics-lab.com",
+        "url": "https://www.electronics-lab.com/nxp-frdm-imx95-pro-development-board-brings-8-etops-ai-and-10gbe-connectivity"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "Silicon Labs’ BG2B SoC Targets Ultra-Low-Power Bluetooth Designs",
-        "blurb": "Silicon Labsの新Bluetooth 6 SoC「BG2B」は、超低消費電力とセキュリティを両立し、IoT機器のバッテリー寿命を延ばします。",
-        "category": "company",
-        "date": "2026-08-17",
+        "title": "NXP FRDM-IMX95-PRO Development Board Brings 8 eTOPS AI and 10GbE Connectivity",
+        "blurb": "NXPがAI処理能力8 eTOPS、10GbE対応の開発ボード「FRDM-IMX95-PRO」を発表。エッジAIや産業用途に最適。",
+        "category": "tools",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
           "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/silicon-labs-bg2b-soc-targets-ultra-low-power-bluetooth-designs"
+          "url": "https://www.electronics-lab.com/nxp-frdm-imx95-pro-development-board-brings-8-etops-ai-and-10gbe-connectivity"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "industrial",
+          "market": "ai",
           "industry": null
         }
       }
     ],
-    "tech": [],
-    "market": [
-      {
-        "title": "800VDC Pushes AI Power Design From Grid To Gate",
-        "blurb": "AIの電力供給で、変電所からチップまでの800VDC化が次なる課題。電力変換経路全体がボトルネックとなる。",
-        "category": "business",
-        "date": "2026-08-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }
