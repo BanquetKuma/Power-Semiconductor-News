@@ -1,164 +1,164 @@
 {
-  "generated_at": "2026-08-19T06:20:52.442473+09:00",
-  "date": "2026-08-19",
+  "generated_at": "2026-08-20T06:22:28.612179+09:00",
+  "date": "2026-08-20",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の台頭",
+      "name": "AI向け高性能・高効率パワー半導体需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
+        "ai",
         "datacenter",
-        "industrial"
+        "automotive"
       ],
-      "summary": "SiCやGaNといった次世代パワー半導体の採用がデータセンター、EV、産業機器で加速。高効率化と小型化に貢献。",
+      "summary": "AI計算の爆発的増加に伴い、データセンターやエッジデバイスでの電力効率と性能を向上させるGaNやSiCなどの次世代パワー半導体への需要が急増している。",
       "analysis": {
-        "short_term": "SiC/GaN製品のロードマップ進展と採用拡大が続く。",
-        "mid_term": "性能向上とコスト低減が進み、より広範な用途へ浸透。",
-        "investment_implications": "SiC/GaN材料・デバイスメーカーに注目。"
+        "short_term": "需要は引き続き堅調。供給能力が鍵。",
+        "mid_term": "技術革新と量産拡大で競争激化。",
+        "investment_implications": "パワー半導体メーカーへの投資妙味。"
       },
       "keywords": [
-        "SiC",
         "GaN",
-        "EV",
+        "SiC",
+        "AI",
         "データセンター",
-        "ロボット"
+        "高効率"
       ],
       "companies_mentioned": [
         "EPC",
         "Para Light",
-        "NoMIS Power",
-        "Infineon"
+        "NoMIS Power"
       ]
     },
     {
-      "name": "AIインフラの電力需要増大",
+      "name": "データセンターの800V DCアーキテクチャ移行",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
         "power",
-        "ai",
-        "logic"
+        "ai"
       ],
-      "summary": "AIの電力需要増に対応するため、データセンターで800V DCアーキテクチャや高効率電力変換技術が重要視されている。",
+      "summary": "AIワークロードの電力需要増に対応するため、データセンターは800V DCアーキテクチャへの移行を進め、電力変換効率の向上を目指している。",
       "analysis": {
-        "short_term": "800V DC化や電力効率改善技術への投資が活発化。",
-        "mid_term": "データセンターの電力インフラ全体がボトルネックに。",
-        "investment_implications": "高電圧対応電源、電力管理ICメーカーに追い風。"
+        "short_term": "導入初期段階、技術標準化が進行。",
+        "mid_term": "インフラ投資拡大、関連部品需要増。",
+        "investment_implications": "DC配電、保護、変換技術関連企業に注目。"
       },
       "keywords": [
-        "AI",
-        "データセンター",
         "800V DC",
+        "データセンター",
+        "AI",
         "電力効率"
       ],
-      "companies_mentioned": [
-        "Nvidia",
-        "AMD",
-        "Google"
-      ]
+      "companies_mentioned": []
     },
     {
-      "name": "AIチップの進化と多様化",
+      "name": "AI計算におけるヘテロジニアス・クラスター化",
       "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "datacenter",
         "logic",
-        "fabless",
+        "frontend",
         "backend"
       ],
-      "summary": "特定AIモデルに特化したチップや、エッジAI、チップレット技術など、AIチップの進化と多様化が進んでいる。",
+      "summary": "AI計算は単一チップではなく、CPU、GPU、NPU、カスタムアクセラレータなどを組み合わせたヘテロジニアス・クラスターが主流となり、チップレット技術が重要性を増す。",
       "analysis": {
-        "short_term": "特定用途向けAIチップ開発が加速、買収も活発化。",
-        "mid_term": "チップレット技術による性能向上とコスト最適化が進む。",
-        "investment_implications": "AIチップ設計・開発企業、チップレット関連技術に注目。"
+        "short_term": "カスタムチップ開発加速、設計ツール需要増。",
+        "mid_term": "チップレット統合技術の進化が鍵。",
+        "investment_implications": "多様な半導体IP、パッケージング技術に投資機会。"
       },
       "keywords": [
-        "AIチップ",
-        "エッジAI",
+        "ヘテロジニアス",
         "チップレット",
-        "推論"
+        "AI",
+        "カスタムSoC"
       ],
       "companies_mentioned": [
-        "AMD",
-        "LENZO",
-        "BrainChip"
+        "ソシオネクスト",
+        "Intel"
       ]
     },
     {
-      "name": "垂直統合とシステム最適化",
-      "confidence": 0.8,
+      "name": "IoT/産業機器におけるセキュリティ強化とスマート化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "general",
-        "ai",
-        "automotive",
-        "logic"
+        "industrial",
+        "analog",
+        "logic",
+        "ai"
       ],
-      "summary": "ハードウェアとソフトウェアの垂直統合が進み、パッケージング技術がシステムアーキテクチャの鍵となっている。",
+      "summary": "IoTや産業制御システムにおいて、セキュリティ機能強化とAI統合によるスマート化が進展し、MCUやセンサーモジュールの重要性が高まっている。",
       "analysis": {
-        "short_term": "パッケージング技術がシステム性能のボトルネックに。",
-        "mid_term": "ハード・ソフト協調設計による最適化が不可欠に。",
-        "investment_implications": "統合設計・製造能力を持つ企業が優位に。"
+        "short_term": "セキュリティMCU、スマートモジュール需要増。",
+        "mid_term": "エッジAIとの連携強化で用途拡大。",
+        "investment_implications": "高機能MCU、IoTプラットフォーム関連企業に注目。"
       },
       "keywords": [
-        "垂直統合",
-        "パッケージング",
-        "システムアーキテクチャ",
-        "AI"
+        "IoT",
+        "産業機器",
+        "セキュリティ",
+        "MCU",
+        "エッジAI"
       ],
       "companies_mentioned": [
-        "Google",
-        "AMD"
+        "Quectel",
+        "東芝",
+        "BrainChip",
+        "Orama.AOI",
+        "SensiBel",
+        "Aizip"
       ]
     },
     {
-      "name": "次世代メモリ技術への期待",
-      "confidence": 0.75,
+      "name": "日本における次世代メモリ技術開発の再興",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
         "memory",
-        "logic",
         "frontend",
-        "geopolitics"
+        "logic"
       ],
-      "summary": "日本発の次世代メモリ技術開発や、NANDフラッシュ市場での中国企業の台頭など、メモリ分野の動向が注目されている。",
+      "summary": "日本企業が次世代メモリ技術（ZAMなど）の開発に注力し、メモリ分野での技術基盤再構築を目指す動きが見られる。",
       "analysis": {
-        "short_term": "メモリ価格の変動と供給懸念が市場を左右。",
-        "mid_term": "新メモリ技術の商用化と市場シェア争いが激化。",
-        "investment_implications": "メモリメーカー、新技術開発企業に注目。"
+        "short_term": "研究開発段階、技術実証が焦点。",
+        "mid_term": "量産化への道筋と国際競争力が課題。",
+        "investment_implications": "メモリ技術開発企業への長期投資。"
       },
       "keywords": [
         "メモリ",
-        "NAND",
         "ZAM",
-        "YMTC"
+        "日本",
+        "次世代技術"
       ],
       "companies_mentioned": [
         "SAIMEMORY",
-        "YMTC",
-        "Samsung Electronics",
-        "Kioxia"
+        "ソフトバンク"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要の広範な拡大",
-      "次世代パワー半導体の採用加速",
-      "データセンター投資の活発化"
+      "AI需要による半導体企業収益・成長への広範な影響（記事8）",
+      "データセンターの800V DCアーキテクチャ採用進展（記事2, 11）",
+      "GaN/SiCパワー半導体の性能向上と応用拡大（記事1, 3, 4）",
+      "ヘテロジニアス・クラスター化による多様なチップ需要（記事5）",
+      "国内半導体装置メーカーの業績好調（記事16）",
+      "車載エッジAIプラットフォームの登場（記事26）"
     ],
     "bearish": [
-      "メモリ価格高騰と供給懸念",
-      "シリコン供給制約と関税によるコスト増",
-      "ハイパースケーラーの投資動向への警戒"
+      "ハイパースケーラーの投資とメモリ価格高騰への懸念（記事19）",
+      "NANDフラッシュ市場における中国YMTCのシェア拡大（記事20）"
     ],
     "neutral": [
-      "半導体企業の決算は堅調だが、市場転換点の可能性も指摘"
+      "高密度半導体テストにおけるワイヤボンド信頼性の再考（記事12）",
+      "ソニーとTSMCの合弁事業（イメージセンサー）（記事21）",
+      "光集積回路（PIC）開発エコシステムの拡張（記事30）"
     ]
   },
-  "source_count": 43
+  "source_count": 37
 }
