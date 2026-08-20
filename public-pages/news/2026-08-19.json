@@ -1,28 +1,64 @@
 {
-  "generated_at": "2026-08-20T06:22:23.368667+09:00",
+  "generated_at": "2026-08-19T06:20:47.498213+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "EPC Space Launches Rad-Hard 15V, 25V and 40V eGaN FETs",
-    "summary": "EPC Spaceが宇宙コンピューティング向け放射線耐性eGaN FETを発表。高周波電力変換に対応し、最大101Aの連続電流と1Mrad以上のTIDをサポート。",
+    "title": "Würth Elektronik Updates REDEXPERT DC-DC Design Tool",
+    "summary": "ヴィルス・エレクトロニクスがDC-DC設計ツール「REDEXPERT」を更新。DCバイアスや最悪条件、損失を考慮し、コンバーター選定とBOM生成を改善。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/epc-space-launches-rad-hard-15v-25v-and-40v-egan-fets"
+        "url": "https://www.powerelectronicsnews.com/wurth-elektronik-updates-redexpert-dc-dc-design-tool"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "The Future Of AI Compute Won’t Run On Just One Kind Of Chip",
-        "blurb": "AI計算の将来は多様なチップに依存。CPU、GPU、NPU、光学、カスタムアクセラレータを組み合わせたヘテロジニアス・クラスターがデータセンターで主流に。",
+        "title": "PowerUP’s Data Center Panel: Understanding where the 800-V DC architecture stands",
+        "blurb": "AIの電力需要増に対応するため、データセンターが800V DCアーキテクチャを採用。電力供給、保護、蓄電、変換技術の進展を探る。",
         "category": "business",
-        "date": "2026-08-19",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/powerups-data-center-panel-understanding-where-the-800-v-dc-architecture-stands"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Chip Industry Technical Paper Roundup: Aug. 18",
+        "blurb": "半導体業界の技術論文まとめ：2D CFET、PIMチップレット、先端ノードレイアウト、歩留まり予測、3D-IC解析、SiCウェーハ加工など。",
+        "category": "business",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-future-of-ai-compute-wont-run-on-just-one-kind-of-chip"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-18"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
+        "blurb": "半導体企業の決算概要。AI需要は予想外の分野にも拡大。80社超の収益と成長を分析。",
+        "category": "business",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-earnings-roundup"
         },
         "field": {
           "primary": "general",
@@ -33,52 +69,124 @@
         }
       },
       {
-        "title": "Blog Review: Aug. 19",
-        "blurb": "メモリタグ、月のデジタルツイン、パッケージング技術、センサーデータストリーミングに関するブログレビュー。",
+        "title": "Research Bits: Aug. 18",
+        "blurb": "エッジAIのハードウェア・アルゴリズム協調設計、応答速度可変メモリトランジスタ、長短記憶型人工シナプスの研究成果。",
         "category": "business",
-        "date": "2026-08-19",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-aug-19-3"
+          "url": "https://semiengineering.com/research-bits-aug-18"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "「持ち運べるテラヘルツ波デバイス」で市場開拓へ　ローム",
+        "blurb": "ロームはテラヘルツ波発振デバイス第2世代品を開発。小型で出力4倍、評価キットで用途開拓と市場形成を目指す。",
+        "category": "business",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/18/news054.html"
+        },
+        "field": null
+      },
+      {
+        "title": "絶好調の半導体市場に迫る転換点　株式市場が先読みする「2つの懸念」",
+        "blurb": "半導体市場は好調だが、ハイパースケーラーの投資とメモリ価格高騰に懸念があり、株価は変動。転換点が近い。",
+        "category": "business",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/18/news051.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "2026年Q2のNAND出荷シェア、中国YMTCが3位に浮上",
+        "blurb": "2026年Q2のNAND出荷シェアで、中国YMTCがキオクシアを抜き3位に浮上。首位はSamsung Electronics。",
+        "category": "business",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/18/news029.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "2027年3月期第1四半期 国内半導体装置メーカー 業績まとめ",
-        "blurb": "2027年3月期第1四半期の国内半導体装置メーカー8社のうち、7社中4社が増収増益となった。",
+        "title": "AI silicon: Package becoming system architecture",
+        "blurb": "AIシステムは個別のパッケージ選択から統合技術プラットフォームへと移行。パッケージがシステムアーキテクチャになりつつある。",
         "category": "business",
-        "date": "2026-08-19",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/19/news038.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-silicon-package-becoming-system-architecture"
         },
         "field": {
-          "primary": "equipment",
+          "primary": "general",
           "device": null,
-          "process": "equipment",
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "情報通信分野の注目すべき技術とデバイス",
-        "blurb": "JEITA発行のロードマップから、2026年度版「情報通信」分野の注目市場と電子機器群の概要を紹介します。",
+        "title": "SensiBel and Aizip Combine Optical MEMS and Edge AI Beamforming",
+        "blurb": "SensiBelとAizipが光学MEMSマイクとエッジAIビームフォーミングを統合し、騒音下での音声認識精度向上を目指す。",
         "category": "business",
-        "date": "2026-08-19",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/19/news024.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/sensibel-and-aizip-combine-optical-mems-and-edge-ai-beamforming"
         },
-        "field": null
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Home EV Charging Has A Hidden Cost. Here’s How To Reduce It And Lower Your Bill",
+        "blurb": "自宅EV充電には隠れたコストがある。ドイツの自動車クラブのテストで、充電ロスを減らし請求額を下げる方法が判明。特定の車種が注目された。",
+        "category": "business",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/805275/home-ev-charging-losses-how-to-minimize"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       },
       {
         "title": "BrainChip, Orama.AOI Target AI-Based Industrial Defect Detection",
@@ -97,224 +205,194 @@
           "market": "industrial",
           "industry": null
         }
-      },
-      {
-        "title": "These Affordable EVs Just Got A New Lifeline: Replacement Motors Cost 30% Less",
-        "blurb": "テスラも手掛けるメーカーが、キア・ニーロEVとヒョンデ・コナEVの再生モーターを30%安で提供開始。",
-        "category": "business",
-        "date": "2026-08-19",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/805423/kia-niro-hyundai-kona-ev-remanufactured-motors"
-        },
-        "field": null
-      },
-      {
-        "title": "Audi’s China-Built EVs Are Coming To Europe—And They Cost Less Than Local Models",
-        "blurb": "中国で生産されたアウディEVが、現地モデルより安価に欧州へ輸入される。第三者企業が独自に輸入を開始。",
-        "category": "business",
-        "date": "2026-08-19",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/805407/audi-china-evs-europe-import"
-        },
-        "field": null
-      },
-      {
-        "title": "Advanced RF Systems Power Next-Gen Mil-Aero Comms",
-        "blurb": "RF業界は防衛・宇宙経済の拡大を背景に成長期へ。次世代通信向けに高度なRFシステムが求められている。",
-        "category": "business",
-        "date": "2026-08-20",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/advanced-rf-systems-power-next-gen-mil-aero-comms"
-        },
-        "field": null
-      },
-      {
-        "title": "The Fiat Topolino Is Disrupting The U.S. Golf Cart Market",
-        "blurb": "フィアットの「トポリーノ」が、10億ドル規模のアメリカのゴルフカート市場に参入し、業界に変化をもたらしています。",
-        "category": "business",
-        "date": "2026-08-20",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/805509/fiat-topolino-ev-golfcart-market"
-        },
-        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Monitoring the Output Current of Offboard LED Drivers",
-        "blurb": "車載用オフボードLEDドライバの出力電流監視方法について解説。シリーズ抵抗による電流設定の代替案も提示。",
+        "title": "Würth Elektronik Updates REDEXPERT DC-DC Design Tool",
+        "blurb": "ヴィルス・エレクトロニクスがDC-DC設計ツール「REDEXPERT」を更新。DCバイアスや最悪条件、損失を考慮し、コンバーター選定とBOM生成を改善。",
         "category": "tools",
-        "date": "2026-08-19",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/monitoring-the-output-current-of-offboard-led-drivers"
+          "url": "https://www.powerelectronicsnews.com/wurth-elektronik-updates-redexpert-dc-dc-design-tool"
         },
         "field": null
       },
       {
-        "title": "光照射で機能が切り替わる「分子スイッチ」を開発",
-        "blurb": "OISTが光照射で機能が切り替わる分子スイッチを開発。波長に応じて構造変化し、分子エレクトロニクス等への応用が期待される。",
+        "title": "Op-amp LC oscillator uses tank losses for amplitude stabilization",
+        "blurb": "オペアンプLC発振器がタンク損失を利用して振幅安定化を実現。従来のAGC、ACカップリング、後段増幅回路が不要に。",
         "category": "tools",
-        "date": "2026-08-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/19/news034.html"
-        },
-        "field": null
-      },
-      {
-        "title": "微小液滴を用いDNA修飾金ナノ粒子超格子を均一生成",
-        "blurb": "九大と名大、微小液滴でDNA修飾金ナノ粒子超格子を均一生成。結晶サイズばらつきを約9分の1に抑制。",
-        "category": "tools",
-        "date": "2026-08-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/19/news033.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Single sideband radio meets LMC555 beat frequency oscillator",
-        "blurb": "LMC555を使ったビート発振器で、CW信号とSSB信号を聞き取れるようにする。",
-        "category": "tools",
-        "date": "2026-08-19",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/single-sideband-radio-meets-lmc555-beat-frequency-oscillator"
+          "url": "https://www.edn.com/op-amp-lc-oscillator-uses-tank-losses-for-amplitude-stabilization"
         },
         "field": null
       },
       {
-        "title": "MaTouch ESP32-S3 MaUWB Development Board Adds 3.95-inch Touchscreen and UWB",
-        "blurb": "MakerfabsがESP32-S3搭載のMaTouch開発ボードを発表。3.95インチタッチスクリーンとUWB機能を搭載。",
+        "title": "Do we still need schematic diagrams for analog circuits?",
+        "blurb": "高集積IC化により、アナログ回路の回路図は変化。回路図の必要性が問われている。",
         "category": "tools",
-        "date": "2026-08-19",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/do-we-still-need-schematic-diagrams-for-analog-circuits"
+        },
+        "field": null
+      },
+      {
+        "title": "NXP FRDM-IMX95-PRO Development Board Brings 8 eTOPS AI and 10GbE Connectivity",
+        "blurb": "NXPがAI処理能力8 eTOPS、10GbE対応の開発ボード「FRDM-IMX95-PRO」を発表。エッジAIや産業用途に最適。",
+        "category": "tools",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
           "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/matouch-esp32-s3-mauwb-development-board-adds-3-95-inch-touchscreen-and-uwb"
-        },
-        "field": null
-      },
-      {
-        "title": "Smart modules bring Android 16 to IoT designs",
-        "blurb": "QuectelのAndroid 16搭載スマートモジュールは、産業・商用IoT開発を加速させる。",
-        "category": "tools",
-        "date": "2026-08-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/smart-modules-bring-android-16-to-iot-designs"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Channel emulator adds 6G, Wi-Fi 7/8 testing",
-        "blurb": "VIAVIのVertex 6.0は、最大23.6GHzのキャリア周波数と400MHzの帯域幅をサポートし、6GやWi-Fi 7/8のテストに対応します。",
-        "category": "tools",
-        "date": "2026-08-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/channel-emulator-adds-6g-wi-fi-7-8-testing"
-        },
-        "field": null
-      },
-      {
-        "title": "B&K Precision Debuts 2-in-1 RF Signal and Arbitrary Waveform Generator",
-        "blurb": "B&KプレシジョンがRF信号と任意波形発生器を統合した新製品を発表。省スペース化と効率化を実現。",
-        "category": "tools",
-        "date": "2026-08-20",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/bk-precision-debuts-2-in-1-rf-signal-and-arbitrary-waveform-generator"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "EPC Space Launches Rad-Hard 15V, 25V and 40V eGaN FETs",
-        "blurb": "EPC Spaceが宇宙コンピューティング向け放射線耐性eGaN FETを発表。高周波電力変換に対応し、最大101Aの連続電流と1Mrad以上のTIDをサポート。",
-        "category": "company",
-        "date": "2026-08-19",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/epc-space-launches-rad-hard-15v-25v-and-40v-egan-fets"
-        },
-        "field": null
-      },
-      {
-        "title": "ソシオネクスト、AI／HPC向けSoC開発にIntel 18A-P採用",
-        "blurb": "ソシオネクストはAI/HPC向けカスタムSoC開発にIntelの1.8nmプロセス「Intel 18A-P」を採用。両社の技術を組み合わせ顧客を支援する。",
-        "category": "company",
-        "date": "2026-08-19",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/19/news043.html"
+          "url": "https://www.electronics-lab.com/nxp-frdm-imx95-pro-development-board-brings-8-etops-ai-and-10gbe-connectivity"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "datacenter",
-          "industry": "idm"
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "EPC Brings GaN Motor Drives Closer to the Actuator",
+        "blurb": "EPCは、ロボットやドローン向けに窒化ガリウム（GaN）モーター駆動の基準設計を発表。アクチュエータへの統合を進める。",
+        "category": "company",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/epc-brings-gan-motor-drives-closer-to-the-actuator"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
         }
       },
       {
-        "title": "「捨てるはずのDDR4」を再利用　Meta、CXLでサーバ台数を25％削減",
-        "blurb": "Metaは、旧DDR4メモリをCXL経由で再利用し、サーバ台数を25%削減。DDR5高騰で経済的メリットが増大。相互運用性が課題。",
+        "title": "Panasonic Thick-Film Resistors Offer Alternative to Metal Shunts",
+        "blurb": "パナソニックが、金属シャント抵抗に代わる厚膜抵抗器を発表。低抵抗値と低温度係数で高精度な電流測定を実現。",
         "category": "company",
-        "date": "2026-08-19",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/19/news045.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/panasonic-thick-film-resistors-offer-alternative-to-metal-shunts"
         },
         "field": null
       },
       {
-        "title": "Aetina Introduces Palm-Sized In-Vehicle Edge AI Platforms",
-        "blurb": "AetinaがNvidia Jetson搭載の車載エッジAIプラットフォームを発表。小型で高性能、カメラ4台接続可能。",
+        "title": "Controlling Voltage Droop In 2.5D PIM Chiplet Architectures (Washington St., UW-Madison)",
+        "blurb": "WSUとウィスコンシン大学マディソン校の研究者は、2.5D PIMチップレットアーキテクチャにおける電圧降下制御技術「ReVolt」を発表しました。",
         "category": "company",
-        "date": "2026-08-19",
+        "date": "2026-08-18",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/aetina-introduces-palm-sized-in-vehicle-edge-ai-platforms"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/controlling-voltage-droop-in-2-5d-pim-chiplet-architectures-washington-st-uw-madison"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "日本発のAIチップ新興LENZOも登壇　「Virtual EXPO 2026 夏」開催！",
+        "blurb": "AI半導体スタートアップLENZOも登壇する「ITmedia Virtual EXPO 2026 夏」が8月25日より開催。参加無料。",
+        "category": "company",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/18/news092.html"
         },
         "field": {
           "primary": "ai",
           "device": null,
           "process": null,
           "market": "ai",
-          "industry": "fabless"
+          "industry": "geopolitics"
         }
       },
       {
+        "title": "「ZAMで再び日本にメモリ技術基盤を」 SAIMEMORYの構想とは",
+        "blurb": "ソフトバンク子会社SAIMEMORYが次世代メモリ「ZAM」を開発。DRAMを垂直ビルド構造で配置し、日本にメモリ技術基盤を再構築する構想。",
+        "category": "company",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/18/news050.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「開発部門がなくても存在感を放つ日本」　テクトロニクス日本法人代表",
+        "blurb": "テクトロニクス日本法人代表が、計測機器のトレンドや日本での事業戦略、強みについて語る。創立80周年を迎えた同社の日本市場での存在感に注目。",
+        "category": "company",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/18/news034.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla’s New Three-Row EV Is The Longest-Range Model Y Tested By Edmunds",
+        "blurb": "テスラの新型3列シートEV、モデルYがEdmundsのテストで最長の航続距離を記録。推定値を30マイル以上上回った。",
+        "category": "company",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/805339/tesla-model-y-l-range-test-edmunds"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Rivian Is Recalling Over 30,000 R1S And R1T EVs Over Faulty Indicators",
+        "blurb": "Rivianは、不具合のある方向指示器のため、3万台以上のR1SとR1T EVをリコールします。昨年からのリコールに追加で、さらに多くの車両が対象となりました。",
+        "category": "company",
+        "date": "2026-08-18",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/805305/rivian-r1s-r1t-turn-signal-recall"
+        },
+        "field": null
+      },
+      {
         "title": "This 100-Year-Old EV Came With More Range Than The First Nissan Leaf",
-        "blurb": "100年前の電気自動車が、初代日産リーフより航続距離が長いことが判明。ただし、最高速度は遅い。",
+        "blurb": "100年前の電気自動車が、初代日産リーフより航続距離が長いことが判明。ただし、速度は遅い。",
         "category": "company",
         "date": "2026-08-19",
         "stars": 3,
@@ -361,68 +439,14 @@
         "field": null
       },
       {
-        "title": "Class-D amplifier enhances automotive audio performance",
-        "blurb": "Diodes社が、車載向けに最大3Wの出力を実現するClass-Dモノラルオーディオアンプ「PAM2011Q」を発表しました。",
+        "title": "One Owner Just Did What Tesla Couldn't: Upgrade An Older Car To HW4",
+        "blurb": "テスラがHW4へのアップグレードを遅延させる中、オーナーが旧車への改造に成功。テスラもできなかったことを個人が実現。",
         "category": "company",
-        "date": "2026-08-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/class-d-amplifier-enhances-automotive-audio-performance"
-        },
-        "field": null
-      },
-      {
-        "title": "Load switch guards automotive power rails",
-        "blurb": "キネティック・テクノロジーズのAEC-Q100準拠ロードスイッチKTS1642Qは、異常な電源・負荷条件から車載負荷を保護します。",
-        "category": "company",
-        "date": "2026-08-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/load-switch-guards-automotive-power-rails"
-        },
-        "field": null
-      },
-      {
-        "title": "MCUs strengthen security in IoT and control systems",
-        "blurb": "東芝のTXZ+シリーズM4VグループMCUは、IoTや産業制御機器のセキュリティとデータ管理を強化します。",
-        "category": "company",
-        "date": "2026-08-20",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/mcus-strengthen-security-in-iot-and-control-systems"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "BMW's Chinese-Market iX3 50L Just Drove 640 Miles On One Charge",
-        "blurb": "BMWの中国市場向けiX3が、1回の充電で640マイル（約1030km）の走行に成功。実走行テストでの記録。",
-        "category": "company",
-        "date": "2026-08-20",
+        "date": "2026-08-19",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/805513/bmw-ix3-drove-640-miles"
-        },
-        "field": null
-      },
-      {
-        "title": "Sharing Is Caring: See How A Lucid Gravity Can Charge A Tesla Model 3",
-        "blurb": "競合であるテスラ車を、高級EVメーカーのルシード・グラビティで充電できることが判明。充電は問題なく機能した。",
-        "category": "company",
-        "date": "2026-08-20",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/805511/lucid-gravity-charges-tesla"
+          "url": "https://insideevs.com/news/805235/tesla-hw4-retrofit-progress-owner"
         },
         "field": null
       }

@@ -1,50 +1,31 @@
 {
-  "generated_at": "2026-08-19T06:20:47.502045+09:00",
+  "generated_at": "2026-08-21T06:24:35.412571+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "PowerUP’s Data Center Panel: Understanding where the 800-V DC architecture stands",
-    "summary": "AIの電力需要増に対応するため、データセンターが800V DCアーキテクチャを採用。電力供給、保護、蓄電、変換技術の進展を探る。",
+    "title": "Power Corner: Modeling the AI Data Center Power Train with MathWorks",
+    "summary": "MathWorksは、AIデータセンターの電力、冷却、グリッド接続をマルチドメインシミュレーションでモデル化する方法を解説。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/powerups-data-center-panel-understanding-where-the-800-v-dc-architecture-stands"
+        "url": "https://www.powerelectronicsnews.com/power-corner-modeling-the-ai-data-center-power-train-with-mathworks"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "PowerUP’s Data Center Panel: Understanding where the 800-V DC architecture stands",
-        "blurb": "AIの電力需要増に対応するため、データセンターが800V DCアーキテクチャを採用。電力供給、保護、蓄電、変換技術の進展を探る。",
-        "category": "business",
-        "date": "2026-08-18",
+        "title": "Power Corner: Modeling the AI Data Center Power Train with MathWorks",
+        "blurb": "MathWorksは、AIデータセンターの電力、冷却、グリッド接続をマルチドメインシミュレーションでモデル化する方法を解説。",
+        "category": "tools",
+        "date": "2026-08-20",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/powerups-data-center-panel-understanding-where-the-800-v-dc-architecture-stands"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "絶好調の半導体市場に迫る転換点　株式市場が先読みする「2つの懸念」",
-        "blurb": "半導体市場は好調だが、ハイパースケーラーの投資とメモリ価格高騰に懸念があり、株価は変動。転換点が近い。",
-        "category": "business",
-        "date": "2026-08-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/18/news051.html"
+          "url": "https://www.powerelectronicsnews.com/power-corner-modeling-the-ai-data-center-power-train-with-mathworks"
         },
         "field": {
           "primary": "datacenter",
@@ -54,6 +35,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }
