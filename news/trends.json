@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T06:24:39.162126+09:00",
-  "date": "2026-08-21",
+  "generated_at": "2026-08-22T06:21:08.028933+09:00",
+  "date": "2026-08-22",
   "meta_trends": [
     {
-      "name": "AIデータセンターの電力需要増大",
+      "name": "AIデータセンター向け高電力・高効率化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -11,147 +11,145 @@
         "datacenter",
         "ai"
       ],
-      "summary": "AIの普及に伴い、データセンターの電力消費が急増。800V DCアーキテクチャや高効率パワーデバイスへの移行が加速。",
+      "summary": "AI需要増に伴い、データセンターでは800V DCアーキテクチャ導入やGaN/SiCパワーデバイス活用による電力効率向上が急務となっている。",
       "analysis": {
-        "short_term": "電力インフラ投資の拡大が続く。",
-        "mid_term": "省電力技術開発競争が激化する。",
-        "investment_implications": "高効率パワーデバイス、冷却技術関連企業に注目。"
+        "short_term": "800V DC関連技術・製品への注目高まる。",
+        "mid_term": "高効率化競争が激化し、新素材・新技術の採用が進む。",
+        "investment_implications": "高効率パワー半導体、冷却技術関連企業に投資妙味。"
       },
       "keywords": [
         "AI",
         "データセンター",
         "800V DC",
-        "電力効率"
+        "GaN",
+        "SiC"
       ],
       "companies_mentioned": [
-        "MathWorks",
         "PowerUP",
+        "MathWorks",
+        "EPC",
         "ローム"
       ]
     },
     {
-      "name": "次世代パワー半導体の進化と普及",
+      "name": "AIチップの異種・カスタム化加速",
       "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "automotive",
-        "industrial",
-        "ai"
-      ],
-      "summary": "SiC、GaNなどの次世代パワー半導体が、EV、産業機器、AIサーバー等で採用拡大。高効率化と小型化に貢献。",
-      "analysis": {
-        "short_term": "EV向けSiC/GaN需要が堅調。",
-        "mid_term": "AIサーバー向けパワーデバイス競争が激化。",
-        "investment_implications": "SiC/GaNウェーハ、デバイスメーカーに成長機会。"
-      },
-      "keywords": [
-        "SiC",
-        "GaN",
-        "パワー半導体",
-        "EV",
-        "AIサーバー"
-      ],
-      "companies_mentioned": [
-        "EPC",
-        "Para Light",
-        "ローム",
-        "ソシオネクスト"
-      ]
-    },
-    {
-      "name": "AI計算のヘテロジニアス化",
-      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
+        "memory",
         "datacenter"
       ],
-      "summary": "AI計算は単一チップに依存せず、CPU, GPU, NPU, カスタムアクセラレータ等を組み合わせたヘテロジニアス・クラスターが主流に。",
+      "summary": "AI計算は単一チップに依存せず、CPU、GPU、NPU、カスタムアクセラレータ等を組み合わせた異種クラスターが主流となり、カスタムSoC開発が活発化。",
       "analysis": {
-        "short_term": "多様なAIチップの需要が増加。",
-        "mid_term": "チップレット技術、インターコネクト技術が重要に。",
-        "investment_implications": "カスタムSoC、AIアクセラレータ開発企業に注目。"
+        "short_term": "カスタムHBM事業の標準化が課題。",
+        "mid_term": "異種チップ統合・協調技術が重要になる。",
+        "investment_implications": "カスタムSoC開発企業、IPベンダーに注目。"
       },
       "keywords": [
         "AI",
-        "ヘテロジニアス",
-        "チップレット",
-        "NPU",
-        "アクセラレータ"
+        "カスタムSoC",
+        "異種クラスター",
+        "HBM"
       ],
       "companies_mentioned": [
         "ソシオネクスト",
-        "Aetina"
+        "Intel",
+        "SAIMEMORY",
+        "LENZO"
       ]
     },
     {
       "name": "半導体製造プロセスの高度化と効率化",
-      "confidence": 0.8,
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "frontend",
         "equipment",
         "wafer"
       ],
-      "summary": "リソグラフィ後のフィードフォワード制御や、歩留まり予測技術により、不良品削減と生産効率向上が図られる。",
+      "summary": "リソグラフィ後のフィードフォワード制御による不良品削減や、光酸発生剤増産など、製造プロセスの精度向上と効率化が進んでいる。",
       "analysis": {
-        "short_term": "製造装置メーカーの業績は堅調。",
-        "mid_term": "歩留まり向上技術への投資が増加。",
-        "investment_implications": "先端製造装置、プロセス技術関連企業に期待。"
+        "short_term": "先端フォトレジスト材料の供給体制強化。",
+        "mid_term": "AI活用による設計・検証の効率化が進む。",
+        "investment_implications": "先端材料、製造装置メーカーに追い風。"
       },
       "keywords": [
-        "半導体製造",
-        "歩留まり",
-        "リソグラフィ",
-        "フィードフォワード"
+        "フィードフォワード制御",
+        "フォトレジスト",
+        "AI活用",
+        "製造装置"
       ],
       "companies_mentioned": [
-        "国内半導体装置メーカー"
+        "ADEKA",
+        "DVCon Japan"
       ]
     },
     {
-      "name": "パッケージング技術のシステムアーキテクチャ化",
-      "confidence": 0.75,
+      "name": "パッケージング技術のシステム統合への進化",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "backend",
-        "ai",
-        "datacenter"
+        "miniaturization",
+        "ai"
       ],
-      "summary": "AIシステム開発において、個別のパッケージ選択から統合技術プラットフォームへの移行が進み、パッケージがシステムアーキテクチャに。",
+      "summary": "AIシステムは個別のパッケージ選択から統合技術プラットフォームへ移行し、パッケージがシステムアーキテクチャの鍵となっている。",
       "analysis": {
-        "short_term": "高度なパッケージング技術への需要増。",
-        "mid_term": "3D-IC、チップレット統合技術が進化。",
-        "investment_implications": "先端パッケージング、インターコネクト技術企業に注目。"
+        "short_term": "3次元実装技術による小型化が進展。",
+        "mid_term": "パッケージレベルでの機能統合が加速。",
+        "investment_implications": "先進パッケージング技術を持つ企業に期待。"
       },
       "keywords": [
-        "パッケージング",
         "AI",
-        "システムアーキテクチャ",
-        "チップレット",
-        "3D-IC"
+        "パッケージング",
+        "3次元実装",
+        "システムアーキテクチャ"
       ],
       "companies_mentioned": [
-        ""
+        "日清紡マイクロデバイス"
+      ]
+    },
+    {
+      "name": "持続可能性と省電力化への注力",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "general",
+        "ai",
+        "industrial"
+      ],
+      "summary": "AIコンピューティングの省電力化はコスト削減と新応用展開の鍵であり、バリューチェーン全体での排出量削減が求められている。",
+      "analysis": {
+        "short_term": "省電力AIチップ開発競争が激化。",
+        "mid_term": "IoTデバイスのセキュリティと省電力化が進む。",
+        "investment_implications": "省電力技術、環境配慮型企業に注目。"
+      },
+      "keywords": [
+        "省電力",
+        "サステナビリティ",
+        "AI",
+        "IoT"
+      ],
+      "companies_mentioned": [
+        "Quectel",
+        "東芝"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続",
-      "次世代パワー半導体の需要拡大",
-      "半導体製造装置メーカーの堅調な業績"
+      "AI関連投資の継続的な増加",
+      "データセンター向け高電力・高効率化需要の拡大",
+      "カスタムSoC開発の活発化"
     ],
     "bearish": [
-      "ハイパースケーラーの投資動向",
-      "メモリ価格の変動リスク",
-      "地政学的リスク"
+      "メモリ市場の競争激化と価格変動リスク"
     ],
     "neutral": [
-      "カスタムHBM事業の標準化待ち"
+      "半導体装置メーカーの業績は回復基調だが、一部にばらつきあり"
     ]
   },
-  "source_count": 39
+  "source_count": 40
 }
