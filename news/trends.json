@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-22T06:21:08.028933+09:00",
-  "date": "2026-08-22",
+  "generated_at": "2026-08-23T06:18:44.319723+09:00",
+  "date": "2026-08-23",
   "meta_trends": [
     {
-      "name": "AIデータセンター向け高電力・高効率化",
+      "name": "AIデータセンターと高電力化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "power",
         "datacenter",
+        "power",
+        "logic",
         "ai"
       ],
-      "summary": "AI需要増に伴い、データセンターでは800V DCアーキテクチャ導入やGaN/SiCパワーデバイス活用による電力効率向上が急務となっている。",
+      "summary": "AI需要増に伴い、データセンターの電力供給、冷却、変換技術が高度化。800V DCアーキテクチャやGaNデバイスの採用が進む。",
       "analysis": {
-        "short_term": "800V DC関連技術・製品への注目高まる。",
-        "mid_term": "高効率化競争が激化し、新素材・新技術の採用が進む。",
-        "investment_implications": "高効率パワー半導体、冷却技術関連企業に投資妙味。"
+        "short_term": "800V DC関連技術への注目高まる。",
+        "mid_term": "GaN採用拡大で電力効率向上期待。",
+        "investment_implications": "データセンターインフラ関連銘泉に投資妙味。"
       },
       "keywords": [
         "AI",
         "データセンター",
         "800V DC",
-        "GaN",
-        "SiC"
+        "GaN"
       ],
       "companies_mentioned": [
         "PowerUP",
@@ -32,124 +32,126 @@
       ]
     },
     {
-      "name": "AIチップの異種・カスタム化加速",
+      "name": "AIチップの多様化と異種実装",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
         "memory",
-        "datacenter"
+        "datacenter",
+        "backend"
       ],
-      "summary": "AI計算は単一チップに依存せず、CPU、GPU、NPU、カスタムアクセラレータ等を組み合わせた異種クラスターが主流となり、カスタムSoC開発が活発化。",
+      "summary": "AI計算は単一チップに依存せず、CPU, GPU, NPU, 光学, カスタムアクセラレータ等を組み合わせた異種クラスターが主流に。",
       "analysis": {
-        "short_term": "カスタムHBM事業の標準化が課題。",
-        "mid_term": "異種チップ統合・協調技術が重要になる。",
-        "investment_implications": "カスタムSoC開発企業、IPベンダーに注目。"
+        "short_term": "異種チップ連携技術開発が加速。",
+        "mid_term": "パッケージング技術がシステムアーキテクチャに。",
+        "investment_implications": "カスタムSoC、先端パッケージング企業に注目。"
       },
       "keywords": [
         "AI",
-        "カスタムSoC",
-        "異種クラスター",
-        "HBM"
+        "異種チップ",
+        "SoC",
+        "パッケージング"
       ],
       "companies_mentioned": [
         "ソシオネクスト",
-        "Intel",
-        "SAIMEMORY",
-        "LENZO"
-      ]
-    },
-    {
-      "name": "半導体製造プロセスの高度化と効率化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "frontend",
-        "equipment",
-        "wafer"
-      ],
-      "summary": "リソグラフィ後のフィードフォワード制御による不良品削減や、光酸発生剤増産など、製造プロセスの精度向上と効率化が進んでいる。",
-      "analysis": {
-        "short_term": "先端フォトレジスト材料の供給体制強化。",
-        "mid_term": "AI活用による設計・検証の効率化が進む。",
-        "investment_implications": "先端材料、製造装置メーカーに追い風。"
-      },
-      "keywords": [
-        "フィードフォワード制御",
-        "フォトレジスト",
-        "AI活用",
-        "製造装置"
-      ],
-      "companies_mentioned": [
-        "ADEKA",
-        "DVCon Japan"
-      ]
-    },
-    {
-      "name": "パッケージング技術のシステム統合への進化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "miniaturization",
-        "ai"
-      ],
-      "summary": "AIシステムは個別のパッケージ選択から統合技術プラットフォームへ移行し、パッケージがシステムアーキテクチャの鍵となっている。",
-      "analysis": {
-        "short_term": "3次元実装技術による小型化が進展。",
-        "mid_term": "パッケージレベルでの機能統合が加速。",
-        "investment_implications": "先進パッケージング技術を持つ企業に期待。"
-      },
-      "keywords": [
-        "AI",
-        "パッケージング",
-        "3次元実装",
-        "システムアーキテクチャ"
-      ],
-      "companies_mentioned": [
+        "LENZO",
         "日清紡マイクロデバイス"
       ]
     },
     {
-      "name": "持続可能性と省電力化への注力",
+      "name": "次世代メモリ開発競争激化",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "logic",
+        "ai",
+        "datacenter"
+      ],
+      "summary": "AI需要を背景に、カスタムHBMや新メモリ技術（XBM, ZAM）開発が活発化。日本勢の再挑戦も。",
+      "analysis": {
+        "short_term": "HBMサプライヤー間の競争激化。",
+        "mid_term": "新メモリ技術の標準化と実用化が鍵。",
+        "investment_implications": "メモリメーカー、関連材料・装置企業に機会。"
+      },
+      "keywords": [
+        "HBM",
+        "カスタムメモリ",
+        "XBM",
+        "ZAM"
+      ],
+      "companies_mentioned": [
+        "マイクロン",
+        "Intel",
+        "SAIMEMORY"
+      ]
+    },
+    {
+      "name": "半導体製造プロセスの高度化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "equipment",
+        "wafer",
+        "logic"
+      ],
+      "summary": "リソグラフィ後の測定・調整による歩留まり向上や、先端フォトレジスト向け材料増産など、製造技術の革新が進む。",
+      "analysis": {
+        "short_term": "歩留まり改善技術への投資増。",
+        "mid_term": "先端材料サプライヤーの供給能力強化。",
+        "investment_implications": "製造装置、材料メーカーの成長期待。"
+      },
+      "keywords": [
+        "歩留まり向上",
+        "フォトレジスト",
+        "製造装置",
+        "材料"
+      ],
+      "companies_mentioned": [
+        "ADEKA"
+      ]
+    },
+    {
+      "name": "持続可能性とエネルギー効率",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "general",
+        "power",
         "ai",
         "industrial"
       ],
-      "summary": "AIコンピューティングの省電力化はコスト削減と新応用展開の鍵であり、バリューチェーン全体での排出量削減が求められている。",
+      "summary": "AIコンピューティングの省電力化や、バリューチェーン全体での排出量削減が重要視され、技術革新と持続可能性が両立。",
       "analysis": {
-        "short_term": "省電力AIチップ開発競争が激化。",
-        "mid_term": "IoTデバイスのセキュリティと省電力化が進む。",
+        "short_term": "省電力AI技術への関心高まる。",
+        "mid_term": "サプライチェーン全体でのCO2削減が課題。",
         "investment_implications": "省電力技術、環境配慮型企業に注目。"
       },
       "keywords": [
         "省電力",
-        "サステナビリティ",
-        "AI",
-        "IoT"
+        "持続可能性",
+        "CO2削減",
+        "AI"
       ],
-      "companies_mentioned": [
-        "Quectel",
-        "東芝"
-      ]
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続的な増加",
-      "データセンター向け高電力・高効率化需要の拡大",
-      "カスタムSoC開発の活発化"
+      "AI関連投資の継続拡大",
+      "データセンターインフラ需要増",
+      "先端プロセス採用の動き"
     ],
     "bearish": [
-      "メモリ市場の競争激化と価格変動リスク"
+      "地政学リスクによる供給網の不安定化",
+      "メモリ市況の変動性"
     ],
     "neutral": [
-      "半導体装置メーカーの業績は回復基調だが、一部にばらつきあり"
+      "半導体装置メーカーの業績は回復基調"
     ]
   },
-  "source_count": 40
+  "source_count": 42
 }
