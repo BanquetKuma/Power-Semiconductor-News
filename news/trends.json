@@ -1,157 +1,161 @@
 {
-  "generated_at": "2026-08-23T06:18:44.319723+09:00",
-  "date": "2026-08-23",
+  "generated_at": "2026-08-24T06:18:44.820752+09:00",
+  "date": "2026-08-24",
   "meta_trends": [
     {
-      "name": "AIデータセンターと高電力化",
+      "name": "AIデータセンターの電力需要増大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
         "power",
-        "logic",
-        "ai"
+        "datacenter",
+        "ai",
+        "logic"
       ],
-      "summary": "AI需要増に伴い、データセンターの電力供給、冷却、変換技術が高度化。800V DCアーキテクチャやGaNデバイスの採用が進む。",
+      "summary": "AIの進化に伴い、データセンターの電力消費が急増。800V DCアーキテクチャや高効率電源技術が不可欠になっている。",
       "analysis": {
-        "short_term": "800V DC関連技術への注目高まる。",
-        "mid_term": "GaN採用拡大で電力効率向上期待。",
-        "investment_implications": "データセンターインフラ関連銘泉に投資妙味。"
+        "short_term": "高効率電源・冷却技術への投資加速。",
+        "mid_term": "800V DCインフラ導入が本格化。",
+        "investment_implications": "関連電源・冷却部品メーカーに注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
         "800V DC",
-        "GaN"
+        "電力効率"
       ],
       "companies_mentioned": [
-        "PowerUP",
         "MathWorks",
+        "PowerUP",
+        "ローム"
+      ]
+    },
+    {
+      "name": "GaNパワーデバイスの普及拡大",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial",
+        "datacenter"
+      ],
+      "summary": "GaNは高効率・小型化を実現し、データセンター、モーター駆動、EVなど幅広い分野でSiCやSiからの置き換えが進む。",
+      "analysis": {
+        "short_term": "モーター駆動向けリファレンスデザインが増加。",
+        "mid_term": "データセンターや産業機器での採用拡大。",
+        "investment_implications": "GaNデバイスメーカーの成長期待。"
+      },
+      "keywords": [
+        "GaN",
+        "パワーデバイス",
+        "高効率",
+        "小型化"
+      ],
+      "companies_mentioned": [
         "EPC",
         "ローム"
       ]
     },
     {
-      "name": "AIチップの多様化と異種実装",
-      "confidence": 0.9,
+      "name": "AIチップの異種・複合化",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
-        "memory",
         "datacenter",
-        "backend"
+        "memory",
+        "frontend"
       ],
-      "summary": "AI計算は単一チップに依存せず、CPU, GPU, NPU, 光学, カスタムアクセラレータ等を組み合わせた異種クラスターが主流に。",
+      "summary": "AI計算は単一チップに依存せず、CPU、GPU、NPU、カスタムアクセラレータ等を組み合わせた異種クラスターが主流になる。",
       "analysis": {
-        "short_term": "異種チップ連携技術開発が加速。",
-        "mid_term": "パッケージング技術がシステムアーキテクチャに。",
-        "investment_implications": "カスタムSoC、先端パッケージング企業に注目。"
+        "short_term": "カスタムSoC開発支援の動き活発化。",
+        "mid_term": "異種チップ統合・パッケージング技術が重要に。",
+        "investment_implications": "SoC設計・パッケージング関連企業に注目。"
       },
       "keywords": [
-        "AI",
-        "異種チップ",
+        "AIチップ",
+        "異種クラスター",
         "SoC",
-        "パッケージング"
+        "NPU"
       ],
       "companies_mentioned": [
         "ソシオネクスト",
-        "LENZO",
-        "日清紡マイクロデバイス"
-      ]
-    },
-    {
-      "name": "次世代メモリ開発競争激化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "memory",
-        "logic",
-        "ai",
-        "datacenter"
-      ],
-      "summary": "AI需要を背景に、カスタムHBMや新メモリ技術（XBM, ZAM）開発が活発化。日本勢の再挑戦も。",
-      "analysis": {
-        "short_term": "HBMサプライヤー間の競争激化。",
-        "mid_term": "新メモリ技術の標準化と実用化が鍵。",
-        "investment_implications": "メモリメーカー、関連材料・装置企業に機会。"
-      },
-      "keywords": [
-        "HBM",
-        "カスタムメモリ",
-        "XBM",
-        "ZAM"
-      ],
-      "companies_mentioned": [
-        "マイクロン",
         "Intel",
-        "SAIMEMORY"
+        "LENZO"
       ]
     },
     {
-      "name": "半導体製造プロセスの高度化",
-      "confidence": 0.8,
+      "name": "半導体製造プロセスのAI活用",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "frontend",
         "equipment",
-        "wafer",
-        "logic"
+        "ai",
+        "wafer"
       ],
-      "summary": "リソグラフィ後の測定・調整による歩留まり向上や、先端フォトレジスト向け材料増産など、製造技術の革新が進む。",
+      "summary": "半導体製造工程において、AIを活用したフィードフォワード制御や歩留まり向上技術が注目されている。",
       "analysis": {
-        "short_term": "歩留まり改善技術への投資増。",
-        "mid_term": "先端材料サプライヤーの供給能力強化。",
-        "investment_implications": "製造装置、材料メーカーの成長期待。"
+        "short_term": "歩留まり改善技術への投資増加。",
+        "mid_term": "製造装置・材料分野でのAI活用進展。",
+        "investment_implications": "製造プロセス最適化ソリューションに期待。"
       },
       "keywords": [
-        "歩留まり向上",
-        "フォトレジスト",
-        "製造装置",
-        "材料"
+        "AI",
+        "半導体製造",
+        "歩留まり",
+        "フィードフォワード制御"
       ],
       "companies_mentioned": [
         "ADEKA"
       ]
     },
     {
-      "name": "持続可能性とエネルギー効率",
-      "confidence": 0.75,
+      "name": "次世代メモリ技術への期待",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "general",
-        "power",
+        "memory",
         "ai",
-        "industrial"
+        "datacenter",
+        "logic"
       ],
-      "summary": "AIコンピューティングの省電力化や、バリューチェーン全体での排出量削減が重要視され、技術革新と持続可能性が両立。",
+      "summary": "AI需要に対応するため、HBMのカスタム化や、日本発の次世代メモリ技術（ZAM等）開発への期待が高まっている。",
       "analysis": {
-        "short_term": "省電力AI技術への関心高まる。",
-        "mid_term": "サプライチェーン全体でのCO2削減が課題。",
-        "investment_implications": "省電力技術、環境配慮型企業に注目。"
+        "short_term": "カスタムHBM事業の標準化が課題。",
+        "mid_term": "新メモリ技術の実用化に向けた開発競争。",
+        "investment_implications": "メモリメーカー、関連技術開発企業に注目。"
       },
       "keywords": [
-        "省電力",
-        "持続可能性",
-        "CO2削減",
+        "HBM",
+        "次世代メモリ",
+        "ZAM",
         "AI"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "マイクロン",
+        "SAIMEMORY",
+        "Intel"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続拡大",
-      "データセンターインフラ需要増",
-      "先端プロセス採用の動き"
+      "AI関連半導体の需要拡大",
+      "データセンター向け高効率化技術への投資活発化",
+      "GaNパワーデバイス市場の成長",
+      "半導体装置メーカーの業績回復基調"
     ],
     "bearish": [
-      "地政学リスクによる供給網の不安定化",
-      "メモリ市況の変動性"
+      "カスタムHBM事業の標準化の遅れ",
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "半導体装置メーカーの業績は回復基調"
+      "ダイヤモンド半導体、量子センサー等の新技術開発",
+      "IoT向けMCUのセキュリティ強化"
     ]
   },
-  "source_count": 42
+  "source_count": 45
 }

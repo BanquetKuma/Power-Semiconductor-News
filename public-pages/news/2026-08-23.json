@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-23T06:18:40.680207+09:00",
+  "generated_at": "2026-08-24T06:18:41.540514+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Advanced RF Systems, Agilex FPGAs, a Neuromorphic Chip for AI Optical Inspection: Embedded Week Insights",
-    "summary": "Embedded Weekでは、先進RFシステム、Agilex FPGA、AI画像検査用ニューロモルフィックチップの最新動向が紹介された。",
+    "summary": "Embedded Weekでは、先進RFシステム、Agilex FPGA、AI光学検査用ニューロモルフィックチップの最新動向が紹介された。",
     "sources": [
       {
         "name": "embedded.com",
@@ -15,18 +15,18 @@
   "sections": {
     "business": [
       {
-        "title": "'Most Companies Are Struggling': Executive Shares An Uncomfortable Truth About Solid-State EV Batteries",
-        "blurb": "LGエナジーソリューションは、全固体電池開発における主要な課題が残っていると発表しました。",
+        "title": "Lectric Labor Day e-bike sale offers up to $694 savings + price cuts, EcoFlow 4,096Wh power station $2,549 in flash sale, more",
+        "blurb": "LectricとEcoFlowがe-bikeとポータブル電源のセールを開催。最大694ドルの割引や、4,096Whのポータブル電源が2,549ドルで購入可能。",
         "category": "business",
         "date": "2026-08-22",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/805750/lges-solid-state-battery-evs-uncomfortable-truth"
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/08/21/lectric-labor-day-e-bike-sale-ecoflow-4096wh-power-station-2549-flash-sale-more"
         },
         "field": {
-          "primary": "automotive",
-          "device": null,
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": "automotive",
           "industry": null
@@ -36,7 +36,7 @@
     "tools": [
       {
         "title": "This New All-In-One Range Extender Is Ready To Go Into Any Electric Truck",
-        "blurb": "Mahleの新レンジエクステンダーは、バッテリーモジュールと同等のスペースに搭載可能で、航続距離を約800kmに延長する。",
+        "blurb": "Mahleの新レンジエクステンダーは、バッテリーモジュールと同等のスペースに搭載可能で、航続距離を約500マイルに延長する。",
         "category": "tools",
         "date": "2026-08-22",
         "stars": 3,
@@ -50,7 +50,7 @@
     "company": [
       {
         "title": "Advanced RF Systems, Agilex FPGAs, a Neuromorphic Chip for AI Optical Inspection: Embedded Week Insights",
-        "blurb": "Embedded Weekでは、先進RFシステム、Agilex FPGA、AI画像検査用ニューロモルフィックチップの最新動向が紹介された。",
+        "blurb": "Embedded Weekでは、先進RFシステム、Agilex FPGA、AI光学検査用ニューロモルフィックチップの最新動向が紹介された。",
         "category": "company",
         "date": "2026-08-22",
         "stars": 3,
@@ -67,8 +67,26 @@
         }
       },
       {
+        "title": "'Most Companies Are Struggling': Executive Shares An Uncomfortable Truth About Solid-State EV Batteries",
+        "blurb": "LGエナジーソリューションは、全固体電池開発における主要な課題が残っていると発表しました。",
+        "category": "company",
+        "date": "2026-08-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/805750/lges-solid-state-battery-evs-uncomfortable-truth"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
         "title": "Chinese Regulators Recall Millions Of EVs Because Their Mechanical Door Handles Are Too Hard To Find",
-        "blurb": "中国当局、ドアハンドルが見つけにくい不具合でEV約140万台をリコール。緊急時の安全性に懸念。",
+        "blurb": "中国当局、ドアハンドルが見つけにくい不具合でEV約200万台をリコール。緊急時の安全性に懸念。",
         "category": "company",
         "date": "2026-08-22",
         "stars": 3,
@@ -80,13 +98,73 @@
       },
       {
         "title": "Inside The $2 Billion Battery Factory Making Cells For Tesla And Toyota",
-        "blurb": "LGエナジーソリューション、テスラやトヨタ向けに20億ドルのバッテリー工場を稼働。全固体電池やナトリウムイオン電池も開発中。",
+        "blurb": "LGエナジーソリューション、テスラやトヨタ向けに20億ドル規模の工場でLFP電池を生産。全固体電池やナトリウムイオン技術も開発中。",
         "category": "company",
         "date": "2026-08-22",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
           "url": "https://insideevs.com/news/805633/lg-energy-solution-tesla-toyota-lfp-battery"
+        },
+        "field": null
+      },
+      {
+        "title": "Podcast: Tesla kills Solar Roof, Cybercab launch, Genesis GV90, and more",
+        "blurb": "テスラがソーラー ผนัง屋根を終了、サイバーキャブを発表。ジェネシスGV90なども話題。GMがスポンサー。",
+        "category": "company",
+        "date": "2026-08-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/08/21/podcast-tesla-kills-solar-roof-cybercab-launch-genesis-gv90-and-more"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
+        "blurb": "現代自動車、177万円の新型EV「アイオニックV」の予約受付開始。ただし、現時点では英語圏以外では購入不可。",
+        "category": "company",
+        "date": "2026-08-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/08/21/hyundai-starts-taking-orders-for-17700-ioniq-v-but-you-cant-have-it"
+        },
+        "field": null
+      },
+      {
+        "title": "Walmart’s 400 kW EV charging network just hit 100 stores",
+        "blurb": "ウォルマートは、20州の100店舗でEV急速充電ネットワークを展開し、100ヶ所を達成しました。",
+        "category": "company",
+        "date": "2026-08-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/08/21/walmarts-400-kw-ev-charging-network-just-hit-100-stores"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "A first-of-its-kind US factory could make grid batteries safer",
+        "blurb": "米ケンタッキー州に、リチウムイオン電池の安全性を高める新工場が建設開始。年間25GWhの生産能力を持つ。",
+        "category": "company",
+        "date": "2026-08-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy"
         },
         "field": null
       }

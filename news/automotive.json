@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:18:40.680952+09:00",
+  "generated_at": "2026-08-24T06:18:41.541734+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
@@ -15,13 +15,11 @@
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
         "title": "'Most Companies Are Struggling': Executive Shares An Uncomfortable Truth About Solid-State EV Batteries",
         "blurb": "LGエナジーソリューションは、全固体電池開発における主要な課題が残っていると発表しました。",
-        "category": "business",
+        "category": "company",
         "date": "2026-08-22",
         "stars": 3,
         "source": {
@@ -35,7 +33,45 @@
           "market": "automotive",
           "industry": null
         }
+      },
+      {
+        "title": "Podcast: Tesla kills Solar Roof, Cybercab launch, Genesis GV90, and more",
+        "blurb": "テスラがソーラー ผนัง屋根を終了、サイバーキャブを発表。ジェネシスGV90なども話題。GMがスポンサー。",
+        "category": "company",
+        "date": "2026-08-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/08/21/podcast-tesla-kills-solar-roof-cybercab-launch-genesis-gv90-and-more"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Walmart’s 400 kW EV charging network just hit 100 stores",
+        "blurb": "ウォルマートは、20州の100店舗でEV急速充電ネットワークを展開し、100ヶ所を達成しました。",
+        "category": "company",
+        "date": "2026-08-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/08/21/walmarts-400-kw-ev-charging-network-just-hit-100-stores"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }
