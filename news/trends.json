@@ -1,89 +1,66 @@
 {
-  "generated_at": "2026-08-24T06:18:44.820752+09:00",
-  "date": "2026-08-24",
+  "generated_at": "2026-08-25T06:25:38.858398+09:00",
+  "date": "2026-08-25",
   "meta_trends": [
     {
-      "name": "AIデータセンターの電力需要増大",
+      "name": "AIインフラ向け高効率パワー半導体",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "datacenter",
-        "ai",
-        "logic"
+        "ai"
       ],
-      "summary": "AIの進化に伴い、データセンターの電力消費が急増。800V DCアーキテクチャや高効率電源技術が不可欠になっている。",
+      "summary": "AIデータセンターの電力需要増大に対応するため、SiCやGaNなどの次世代パワー半導体の採用が進展。電力変換効率向上と熱管理が重要。",
       "analysis": {
-        "short_term": "高効率電源・冷却技術への投資加速。",
-        "mid_term": "800V DCインフラ導入が本格化。",
-        "investment_implications": "関連電源・冷却部品メーカーに注目。"
+        "short_term": "AI投資拡大で需要堅調。供給能力増強が鍵。",
+        "mid_term": "高密度化・高効率化競争激化。新材料・新構造開発加速。",
+        "investment_implications": "パワー半導体メーカー、材料メーカーに注目。"
       },
       "keywords": [
         "AI",
+        "SiC",
+        "GaN",
         "データセンター",
-        "800V DC",
         "電力効率"
       ],
       "companies_mentioned": [
-        "MathWorks",
+        "Coherent",
+        "Lotus Microsystems",
+        "Porsche",
         "PowerUP",
+        "MathWorks",
         "ローム"
       ]
     },
     {
-      "name": "GaNパワーデバイスの普及拡大",
+      "name": "マルチダイ・ヘテロジニアス統合",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "automotive",
-        "industrial",
-        "datacenter"
-      ],
-      "summary": "GaNは高効率・小型化を実現し、データセンター、モーター駆動、EVなど幅広い分野でSiCやSiからの置き換えが進む。",
-      "analysis": {
-        "short_term": "モーター駆動向けリファレンスデザインが増加。",
-        "mid_term": "データセンターや産業機器での採用拡大。",
-        "investment_implications": "GaNデバイスメーカーの成長期待。"
-      },
-      "keywords": [
-        "GaN",
-        "パワーデバイス",
-        "高効率",
-        "小型化"
-      ],
-      "companies_mentioned": [
-        "EPC",
-        "ローム"
-      ]
-    },
-    {
-      "name": "AIチップの異種・複合化",
-      "confidence": 0.88,
-      "momentum": "rising",
-      "related_fields": [
+        "miniaturization",
         "ai",
         "logic",
-        "datacenter",
         "memory",
-        "frontend"
+        "automotive"
       ],
-      "summary": "AI計算は単一チップに依存せず、CPU、GPU、NPU、カスタムアクセラレータ等を組み合わせた異種クラスターが主流になる。",
+      "summary": "最先端プロセス（2nm以下）では、複数のチップを統合するマルチダイアセンブリが主流。AI/HPC向けに多様なチップを組み合わせる。",
       "analysis": {
-        "short_term": "カスタムSoC開発支援の動き活発化。",
-        "mid_term": "異種チップ統合・パッケージング技術が重要に。",
-        "investment_implications": "SoC設計・パッケージング関連企業に注目。"
+        "short_term": "高性能SoC開発加速。HBM需要も高まる。",
+        "mid_term": "3D実装技術進化。インターポーザー設計が重要に。",
+        "investment_implications": "先端プロセスファウンドリ、パッケージング技術企業に期待。"
       },
       "keywords": [
-        "AIチップ",
-        "異種クラスター",
+        "マルチダイ",
+        "ヘテロジニアス",
         "SoC",
-        "NPU"
+        "HBM",
+        "3D実装"
       ],
       "companies_mentioned": [
+        "Chip Industry Week In Review",
         "ソシオネクスト",
-        "Intel",
-        "LENZO"
+        "日清紡マイクロデバイス"
       ]
     },
     {
@@ -92,70 +69,108 @@
       "momentum": "rising",
       "related_fields": [
         "frontend",
+        "backend",
         "equipment",
-        "ai",
-        "wafer"
+        "ai"
       ],
-      "summary": "半導体製造工程において、AIを活用したフィードフォワード制御や歩留まり向上技術が注目されている。",
+      "summary": "半導体製造工程における歩留まり向上や不良品削減のため、AIを活用したプロセス制御やデータ解析が進展。",
       "analysis": {
-        "short_term": "歩留まり改善技術への投資増加。",
-        "mid_term": "製造装置・材料分野でのAI活用進展。",
-        "investment_implications": "製造プロセス最適化ソリューションに期待。"
+        "short_term": "製造装置・材料分野でのAI導入が進む。",
+        "mid_term": "予知保全や最適化で生産性向上。データ連携が鍵。",
+        "investment_implications": "製造装置メーカー、プロセス最適化ソリューションに注目。"
       },
       "keywords": [
         "AI",
         "半導体製造",
-        "歩留まり",
-        "フィードフォワード制御"
+        "歩留まり向上",
+        "プロセス制御",
+        "データ解析"
       ],
       "companies_mentioned": [
-        "ADEKA"
+        "Don’t Scrap It, Save It",
+        "ADEKA",
+        "DVCon Japan"
       ]
     },
     {
-      "name": "次世代メモリ技術への期待",
+      "name": "次世代半導体材料・技術開発",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "ai",
-        "datacenter",
-        "logic"
+        "power",
+        "analog",
+        "logic",
+        "frontend"
       ],
-      "summary": "AI需要に対応するため、HBMのカスタム化や、日本発の次世代メモリ技術（ZAM等）開発への期待が高まっている。",
+      "summary": "GaN、SiCに加え、ダイヤモンド半導体や量子技術など、新たな材料や技術が実用化に向けて開発・応用が進む。",
       "analysis": {
-        "short_term": "カスタムHBM事業の標準化が課題。",
-        "mid_term": "新メモリ技術の実用化に向けた開発競争。",
-        "investment_implications": "メモリメーカー、関連技術開発企業に注目。"
+        "short_term": "材料開発競争が激化。実証実験が増加。",
+        "mid_term": "特定用途での性能優位性を確立。量産化へ移行。",
+        "investment_implications": "新素材・新技術開発企業、共同研究プロジェクトに注目。"
       },
       "keywords": [
-        "HBM",
-        "次世代メモリ",
-        "ZAM",
-        "AI"
+        "GaN",
+        "SiC",
+        "ダイヤモンド半導体",
+        "量子技術",
+        "新材料"
       ],
       "companies_mentioned": [
-        "マイクロン",
-        "SAIMEMORY",
-        "Intel"
+        "Porsche",
+        "PowerUP",
+        "名大",
+        "産総研",
+        "東陽テクニカ",
+        "Power Diamond Systems",
+        "東レリサーチセンター"
+      ]
+    },
+    {
+      "name": "IoT・自動運転向け半導体強化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "industrial",
+        "automotive",
+        "logic",
+        "analog"
+      ],
+      "summary": "IoTデバイスのセキュリティ強化や、自動運転AIの高度化に対応するため、MCUや各種センサー、プロセッサの性能向上が求められる。",
+      "analysis": {
+        "short_term": "セキュリティ機能搭載MCUの需要増。",
+        "mid_term": "自動運転向け高性能SoC開発競争激化。データ活用が鍵。",
+        "investment_implications": "IoT向け半導体、車載半導体メーカーに機会。"
+      },
+      "keywords": [
+        "IoT",
+        "自動運転",
+        "MCU",
+        "セキュリティ",
+        "SoC"
+      ],
+      "companies_mentioned": [
+        "Waymo",
+        "Quectel",
+        "東芝",
+        "TP-Link"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連半導体の需要拡大",
-      "データセンター向け高効率化技術への投資活発化",
-      "GaNパワーデバイス市場の成長",
-      "半導体装置メーカーの業績回復基調"
+      "AIインフラ投資の継続的な拡大",
+      "先端プロセス（18A等）への採用拡大",
+      "パワー半導体（SiC/GaN）の需要増",
+      "マルチダイ・ヘテロジニアス統合技術の進化"
     ],
     "bearish": [
-      "カスタムHBM事業の標準化の遅れ",
-      "地政学リスクによるサプライチェーンの不確実性"
+      "一部メモリ市場の価格変動リスク",
+      "地政学的リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "ダイヤモンド半導体、量子センサー等の新技術開発",
-      "IoT向けMCUのセキュリティ強化"
+      "半導体装置メーカーの業績は回復基調だが、ばらつきあり",
+      "サステナビリティへの対応が企業評価に影響"
     ]
   },
-  "source_count": 45
+  "source_count": 47
 }
