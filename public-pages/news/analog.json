@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-08-25T06:25:34.946582+09:00",
+  "generated_at": "2026-08-26T06:24:55.517903+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "量子センシングの社会実装推進　東陽テクニカら共同研究",
-    "summary": "東陽テクニカらは、量子センシング技術の製品化と社会実装を目指し、QSTやType-I Technologiesと共同研究を開始した。",
+    "title": "TI Introduces Multiaxial Hall-Effect Current Sensor for EV Inverters",
+    "summary": "TIがEVインバーター向け多軸ホール効果電流センサーを発表。トルク制御精度向上に貢献。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/24/news027.html"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/ti-introduces-multiaxial-hall-effect-current-sensor-for-ev-inverters"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "量子センシングの社会実装推進　東陽テクニカら共同研究",
-        "blurb": "東陽テクニカらは、量子センシング技術の製品化と社会実装を目指し、QSTやType-I Technologiesと共同研究を開始した。",
-        "category": "company",
-        "date": "2026-08-24",
+        "title": "Why Sensor Fusion Matters for Drone Navigation and Detection",
+        "blurb": "ドローンの航行・検知には、複数のセンサー情報を統合するセンサーフュージョンが不可欠。各センサーの長所短所を補い、精度を高める。",
+        "category": "tools",
+        "date": "2026-08-25",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/24/news027.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/why-sensor-fusion-matters-for-drone-navigation-and-detection"
         },
         "field": {
           "primary": "analog",
@@ -35,7 +36,25 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "TI Introduces Multiaxial Hall-Effect Current Sensor for EV Inverters",
+        "blurb": "TIがEVインバーター向け多軸ホール効果電流センサーを発表。トルク制御精度向上に貢献。",
+        "category": "business",
+        "date": "2026-08-26",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ti-introduces-multiaxial-hall-effect-current-sensor-for-ev-inverters"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }

@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-21T06:24:35.411572+09:00",
+  "generated_at": "2026-08-26T06:24:55.517319+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Banana Pi BPI-AI2N SoM Packs Renesas RZ/V2N and 15 TOPS AI",
-    "summary": "Banana PiがRenesas RZ/V2N搭載のAIモジュール「BPI-AI2N」を発表。15 TOPSのAI処理能力を持つ。",
+    "title": "Hardware security verification must go beyond functional testing",
+    "summary": "ハードウェアのセキュリティ検証は、機能テストを超えてSoC設計全体のセキュリティ目標維持を評価する必要がある。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/banana-pi-bpi-ai2n-som-packs-renesas-rz-v2n-and-15-tops-ai"
+        "name": "edn.com",
+        "url": "https://www.edn.com/hardware-security-verification-must-go-beyond-functional-testing"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Banana Pi BPI-AI2N SoM Packs Renesas RZ/V2N and 15 TOPS AI",
-        "blurb": "Banana PiがRenesas RZ/V2N搭載のAIモジュール「BPI-AI2N」を発表。15 TOPSのAI処理能力を持つ。",
-        "category": "company",
-        "date": "2026-08-20",
+        "title": "Hardware security verification must go beyond functional testing",
+        "blurb": "ハードウェアのセキュリティ検証は、機能テストを超えてSoC設計全体のセキュリティ目標維持を評価する必要がある。",
+        "category": "business",
+        "date": "2026-08-25",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/banana-pi-bpi-ai2n-som-packs-renesas-rz-v2n-and-15-tops-ai"
+          "name": "edn.com",
+          "url": "https://www.edn.com/hardware-security-verification-must-go-beyond-functional-testing"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
