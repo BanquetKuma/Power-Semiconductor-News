@@ -1,159 +1,164 @@
 {
-  "generated_at": "2026-08-26T06:24:58.764009+09:00",
-  "date": "2026-08-26",
+  "generated_at": "2026-08-27T09:26:31.905579+09:00",
+  "date": "2026-08-27",
   "meta_trends": [
     {
-      "name": "GaNパワーデバイスの普及加速",
+      "name": "AI向け電力ソリューション進化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
-        "datacenter"
+        "ai",
+        "datacenter",
+        "logic"
       ],
-      "summary": "GaNパワーデバイスはAI、EV、データセンター、車載オーディオなど多岐にわたり採用が進み、高効率化と小型化に貢献。",
+      "summary": "AIデータセンターの電力需要増に対応するため、高効率・高密度な電力変換・供給技術（SiC, GaN, 800Vバス等）への投資と技術開発が加速。",
       "analysis": {
-        "short_term": "量産体制強化とコスト低減が進む。",
-        "mid_term": "高性能・高信頼性化が進み、さらなる用途拡大。",
-        "investment_implications": "GaN材料・デバイスメーカーに注目。"
+        "short_term": "AIチップ需要拡大で関連部品の供給逼迫懸念。",
+        "mid_term": "新技術採用によるデータセンター電力効率向上。",
+        "investment_implications": "高効率パワー半導体、電源管理ICメーカーに注目。"
       },
       "keywords": [
-        "GaN",
         "AI",
-        "EV",
-        "データセンター",
-        "車載"
+        "power delivery",
+        "SiC",
+        "GaN",
+        "800V"
       ],
       "companies_mentioned": [
+        "Navitas",
         "EPC",
-        "Lotus Microsystems",
-        "Porsche",
-        "PowerUP",
-        "ローム"
+        "Coherent",
+        "GlobalFoundries",
+        "Lotus Microsystems"
       ]
     },
     {
-      "name": "AIインフラ向け先端材料需要増",
+      "name": "先端パッケージング技術の重要性増大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
-        "ai",
-        "wafer",
-        "power"
-      ],
-      "summary": "AIインフラの高性能化に伴い、SiC基板やHBMなどの先端材料・部品の需要が増加し、サプライチェーン全体で技術革新が進む。",
-      "analysis": {
-        "short_term": "300mm SiC基板のサンプル提供開始。",
-        "mid_term": "カスタムHBM事業の標準化と供給体制確立。",
-        "investment_implications": "先端材料・基板メーカーに投資妙味。"
-      },
-      "keywords": [
-        "AI",
-        "SiC",
-        "HBM",
-        "基板",
-        "データセンター"
-      ],
-      "companies_mentioned": [
-        "Coherent",
-        "YMTC",
-        "Intel"
-      ]
-    },
-    {
-      "name": "マルチダイアセンブリの主流化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "memory",
         "miniaturization",
-        "frontend"
+        "logic",
+        "ai",
+        "memory",
+        "datacenter"
       ],
-      "summary": "最先端プロセスでは、複数のチップを統合するマルチダイアセンブリが主流となり、チップの大型化・高機能化と実装面積削減を両立。",
+      "summary": "最先端プロセス（2nm以下）では、チップレット統合によるマルチダイアセンブリが主流となり、性能向上と小型化を実現。",
       "analysis": {
-        "short_term": "2nm以下のプロセスで採用が拡大。",
-        "mid_term": "3次元実装技術によるさらなる集積化。",
-        "investment_implications": "先端パッケージング技術を持つ企業に注目。"
+        "short_term": "HBMなど高帯域メモリの需要が継続。",
+        "mid_term": "チップレット技術の標準化と普及が進む。",
+        "investment_implications": "先端パッケージング関連企業、チップレット設計企業に投資妙味。"
       },
       "keywords": [
-        "マルチダイ",
-        "3次元実装",
-        "先端プロセス",
-        "パッケージング"
+        "multi-die",
+        "chiplet",
+        "2nm",
+        "HBM",
+        "CPO"
       ],
       "companies_mentioned": [
+        "TI",
         "日清紡マイクロデバイス"
       ]
     },
     {
-      "name": "半導体製造のAI活用進展",
+      "name": "車載半導体の高機能化と需要拡大",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "power",
+        "analog",
+        "logic"
+      ],
+      "summary": "EVインバーターのトルク制御精度向上や、高電圧システム対応の半導体需要が増加。SiCやGaNの採用も進む。",
+      "analysis": {
+        "short_term": "EV市場の成長鈍化も、高付加価値部品は堅調。",
+        "mid_term": "自動運転技術の進化で車載半導体需要が再拡大。",
+        "investment_implications": "車載向けパワー半導体、センサーメーカーに注目。"
+      },
+      "keywords": [
+        "EV",
+        "inverter",
+        "SiC",
+        "sensor",
+        "3.3kV"
+      ],
+      "companies_mentioned": [
+        "新電元工業",
+        "TI",
+        "Aratas"
+      ]
+    },
+    {
+      "name": "半導体製造プロセスのAI活用",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "frontend",
         "equipment",
-        "logic",
-        "ai"
+        "ai",
+        "logic"
       ],
-      "summary": "半導体製造プロセスにおいて、AIを活用したフィードフォワード制御や成膜条件の最適化が進み、生産効率向上と不良品削減に貢献。",
+      "summary": "製造工程における歩留まり向上や品質管理のため、AIを活用したフィードフォワード制御や成膜条件最適化が進む。",
       "analysis": {
-        "short_term": "リソグラフィ後の工程調整で不良品削減。",
-        "mid_term": "AIによる成膜ルール抽出と自動化。",
-        "investment_implications": "製造装置・プロセス技術企業に期待。"
+        "short_term": "AIによる製造最適化の初期投資が増加。",
+        "mid_term": "製造効率向上によるコスト削減効果が顕在化。",
+        "investment_implications": "製造装置メーカー、プロセス最適化ソリューション提供企業に期待。"
       },
       "keywords": [
         "AI",
-        "半導体製造",
-        "フィードフォワード制御",
-        "成膜"
+        "manufacturing",
+        "yield",
+        "feedforward",
+        "deposition"
       ],
       "companies_mentioned": [
-        "NTT",
-        "ADEKA"
+        "ADEKA",
+        "NTT"
       ]
     },
     {
-      "name": "量子センシング技術の実用化",
+      "name": "半導体セキュリティの重要性増大",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "analog",
-        "automotive",
-        "industrial"
+        "logic",
+        "ai",
+        "geopolitics",
+        "datacenter"
       ],
-      "summary": "量子センシング技術が電流測定や自動運転など、様々な分野での社会実装に向けて共同研究が進み、高精度な計測・制御への期待が高まる。",
+      "summary": "AIや高度化するサイバー攻撃に対応するため、セキュリティ対策が単なるコンプライアンスから継続的な防御へとシフト。",
       "analysis": {
-        "short_term": "電流比較器への応用が実現。",
-        "mid_term": "製品化と社会実装の加速。",
-        "investment_implications": "量子技術関連企業に注目。"
+        "short_term": "セキュリティ関連技術への投資が増加。",
+        "mid_term": "サプライチェーン全体でのセキュリティ確保が必須に。",
+        "investment_implications": "セキュリティソリューションプロバイダーに注目。"
       },
       "keywords": [
-        "量子センシング",
-        "電流センサー",
-        "自動運転",
-        "社会実装"
+        "security",
+        "AI",
+        "cyberattack",
+        "supply chain",
+        "defense"
       ],
-      "companies_mentioned": [
-        "東陽テクニカ",
-        "産総研"
-      ]
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要によるメモリ・パワー半導体市場の拡大",
-      "EVシフトに伴う車載半導体の需要増",
-      "先端プロセスにおけるマルチダイアセンブリの採用拡大"
+      "AI向け半導体需要の継続的な拡大",
+      "先端プロセスにおけるマルチダイアセンブリの普及",
+      "車載半導体市場の高機能化・需要増",
+      "半導体製造におけるAI活用による効率化"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性"
+      "地政学的リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "半導体製造装置の投資サイクル",
-      "カスタムHBM事業の標準化の遅れ"
+      "メモリ市場の価格変動リスク",
+      "中国半導体企業のIPO動向"
     ]
   },
-  "source_count": 48
+  "source_count": 47
 }

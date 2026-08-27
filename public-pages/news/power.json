@@ -1,96 +1,41 @@
 {
-  "generated_at": "2026-08-26T06:24:55.516754+09:00",
+  "generated_at": "2026-08-27T09:26:27.665648+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "EPC Mass Produces 18V GaN FET for AI Power Architectures",
-    "summary": "EPC社がAI向け18V GaN FETの量産を開始。高周波電力変換に適した低オン抵抗と高電流能力を持つ。",
+    "title": "SiC MOSFET relay switches up to 3300 V",
+    "summary": "アラタスアメリカのSiC MOSFETリレー「G3VH」は、最大3300Vの電圧に対応し、高電圧スイッチング用途をサポートします。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/epc-mass-produces-18v-gan-fet-for-ai-power-architectures"
+        "name": "edn.com",
+        "url": "https://www.edn.com/sic-mosfet-relay-switches-up-to-3300-v"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Coherent Samples 300mm SiC Substrates for AI Infrastructure",
-        "blurb": "Coherent社、AIインフラ向け300mm SiC基板のサンプル提供を開始。先進的な熱管理、パッケージング、高密度コンピューティングでの活用が期待される。",
+        "title": "SiC MOSFET relay switches up to 3300 V",
+        "blurb": "アラタスアメリカのSiC MOSFETリレー「G3VH」は、最大3300Vの電圧に対応し、高電圧スイッチング用途をサポートします。",
         "category": "company",
-        "date": "2026-08-25",
+        "date": "2026-08-27",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/coherent-samples-300mm-sic-substrates-for-ai-infrastructure"
+          "name": "edn.com",
+          "url": "https://www.edn.com/sic-mosfet-relay-switches-up-to-3300-v"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI自律実験の「ブラックボックス」を解く 人が使える成膜ルールに",
-        "blurb": "NTTはAIとロボットで成膜条件を最適化し、人が使える「成膜ルール」を抽出する技術を実証。β型酸化ガリウムで単結晶薄膜作製にも成功。",
-        "category": "company",
-        "date": "2026-08-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/25/news066.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "frontend",
           "market": null,
           "industry": null
         }
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "EPC Mass Produces 18V GaN FET for AI Power Architectures",
-        "blurb": "EPC社がAI向け18V GaN FETの量産を開始。高周波電力変換に適した低オン抵抗と高電流能力を持つ。",
-        "category": "business",
-        "date": "2026-08-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/epc-mass-produces-18v-gan-fet-for-ai-power-architectures"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Power GaN Device Scaling Challenges",
-        "blurb": "窒化ガリウム（GaN）パワーデバイスのスケールアップには、ウェーハ基板選択、バッファ層設計、2-DEG最適化が鍵となる。",
-        "category": "business",
-        "date": "2026-08-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-gan-device-scaling-challenges"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

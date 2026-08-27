@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-08-26T06:24:55.517319+09:00",
+  "generated_at": "2026-08-27T09:26:27.665935+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Hardware security verification must go beyond functional testing",
-    "summary": "ハードウェアのセキュリティ検証は、機能テストを超えてSoC設計全体のセキュリティ目標維持を評価する必要がある。",
+    "title": "Advantech brings 100-TOPS AI to vision systems",
+    "summary": "アドバンテックがQualcomm製プロセッサ搭載の産業用AIビジョン製品4種を発表。100TOPSのAI処理能力。",
     "sources": [
       {
         "name": "edn.com",
-        "url": "https://www.edn.com/hardware-security-verification-must-go-beyond-functional-testing"
+        "url": "https://www.edn.com/advantech-brings-100-tops-ai-to-vision-systems"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Hardware security verification must go beyond functional testing",
-        "blurb": "ハードウェアのセキュリティ検証は、機能テストを超えてSoC設計全体のセキュリティ目標維持を評価する必要がある。",
-        "category": "business",
-        "date": "2026-08-25",
+        "title": "Advantech brings 100-TOPS AI to vision systems",
+        "blurb": "アドバンテックがQualcomm製プロセッサ搭載の産業用AIビジョン製品4種を発表。100TOPSのAI処理能力。",
+        "category": "company",
+        "date": "2026-08-27",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/hardware-security-verification-must-go-beyond-functional-testing"
+          "url": "https://www.edn.com/advantech-brings-100-tops-ai-to-vision-systems"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "IBM’s New Mainframe Chip Runs Arm and IBM Z Instructions Natively",
+        "blurb": "IBMの新メインフレームチップは、2nmプロセスでArmとIBM Z命令をネイティブ実行。Arm版Linuxとz/OSを同一システムで稼働可能に。",
+        "category": "company",
+        "date": "2026-08-27",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/ibms-new-mainframe-chip-runs-arm-and-ibm-z-instructions-natively"
         },
         "field": {
           "primary": "logic",
@@ -36,6 +52,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }
