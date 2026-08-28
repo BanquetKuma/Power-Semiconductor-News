@@ -1,164 +1,166 @@
 {
-  "generated_at": "2026-08-27T09:26:31.905579+09:00",
-  "date": "2026-08-27",
+  "generated_at": "2026-08-28T14:06:09.006170+09:00",
+  "date": "2026-08-28",
   "meta_trends": [
     {
-      "name": "AI向け電力ソリューション進化",
+      "name": "AI向け電力管理・効率化の加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "ai",
         "datacenter",
-        "logic"
+        "logic",
+        "analog"
       ],
-      "summary": "AIデータセンターの電力需要増に対応するため、高効率・高密度な電力変換・供給技術（SiC, GaN, 800Vバス等）への投資と技術開発が加速。",
+      "summary": "AIデータセンターの電力需要増大に対応するため、電源管理IC、GaN/SiCデバイス、高効率電源技術への投資・買収が活発化。",
       "analysis": {
-        "short_term": "AIチップ需要拡大で関連部品の供給逼迫懸念。",
-        "mid_term": "新技術採用によるデータセンター電力効率向上。",
-        "investment_implications": "高効率パワー半導体、電源管理ICメーカーに注目。"
+        "short_term": "AIチップの性能向上に伴い、電力効率改善技術への需要が継続。",
+        "mid_term": "データセンターのインフラ再構築が進み、800Vバス等の新技術が普及。",
+        "investment_implications": "AIインフラ関連の電源技術企業に注目。"
       },
       "keywords": [
         "AI",
-        "power delivery",
-        "SiC",
+        "Power Management",
         "GaN",
-        "800V"
+        "SiC",
+        "Datacenter"
       ],
       "companies_mentioned": [
+        "Infineon",
+        "GlobalFoundries",
         "Navitas",
         "EPC",
-        "Coherent",
-        "GlobalFoundries",
-        "Lotus Microsystems"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術の重要性増大",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "miniaturization",
-        "logic",
-        "ai",
-        "memory",
-        "datacenter"
-      ],
-      "summary": "最先端プロセス（2nm以下）では、チップレット統合によるマルチダイアセンブリが主流となり、性能向上と小型化を実現。",
-      "analysis": {
-        "short_term": "HBMなど高帯域メモリの需要が継続。",
-        "mid_term": "チップレット技術の標準化と普及が進む。",
-        "investment_implications": "先端パッケージング関連企業、チップレット設計企業に投資妙味。"
-      },
-      "keywords": [
-        "multi-die",
-        "chiplet",
-        "2nm",
-        "HBM",
-        "CPO"
-      ],
-      "companies_mentioned": [
-        "TI",
-        "日清紡マイクロデバイス"
-      ]
-    },
-    {
-      "name": "車載半導体の高機能化と需要拡大",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "power",
-        "analog",
-        "logic"
-      ],
-      "summary": "EVインバーターのトルク制御精度向上や、高電圧システム対応の半導体需要が増加。SiCやGaNの採用も進む。",
-      "analysis": {
-        "short_term": "EV市場の成長鈍化も、高付加価値部品は堅調。",
-        "mid_term": "自動運転技術の進化で車載半導体需要が再拡大。",
-        "investment_implications": "車載向けパワー半導体、センサーメーカーに注目。"
-      },
-      "keywords": [
-        "EV",
-        "inverter",
-        "SiC",
-        "sensor",
-        "3.3kV"
-      ],
-      "companies_mentioned": [
-        "新電元工業",
-        "TI",
         "Aratas"
       ]
     },
     {
-      "name": "半導体製造プロセスのAI活用",
-      "confidence": 0.8,
+      "name": "先端パッケージング技術の進化と競争",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "equipment",
-        "ai",
-        "logic"
+        "logic",
+        "memory",
+        "datacenter",
+        "foundry",
+        "backend"
       ],
-      "summary": "製造工程における歩留まり向上や品質管理のため、AIを活用したフィードフォワード制御や成膜条件最適化が進む。",
+      "summary": "HBMの多層化やAIアクセラレータ向けに、2.5D/3D-ICパッケージング技術が重要視され、CoWoSやEMIB等の技術開発・投資が活発。",
       "analysis": {
-        "short_term": "AIによる製造最適化の初期投資が増加。",
-        "mid_term": "製造効率向上によるコスト削減効果が顕在化。",
-        "investment_implications": "製造装置メーカー、プロセス最適化ソリューション提供企業に期待。"
+        "short_term": "HBM実装のボトルネック解消に向けた技術開発競争が激化。",
+        "mid_term": "3D-IC設計の効率化と歩留まり向上が市場拡大の鍵。",
+        "investment_implications": "パッケージング技術を持つファウンドリや関連企業に機会。"
       },
       "keywords": [
-        "AI",
-        "manufacturing",
-        "yield",
-        "feedforward",
-        "deposition"
+        "HBM",
+        "2.5D IC",
+        "3D IC",
+        "CoWoS",
+        "EMIB"
       ],
       "companies_mentioned": [
-        "ADEKA",
-        "NTT"
+        "TSMC",
+        "Intel",
+        "Kioxia",
+        "Sandisk"
       ]
     },
     {
-      "name": "半導体セキュリティの重要性増大",
-      "confidence": 0.75,
+      "name": "メモリ市場の回復とAI需要の牽引",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter"
+      ],
+      "summary": "AI投資の拡大とメモリ価格の上昇により、2026年の半導体市場はメモリが過半数を占め、1.6兆ドル規模に達する見通し。",
+      "analysis": {
+        "short_term": "AI向け高性能メモリ（HBM等）の需要が市場を牽引。",
+        "mid_term": "NAND型フラッシュメモリの生産能力増強投資が継続。",
+        "investment_implications": "メモリメーカーおよび関連サプライヤーへの投資妙味。"
+      },
+      "keywords": [
+        "Memory",
+        "AI",
+        "HBM",
+        "NAND",
+        "Market Growth"
+      ],
+      "companies_mentioned": [
+        "Kioxia",
+        "Sandisk",
+        "YMTC"
+      ]
+    },
+    {
+      "name": "AIによるIC設計・検証プロセスの変革",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "ai",
-        "geopolitics",
-        "datacenter"
+        "frontend",
+        "backend",
+        "industrial"
       ],
-      "summary": "AIや高度化するサイバー攻撃に対応するため、セキュリティ対策が単なるコンプライアンスから継続的な防御へとシフト。",
+      "summary": "AIエージェントがICエンジニアの役割を変革し、設計・検証プロセスを効率化。LLMによる仕様検証やデータパス検証の高度化が進む。",
       "analysis": {
-        "short_term": "セキュリティ関連技術への投資が増加。",
-        "mid_term": "サプライチェーン全体でのセキュリティ確保が必須に。",
-        "investment_implications": "セキュリティソリューションプロバイダーに注目。"
+        "short_term": "AIを活用した設計・検証ツールの導入が進む。",
+        "mid_term": "ICエンジニアのスキルセット変化とアーキテクトへの昇格が進む。",
+        "investment_implications": "AIを活用したEDAツール開発企業に注目。"
       },
       "keywords": [
-        "security",
         "AI",
-        "cyberattack",
-        "supply chain",
-        "defense"
+        "IC Design",
+        "Verification",
+        "LLM",
+        "EDA"
+      ],
+      "companies_mentioned": [
+        "Advantech",
+        "Qualcomm"
+      ]
+    },
+    {
+      "name": "次世代トランジスタ技術の進化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "miniaturization",
+        "frontend"
+      ],
+      "summary": "AI時代に向け、GAAからCFETへのトランジスタ構造進化が進み、裏面給電や設計技術最適化が性能向上に不可欠。",
+      "analysis": {
+        "short_term": "微細化競争は継続し、新構造トランジスタの歩留まり向上が課題。",
+        "mid_term": "CFET等の次世代技術がAIチップの性能限界を押し上げる。",
+        "investment_implications": "先端プロセス技術を持つファウンドリやIDMに期待。"
+      },
+      "keywords": [
+        "Transistor",
+        "GAA",
+        "CFET",
+        "Miniaturization",
+        "AI Era"
       ],
       "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI向け半導体需要の継続的な拡大",
-      "先端プロセスにおけるマルチダイアセンブリの普及",
-      "車載半導体市場の高機能化・需要増",
-      "半導体製造におけるAI活用による効率化"
+      "AI関連投資の継続的な増加",
+      "メモリ市場の回復基調",
+      "高効率パワー半導体への需要増"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "先端パッケージング技術の製造能力の限界"
     ],
     "neutral": [
-      "メモリ市場の価格変動リスク",
-      "中国半導体企業のIPO動向"
+      "EUV露光装置の省電力化技術開発",
+      "イメージセンサー市場の堅調な成長"
     ]
   },
-  "source_count": 47
+  "source_count": 49
 }
