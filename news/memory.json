@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-08-26T06:24:55.517053+09:00",
+  "generated_at": "2026-08-30T07:59:16.964206+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "中国YMTCがIPOへ　AI需要で変わるNAND戦略",
-    "summary": "中国YMTCが上海証券取引所にIPO申請。AI需要増でエンタープライズ向けSSD戦略変更を迫られる。",
+    "title": "Rowhammer Backdoor Injection Attack During Inference (Northeastern)",
+    "summary": "Northeastern大の研究者が、推論中にバックドアを注入するRowhammer攻撃「ROBBIN」を発表。DRAMの脆弱性を利用し、デバイス固有のビット反転パターンを悪用する。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/25/news059.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/rowhammer-backdoor-injection-attack-during-inference-northeastern"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "中国YMTCがIPOへ　AI需要で変わるNAND戦略",
-        "blurb": "中国YMTCが上海証券取引所にIPO申請。AI需要増でエンタープライズ向けSSD戦略変更を迫られる。",
+        "title": "BYD Is Building Its Ultra-Fast Flash Charging Network At A Ferocious Pace",
+        "blurb": "BYDは急速充電ネットワークを急速に拡大しており、既に1万カ所を達成。利用者の3分の1はBYD車以外を運転している。",
         "category": "company",
-        "date": "2026-08-25",
+        "date": "2026-08-29",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/25/news059.html"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806454/byd-10000-ev-flash-chargers"
         },
         "field": {
           "primary": "memory",
@@ -35,7 +35,26 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Rowhammer Backdoor Injection Attack During Inference (Northeastern)",
+        "blurb": "Northeastern大の研究者が、推論中にバックドアを注入するRowhammer攻撃「ROBBIN」を発表。DRAMの脆弱性を利用し、デバイス固有のビット反転パターンを悪用する。",
+        "category": "tools",
+        "date": "2026-08-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/rowhammer-backdoor-injection-attack-during-inference-northeastern"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }
