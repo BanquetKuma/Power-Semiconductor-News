@@ -1,160 +1,172 @@
 {
-  "generated_at": "2026-08-28T14:06:04.747614+09:00",
+  "generated_at": "2026-08-29T12:04:48.997502+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "V2X対応のワイヤレスエミュレーター開発、京都大",
-    "summary": "京大がV2X無線伝送特性をデジタルツインで評価できるワイヤレスエミュレーターを開発。実験室で実環境の再現が可能。",
+    "stars": 4,
+    "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
+    "summary": "ジョージア工科大学の研究者は、大規模言語モデル（LLM）の学習における光インターコネクトの遅延を、強誘電体チューニングで2.7倍高速化する技術を発表しました。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/28/news051.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "次世代のコンピューティングを支える光伝送と光電融合",
-        "blurb": "実装技術ロードマップより、次世代コンピューティングを支える光伝送技術と光トランシーバ構造の概要を報告。",
+        "title": "This American Battery Could Break China’s Grip On The EV Supply Chain",
+        "blurb": "米国の新バッテリー技術がEVサプライチェーンにおける中国の支配を打破する可能性。グラファイトフリーのリチウムメタル電池が注目。",
         "category": "business",
-        "date": "2026-08-28",
+        "date": "2026-08-29",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/28/news044.html"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806443/graphite-free-lithium-metal-battery-ev"
         },
-        "field": null
-      },
-      {
-        "title": "リチウムイオン電池の長寿命化へ新たな材料設計指針",
-        "blurb": "信州大らの研究で、リチウムイオン電池の正極材料にフッ素を導入し、長寿命化と安定化を実現する新指針を発表。",
-        "category": "business",
-        "date": "2026-08-28",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/28/news050.html"
-        },
-        "field": null
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": "geopolitics"
+        }
       }
     ],
     "tools": [
       {
-        "title": "V2X対応のワイヤレスエミュレーター開発、京都大",
-        "blurb": "京大がV2X無線伝送特性をデジタルツインで評価できるワイヤレスエミュレーターを開発。実験室で実環境の再現が可能。",
+        "title": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
+        "blurb": "UCLAが2.5D/3D統合研究向けオープンソースベンチマークスイートを公開。チップレットモデルも提供。",
         "category": "tools",
-        "date": "2026-08-28",
+        "date": "2026-08-29",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/28/news051.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/open-source-benchmark-suite-for-2-5d-3d-heterogeneous-integration-research-in-physical-design-ucla"
         },
-        "field": null
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "company": [
       {
-        "title": "Engineering Embedded Systems for Aerospace and Defense",
-        "blurb": "航空宇宙・防衛分野の組み込みシステムは、過酷な環境に耐える特殊なハードウェアで構築される。衛星や戦闘車両などに搭載。",
+        "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
+        "blurb": "ジョージア工科大学の研究者は、大規模言語モデル（LLM）の学習における光インターコネクトの遅延を、強誘電体チューニングで2.7倍高速化する技術を発表しました。",
         "category": "company",
-        "date": "2026-08-28",
+        "date": "2026-08-29",
+        "stars": 4,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech"
+        },
+        "field": {
+          "primary": "wafer",
+          "device": null,
+          "process": "wafer",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Generative Design Optimizes Liquid-Cooling Channels For 2.5D And 3D Packages (UM-Dearborn)",
+        "blurb": "ミシガン大学ディアボーン校の研究者が、2.5D/3Dパッケージ向け液冷チャネルの生成デザインによる最適化手法を発表しました。",
+        "category": "company",
+        "date": "2026-08-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/generative-design-optimizes-liquid-cooling-channels-for-2-5d-and-3d-packages-um-dearborn"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peking U., CAS et al.)",
+        "blurb": "北京大学らの研究チームは、サファイア表面改質により、ウェハー規模での2次元半導体の単結晶成長を可能にする技術を発表しました。",
+        "category": "company",
+        "date": "2026-08-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/sapphire-surface-modification-enables-wafer-scale-2d-semiconductor-growth-peking-u-cas-et-al"
+        },
+        "field": {
+          "primary": "wafer",
+          "device": null,
+          "process": "wafer",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Deep Learning Automates Parameter Extraction For 2D Transistors (Stanford, SLAC)",
+        "blurb": "スタンフォード大とSLACが、深層学習で2次元トランジスタの物理パラメータ抽出を自動化する手法を発表しました。",
+        "category": "company",
+        "date": "2026-08-29",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/deep-learning-automates-parameter-extraction-for-2d-transistors-stanford-slac"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Embedded Systems Runtime Observability, Sensor Fusion for Drones, Embedded Design for Mil/Aero: Embedded Week Insights",
+        "blurb": "組み込みシステムにおけるランタイム可観測性、ドローン向けセンサーフュージョン、軍事・航空宇宙向け設計に関する最新動向をまとめた記事。",
+        "category": "company",
+        "date": "2026-08-29",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/engineering-embedded-systems-for-aerospace-and-defense"
+          "url": "https://www.embedded.com/embedded-systems-runtime-observability-sensor-fusion-for-drones-embedded-design-for-mil-aero-embedded-week-insights"
         },
         "field": {
-          "primary": "industrial",
-          "device": null,
+          "primary": "analog",
+          "device": "analog",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "AAEON PICO-ADN2 SBC Packs Intel N97 and Core i3-N305 in Pico-ITX",
-        "blurb": "AAEONがIntel N97/Core i3搭載のPico-ITX SBC「PICO-ADN2」を発表。小型ながら多機能で産業用途にも対応。",
+        "title": "Tesla's Cybercab Launch Is Next Week. Here's What Tesla Still Needs To Prove",
+        "blurb": "テスラは来週サイバーキャブの発表イベントを開催。しかし、3万ドルでの購入が可能になるかは疑問視されている。",
         "category": "company",
-        "date": "2026-08-28",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/aaeon-pico-adn2-sbc-packs-intel-n97-and-core-i3-n305-in-pico-itx"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Rivian's CFO Is Leaving The Company",
-        "blurb": "EVスタートアップのリビアン、CFOのクレア・マクドノー氏が退任。R2の販売拡大を目指す中での決断。",
-        "category": "company",
-        "date": "2026-08-28",
+        "date": "2026-08-29",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806319/rivian-cfo-claire-mcdonough-exit"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Does Ultra-Fast Charging Ruin An EV Battery? BYD Did It 350 Times In 9 Days To Find Out",
-        "blurb": "BYDは、超急速充電がEVバッテリーに与える影響を調査。Yangwang U7は9分で10-97%充電可能。バッテリー寿命への影響は？",
-        "category": "company",
-        "date": "2026-08-28",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806301/byd-megawatt-charging-battery-health"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "BMW Just Hit 2 Million EVs Sold, And The iX3 Is Carrying The Team",
-        "blurb": "BMWがEV販売台数200万台を達成。プラグインハイブリッドを含めると350万台に達した。",
-        "category": "company",
-        "date": "2026-08-28",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806293/bmw-two-million-evs-sold"
+          "url": "https://insideevs.com/news/806444/tesla-cybercab-launch-event-preview"
         },
         "field": null
       },
       {
-        "title": "Aptera's Solar-Powered EV Can Go 47 Miles On Sun Power Alone—In Theory",
-        "blurb": "Apteraの太陽光発電EVは、理論上、太陽光のみで47マイル走行可能。独立機関によるテスト結果。",
+        "title": "Lucid Recalls 27,185 Air Sedans Over Fire Risk, Tells Owners To Park Outside",
+        "blurb": "EVメーカーのLucidは、火災リスクのため27,185台のリコールを発表。OTAアップデートで対応予定。",
         "category": "company",
-        "date": "2026-08-28",
+        "date": "2026-08-29",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806299/aptera-ev-solar-range"
+          "url": "https://insideevs.com/news/806421/lucid-fire-risk-recall-27k"
         },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
+        "field": null
       }
     ],
     "sns": []

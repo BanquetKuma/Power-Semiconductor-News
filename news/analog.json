@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-08-26T06:24:55.517903+09:00",
+  "generated_at": "2026-08-29T12:04:48.998731+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "TI Introduces Multiaxial Hall-Effect Current Sensor for EV Inverters",
-    "summary": "TIがEVインバーター向け多軸ホール効果電流センサーを発表。トルク制御精度向上に貢献。",
+    "title": "Embedded Systems Runtime Observability, Sensor Fusion for Drones, Embedded Design for Mil/Aero: Embedded Week Insights",
+    "summary": "組み込みシステムにおけるランタイム可観測性、ドローン向けセンサーフュージョン、軍事・航空宇宙向け設計に関する最新動向をまとめた記事。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/ti-introduces-multiaxial-hall-effect-current-sensor-for-ev-inverters"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/embedded-systems-runtime-observability-sensor-fusion-for-drones-embedded-design-for-mil-aero-embedded-week-insights"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Why Sensor Fusion Matters for Drone Navigation and Detection",
-        "blurb": "ドローンの航行・検知には、複数のセンサー情報を統合するセンサーフュージョンが不可欠。各センサーの長所短所を補い、精度を高める。",
-        "category": "tools",
-        "date": "2026-08-25",
+        "title": "Embedded Systems Runtime Observability, Sensor Fusion for Drones, Embedded Design for Mil/Aero: Embedded Week Insights",
+        "blurb": "組み込みシステムにおけるランタイム可観測性、ドローン向けセンサーフュージョン、軍事・航空宇宙向け設計に関する最新動向をまとめた記事。",
+        "category": "company",
+        "date": "2026-08-29",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/why-sensor-fusion-matters-for-drone-navigation-and-detection"
+          "url": "https://www.embedded.com/embedded-systems-runtime-observability-sensor-fusion-for-drones-embedded-design-for-mil-aero-embedded-week-insights"
         },
         "field": {
           "primary": "analog",
@@ -36,25 +35,7 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "TI Introduces Multiaxial Hall-Effect Current Sensor for EV Inverters",
-        "blurb": "TIがEVインバーター向け多軸ホール効果電流センサーを発表。トルク制御精度向上に貢献。",
-        "category": "business",
-        "date": "2026-08-26",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/ti-introduces-multiaxial-hall-effect-current-sensor-for-ev-inverters"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }

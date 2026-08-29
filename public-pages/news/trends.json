@@ -1,166 +1,170 @@
 {
-  "generated_at": "2026-08-28T14:06:09.006170+09:00",
-  "date": "2026-08-28",
+  "generated_at": "2026-08-29T12:04:53.632968+09:00",
+  "date": "2026-08-29",
   "meta_trends": [
     {
-      "name": "AI向け電力管理・効率化の加速",
+      "name": "AIデータセンターの電力需要増大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "ai",
         "datacenter",
-        "logic",
-        "analog"
+        "ai",
+        "logic"
       ],
-      "summary": "AIデータセンターの電力需要増大に対応するため、電源管理IC、GaN/SiCデバイス、高効率電源技術への投資・買収が活発化。",
+      "summary": "AIの進化に伴い、データセンターの電力消費が急増。高効率な電源管理技術や800Vバスなどのインフラ整備が急務となっている。",
       "analysis": {
-        "short_term": "AIチップの性能向上に伴い、電力効率改善技術への需要が継続。",
-        "mid_term": "データセンターのインフラ再構築が進み、800Vバス等の新技術が普及。",
-        "investment_implications": "AIインフラ関連の電源技術企業に注目。"
+        "short_term": "高効率電源IC、GaN/SiCデバイスの需要増。",
+        "mid_term": "データセンターインフラ投資の加速が予想される。",
+        "investment_implications": "電源管理、冷却技術関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "Power Management",
+        "データセンター",
+        "電力消費",
         "GaN",
         "SiC",
-        "Datacenter"
+        "800V"
       ],
       "companies_mentioned": [
         "Infineon",
-        "GlobalFoundries",
         "Navitas",
-        "EPC",
         "Aratas"
       ]
     },
     {
-      "name": "先端パッケージング技術の進化と競争",
+      "name": "先端パッケージング技術の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "logic",
+        "backend",
         "memory",
-        "datacenter",
-        "foundry",
-        "backend"
+        "logic",
+        "ai"
       ],
-      "summary": "HBMの多層化やAIアクセラレータ向けに、2.5D/3D-ICパッケージング技術が重要視され、CoWoSやEMIB等の技術開発・投資が活発。",
+      "summary": "チップレット技術や2.5D/3D統合が進展。HBMの多層化や液冷技術が重要視され、性能向上と小型化を両立させる。",
       "analysis": {
-        "short_term": "HBM実装のボトルネック解消に向けた技術開発競争が激化。",
-        "mid_term": "3D-IC設計の効率化と歩留まり向上が市場拡大の鍵。",
-        "investment_implications": "パッケージング技術を持つファウンドリや関連企業に機会。"
+        "short_term": "HBM実装のボトルネック解消が焦点。",
+        "mid_term": "チップレットエコシステムの拡大と標準化が進む。",
+        "investment_implications": "先端パッケージング、HBM関連企業に投資妙味。"
       },
       "keywords": [
+        "チップレット",
+        "2.5D/3D",
         "HBM",
-        "2.5D IC",
-        "3D IC",
+        "液冷",
         "CoWoS",
         "EMIB"
       ],
       "companies_mentioned": [
         "TSMC",
         "Intel",
-        "Kioxia",
-        "Sandisk"
+        "UCLA"
       ]
     },
     {
-      "name": "メモリ市場の回復とAI需要の牽引",
+      "name": "車載半導体の需要拡大と技術革新",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
+        "automotive",
+        "power",
         "memory",
-        "ai",
-        "datacenter"
+        "analog"
       ],
-      "summary": "AI投資の拡大とメモリ価格の上昇により、2026年の半導体市場はメモリが過半数を占め、1.6兆ドル規模に達する見通し。",
+      "summary": "EVシフトと自動運転技術の進展により、車載用半導体の需要が増加。特にパワー半導体やセンサーの重要性が高まっている。",
       "analysis": {
-        "short_term": "AI向け高性能メモリ（HBM等）の需要が市場を牽引。",
-        "mid_term": "NAND型フラッシュメモリの生産能力増強投資が継続。",
-        "investment_implications": "メモリメーカーおよび関連サプライヤーへの投資妙味。"
+        "short_term": "EV向けバッテリー部材の増産が続く。",
+        "mid_term": "ADAS/AD向け高性能SoCの需要が本格化。",
+        "investment_implications": "車載用パワー半導体、センサーメーカーに注目。"
       },
       "keywords": [
-        "Memory",
-        "AI",
-        "HBM",
-        "NAND",
-        "Market Growth"
+        "EV",
+        "自動運転",
+        "パワー半導体",
+        "イメージセンサー",
+        "セパレーター"
       ],
       "companies_mentioned": [
-        "Kioxia",
-        "Sandisk",
-        "YMTC"
+        "旭化成",
+        "ソニー"
       ]
     },
     {
-      "name": "AIによるIC設計・検証プロセスの変革",
+      "name": "AIによる半導体設計の自動化・効率化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "logic",
         "ai",
+        "logic",
         "frontend",
-        "backend",
-        "industrial"
+        "equipment"
       ],
-      "summary": "AIエージェントがICエンジニアの役割を変革し、設計・検証プロセスを効率化。LLMによる仕様検証やデータパス検証の高度化が進む。",
+      "summary": "AIが半導体設計プロセス全体に浸透。EDAツールの高度化やパラメータ抽出の自動化が進み、設計期間の短縮と性能向上が期待される。",
       "analysis": {
-        "short_term": "AIを活用した設計・検証ツールの導入が進む。",
-        "mid_term": "ICエンジニアのスキルセット変化とアーキテクトへの昇格が進む。",
-        "investment_implications": "AIを活用したEDAツール開発企業に注目。"
+        "short_term": "AIを活用したEDAツールの導入が進む。",
+        "mid_term": "設計者の役割が監督・検証へとシフトする可能性。",
+        "investment_implications": "次世代EDA、AI設計ソリューション提供企業に期待。"
       },
       "keywords": [
-        "AI",
-        "IC Design",
-        "Verification",
-        "LLM",
-        "EDA"
+        "AI設計",
+        "EDA",
+        "自動化",
+        "深層学習",
+        "パラメータ抽出"
       ],
       "companies_mentioned": [
-        "Advantech",
-        "Qualcomm"
+        "キーサイト",
+        "Stanford",
+        "UM-Dearborn"
       ]
     },
     {
-      "name": "次世代トランジスタ技術の進化",
+      "name": "次世代材料・デバイスの研究開発加速",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "miniaturization",
-        "frontend"
+        "wafer",
+        "power",
+        "frontend",
+        "logic"
       ],
-      "summary": "AI時代に向け、GAAからCFETへのトランジスタ構造進化が進み、裏面給電や設計技術最適化が性能向上に不可欠。",
+      "summary": "2次元半導体やGaN、SiCなどの新材料・新デバイスの研究が進展。光インターコネクトの高速化や成膜技術の革新が注目されている。",
       "analysis": {
-        "short_term": "微細化競争は継続し、新構造トランジスタの歩留まり向上が課題。",
-        "mid_term": "CFET等の次世代技術がAIチップの性能限界を押し上げる。",
-        "investment_implications": "先端プロセス技術を持つファウンドリやIDMに期待。"
+        "short_term": "2D半導体のウェハー規模成長技術に注目。",
+        "mid_term": "次世代パワーデバイスの普及が本格化。",
+        "investment_implications": "先端材料、新デバイス開発企業への投資を検討。"
       },
       "keywords": [
-        "Transistor",
-        "GAA",
-        "CFET",
-        "Miniaturization",
-        "AI Era"
+        "2D半導体",
+        "GaN",
+        "SiC",
+        "光インターコネクト",
+        "強誘電体",
+        "成膜技術"
       ],
-      "companies_mentioned": []
+      "companies_mentioned": [
+        "Peking U.",
+        "CAS",
+        "NTT",
+        "Georgia Tech"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続的な増加",
-      "メモリ市場の回復基調",
-      "高効率パワー半導体への需要増"
+      "AI関連投資の継続的な拡大",
+      "先端パッケージング市場の成長加速",
+      "車載半導体需要の堅調な推移"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "先端パッケージング技術の製造能力の限界"
+      "地政学的リスクによるサプライチェーンの不安定化",
+      "メモリ市場の価格変動リスク"
     ],
     "neutral": [
-      "EUV露光装置の省電力化技術開発",
-      "イメージセンサー市場の堅調な成長"
+      "設備投資の動向（一部企業は慎重姿勢）",
+      "M&A活動の活発化（業界再編の可能性）"
     ]
   },
-  "source_count": 49
+  "source_count": 51
 }

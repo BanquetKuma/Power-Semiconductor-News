@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-08-14T06:41:38.917656+09:00",
+  "generated_at": "2026-08-29T12:04:48.999786+09:00",
   "field": "wafer",
   "field_label": "ウェーハ",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "日本化学工業が高純度赤燐を増産へ 光通信関連需要に対応",
-    "summary": "日本化学工業は、光通信関連需要に対応するため、高純度赤燐の生産能力を約60%増強する。",
+    "stars": 4,
+    "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
+    "summary": "ジョージア工科大学の研究者は、大規模言語モデル（LLM）の学習における光インターコネクトの遅延を、強誘電体チューニングで2.7倍高速化する技術を発表しました。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/13/news030.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "日本化学工業が高純度赤燐を増産へ 光通信関連需要に対応",
-        "blurb": "日本化学工業は、光通信関連需要に対応するため、高純度赤燐の生産能力を約60%増強する。",
-        "category": "business",
-        "date": "2026-08-13",
+        "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
+        "blurb": "ジョージア工科大学の研究者は、大規模言語モデル（LLM）の学習における光インターコネクトの遅延を、強誘電体チューニングで2.7倍高速化する技術を発表しました。",
+        "category": "company",
+        "date": "2026-08-29",
+        "stars": 4,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech"
+        },
+        "field": {
+          "primary": "wafer",
+          "device": null,
+          "process": "wafer",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peking U., CAS et al.)",
+        "blurb": "北京大学らの研究チームは、サファイア表面改質により、ウェハー規模での2次元半導体の単結晶成長を可能にする技術を発表しました。",
+        "category": "company",
+        "date": "2026-08-29",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/13/news030.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/sapphire-surface-modification-enables-wafer-scale-2d-semiconductor-growth-peking-u-cas-et-al"
         },
         "field": {
           "primary": "wafer",
@@ -36,6 +52,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }
