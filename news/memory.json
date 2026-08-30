@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-08-30T07:59:16.964206+09:00",
+  "generated_at": "2026-08-31T08:08:53.097531+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Rowhammer Backdoor Injection Attack During Inference (Northeastern)",
-    "summary": "Northeastern大の研究者が、推論中にバックドアを注入するRowhammer攻撃「ROBBIN」を発表。DRAMの脆弱性を利用し、デバイス固有のビット反転パターンを悪用する。",
+    "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
+    "summary": "オックスフォード大学がLLM推論向けに、大容量・低コストなHBFメモリをHBMと組み合わせる新アーキテクチャを発表。容量問題を解決。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/rowhammer-backdoor-injection-attack-during-inference-northeastern"
+        "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "BYD Is Building Its Ultra-Fast Flash Charging Network At A Ferocious Pace",
-        "blurb": "BYDは急速充電ネットワークを急速に拡大しており、既に1万カ所を達成。利用者の3分の1はBYD車以外を運転している。",
+        "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
+        "blurb": "オックスフォード大学がLLM推論向けに、大容量・低コストなHBFメモリをHBMと組み合わせる新アーキテクチャを発表。容量問題を解決。",
         "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806454/byd-10000-ev-flash-chargers"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Rowhammer Backdoor Injection Attack During Inference (Northeastern)",
-        "blurb": "Northeastern大の研究者が、推論中にバックドアを注入するRowhammer攻撃「ROBBIN」を発表。DRAMの脆弱性を利用し、デバイス固有のビット反転パターンを悪用する。",
-        "category": "tools",
-        "date": "2026-08-29",
+        "date": "2026-08-30",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rowhammer-backdoor-injection-attack-during-inference-northeastern"
+          "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford"
         },
         "field": {
           "primary": "memory",
@@ -53,8 +33,27 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "M3D 6T SRAM With BEOL Pass-Gates at 2nm (Georgia Tech, Synopsys)",
+        "blurb": "Georgia TechとSynopsysが2nmノード向けM3D 6T SRAMを発表。BEOLパスゲートとシリコンナノシートラッチを統合。",
+        "category": "company",
+        "date": "2026-08-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/m3d-6t-sram-with-beol-pass-gates-at-2nm-georgia-tech-synopsys"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

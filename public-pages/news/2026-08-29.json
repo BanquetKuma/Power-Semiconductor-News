@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-30T07:59:16.963105+09:00",
+  "generated_at": "2026-08-29T12:04:48.997502+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)",
-    "summary": "アルバータ大学の研究者は、マクロ配置がチップのポストルートPPAに影響することを発見。HPWLとの相関が低いことを示唆する論文を発表。",
+    "stars": 4,
+    "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
+    "summary": "ジョージア工科大学の研究者は、大規模言語モデル（LLM）の学習における光インターコネクトの遅延を、強誘電体チューニングで2.7倍高速化する技術を発表しました。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/predicting-post-route-ppa-from-macro-and-standard-cell-placements-u-of-alberta"
+        "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech"
       }
     ]
   },
@@ -16,7 +16,7 @@
     "business": [
       {
         "title": "This American Battery Could Break China’s Grip On The EV Supply Chain",
-        "blurb": "中国依存脱却へ、米国企業がグラファイト不使用の次世代EVバッテリー開発を発表。EVサプライチェーンの変革に期待。",
+        "blurb": "米国の新バッテリー技術がEVサプライチェーンにおける中国の支配を打破する可能性。グラファイトフリーのリチウムメタル電池が注目。",
         "category": "business",
         "date": "2026-08-29",
         "stars": 3,
@@ -35,26 +35,8 @@
     ],
     "tools": [
       {
-        "title": "Rowhammer Backdoor Injection Attack During Inference (Northeastern)",
-        "blurb": "Northeastern大の研究者が、推論中にバックドアを注入するRowhammer攻撃「ROBBIN」を発表。DRAMの脆弱性を利用し、デバイス固有のビット反転パターンを悪用する。",
-        "category": "tools",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rowhammer-backdoor-injection-attack-during-inference-northeastern"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
-        "blurb": "UCLAが2.5D/3D積層技術の研究向け、オープンソースのベンチマークスイートを公開。チップレットモデルも提供。",
+        "blurb": "UCLAが2.5D/3D統合研究向けオープンソースベンチマークスイートを公開。チップレットモデルも提供。",
         "category": "tools",
         "date": "2026-08-29",
         "stars": 3,
@@ -69,33 +51,15 @@
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)",
-        "blurb": "アルバータ大学の研究者は、マクロ配置がチップのポストルートPPAに影響することを発見。HPWLとの相関が低いことを示唆する論文を発表。",
-        "category": "tools",
-        "date": "2026-08-30",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/predicting-post-route-ppa-from-macro-and-standard-cell-placements-u-of-alberta"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       }
     ],
     "company": [
       {
         "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
-        "blurb": "ジョージア工科大学の研究者が、大規模言語モデル（LLM）学習における光インターコネクトの遅延を、強誘電体チューニングで2.7倍高速化する技術を発表しました。",
+        "blurb": "ジョージア工科大学の研究者は、大規模言語モデル（LLM）の学習における光インターコネクトの遅延を、強誘電体チューニングで2.7倍高速化する技術を発表しました。",
         "category": "company",
         "date": "2026-08-29",
-        "stars": 3,
+        "stars": 4,
         "source": {
           "name": "semiengineering.com",
           "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech"
@@ -128,7 +92,7 @@
       },
       {
         "title": "Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peking U., CAS et al.)",
-        "blurb": "北京大学などの研究チームが、サファイア表面改質により、ウェハー規模での2次元半導体の単結晶成長を可能にする技術を発表。",
+        "blurb": "北京大学らの研究チームは、サファイア表面改質により、ウェハー規模での2次元半導体の単結晶成長を可能にする技術を発表しました。",
         "category": "company",
         "date": "2026-08-29",
         "stars": 3,
@@ -146,7 +110,7 @@
       },
       {
         "title": "Deep Learning Automates Parameter Extraction For 2D Transistors (Stanford, SLAC)",
-        "blurb": "スタンフォード大とSLACが2次元トランジスタの電気的特性から移動度などを自動抽出する深層学習技術を発表。半導体開発の効率化に期待。",
+        "blurb": "スタンフォード大とSLACが、深層学習で2次元トランジスタの物理パラメータ抽出を自動化する手法を発表しました。",
         "category": "company",
         "date": "2026-08-29",
         "stars": 3,
@@ -181,36 +145,6 @@
         }
       },
       {
-        "title": "VW Turned The ID. Buzz Into An Electric Camper Van. The U.S. Is Next.",
-        "blurb": "VWがレトロなID. Buzzをベースにした電動キャンピングカー「ID. California Cruise」を発表。米国展開も予定。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806460/volkswagen-id-buzz-ev-van-camper"
-        },
-        "field": null
-      },
-      {
-        "title": "BYD Is Building Its Ultra-Fast Flash Charging Network At A Ferocious Pace",
-        "blurb": "BYDは急速充電ネットワークを急速に拡大しており、既に1万カ所を達成。利用者の3分の1はBYD車以外を運転している。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806454/byd-10000-ev-flash-chargers"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Tesla's Cybercab Launch Is Next Week. Here's What Tesla Still Needs To Prove",
         "blurb": "テスラは来週サイバーキャブの発表イベントを開催。しかし、3万ドルでの購入が可能になるかは疑問視されている。",
         "category": "company",
@@ -224,7 +158,7 @@
       },
       {
         "title": "Lucid Recalls 27,185 Air Sedans Over Fire Risk, Tells Owners To Park Outside",
-        "blurb": "EVメーカーのLucidは、火災リスクのため27,185台のAirセダンをリコール。OTAアップデートで対応予定。",
+        "blurb": "EVメーカーのLucidは、火災リスクのため27,185台のリコールを発表。OTAアップデートで対応予定。",
         "category": "company",
         "date": "2026-08-29",
         "stars": 3,

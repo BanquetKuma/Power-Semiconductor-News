@@ -1,48 +1,31 @@
 {
-  "generated_at": "2026-08-30T07:59:16.964535+09:00",
+  "generated_at": "2026-08-31T08:08:53.097852+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Generative Design Optimizes Liquid-Cooling Channels For 2.5D And 3D Packages (UM-Dearborn)",
-    "summary": "ミシガン大学ディアボーン校の研究者が、2.5D/3Dパッケージ向け液冷チャネルの生成デザインによる最適化手法を発表しました。",
+    "title": "Cycle-Level Simulator for Distributed GPUs For AI Workloads (Purdue)",
+    "summary": "Purdue大の研究者がAI向け分散GPUのサイクルレベルシミュレータを発表。Ampere, Hopper, Blackwell世代に対応し、H100 GPUで99%の相関を確認。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/generative-design-optimizes-liquid-cooling-channels-for-2-5d-and-3d-packages-um-dearborn"
+        "url": "https://semiengineering.com/cycle-level-simulator-for-distributed-gpus-for-ai-workloads-purdue"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "Generative Design Optimizes Liquid-Cooling Channels For 2.5D And 3D Packages (UM-Dearborn)",
-        "blurb": "ミシガン大学ディアボーン校の研究者が、2.5D/3Dパッケージ向け液冷チャネルの生成デザインによる最適化手法を発表しました。",
-        "category": "company",
-        "date": "2026-08-29",
+        "title": "Cycle-Level Simulator for Distributed GPUs For AI Workloads (Purdue)",
+        "blurb": "Purdue大の研究者がAI向け分散GPUのサイクルレベルシミュレータを発表。Ampere, Hopper, Blackwell世代に対応し、H100 GPUで99%の相関を確認。",
+        "category": "tools",
+        "date": "2026-08-30",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/generative-design-optimizes-liquid-cooling-channels-for-2-5d-and-3d-packages-um-dearborn"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Deep Learning Automates Parameter Extraction For 2D Transistors (Stanford, SLAC)",
-        "blurb": "スタンフォード大とSLACが2次元トランジスタの電気的特性から移動度などを自動抽出する深層学習技術を発表。半導体開発の効率化に期待。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/deep-learning-automates-parameter-extraction-for-2d-transistors-stanford-slac"
+          "url": "https://semiengineering.com/cycle-level-simulator-for-distributed-gpus-for-ai-workloads-purdue"
         },
         "field": {
           "primary": "logic",
@@ -53,7 +36,6 @@
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }

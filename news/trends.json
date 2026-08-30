@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T07:59:20.954583+09:00",
-  "date": "2026-08-30",
+  "generated_at": "2026-08-31T08:08:57.482281+09:00",
+  "date": "2026-08-31",
   "meta_trends": [
     {
       "name": "AIデータセンターの電力需要増大",
@@ -9,19 +9,19 @@
       "related_fields": [
         "power",
         "datacenter",
-        "ai",
-        "logic"
+        "ai"
       ],
-      "summary": "AIの進化に伴い、データセンターの電力消費が急増。高効率な電源管理技術や800Vバスへの移行が加速。",
+      "summary": "AIの進化に伴い、データセンターの電力消費が急増。高効率な電源技術や800Vバスなどのインフラが求められている。",
       "analysis": {
-        "short_term": "高効率電源IC、GaN/SiCデバイス需要増。",
-        "mid_term": "データセンターインフラ投資拡大、冷却技術も重要に。",
-        "investment_implications": "電源管理、冷却技術関連企業に注目。"
+        "short_term": "高効率電源ソリューションへの需要が加速。",
+        "mid_term": "データセンターの電力インフラ投資が活発化。",
+        "investment_implications": "電源技術、GaN/SiCデバイス関連企業に注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
         "電力効率",
+        "800Vバス",
         "GaN",
         "SiC"
       ],
@@ -32,21 +32,20 @@
       ]
     },
     {
-      "name": "車載半導体の需要拡大と技術革新",
+      "name": "車載半導体の需要拡大と技術進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "power",
-        "memory",
-        "logic",
-        "analog"
+        "analog",
+        "memory"
       ],
-      "summary": "EV化と自動運転技術の進展により、車載用半導体の需要が拡大。特にパワー半導体やセンサーの重要性が増す。",
+      "summary": "EV化と自動運転技術の進展により、車載用半導体の需要が拡大。特にパワー半導体、センサー、メモリの重要性が増している。",
       "analysis": {
-        "short_term": "EV向けバッテリー関連部品の生産能力増強。",
-        "mid_term": "ADAS、インフォテインメント向け高性能チップ需要増。",
-        "investment_implications": "車載向けパワー半導体、センサーメーカーに期待。"
+        "short_term": "EV向けバッテリー関連部品の生産能力増強が続く。",
+        "mid_term": "先進運転支援システム（ADAS）向け半導体需要が本格化。",
+        "investment_implications": "車載用パワー半導体、センサーメーカーに投資機会。"
       },
       "keywords": [
         "EV",
@@ -56,118 +55,117 @@
         "センサー"
       ],
       "companies_mentioned": [
-        "Asahi Kasei",
-        "Infineon"
+        "旭化成",
+        "ソニー"
+      ]
+    },
+    {
+      "name": "AIによる半導体設計の変革",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "frontend",
+        "backend",
+        "equipment"
+      ],
+      "summary": "AIが半導体設計プロセス（EDA）に深く関与し、設計効率と性能を向上させる。人間は監督・検証の役割を担う。",
+      "analysis": {
+        "short_term": "AIを活用した設計ツールの開発競争が激化。",
+        "mid_term": "AI設計による新世代チップの登場が加速。",
+        "investment_implications": "EDA企業、AI設計技術開発企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "EDA",
+        "半導体設計",
+        "自動化",
+        "次世代チップ"
+      ],
+      "companies_mentioned": [
+        "キーサイト",
+        "Purdue",
+        "UCLA"
       ]
     },
     {
       "name": "先端パッケージング技術の競争激化",
-      "confidence": 0.88,
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "foundry",
-        "logic",
         "memory",
         "ai"
       ],
-      "summary": "チップレット技術や2.5D/3D積層技術が重要性を増し、性能向上とコスト削減に貢献。HBM実装競争も激化。",
+      "summary": "AIチップの性能向上のため、チップレット技術や2.5D/3D積層パッケージングが重要視されている。TSMCとIntelが競争。",
       "analysis": {
-        "short_term": "HBM実装におけるボトルネック解消競争。",
-        "mid_term": "チップレットエコシステムの発展、オープンソース化の動き。",
-        "investment_implications": "先端パッケージング技術を持つファウンドリ、EDA企業に注目。"
+        "short_term": "HBM実装におけるボトルネック解消が急務。",
+        "mid_term": "異種集積技術の標準化と普及が進む。",
+        "investment_implications": "パッケージング技術を持つファウンドリ、材料メーカーに期待。"
       },
       "keywords": [
-        "先端パッケージング",
+        "パッケージング",
         "チップレット",
-        "2.5D/3D",
+        "2.5D",
+        "3D積層",
         "HBM",
-        "CoWoS"
+        "CoWoS",
+        "EMIB"
       ],
       "companies_mentioned": [
-        "GlobalFoundries",
         "TSMC",
         "Intel",
         "UCLA"
       ]
     },
     {
-      "name": "AIによる半導体設計・開発の効率化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "frontend",
-        "ai",
-        "equipment",
-        "general"
-      ],
-      "summary": "AIが半導体設計（EDA）、パラメータ抽出、製造プロセス最適化などを自動化し、開発期間短縮とコスト削減に貢献。",
-      "analysis": {
-        "short_term": "AIを活用したEDAツールの進化。",
-        "mid_term": "設計・製造の全工程へのAI適用拡大。",
-        "investment_implications": "AI-EDA関連企業、AIを活用する半導体メーカーに期待。"
-      },
-      "keywords": [
-        "AI",
-        "EDA",
-        "自動化",
-        "設計",
-        "開発効率"
-      ],
-      "companies_mentioned": [
-        "Infineon",
-        "C2i",
-        "Stanford",
-        "SLAC",
-        "Keysight"
-      ]
-    },
-    {
-      "name": "次世代メモリ技術と課題",
-      "confidence": 0.8,
+      "name": "次世代メモリ技術の進化と需要",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
         "datacenter"
       ],
-      "summary": "AI需要を背景にHBMなどの高性能メモリ需要が拡大する一方、多層化に伴う製造・熱課題も顕在化。",
+      "summary": "AI、特にLLMの普及により、大容量・高性能メモリへの需要が増加。HBMや新しいアーキテクチャが注目されている。",
       "analysis": {
-        "short_term": "HBMの供給能力とコストが焦点。",
-        "mid_term": "NANDフラッシュの生産能力増強競争、中国企業の動向。",
-        "investment_implications": "メモリメーカー、HBM関連技術企業に注目。"
+        "short_term": "HBMの供給制約がAI開発のボトルネックに。",
+        "mid_term": "新メモリアーキテクチャ（HBM-HBF等）の実用化が進む。",
+        "investment_implications": "メモリメーカー、HBM関連技術企業に投資機会。"
       },
       "keywords": [
-        "HBM",
         "メモリ",
         "AI",
-        "NAND",
-        "製造課題"
+        "LLM",
+        "HBM",
+        "HBF",
+        "DRAM"
       ],
       "companies_mentioned": [
-        "Kioxia",
+        "キオクシア",
         "Sandisk",
-        "YMTC",
-        "TSMC"
+        "University of Oxford",
+        "YMTC"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIデータセンター向け電源管理ICの需要急増",
-      "車載半導体市場の継続的な成長予測",
-      "先端パッケージング技術への巨額投資",
-      "AIによるEDAの効率化進展"
+      "AI関連半導体（特にGPU、電源、メモリ）の需要拡大",
+      "データセンター投資の活発化",
+      "車載半導体市場の成長継続",
+      "先端パッケージング技術への投資増加"
     ],
     "bearish": [
-      "HBMの層数増加に伴う製造・熱課題",
-      "地政学的リスクによるサプライチェーンの不確実性"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "メモリ価格の変動リスク"
     ],
     "neutral": [
-      "2D半導体技術の実用化に向けた研究開発",
-      "メモリ市場の価格変動リスク"
+      "EUV露光装置の省電力化技術開発",
+      "シリコンフォトニクス技術の応用拡大"
     ]
   },
-  "source_count": 52
+  "source_count": 46
 }

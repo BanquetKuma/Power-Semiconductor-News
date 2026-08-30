@@ -1,48 +1,49 @@
 {
-  "generated_at": "2026-08-30T07:59:16.963105+09:00",
+  "generated_at": "2026-08-31T08:08:53.096336+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)",
-    "summary": "アルバータ大学の研究者は、マクロ配置がチップのポストルートPPAに影響することを発見。HPWLとの相関が低いことを示唆する論文を発表。",
+    "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
+    "summary": "オックスフォード大学がLLM推論向けに、大容量・低コストなHBFメモリをHBMと組み合わせる新アーキテクチャを発表。容量問題を解決。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/predicting-post-route-ppa-from-macro-and-standard-cell-placements-u-of-alberta"
+        "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford"
       }
     ]
   },
   "sections": {
-    "business": [
-      {
-        "title": "This American Battery Could Break China’s Grip On The EV Supply Chain",
-        "blurb": "中国依存脱却へ、米国企業がグラファイト不使用の次世代EVバッテリー開発を発表。EVサプライチェーンの変革に期待。",
-        "category": "business",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806443/graphite-free-lithium-metal-battery-ev"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": "geopolitics"
-        }
-      }
-    ],
+    "business": [],
     "tools": [
       {
-        "title": "Rowhammer Backdoor Injection Attack During Inference (Northeastern)",
-        "blurb": "Northeastern大の研究者が、推論中にバックドアを注入するRowhammer攻撃「ROBBIN」を発表。DRAMの脆弱性を利用し、デバイス固有のビット反転パターンを悪用する。",
+        "title": "Cycle-Level Simulator for Distributed GPUs For AI Workloads (Purdue)",
+        "blurb": "Purdue大の研究者がAI向け分散GPUのサイクルレベルシミュレータを発表。Ampere, Hopper, Blackwell世代に対応し、H100 GPUで99%の相関を確認。",
         "category": "tools",
-        "date": "2026-08-29",
+        "date": "2026-08-30",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rowhammer-backdoor-injection-attack-during-inference-northeastern"
+          "url": "https://semiengineering.com/cycle-level-simulator-for-distributed-gpus-for-ai-workloads-purdue"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
+        "blurb": "オックスフォード大学がLLM推論向けに、大容量・低コストなHBFメモリをHBMと組み合わせる新アーキテクチャを発表。容量問題を解決。",
+        "category": "company",
+        "date": "2026-08-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford"
         },
         "field": {
           "primary": "memory",
@@ -53,27 +54,81 @@
         }
       },
       {
-        "title": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
-        "blurb": "UCLAが2.5D/3D積層技術の研究向け、オープンソースのベンチマークスイートを公開。チップレットモデルも提供。",
-        "category": "tools",
-        "date": "2026-08-29",
+        "title": "M3D 6T SRAM With BEOL Pass-Gates at 2nm (Georgia Tech, Synopsys)",
+        "blurb": "Georgia TechとSynopsysが2nmノード向けM3D 6T SRAMを発表。BEOLパスゲートとシリコンナノシートラッチを統合。",
+        "category": "company",
+        "date": "2026-08-30",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/open-source-benchmark-suite-for-2-5d-3d-heterogeneous-integration-research-in-physical-design-ucla"
+          "url": "https://semiengineering.com/m3d-6t-sram-with-beol-pass-gates-at-2nm-georgia-tech-synopsys"
         },
         "field": {
-          "primary": "backend",
+          "primary": "memory",
+          "device": "memory",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Intrinsic Polarization Superjunctions Boost GaN-On-Silicon Power Devices (EPFL)",
+        "blurb": "EPFLの研究者らが、窒化ガリウムパワーデバイスの性能を向上させる新技術を発表。シリコン基板上での集積化を促進。",
+        "category": "company",
+        "date": "2026-08-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/intrinsic-polarization-superjunctions-boost-gan-on-silicon-power-devices-epfl"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Molecular Dynamics Study Explains Aluminum Dopant Activation In 4H-SiC (TU Wien, Silvaco)",
+        "blurb": "TU WienとSilvacoが、4H-SiC中のアルミニウムドーパント活性化メカニズムを分子動力学で解明した。",
+        "category": "company",
+        "date": "2026-08-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/molecular-dynamics-study-explains-aluminum-dopant-activation-in-4h-sic-tu-wien-silvaco"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Programmable Silicon Photonics Filter Enables Continuous Laser Wavelength Tuning (UiT, Stanford)",
+        "blurb": "ノルウェーとスタンフォード大の研究者が、レーザー波長を連続調整できるシリコンフォトニクスフィルターを開発しました。",
+        "category": "company",
+        "date": "2026-08-30",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/programmable-silicon-photonics-filter-enables-continuous-laser-wavelength-tuning-uit-stanford"
+        },
+        "field": {
+          "primary": "general",
           "device": null,
-          "process": "backend",
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
         "title": "Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)",
-        "blurb": "アルバータ大学の研究者は、マクロ配置がチップのポストルートPPAに影響することを発見。HPWLとの相関が低いことを示唆する論文を発表。",
-        "category": "tools",
+        "blurb": "アルバータ大学の研究者は、マクロ配置がチップのポストルートPPAに影響することを発見。HPWLとの相関は低いと報告。",
+        "category": "company",
         "date": "2026-08-30",
         "stars": 3,
         "source": {
@@ -87,150 +142,28 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "company": [
-      {
-        "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
-        "blurb": "ジョージア工科大学の研究者が、大規模言語モデル（LLM）学習における光インターコネクトの遅延を、強誘電体チューニングで2.7倍高速化する技術を発表しました。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech"
-        },
-        "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
       },
       {
-        "title": "Generative Design Optimizes Liquid-Cooling Channels For 2.5D And 3D Packages (UM-Dearborn)",
-        "blurb": "ミシガン大学ディアボーン校の研究者が、2.5D/3Dパッケージ向け液冷チャネルの生成デザインによる最適化手法を発表しました。",
+        "title": "Lucid’s ‘fire risk’ recall was for LED lights & already fixed by a July software update",
+        "blurb": "高級EVメーカー、ルーシッドがLEDライトの過熱リスクで27,000台をリコール。7月のソフトウェア更新で既に問題は解消済み。",
         "category": "company",
-        "date": "2026-08-29",
+        "date": "2026-08-31",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/generative-design-optimizes-liquid-cooling-channels-for-2-5d-and-3d-packages-um-dearborn"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peking U., CAS et al.)",
-        "blurb": "北京大学などの研究チームが、サファイア表面改質により、ウェハー規模での2次元半導体の単結晶成長を可能にする技術を発表。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/sapphire-surface-modification-enables-wafer-scale-2d-semiconductor-growth-peking-u-cas-et-al"
-        },
-        "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Deep Learning Automates Parameter Extraction For 2D Transistors (Stanford, SLAC)",
-        "blurb": "スタンフォード大とSLACが2次元トランジスタの電気的特性から移動度などを自動抽出する深層学習技術を発表。半導体開発の効率化に期待。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/deep-learning-automates-parameter-extraction-for-2d-transistors-stanford-slac"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Embedded Systems Runtime Observability, Sensor Fusion for Drones, Embedded Design for Mil/Aero: Embedded Week Insights",
-        "blurb": "組み込みシステムにおけるランタイム可観測性、ドローン向けセンサーフュージョン、軍事・航空宇宙向け設計に関する最新動向をまとめた記事。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/embedded-systems-runtime-observability-sensor-fusion-for-drones-embedded-design-for-mil-aero-embedded-week-insights"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "VW Turned The ID. Buzz Into An Electric Camper Van. The U.S. Is Next.",
-        "blurb": "VWがレトロなID. Buzzをベースにした電動キャンピングカー「ID. California Cruise」を発表。米国展開も予定。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806460/volkswagen-id-buzz-ev-van-camper"
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/08/30/lucids-fire-risk-recall-was-for-led-lights-already-fixed-by-a-july-software-update"
         },
         "field": null
       },
       {
-        "title": "BYD Is Building Its Ultra-Fast Flash Charging Network At A Ferocious Pace",
-        "blurb": "BYDは急速充電ネットワークを急速に拡大しており、既に1万カ所を達成。利用者の3分の1はBYD車以外を運転している。",
+        "title": "Survey Sunday: will the Ford Fathom steal Slate Auto’s thunder?",
+        "blurb": "フォードの新型EVトラック「Fathom」が、Slate Autoの計画に影響を与えるか、読者調査の結果を発表。",
         "category": "company",
-        "date": "2026-08-29",
+        "date": "2026-08-31",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806454/byd-10000-ev-flash-chargers"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Tesla's Cybercab Launch Is Next Week. Here's What Tesla Still Needs To Prove",
-        "blurb": "テスラは来週サイバーキャブの発表イベントを開催。しかし、3万ドルでの購入が可能になるかは疑問視されている。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806444/tesla-cybercab-launch-event-preview"
-        },
-        "field": null
-      },
-      {
-        "title": "Lucid Recalls 27,185 Air Sedans Over Fire Risk, Tells Owners To Park Outside",
-        "blurb": "EVメーカーのLucidは、火災リスクのため27,185台のAirセダンをリコール。OTAアップデートで対応予定。",
-        "category": "company",
-        "date": "2026-08-29",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806421/lucid-fire-risk-recall-27k"
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/08/30/survey-sunday-will-the-ford-fathom-steal-slate-autos-thunder"
         },
         "field": null
       }
