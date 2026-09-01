@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-31T08:08:53.097852+09:00",
+  "generated_at": "2026-09-01T09:22:39.769073+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Cycle-Level Simulator for Distributed GPUs For AI Workloads (Purdue)",
-    "summary": "Purdue大の研究者がAI向け分散GPUのサイクルレベルシミュレータを発表。Ampere, Hopper, Blackwell世代に対応し、H100 GPUで99%の相関を確認。",
+    "title": "Building an Upgrade Path for Safety-Critical Aerospace Computing",
+    "summary": "航空宇宙分野では、長寿命のシステムに対し、短命なプロセッサの交換が課題。周辺ハード・ソフト変更を伴うため、アップグレードパス構築が重要。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/cycle-level-simulator-for-distributed-gpus-for-ai-workloads-purdue"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/building-an-upgrade-path-for-safety-critical-aerospace-computing"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "Cycle-Level Simulator for Distributed GPUs For AI Workloads (Purdue)",
-        "blurb": "Purdue大の研究者がAI向け分散GPUのサイクルレベルシミュレータを発表。Ampere, Hopper, Blackwell世代に対応し、H100 GPUで99%の相関を確認。",
-        "category": "tools",
-        "date": "2026-08-30",
+        "title": "Building an Upgrade Path for Safety-Critical Aerospace Computing",
+        "blurb": "航空宇宙分野では、長寿命のシステムに対し、短命なプロセッサの交換が課題。周辺ハード・ソフト変更を伴うため、アップグレードパス構築が重要。",
+        "category": "business",
+        "date": "2026-09-01",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cycle-level-simulator-for-distributed-gpus-for-ai-workloads-purdue"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/building-an-upgrade-path-for-safety-critical-aerospace-computing"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

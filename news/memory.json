@@ -1,53 +1,35 @@
 {
-  "generated_at": "2026-08-31T08:08:53.097531+09:00",
+  "generated_at": "2026-09-01T09:22:39.768815+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
-    "summary": "オックスフォード大学がLLM推論向けに、大容量・低コストなHBFメモリをHBMと組み合わせる新アーキテクチャを発表。容量問題を解決。",
+    "title": "Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST)",
+    "summary": "HuaweiらがLLM推論のメモリ容量制約を解消する新技術を発表。フラッシュメモリ活用でスケーラブルな推論を高速化。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford"
+        "url": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
-        "blurb": "オックスフォード大学がLLM推論向けに、大容量・低コストなHBFメモリをHBMと組み合わせる新アーキテクチャを発表。容量問題を解決。",
+        "title": "Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST)",
+        "blurb": "HuaweiらがLLM推論のメモリ容量制約を解消する新技術を発表。フラッシュメモリ活用でスケーラブルな推論を高速化。",
         "category": "company",
-        "date": "2026-08-30",
+        "date": "2026-09-01",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford"
+          "url": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "M3D 6T SRAM With BEOL Pass-Gates at 2nm (Georgia Tech, Synopsys)",
-        "blurb": "Georgia TechとSynopsysが2nmノード向けM3D 6T SRAMを発表。BEOLパスゲートとシリコンナノシートラッチを統合。",
-        "category": "company",
-        "date": "2026-08-30",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/m3d-6t-sram-with-beol-pass-gates-at-2nm-georgia-tech-synopsys"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "miniaturization",
           "market": null,
           "industry": null
         }

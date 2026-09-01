@@ -1,49 +1,79 @@
 {
-  "generated_at": "2026-08-31T08:08:53.096336+09:00",
+  "generated_at": "2026-09-01T09:22:39.767944+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
-    "summary": "オックスフォード大学がLLM推論向けに、大容量・低コストなHBFメモリをHBMと組み合わせる新アーキテクチャを発表。容量問題を解決。",
+    "title": "Vishay Adds IFBT Flyback Series to Power Transformer Portfolio",
+    "summary": "VishayがPoE、DC/DC、産業用電源向けの新IFBTフライバックトランスシリーズを発表。柔軟な電圧・電流構成に対応。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/vishay-adds-ifbt-flyback-series-to-power-transformer-portfolio"
       }
     ]
   },
   "sections": {
-    "business": [],
-    "tools": [
+    "business": [
       {
-        "title": "Cycle-Level Simulator for Distributed GPUs For AI Workloads (Purdue)",
-        "blurb": "Purdue大の研究者がAI向け分散GPUのサイクルレベルシミュレータを発表。Ampere, Hopper, Blackwell世代に対応し、H100 GPUで99%の相関を確認。",
-        "category": "tools",
-        "date": "2026-08-30",
+        "title": "Vishay Adds IFBT Flyback Series to Power Transformer Portfolio",
+        "blurb": "VishayがPoE、DC/DC、産業用電源向けの新IFBTフライバックトランスシリーズを発表。柔軟な電圧・電流構成に対応。",
+        "category": "business",
+        "date": "2026-09-01",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/cycle-level-simulator-for-distributed-gpus-for-ai-workloads-purdue"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/vishay-adds-ifbt-flyback-series-to-power-transformer-portfolio"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Building an Upgrade Path for Safety-Critical Aerospace Computing",
+        "blurb": "航空宇宙分野では、長寿命のシステムに対し、短命なプロセッサの交換が課題。周辺ハード・ソフト変更を伴うため、アップグレードパス構築が重要。",
+        "category": "business",
+        "date": "2026-09-01",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/building-an-upgrade-path-for-safety-critical-aerospace-computing"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
+      },
+      {
+        "title": "Nissan's 'Home Run' Hybrid SUV Arrives In November To Rival Toyota RAV4, Honda CR-V",
+        "blurb": "日産が新型ハイブリッドSUV「ローグ e-POWER」を11月に発売。トヨタRAV4やホンダCR-Vと競合し、ハイブリッド市場での巻き返しを狙う。",
+        "category": "business",
+        "date": "2026-09-01",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806636/nissan-rogue-epower-hybrid-suv-launch-america"
+        },
+        "field": null
       }
     ],
+    "tools": [],
     "company": [
       {
-        "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
-        "blurb": "オックスフォード大学がLLM推論向けに、大容量・低コストなHBFメモリをHBMと組み合わせる新アーキテクチャを発表。容量問題を解決。",
+        "title": "Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST)",
+        "blurb": "HuaweiらがLLM推論のメモリ容量制約を解消する新技術を発表。フラッシュメモリ活用でスケーラブルな推論を高速化。",
         "category": "company",
-        "date": "2026-08-30",
+        "date": "2026-09-01",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford"
+          "url": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust"
         },
         "field": {
           "primary": "memory",
@@ -54,118 +84,76 @@
         }
       },
       {
-        "title": "M3D 6T SRAM With BEOL Pass-Gates at 2nm (Georgia Tech, Synopsys)",
-        "blurb": "Georgia TechとSynopsysが2nmノード向けM3D 6T SRAMを発表。BEOLパスゲートとシリコンナノシートラッチを統合。",
+        "title": "SensiBel Launches 84-dBA SNR Optical MEMS Microphone",
+        "blurb": "SensiBelが、業界初の84dBA SNRと146dB SPL AOPを両立した光学MEMSマイク「SBM140B」を発表。高音質オーディオキャプチャを実現。",
         "category": "company",
-        "date": "2026-08-30",
+        "date": "2026-09-01",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/m3d-6t-sram-with-beol-pass-gates-at-2nm-georgia-tech-synopsys"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Intrinsic Polarization Superjunctions Boost GaN-On-Silicon Power Devices (EPFL)",
-        "blurb": "EPFLの研究者らが、窒化ガリウムパワーデバイスの性能を向上させる新技術を発表。シリコン基板上での集積化を促進。",
-        "category": "company",
-        "date": "2026-08-30",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/intrinsic-polarization-superjunctions-boost-gan-on-silicon-power-devices-epfl"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Molecular Dynamics Study Explains Aluminum Dopant Activation In 4H-SiC (TU Wien, Silvaco)",
-        "blurb": "TU WienとSilvacoが、4H-SiC中のアルミニウムドーパント活性化メカニズムを分子動力学で解明した。",
-        "category": "company",
-        "date": "2026-08-30",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/molecular-dynamics-study-explains-aluminum-dopant-activation-in-4h-sic-tu-wien-silvaco"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Programmable Silicon Photonics Filter Enables Continuous Laser Wavelength Tuning (UiT, Stanford)",
-        "blurb": "ノルウェーとスタンフォード大の研究者が、レーザー波長を連続調整できるシリコンフォトニクスフィルターを開発しました。",
-        "category": "company",
-        "date": "2026-08-30",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/programmable-silicon-photonics-filter-enables-continuous-laser-wavelength-tuning-uit-stanford"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)",
-        "blurb": "アルバータ大学の研究者は、マクロ配置がチップのポストルートPPAに影響することを発見。HPWLとの相関は低いと報告。",
-        "category": "company",
-        "date": "2026-08-30",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/predicting-post-route-ppa-from-macro-and-standard-cell-placements-u-of-alberta"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Lucid’s ‘fire risk’ recall was for LED lights & already fixed by a July software update",
-        "blurb": "高級EVメーカー、ルーシッドがLEDライトの過熱リスクで27,000台をリコール。7月のソフトウェア更新で既に問題は解消済み。",
-        "category": "company",
-        "date": "2026-08-31",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/08/30/lucids-fire-risk-recall-was-for-led-lights-already-fixed-by-a-july-software-update"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/sensibel-launches-84-dba-snr-optical-mems-microphone"
         },
         "field": null
       },
       {
-        "title": "Survey Sunday: will the Ford Fathom steal Slate Auto’s thunder?",
-        "blurb": "フォードの新型EVトラック「Fathom」が、Slate Autoの計画に影響を与えるか、読者調査の結果を発表。",
+        "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up",
+        "blurb": "テスラModel Y、10万マイル走行後もバッテリー劣化は軽微。急速充電回避は必須ではない可能性。",
         "category": "company",
-        "date": "2026-08-31",
+        "date": "2026-09-01",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806653/high-mileage-tesla-fast-charging"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Honda And Nissan Team Up To Make The Brains Of Future Cars",
+        "blurb": "ホンダと日産は、2029年以降のEV向けに共通のECU（車載コンピューター）を共同開発する。",
+        "category": "company",
+        "date": "2026-09-01",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806639/honda-nissan-ecu-partnership"
+        },
+        "field": null
+      },
+      {
+        "title": "Here's Our Best Look Yet At The Volkswagen ID.4 Successor",
+        "blurb": "VWの新型EV SUVは、より角張ったデザイン、通常のドアハンドル、改良された足回り、そして馴染みのある新名称で登場。",
+        "category": "company",
+        "date": "2026-09-01",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806623/vw-id4-makeover-id-tiguan"
+        },
+        "field": null
+      },
+      {
+        "title": "San Francisco residents can now choose where EV curbside chargers go",
+        "blurb": "サンフランシスコでEV充電器設置場所を住民が選択できる制度が開始。企業は地域全体に公共充電器を設置可能に。",
+        "category": "company",
+        "date": "2026-09-01",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/08/30/survey-sunday-will-the-ford-fathom-steal-slate-autos-thunder"
+          "url": "https://electrek.co/2026/08/31/san-francisco-residents-can-now-choose-where-ev-curbside-chargers-go"
         },
-        "field": null
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "sns": []

@@ -1,30 +1,32 @@
 {
-  "generated_at": "2026-08-28T14:06:04.748921+09:00",
+  "generated_at": "2026-09-01T09:22:39.769734+09:00",
   "field": "industrial",
   "field_label": "産業機器",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Engineering Embedded Systems for Aerospace and Defense",
-    "summary": "航空宇宙・防衛分野の組み込みシステムは、過酷な環境に耐える特殊なハードウェアで構築される。衛星や戦闘車両などに搭載。",
+    "title": "Vishay Adds IFBT Flyback Series to Power Transformer Portfolio",
+    "summary": "VishayがPoE、DC/DC、産業用電源向けの新IFBTフライバックトランスシリーズを発表。柔軟な電圧・電流構成に対応。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/engineering-embedded-systems-for-aerospace-and-defense"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/vishay-adds-ifbt-flyback-series-to-power-transformer-portfolio"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Engineering Embedded Systems for Aerospace and Defense",
-        "blurb": "航空宇宙・防衛分野の組み込みシステムは、過酷な環境に耐える特殊なハードウェアで構築される。衛星や戦闘車両などに搭載。",
-        "category": "company",
-        "date": "2026-08-28",
+        "title": "Vishay Adds IFBT Flyback Series to Power Transformer Portfolio",
+        "blurb": "VishayがPoE、DC/DC、産業用電源向けの新IFBTフライバックトランスシリーズを発表。柔軟な電圧・電流構成に対応。",
+        "category": "business",
+        "date": "2026-09-01",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/engineering-embedded-systems-for-aerospace-and-defense"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/vishay-adds-ifbt-flyback-series-to-power-transformer-portfolio"
         },
         "field": {
           "primary": "industrial",
@@ -33,27 +35,7 @@
           "market": "industrial",
           "industry": null
         }
-      },
-      {
-        "title": "AAEON PICO-ADN2 SBC Packs Intel N97 and Core i3-N305 in Pico-ITX",
-        "blurb": "AAEONがIntel N97/Core i3搭載のPico-ITX SBC「PICO-ADN2」を発表。小型ながら多機能で産業用途にも対応。",
-        "category": "company",
-        "date": "2026-08-28",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/aaeon-pico-adn2-sbc-packs-intel-n97-and-core-i3-n305-in-pico-itx"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": "idm"
-        }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

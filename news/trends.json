@@ -1,171 +1,168 @@
 {
-  "generated_at": "2026-08-31T08:08:57.482281+09:00",
-  "date": "2026-08-31",
+  "generated_at": "2026-09-01T09:22:43.613784+09:00",
+  "date": "2026-09-01",
   "meta_trends": [
     {
-      "name": "AIデータセンターの電力需要増大",
+      "name": "AI・データセンター向け電力ソリューション強化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
+        "ai",
         "datacenter",
-        "ai"
+        "logic"
       ],
-      "summary": "AIの進化に伴い、データセンターの電力消費が急増。高効率な電源技術や800Vバスなどのインフラが求められている。",
+      "summary": "AIの電力消費増大に対応するため、広帯域ギャップ材料（SiC/GaN）の活用、垂直給電技術、高効率電源管理ICへの投資・買収が活発化。",
       "analysis": {
-        "short_term": "高効率電源ソリューションへの需要が加速。",
-        "mid_term": "データセンターの電力インフラ投資が活発化。",
-        "investment_implications": "電源技術、GaN/SiCデバイス関連企業に注目。"
+        "short_term": "AIチップの性能向上に伴い、電力効率への要求がさらに高まる。",
+        "mid_term": "データセンターの省電力化が競争優位性の鍵となる。",
+        "investment_implications": "高効率電源関連技術を持つ企業に注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
-        "電力効率",
-        "800Vバス",
+        "SiC",
         "GaN",
-        "SiC"
+        "電源管理"
       ],
       "companies_mentioned": [
         "Infineon",
-        "Navitas",
-        "Aratas"
+        "C2i",
+        "Vishay",
+        "GlobalFoundries"
       ]
     },
     {
-      "name": "車載半導体の需要拡大と技術進化",
+      "name": "広帯域ギャップ（WBG）材料の普及加速",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "automotive",
         "power",
-        "analog",
-        "memory"
+        "automotive",
+        "industrial"
       ],
-      "summary": "EV化と自動運転技術の進展により、車載用半導体の需要が拡大。特にパワー半導体、センサー、メモリの重要性が増している。",
+      "summary": "SiCおよびGaNデバイスは、高効率・高耐圧・高温動作といった特性から、EV、産業用電源、データセンターなど幅広い分野で採用が拡大。",
       "analysis": {
-        "short_term": "EV向けバッテリー関連部品の生産能力増強が続く。",
-        "mid_term": "先進運転支援システム（ADAS）向け半導体需要が本格化。",
-        "investment_implications": "車載用パワー半導体、センサーメーカーに投資機会。"
+        "short_term": "SiC/GaNパワーデバイスの製造技術・コスト競争力が向上。",
+        "mid_term": "従来のシリコンデバイスからの置き換えが進む。",
+        "investment_implications": "WBG材料メーカー、デバイスメーカーに成長期待。"
       },
       "keywords": [
-        "EV",
-        "自動運転",
-        "車載半導体",
-        "パワー半導体",
-        "センサー"
+        "SiC",
+        "GaN",
+        "パワーエレクトロニクス",
+        "EV"
       ],
       "companies_mentioned": [
-        "旭化成",
-        "ソニー"
+        "Vishay",
+        "EPFL",
+        "TU Wien",
+        "Silvaco"
       ]
     },
     {
-      "name": "AIによる半導体設計の変革",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "frontend",
-        "backend",
-        "equipment"
-      ],
-      "summary": "AIが半導体設計プロセス（EDA）に深く関与し、設計効率と性能を向上させる。人間は監督・検証の役割を担う。",
-      "analysis": {
-        "short_term": "AIを活用した設計ツールの開発競争が激化。",
-        "mid_term": "AI設計による新世代チップの登場が加速。",
-        "investment_implications": "EDA企業、AI設計技術開発企業に注目。"
-      },
-      "keywords": [
-        "AI",
-        "EDA",
-        "半導体設計",
-        "自動化",
-        "次世代チップ"
-      ],
-      "companies_mentioned": [
-        "キーサイト",
-        "Purdue",
-        "UCLA"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術の競争激化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "foundry",
-        "memory",
-        "ai"
-      ],
-      "summary": "AIチップの性能向上のため、チップレット技術や2.5D/3D積層パッケージングが重要視されている。TSMCとIntelが競争。",
-      "analysis": {
-        "short_term": "HBM実装におけるボトルネック解消が急務。",
-        "mid_term": "異種集積技術の標準化と普及が進む。",
-        "investment_implications": "パッケージング技術を持つファウンドリ、材料メーカーに期待。"
-      },
-      "keywords": [
-        "パッケージング",
-        "チップレット",
-        "2.5D",
-        "3D積層",
-        "HBM",
-        "CoWoS",
-        "EMIB"
-      ],
-      "companies_mentioned": [
-        "TSMC",
-        "Intel",
-        "UCLA"
-      ]
-    },
-    {
-      "name": "次世代メモリ技術の進化と需要",
-      "confidence": 0.75,
+      "name": "AI・LLM向けメモリ・ストレージ技術革新",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
         "datacenter"
       ],
-      "summary": "AI、特にLLMの普及により、大容量・高性能メモリへの需要が増加。HBMや新しいアーキテクチャが注目されている。",
+      "summary": "AI、特にLLMの推論処理におけるメモリ容量と帯域幅のボトルネック解消に向け、HBM-HBFハイブリッドアーキテクチャやフラッシュメモリ活用技術が登場。",
       "analysis": {
-        "short_term": "HBMの供給制約がAI開発のボトルネックに。",
-        "mid_term": "新メモリアーキテクチャ（HBM-HBF等）の実用化が進む。",
-        "investment_implications": "メモリメーカー、HBM関連技術企業に投資機会。"
+        "short_term": "大容量・低遅延メモリへの需要がさらに高まる。",
+        "mid_term": "AIモデルの巨大化に対応するメモリソリューションが鍵。",
+        "investment_implications": "次世代メモリ技術開発企業に注目。"
       },
       "keywords": [
-        "メモリ",
         "AI",
         "LLM",
+        "メモリ",
         "HBM",
-        "HBF",
-        "DRAM"
+        "HBF"
       ],
       "companies_mentioned": [
-        "キオクシア",
-        "Sandisk",
+        "Huawei",
+        "ETH Zurich",
+        "HUST",
         "University of Oxford",
-        "YMTC"
+        "キオクシア",
+        "Sandisk"
+      ]
+    },
+    {
+      "name": "チップレット・フォトニクス統合の進化",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "backend",
+        "frontend",
+        "datacenter"
+      ],
+      "summary": "フォトニクス技術のチップレットへの統合は、単なる帯域幅向上だけでなく、熱管理や協調設計といった課題解決へとシフトし、新たな設計パラダイムを形成。",
+      "analysis": {
+        "short_term": "フォトニクス統合における技術的課題の克服が急務。",
+        "mid_term": "高性能コンピューティングにおけるチップレットの重要性が増す。",
+        "investment_implications": "先進パッケージング・フォトニクス技術企業に期待。"
+      },
+      "keywords": [
+        "チップレット",
+        "フォトニクス",
+        "先進パッケージング",
+        "AI"
+      ],
+      "companies_mentioned": [
+        "UiT",
+        "Stanford",
+        "TSMC",
+        "Intel"
+      ]
+    },
+    {
+      "name": "AIによる半導体設計・検証の変革",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "ai",
+        "equipment",
+        "frontend",
+        "backend"
+      ],
+      "summary": "AIが半導体設計（EDA）プロセスに深く関与し、設計者の信頼性低下と検証の重要性増大を招く。AIを活用した設計・検証ツールの開発が進む。",
+      "analysis": {
+        "short_term": "AIによる設計自動化の進展と、それに伴う検証工数の増加。",
+        "mid_term": "AIが設計者の役割を補完・変革する可能性。",
+        "investment_implications": "次世代EDAツール開発企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "EDA",
+        "設計",
+        "検証",
+        "自動化"
+      ],
+      "companies_mentioned": [
+        "キーサイト",
+        "U. of Alberta"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連半導体（特にGPU、電源、メモリ）の需要拡大",
-      "データセンター投資の活発化",
-      "車載半導体市場の成長継続",
-      "先端パッケージング技術への投資増加"
+      "AI・データセンター向け投資の活発化",
+      "EV・産業用電源におけるWBG材料の需要拡大",
+      "次世代メモリ技術への巨額投資（キオクシア・Sandisk）"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "メモリ価格の変動リスク"
+      "TSMCのCoWoSにおけるHBM実装のボトルネック懸念"
     ],
     "neutral": [
-      "EUV露光装置の省電力化技術開発",
-      "シリコンフォトニクス技術の応用拡大"
+      "半導体製造装置用セラミックスの需要増",
+      "航空宇宙分野におけるアップグレードパス構築の重要性増大"
     ]
   },
-  "source_count": 46
+  "source_count": 47
 }
