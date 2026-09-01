@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-08-31T08:08:53.098562+09:00",
+  "generated_at": "2026-09-02T07:59:59.801810+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Programmable Silicon Photonics Filter Enables Continuous Laser Wavelength Tuning (UiT, Stanford)",
-    "summary": "ノルウェーとスタンフォード大の研究者が、レーザー波長を連続調整できるシリコンフォトニクスフィルターを開発しました。",
+    "title": "Navitas ‘Breaking the Power Wall’ with IVR & VPD Claros Planned Acquisition",
+    "summary": "NavitasがClarosを買収へ。IVR・VPD技術で「パワーウォール」打破を目指す。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/programmable-silicon-photonics-filter-enables-continuous-laser-wavelength-tuning-uit-stanford"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/navitas-breaking-the-power-wall-with-ivr-vpd-claros-planned-acquisition"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Programmable Silicon Photonics Filter Enables Continuous Laser Wavelength Tuning (UiT, Stanford)",
-        "blurb": "ノルウェーとスタンフォード大の研究者が、レーザー波長を連続調整できるシリコンフォトニクスフィルターを開発しました。",
+        "title": "The imec Report: Advancing The CFET-Based Device Roadmap",
+        "blurb": "imecがCFETベースのデバイスロードマップを推進。新しい集積モジュールと標準セル構成を発表。",
         "category": "company",
-        "date": "2026-08-30",
+        "date": "2026-09-01",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/programmable-silicon-photonics-filter-enables-continuous-laser-wavelength-tuning-uit-stanford"
+          "url": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations"
         },
         "field": {
           "primary": "general",
@@ -35,14 +35,32 @@
         }
       },
       {
-        "title": "Predicting Post-Route PPA from Macro and Standard-Cell Placements (U. of Alberta)",
-        "blurb": "アルバータ大学の研究者は、マクロ配置がチップのポストルートPPAに影響することを発見。HPWLとの相関は低いと報告。",
+        "title": "半導体配線界面の化学構造変化を直接可視化、TRCら",
+        "blurb": "TRCと芝浦工業大は、AFM-IRで半導体配線界面の化学構造変化をナノメートル単位で可視化することに成功した。",
         "category": "company",
-        "date": "2026-08-30",
+        "date": "2026-09-01",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/predicting-post-route-ppa-from-macro-and-standard-cell-placements-u-of-alberta"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/01/news026.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Achronix Adds JESD204C IP Core for Speedster7t FPGAs",
+        "blurb": "AchronixがSpeedster7t FPGA向けに高速JESD204C IPコアを発表。ADC/DAC接続を高速化。",
+        "category": "company",
+        "date": "2026-09-01",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/achronix-adds-jesd204c-ip-core-for-speedster7t-fpgas"
         },
         "field": {
           "primary": "general",
@@ -54,6 +72,43 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Navitas ‘Breaking the Power Wall’ with IVR & VPD Claros Planned Acquisition",
+        "blurb": "NavitasがClarosを買収へ。IVR・VPD技術で「パワーウォール」打破を目指す。",
+        "category": "business",
+        "date": "2026-09-01",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/navitas-breaking-the-power-wall-with-ivr-vpd-claros-planned-acquisition"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Research Bits: Sept. 1",
+        "blurb": "窒化ガリウム（GaN）は高電圧・低抵抗で、ダイヤモンドインターポーザーとの組み合わせで高性能化が期待される。",
+        "category": "business",
+        "date": "2026-09-01",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/research-bits-sep-1"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }
