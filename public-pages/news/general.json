@@ -1,66 +1,31 @@
 {
-  "generated_at": "2026-09-02T07:59:59.801810+09:00",
+  "generated_at": "2026-09-03T07:58:17.149326+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Navitas ‘Breaking the Power Wall’ with IVR & VPD Claros Planned Acquisition",
-    "summary": "NavitasがClarosを買収へ。IVR・VPD技術で「パワーウォール」打破を目指す。",
+    "title": "EBook – Accelerate Silicon Design for Physical AI (Part 1)",
+    "summary": "AIモデルから信頼性の高いシリコン、展開可能なシステムへの完全なパスを解説するEBook（パート1）。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/navitas-breaking-the-power-wall-with-ivr-vpd-claros-planned-acquisition"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/ebook-accelerate-silicon-design-for-physical-ai-part-1"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "The imec Report: Advancing The CFET-Based Device Roadmap",
-        "blurb": "imecがCFETベースのデバイスロードマップを推進。新しい集積モジュールと標準セル構成を発表。",
-        "category": "company",
-        "date": "2026-09-01",
+        "title": "The Evolution Of Intelligent Systems: From Optimization To Automation to AI",
+        "blurb": "最適化、自動化、AIの3分野で、より統合的でインテリジェントなエンジニアリング手法へと進化しています。",
+        "category": "tools",
+        "date": "2026-09-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "半導体配線界面の化学構造変化を直接可視化、TRCら",
-        "blurb": "TRCと芝浦工業大は、AFM-IRで半導体配線界面の化学構造変化をナノメートル単位で可視化することに成功した。",
-        "category": "company",
-        "date": "2026-09-01",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/01/news026.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Achronix Adds JESD204C IP Core for Speedster7t FPGAs",
-        "blurb": "AchronixがSpeedster7t FPGA向けに高速JESD204C IPコアを発表。ADC/DAC接続を高速化。",
-        "category": "company",
-        "date": "2026-09-01",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/achronix-adds-jesd204c-ip-core-for-speedster7t-fpgas"
+          "url": "https://semiengineering.com/the-evolution-of-intelligent-systems-from-optimization-to-automation-to-ai"
         },
         "field": {
           "primary": "general",
@@ -71,17 +36,16 @@
         }
       }
     ],
-    "tech": [],
     "market": [
       {
-        "title": "Navitas ‘Breaking the Power Wall’ with IVR & VPD Claros Planned Acquisition",
-        "blurb": "NavitasがClarosを買収へ。IVR・VPD技術で「パワーウォール」打破を目指す。",
+        "title": "EBook – Accelerate Silicon Design for Physical AI (Part 1)",
+        "blurb": "AIモデルから信頼性の高いシリコン、展開可能なシステムへの完全なパスを解説するEBook（パート1）。",
         "category": "business",
-        "date": "2026-09-01",
+        "date": "2026-09-02",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-breaking-the-power-wall-with-ivr-vpd-claros-planned-acquisition"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ebook-accelerate-silicon-design-for-physical-ai-part-1"
         },
         "field": {
           "primary": "general",
@@ -92,14 +56,86 @@
         }
       },
       {
-        "title": "Research Bits: Sept. 1",
-        "blurb": "窒化ガリウム（GaN）は高電圧・低抵抗で、ダイヤモンドインターポーザーとの組み合わせで高性能化が期待される。",
+        "title": "Security In The Era Of Quantum Computing",
+        "blurb": "量子コンピューティング時代に向け、量子攻撃にも耐えうる堅牢な暗号化技術の確立が求められています。",
         "category": "business",
-        "date": "2026-09-01",
+        "date": "2026-09-02",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-sep-1"
+          "url": "https://semiengineering.com/security-in-the-era-of-quantum-computing"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Blog Review: Sept. 2",
+        "blurb": "半導体設計の変遷、3D-IC向けAI、インドの半導体強化、6Gロードマップについて解説。",
+        "category": "business",
+        "date": "2026-09-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-sept-2-3"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Security Sign-Off Is Coming For Chips — But Standards May Not Be Enough",
+        "blurb": "半導体セキュリティは、AI等の進化で攻撃対象が増加し、包括的な検証へと移行。標準化だけでは不十分な可能性。",
+        "category": "business",
+        "date": "2026-09-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/security-sign-off-is-coming-for-chips-but-standards-may-not-be-enough"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Extending 18A With Significant Power And Performance Gains",
+        "blurb": "18A技術が、低抵抗コンタクトで電力・性能を大幅向上。駆動電流増、高周波化が可能に。",
+        "category": "business",
+        "date": "2026-09-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/extending-18a-with-significant-power-and-performance-gains"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "GoogleとMarvellの提携に見る「AIアーキテクチャ」の変化",
+        "blurb": "GoogleとMarvellがカスタムシリコン契約。AIアーキテクチャの変化を示唆。",
+        "category": "business",
+        "date": "2026-09-02",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/02/news065.html"
         },
         "field": {
           "primary": "general",

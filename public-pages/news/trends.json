@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T08:00:03.651258+09:00",
-  "date": "2026-09-02",
+  "generated_at": "2026-09-03T07:58:21.086611+09:00",
+  "date": "2026-09-03",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ材料の進化と応用拡大",
+      "name": "GaN・SiCパワー半導体需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,152 +12,144 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "GaN、SiCなどの広帯域ギャップ材料が、高効率化・小型化ニーズに応え、データセンター、EV、産業機器など幅広い分野で採用を拡大。",
+      "summary": "GaN・SiCといったワイドバンドギャップ材料の採用がAIデータセンター、EV、産業機器で加速。高効率・小型化ニーズに対応。",
       "analysis": {
-        "short_term": "需要増と技術開発加速。供給制約も注視。",
-        "mid_term": "性能向上とコスト低減が進み、採用分野がさらに拡大。",
-        "investment_implications": "関連材料・デバイスメーカーに注目。"
+        "short_term": "量産体制強化と新製品投入が続く。",
+        "mid_term": "性能向上とコスト低減が進み、採用分野が拡大。",
+        "investment_implications": "関連企業への投資妙味が増す。"
       },
       "keywords": [
         "GaN",
         "SiC",
-        "パワーデバイス",
-        "高効率化"
+        "パワー半導体",
+        "AI",
+        "EV"
       ],
       "companies_mentioned": [
+        "EPC",
         "Navitas",
-        "Infineon",
-        "Vishay"
+        "GF",
+        "Infineon"
       ]
     },
     {
-      "name": "AIインフラ向け電力供給・管理の高度化",
+      "name": "AI・データセンター向けカスタムシリコン",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "power",
         "ai",
         "datacenter",
-        "logic"
-      ],
-      "summary": "AIデータセンターの電力消費増大に対応するため、高効率な電源管理ICや垂直給電技術の開発・導入が加速。",
-      "analysis": {
-        "short_term": "AIチップ性能向上に伴い、電力ソリューションの重要性が増す。",
-        "mid_term": "省電力化技術がAIインフラの競争力に直結。",
-        "investment_implications": "電源管理IC、データセンターインフラ関連に投資妙味。"
-      },
-      "keywords": [
-        "AI",
-        "データセンター",
-        "電源管理",
-        "垂直給電"
-      ],
-      "companies_mentioned": [
-        "Infineon",
-        "Navitas",
-        "C2i"
-      ]
-    },
-    {
-      "name": "AIによる半導体設計・検証の変革",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
         "logic",
-        "frontend",
-        "backend",
-        "equipment"
+        "fabless",
+        "foundry"
       ],
-      "summary": "AIが半導体設計（EDA）や検証プロセスに深く関与し、開発効率向上と複雑な設計課題の解決に貢献。",
+      "summary": "AI処理能力向上のため、GoogleやAMDなどがカスタムシリコン開発を加速。ファウンドリとの連携が重要性を増す。",
       "analysis": {
-        "short_term": "AI活用EDAツールの導入が進む。",
-        "mid_term": "設計者の役割が監督へとシフトし、開発サイクルが短縮。",
-        "investment_implications": "AI-EDA関連企業、設計自動化技術に注目。"
+        "short_term": "カスタムチップ開発競争が激化。",
+        "mid_term": "AIアーキテクチャの変化に対応した設計が主流に。",
+        "investment_implications": "カスタムシリコン関連ファウンドリ・設計企業に注目。"
       },
       "keywords": [
         "AI",
-        "EDA",
-        "設計自動化",
-        "検証"
+        "カスタムシリコン",
+        "データセンター",
+        "ファウンドリ"
       ],
       "companies_mentioned": [
-        "キーサイト",
+        "Google",
+        "Marvell",
         "AMD"
       ]
     },
     {
-      "name": "次世代メモリ・パッケージング技術の進化",
-      "confidence": 0.8,
+      "name": "半導体設計のAI活用・自動化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "memory",
-        "backend",
-        "ai",
-        "logic"
+        "logic",
+        "frontend",
+        "equipment",
+        "ai"
       ],
-      "summary": "LLM推論のメモリ容量・帯域幅問題を解決するため、HBM/HBF、チップレット、3D-ICなどの技術開発が活発化。",
+      "summary": "AIが半導体設計プロセスを支援・自動化する動きが加速。EDAツールの進化と設計者の役割変化が注目される。",
       "analysis": {
-        "short_term": "HBM実装技術の競争が激化。",
-        "mid_term": "高性能AIチップ向けパッケージング技術が重要性を増す。",
-        "investment_implications": "メモリ、パッケージング関連企業に機会。"
+        "short_term": "AIによる設計支援ツールが普及開始。",
+        "mid_term": "設計効率が大幅に向上し、開発期間が短縮。",
+        "investment_implications": "次世代EDA関連技術への投資が有望。"
       },
       "keywords": [
-        "HBM",
-        "LLM",
-        "チップレット",
-        "3D-IC"
+        "AI",
+        "EDA",
+        "半導体設計",
+        "自動化"
       ],
       "companies_mentioned": [
-        "キオクシア",
-        "Sandisk",
-        "TSMC",
-        "Intel"
+        "Keysight"
       ]
     },
     {
-      "name": "半導体製造プロセスの高度化と材料革新",
+      "name": "車載向け高度化とマルチチップ設計",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "power",
+        "logic",
+        "miniaturization"
+      ],
+      "summary": "ADAS・IVI等の車載システム高度化に伴い、信頼性・安全性を確保するためのマルチチップ設計が不可欠になっている。",
+      "analysis": {
+        "short_term": "車載向け高性能チップの需要が増加。",
+        "mid_term": "複雑なシステム統合と小型化が進展。",
+        "investment_implications": "車載半導体サプライヤーの成長が期待される。"
+      },
+      "keywords": [
+        "車載",
+        "ADAS",
+        "マルチチップ",
+        "信頼性"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "量子コンピューティング時代のセキュリティ",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "backend",
-        "equipment",
-        "wafer",
-        "miniaturization"
+        "geopolitics",
+        "logic",
+        "security"
       ],
-      "summary": "EUV光効率向上、配線界面の可視化、装置用セラミックスなど、微細化・高集積化を支える製造技術・材料開発が進展。",
+      "summary": "量子コンピューティングの台頭により、既存の暗号化技術が陳腐化するリスク。耐量子計算機暗号（PQC）への移行が急務。",
       "analysis": {
-        "short_term": "製造装置の性能向上が求められる。",
-        "mid_term": "新材料・新プロセスが歩留まり向上とコスト削減に寄与。",
-        "investment_implications": "製造装置、材料、プロセス技術関連企業に注目。"
+        "short_term": "PQC標準化と技術開発が進展。",
+        "mid_term": "セキュリティ対策の導入が本格化。",
+        "investment_implications": "サイバーセキュリティ関連技術への関心が高まる。"
       },
       "keywords": [
-        "EUV",
-        "製造装置",
-        "材料",
-        "微細化"
+        "量子コンピューティング",
+        "セキュリティ",
+        "暗号化",
+        "PQC"
       ],
-      "companies_mentioned": [
-        "理研",
-        "京セラ",
-        "TRC"
-      ]
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続的な拡大",
-      "広帯域ギャップ材料の需要増",
-      "先端パッケージング市場の成長"
+      "GaN・SiCパワー半導体の量産拡大と採用加速",
+      "AI・データセンター向けカスタムシリコン需要の増加",
+      "車載半導体市場の成長継続",
+      "AIによる半導体設計プロセスの効率化"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
+      "地政学リスクによるサプライチェーンの不確実性",
       "メモリ市場の価格変動リスク"
     ],
     "neutral": [
-      "半導体製造装置の需要は堅調だが、一部分野で調整も"
+      "エッジAIにおける誤検知・誤判断のリスク管理",
+      "量子コンピューティング時代に向けたセキュリティ対策の必要性"
     ]
   },
-  "source_count": 51
+  "source_count": 47
 }

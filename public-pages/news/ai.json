@@ -1,32 +1,88 @@
 {
-  "generated_at": "2026-09-02T07:59:59.800492+09:00",
+  "generated_at": "2026-09-03T07:58:17.147957+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "通信で磨いた「小型高容量」がAIサーバで武器に 京セラのMLCC戦略",
-    "summary": "京セラは通信分野で培った小型高容量MLCC技術をAIサーバ向けに強化。基板埋め込み型も展開し、2025～2031年に設備投資1000億円を計画。",
+    "stars": 4,
+    "title": "Robotics computer doubles edge AI performance",
+    "summary": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させ、エッジAIの性能を向上させた。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/01/news044.html"
+        "name": "edn.com",
+        "url": "https://www.edn.com/robotics-computer-doubles-edge-ai-performance"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "通信で磨いた「小型高容量」がAIサーバで武器に 京セラのMLCC戦略",
-        "blurb": "京セラは通信分野で培った小型高容量MLCC技術をAIサーバ向けに強化。基板埋め込み型も展開し、2025～2031年に設備投資1000億円を計画。",
-        "category": "business",
-        "date": "2026-09-01",
+        "title": "Robotics computer doubles edge AI performance",
+        "blurb": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させ、エッジAIの性能を向上させた。",
+        "category": "company",
+        "date": "2026-09-03",
+        "stars": 4,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/robotics-computer-doubles-edge-ai-performance"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "SMARC module bridges Arduino prototyping to production",
+        "blurb": "SECOが産業用エッジAI向けSMARCモジュールを発表。Arduinoでの試作から量産への移行を支援。",
+        "category": "company",
+        "date": "2026-09-03",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/01/news044.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/smarc-module-bridges-arduino-prototyping-to-production"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "When Edge AI Lies: Fault Injection and False State in Live Perception Pipelines",
+        "blurb": "エッジAIでは、システム停止より、誤った現実を受け入れ続ける方が危険。ライブ認識パイプラインの誤注入と偽状態について。",
+        "category": "tools",
+        "date": "2026-09-02",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/fault-injection-and-false-state-in-live-perception-pipelines"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Why a nine-month AI chip tape-out matters",
+        "blurb": "AI支援によるチップ設計で、並列処理と知能認識制御により高速化と収束性を実現。9ヶ月でのテープアウトが重要。",
+        "category": "business",
+        "date": "2026-09-02",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/why-a-nine-month-ai-chip-tape-out-matters"
         },
         "field": {
           "primary": "ai",

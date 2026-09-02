@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-09-02T07:59:59.801102+09:00",
+  "generated_at": "2026-09-03T07:58:17.148827+09:00",
   "field": "industrial",
   "field_label": "産業機器",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Vishay Adds IFBT Flyback Series to Power Transformer Portfolio",
-    "summary": "VishayがPoE、DC/DC、産業用電源向けの新IFBTフライバックトランスシリーズを発表。柔軟な電圧・電流構成に対応。",
+    "title": "KYOCERA AVX Launches Vibration-Proof Capacitors",
+    "summary": "京セラAVXが、振動の激しい産業用途向けに高CV性能、低ESR、長寿命を兼ね備えた耐振動コンデンサ「AEVA」「AEVB」を発表しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/vishay-adds-ifbt-flyback-series-to-power-transformer-portfolio"
+        "url": "https://www.powerelectronicsnews.com/kyocera-avx-launches-vibration-proof-capacitors"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Vishay Adds IFBT Flyback Series to Power Transformer Portfolio",
-        "blurb": "VishayがPoE、DC/DC、産業用電源向けの新IFBTフライバックトランスシリーズを発表。柔軟な電圧・電流構成に対応。",
-        "category": "business",
-        "date": "2026-09-01",
+        "title": "KYOCERA AVX Launches Vibration-Proof Capacitors",
+        "blurb": "京セラAVXが、振動の激しい産業用途向けに高CV性能、低ESR、長寿命を兼ね備えた耐振動コンデンサ「AEVA」「AEVB」を発表しました。",
+        "category": "company",
+        "date": "2026-09-02",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vishay-adds-ifbt-flyback-series-to-power-transformer-portfolio"
+          "url": "https://www.powerelectronicsnews.com/kyocera-avx-launches-vibration-proof-capacitors"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes",
+        "blurb": "NXPのMCX A5マイコンは、産業用エッジノードに10BASE-T1Sイーサネット、トポロジー発見、量子後セキュリティを統合し、産業ネットワークを拡張します。",
+        "category": "company",
+        "date": "2026-09-03",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nxp-mcx-a5-mcus-bring-10base-t1s-ethernet-to-industrial-edge-nodes"
         },
         "field": {
           "primary": "industrial",
@@ -36,6 +52,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

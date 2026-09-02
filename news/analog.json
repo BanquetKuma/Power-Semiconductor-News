@@ -1,36 +1,54 @@
 {
-  "generated_at": "2026-08-30T07:59:16.964885+09:00",
+  "generated_at": "2026-09-03T07:58:17.147523+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Embedded Systems Runtime Observability, Sensor Fusion for Drones, Embedded Design for Mil/Aero: Embedded Week Insights",
-    "summary": "組み込みシステムにおけるランタイム可観測性、ドローン向けセンサーフュージョン、軍事・航空宇宙向け設計に関する最新動向をまとめた記事。",
+    "title": "Resolver enables flexible motor sensor placement",
+    "summary": "メレキシスが5V電源対応の小型モーター向けピコリゾルバーMLX90381を発表。センサー配置の柔軟性が向上。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/embedded-systems-runtime-observability-sensor-fusion-for-drones-embedded-design-for-mil-aero-embedded-week-insights"
+        "name": "edn.com",
+        "url": "https://www.edn.com/resolver-enables-flexible-motor-sensor-placement"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Embedded Systems Runtime Observability, Sensor Fusion for Drones, Embedded Design for Mil/Aero: Embedded Week Insights",
-        "blurb": "組み込みシステムにおけるランタイム可観測性、ドローン向けセンサーフュージョン、軍事・航空宇宙向け設計に関する最新動向をまとめた記事。",
+        "title": "Resolver enables flexible motor sensor placement",
+        "blurb": "メレキシスが5V電源対応の小型モーター向けピコリゾルバーMLX90381を発表。センサー配置の柔軟性が向上。",
         "category": "company",
-        "date": "2026-08-29",
+        "date": "2026-09-03",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/embedded-systems-runtime-observability-sensor-fusion-for-drones-embedded-design-for-mil-aero-embedded-week-insights"
+          "name": "edn.com",
+          "url": "https://www.edn.com/resolver-enables-flexible-motor-sensor-placement"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "IC manages sensors without waking the MCU",
+        "blurb": "Nanopower社は、バッテリー制約のあるセンサーシステム向けに、MCUを起こさずにセンサーを管理・省電力化するIC「nPZ2100」を発表しました。",
+        "category": "company",
+        "date": "2026-09-03",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/ic-manages-sensors-without-waking-the-mcu"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       }

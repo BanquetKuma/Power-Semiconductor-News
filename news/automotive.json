@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-02T07:59:59.800828+09:00",
+  "generated_at": "2026-09-03T07:58:17.148414+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up",
-    "summary": "テスラ モデルY、10万マイル走行。急速充電を避けてもバッテリー劣化は避けられず。急速充電の有無はバッテリー寿命に大きな影響を与えない可能性。",
+    "title": "Multi-Die Design for Automotive Applications",
+    "summary": "車載向けADASやIVIでは、信頼性と安全性の要求からマルチチップ設計が不可欠になっている。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/news/806653/high-mileage-tesla-fast-charging"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/multi-die-design-for-automotive-applications"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up",
-        "blurb": "テスラ モデルY、10万マイル走行。急速充電を避けてもバッテリー劣化は避けられず。急速充電の有無はバッテリー寿命に大きな影響を与えない可能性。",
+        "title": "Multi-Die Design for Automotive Applications",
+        "blurb": "車載向けADASやIVIでは、信頼性と安全性の要求からマルチチップ設計が不可欠になっている。",
         "category": "company",
-        "date": "2026-09-01",
+        "date": "2026-09-02",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806653/high-mileage-tesla-fast-charging"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/multi-die-design-for-automotive-applications"
         },
         "field": {
           "primary": "automotive",
@@ -35,14 +35,32 @@
         }
       },
       {
-        "title": "Ford shares a closer look at the $30,000 Fathom EV pickup [Video]",
-        "blurb": "フォードは2027年初頭に3万ドル以下のEVピックアップトラック「ファゾム」を発売。最新映像で詳細を公開した。",
+        "title": "Ford’s $30,000 Fathom EV Truck Appears More Conventional Than Expected",
+        "blurb": "フォードの新型EVトラック「ファゾム」は、当初の予想に反し、一般的なピックアップトラックに近い外観であることが判明。",
         "category": "company",
         "date": "2026-09-02",
         "stars": 3,
         "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/09/01/ford-shares-closer-look-30000-fathom-ev-pickup-video"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806876/ford-fathom-ev-truck-prototypes"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Kia’s Bigger Electric Van Looks Ready For More Than Just Deliveries",
+        "blurb": "キアの新型EVバン「PV7」は、広大な室内空間とモジュラープラットフォームを備え、仕事やレジャー用途への多様な転換に対応可能。",
+        "category": "company",
+        "date": "2026-09-02",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806844/kia-pv7-larger-van-teaser"
         },
         "field": {
           "primary": "automotive",
@@ -54,6 +72,43 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Schneider’s New Home EV Charger Undercuts Tesla’s By Bundling A Big Feature",
+        "blurb": "シュナイダーがテスラのEV充電器より安価な新製品を発表。テスラには別売りの機能が標準搭載されている。",
+        "category": "business",
+        "date": "2026-09-02",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806855/schneider-charge-home-ev-charger-load-balancing"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "This Study Covered 500,000 EV Batteries. Some Models Aged Much Better Than Others",
+        "blurb": "EVバッテリー診断会社Avilooが2万件以上のバッテリー健康診断結果を発表。人気車種20種のうち、特定のモデルが他より長持ちすることが判明。",
+        "category": "business",
+        "date": "2026-09-02",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/806798/ev-battery-aging-study-2026"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }
