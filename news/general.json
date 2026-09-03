@@ -1,31 +1,86 @@
 {
-  "generated_at": "2026-09-03T07:58:17.149326+09:00",
+  "generated_at": "2026-09-04T07:58:21.364165+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "EBook – Accelerate Silicon Design for Physical AI (Part 1)",
-    "summary": "AIモデルから信頼性の高いシリコン、展開可能なシステムへの完全なパスを解説するEBook（パート1）。",
+    "title": "Intelligent Engineering: From Optimization To AI",
+    "summary": "エンジニアリングの意思決定をデータ駆動型に変革する手法。最適化からAI活用まで。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ebook-accelerate-silicon-design-for-physical-ai-part-1"
+        "url": "https://semiengineering.com/intelligent-engineering-from-optimization-to-ai"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "The Evolution Of Intelligent Systems: From Optimization To Automation to AI",
-        "blurb": "最適化、自動化、AIの3分野で、より統合的でインテリジェントなエンジニアリング手法へと進化しています。",
-        "category": "tools",
-        "date": "2026-09-02",
+        "title": "Continuing A Legacy Of Space Exploration: NASA’s Nancy Grace Roman Space Telescope",
+        "blurb": "NASAのナンシー・グレース・ローマン宇宙望遠鏡は、放射線耐性部品を使用し、暗黒エネルギー、暗黒物質、太陽系外惑星を調査します。",
+        "category": "company",
+        "date": "2026-09-03",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-evolution-of-intelligent-systems-from-optimization-to-automation-to-ai"
+          "url": "https://semiengineering.com/continuing-a-legacy-of-space-exploration-nasas-nancy-grace-roman-space-telescope"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Intelligent Engineering: From Optimization To AI",
+        "blurb": "エンジニアリングの意思決定をデータ駆動型に変革する手法。最適化からAI活用まで。",
+        "category": "tools",
+        "date": "2026-09-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/intelligent-engineering-from-optimization-to-ai"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Building Trust Into Physical AI Systems",
+        "blurb": "物理AIシステムでは、セキュリティと安全性が不可分。信頼構築が重要。",
+        "category": "tools",
+        "date": "2026-09-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/building-trust-into-physical-ai-systems"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "How Many Design Experiments Does A Machine Learning Predictor Actually Need?",
+        "blurb": "機械学習予測器に必要な実験データ数は、応答の滑らかさに依存し、モデルサイズや変数数には依存しない。",
+        "category": "tools",
+        "date": "2026-09-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-many-design-experiments-does-a-machine-learning-predictor-actually-need"
         },
         "field": {
           "primary": "general",
@@ -38,104 +93,14 @@
     ],
     "market": [
       {
-        "title": "EBook – Accelerate Silicon Design for Physical AI (Part 1)",
-        "blurb": "AIモデルから信頼性の高いシリコン、展開可能なシステムへの完全なパスを解説するEBook（パート1）。",
+        "title": "What Can Go Wrong In 800VDC AI Data Centers",
+        "blurb": "800VDCのAIデータセンターでは、高電流による火花や発火、高温チップがコスト増や危険をもたらす可能性がある。",
         "category": "business",
-        "date": "2026-09-02",
+        "date": "2026-09-03",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ebook-accelerate-silicon-design-for-physical-ai-part-1"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Security In The Era Of Quantum Computing",
-        "blurb": "量子コンピューティング時代に向け、量子攻撃にも耐えうる堅牢な暗号化技術の確立が求められています。",
-        "category": "business",
-        "date": "2026-09-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/security-in-the-era-of-quantum-computing"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Blog Review: Sept. 2",
-        "blurb": "半導体設計の変遷、3D-IC向けAI、インドの半導体強化、6Gロードマップについて解説。",
-        "category": "business",
-        "date": "2026-09-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-sept-2-3"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Security Sign-Off Is Coming For Chips — But Standards May Not Be Enough",
-        "blurb": "半導体セキュリティは、AI等の進化で攻撃対象が増加し、包括的な検証へと移行。標準化だけでは不十分な可能性。",
-        "category": "business",
-        "date": "2026-09-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/security-sign-off-is-coming-for-chips-but-standards-may-not-be-enough"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Extending 18A With Significant Power And Performance Gains",
-        "blurb": "18A技術が、低抵抗コンタクトで電力・性能を大幅向上。駆動電流増、高周波化が可能に。",
-        "category": "business",
-        "date": "2026-09-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/extending-18a-with-significant-power-and-performance-gains"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "GoogleとMarvellの提携に見る「AIアーキテクチャ」の変化",
-        "blurb": "GoogleとMarvellがカスタムシリコン契約。AIアーキテクチャの変化を示唆。",
-        "category": "business",
-        "date": "2026-09-02",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/02/news065.html"
+          "url": "https://semiengineering.com/what-can-go-wrong-in-800vdc-ai-data-centers"
         },
         "field": {
           "primary": "general",

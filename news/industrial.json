@@ -1,39 +1,21 @@
 {
-  "generated_at": "2026-09-03T07:58:17.148827+09:00",
+  "generated_at": "2026-09-04T07:58:21.363366+09:00",
   "field": "industrial",
   "field_label": "産業機器",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "KYOCERA AVX Launches Vibration-Proof Capacitors",
-    "summary": "京セラAVXが、振動の激しい産業用途向けに高CV性能、低ESR、長寿命を兼ね備えた耐振動コンデンサ「AEVA」「AEVB」を発表しました。",
+    "title": "Nanopower Launches nPZ2100 Ultra-Low-Power IC for IoT",
+    "summary": "NanopowerがIoT向け超低消費電力IC「nPZ2100」を発表。MCUのウェイクアップを削減し、バッテリー駆動エッジデバイスの消費電力を低減。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/kyocera-avx-launches-vibration-proof-capacitors"
+        "url": "https://www.powerelectronicsnews.com/nanopower-launches-npz2100-ultra-low-power-ic-for-iot"
       }
     ]
   },
   "sections": {
     "news": [
-      {
-        "title": "KYOCERA AVX Launches Vibration-Proof Capacitors",
-        "blurb": "京セラAVXが、振動の激しい産業用途向けに高CV性能、低ESR、長寿命を兼ね備えた耐振動コンデンサ「AEVA」「AEVB」を発表しました。",
-        "category": "company",
-        "date": "2026-09-02",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/kyocera-avx-launches-vibration-proof-capacitors"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
       {
         "title": "NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes",
         "blurb": "NXPのMCX A5マイコンは、産業用エッジノードに10BASE-T1Sイーサネット、トポロジー発見、量子後セキュリティを統合し、産業ネットワークを拡張します。",
@@ -54,6 +36,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Nanopower Launches nPZ2100 Ultra-Low-Power IC for IoT",
+        "blurb": "NanopowerがIoT向け超低消費電力IC「nPZ2100」を発表。MCUのウェイクアップを削減し、バッテリー駆動エッジデバイスの消費電力を低減。",
+        "category": "business",
+        "date": "2026-09-03",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/nanopower-launches-npz2100-ultra-low-power-ic-for-iot"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ]
   }
 }

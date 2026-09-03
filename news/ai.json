@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T07:58:17.147957+09:00",
+  "generated_at": "2026-09-04T07:58:21.362028+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 4,
     "title": "Robotics computer doubles edge AI performance",
-    "summary": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させ、エッジAIの性能を向上させた。",
+    "summary": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させた。",
     "sources": [
       {
         "name": "edn.com",
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Robotics computer doubles edge AI performance",
-        "blurb": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させ、エッジAIの性能を向上させた。",
+        "blurb": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させた。",
         "category": "company",
         "date": "2026-09-03",
         "stars": 4,
@@ -36,7 +36,7 @@
       },
       {
         "title": "SMARC module bridges Arduino prototyping to production",
-        "blurb": "SECOが産業用エッジAI向けSMARCモジュールを発表。Arduinoでの試作から量産への移行を支援。",
+        "blurb": "SECOが産業用エッジAI向けSMARCモジュールを発表。Arduinoプロトタイピングから量産への移行を支援。",
         "category": "company",
         "date": "2026-09-03",
         "stars": 3,
@@ -53,45 +53,7 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "When Edge AI Lies: Fault Injection and False State in Live Perception Pipelines",
-        "blurb": "エッジAIでは、システム停止より、誤った現実を受け入れ続ける方が危険。ライブ認識パイプラインの誤注入と偽状態について。",
-        "category": "tools",
-        "date": "2026-09-02",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/fault-injection-and-false-state-in-live-perception-pipelines"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "Why a nine-month AI chip tape-out matters",
-        "blurb": "AI支援によるチップ設計で、並列処理と知能認識制御により高速化と収束性を実現。9ヶ月でのテープアウトが重要。",
-        "category": "business",
-        "date": "2026-09-02",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/why-a-nine-month-ai-chip-tape-out-matters"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ]
+    "tech": [],
+    "market": []
   }
 }

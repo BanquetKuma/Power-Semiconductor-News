@@ -1,76 +1,38 @@
 {
-  "generated_at": "2026-09-02T07:59:59.800228+09:00",
+  "generated_at": "2026-09-04T07:58:21.361198+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "「必要なのは包括的アプローチ」 AMDのフィジカルAI戦略とは",
-    "summary": "AMDは組み込み／エッジAI向け新プロセッサX100を発表。包括的なフィジカルAIプラットフォーム戦略を説明した。",
+    "title": "Protecting Mission-Critical Data Beyond The SoC: Why Inline Memory Encryption Needs Integrity",
+    "summary": "SoC外のメモリ保護には、機密性、認証、耐障害性が不可欠。インラインメモリ暗号化は完全性も必要。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/01/news041.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/protecting-mission-critical-data-beyond-the-soc-why-inline-memory-encryption-needs-integrity"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "「必要なのは包括的アプローチ」 AMDのフィジカルAI戦略とは",
-        "blurb": "AMDは組み込み／エッジAI向け新プロセッサX100を発表。包括的なフィジカルAIプラットフォーム戦略を説明した。",
-        "category": "company",
-        "date": "2026-09-01",
+        "title": "Protecting Mission-Critical Data Beyond The SoC: Why Inline Memory Encryption Needs Integrity",
+        "blurb": "SoC外のメモリ保護には、機密性、認証、耐障害性が不可欠。インラインメモリ暗号化は完全性も必要。",
+        "category": "business",
+        "date": "2026-09-03",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/01/news041.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": "fabless"
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Enhancing SoC HW/SW co-verification with FPGA-based prototyping",
-        "blurb": "FPGAベースのプロトタイピングにより、SoCのハードウェア/ソフトウェアの共同検証が容易になり、開発期間の短縮に貢献します。",
-        "category": "tools",
-        "date": "2026-09-01",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/enhancing-soc-hw-sw-co-verification-with-fpga-based-prototyping"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/protecting-mission-critical-data-beyond-the-soc-why-inline-memory-encryption-needs-integrity"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "Building an Upgrade Path for Safety-Critical Aerospace Computing",
-        "blurb": "航空宇宙分野では、長寿命のシステムに対し、短命なプロセッサの更新パス構築が課題。ドローン等で計算能力向上が必要。",
-        "category": "business",
-        "date": "2026-09-01",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/building-an-upgrade-path-for-safety-critical-aerospace-computing"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "automotive",
           "industry": null
         }
       }
