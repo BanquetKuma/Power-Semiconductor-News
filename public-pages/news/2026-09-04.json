@@ -1,130 +1,64 @@
 {
-  "generated_at": "2026-09-04T07:58:21.358917+09:00",
+  "generated_at": "2026-09-05T07:46:20.063511+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "Robotics computer doubles edge AI performance",
-    "summary": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させた。",
+    "stars": 3,
+    "title": "Nexperia, Aurobay Explore GaN and SiC Solutions for Powertrains",
+    "summary": "NexperiaとAurobay、次世代パワートレイン向けGaN・SiCソリューションを共同開発へ。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/robotics-computer-doubles-edge-ai-performance"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/nexperia-aurobay-explore-gan-and-sic-solutions-for-powertrains"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Nanopower Launches nPZ2100 Ultra-Low-Power IC for IoT",
-        "blurb": "NanopowerがIoT向け超低消費電力IC「nPZ2100」を発表。MCUのウェイクアップを削減し、バッテリー駆動エッジデバイスの消費電力を低減。",
+        "title": "Navitas’ Claros Acquisition, Wide Bandgap Monthly Insights, GaN HEMT Field Plate Optimization: Power Electronics Week Insights",
+        "blurb": "NavitasのClaros買収、ワイドバンドギャップの月次動向、GaN HEMTの最適化など、パワーエレクトロニクス週間の注目記事をまとめた。",
         "category": "business",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/nanopower-launches-npz2100-ultra-low-power-ic-for-iot"
+          "url": "https://www.powerelectronicsnews.com/navitas-claros-acquisition-wide-bandgap-monthly-insights-gan-hemt-field-plate-optimization-power-electronics-week-insights"
         },
         "field": {
-          "primary": "industrial",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Protecting Mission-Critical Data Beyond The SoC: Why Inline Memory Encryption Needs Integrity",
-        "blurb": "SoC外のメモリ保護には、機密性、認証、耐障害性が不可欠。インラインメモリ暗号化は完全性も必要。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の最新動向：2D Tunnel FET、光コンピューティング、インドの半導体投資、SEMICON Taiwan、PCIe 6/7テスト、MediaTek、Siフォトニクス、AI開発ツールなど。",
         "category": "business",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/protecting-mission-critical-data-beyond-the-soc-why-inline-memory-encryption-needs-integrity"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-154"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "memory",
+          "device": "memory",
           "process": null,
-          "market": null,
-          "industry": null
+          "market": "ai",
+          "industry": "fabless"
         }
       },
       {
-        "title": "AI Is Forcing Data Centers To Rethink Trust",
-        "blurb": "AIによるコンピューティング需要の急増が、チップの信頼性やファームウェアの整合性など、データセンターのサプライチェーンに新たな課題を突きつけている。",
+        "title": "「2世代先」を狙う　京セラのセラミックパッケージ戦略",
+        "blurb": "京セラは、AI需要増で重要度が増す光通信向けセラミックパッケージ／基板事業を拡大。次世代CPOや光スイッチ向けにも展開。",
         "category": "business",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-is-forcing-data-centers-to-rethink-trust"
-        },
-        "field": {
-          "primary": "geopolitics",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "geopolitics"
-        }
-      },
-      {
-        "title": "What Can Go Wrong In 800VDC AI Data Centers",
-        "blurb": "800VDCのAIデータセンターでは、高電流による火花や発火、高温チップがコスト増や危険をもたらす可能性がある。",
-        "category": "business",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/what-can-go-wrong-in-800vdc-ai-data-centers"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI向けの売り上げ3倍目指す　TDKのエコシステム成長戦略",
-        "blurb": "TDKはAI向け売上3倍を目指し、最先端技術で企業価値向上を図るエコシステム成長戦略を発表した。",
-        "category": "business",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/03/news055.html"
-        },
-        "field": null
-      },
-      {
-        "title": "ついにイメージセンサー世界シェア5割、ソニーが迎える正念場",
-        "blurb": "ソニーはイメージセンサーで世界シェア5割を達成したが、SamsungのTSMCとのJV参入で正念場を迎える。",
-        "category": "business",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/03/news054.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "データセンターの立地は都市から郊外へ、放熱は空冷から液冷へ（前編）",
-        "blurb": "データセンターの立地が都市から郊外へ、冷却方式が空冷から液冷へと移行する動向を解説する。",
-        "category": "business",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/03/news029.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/04/news051.html"
         },
         "field": {
           "primary": "datacenter",
@@ -135,76 +69,14 @@
         }
       },
       {
-        "title": "IP core provides scalable JESD204C connectivity",
-        "blurb": "AchronixがFPGA向けJESD204C IPコアを提供。高速ADC/DAC接続を可能にし、スケーラブルな接続性を提供。",
-        "category": "business",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ip-core-provides-scalable-jesd204c-connectivity"
-        },
-        "field": null
-      },
-      {
-        "title": "Ford Wants Its $30,000 EV Truck To Do Something Only Tesla Has Done",
-        "blurb": "フォードは、初年度に10万台のEVトラック販売を目指す。テスラに続く快挙となるか注目される。",
-        "category": "business",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806974/ford-fathom-ev-sales-plan"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "IONNA knocks nearly 50% off EV fast charging for Labor Day",
-        "blurb": "IONNAはレイバーデー期間中、EV急速充電料金をほぼ半額の1kWhあたり0.20ドル（税別）に値下げする。",
+        "title": "Overstressed over an erratically flickering check-engine lamp",
+        "blurb": "半導体サプライヤーからの「電気的過負荷」の主張には、データシートの記載を引用して対応しましょう。",
         "category": "business",
         "date": "2026-09-04",
         "stars": 3,
         "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/09/03/ionna-knocks-nearly-50-off-ev-fast-charging-for-labor-day"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "Power Electronics Course with QSPICE (Episode 17): Step-up DC/DC Converter",
-        "blurb": "QSPICEを用いたパワーエレクトロニクス講座第17回。昇圧DC/DCコンバータの基本原理をインダクタ、ダイオード、デューティ比制限までシミュレーションで解説。",
-        "category": "tools",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-17-step-up-dc-dc-converter"
-        },
-        "field": null
-      },
-      {
-        "title": "Intelligent Engineering: From Optimization To AI",
-        "blurb": "エンジニアリングの意思決定をデータ駆動型に変革する手法。最適化からAI活用まで。",
-        "category": "tools",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/intelligent-engineering-from-optimization-to-ai"
+          "name": "edn.com",
+          "url": "https://www.edn.com/overstressed-over-an-erratically-flickering-check-engine-lamp"
         },
         "field": {
           "primary": "general",
@@ -215,298 +87,143 @@
         }
       },
       {
-        "title": "Building Trust Into Physical AI Systems",
-        "blurb": "物理AIシステムでは、セキュリティと安全性が不可分。信頼構築が重要。",
-        "category": "tools",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-trust-into-physical-ai-systems"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "How Many Design Experiments Does A Machine Learning Predictor Actually Need?",
-        "blurb": "機械学習予測器に必要な実験データ数は、応答の滑らかさに依存し、モデルサイズや変数数には依存しない。",
-        "category": "tools",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-many-design-experiments-does-a-machine-learning-predictor-actually-need"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Debugging intermittent Comcast, part 3: Retrospective analysis",
-        "blurb": "Comcastの断続的なデバッグに関する第3部。原因究明、未然防止、代替策、将来の研究課題について考察。",
-        "category": "tools",
-        "date": "2026-09-03",
+        "title": "Data density: The constraint reshaping wireless for edge AI",
+        "blurb": "エッジAIの制約は帯域幅ではなく、狭い空間で多数のデータストリームを維持する無線ネットワークの能力。データ密度が無線通信を変革。",
+        "category": "business",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/debugging-intermittent-comcast-part-3-retrospective-analysis"
+          "url": "https://www.edn.com/data-density-the-constraint-reshaping-wireless-for-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "‘Unfair Trade’: Automakers Push Congress To Ban Chinese Cars In The U.S.",
+        "blurb": "自動車業界団体が、中国からの自動車輸入を禁止するよう議会に働きかけている。不公正貿易との見方。",
+        "category": "business",
+        "date": "2026-09-04",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807150/chinese-cars-us-ban-lobby-group-congress"
         },
         "field": null
       },
       {
-        "title": "SomDevices, Celus Bring μSMARC Modules to Design Platform",
-        "blurb": "SomDevicesとCelusがμSMARCモジュールをデザインプラットフォームに統合。NXP i.MXベースのモジュール7種が再利用可能なCUBOに。",
-        "category": "tools",
-        "date": "2026-09-03",
+        "title": "Electric Cars Were The UK's Best-Selling Powertrain Last Month",
+        "blurb": "英国で先月、電気自動車（EV）が販売台数トップとなった。市場シェア30%を占め、他のパワートレインを上回った。",
+        "category": "business",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/somdevices-celus-bring-%ce%bcsmarc-modules-to-design-platform"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807080/uk-market-sales-biggest-august"
         },
         "field": null
+      },
+      {
+        "title": "Nexperia, Aurobay Explore GaN and SiC Solutions for Powertrains",
+        "blurb": "NexperiaとAurobay、次世代パワートレイン向けGaN・SiCソリューションを共同開発へ。",
+        "category": "business",
+        "date": "2026-09-05",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/nexperia-aurobay-explore-gan-and-sic-solutions-for-powertrains"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
+    "tools": [],
     "company": [
       {
-        "title": "Robotics computer doubles edge AI performance",
-        "blurb": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させた。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 4,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/robotics-computer-doubles-edge-ai-performance"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "VW to cut 100k jobs and may stop building EVs at 4 plants",
-        "blurb": "フォルクスワーゲン、世界で10万人の人員削減を計画。ドイツ国内4工場でのEV生産停止も検討。経営再建の一環。",
+        "title": "ニデックの品質不正844件　組織的関与も",
+        "blurb": "ニデックで844件の品質不適切行為が認定され、うち60件は法令違反の疑いがある重大事案とされた。組織的な関与も示唆されている。",
         "category": "company",
         "date": "2026-09-04",
-        "stars": 4,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/09/03/vw-to-cut-100k-jobs-and-may-stop-building-evs-at-4-plants"
-        },
-        "field": null
-      },
-      {
-        "title": "EPC Begins Mass Production of 100V Integrated GaN Power ICs",
-        "blurb": "EPC社が100V統合型GaNパワーICの量産を開始。ロボットやドローン向けに小型・高効率モーター駆動をサポート。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/epc-begins-mass-production-of-100v-integrated-gan-power-ics"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Humanoid Compute, Security More Complex Than AVs",
-        "blurb": "人間型ロボットは、自律走行車より複雑なコンピューティングとセキュリティを必要とする。人との近接性がリスクを高める。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/humanoid-compute-security-more-complex-than-avs"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Continuing A Legacy Of Space Exploration: NASA’s Nancy Grace Roman Space Telescope",
-        "blurb": "NASAのナンシー・グレース・ローマン宇宙望遠鏡は、放射線耐性部品を使用し、暗黒エネルギー、暗黒物質、太陽系外惑星を調査します。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/continuing-a-legacy-of-space-exploration-nasas-nancy-grace-roman-space-telescope"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "工場再編や企業動向に関心 2026年8月の記事ランキング",
-        "blurb": "2026年8月のEE Times Japan人気記事ランキングは、工場再編や企業動向への関心の高さを反映した。",
-        "category": "company",
-        "date": "2026-09-03",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/03/news050.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/04/news094.html"
         },
         "field": null
       },
       {
-        "title": "中国に見る高効率な開発戦略　最新ジンバルカメラを分解",
-        "blurb": "最新ジンバルカメラの分解から、中国の「マルチマーケット戦略」が読み取れる。DJIとInsta360が市場で競い合う。",
+        "title": "複数のレーザービームを重ね「世界最高」ピーク出力達成",
+        "blurb": "量子科学技術研究開発機構と同志社大学は、複数のレーザービームを重ね合わせることで、従来の約1000倍のピーク出力を達成した。",
         "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/04/news007.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/04/news040.html"
         },
         "field": null
       },
       {
-        "title": "600℃で動作する新構造のSiC素子、京都大",
-        "blurb": "京大が600℃で動作する新構造SiC素子を開発。ジェットエンジンや地熱井など極限環境での応用が期待される。",
+        "title": "DRAM／SSDの課題解決 キオクシアの最新フラッシュメモリ技術",
+        "blurb": "キオクシアはAI時代のフラッシュメモリ課題に対応する最新技術を発表。DRAM/SSDの性能向上に貢献。",
         "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/03/news034.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/04/news052.html"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "MRAMs accelerate adoption in aerospace and defense designs",
-        "blurb": "Teledyne HiRelが不揮発性メモリ製品にMRAMを追加し、航空宇宙・防衛分野での採用を加速。",
+        "title": "スズ系ペロブスカイト太陽電池で高い効率と耐久性",
+        "blurb": "上智大学とNIMSは、スズ系ペロブスカイト太陽電池で高効率・高耐久性を実現。有機分子添加で鉛フリー化に成功。",
         "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/mrams-accelerate-adoption-in-aerospace-and-defense-designs"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/04/news037.html"
         },
         "field": null
       },
       {
-        "title": "Resolver enables flexible motor sensor placement",
-        "blurb": "メレキシスが5V電源対応の小型モーター用ピコリゾルバーMLX90381を発表。センサー配置の柔軟性が向上。",
+        "title": "Everspin, Teledyne HiRel Partner on Mission-Critical MRAM",
+        "blurb": "EverspinとTeledyne HiRelが提携し、宇宙・防衛分野向けに不揮発性メモリMRAMを供給。",
         "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/resolver-enables-flexible-motor-sensor-placement"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "SMARC module bridges Arduino prototyping to production",
-        "blurb": "SECOが産業用エッジAI向けSMARCモジュールを発表。Arduinoプロトタイピングから量産への移行を支援。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/smarc-module-bridges-arduino-prototyping-to-production"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "IC manages sensors without waking the MCU",
-        "blurb": "Nanopower社は、バッテリー制約のあるセンサーシステム向けに、MCUを起こさずにセンサーを管理・省電力化するIC「nPZ2100」を発表しました。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ic-manages-sensors-without-waking-the-mcu"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "NXP MCX A5 MCUs Bring 10BASE-T1S Ethernet to Industrial Edge Nodes",
-        "blurb": "NXPのMCX A5マイコンは、産業用エッジノードに10BASE-T1Sイーサネット、トポロジー発見、量子後セキュリティを統合し、産業ネットワークを拡張します。",
-        "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/nxp-mcx-a5-mcus-bring-10base-t1s-ethernet-to-industrial-edge-nodes"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "Unlocking Autonomy in Military Drones Goes Beyond SWaP-C",
-        "blurb": "地政学リスクの高まりで軍事ドローンへの投資が増加。SWaP-Cを超えた自律性向上が課題。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/unlocking-autonomy-in-military-drones-goes-beyond-swap-c"
+          "url": "https://www.embedded.com/everspin-teledyne-hirel-partner-on-mission-critical-mram"
         },
         "field": null
       },
       {
-        "title": "Bentley’s First EV Will Be Its Quickest Car. But It Doesn’t Matter",
-        "blurb": "ベントレー初のEV「トルカル」は最速だが、加速性能よりも滑らかな走行体験を重視。",
+        "title": "This 7-Seat EV Went 582 Miles On A Charge. But There’s A Catch",
+        "blurb": "シュコダの新型EV「ペイク」が、エコランで582マイル（約936km）の航続距離を達成。ただし、実用性には課題も。",
         "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807025/torcal-ev-quickest-bentley-ever"
+          "url": "https://insideevs.com/news/807058/skoda-peaq-efficiency-run"
         },
         "field": {
           "primary": "automotive",
@@ -517,26 +234,14 @@
         }
       },
       {
-        "title": "New Jersey Just Legalized Cheap Plug-In Balcony Solar Panels",
-        "blurb": "ニュージャージー州で、賃貸住宅のベランダ用プラグイン型太陽光パネルの設置を、家主や自治体が禁止できなくなる新法が成立しました。",
+        "title": "BYD’s Electric Kei Car Was Driven In Japan. It Fits Right In",
+        "blurb": "BYDの軽EV「Racco」が日本で走行。広々として快適、日本に馴染む設計。",
         "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807007/new-jersey-plug-in-balcony-solar-law"
-        },
-        "field": null
-      },
-      {
-        "title": "Uber And Wayve Beat Waymo To London With UK’s First Robotaxi Service",
-        "blurb": "UberとWayveがロンドンで英国初の自動運転タクシーサービスを開始。Uberアプリで配車可能。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806984/uber-wayve-robotaxi-london-uk-first"
+          "url": "https://insideevs.com/news/807141/byd-racco-kei-driven-japan"
         },
         "field": {
           "primary": "automotive",
@@ -547,56 +252,44 @@
         }
       },
       {
-        "title": "Scout Reveals Two New Traveler SUV Concepts As Production Nears",
-        "blurb": "Scoutは、電動SUVのコンセプトモデル2種を発表。オフロード性能と高級感を両立。",
+        "title": "Watch Tesla’s Cybercab Carry Passengers Through Austin. It’s Almost Boring",
+        "blurb": "テスラの自動運転タクシー「サイバーキャブ」が、ハンドルやペダルなしでオースティン市内を走行。乗客を乗せた様子が公開された。",
         "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806941/scout-traveler-electric-concepts"
+          "url": "https://insideevs.com/news/807123/tesla-cybercab-austin-ride-vide"
         },
         "field": null
       },
       {
-        "title": "Think Chinese Cars Aren't Safe? These New Crash Tests Say Otherwise",
-        "blurb": "中国製EV、衝突安全テストで高評価。カップラ・ラバルは4つ星、競合車は5つ星を獲得。",
+        "title": "The Tesla Cybercab Has No Brake Lines Or Brake Fluid. Here’s How It Stops",
+        "blurb": "テスラのサイバーキャブは、ブレーキラインやフルードがなく、ステアリングホイールやペダルもない。制御方法を一新した。",
         "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806923/cupra-leapmotor-crash-euroncap-test"
+          "url": "https://insideevs.com/news/807121/tesla-cybercab-brakes-no-fluid"
         },
         "field": null
       },
       {
-        "title": "The U.S. Is A Curbside Charging Laggard. San Francisco Wants To Change That.",
-        "blurb": "サンフランシスコ、路上充電器設置を加速。2030年までに100基設置予定も、自宅近くに設置されるのは一部のみ。",
+        "title": "Tesla’s Cybercab Is Finally Giving Paid Robotaxi Rides. Here’s What It Can And Can’t Do",
+        "blurb": "テスラのサイバーキャブがテキサス州オースティンで有料ロボタクシー運行を開始。イーロン・マスクは不在だった。",
         "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806931/san-francisco-curbside-charger-application"
-        },
-        "field": null
-      },
-      {
-        "title": "Passenger Screens Are Everywhere. A Third Of Owners Never Even Use Them",
-        "blurb": "EV購入者の35%が、搭載されている助手席用スクリーンを一度も使用したことがないことが判明。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/806768/passenger-screen-third-unused-evs"
+          "url": "https://insideevs.com/news/807100/tesla-cybercab-robotaxi-public-rides-austin-official"
         },
         "field": null
       },
       {
         "title": "Slate Deliveries Could Start As Soon As December: Report",
-        "blurb": "Slateの納車が12月にも開始される可能性。一部の予約顧客が対象となる見込み。",
+        "blurb": "Slateの納車が12月にも開始される可能性。一部の予約者が先行して受け取る見込み。",
         "category": "company",
         "date": "2026-09-04",
         "stars": 3,
@@ -608,7 +301,7 @@
       },
       {
         "title": "How Much Range The Tesla Model 3 And Model Y Lose After Almost 100,000 Miles",
-        "blurb": "テスラ車は10万マイル走行後、航続距離が大幅に低下する可能性。EVバッテリー寿命調査で下位に。",
+        "blurb": "テスラ車は10万マイル走行後、航続距離の低下が大きいことが判明。調査ではEVメーカー中、バッテリー寿命は下位に。",
         "category": "company",
         "date": "2026-09-04",
         "stars": 3,
@@ -620,7 +313,7 @@
       },
       {
         "title": "My First Walmart EV Charging Experience Was A Disaster",
-        "blurb": "WalmartのEV充電ステーションで40分間待たされ、最悪の体験となった。",
+        "blurb": "WalmartのEV充電ステーションで40分間待たされた。日差しの中で待機せざるを得ず、最悪の体験だった。",
         "category": "company",
         "date": "2026-09-04",
         "stars": 3,
@@ -638,13 +331,43 @@
       },
       {
         "title": "Can Xiaomi Take On Porsche On Its Home Turf? It’s About To Try",
-        "blurb": "Xiaomi、2027年にドイツ市場へ参入。ポルシェの本拠地でEV販売に挑む。欧州では8つのディーラーグループと契約。",
+        "blurb": "シャオミ、2027年にドイツ市場へ参入。ポルシェの本拠地でEV販売に挑む。欧州展開は来年から開始。",
         "category": "company",
         "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
           "url": "https://insideevs.com/news/807047/xiaomi-germany-launch-2027-porsche"
+        },
+        "field": null
+      },
+      {
+        "title": "NXP MCX A5 MCUs, Edge AI for Military Drone Autonomy, Modular Computing for Long-Lifecycle Aerospace Platforms: Embedded Week Insights",
+        "blurb": "NXPの新型MCU、軍事ドローン向けエッジAI、航空宇宙向けモジュラーコンピューティングなど、組み込み技術の最新動向を解説。",
+        "category": "company",
+        "date": "2026-09-05",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nxp-mcx-a5-mcus-edge-ai-for-military-drone-autonomy-modular-computing-for-long-lifecycle-aerospace-platforms-embedded-week-insights"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "The Tesla Cybercab Is Already Being Investigated For Not Having A Steering Wheel",
+        "blurb": "テスラのサイバーキャブ、ハンドルなしで連邦当局の調査対象に。発売直後から注目が集まる。",
+        "category": "company",
+        "date": "2026-09-05",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807187/tesla-cybercab-nhtsa-fed-investigation"
         },
         "field": null
       }

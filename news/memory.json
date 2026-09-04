@@ -1,39 +1,58 @@
 {
-  "generated_at": "2026-09-03T07:58:17.147152+09:00",
+  "generated_at": "2026-09-05T07:46:20.065250+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "SamsungとBroadcom、メモリ／ファウンドリーで協業拡大",
-    "summary": "サムスンとブロードコム、AI向けメモリ・ファウンドリーで協業拡大。2030年まで5年間で2000億ドル超規模。",
+    "title": "Chip Industry Week In Review",
+    "summary": "半導体業界の最新動向：2D Tunnel FET、光コンピューティング、インドの半導体投資、SEMICON Taiwan、PCIe 6/7テスト、MediaTek、Siフォトニクス、AI開発ツールなど。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/02/news070.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-154"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "SamsungとBroadcom、メモリ／ファウンドリーで協業拡大",
-        "blurb": "サムスンとブロードコム、AI向けメモリ・ファウンドリーで協業拡大。2030年まで5年間で2000億ドル超規模。",
-        "category": "business",
-        "date": "2026-09-02",
+        "title": "DRAM／SSDの課題解決 キオクシアの最新フラッシュメモリ技術",
+        "blurb": "キオクシアはAI時代のフラッシュメモリ課題に対応する最新技術を発表。DRAM/SSDの性能向上に貢献。",
+        "category": "company",
+        "date": "2026-09-04",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/02/news070.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/04/news052.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "miniaturization",
+          "process": null,
           "market": null,
-          "industry": "foundry"
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の最新動向：2D Tunnel FET、光コンピューティング、インドの半導体投資、SEMICON Taiwan、PCIe 6/7テスト、MediaTek、Siフォトニクス、AI開発ツールなど。",
+        "category": "business",
+        "date": "2026-09-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-154"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
         }
       }
     ]

@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-09-04T07:58:21.362028+09:00",
+  "generated_at": "2026-09-05T07:46:20.065586+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "Robotics computer doubles edge AI performance",
-    "summary": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させた。",
+    "stars": 3,
+    "title": "Data density: The constraint reshaping wireless for edge AI",
+    "summary": "エッジAIの制約は帯域幅ではなく、狭い空間で多数のデータストリームを維持する無線ネットワークの能力。データ密度が無線通信を変革。",
     "sources": [
       {
         "name": "edn.com",
-        "url": "https://www.edn.com/robotics-computer-doubles-edge-ai-performance"
+        "url": "https://www.edn.com/data-density-the-constraint-reshaping-wireless-for-edge-ai"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Robotics computer doubles edge AI performance",
-        "blurb": "NVIDIAのJetson Orin Nano 2は、前世代よりAI推論性能をほぼ倍増させた。",
+        "title": "NXP MCX A5 MCUs, Edge AI for Military Drone Autonomy, Modular Computing for Long-Lifecycle Aerospace Platforms: Embedded Week Insights",
+        "blurb": "NXPの新型MCU、軍事ドローン向けエッジAI、航空宇宙向けモジュラーコンピューティングなど、組み込み技術の最新動向を解説。",
         "category": "company",
-        "date": "2026-09-03",
-        "stars": 4,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/robotics-computer-doubles-edge-ai-performance"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "SMARC module bridges Arduino prototyping to production",
-        "blurb": "SECOが産業用エッジAI向けSMARCモジュールを発表。Arduinoプロトタイピングから量産への移行を支援。",
-        "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-05",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/smarc-module-bridges-arduino-prototyping-to-production"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/nxp-mcx-a5-mcus-edge-ai-for-military-drone-autonomy-modular-computing-for-long-lifecycle-aerospace-platforms-embedded-week-insights"
         },
         "field": {
           "primary": "ai",
@@ -54,6 +36,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Data density: The constraint reshaping wireless for edge AI",
+        "blurb": "エッジAIの制約は帯域幅ではなく、狭い空間で多数のデータストリームを維持する無線ネットワークの能力。データ密度が無線通信を変革。",
+        "category": "business",
+        "date": "2026-09-04",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/data-density-the-constraint-reshaping-wireless-for-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ]
   }
 }
