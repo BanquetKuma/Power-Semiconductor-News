@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-06T07:38:17.875401+09:00",
-  "date": "2026-09-06",
+  "generated_at": "2026-09-07T07:40:47.057228+09:00",
+  "date": "2026-09-07",
   "meta_trends": [
     {
-      "name": "ワイドバンドギャップ半導体の普及加速",
+      "name": "ワイドバンドギャップ（GaN/SiC）の普及加速",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,139 +12,112 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "GaNやSiCといったワイドバンドギャップ半導体が、EVパワートレイン、AIデータセンター、産業機器など多岐にわたり採用・量産化が進展。高効率化と小型化に貢献。",
+      "summary": "GaNおよびSiC技術が、EVパワートレイン、AIデータセンター、産業機器など、高効率・高電力密度が求められる分野で急速に採用されている。",
       "analysis": {
-        "short_term": "採用拡大と量産体制強化が継続。",
-        "mid_term": "コスト競争力向上と用途拡大が鍵。",
-        "investment_implications": "関連企業への投資妙味増大。"
+        "short_term": "量産体制強化と技術最適化が進む。",
+        "mid_term": "コスト競争力向上と用途拡大が期待される。",
+        "investment_implications": "関連企業への投資妙味が高い。"
       },
       "keywords": [
         "GaN",
         "SiC",
         "EV",
-        "AI",
-        "データセンター"
+        "データセンター",
+        "高効率"
       ],
       "companies_mentioned": [
         "Nexperia",
+        "Aurobay",
         "Navitas",
         "EPC",
         "Infineon",
         "京セラ",
-        "サムスン",
-        "ブロードコム",
         "京都大学"
       ]
     },
     {
-      "name": "AI向けカスタムシリコン需要増大",
+      "name": "AI向けカスタムシリコンとインフラ投資拡大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
         "logic",
+        "memory",
         "foundry",
         "fabless"
       ],
-      "summary": "AI処理能力向上のため、データセンターやエッジデバイス向けに最適化されたカスタムシリコン（ASIC、FPGA）の開発・採用が加速。GoogleやAMDが戦略を推進。",
+      "summary": "AIの進化に伴い、データセンターやエッジデバイス向けのカスタムシリコン開発が活発化し、ファウンドリーやメモリ分野への巨額投資が進んでいる。",
       "analysis": {
-        "short_term": "カスタムシリコン開発競争が激化。",
-        "mid_term": "ファウンドリへの依存度と技術格差が拡大。",
-        "investment_implications": "カスタムシリコン設計・製造企業に注目。"
+        "short_term": "カスタムチップ開発競争が激化。",
+        "mid_term": "AIインフラ投資が半導体業界全体を牽引。",
+        "investment_implications": "AI関連の半導体・インフラ企業に注目。"
       },
       "keywords": [
         "AI",
         "カスタムシリコン",
-        "ASIC",
-        "FPGA",
-        "データセンター"
+        "データセンター",
+        "ファウンドリー",
+        "メモリ"
       ],
       "companies_mentioned": [
+        "Navitas",
+        "GF",
         "Google",
         "Marvell",
         "AMD",
+        "キオクシア",
+        "京セラ",
         "サムスン",
         "ブロードコム"
       ]
     },
     {
-      "name": "物理AIシステムの信頼性・安全性重視",
+      "name": "IoT・エッジデバイスの低消費電力化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "automotive",
         "industrial",
         "logic",
+        "analog",
+        "power"
+      ],
+      "summary": "IoTデバイスの普及に伴い、バッテリー駆動時間を延ばすための超低消費電力ICや、効率的な電源管理技術への需要が高まっている。",
+      "analysis": {
+        "short_term": "低消費電力ICの製品ラインナップ拡充。",
+        "mid_term": "エッジAIの普及でさらに重要性が増す。",
+        "investment_implications": "低消費電力技術を持つ企業に機会。"
+      },
+      "keywords": [
+        "IoT",
+        "低消費電力",
+        "エッジデバイス",
+        "バッテリー"
+      ],
+      "companies_mentioned": [
+        "Nanopower"
+      ]
+    },
+    {
+      "name": "過酷環境向け半導体の信頼性向上",
+      "confidence": 0.8,
+      "momentum": "stable",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial",
         "geopolitics"
       ],
-      "summary": "AIが物理世界と連携するシステム（ロボット、自動運転車等）では、セキュリティ、安全性、信頼性が最重要課題。サプライチェーン全体での対策が求められる。",
+      "summary": "宇宙ミッションや産業用途など、極限環境下での信頼性が求められる分野で、放射線耐性や高耐熱性を持つ半導体ソリューションが重要視されている。",
       "analysis": {
-        "short_term": "セキュリティ・信頼性技術開発が活発化。",
-        "mid_term": "標準化や認証制度の整備が課題。",
-        "investment_implications": "セキュリティ・検証ソリューション企業に期待。"
+        "short_term": "特定用途向けの高信頼性製品開発。",
+        "mid_term": "宇宙・防衛分野での採用拡大。",
+        "investment_implications": "高信頼性・高付加価値製品に強みを持つ企業。"
       },
       "keywords": [
-        "AI",
-        "物理AI",
-        "セキュリティ",
-        "信頼性",
-        "安全性"
-      ],
-      "companies_mentioned": [
-        "AMD",
-        "Google",
-        "Marvell"
-      ]
-    },
-    {
-      "name": "データセンターの省電力・高効率化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "power",
-        "cooling",
-        "ai"
-      ],
-      "summary": "AI需要による電力消費増大に対応するため、データセンターでは高効率電源（800VDC等）、液冷技術、郊外移転などの省電力・高効率化が進む。",
-      "analysis": {
-        "short_term": "液冷ソリューションの導入が加速。",
-        "mid_term": "インフラ投資と技術革新が並行。",
-        "investment_implications": "データセンターインフラ関連企業に注目。"
-      },
-      "keywords": [
-        "データセンター",
-        "AI",
-        "省電力",
-        "液冷",
-        "800VDC"
-      ],
-      "companies_mentioned": [
-        "京セラ"
-      ]
-    },
-    {
-      "name": "極限環境向け半導体技術の進化",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "industrial",
-        "automotive",
-        "space"
-      ],
-      "summary": "宇宙ミッションやジェットエンジン、地熱井など、高温・高放射線環境下で動作する半導体デバイスの開発が進展。信頼性と耐久性が向上。",
-      "analysis": {
-        "short_term": "特殊用途向け需要が着実に増加。",
-        "mid_term": "技術的ハードルは高いが、市場は拡大。",
-        "investment_implications": "ニッチ市場での技術優位企業に投資妙味。"
-      },
-      "keywords": [
-        "SiC",
+        "高信頼性",
         "放射線耐性",
-        "高温",
+        "高耐熱",
         "宇宙",
         "産業"
       ],
@@ -153,23 +126,49 @@
         "京セラ",
         "京都大学"
       ]
+    },
+    {
+      "name": "物理AIシステムのセキュリティと信頼性",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "geopolitics",
+        "automotive"
+      ],
+      "summary": "AIが物理世界とインタラクションするシステム（ロボット、自動運転車など）では、セキュリティと安全性の確保が最重要課題となっている。",
+      "analysis": {
+        "short_term": "セキュリティ機能の重要性が増す。",
+        "mid_term": "信頼性確保のための標準化が進む可能性。",
+        "investment_implications": "セキュリティ・セーフティ技術に強みを持つ企業。"
+      },
+      "keywords": [
+        "物理AI",
+        "セキュリティ",
+        "安全性",
+        "ロボット",
+        "自動運転"
+      ],
+      "companies_mentioned": [
+        "AMD"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "ワイドバンドギャップ半導体の需要拡大と量産化",
-      "AI向けカスタムシリコン開発の活発化",
-      "データセンターの省電力・高効率化投資",
-      "極限環境向け半導体市場の成長"
+      "ワイドバンドギャップ（GaN/SiC）の採用拡大と量産化",
+      "AI向けカスタムシリコン開発とデータセンター投資の活発化",
+      "IoT/エッジデバイスの低消費電力化ニーズの高まり",
+      "宇宙・防衛・産業分野での高信頼性半導体需要の安定"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "半導体製造装置メーカー間の競争激化"
+      "地政学的リスクによるサプライチェーンの不確実性（記事からは直接読み取れないが、背景として考慮）"
     ],
     "neutral": [
-      "メモリ市場の回復ペース",
-      "イメージセンサー市場におけるソニーとSamsungの競争激化"
+      "イメージセンサー市場におけるソニーとSamsungの競争激化",
+      "半導体設計における機械学習の活用度合いの進化"
     ]
   },
-  "source_count": 46
+  "source_count": 45
 }
