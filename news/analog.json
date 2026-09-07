@@ -1,69 +1,50 @@
 {
-  "generated_at": "2026-09-04T07:58:21.361650+09:00",
+  "generated_at": "2026-09-08T08:16:52.987007+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ついにイメージセンサー世界シェア5割、ソニーが迎える正念場",
-    "summary": "ソニーはイメージセンサーで世界シェア5割を達成したが、SamsungのTSMCとのJV参入で正念場を迎える。",
+    "title": "Melexis Targets Small Motor Applications with 5-V Pico-Resolver",
+    "summary": "Melexisが小型モーター向け5Vピコリゾルバを発表。2µsの高速応答、毎分5万回転超、3軸磁気センシングを小型パッケージに集約。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/03/news054.html"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/melexis-targets-small-motor-applications-with-5-v-pico-resolver"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Resolver enables flexible motor sensor placement",
-        "blurb": "メレキシスが5V電源対応の小型モーター用ピコリゾルバーMLX90381を発表。センサー配置の柔軟性が向上。",
+        "title": "Melexis Targets Small Motor Applications with 5-V Pico-Resolver",
+        "blurb": "Melexisが小型モーター向け5Vピコリゾルバを発表。2µsの高速応答、毎分5万回転超、3軸磁気センシングを小型パッケージに集約。",
         "category": "company",
-        "date": "2026-09-03",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/resolver-enables-flexible-motor-sensor-placement"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/melexis-targets-small-motor-applications-with-5-v-pico-resolver"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "IC manages sensors without waking the MCU",
-        "blurb": "Nanopower社は、バッテリー制約のあるセンサーシステム向けに、MCUを起こさずにセンサーを管理・省電力化するIC「nPZ2100」を発表しました。",
-        "category": "company",
-        "date": "2026-09-03",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ic-manages-sensors-without-waking-the-mcu"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "automotive",
           "industry": null
         }
       }
     ],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "ついにイメージセンサー世界シェア5割、ソニーが迎える正念場",
-        "blurb": "ソニーはイメージセンサーで世界シェア5割を達成したが、SamsungのTSMCとのJV参入で正念場を迎える。",
-        "category": "business",
-        "date": "2026-09-03",
+        "title": "MEMS一体型単結晶ダイヤモンド量子センサー実現",
+        "blurb": "東北大学とNIMSは、単結晶ダイヤモンドMEMSに量子センシング機能と機械構造を集積する技術を開発。高度な応力センシングへの応用が期待される。",
+        "category": "tools",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/03/news054.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news022.html"
         },
         "field": {
           "primary": "analog",
@@ -73,6 +54,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

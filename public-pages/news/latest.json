@@ -1,42 +1,200 @@
 {
-  "generated_at": "2026-09-07T07:40:43.061177+09:00",
+  "generated_at": "2026-09-08T08:16:52.984912+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Jeep Wagoneer EREV Production Delayed By 6 Months: Report",
-    "summary": "ジープ・ワゴニアのEREV生産が6ヶ月遅延し、11月に開始予定。ラム1500 EREVは来年登場。",
+    "title": "Melexis Targets Small Motor Applications with 5-V Pico-Resolver",
+    "summary": "Melexisが小型モーター向け5Vピコリゾルバを発表。2µsの高速応答、毎分5万回転超、3軸磁気センシングを小型パッケージに集約。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/news/807228/jeep-ram-erev-delay-hybrid"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/melexis-targets-small-motor-applications-with-5-v-pico-resolver"
       }
     ]
   },
   "sections": {
-    "business": [],
-    "tools": [],
+    "business": [
+      {
+        "title": "GaN市場でInfineonが5位から2位に急浮上　AIが変える勢力図",
+        "blurb": "Infineon TechnologiesがGaNパワーデバイス市場で5位から2位へ急浮上。AIが市場勢力図を変える。",
+        "category": "business",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news059.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "推論で需要増のSSD　キオクシアが示す進化の方向性",
+        "blurb": "キオクシアはAI需要増でSSDの進化方向性を示し、GPU性能向上で注目の「コンテキストキャッシュ」を紹介した。",
+        "category": "business",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news069.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Automotive coolant level sensors: Fundamentals to stay cool",
+        "blurb": "自動車の冷却水レベルセンサーはエンジンの過熱を防ぐために不可欠。故障すると壊滅的な結果を招く。",
+        "category": "business",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/automotive-coolant-level-sensors-fundamentals-to-stay-cool"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "MEMS一体型単結晶ダイヤモンド量子センサー実現",
+        "blurb": "東北大学とNIMSは、単結晶ダイヤモンドMEMSに量子センシング機能と機械構造を集積する技術を開発。高度な応力センシングへの応用が期待される。",
+        "category": "tools",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news022.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Occam’s Razor and a USB-C to HDMI adapter",
+        "blurb": "USB-C to HDMIアダプターに関する記事。最も単純な説明が最善であるというオッカムの剃刀の原則を解説。",
+        "category": "tools",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/occams-razor-and-a-usb-c-to-hdmi-adapter"
+        },
+        "field": null
+      }
+    ],
     "company": [
       {
-        "title": "This Tesla FSD Ride Through Brussels Went Well. Mostly",
-        "blurb": "テスラの自動運転機能「FSD」が、ベルギー・ブリュッセルの交通状況で、一部「違法」と評される場面も含め、ほぼ問題なく走行した。",
+        "title": "Melexis Targets Small Motor Applications with 5-V Pico-Resolver",
+        "blurb": "Melexisが小型モーター向け5Vピコリゾルバを発表。2µsの高速応答、毎分5万回転超、3軸磁気センシングを小型パッケージに集約。",
         "category": "company",
-        "date": "2026-09-06",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/melexis-targets-small-motor-applications-with-5-v-pico-resolver"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Improved GaN HEMT SEE Radiation Hardness with Gate Termination Extension",
+        "blurb": "窒化ガリウムHEMTのゲート終端延長により、単一イベント耐性が向上し、衛星の動作電圧向上に貢献。",
+        "category": "company",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/improved-gan-hemt-see-radiation-hardness-with-gate-termination-extension"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "シリコン量子コンピュータの基盤技術、日立が開発",
+        "blurb": "日立がシリコン量子コンピュータの基盤技術を開発。配線数抑制と量子状態制御技術で産業応用を目指す。",
+        "category": "company",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news023.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "SKが米国にHBM工場　40億ドル投資",
+        "blurb": "SKハイニックスが米国に40億ドル投資し、HBMパッケージング工場を建設。アジア集中を是正し、米国の半導体製造の空白解消を目指す。",
+        "category": "company",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news056.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「試用期間」のヒューマノイドも TE掛川工場の取り組み",
+        "blurb": "TE Connectivity Japan掛川工場は、自動車向けコネクター生産で自動化やデータ活用を進め、ヒューマノイドロボットも試験導入。品質・生産性向上に取り組む。",
+        "category": "company",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news041.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "The Audi A2 E-Tron Packs Up To 401 Miles Of Range And Serious Efficiency",
+        "blurb": "新型アウディA2は、先代モデルの伝統を受け継ぎ、驚異的な航続距離と効率、個性的なスタイルを特徴とする。",
+        "category": "company",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807281/tesla-fsd-drives-through-burssels"
-        },
-        "field": null
-      },
-      {
-        "title": "The story of SONDORS’ new mystery e-bike just got even weirder with just two words",
-        "blurb": "SONDORS社の新型電動自転車に関する情報が、さらに奇妙な展開を見せている。",
-        "category": "company",
-        "date": "2026-09-06",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/09/06/the-story-of-sondors-new-mystery-e-bike-just-got-even-weirder-with-just-two-words"
+          "url": "https://insideevs.com/news/807379/new-audi-a2-range-price-efficiency-official"
         },
         "field": null
       },
@@ -66,43 +224,13 @@
       },
       {
         "title": "Rivian Just Made The R1S And R1T Feel A Whole Lot Newer For Free",
-        "blurb": "RivianがR1SとR1Tに無料のソフトウェアアップデートを配信。新機能を追加し、車両の魅力を高めた。",
+        "blurb": "Rivianが無料のソフトウェアアップデートでR1SとR1Tに新機能を追加し、車両の魅力を高めた。",
         "category": "company",
         "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
           "url": "https://insideevs.com/news/807214/rivian-rivianos-update-r1-r2"
-        },
-        "field": null
-      },
-      {
-        "title": "SANY delivered 200 electric haul trucks, 600 EV wheel loaders – LAST MONTH",
-        "blurb": "中国の建設機械メーカーSANYが先月、電動ダンプトラック200台、電動ホイールローダー600台以上を納入した。",
-        "category": "company",
-        "date": "2026-09-07",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/09/06/sany-delivered-200-electric-haul-trucks-600-ev-wheel-loaders-last-month"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Survey Sunday: will Cybercab transform mobility, or be just another car?",
-        "blurb": "サイバーキャブは移動手段を変革するか、単なる車に終わるか。読者アンケートの結果、変革への期待と懐疑的な意見が示された。",
-        "category": "company",
-        "date": "2026-09-07",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/09/06/survey-sunday-will-cybercab-transform-mobility-or-be-just-another-car"
         },
         "field": null
       }
