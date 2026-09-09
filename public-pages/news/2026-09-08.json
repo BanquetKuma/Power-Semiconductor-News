@@ -1,260 +1,182 @@
 {
-  "generated_at": "2026-09-09T08:11:00.906514+09:00",
+  "generated_at": "2026-09-08T08:16:52.984912+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Designing a Peak Power-Shaving Solution for AI Server Applications",
-    "summary": "AIサーバー向けに、スーパーキャパシタと双方向充電器を用いたピーク電力抑制回路がGPUトレーニング時の電源を補助。",
+    "title": "Melexis Targets Small Motor Applications with 5-V Pico-Resolver",
+    "summary": "Melexisが小型モーター向け5Vピコリゾルバを発表。2µsの高速応答、毎分5万回転超、3軸磁気センシングを小型パッケージに集約。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/designing-a-peak-power-shaving-solution-for-ai-server-applications"
+        "url": "https://www.powerelectronicsnews.com/melexis-targets-small-motor-applications-with-5-v-pico-resolver"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Designing a Peak Power-Shaving Solution for AI Server Applications",
-        "blurb": "AIサーバー向けに、スーパーキャパシタと双方向充電器を用いたピーク電力抑制回路がGPUトレーニング時の電源を補助。",
+        "title": "GaN市場でInfineonが5位から2位に急浮上　AIが変える勢力図",
+        "blurb": "Infineon TechnologiesがGaNパワーデバイス市場で5位から2位へ急浮上。AIが市場勢力図を変える。",
         "category": "business",
-        "date": "2026-09-08",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/designing-a-peak-power-shaving-solution-for-ai-server-applications"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news059.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "推論で需要増のSSD　キオクシアが示す進化の方向性",
+        "blurb": "キオクシアはAI需要増でSSDの進化方向性を示し、GPU性能向上で注目の「コンテキストキャッシュ」を紹介した。",
+        "category": "business",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news069.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Research Bits: Sept. 8",
-        "blurb": "炭素絶縁膜、高温SiC JFET、VCT誘電体に関する研究成果。",
-        "category": "business",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-sept-8-2"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Chip Industry Technical Paper Roundup: Sept. 8",
-        "blurb": "半導体業界の技術論文まとめ：LLM推論用HBF、2nmM3DSRAM、分散GPU、ハイブリッドHBM-HBFメモリ、GaN-on-Si、プログラマブルシリコンフォトニクス、4H-SiC Alドーパント活性化。",
+        "title": "Automotive coolant level sensors: Fundamentals to stay cool",
+        "blurb": "自動車の冷却水レベルセンサーはエンジンの過熱を防ぐために不可欠。故障すると壊滅的な結果を招く。",
         "category": "business",
-        "date": "2026-09-08",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-8-2"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "世界半導体売上高、7カ月で年間最高額を上回る",
-        "blurb": "2026年7月の世界半導体売上高は前年同月比135.1%増の1468億ドル。1～7月合計で年間最高額を既に突破した。",
-        "category": "business",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news051.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Mission-Critical Systems: MCUs vs. FPGAs vs. SoCs",
-        "blurb": "宇宙・防衛・重工業分野では、放射線や極端な温度環境下で長期信頼性が求められ、MCU、FPGA、SoCの選択に影響を与える。",
-        "category": "business",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mission-critical-systems-mcus-vs-fpgas-vs-socs"
+          "name": "edn.com",
+          "url": "https://www.edn.com/automotive-coolant-level-sensors-fundamentals-to-stay-cool"
         },
         "field": null
-      },
-      {
-        "title": "Plug-In Hybrids Have An Emissions Problem. Carmakers Want To Delay The Fix",
-        "blurb": "欧州でPHVのCO2排出量が公式値の6倍との報告。自動車メーカーは対応遅延を望む。",
-        "category": "business",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807501/phev-emissions-six-times-higher"
-        },
-        "field": null
-      },
-      {
-        "title": "A Mercedes-Backed Company Just Put Solid-State Batteries Into Mass Production",
-        "blurb": "台湾のProLogium社が、高エネルギー密度の全固体電池の量産を開始。メルセデス・ベンツも出資。",
-        "category": "business",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807472/solid-state-battery-mass-production-prologium"
-        },
-        "field": null
-      },
-      {
-        "title": "Audi Wants To Sweeten Your EV Lease Buyout Deal With Up to $10,000 Off",
-        "blurb": "アウディ、EVリース終了時の買い取り価格を最大1万ドル引き下げ、顧客の車両保有を促進。リース終了後の顧客維持に注力。",
-        "category": "business",
-        "date": "2026-09-09",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807589/audi-ev-lease-buyout-incentive"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
       }
     ],
     "tools": [
       {
-        "title": "Smart Outlier Detection",
-        "blurb": "チップが良品と判定されても、期待通りに動作するとは限らない。スマート外れ値検出の重要性。",
+        "title": "MEMS一体型単結晶ダイヤモンド量子センサー実現",
+        "blurb": "東北大学とNIMSは、単結晶ダイヤモンドMEMSに量子センシング機能と機械構造を集積する技術を開発。高度な応力センシングへの応用が期待される。",
         "category": "tools",
-        "date": "2026-09-08",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/smart-outlier-detection"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news022.html"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "analog",
+          "device": "analog",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "「もう寝るから後はよろしく」　半導体検証までAIで自律化",
-        "blurb": "シーメンスがNVIDIAと連携し、AIエージェントが自律的に半導体設計・検証を行うEDAツールを発表。設計フローの自動化・効率化に期待。",
+        "title": "Occam’s Razor and a USB-C to HDMI adapter",
+        "blurb": "USB-C to HDMIアダプターに関する記事。最も単純な説明が最善であるというオッカムの剃刀の原則を解説。",
         "category": "tools",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news070.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "光を当てるだけできれいに剥がれる接着剤を開発",
-        "blurb": "阪大などの研究グループが、光で剥がせて再接着も可能な「光応答接着材料」を開発。製品分解やリサイクルが容易に。",
-        "category": "tools",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news030.html"
-        },
-        "field": null
-      },
-      {
-        "title": "A comparison of traditional and DSP-enabled ADCs in radio receivers",
-        "blurb": "無線受信機における従来型ADCとDSP搭載ADCの比較。直接変換、デジタル選択、IFサンプリング方式の3種類を紹介。",
-        "category": "tools",
-        "date": "2026-09-08",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/a-comparison-of-traditional-and-dsp-enabled-adcs-in-radio-receivers"
-        },
-        "field": null
-      },
-      {
-        "title": "Fun with third-order active filters",
-        "blurb": "Butterworth回路には、ローパス・ハイパス版、理想型、サレンキー型、エミッタフォロワ型、DC精度型がある。",
-        "category": "tools",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fun-with-third-order-active-filters"
+          "url": "https://www.edn.com/occams-razor-and-a-usb-c-to-hdmi-adapter"
         },
         "field": null
       }
     ],
     "company": [
       {
-        "title": "Würth Elektronik Adds High-EMC-Immunity Optocoupler",
-        "blurb": "ヴィルス・エレクトロニクス、高EMC耐性オプトカプラを発表。高速通信と高耐圧、ノイズ環境下での信頼性向上を実現。",
+        "title": "Melexis Targets Small Motor Applications with 5-V Pico-Resolver",
+        "blurb": "Melexisが小型モーター向け5Vピコリゾルバを発表。2µsの高速応答、毎分5万回転超、3軸磁気センシングを小型パッケージに集約。",
         "category": "company",
-        "date": "2026-09-08",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wurth-elektronik-adds-high-emc-immunity-optocoupler"
+          "url": "https://www.powerelectronicsnews.com/melexis-targets-small-motor-applications-with-5-v-pico-resolver"
         },
-        "field": null
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "Samsung、高NA EUVをDRAM量産に「業界初」導入へ　28年までに",
-        "blurb": "サムスン電子は2028年までに高NA EUV露光装置をDRAM量産に業界初導入へ。ASMLと協業拡大。",
+        "title": "Improved GaN HEMT SEE Radiation Hardness with Gate Termination Extension",
+        "blurb": "窒化ガリウムHEMTのゲート終端延長により、単一イベント耐性が向上し、衛星の動作電圧向上に貢献。",
         "category": "company",
-        "date": "2026-09-08",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/improved-gan-hemt-see-radiation-hardness-with-gate-termination-extension"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "シリコン量子コンピュータの基盤技術、日立が開発",
+        "blurb": "日立がシリコン量子コンピュータの基盤技術を開発。配線数抑制と量子状態制御技術で産業応用を目指す。",
+        "category": "company",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news085.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news023.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "SKが米国にHBM工場　40億ドル投資",
+        "blurb": "SKハイニックスが米国に40億ドル投資し、HBMパッケージング工場を建設。アジア集中を是正し、米国の半導体製造の空白解消を目指す。",
+        "category": "company",
+        "date": "2026-09-07",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news056.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "frontend",
+          "process": null,
           "market": null,
-          "industry": "idm"
+          "industry": null
         }
       },
       {
-        "title": "ニデック品質不正問題　岸田社長「全ての説明責任は私に」",
-        "blurb": "ニデック社長、品質不正844件を謝罪。「全ての説明責任は私に」と重く受け止める。",
+        "title": "「試用期間」のヒューマノイドも TE掛川工場の取り組み",
+        "blurb": "TE Connectivity Japan掛川工場は、自動車向けコネクター生産で自動化やデータ活用を進め、ヒューマノイドロボットも試験導入。品質・生産性向上に取り組む。",
         "category": "company",
-        "date": "2026-09-08",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news081.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news041.html"
         },
         "field": {
           "primary": "general",
@@ -265,140 +187,50 @@
         }
       },
       {
-        "title": "ASML、日本は「技術革新支える重要市場」　日本法人社長が方針",
-        "blurb": "ASMLジャパンは、日本を先端半導体投資の重要市場と位置づけ、2030年までに従業員を700人規模に増員し、国内連携や調達を強化する方針を示した。",
+        "title": "The Audi A2 E-Tron Packs Up To 401 Miles Of Range And Serious Efficiency",
+        "blurb": "新型アウディA2は、先代モデルの伝統を受け継ぎ、驚異的な航続距離と効率、個性的なスタイルを特徴とする。",
         "category": "company",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news040.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "強磁性で高導電性の微小複合材料を合成、産総研",
-        "blurb": "産総研は、強磁性と高導電性を両立する鉄・銅・銀の複合材料を合成。半導体テストソケットへの応用が期待される。",
-        "category": "company",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news029.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Watch Tesla FSD Navigate Denmark's Tightest, Toughest Street",
-        "blurb": "テスラの自動運転機能「FSD」が、デンマークの狭く複雑な市街地で走行テストを実施。狭い石畳や自転車、カフェの客などで混雑する中、その能力が試された。",
-        "category": "company",
-        "date": "2026-09-08",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807526/tesla-fsd-aarhus-center-ride"
+          "url": "https://insideevs.com/news/807379/new-audi-a2-range-price-efficiency-official"
         },
         "field": null
       },
       {
-        "title": "Sold Out: Volkswagen’s Cheap ID. Polo EV Now Has Months-Long Wait Times",
-        "blurb": "フォルクスワーゲンEV「ID.ポロ」が完売、納期数ヶ月待ち。シュコダとクプラのEVも人気。",
+        "title": "Jeep Wagoneer EREV Production Delayed By 6 Months: Report",
+        "blurb": "ジープ・ワゴニアのEREV生産が6ヶ月遅延し、11月に開始予定。ラム1500 EREVは来年登場。",
         "category": "company",
-        "date": "2026-09-08",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807512/vw-id-polo-sold-out-high-interest"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "2027 Chevrolet Bolt 70-MPH Range Test: Here’s How Far America’s Cheapest EV Goes",
-        "blurb": "新型シボレー・ボルトは3万ドル未満で、航続距離250マイル超を約束。高速道路での実力は？",
-        "category": "company",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807502/2027-chevrolet-bolt-ev-70-mph-highway-range-test"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Polestar’s New Concept Hints At What’s Coming To Its Next Two EVs",
-        "blurb": "ポールスターの新型コンセプトカー「Formula 2030」は、次期Polestar 2と7に搭載される新機能をプレビューする。",
-        "category": "company",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807486/polestar-formula-2030-concept-teaser"
+          "url": "https://insideevs.com/news/807228/jeep-ram-erev-delay-hybrid"
         },
         "field": null
       },
       {
-        "title": "China's Best-Selling EV Can Drift Really Well",
-        "blurb": "中国で最も売れているEV「Geely EX2」のカスタマイズ性をアピールするコンセプトカーが登場。ドリフト走行も可能。",
+        "title": "Tesla's Cybercab Is Finally Here. So Is The Competition.",
+        "blurb": "テスラの自動運転タクシー「サイバーキャブ」がついに登場。競合他社も同様のサービス開発を進めており、競争が激化。",
         "category": "company",
-        "date": "2026-09-09",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807568/geely-ex2-drift-track-toy"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Is This Mullen Five Concept Car From A Failed Startup Worth Your Money?",
-        "blurb": "破綻したスタートアップのEVコンセプトカー「Mullen Five」が販売中。走行可能かは不明。",
-        "category": "company",
-        "date": "2026-09-09",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807567/mullen-five-concept-for-sale"
+          "url": "https://insideevs.com/news/807231/tesla-cybercab-launch-competition-heating"
         },
         "field": null
       },
       {
-        "title": "Tesla Cybercab's Backup Steering Wheel Is A Giant On-Screen Joystick",
-        "blurb": "テスラ、サイバーキャブの巨大インフォテインメント画面内に仮想ステアリングホイールを隠す。操作は画面上のジョイスティック形式。",
+        "title": "Rivian Just Made The R1S And R1T Feel A Whole Lot Newer For Free",
+        "blurb": "Rivianが無料のソフトウェアアップデートでR1SとR1Tに新機能を追加し、車両の魅力を高めた。",
         "category": "company",
-        "date": "2026-09-09",
+        "date": "2026-09-07",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807539/tesla-cybercab-hidden-screen-controls"
+          "url": "https://insideevs.com/news/807214/rivian-rivianos-update-r1-r2"
         },
         "field": null
       }

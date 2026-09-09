@@ -1,50 +1,70 @@
 {
-  "generated_at": "2026-09-08T08:16:52.987007+09:00",
+  "generated_at": "2026-09-10T07:55:14.463223+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Melexis Targets Small Motor Applications with 5-V Pico-Resolver",
-    "summary": "Melexisが小型モーター向け5Vピコリゾルバを発表。2µsの高速応答、毎分5万回転超、3軸磁気センシングを小型パッケージに集約。",
+    "title": "The Measurement Hardware Behind Grid Digital Twins",
+    "summary": "電力網のデジタルツインは、変圧器や遮断器の故障予測に高精度で同期したセンサー測定チェーンが不可欠である。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/melexis-targets-small-motor-applications-with-5-v-pico-resolver"
+        "url": "https://www.powerelectronicsnews.com/the-measurement-hardware-behind-grid-digital-twins"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Melexis Targets Small Motor Applications with 5-V Pico-Resolver",
-        "blurb": "Melexisが小型モーター向け5Vピコリゾルバを発表。2µsの高速応答、毎分5万回転超、3軸磁気センシングを小型パッケージに集約。",
+        "title": "ソニーとAramcoが協業へ センサーとエッジAIを現場に",
+        "blurb": "ソニーとAramcoが産業AI高度化で協業検討。イメージセンサーとエッジAI技術、現場データや知見を融合し新アプリ開発へ。",
         "category": "company",
-        "date": "2026-09-07",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/melexis-targets-small-motor-applications-with-5-v-pico-resolver"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/09/news042.html"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
     "tech": [
       {
-        "title": "MEMS一体型単結晶ダイヤモンド量子センサー実現",
-        "blurb": "東北大学とNIMSは、単結晶ダイヤモンドMEMSに量子センシング機能と機械構造を集積する技術を開発。高度な応力センシングへの応用が期待される。",
+        "title": "Nanopower’s nPZ2100 Cuts Sensor System Power Use by 90%",
+        "blurb": "Nanopowerの新IC「nPZ2100」は、センサーシステムの消費電力を90%削減し、IoTデバイスのバッテリー寿命を延長します。",
         "category": "tools",
-        "date": "2026-09-07",
+        "date": "2026-09-10",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news022.html"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/nanopowers-npz2100-cuts-sensor-system-power-use-by-90"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "The Measurement Hardware Behind Grid Digital Twins",
+        "blurb": "電力網のデジタルツインは、変圧器や遮断器の故障予測に高精度で同期したセンサー測定チェーンが不可欠である。",
+        "category": "business",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-measurement-hardware-behind-grid-digital-twins"
         },
         "field": {
           "primary": "analog",
@@ -54,7 +74,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }

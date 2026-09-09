@@ -1,82 +1,58 @@
 {
-  "generated_at": "2026-09-09T08:11:00.906514+09:00",
+  "generated_at": "2026-09-10T07:55:14.460842+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Designing a Peak Power-Shaving Solution for AI Server Applications",
-    "summary": "AIサーバー向けに、スーパーキャパシタと双方向充電器を用いたピーク電力抑制回路がGPUトレーニング時の電源を補助。",
+    "title": "Vishay Introduces Automotive High-Current Common-Mode Chokes",
+    "summary": "Vishayが、高電流・高耐圧・高温対応の車載用コモンモードチョークを発表。30A、1500VDC、+150℃対応。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/designing-a-peak-power-shaving-solution-for-ai-server-applications"
+        "url": "https://www.powerelectronicsnews.com/vishay-introduces-automotive-high-current-common-mode-chokes"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Designing a Peak Power-Shaving Solution for AI Server Applications",
-        "blurb": "AIサーバー向けに、スーパーキャパシタと双方向充電器を用いたピーク電力抑制回路がGPUトレーニング時の電源を補助。",
+        "title": "Vishay Introduces Automotive High-Current Common-Mode Chokes",
+        "blurb": "Vishayが、高電流・高耐圧・高温対応の車載用コモンモードチョークを発表。30A、1500VDC、+150℃対応。",
         "category": "business",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/designing-a-peak-power-shaving-solution-for-ai-server-applications"
+          "url": "https://www.powerelectronicsnews.com/vishay-introduces-automotive-high-current-common-mode-chokes"
         },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "Research Bits: Sept. 8",
-        "blurb": "炭素絶縁膜、高温SiC JFET、VCT誘電体に関する研究成果。",
+        "title": "The Measurement Hardware Behind Grid Digital Twins",
+        "blurb": "電力網のデジタルツインは、変圧器や遮断器の故障予測に高精度で同期したセンサー測定チェーンが不可欠である。",
         "category": "business",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/research-bits-sept-8-2"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-measurement-hardware-behind-grid-digital-twins"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "analog",
+          "device": "analog",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Chip Industry Technical Paper Roundup: Sept. 8",
-        "blurb": "半導体業界の技術論文まとめ：LLM推論用HBF、2nmM3DSRAM、分散GPU、ハイブリッドHBM-HBFメモリ、GaN-on-Si、プログラマブルシリコンフォトニクス、4H-SiC Alドーパント活性化。",
+        "title": "Can GPUs Continue To Dominate AI Compute?",
+        "blurb": "AI計算市場でGPUの優位性に疑問符。Google、Amazon、OpenAIが独自の競争力ある製品を投入し、シェアを拡大している。",
         "category": "business",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-8-2"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "世界半導体売上高、7カ月で年間最高額を上回る",
-        "blurb": "2026年7月の世界半導体売上高は前年同月比135.1%増の1468億ドル。1～7月合計で年間最高額を既に突破した。",
-        "category": "business",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news051.html"
+          "url": "https://semiengineering.com/can-gpus-continue-to-dominate-ai-compute"
         },
         "field": {
           "primary": "general",
@@ -87,44 +63,62 @@
         }
       },
       {
-        "title": "Mission-Critical Systems: MCUs vs. FPGAs vs. SoCs",
-        "blurb": "宇宙・防衛・重工業分野では、放射線や極端な温度環境下で長期信頼性が求められ、MCU、FPGA、SoCの選択に影響を与える。",
+        "title": "Token Costs Are Becoming The New EDA Budget Battle",
+        "blurb": "EDAツールのトークンコスト高騰が設計予算を圧迫。今後の見通しは不透明。",
         "category": "business",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mission-critical-systems-mcus-vs-fpgas-vs-socs"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/token-costs-are-becoming-the-new-eda-budget-battle"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "Plug-In Hybrids Have An Emissions Problem. Carmakers Want To Delay The Fix",
-        "blurb": "欧州でPHVのCO2排出量が公式値の6倍との報告。自動車メーカーは対応遅延を望む。",
+        "title": "Blog Review: Sept. 9",
+        "blurb": "AI適応、ファブのデジタルツイン、モバイルVLMなど、AI時代の半導体開発の課題と展望を解説。",
         "category": "business",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807501/phev-emissions-six-times-higher"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-sept-9-3"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "A Mercedes-Backed Company Just Put Solid-State Batteries Into Mass Production",
-        "blurb": "台湾のProLogium社が、高エネルギー密度の全固体電池の量産を開始。メルセデス・ベンツも出資。",
+        "title": "データセンターの立地は都市から郊外へ、放熱は空冷から液冷へ（後編）",
+        "blurb": "データセンターの立地が都市から郊外へ、冷却方式は空冷から液冷へと移行。実装技術ロードマップのデータセンター分野について解説。",
         "category": "business",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807472/solid-state-battery-mass-production-prologium"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/09/news030.html"
         },
-        "field": null
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
       },
       {
         "title": "Audi Wants To Sweeten Your EV Lease Buyout Deal With Up to $10,000 Off",
-        "blurb": "アウディ、EVリース終了時の買い取り価格を最大1万ドル引き下げ、顧客の車両保有を促進。リース終了後の顧客維持に注力。",
+        "blurb": "アウディ、EVリース終了後の購入者に対し最大1万ドルの割引を提供し、車両保有を促進。",
         "category": "business",
         "date": "2026-09-09",
         "stars": 3,
@@ -139,18 +133,42 @@
           "market": "automotive",
           "industry": null
         }
+      },
+      {
+        "title": "Marelli, Microchip extend ASA-ML to displays",
+        "blurb": "マレリとマイクロチップが、車載ディスプレイ向けにグラフィックス・動画ストリーミングの新ソリューション「ASA-ML」を発表。",
+        "category": "business",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/marelli-microchip-extend-asa-ml-to-displays"
+        },
+        "field": null
+      },
+      {
+        "title": "More And More Americans Are Interested In EVs: Study",
+        "blurb": "ガソリン価格高騰に加え、充電インフラ拡充が米国のEV普及を後押ししている。調査で明らかになった。",
+        "category": "business",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807725/americans-want-more-evs"
+        },
+        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Smart Outlier Detection",
-        "blurb": "チップが良品と判定されても、期待通りに動作するとは限らない。スマート外れ値検出の重要性。",
+        "title": "The Intersection Of AI And Voice At The Edge",
+        "blurb": "AIと音声技術の融合が、人間と機械のインターフェースを根本的に変える。",
         "category": "tools",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/smart-outlier-detection"
+          "url": "https://semiengineering.com/the-intersection-of-ai-and-voice-at-the-edge"
         },
         "field": {
           "primary": "general",
@@ -161,14 +179,14 @@
         }
       },
       {
-        "title": "「もう寝るから後はよろしく」　半導体検証までAIで自律化",
-        "blurb": "シーメンスがNVIDIAと連携し、AIエージェントが自律的に半導体設計・検証を行うEDAツールを発表。設計フローの自動化・効率化に期待。",
+        "title": "When Digital Forensics Reaches The Hardware Layer",
+        "blurb": "デジタルフォレンジックがハードウェア層にまで及ぶ。セキュリティ強化が調査に必要な情報へのアクセスを制限する。",
         "category": "tools",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news070.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/when-digital-forensics-reaches-the-hardware-layer"
         },
         "field": {
           "primary": "general",
@@ -179,148 +197,220 @@
         }
       },
       {
-        "title": "光を当てるだけできれいに剥がれる接着剤を開発",
-        "blurb": "阪大などの研究グループが、光で剥がせて再接着も可能な「光応答接着材料」を開発。製品分解やリサイクルが容易に。",
+        "title": "MATSim実践編――「深夜ラッシュ」の謎を解く",
+        "blurb": "MATSimで1万人の通勤をシミュレーションし、深夜ラッシュの原因を分析。交通流の複雑な挙動を解明する。",
         "category": "tools",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news030.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/09/news019.html"
         },
         "field": null
       },
       {
-        "title": "A comparison of traditional and DSP-enabled ADCs in radio receivers",
-        "blurb": "無線受信機における従来型ADCとDSP搭載ADCの比較。直接変換、デジタル選択、IFサンプリング方式の3種類を紹介。",
+        "title": "SiC-IGBT向け高精度シミュレーション技術を開発",
+        "blurb": "電力中央研究所は、SiCパワーデバイスの特性予測精度を向上させるシミュレーション技術を開発。耐電圧10kV超級SiC-IGBTの開発期間短縮に貢献。",
         "category": "tools",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/a-comparison-of-traditional-and-dsp-enabled-adcs-in-radio-receivers"
-        },
-        "field": null
-      },
-      {
-        "title": "Fun with third-order active filters",
-        "blurb": "Butterworth回路には、ローパス・ハイパス版、理想型、サレンキー型、エミッタフォロワ型、DC精度型がある。",
-        "category": "tools",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fun-with-third-order-active-filters"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Würth Elektronik Adds High-EMC-Immunity Optocoupler",
-        "blurb": "ヴィルス・エレクトロニクス、高EMC耐性オプトカプラを発表。高速通信と高耐圧、ノイズ環境下での信頼性向上を実現。",
-        "category": "company",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/wurth-elektronik-adds-high-emc-immunity-optocoupler"
-        },
-        "field": null
-      },
-      {
-        "title": "Samsung、高NA EUVをDRAM量産に「業界初」導入へ　28年までに",
-        "blurb": "サムスン電子は2028年までに高NA EUV露光装置をDRAM量産に業界初導入へ。ASMLと協業拡大。",
-        "category": "company",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news085.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/09/news035.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Double DPOT programming: Parallel gang-up, singleton, or none",
+        "blurb": "デュアルデジポットの2つのチャンネルを、並列、単独、または無効に設定可能。回路の柔軟性により選択・調整ができる。",
+        "category": "tools",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/double-dpot-programming-parallel-gang-up-singleton-or-none"
+        },
+        "field": null
+      },
+      {
+        "title": "Flash calculator promising cost savings, design flexibility",
+        "blurb": "フラッシュメモリ設計ツールは、OEMのコスト削減と代替ストレージ戦略の検討を支援します。",
+        "category": "tools",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/flash-calculator-promising-cost-savings-design-flexibility"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "frontend",
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "ニデック品質不正問題　岸田社長「全ての説明責任は私に」",
-        "blurb": "ニデック社長、品質不正844件を謝罪。「全ての説明責任は私に」と重く受け止める。",
-        "category": "company",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news081.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "ASML、日本は「技術革新支える重要市場」　日本法人社長が方針",
-        "blurb": "ASMLジャパンは、日本を先端半導体投資の重要市場と位置づけ、2030年までに従業員を700人規模に増員し、国内連携や調達を強化する方針を示した。",
-        "category": "company",
-        "date": "2026-09-08",
+        "title": "Control knobs are customizable and production-ready",
+        "blurb": "OKW社製のカスタム可能なロータリーポテンショメーター・エンコーダーノブは、メニュー駆動インターフェース向けに設計されています。",
+        "category": "tools",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news040.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "強磁性で高導電性の微小複合材料を合成、産総研",
-        "blurb": "産総研は、強磁性と高導電性を両立する鉄・銅・銀の複合材料を合成。半導体テストソケットへの応用が期待される。",
-        "category": "company",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news029.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Watch Tesla FSD Navigate Denmark's Tightest, Toughest Street",
-        "blurb": "テスラの自動運転機能「FSD」が、デンマークの狭く複雑な市街地で走行テストを実施。狭い石畳や自転車、カフェの客などで混雑する中、その能力が試された。",
-        "category": "company",
-        "date": "2026-09-08",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807526/tesla-fsd-aarhus-center-ride"
+          "name": "edn.com",
+          "url": "https://www.edn.com/control-knobs-are-customizable-and-production-ready"
         },
         "field": null
       },
       {
-        "title": "Sold Out: Volkswagen’s Cheap ID. Polo EV Now Has Months-Long Wait Times",
-        "blurb": "フォルクスワーゲンEV「ID.ポロ」が完売、納期数ヶ月待ち。シュコダとクプラのEVも人気。",
-        "category": "company",
-        "date": "2026-09-08",
+        "title": "ArmSoM Sige6 Allwinner A733 SBC Packs 3 TOPS AI and LPDDR5 Memory",
+        "blurb": "ArmSoM Sige6は、3TOPSのAI性能とLPDDR5メモリを搭載した小型SBC。4K映像、Wi-Fi 6、NVMe拡張、豊富なI/Oを備え、エッジAIや組み込み用途に最適。",
+        "category": "tools",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/armsom-sige6-allwinner-a733-sbc-packs-3-tops-ai-and-lpddr5-memory"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "The Slate Truck’s Trailer Hitch Installation Is As Simple As It Gets",
+        "blurb": "Slate Truckは、30分で取り付け可能な99.99ドルのトレーラーヒッチを発表。特別な工具は不要。",
+        "category": "tools",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807512/vw-id-polo-sold-out-high-interest"
+          "url": "https://insideevs.com/news/807633/slate-truck-trailer-hitch-installation"
+        },
+        "field": null
+      },
+      {
+        "title": "Nanopower’s nPZ2100 Cuts Sensor System Power Use by 90%",
+        "blurb": "Nanopowerの新IC「nPZ2100」は、センサーシステムの消費電力を90%削減し、IoTデバイスのバッテリー寿命を延長します。",
+        "category": "tools",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/nanopowers-npz2100-cuts-sensor-system-power-use-by-90"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "ソニーとAramcoが協業へ センサーとエッジAIを現場に",
+        "blurb": "ソニーとAramcoが産業AI高度化で協業検討。イメージセンサーとエッジAI技術、現場データや知見を融合し新アプリ開発へ。",
+        "category": "company",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/09/news042.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "リチウムイオン電池長寿命化に向け、新たな電解液添加剤",
+        "blurb": "北陸先端科学技術大学院大学は、リチウムイオン電池の寿命を延ばす新電解液添加剤「FPTI」を開発。グラファイト負極を保護し耐久性を向上させる。",
+        "category": "company",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/09/news036.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Neura Robotics and Seco Partner to Scale Physical AI",
+        "blurb": "Neura RoboticsとSecoが提携し、欧州で物理AIの産業化とスケールアップを目指す。ロボット向けコンピューティングモジュール開発に注力。",
+        "category": "company",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/neura-robotics-and-seco-partner-to-scale-physical-ai"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "LG’s Experimental LMR Battery Retained 92% Capacity After 883 Cycles",
+        "blurb": "LGは、充電・放電方法を変更し、883サイクル後も92%の容量を維持するLMRバッテリーを開発しました。",
+        "category": "company",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807675/lg-seoul-lmr-battery-research"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla Will Make Supercharger Stations Just For Robotaxis",
+        "blurb": "テスラは、自動運転タクシー専用のスーパーチャージャーを設置する。現在、夜間に手動で充電している。",
+        "category": "company",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807667/tesla-supercharger-robotaxi-dedicated"
+        },
+        "field": null
+      },
+      {
+        "title": "Toyota Recalls 10,000 C-HR EVs That May Lose Power While Driving",
+        "blurb": "トヨタは、走行中に突然電源が切れる可能性があるC-HR EV約1万台のリコールを発表。ソフトウェアの不具合が原因で、ディーラーでの修正が必要。",
+        "category": "company",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807615/toyota-c-hr-recall-lose-power-battery"
+        },
+        "field": null
+      },
+      {
+        "title": "Watch Tesla's Wild 'Unboxed' Manufacturing For The Cybercab In Action",
+        "blurb": "テスラはサイバーキャブをモジュール式で並行ラインで製造し、ラインサイズを半減させる。",
+        "category": "company",
+        "date": "2026-09-09",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807603/tesla-cybercab-unboxed-production-video"
         },
         "field": {
           "primary": "automotive",
@@ -331,14 +421,14 @@
         }
       },
       {
-        "title": "2027 Chevrolet Bolt 70-MPH Range Test: Here’s How Far America’s Cheapest EV Goes",
-        "blurb": "新型シボレー・ボルトは3万ドル未満で、航続距離250マイル超を約束。高速道路での実力は？",
+        "title": "The All-Electric Jeep Recon Beats The Wrangler In One Key Way. But It's Still Flawed.",
+        "blurb": "新型EV「Jeep Recon」は、ロードインプレッションでラングラーを凌駕するが、EVとしての課題も残る。",
         "category": "company",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807502/2027-chevrolet-bolt-ev-70-mph-highway-range-test"
+          "url": "https://insideevs.com/reviews/807593/jeep-recon-moab-first-drive"
         },
         "field": {
           "primary": "automotive",
@@ -349,20 +439,20 @@
         }
       },
       {
-        "title": "Polestar’s New Concept Hints At What’s Coming To Its Next Two EVs",
-        "blurb": "ポールスターの新型コンセプトカー「Formula 2030」は、次期Polestar 2と7に搭載される新機能をプレビューする。",
+        "title": "'Deeply Alarmed': Trump Administration Slams Ford's Deal With Chinese Battery Company",
+        "blurb": "トランプ政権、フォードの中国バッテリー会社との提携に「深く懸念」を表明。運輸長官がフォードCEOに取引停止を要求。",
         "category": "company",
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/807486/polestar-formula-2030-concept-teaser"
+          "url": "https://insideevs.com/news/807596/ford-china-trump-administration-catl"
         },
         "field": null
       },
       {
         "title": "China's Best-Selling EV Can Drift Really Well",
-        "blurb": "中国で最も売れているEV「Geely EX2」のカスタマイズ性をアピールするコンセプトカーが登場。ドリフト走行も可能。",
+        "blurb": "中国で最も売れているEV「Geely EX2」は、ドリフト走行も可能。カスタマイズの可能性を示す。",
         "category": "company",
         "date": "2026-09-09",
         "stars": 3,
@@ -399,6 +489,120 @@
         "source": {
           "name": "insideevs.com",
           "url": "https://insideevs.com/news/807539/tesla-cybercab-hidden-screen-controls"
+        },
+        "field": null
+      },
+      {
+        "title": "Altera brings quantum-resistant security to FPGAs",
+        "blurb": "アルテラ、FPGAに量子耐性暗号を導入しセキュリティを強化。Agilex 3/5 FPGAでポスト量子暗号化をサポート。",
+        "category": "company",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/altera-brings-quantum-resistant-security-to-fpgas"
+        },
+        "field": null
+      },
+      {
+        "title": "AOS boosts power density with 600-V MOSFETs",
+        "blurb": "AOSが600V MOSFETを発表。電力密度を最大化する放熱設計を採用。",
+        "category": "company",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/aos-boosts-power-density-with-600-v-mosfets"
+        },
+        "field": null
+      },
+      {
+        "title": "Dual-port MIPI D-PHY SerDes delivers 20-Gbps bandwidth",
+        "blurb": "EverProXが20Gbps対応のデュアルポートMIPI D-PHY SerDesを発表。2つのカメラストリームを同時に処理可能。",
+        "category": "company",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/dual-port-mipi-d-phy-serdes-delivers-20-gbps-bandwidth"
+        },
+        "field": null
+      },
+      {
+        "title": "SECO pairs Dragonwing with HMI and SBC",
+        "blurb": "SECOはQualcomm Dragonwingプロセッサ搭載の産業用HMIパネルとSBCを開発。小型・高性能。",
+        "category": "company",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/seco-pairs-dragonwing-with-hmi-and-sbc"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Morse Micro Introduces Wi-Fi HaLow USB Network Adapters",
+        "blurb": "Morse MicroがWi-Fi HaLow対応USBアダプタを発表。PCやアクセスポイントを長距離無線ネットワークに接続可能に。",
+        "category": "company",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/morse-micro-introduces-wi-fi-halow-usb-network-adapters"
+        },
+        "field": null
+      },
+      {
+        "title": "Vossen Wasted No Time Putting Its Wheels On The Ferrari Luce",
+        "blurb": "Vossenは、フェラーリ・ルーチェにカスタムホイールを装着。リアウイングは取り外された。",
+        "category": "company",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807731/ferrari-luce-vossen-wheels"
+        },
+        "field": null
+      },
+      {
+        "title": "Waymo Just Made A New Friend In Nashville, And It's Not Uber",
+        "blurb": "自動運転大手Waymoがテネシー州ナッシュビルでLyftと提携。Uberとの関係が不安定な中での新展開。",
+        "category": "company",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807703/waymo-lyft-autonomous-ev-rides-nashville-uber"
+        },
+        "field": null
+      },
+      {
+        "title": "This Electric Camper SUV Has Heated Floors, A Loft, And Built-In Storage. See The SkyNomad N90 Max Studio.",
+        "blurb": "Xiaomiが電動キャンピングSUV「SkyNomad N90 Studio」を発表。床暖房、ロフト、収納を備え、アウトドアや移動オフィスにも。",
+        "category": "company",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807687/xiaomi-skynomad-n90-studio-launch"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla May Offer You A Robotaxi Instead Of A Service Loaner",
+        "blurb": "テスラは、修理中の代替車として、ロボタクシーの提供を検討している。これにより、顧客はレンタカーや配車サービスを利用せずに済む可能性がある。",
+        "category": "company",
+        "date": "2026-09-10",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/807664/tesla-robotaxi-loaner-service-cybercab"
         },
         "field": null
       }
