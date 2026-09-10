@@ -1,40 +1,39 @@
 {
-  "generated_at": "2026-09-10T07:55:18.718304+09:00",
-  "date": "2026-09-10",
+  "generated_at": "2026-09-11T07:56:07.887293+09:00",
+  "date": "2026-09-11",
   "meta_trends": [
     {
-      "name": "AI・データセンター向け高性能半導体需要拡大",
+      "name": "AI・データセンター向け高性能化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "memory",
         "logic",
         "datacenter",
-        "ai"
+        "ai",
+        "memory"
       ],
-      "summary": "AI計算、特に大規模言語モデル（LLM）やトレーニングにGPU、HBMなどの高性能半導体の需要が急増。データセンターの性能向上と省電力化が鍵。",
+      "summary": "AIの進化とデータセンター需要増により、GPU、SSD、メモリなどの高性能化・高機能化が加速。消費電力管理も重要に。",
       "analysis": {
-        "short_term": "HBM、GPUの供給逼迫継続。価格上昇圧力。",
-        "mid_term": "カスタムAIチップ開発競争激化。メモリ帯域幅がボトルネックに。",
-        "investment_implications": "HBM/GPUメーカー、先端メモリ技術企業に注目。"
+        "short_term": "需要は引き続き堅調。供給制約緩和で一部製品は価格安定化の兆し。",
+        "mid_term": "AIモデルの大型化・複雑化で高性能チップへの需要は継続。新アーキテクチャ登場も。",
+        "investment_implications": "AI関連チップメーカー、高性能メモリ、データセンターインフラ関連に注目。"
       },
       "keywords": [
         "AI",
         "GPU",
-        "HBM",
-        "LLM",
-        "データセンター"
+        "SSD",
+        "データセンター",
+        "電力管理"
       ],
       "companies_mentioned": [
-        "Samsung",
-        "SKハイニックス",
-        "Google",
-        "Amazon",
-        "OpenAI"
+        "キオクシア",
+        "NVIDIA",
+        "ASML",
+        "サムスン電子"
       ]
     },
     {
-      "name": "次世代パワー半導体（GaN/SiC）の普及加速",
+      "name": "次世代パワー半導体（GaN/SiC）",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
@@ -43,131 +42,128 @@
         "industrial",
         "datacenter"
       ],
-      "summary": "GaNおよびSiCデバイスは、高効率・高耐圧・高速スイッチング特性により、EVパワートレイン、データセンター電源、産業機器での採用が拡大。",
+      "summary": "EV、産業機器、データセンター等で高効率・小型化を実現するGaN・SiCデバイスの採用が拡大。耐性向上も進む。",
       "analysis": {
-        "short_term": "EV向け需要堅調。データセンター電源での採用増。",
-        "mid_term": "製造コスト低減とサプライチェーン安定化が普及の鍵。",
-        "investment_implications": "GaN/SiCウェハ、デバイスメーカーに投資妙味。"
+        "short_term": "EVシフト加速とデータセンターの高効率化要求で需要増。",
+        "mid_term": "量産体制の確立とコスト低減が進み、採用分野がさらに拡大。",
+        "investment_implications": "GaN/SiCウェハー、デバイスメーカー、関連材料・装置メーカーに投資機会。"
       },
       "keywords": [
         "GaN",
         "SiC",
         "EV",
         "パワートレイン",
-        "データセンター電源"
+        "インバーター"
       ],
       "companies_mentioned": [
         "Nexperia",
         "Aurobay",
-        "Navitas",
         "Infineon Technologies",
         "電力中央研究所"
       ]
     },
     {
-      "name": "半導体設計・検証のAI・自動化活用",
+      "name": "微細化とプロセス制御技術の進化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "logic",
         "frontend",
-        "backend",
+        "foundry",
         "equipment",
-        "ai"
+        "logic"
       ],
-      "summary": "AIエージェントによる設計・検証の自律化が進み、EDAツールの効率化と開発期間短縮が期待される。トークンコスト高騰が課題。",
+      "summary": "サブ2nmプロセスや高NA EUV露光技術など、微細化の限界に挑む技術開発が進展。高度なプロセス制御が不可欠に。",
       "analysis": {
-        "short_term": "EDAツールベンダー間の競争激化。AI機能強化。",
-        "mid_term": "設計者のスキルセット変化。AI活用が標準化へ。",
-        "investment_implications": "EDAツール企業、AIを活用した設計サービス企業に注目。"
+        "short_term": "次世代露光装置への投資活発化。歩留まり向上が課題。",
+        "mid_term": "微細化技術の確立が次世代デバイスの性能を左右。プロセス制御技術の重要性が増す。",
+        "investment_implications": "露光装置メーカー、先端プロセス技術を持つファウンドリ、プロセス制御技術企業に注目。"
       },
       "keywords": [
-        "AI",
-        "EDA",
-        "設計自動化",
-        "検証自動化",
-        "自律化"
+        "サブ2nm",
+        "高NA EUV",
+        "露光装置",
+        "プロセス制御",
+        "ASML"
       ],
       "companies_mentioned": [
-        "シーメンス",
-        "NVIDIA"
+        "ASML",
+        "サムスン電子",
+        "産総研"
       ]
     },
     {
-      "name": "センサーとエッジAIの融合による産業応用拡大",
-      "confidence": 0.8,
+      "name": "インフラ・社会課題解決への応用",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "analog",
         "industrial",
-        "ai",
-        "edge"
+        "automotive",
+        "geopolitics"
       ],
-      "summary": "高精度センサーとエッジAIの組み合わせにより、産業現場でのリアルタイム分析や予兆保全、スマート化が進展。IoTデバイスの低消費電力化も重要。",
+      "summary": "センサー技術、IoT、エッジAIなどが、インフラ保守、エネルギー管理、社会インフラ課題解決に活用され始める。",
       "analysis": {
-        "short_term": "産業用IoTデバイスの需要増加。小型・低消費電力化が進む。",
-        "mid_term": "現場データとAI知見の融合による新たなアプリケーション創出。",
-        "investment_implications": "高精度センサーメーカー、エッジAIチップメーカーに機会。"
+        "short_term": "社会インフラ分野でのPoC（概念実証）が増加。",
+        "mid_term": "実用化・普及が進み、新たな市場を創出する可能性。",
+        "investment_implications": "高信頼性センサー、低消費電力デバイス、エッジAIソリューション関連企業に注目。"
       },
       "keywords": [
         "センサー",
-        "エッジAI",
         "IoT",
-        "産業用",
-        "予兆保全"
+        "エッジAI",
+        "社会インフラ",
+        "デジタルツイン"
       ],
       "companies_mentioned": [
-        "ソニー",
-        "Aramco",
         "Melexis",
-        "Nanopower"
+        "エイブリック",
+        "ソニー",
+        "Aramco"
       ]
     },
     {
-      "name": "先端製造技術（高NA EUV）への投資とサプライチェーン強化",
-      "confidence": 0.75,
-      "momentum": "rising",
+      "name": "サプライチェーン再編と国内回帰",
+      "confidence": 0.7,
+      "momentum": "stable",
       "related_fields": [
+        "geopolitics",
         "foundry",
-        "frontend",
         "equipment",
-        "memory",
-        "logic"
+        "general"
       ],
-      "summary": "DRAM量産への高NA EUV導入計画が進む。ASMLは日本市場を重要視し、人材育成や国内調達を強化。地政学リスク対応でサプライチェーン分散化も。",
+      "summary": "地政学リスクの高まりを受け、サプライチェーンの強靭化、国内生産能力の増強が進む。戦略的提携も活発化。",
       "analysis": {
-        "short_term": "高NA EUV装置の供給体制構築が焦点。製造コスト増懸念。",
-        "mid_term": "先端ロジック・メモリの微細化競争が加速。各国政府の支援策も影響。",
-        "investment_implications": "EUV装置メーカー、先端プロセスファウンドリに注目。"
+        "short_term": "国内投資の動きは継続。政府支援策が鍵。",
+        "mid_term": "サプライチェーンの安定化と技術競争力の維持が重要課題。",
+        "investment_implications": "国内半導体関連企業、設備投資関連、地政学リスクヘッジ戦略に注目。"
       },
       "keywords": [
-        "EUV",
-        "高NA EUV",
-        "DRAM",
-        "ファウンドリ",
-        "サプライチェーン"
+        "サプライチェーン",
+        "国内回帰",
+        "地政学リスク",
+        "JASM",
+        "ASMLジャパン"
       ],
       "companies_mentioned": [
-        "Samsung",
-        "ASML"
+        "JASM",
+        "ASMLジャパン",
+        "ニデック"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体売上高、7カ月で年間最高額を突破（2026年7月実績）",
-      "AI・データセンター向け半導体需要の力強い伸び",
-      "次世代パワー半導体（GaN/SiC）市場の急成長",
-      "半導体設計・検証におけるAI活用による効率化期待"
+      "世界半導体売上高、7カ月で年間最高額を突破",
+      "InfineonがGaN市場で急浮上",
+      "国内半導体関連メーカー売上高、過去最高"
     ],
     "bearish": [
-      "EDAツールのトークンコスト高騰による設計予算圧迫",
-      "ニデック品質不正問題による業界信頼性への懸念（限定的）"
+      "ニデック品質不正問題による信頼性懸念"
     ],
     "neutral": [
-      "デジタルフォレンジックがハードウェア層に及ぶことによるセキュリティ強化",
-      "データセンターの立地・冷却方式の移行（空冷→液冷）"
+      "データセンターの立地・冷却方式の移行",
+      "Appleの新型iPhoneの市場受容性"
     ]
   },
-  "source_count": 46
+  "source_count": 44
 }

@@ -1,41 +1,40 @@
 {
-  "generated_at": "2026-09-10T07:55:14.463223+09:00",
+  "generated_at": "2026-09-11T07:56:03.740206+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Measurement Hardware Behind Grid Digital Twins",
-    "summary": "電力網のデジタルツインは、変圧器や遮断器の故障予測に高精度で同期したセンサー測定チェーンが不可欠である。",
+    "title": "橋梁保守に漏水センサー活用　無電源で3年運用を実証",
+    "summary": "エイブリックは橋梁でバッテリーレス漏水センサーの実証実験を行い、有効性を確認。NEXCOエンジニアリング中国、BBMと共同で社会インフラ課題解決を目指す。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/the-measurement-hardware-behind-grid-digital-twins"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/10/news047.html"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "ソニーとAramcoが協業へ センサーとエッジAIを現場に",
-        "blurb": "ソニーとAramcoが産業AI高度化で協業検討。イメージセンサーとエッジAI技術、現場データや知見を融合し新アプリ開発へ。",
-        "category": "company",
-        "date": "2026-09-09",
+        "title": "橋梁保守に漏水センサー活用　無電源で3年運用を実証",
+        "blurb": "エイブリックは橋梁でバッテリーレス漏水センサーの実証実験を行い、有効性を確認。NEXCOエンジニアリング中国、BBMと共同で社会インフラ課題解決を目指す。",
+        "category": "tools",
+        "date": "2026-09-10",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/09/news042.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/10/news047.html"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
-      }
-    ],
-    "tech": [
+      },
       {
         "title": "Nanopower’s nPZ2100 Cuts Sensor System Power Use by 90%",
         "blurb": "Nanopowerの新IC「nPZ2100」は、センサーシステムの消費電力を90%削減し、IoTデバイスのバッテリー寿命を延長します。",
@@ -55,25 +54,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "The Measurement Hardware Behind Grid Digital Twins",
-        "blurb": "電力網のデジタルツインは、変圧器や遮断器の故障予測に高精度で同期したセンサー測定チェーンが不可欠である。",
-        "category": "business",
-        "date": "2026-09-09",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-measurement-hardware-behind-grid-digital-twins"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }
