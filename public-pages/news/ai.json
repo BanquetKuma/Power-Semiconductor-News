@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-11T07:56:03.740502+09:00",
+  "generated_at": "2026-09-12T07:57:44.934899+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Alif Semiconductor Launches $49 StartKits for Edge AI MCUs",
-    "summary": "Alif Semiconductorが、エッジAI対応MCU開発を容易にする49ドルの低価格評価ボード「StartKit」を発表しました。",
+    "title": "Chip Industry Week in Review",
+    "summary": "半導体業界の最新動向：高NA EUVマスク、アームのAI、Amkorの拡張、3Dメモリ、FeRAM、Qualcomm-AWSの大型契約、新iPhoneチップ、OpenAIの動向など。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/alif-semiconductor-launches-49-startkits-for-edge-ai-mcus"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-155"
       }
     ]
   },
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Alif Semiconductor Launches $49 StartKits for Edge AI MCUs",
-        "blurb": "Alif Semiconductorが、エッジAI対応MCU開発を容易にする49ドルの低価格評価ボード「StartKit」を発表しました。",
+        "blurb": "Alif Semiconductorは、エッジAI対応MCUプラットフォーム用の低価格な開発キット「StartKit」を発表しました。価格は49ドルです。",
         "category": "company",
         "date": "2026-09-11",
         "stars": 3,
@@ -36,6 +36,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Chip Industry Week in Review",
+        "blurb": "半導体業界の最新動向：高NA EUVマスク、アームのAI、Amkorの拡張、3Dメモリ、FeRAM、Qualcomm-AWSの大型契約、新iPhoneチップ、OpenAIの動向など。",
+        "category": "business",
+        "date": "2026-09-11",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-155"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": "backend",
+          "market": "ai",
+          "industry": "fabless"
+        }
+      }
+    ]
   }
 }

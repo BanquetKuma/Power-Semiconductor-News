@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-11T07:56:03.742986+09:00",
+  "generated_at": "2026-09-12T07:57:44.936574+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Validation Gets Tested At 1kW",
-    "summary": "1kW級AIアクセラレータは、ワークロード、熱挙動、テストハードウェア、時間のカバレッジを再考させる。",
+    "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
+    "summary": "imecらがTMDベースMOS構造の電荷成分を解析。界面トラップ、酸化膜境界トラップ、移動キャリアを定量化。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/validation-gets-tested-at-1kw"
+        "url": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm"
       }
     ]
   },
@@ -18,32 +18,14 @@
     "news": [],
     "tech": [
       {
-        "title": "Beyond Conventional Ring Oscillators: Purpose-Built Process Detectors For Deeper Silicon Insight",
-        "blurb": "シリコンの深い洞察のため、従来のリングオシレータを超えた専用プロセス検出器が開発された。",
+        "title": "HW Information-Flow Tracking for Pre-Silicon Security Testing (Princeton, MIT, EPFL)",
+        "blurb": "プリンストン大らが、半導体製造前のセキュリティテスト向け情報フロー追跡技術を発表。機密性・完全性検証を効率化。",
         "category": "tools",
-        "date": "2026-09-10",
+        "date": "2026-09-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beyond-conventional-ring-oscillators-purpose-built-process-detectors-for-deeper-silicon-insight"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Rethinking Verification Traceability for Modern Systems",
-        "blurb": "現代システムにおける検証トレーサビリティの再考。パラメータ化された要件と検証結果等を紐付ける構造化カバレッジアーティファクト。",
-        "category": "tools",
-        "date": "2026-09-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/rethinking-verification-traceability-for-modern-systems"
+          "url": "https://semiengineering.com/hw-information-flow-tracking-for-pre-silicon-security-testing-princeton-mit-epfl"
         },
         "field": {
           "primary": "general",
@@ -56,86 +38,14 @@
     ],
     "market": [
       {
-        "title": "Validation Gets Tested At 1kW",
-        "blurb": "1kW級AIアクセラレータは、ワークロード、熱挙動、テストハードウェア、時間のカバレッジを再考させる。",
+        "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
+        "blurb": "imecらがTMDベースMOS構造の電荷成分を解析。界面トラップ、酸化膜境界トラップ、移動キャリアを定量化。",
         "category": "business",
-        "date": "2026-09-10",
+        "date": "2026-09-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/validation-gets-tested-at-1kw"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "System-Level Test In The AI Era: Validating Reliability At Scale",
-        "blurb": "AI時代、ATEだけでは不十分。高負荷が熱・電気限界を押し上げ、実環境での信頼性検証が不可欠に。",
-        "category": "business",
-        "date": "2026-09-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/system-level-test-in-the-ai-era-validating-reliability-at-scale"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Accelerating Shift Left With Early RTL DFT Analysis And Connectivity Verification",
-        "blurb": "早期RTLテスト容易性分析とDFT最適化により、シフトレフト戦略を加速し、製造テスト品質向上とリードタイム短縮を実現。",
-        "category": "business",
-        "date": "2026-09-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/accelerating-shift-left-with-early-rtl-dft-analysis-and-connectivity-verification"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "A Highly Scalable Architecture For AI-First Semiconductor Operations",
-        "blurb": "AI時代の半導体製造では、膨大なデータが発生するものの、分析されるのはごく一部に過ぎない。スケーラブルなアーキテクチャが求められる。",
-        "category": "business",
-        "date": "2026-09-10",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-highly-scalable-architecture-for-ai-first-semiconductor-operations"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "国内半導体関連メーカー売上高、キオクシア首位、JASMは143倍に",
-        "blurb": "国内半導体関連メーカーの2025年度売上高は7.9兆円で過去最高。キオクシアが首位、JASMは143倍増。",
-        "category": "business",
-        "date": "2026-09-10",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/10/news033.html"
+          "url": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm"
         },
         "field": {
           "primary": "general",

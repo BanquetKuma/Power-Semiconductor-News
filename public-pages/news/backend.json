@@ -1,32 +1,48 @@
 {
-  "generated_at": "2026-09-02T07:59:59.801369+09:00",
+  "generated_at": "2026-09-12T07:57:44.936226+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Technical Paper Roundup: Sept. 1",
-    "summary": "半導体業界の技術論文まとめ：LLM学習向けウェーハスケール光インターコネクト、Rowhammer攻撃、3D-ICテスト、液冷、2D半導体成長、DLによるパラメータ抽出、チップ配置最適化。",
+    "title": "Modeling Predicts Cure And Thermal Endurance Of Advanced Packaging Underfill (NIST, UCSD et al.)",
+    "summary": "NISTとUCSD等の研究者が、先端パッケージ用アンダーフィル材の硬化と耐熱性を予測する技術論文を発表しました。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sep-1"
+        "url": "https://semiengineering.com/modeling-predicts-cure-and-thermal-endurance-of-advanced-packaging-underfill-nist-ucsd-et-al"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Chip Industry Technical Paper Roundup: Sept. 1",
-        "blurb": "半導体業界の技術論文まとめ：LLM学習向けウェーハスケール光インターコネクト、Rowhammer攻撃、3D-ICテスト、液冷、2D半導体成長、DLによるパラメータ抽出、チップ配置最適化。",
-        "category": "business",
-        "date": "2026-09-01",
+        "title": "Modeling Predicts Cure And Thermal Endurance Of Advanced Packaging Underfill (NIST, UCSD et al.)",
+        "blurb": "NISTとUCSD等の研究者が、先端パッケージ用アンダーフィル材の硬化と耐熱性を予測する技術論文を発表しました。",
+        "category": "company",
+        "date": "2026-09-12",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sep-1"
+          "url": "https://semiengineering.com/modeling-predicts-cure-and-thermal-endurance-of-advanced-packaging-underfill-nist-ucsd-et-al"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Processors and Chiplet-Based FPGAs for Mission-Critical Systems, Scalable Physical AI Solutions: Embedded Week Insights",
+        "blurb": "ミッションクリティカルシステム向けプロセッサ、宇宙用チップレットFPGA、スケーラブルAIソリューションなど、組み込み技術の最新動向を解説。",
+        "category": "company",
+        "date": "2026-09-12",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/processors-and-chiplet-based-fpgas-for-mission-critical-systems-scalable-physical-ai-solutions-embedded-week-insights"
         },
         "field": {
           "primary": "backend",
@@ -36,6 +52,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

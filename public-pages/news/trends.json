@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:56:07.887293+09:00",
-  "date": "2026-09-11",
+  "generated_at": "2026-09-12T07:57:48.793613+09:00",
+  "date": "2026-09-12",
   "meta_trends": [
     {
       "name": "AI・データセンター向け高性能化",
@@ -8,162 +8,166 @@
       "momentum": "rising",
       "related_fields": [
         "logic",
+        "memory",
         "datacenter",
-        "ai",
-        "memory"
+        "ai"
       ],
-      "summary": "AIの進化とデータセンター需要増により、GPU、SSD、メモリなどの高性能化・高機能化が加速。消費電力管理も重要に。",
+      "summary": "AI推論・学習、データセンター処理能力向上のため、高性能・高帯域メモリ、チップレット技術、高NA EUV露光などが進展。",
       "analysis": {
-        "short_term": "需要は引き続き堅調。供給制約緩和で一部製品は価格安定化の兆し。",
-        "mid_term": "AIモデルの大型化・複雑化で高性能チップへの需要は継続。新アーキテクチャ登場も。",
-        "investment_implications": "AI関連チップメーカー、高性能メモリ、データセンターインフラ関連に注目。"
+        "short_term": "需要は堅調。供給能力増強が鍵。",
+        "mid_term": "技術革新が競争を加速。",
+        "investment_implications": "AI関連銘柄、先端プロセス関連に注目。"
       },
       "keywords": [
         "AI",
-        "GPU",
-        "SSD",
-        "データセンター",
-        "電力管理"
+        "LLM",
+        "HBM",
+        "EUV",
+        "Chiplet"
       ],
       "companies_mentioned": [
-        "キオクシア",
-        "NVIDIA",
+        "NUS",
+        "RPI",
+        "IBM",
+        "TSMC",
         "ASML",
-        "サムスン電子"
+        "Samsung"
       ]
     },
     {
-      "name": "次世代パワー半導体（GaN/SiC）",
+      "name": "パワー半導体・SiC/GaN活用拡大",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "industrial",
         "datacenter"
       ],
-      "summary": "EV、産業機器、データセンター等で高効率・小型化を実現するGaN・SiCデバイスの採用が拡大。耐性向上も進む。",
+      "summary": "EV、データセンター、産業機器向けに、高効率・高耐圧のSiC/GaNデバイスの採用が進み、関連技術開発が活発化。",
       "analysis": {
-        "short_term": "EVシフト加速とデータセンターの高効率化要求で需要増。",
-        "mid_term": "量産体制の確立とコスト低減が進み、採用分野がさらに拡大。",
-        "investment_implications": "GaN/SiCウェハー、デバイスメーカー、関連材料・装置メーカーに投資機会。"
+        "short_term": "EV需要が牽引。供給安定化が課題。",
+        "mid_term": "データセンター、再生可能エネルギー分野での採用拡大。",
+        "investment_implications": "SiC/GaNメーカー、関連材料・装置に投資妙味。"
       },
       "keywords": [
-        "GaN",
         "SiC",
+        "GaN",
         "EV",
-        "パワートレイン",
-        "インバーター"
+        "Power Device",
+        "Efficiency"
       ],
       "companies_mentioned": [
-        "Nexperia",
-        "Aurobay",
-        "Infineon Technologies",
-        "電力中央研究所"
+        "Power Electronics Week",
+        "電力中央研究所",
+        "ams OSRAM"
       ]
     },
     {
-      "name": "微細化とプロセス制御技術の進化",
+      "name": "先端パッケージング・チップレット技術",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "logic",
+        "ai",
+        "datacenter"
+      ],
+      "summary": "性能向上、コスト削減のため、チップレットを組み合わせる先端パッケージング技術が重要視され、開発競争が激化。",
+      "analysis": {
+        "short_term": "高性能CPU/GPUで採用進む。",
+        "mid_term": "多様な機能統合が進む。",
+        "investment_implications": "パッケージング技術、チップレット関連企業に注目。"
+      },
+      "keywords": [
+        "Chiplet",
+        "Advanced Packaging",
+        "3D Stacking",
+        "Heterogeneous Integration"
+      ],
+      "companies_mentioned": [
+        "NUS",
+        "NIST",
+        "UCSD",
+        "SECO",
+        "Amkor"
+      ]
+    },
+    {
+      "name": "センサー・アナログ技術の高度化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "analog",
+        "automotive",
+        "industrial",
+        "datacenter"
+      ],
+      "summary": "高精度センサー、低遅延LSI、ピコリゾルバーなど、アナログ・センサー技術がAI、自動運転、IoT分野で不可欠に。",
+      "analysis": {
+        "short_term": "産業・車載分野での需要増。",
+        "mid_term": "エッジAIとの連携強化。",
+        "investment_implications": "高付加価値アナログ・センサーメーカーに期待。"
+      },
+      "keywords": [
+        "Sensor",
+        "Analog IC",
+        "Resolver",
+        "Edge AI",
+        "IoT"
+      ],
+      "companies_mentioned": [
+        "Melexis",
+        "Sony",
+        "Aramco",
+        "ams OSRAM",
+        "エイブリック"
+      ]
+    },
+    {
+      "name": "製造プロセス・EUV露光技術の進化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "frontend",
         "foundry",
-        "equipment",
-        "logic"
+        "equipment"
       ],
-      "summary": "サブ2nmプロセスや高NA EUV露光技術など、微細化の限界に挑む技術開発が進展。高度なプロセス制御が不可欠に。",
+      "summary": "サブ2nmプロセス実現に向け、高NA EUV露光装置の開発・導入が進み、マスク技術も進化。微細化と生産性向上を両立。",
       "analysis": {
-        "short_term": "次世代露光装置への投資活発化。歩留まり向上が課題。",
-        "mid_term": "微細化技術の確立が次世代デバイスの性能を左右。プロセス制御技術の重要性が増す。",
-        "investment_implications": "露光装置メーカー、先端プロセス技術を持つファウンドリ、プロセス制御技術企業に注目。"
+        "short_term": "高NA EUV導入に向けた投資活発化。",
+        "mid_term": "次世代露光技術が競争優位性を左右。",
+        "investment_implications": "露光装置メーカー、先端プロセスファウンドリに注目。"
       },
       "keywords": [
-        "サブ2nm",
-        "高NA EUV",
-        "露光装置",
-        "プロセス制御",
-        "ASML"
+        "EUV",
+        "High-NA EUV",
+        "Semiconductor Manufacturing",
+        "Lithography",
+        "TSMC"
       ],
       "companies_mentioned": [
+        "NYCU",
+        "TSMC",
         "ASML",
-        "サムスン電子",
-        "産総研"
-      ]
-    },
-    {
-      "name": "インフラ・社会課題解決への応用",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "analog",
-        "industrial",
-        "automotive",
-        "geopolitics"
-      ],
-      "summary": "センサー技術、IoT、エッジAIなどが、インフラ保守、エネルギー管理、社会インフラ課題解決に活用され始める。",
-      "analysis": {
-        "short_term": "社会インフラ分野でのPoC（概念実証）が増加。",
-        "mid_term": "実用化・普及が進み、新たな市場を創出する可能性。",
-        "investment_implications": "高信頼性センサー、低消費電力デバイス、エッジAIソリューション関連企業に注目。"
-      },
-      "keywords": [
-        "センサー",
-        "IoT",
-        "エッジAI",
-        "社会インフラ",
-        "デジタルツイン"
-      ],
-      "companies_mentioned": [
-        "Melexis",
-        "エイブリック",
-        "ソニー",
-        "Aramco"
-      ]
-    },
-    {
-      "name": "サプライチェーン再編と国内回帰",
-      "confidence": 0.7,
-      "momentum": "stable",
-      "related_fields": [
-        "geopolitics",
-        "foundry",
-        "equipment",
-        "general"
-      ],
-      "summary": "地政学リスクの高まりを受け、サプライチェーンの強靭化、国内生産能力の増強が進む。戦略的提携も活発化。",
-      "analysis": {
-        "short_term": "国内投資の動きは継続。政府支援策が鍵。",
-        "mid_term": "サプライチェーンの安定化と技術競争力の維持が重要課題。",
-        "investment_implications": "国内半導体関連企業、設備投資関連、地政学リスクヘッジ戦略に注目。"
-      },
-      "keywords": [
-        "サプライチェーン",
-        "国内回帰",
-        "地政学リスク",
-        "JASM",
-        "ASMLジャパン"
-      ],
-      "companies_mentioned": [
-        "JASM",
-        "ASMLジャパン",
-        "ニデック"
+        "Samsung"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体売上高、7カ月で年間最高額を突破",
-      "InfineonがGaN市場で急浮上",
-      "国内半導体関連メーカー売上高、過去最高"
+      "AI・データセンター向け需要の堅調な伸び",
+      "パワー半導体（SiC/GaN）の採用拡大",
+      "先端パッケージング・チップレット技術への投資加速",
+      "日本国内半導体関連メーカーの売上高過去最高（JASMの急成長）"
     ],
     "bearish": [
-      "ニデック品質不正問題による信頼性懸念"
+      "ニデック品質不正問題による業界への影響懸念",
+      "メモリ価格上昇の可能性（新型iPhone記事より）"
     ],
     "neutral": [
-      "データセンターの立地・冷却方式の移行",
-      "Appleの新型iPhoneの市場受容性"
+      "半導体製造前のセキュリティテスト技術開発",
+      "データセンターの立地・冷却方式の移行"
     ]
   },
-  "source_count": 44
+  "source_count": 45
 }
