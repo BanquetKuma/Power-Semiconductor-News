@@ -1,60 +1,89 @@
 {
-  "generated_at": "2026-09-12T07:57:48.793613+09:00",
-  "date": "2026-09-12",
+  "generated_at": "2026-09-13T07:50:11.457479+09:00",
+  "date": "2026-09-13",
   "meta_trends": [
     {
-      "name": "AI・データセンター向け高性能化",
+      "name": "AI・HPC向け先端メモリ・パッケージング",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "logic",
         "memory",
         "datacenter",
-        "ai"
+        "ai",
+        "backend"
       ],
-      "summary": "AI推論・学習、データセンター処理能力向上のため、高性能・高帯域メモリ、チップレット技術、高NA EUV露光などが進展。",
+      "summary": "AI推論の高速化・高効率化のため、HBMのECCオーバーヘッド削減やヘテロジニアスチップレット、先端パッケージング技術が重要視されている。",
       "analysis": {
-        "short_term": "需要は堅調。供給能力増強が鍵。",
-        "mid_term": "技術革新が競争を加速。",
-        "investment_implications": "AI関連銘柄、先端プロセス関連に注目。"
+        "short_term": "HBM3/3eの需要拡大と技術開発競争が加速。",
+        "mid_term": "チップレット技術の成熟と標準化が進む見込み。",
+        "investment_implications": "メモリメーカー、パッケージング企業に注目。"
       },
       "keywords": [
-        "AI",
-        "LLM",
         "HBM",
-        "EUV",
-        "Chiplet"
+        "ECC",
+        "Chiplet",
+        "AI Inference"
       ],
       "companies_mentioned": [
         "NUS",
         "RPI",
         "IBM",
+        "NVIDIA",
+        "Amkor"
+      ]
+    },
+    {
+      "name": "EUV露光技術の進化と適用拡大",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "frontend",
+        "memory",
+        "logic"
+      ],
+      "summary": "高NA・ハイパーNA EUV露光装置の開発が進み、微細化の限界突破と生産性向上を目指す。DRAM量産への適用も視野に入る。",
+      "analysis": {
+        "short_term": "高NA EUVマスク技術の進展が注目される。",
+        "mid_term": "DRAM量産への高NA EUV適用が本格化する可能性。",
+        "investment_implications": "露光装置メーカー、先端ファウンドリに恩恵。"
+      },
+      "keywords": [
+        "EUV",
+        "High-NA",
+        "ASML",
         "TSMC",
+        "Samsung"
+      ],
+      "companies_mentioned": [
+        "TSMC",
+        "NYCU",
         "ASML",
         "Samsung"
       ]
     },
     {
-      "name": "パワー半導体・SiC/GaN活用拡大",
-      "confidence": 0.9,
+      "name": "パワー半導体の高機能化・高信頼化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
+        "industrial",
         "datacenter"
       ],
-      "summary": "EV、データセンター、産業機器向けに、高効率・高耐圧のSiC/GaNデバイスの採用が進み、関連技術開発が活発化。",
+      "summary": "GaN HEMTの耐放射線性向上、SiC-IGBT向けシミュレーション技術開発など、高効率・高信頼性パワー半導体の開発が進む。",
       "analysis": {
-        "short_term": "EV需要が牽引。供給安定化が課題。",
-        "mid_term": "データセンター、再生可能エネルギー分野での採用拡大。",
-        "investment_implications": "SiC/GaNメーカー、関連材料・装置に投資妙味。"
+        "short_term": "EV、再生可能エネルギー分野での需要が堅調。",
+        "mid_term": "グリッドデジタルツインなど新用途への展開も期待。",
+        "investment_implications": "SiC、GaN関連メーカーに成長機会。"
       },
       "keywords": [
-        "SiC",
         "GaN",
-        "EV",
-        "Power Device",
-        "Efficiency"
+        "SiC",
+        "HEMT",
+        "IGBT",
+        "Power Electronics"
       ],
       "companies_mentioned": [
         "Power Electronics Week",
@@ -63,111 +92,82 @@
       ]
     },
     {
-      "name": "先端パッケージング・チップレット技術",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "logic",
-        "ai",
-        "datacenter"
-      ],
-      "summary": "性能向上、コスト削減のため、チップレットを組み合わせる先端パッケージング技術が重要視され、開発競争が激化。",
-      "analysis": {
-        "short_term": "高性能CPU/GPUで採用進む。",
-        "mid_term": "多様な機能統合が進む。",
-        "investment_implications": "パッケージング技術、チップレット関連企業に注目。"
-      },
-      "keywords": [
-        "Chiplet",
-        "Advanced Packaging",
-        "3D Stacking",
-        "Heterogeneous Integration"
-      ],
-      "companies_mentioned": [
-        "NUS",
-        "NIST",
-        "UCSD",
-        "SECO",
-        "Amkor"
-      ]
-    },
-    {
-      "name": "センサー・アナログ技術の高度化",
+      "name": "AIによる設計・検証プロセスの自動化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "analog",
-        "automotive",
-        "industrial",
-        "datacenter"
+        "logic",
+        "ai",
+        "frontend",
+        "backend",
+        "equipment"
       ],
-      "summary": "高精度センサー、低遅延LSI、ピコリゾルバーなど、アナログ・センサー技術がAI、自動運転、IoT分野で不可欠に。",
+      "summary": "AIエージェントが半導体設計・検証を自律的に行うEDAツールの登場。設計フローの自動化・効率化が加速する。",
       "analysis": {
-        "short_term": "産業・車載分野での需要増。",
-        "mid_term": "エッジAIとの連携強化。",
-        "investment_implications": "高付加価値アナログ・センサーメーカーに期待。"
+        "short_term": "AIエージェント活用による検証期間短縮が期待。",
+        "mid_term": "設計・検証プロセス全体のAI統合が進む可能性。",
+        "investment_implications": "EDAベンダー、AI技術を持つ半導体企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "EDA",
+        "Design Automation",
+        "Verification",
+        "Siemens"
+      ],
+      "companies_mentioned": [
+        "Siemens",
+        "NVIDIA",
+        "Princeton",
+        "MIT",
+        "EPFL"
+      ]
+    },
+    {
+      "name": "センサー技術とエッジAIの融合",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "analog",
+        "ai",
+        "industrial",
+        "automotive"
+      ],
+      "summary": "高精度センサーとエッジAI技術を組み合わせ、現場でのデータ分析・意思決定を迅速化するソリューションが登場。",
+      "analysis": {
+        "short_term": "産業用途でのスマート化ニーズが高まる。",
+        "mid_term": "自動運転、スマートファクトリーでの活用が拡大。",
+        "investment_implications": "センサーメーカー、エッジAIチップ開発企業に機会。"
       },
       "keywords": [
         "Sensor",
-        "Analog IC",
-        "Resolver",
         "Edge AI",
-        "IoT"
+        "IoT",
+        "Industrial AI"
       ],
       "companies_mentioned": [
         "Melexis",
         "Sony",
         "Aramco",
-        "ams OSRAM",
-        "エイブリック"
-      ]
-    },
-    {
-      "name": "製造プロセス・EUV露光技術の進化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "frontend",
-        "foundry",
-        "equipment"
-      ],
-      "summary": "サブ2nmプロセス実現に向け、高NA EUV露光装置の開発・導入が進み、マスク技術も進化。微細化と生産性向上を両立。",
-      "analysis": {
-        "short_term": "高NA EUV導入に向けた投資活発化。",
-        "mid_term": "次世代露光技術が競争優位性を左右。",
-        "investment_implications": "露光装置メーカー、先端プロセスファウンドリに注目。"
-      },
-      "keywords": [
-        "EUV",
-        "High-NA EUV",
-        "Semiconductor Manufacturing",
-        "Lithography",
-        "TSMC"
-      ],
-      "companies_mentioned": [
-        "NYCU",
-        "TSMC",
-        "ASML",
-        "Samsung"
+        "Microchip"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・データセンター向け需要の堅調な伸び",
-      "パワー半導体（SiC/GaN）の採用拡大",
-      "先端パッケージング・チップレット技術への投資加速",
-      "日本国内半導体関連メーカーの売上高過去最高（JASMの急成長）"
+      "AI・HPC向け先端メモリ・パッケージング需要の急増",
+      "EUV露光技術の適用範囲拡大と投資活発化",
+      "パワー半導体のEV・再生可能エネルギー分野での需要拡大",
+      "国内半導体関連メーカー売上高の過去最高更新"
     ],
     "bearish": [
-      "ニデック品質不正問題による業界への影響懸念",
-      "メモリ価格上昇の可能性（新型iPhone記事より）"
+      "ニデック品質不正問題による信頼性への懸念",
+      "Appleの新型iPhoneの市場受容性への不透明感"
     ],
     "neutral": [
-      "半導体製造前のセキュリティテスト技術開発",
-      "データセンターの立地・冷却方式の移行"
+      "データセンターの立地・冷却方式の移行",
+      "サイレントデータエラー対策の重要性向上"
     ]
   },
-  "source_count": 45
+  "source_count": 44
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-12T07:57:44.936574+09:00",
+  "generated_at": "2026-09-13T07:50:07.430319+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
-    "summary": "imecらがTMDベースMOS構造の電荷成分を解析。界面トラップ、酸化膜境界トラップ、移動キャリアを定量化。",
+    "summary": "imecらは、遷移金属ダイカルコゲナイドMOS構造の界面トラップ等の電荷成分を定量化する研究を発表。",
     "sources": [
       {
         "name": "semiengineering.com",
@@ -15,7 +15,26 @@
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
+        "blurb": "imecらは、遷移金属ダイカルコゲナイドMOS構造の界面トラップ等の電荷成分を定量化する研究を発表。",
+        "category": "company",
+        "date": "2026-09-12",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
         "title": "HW Information-Flow Tracking for Pre-Silicon Security Testing (Princeton, MIT, EPFL)",
@@ -36,25 +55,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
-        "blurb": "imecらがTMDベースMOS構造の電荷成分を解析。界面トラップ、酸化膜境界トラップ、移動キャリアを定量化。",
-        "category": "business",
-        "date": "2026-09-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

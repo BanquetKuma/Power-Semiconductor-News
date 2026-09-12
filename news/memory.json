@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-12T07:57:44.933675+09:00",
+  "generated_at": "2026-09-13T07:50:07.428225+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
-    "summary": "IBMとレンセラー工科大がHBMのECCコントローラーのオーバーヘッド削減技術を発表。AI推論性能向上に貢献。",
+    "summary": "IBMとレンセラー工科大がAI推論向けHBMのECC制御オーバーヘッド削減技術を発表。コストと信頼性向上を目指す。",
     "sources": [
       {
         "name": "semiengineering.com",
@@ -15,11 +15,13 @@
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
         "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
-        "blurb": "IBMとレンセラー工科大がHBMのECCコントローラーのオーバーヘッド削減技術を発表。AI推論性能向上に貢献。",
-        "category": "company",
+        "blurb": "IBMとレンセラー工科大がAI推論向けHBMのECC制御オーバーヘッド削減技術を発表。コストと信頼性向上を目指す。",
+        "category": "business",
         "date": "2026-09-12",
         "stars": 3,
         "source": {
@@ -34,27 +36,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [
-      {
-        "title": "Waveshare ESP32-C5 Mini Board Brings Dual-Band Wi-Fi 6 and BLE 5",
-        "blurb": "WaveshareがWi-Fi 6とBLE 5対応のRISC-VボードESP32-C5 Miniを発表。IoTやスマートホーム向け。",
-        "category": "tools",
-        "date": "2026-09-11",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/waveshare-esp32-c5-mini-board-brings-dual-band-wi-fi-6-and-ble-5"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      }
-    ],
-    "market": []
+    ]
   }
 }
