@@ -1,172 +1,159 @@
 {
-  "generated_at": "2026-09-13T07:50:11.457479+09:00",
-  "date": "2026-09-13",
+  "generated_at": "2026-09-14T07:51:45.244387+09:00",
+  "date": "2026-09-14",
   "meta_trends": [
     {
-      "name": "AI・HPC向け先端メモリ・パッケージング",
+      "name": "AI向け高性能・高密度メモリ需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "memory",
-        "datacenter",
         "ai",
-        "backend"
+        "datacenter"
       ],
-      "summary": "AI推論の高速化・高効率化のため、HBMのECCオーバーヘッド削減やヘテロジニアスチップレット、先端パッケージング技術が重要視されている。",
+      "summary": "AI推論の高速化・効率化のため、HBMなどの高帯域幅・高密度メモリへの需要が急速に高まっている。ECCオーバーヘッド削減技術も注目。",
       "analysis": {
-        "short_term": "HBM3/3eの需要拡大と技術開発競争が加速。",
-        "mid_term": "チップレット技術の成熟と標準化が進む見込み。",
-        "investment_implications": "メモリメーカー、パッケージング企業に注目。"
+        "short_term": "HBM供給逼迫と価格上昇継続の可能性。",
+        "mid_term": "次世代メモリ技術開発競争が激化。",
+        "investment_implications": "HBM関連メーカーへの投資妙味大。"
       },
       "keywords": [
         "HBM",
-        "ECC",
-        "Chiplet",
-        "AI Inference"
+        "AI推論",
+        "ECC"
       ],
       "companies_mentioned": [
-        "NUS",
-        "RPI",
         "IBM",
-        "NVIDIA",
-        "Amkor"
+        "RPI",
+        "Samsung"
       ]
     },
     {
-      "name": "EUV露光技術の進化と適用拡大",
+      "name": "先端微細化とEUV露光技術の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "foundry",
         "frontend",
-        "memory",
-        "logic"
+        "logic",
+        "memory"
       ],
-      "summary": "高NA・ハイパーNA EUV露光装置の開発が進み、微細化の限界突破と生産性向上を目指す。DRAM量産への適用も視野に入る。",
+      "summary": "サブ2nmプロセスやDRAM量産への高NA EUV導入が進む。マスク技術の改良も重要性を増している。",
       "analysis": {
-        "short_term": "高NA EUVマスク技術の進展が注目される。",
-        "mid_term": "DRAM量産への高NA EUV適用が本格化する可能性。",
-        "investment_implications": "露光装置メーカー、先端ファウンドリに恩恵。"
+        "short_term": "高NA EUV装置の供給と導入計画が焦点。",
+        "mid_term": "微細化競争は継続、歩留まり向上が課題。",
+        "investment_implications": "EUV関連装置・材料メーカーに注目。"
       },
       "keywords": [
         "EUV",
-        "High-NA",
-        "ASML",
-        "TSMC",
-        "Samsung"
+        "高NA EUV",
+        "微細化",
+        "マスク"
       ],
       "companies_mentioned": [
         "TSMC",
-        "NYCU",
         "ASML",
-        "Samsung"
+        "Samsung",
+        "NYCU"
       ]
     },
     {
-      "name": "パワー半導体の高機能化・高信頼化",
+      "name": "産業・インフラ向けセンサー・LSI需要増",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "automotive",
+        "analog",
         "industrial",
+        "automotive",
         "datacenter"
       ],
-      "summary": "GaN HEMTの耐放射線性向上、SiC-IGBT向けシミュレーション技術開発など、高効率・高信頼性パワー半導体の開発が進む。",
+      "summary": "電力網デジタルツイン、小型モーター、橋梁保守、映像安定化など、高精度センサーや専用LSIの応用分野が拡大。",
       "analysis": {
-        "short_term": "EV、再生可能エネルギー分野での需要が堅調。",
-        "mid_term": "グリッドデジタルツインなど新用途への展開も期待。",
-        "investment_implications": "SiC、GaN関連メーカーに成長機会。"
+        "short_term": "特定用途向けセンサー・LSIの採用拡大。",
+        "mid_term": "IoT・エッジAIとの連携で市場が成長。",
+        "investment_implications": "高付加価値アナログICメーカーに期待。"
       },
       "keywords": [
-        "GaN",
-        "SiC",
-        "HEMT",
-        "IGBT",
-        "Power Electronics"
-      ],
-      "companies_mentioned": [
-        "Power Electronics Week",
-        "電力中央研究所",
-        "ams OSRAM"
-      ]
-    },
-    {
-      "name": "AIによる設計・検証プロセスの自動化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "ai",
-        "frontend",
-        "backend",
-        "equipment"
-      ],
-      "summary": "AIエージェントが半導体設計・検証を自律的に行うEDAツールの登場。設計フローの自動化・効率化が加速する。",
-      "analysis": {
-        "short_term": "AIエージェント活用による検証期間短縮が期待。",
-        "mid_term": "設計・検証プロセス全体のAI統合が進む可能性。",
-        "investment_implications": "EDAベンダー、AI技術を持つ半導体企業に注目。"
-      },
-      "keywords": [
-        "AI",
-        "EDA",
-        "Design Automation",
-        "Verification",
-        "Siemens"
-      ],
-      "companies_mentioned": [
-        "Siemens",
-        "NVIDIA",
-        "Princeton",
-        "MIT",
-        "EPFL"
-      ]
-    },
-    {
-      "name": "センサー技術とエッジAIの融合",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "analog",
-        "ai",
-        "industrial",
-        "automotive"
-      ],
-      "summary": "高精度センサーとエッジAI技術を組み合わせ、現場でのデータ分析・意思決定を迅速化するソリューションが登場。",
-      "analysis": {
-        "short_term": "産業用途でのスマート化ニーズが高まる。",
-        "mid_term": "自動運転、スマートファクトリーでの活用が拡大。",
-        "investment_implications": "センサーメーカー、エッジAIチップ開発企業に機会。"
-      },
-      "keywords": [
-        "Sensor",
-        "Edge AI",
-        "IoT",
-        "Industrial AI"
+        "センサー",
+        "LSI",
+        "デジタルツイン",
+        "エッジAI"
       ],
       "companies_mentioned": [
         "Melexis",
-        "Sony",
-        "Aramco",
+        "ソニー",
+        "エイブリック",
+        "NEXCOエンジニアリング中国"
+      ]
+    },
+    {
+      "name": "AIサーバー向け電力ソリューション",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "ai",
+        "datacenter"
+      ],
+      "summary": "AIサーバーのピーク電力消費に対応するため、GPUトレーニング時の電力供給を補助するソリューションが求められている。",
+      "analysis": {
+        "short_term": "高効率電源・蓄電技術への関心高まる。",
+        "mid_term": "データセンターの電力効率改善が重要課題。",
+        "investment_implications": "パワー半導体・蓄電デバイス関連に注目。"
+      },
+      "keywords": [
+        "AIサーバー",
+        "ピーク電力",
+        "GPU",
+        "電源"
+      ],
+      "companies_mentioned": [
+        "NVIDIA",
         "Microchip"
+      ]
+    },
+    {
+      "name": "半導体製造前セキュリティテスト技術",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "backend",
+        "geopolitics"
+      ],
+      "summary": "製造前のハードウェア情報フロー追跡技術により、機密性・完全性検証を効率化し、サプライチェーンのセキュリティを強化。",
+      "analysis": {
+        "short_term": "セキュリティ検証ツールの需要が増加。",
+        "mid_term": "半導体サプライチェーン全体での対策が必須。",
+        "investment_implications": "セキュリティIP・EDAツール企業に機会。"
+      },
+      "keywords": [
+        "セキュリティ",
+        "情報フロー追跡",
+        "EDA",
+        "サプライチェーン"
+      ],
+      "companies_mentioned": [
+        "Princeton",
+        "MIT",
+        "EPFL"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・HPC向け先端メモリ・パッケージング需要の急増",
-      "EUV露光技術の適用範囲拡大と投資活発化",
-      "パワー半導体のEV・再生可能エネルギー分野での需要拡大",
-      "国内半導体関連メーカー売上高の過去最高更新"
+      "AI・HPC向けメモリ需要の堅調さ",
+      "EUV露光技術の継続的な進化と採用拡大",
+      "産業・インフラ分野での半導体活用拡大",
+      "データセンターの液冷化・省電力化需要"
     ],
     "bearish": [
-      "ニデック品質不正問題による信頼性への懸念",
-      "Appleの新型iPhoneの市場受容性への不透明感"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "一部製品における過剰在庫リスク（記事からは直接読み取れないが、業界全体のリスクとして考慮）"
     ],
     "neutral": [
-      "データセンターの立地・冷却方式の移行",
-      "サイレントデータエラー対策の重要性向上"
+      "折りたたみ式iPhoneの市場受容性",
+      "国内半導体関連メーカーの売上高増加（JASMの急成長は特筆すべきだが、全体としては安定成長の兆し）"
     ]
   },
   "source_count": 44
