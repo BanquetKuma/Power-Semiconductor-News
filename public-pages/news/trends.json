@@ -1,160 +1,192 @@
 {
-  "generated_at": "2026-09-14T07:51:45.244387+09:00",
-  "date": "2026-09-14",
+  "generated_at": "2026-09-15T08:41:21.614929+09:00",
+  "date": "2026-09-15",
   "meta_trends": [
     {
-      "name": "AI向け高性能・高密度メモリ需要拡大",
+      "name": "AI・データセンター向け高性能化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "memory",
+        "datacenter",
         "ai",
-        "datacenter"
+        "memory",
+        "logic",
+        "backend"
       ],
-      "summary": "AI推論の高速化・効率化のため、HBMなどの高帯域幅・高密度メモリへの需要が急速に高まっている。ECCオーバーヘッド削減技術も注目。",
+      "summary": "AI推論、LLM、データセンターの性能向上のため、HBM、チップレット、先進パッケージング、高効率電源技術が進化。",
       "analysis": {
-        "short_term": "HBM供給逼迫と価格上昇継続の可能性。",
-        "mid_term": "次世代メモリ技術開発競争が激化。",
-        "investment_implications": "HBM関連メーカーへの投資妙味大。"
+        "short_term": "需要は引き続き堅調。供給能力が鍵。",
+        "mid_term": "技術革新が競争を激化させる。",
+        "investment_implications": "高性能メモリ、パッケージング関連企業に注目。"
       },
       "keywords": [
+        "AI",
         "HBM",
-        "AI推論",
-        "ECC"
+        "Chiplet",
+        "Advanced Packaging",
+        "LLM"
       ],
       "companies_mentioned": [
-        "IBM",
+        "NUS",
         "RPI",
-        "Samsung"
+        "IBM",
+        "Qualcomm",
+        "AWS",
+        "Ayar Labs",
+        "OpenAI",
+        "インフィニオン",
+        "SolarEdge",
+        "ams OSRAM",
+        "Arm"
       ]
     },
     {
-      "name": "先端微細化とEUV露光技術の進化",
+      "name": "車載・産業向け高信頼性・高機能化",
       "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "industrial",
+        "analog",
+        "power"
+      ],
+      "summary": "車載・産業用途で、高耐圧・高信頼性デバイス、高精度センサー、GaN HEMTなどの需要が増加。",
+      "analysis": {
+        "short_term": "EVシフト、自動運転、IoT化で需要拡大。",
+        "mid_term": "高機能化・小型化競争が続く。",
+        "investment_implications": "車載半導体、高信頼性部品メーカーに妙味。"
+      },
+      "keywords": [
+        "TVS",
+        "GaN HEMT",
+        "Sensor",
+        "Automotive",
+        "Industrial"
+      ],
+      "companies_mentioned": [
+        "Vishay",
+        "Microchip",
+        "Eggtronic",
+        "Renesas",
+        "ソニー",
+        "Aramco",
+        "京セラ",
+        "東北大学"
+      ]
+    },
+    {
+      "name": "次世代通信・インフラ技術",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "analog",
+        "logic",
+        "geopolitics"
+      ],
+      "summary": "6G、光通信、電力網のデジタルツインなど、次世代インフラ構築に向けた技術開発が加速。",
+      "analysis": {
+        "short_term": "研究開発段階だが、将来的な市場拡大期待。",
+        "mid_term": "標準化と実証実験が重要になる。",
+        "investment_implications": "通信インフラ、光技術関連企業を注視。"
+      },
+      "keywords": [
+        "6G",
+        "Sub-Terahertz",
+        "Digital Twin",
+        "Optical Communication",
+        "Power Grid"
+      ],
+      "companies_mentioned": [
+        "NTT",
+        "ソニー",
+        "Aramco",
+        "京セラ",
+        "東北大学",
+        "ASML"
+      ]
+    },
+    {
+      "name": "先端製造技術の進化",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "foundry",
         "frontend",
-        "logic",
-        "memory"
+        "backend",
+        "equipment",
+        "miniaturization"
       ],
-      "summary": "サブ2nmプロセスやDRAM量産への高NA EUV導入が進む。マスク技術の改良も重要性を増している。",
+      "summary": "EUV、サブ2nmプロセス、先進パッケージングなど、微細化・高集積化を支える製造技術が進化。",
       "analysis": {
-        "short_term": "高NA EUV装置の供給と導入計画が焦点。",
-        "mid_term": "微細化競争は継続、歩留まり向上が課題。",
-        "investment_implications": "EUV関連装置・材料メーカーに注目。"
+        "short_term": "EUVマスク、パッケージング材の需要増。",
+        "mid_term": "サブ2nm以降のプロセス開発が焦点。",
+        "investment_implications": "露光装置、先端パッケージング材料メーカーに注目。"
       },
       "keywords": [
         "EUV",
-        "高NA EUV",
-        "微細化",
-        "マスク"
+        "Sub-2nm",
+        "Advanced Packaging",
+        "Chiplet",
+        "ASML"
       ],
       "companies_mentioned": [
+        "NYCU",
         "TSMC",
         "ASML",
-        "Samsung",
-        "NYCU"
+        "NIST",
+        "UCSD",
+        "imec",
+        "KU Leuven",
+        "ASM"
       ]
     },
     {
-      "name": "産業・インフラ向けセンサー・LSI需要増",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "analog",
-        "industrial",
-        "automotive",
-        "datacenter"
-      ],
-      "summary": "電力網デジタルツイン、小型モーター、橋梁保守、映像安定化など、高精度センサーや専用LSIの応用分野が拡大。",
-      "analysis": {
-        "short_term": "特定用途向けセンサー・LSIの採用拡大。",
-        "mid_term": "IoT・エッジAIとの連携で市場が成長。",
-        "investment_implications": "高付加価値アナログICメーカーに期待。"
-      },
-      "keywords": [
-        "センサー",
-        "LSI",
-        "デジタルツイン",
-        "エッジAI"
-      ],
-      "companies_mentioned": [
-        "Melexis",
-        "ソニー",
-        "エイブリック",
-        "NEXCOエンジニアリング中国"
-      ]
-    },
-    {
-      "name": "AIサーバー向け電力ソリューション",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "ai",
-        "datacenter"
-      ],
-      "summary": "AIサーバーのピーク電力消費に対応するため、GPUトレーニング時の電力供給を補助するソリューションが求められている。",
-      "analysis": {
-        "short_term": "高効率電源・蓄電技術への関心高まる。",
-        "mid_term": "データセンターの電力効率改善が重要課題。",
-        "investment_implications": "パワー半導体・蓄電デバイス関連に注目。"
-      },
-      "keywords": [
-        "AIサーバー",
-        "ピーク電力",
-        "GPU",
-        "電源"
-      ],
-      "companies_mentioned": [
-        "NVIDIA",
-        "Microchip"
-      ]
-    },
-    {
-      "name": "半導体製造前セキュリティテスト技術",
+      "name": "セキュリティと信頼性強化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "backend",
-        "geopolitics"
+        "datacenter",
+        "industrial",
+        "automotive"
       ],
-      "summary": "製造前のハードウェア情報フロー追跡技術により、機密性・完全性検証を効率化し、サプライチェーンのセキュリティを強化。",
+      "summary": "半導体製造前からのセキュリティテスト、ミッションクリティカルシステム向け信頼性向上技術が重要視。",
       "analysis": {
-        "short_term": "セキュリティ検証ツールの需要が増加。",
-        "mid_term": "半導体サプライチェーン全体での対策が必須。",
-        "investment_implications": "セキュリティIP・EDAツール企業に機会。"
+        "short_term": "サイバーセキュリティ意識の高まりで需要増。",
+        "mid_term": "ハードウェアレベルでのセキュリティ実装が鍵。",
+        "investment_implications": "セキュリティIP、信頼性評価技術関連企業に期待。"
       },
       "keywords": [
-        "セキュリティ",
-        "情報フロー追跡",
-        "EDA",
-        "サプライチェーン"
+        "Security",
+        "Hardware Security",
+        "Pre-Silicon Testing",
+        "Mission-Critical"
       ],
       "companies_mentioned": [
         "Princeton",
         "MIT",
-        "EPFL"
+        "EPFL",
+        "ASML"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI・HPC向けメモリ需要の堅調さ",
-      "EUV露光技術の継続的な進化と採用拡大",
-      "産業・インフラ分野での半導体活用拡大",
-      "データセンターの液冷化・省電力化需要"
+      "AI・データセンター向け需要の堅調な伸び",
+      "車載・産業用途での高機能化・高信頼性ニーズの増加",
+      "先端パッケージング技術への投資拡大",
+      "次世代通信インフラ（6G等）への期待感"
     ],
     "bearish": [
       "地政学リスクによるサプライチェーンの不確実性",
-      "一部製品における過剰在庫リスク（記事からは直接読み取れないが、業界全体のリスクとして考慮）"
+      "メモリ市場の価格変動リスク（DRAM市場の回復は一部）"
     ],
     "neutral": [
-      "折りたたみ式iPhoneの市場受容性",
-      "国内半導体関連メーカーの売上高増加（JASMの急成長は特筆すべきだが、全体としては安定成長の兆し）"
+      "微細化競争の激化と開発コストの増大",
+      "半導体製造装置メーカー間の技術競争"
     ]
   },
-  "source_count": 44
+  "source_count": 36
 }

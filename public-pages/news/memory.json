@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-13T07:50:07.428225+09:00",
+  "generated_at": "2026-09-15T08:41:17.112615+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
-    "summary": "IBMとレンセラー工科大がAI推論向けHBMのECC制御オーバーヘッド削減技術を発表。コストと信頼性向上を目指す。",
+    "title": "Chip Industry Technical Paper Roundup: Sept. 14",
+    "summary": "半導体業界の技術論文まとめ：AI推論向けメモリチップレット、EUVマスク、先端パッケージング、セキュリティテスト、TMDベースMOS構造の電荷特性。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm"
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-14"
       }
     ]
   },
@@ -19,21 +19,39 @@
     "tech": [],
     "market": [
       {
-        "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
-        "blurb": "IBMとレンセラー工科大がAI推論向けHBMのECC制御オーバーヘッド削減技術を発表。コストと信頼性向上を目指す。",
+        "title": "Chip Industry Technical Paper Roundup: Sept. 14",
+        "blurb": "半導体業界の技術論文まとめ：AI推論向けメモリチップレット、EUVマスク、先端パッケージング、セキュリティテスト、TMDベースMOS構造の電荷特性。",
         "category": "business",
-        "date": "2026-09-12",
+        "date": "2026-09-14",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-14"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "DRAM市場、26年2Qは59.5％増　首位Samsungシェア拡大",
+        "blurb": "2026年2QのDRAM市場は前期比59.5%増。Samsungがシェアを拡大し首位を維持。CXMTもシェアを伸ばした。",
+        "category": "business",
+        "date": "2026-09-14",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/11/news083.html"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "idm"
         }
       }
     ]

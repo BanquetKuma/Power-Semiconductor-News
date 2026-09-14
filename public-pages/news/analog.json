@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-09-12T07:57:44.934388+09:00",
+  "generated_at": "2026-09-15T08:41:17.113011+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "時速350kmのレースで「水平」維持、ソニー スタビライザーLSI",
-    "summary": "ソニーが低遅延で映像のブレ・傾きを補正するスタビライザーLSIを開発。MotoGPなどで採用が拡大。",
+    "title": "サブテラヘルツ帯で「世界最速」2Tビット/秒、100m伝送を実証",
+    "summary": "NTTはサブテラヘルツ帯で無線伝送速度2Tビット/秒、距離100mを実証。6GやAIデータセンターへの応用を目指す。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/11/news054.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news045.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "時速350kmのレースで「水平」維持、ソニー スタビライザーLSI",
-        "blurb": "ソニーが低遅延で映像のブレ・傾きを補正するスタビライザーLSIを開発。MotoGPなどで採用が拡大。",
+        "title": "サブテラヘルツ帯で「世界最速」2Tビット/秒、100m伝送を実証",
+        "blurb": "NTTはサブテラヘルツ帯で無線伝送速度2Tビット/秒、距離100mを実証。6GやAIデータセンターへの応用を目指す。",
         "category": "company",
-        "date": "2026-09-11",
+        "date": "2026-09-14",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/11/news054.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news045.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Radon sensor embeds sizeable alpha particle detector",
+        "blurb": "PINフォトダイオードでアルファ線量を測定し、がんリスクを判定するラドンセンサーが開発された。",
+        "category": "tools",
+        "date": "2026-09-14",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/radon-sensor-embeds-sizeable-alpha-particle-detector"
         },
         "field": {
           "primary": "analog",
@@ -35,7 +55,6 @@
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }
