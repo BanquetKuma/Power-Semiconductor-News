@@ -1,60 +1,41 @@
 {
-  "generated_at": "2026-09-12T07:57:44.934899+09:00",
+  "generated_at": "2026-09-16T08:24:02.770660+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chip Industry Week in Review",
-    "summary": "半導体業界の最新動向：高NA EUVマスク、アームのAI、Amkorの拡張、3Dメモリ、FeRAM、Qualcomm-AWSの大型契約、新iPhoneチップ、OpenAIの動向など。",
+    "title": "Lantronix Open-M 720G and 520G SoMs Target Edge AI Applications",
+    "summary": "LantronixがAIエッジIoT向けSoM「Open-M 720G/520G」を発表。MediaTek製チップ搭載で最大10 TOPSのAI性能。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/chip-industry-week-in-review-155"
+        "name": "electronics-lab.com",
+        "url": "https://www.electronics-lab.com/lantronix-open-m-720g-and-520g-soms-target-edge-ai-applications"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Alif Semiconductor Launches $49 StartKits for Edge AI MCUs",
-        "blurb": "Alif Semiconductorは、エッジAI対応MCUプラットフォーム用の低価格な開発キット「StartKit」を発表しました。価格は49ドルです。",
+        "title": "Lantronix Open-M 720G and 520G SoMs Target Edge AI Applications",
+        "blurb": "LantronixがAIエッジIoT向けSoM「Open-M 720G/520G」を発表。MediaTek製チップ搭載で最大10 TOPSのAI性能。",
         "category": "company",
-        "date": "2026-09-11",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/alif-semiconductor-launches-49-startkits-for-edge-ai-mcus"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/lantronix-open-m-720g-and-520g-soms-target-edge-ai-applications"
         },
         "field": {
           "primary": "ai",
           "device": null,
           "process": null,
           "market": "ai",
-          "industry": null
+          "industry": "fabless"
         }
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "Chip Industry Week in Review",
-        "blurb": "半導体業界の最新動向：高NA EUVマスク、アームのAI、Amkorの拡張、3Dメモリ、FeRAM、Qualcomm-AWSの大型契約、新iPhoneチップ、OpenAIの動向など。",
-        "category": "business",
-        "date": "2026-09-11",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-155"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": "backend",
-          "market": "ai",
-          "industry": "fabless"
-        }
-      }
-    ]
+    "market": []
   }
 }

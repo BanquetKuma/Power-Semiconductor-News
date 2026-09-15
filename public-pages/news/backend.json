@@ -1,32 +1,51 @@
 {
-  "generated_at": "2026-09-15T08:41:17.114271+09:00",
+  "generated_at": "2026-09-16T08:24:02.771170+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Advanced Packaging Changes The Rules For Semiconductor Health And Performance Management",
-    "summary": "先進パッケージング技術が、チップレットを含む半導体の健全性と性能管理のルールを変える。",
+    "title": "Scaling Thermal Analysis From Transistors To Data Centers",
+    "summary": "トランジスタからデータセンターまで、熱解析の重要性が増している。チップレットの複雑化と電力密度の増加が設計初期段階での熱対策を必須にしている。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/advanced-packaging-changes-the-rules-for-semiconductor-health-and-performance-management"
+        "url": "https://semiengineering.com/scaling-thermal-analysis-from-transistors-to-data-centers"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "BMW Is Giving Its Navigation System A Tesla-Style Makeover",
+        "blurb": "BMWがナビゲーションシステムを刷新。iX3に初搭載され、ナビと運転支援情報を統合した3D表示が可能に。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808328/bmw-maps-driver-assistance-3d-view-update"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
-        "title": "Advanced Packaging Changes The Rules For Semiconductor Health And Performance Management",
-        "blurb": "先進パッケージング技術が、チップレットを含む半導体の健全性と性能管理のルールを変える。",
+        "title": "Scaling Thermal Analysis From Transistors To Data Centers",
+        "blurb": "トランジスタからデータセンターまで、熱解析の重要性が増している。チップレットの複雑化と電力密度の増加が設計初期段階での熱対策を必須にしている。",
         "category": "business",
-        "date": "2026-09-14",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/advanced-packaging-changes-the-rules-for-semiconductor-health-and-performance-management"
+          "url": "https://semiengineering.com/scaling-thermal-analysis-from-transistors-to-data-centers"
         },
         "field": {
           "primary": "backend",

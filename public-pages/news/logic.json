@@ -1,30 +1,68 @@
 {
-  "generated_at": "2026-09-13T07:50:07.428528+09:00",
+  "generated_at": "2026-09-16T08:24:02.769987+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)",
-    "summary": "シンガポール国立大学の研究者は、LLM推論を高速化するヘテロジニアスメモリチップレット「CHIPSMORE」を発表しました。",
+    "title": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
+    "summary": "AMBA Over UCIeは、次世代AI・HPC・データセンター向けに、マルチダイシステムを統合する新しい設計手法です。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus"
+        "url": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)",
-        "blurb": "シンガポール国立大学の研究者は、LLM推論を高速化するヘテロジニアスメモリチップレット「CHIPSMORE」を発表しました。",
+        "title": "推論領域への野心強めるNVIDIA　韓国新興と協議か",
+        "blurb": "NVIDIAが韓国の新興企業Rebellionsと協議。推論用NPU分野で提携、出資、買収も視野か。",
         "category": "company",
-        "date": "2026-09-12",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "MediaTek Unveils New Flagship Smartphone Chip",
+        "blurb": "MediaTekが新フラッグシップスマホチップ「Dimensity 9600 Pro」を発表。マルチコア消費電力を61%削減。",
+        "category": "company",
+        "date": "2026-09-16",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mediatek-unveils-new-flagship-smartphone-chip"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "One Processor, One Toolchain",
+        "blurb": "単一のソフトウェア制御コアが、行列、ベクトル、スカラーコードを一つの実行パイプラインで処理する。",
+        "category": "tools",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus"
+          "url": "https://semiengineering.com/one-processor-one-toolchain"
         },
         "field": {
           "primary": "logic",
@@ -35,7 +73,43 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
+        "blurb": "AMBA Over UCIeは、次世代AI・HPC・データセンター向けに、マルチダイシステムを統合する新しい設計手法です。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "ADI、AI半導体新興を13億ドルで買収 フィジカルAI強化",
+        "blurb": "ADIは、AI半導体新興Alif Semiconductorを13.5億ドルで買収。エッジAI技術とアナログ技術を融合し、フィジカルAIソリューションを強化する。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news049.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ]
   }
 }

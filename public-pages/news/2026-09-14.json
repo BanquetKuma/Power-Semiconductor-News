@@ -1,296 +1,49 @@
 {
-  "generated_at": "2026-09-15T08:41:17.111107+09:00",
+  "generated_at": "2026-09-14T07:51:41.096328+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Vishay Introduces High-Density Bidirectional TVS Protection",
-    "summary": "Vishayが、車載・産業用途向けに高密度双方向TVS保護デバイス「XFD11KxxCA」シリーズを発表。11kWのパルス耐力、低漏洩電流、ほぼ1:1のクランプ比を特徴とする。",
+    "title": "People Are Mad About The Jeep Recon's 222-Mile Range. Here's What They're Missing",
+    "summary": "ジープ・レコンの航続距離222マイルに不満の声。しかし、低価格・高機能・長航続距離の両立はビジネス上困難。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/vishay-introduces-high-density-bidirectional-tvs-protection"
+        "name": "insideevs.com",
+        "url": "https://insideevs.com/features/808009/jeep-recon-range-problems"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "The Critical Role of Power Conversion in the Hydrogen Economy",
-        "blurb": "電力変換技術は、水素製造用電解槽や燃料電池のDC化・AC化を担い、水素経済の実現に不可欠な役割を果たします。",
+        "title": "People Are Mad About The Jeep Recon's 222-Mile Range. Here's What They're Missing",
+        "blurb": "ジープ・レコンの航続距離222マイルに不満の声。しかし、低価格・高機能・長航続距離の両立はビジネス上困難。",
         "category": "business",
-        "date": "2026-09-14",
+        "date": "2026-09-13",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-critical-role-of-power-conversion-in-the-hydrogen-economy"
-        },
-        "field": null
-      },
-      {
-        "title": "Advanced Packaging Changes The Rules For Semiconductor Health And Performance Management",
-        "blurb": "先進パッケージング技術が、チップレットを含む半導体の健全性と性能管理のルールを変える。",
-        "category": "business",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/advanced-packaging-changes-the-rules-for-semiconductor-health-and-performance-management"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Industry Technical Paper Roundup: Sept. 14",
-        "blurb": "半導体業界の技術論文まとめ：AI推論向けメモリチップレット、EUVマスク、先端パッケージング、セキュリティテスト、TMDベースMOS構造の電荷特性。",
-        "category": "business",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-14"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "インフィニオン、800VDC AIデータセンター用SSCB開発強化",
-        "blurb": "インフィニオンはSolarEdgeと協業し、AIデータセンター向け800VDC SSCB開発を加速する。",
-        "category": "business",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news032.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "DRAM市場、26年2Qは59.5％増　首位Samsungシェア拡大",
-        "blurb": "2026年2QのDRAM市場は前期比59.5%増。Samsungがシェアを拡大し首位を維持。CXMTもシェアを伸ばした。",
-        "category": "business",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/11/news083.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "Geehy’s New Motor Control SoCs Integrate Gate Drivers to Cut BOM Cost",
-        "blurb": "Geehyの新モーター制御SoCは、ゲートドライバを統合し、BOMコストを削減します。",
-        "category": "business",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/geehys-new-motor-control-socs-integrate-gate-drivers-to-cut-bom-cost"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Eggtronic, Renesas Target 140-W USB-C Chargers with GaN",
-        "blurb": "EggtronicとルネサスがGaN技術で140W USB-C充電器を開発。高効率・低コスト化を目指す。",
-        "category": "business",
-        "date": "2026-09-15",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/eggtronic-renesas-target-140-w-usb-c-chargers-with-gan"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tools": [
-      {
-        "title": "AIが次に学ぶのは「何気ない動作」　先生になる私たち",
-        "blurb": "AIは個体差のある袋菓子のような「何気ない動作」を学習する段階へ。人間が教師役となる。",
-        "category": "tools",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news066.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Radon sensor embeds sizeable alpha particle detector",
-        "blurb": "PINフォトダイオードでアルファ線量を測定し、がんリスクを判定するラドンセンサーが開発された。",
-        "category": "tools",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/radon-sensor-embeds-sizeable-alpha-particle-detector"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Beyond the port: Fundamentals of passive radiators",
-        "blurb": "パッシブラジエーターの基本は、アンプの電力を音響エネルギーに変換するアクティブドライバーにある。",
-        "category": "tools",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/beyond-the-port-fundamentals-of-passive-radiators"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/808009/jeep-recon-range-problems"
         },
         "field": null
       }
     ],
+    "tools": [],
     "company": [
       {
-        "title": "ST Unveils L4983 PFC Controller for kW Power Supplies",
-        "blurb": "STマイクロエレクトロニクスが、数kW級電源に対応する高効率PFCコントローラL4983を発表。保護機能なども統合。",
+        "title": "Tesla Confirms Next-Generation Roadster Reveal On October 1",
+        "blurb": "テスラは次世代ロードスターを2026年10月1日に発表。SpaceXとの技術提携の可能性も。",
         "category": "company",
-        "date": "2026-09-14",
+        "date": "2026-09-13",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-unveils-l4983-pfc-controller-for-kw-power-supplies"
-        },
-        "field": null
-      },
-      {
-        "title": "フィジカルAI開発の「共通言語」策定へ Armの最新AI戦略",
-        "blurb": "Armは、フィジカルAI開発の共通言語策定を目指し、エッジ・クラウド向け新プラットフォームと開発エコシステムを発表した。",
-        "category": "company",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news077.html"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808054/tesla-roadster-ev-october-2026-reveal"
         },
         "field": {
-          "primary": "datacenter",
+          "primary": "automotive",
           "device": null,
           "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "サブテラヘルツ帯で「世界最速」2Tビット/秒、100m伝送を実証",
-        "blurb": "NTTはサブテラヘルツ帯で無線伝送速度2Tビット/秒、距離100mを実証。6GやAIデータセンターへの応用を目指す。",
-        "category": "company",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news045.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "京セラと東北大、シリコン光回路に光アイソレーターを直接集積",
-        "blurb": "京セラと東北大は、シリコン光回路に光アイソレーターを直接集積する世界初の技術を開発。レーザーアニールで実現。",
-        "category": "company",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news030.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Designing SWaP-Optimized Compute for UAVs",
-        "blurb": "ドローンの知能がオペレーターから機体へ移行。SWaP最適化された組み込みアーキテクチャ設計が重要に。",
-        "category": "company",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/designing-swap-optimized-compute-for-uavs"
-        },
-        "field": null
-      },
-      {
-        "title": "Infineon RIC70115 – A Radiation-Hardened GaN HEMT Gate Driver for Space",
-        "blurb": "インフィニオンが宇宙用途向け放射線耐性GaN HEMTゲートドライバRIC70115を発表。高信頼性アプリケーションに対応。",
-        "category": "company",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/infineon-ric70115-a-radiation-hardened-gan-hemt-gate-driver-for-space"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Vishay Introduces High-Density Bidirectional TVS Protection",
-        "blurb": "Vishayが、車載・産業用途向けに高密度双方向TVS保護デバイス「XFD11KxxCA」シリーズを発表。11kWのパルス耐力、低漏洩電流、ほぼ1:1のクランプ比を特徴とする。",
-        "category": "company",
-        "date": "2026-09-15",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vishay-introduces-high-density-bidirectional-tvs-protection"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
+          "market": "automotive",
           "industry": null
         }
       }

@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-09-15T08:41:17.114620+09:00",
+  "generated_at": "2026-09-16T08:24:02.771408+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "京セラと東北大、シリコン光回路に光アイソレーターを直接集積",
-    "summary": "京セラと東北大は、シリコン光回路に光アイソレーターを直接集積する世界初の技術を開発。レーザーアニールで実現。",
+    "title": "AI Data Centers Have A Stranded Power Problem",
+    "summary": "AIデータセンターは冗長電源で電力容量を無駄にしている。より多くのハードウェアをサポートできる能力が失われている。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news030.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/ai-data-centers-have-a-power-hoarding-problem"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "京セラと東北大、シリコン光回路に光アイソレーターを直接集積",
-        "blurb": "京セラと東北大は、シリコン光回路に光アイソレーターを直接集積する世界初の技術を開発。レーザーアニールで実現。",
-        "category": "company",
-        "date": "2026-09-14",
+        "title": "Compressing An 11B VLM To 2.7-bit Weights For Mobile CPUs",
+        "blurb": "110億パラメータのVLMを2.7ビットに圧縮し、モバイルCPUでの実行を可能にする技術。精度維持とモデルサイズ削減を両立。",
+        "category": "tools",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news030.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/compressing-an-11b-vlm-to-2-7-bit-weights-for-mobile-cpus"
         },
         "field": {
           "primary": "general",
@@ -35,17 +36,106 @@
         }
       }
     ],
-    "tech": [],
     "market": [
       {
-        "title": "Geehy’s New Motor Control SoCs Integrate Gate Drivers to Cut BOM Cost",
-        "blurb": "Geehyの新モーター制御SoCは、ゲートドライバを統合し、BOMコストを削減します。",
+        "title": "AI Data Centers Have A Stranded Power Problem",
+        "blurb": "AIデータセンターは冗長電源で電力容量を無駄にしている。より多くのハードウェアをサポートできる能力が失われている。",
         "category": "business",
-        "date": "2026-09-14",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/geehys-new-motor-control-socs-integrate-gate-drivers-to-cut-bom-cost"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-data-centers-have-a-power-hoarding-problem"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Hardware-Software Co-Design In The AI Era",
+        "blurb": "AI時代におけるハードウェア・ソフトウェア協調設計は、メリットが認識されているものの、多くの課題に直面している。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hardware-software-co-design-in-the-ai-era"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Scaling AI Infrastructure With PCIe Switches And Retimers",
+        "blurb": "PCIeスイッチとリタイマーでAIインフラを拡張。ローカル、共有リソース、長距離トポロジーに対応し、柔軟なサブシステム構築を可能にする。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scaling-ai-infrastructure-with-pcie-switches-and-retimers"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Validating PCIe 6.0 Connectivity In A 3D Multi-Die Test Chip",
+        "blurb": "3D積層チップでPCIe 6.0の接続性を検証。64.0 GT/sの高速通信を実現するテストチップ。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/validating-pcie-6-0-connectivity-in-a-3d-multi-die-test-chip"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "製造現場にフィジカルAIをどう実装するか――電子版2026年9月号",
+        "blurb": "製造現場へのフィジカルAI実装方法を解説。電子版2026年9月号にEE Exclusive記事として掲載。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news030.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "A design path to success exists for ultra-low-voltage SoCs",
+        "blurb": "超低電圧（ULV）SoC設計は、トランジスタ閾値電圧付近の供給電圧が課題。成功への設計パスが存在する。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/a-design-path-to-success-exists-for-ultra-low-voltage-socs"
         },
         "field": {
           "primary": "general",

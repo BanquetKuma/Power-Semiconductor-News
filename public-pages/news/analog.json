@@ -1,50 +1,31 @@
 {
-  "generated_at": "2026-09-15T08:41:17.113011+09:00",
+  "generated_at": "2026-09-16T08:24:02.770194+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "サブテラヘルツ帯で「世界最速」2Tビット/秒、100m伝送を実証",
-    "summary": "NTTはサブテラヘルツ帯で無線伝送速度2Tビット/秒、距離100mを実証。6GやAIデータセンターへの応用を目指す。",
+    "title": "DAC implementations: The spread-bit PWM strikes back",
+    "summary": "DAC実装におけるspread-bit PWMの理論的利点の実際への応用は困難。EDNの記事。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news045.html"
+        "name": "edn.com",
+        "url": "https://www.edn.com/dac-implementations-the-spread-bit-pwm-strikes-back"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "サブテラヘルツ帯で「世界最速」2Tビット/秒、100m伝送を実証",
-        "blurb": "NTTはサブテラヘルツ帯で無線伝送速度2Tビット/秒、距離100mを実証。6GやAIデータセンターへの応用を目指す。",
-        "category": "company",
-        "date": "2026-09-14",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news045.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "Radon sensor embeds sizeable alpha particle detector",
-        "blurb": "PINフォトダイオードでアルファ線量を測定し、がんリスクを判定するラドンセンサーが開発された。",
+        "title": "DAC implementations: The spread-bit PWM strikes back",
+        "blurb": "DAC実装におけるspread-bit PWMの理論的利点の実際への応用は困難。EDNの記事。",
         "category": "tools",
-        "date": "2026-09-14",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/radon-sensor-embeds-sizeable-alpha-particle-detector"
+          "url": "https://www.edn.com/dac-implementations-the-spread-bit-pwm-strikes-back"
         },
         "field": {
           "primary": "analog",
