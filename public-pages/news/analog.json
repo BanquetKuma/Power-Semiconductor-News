@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-09-16T08:24:02.770194+09:00",
+  "generated_at": "2026-09-17T08:32:21.501948+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "DAC implementations: The spread-bit PWM strikes back",
-    "summary": "DAC実装におけるspread-bit PWMの理論的利点の実際への応用は困難。EDNの記事。",
+    "title": "MIPI Alliance Forms Kinematics Working Group",
+    "summary": "MIPIアライアンスがキネマティクスワーキンググループを設立。レーダー・LiDARセンサーデータの標準化仕様を開発。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/dac-implementations-the-spread-bit-pwm-strikes-back"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/mipi-alliance-forms-kinematics-working-group"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "DAC implementations: The spread-bit PWM strikes back",
-        "blurb": "DAC実装におけるspread-bit PWMの理論的利点の実際への応用は困難。EDNの記事。",
-        "category": "tools",
-        "date": "2026-09-15",
+        "title": "MIPI Alliance Forms Kinematics Working Group",
+        "blurb": "MIPIアライアンスがキネマティクスワーキンググループを設立。レーダー・LiDARセンサーデータの標準化仕様を開発。",
+        "category": "company",
+        "date": "2026-09-16",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/dac-implementations-the-spread-bit-pwm-strikes-back"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mipi-alliance-forms-kinematics-working-group"
         },
         "field": {
           "primary": "analog",
@@ -34,8 +33,27 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "New Infineon PMIC Consolidates Power and Safety for EV Traction Inverters",
+        "blurb": "インフィニオンの新PMICは、EV駆動インバーター向けに、電源と安全機能を統合した単一チップ設計を実現しました。",
+        "category": "company",
+        "date": "2026-09-17",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/new-infineon-pmic-consolidates-power-and-safety-for-ev-traction-inverters"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

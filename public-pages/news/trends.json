@@ -1,37 +1,34 @@
 {
-  "generated_at": "2026-09-16T08:24:06.474949+09:00",
-  "date": "2026-09-16",
+  "generated_at": "2026-09-17T08:32:25.411530+09:00",
+  "date": "2026-09-17",
   "meta_trends": [
     {
-      "name": "AIインフラの高度化と拡張",
+      "name": "AIデータセンターの電力効率向上",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
-        "logic",
-        "backend",
+        "power",
         "ai"
       ],
-      "summary": "AIデータセンターの電力効率、PCIeスイッチ/リタイマーによる拡張、マルチダイシステム統合、熱管理の重要性が増している。",
+      "summary": "AIデータセンターにおける電力消費の増大と、それに伴う電力効率改善、高電圧化、熱管理の重要性が増している。",
       "analysis": {
-        "short_term": "AIチップ需要増で関連インフラ投資活発化。",
-        "mid_term": "電力効率とスケーラビリティが競争優位に。",
-        "investment_implications": "インフラ・パッケージング関連企業に注目。"
+        "short_term": "高効率電源、800Vシステムへの注目続く。",
+        "mid_term": "熱管理ソリューション、チップレット設計が鍵。",
+        "investment_implications": "データセンターインフラ関連企業に注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
-        "PCIe",
-        "先進パッケージング",
+        "電力効率",
+        "800V",
         "熱管理"
       ],
       "companies_mentioned": [
+        "Tektronix",
         "TDK",
-        "Vishay",
-        "Microchip",
-        "ams OSRAM",
-        "インフィニオン",
-        "Arm"
+        "Infineon",
+        "SolarEdge"
       ]
     },
     {
@@ -40,135 +37,132 @@
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "automotive",
         "industrial",
-        "analog",
+        "automotive",
+        "datacenter",
         "logic"
       ],
-      "summary": "製造現場やエッジデバイスへのAI実装が進展。ハードウェア・ソフトウェア協調設計、低消費電力化、リアルタイム処理が鍵。",
+      "summary": "製造現場や自動車など、物理世界と連携するAI（フィジカルAI）の重要性が高まり、エッジでの推論能力向上が求められている。",
       "analysis": {
-        "short_term": "エッジAI向け半導体買収・提携加速。",
-        "mid_term": "リアルタイム性と低遅延が差別化要因に。",
-        "investment_implications": "エッジAIソリューション提供企業に投資妙味。"
+        "short_term": "エッジAI向けNPU、IP開発が活発化。",
+        "mid_term": "ハードウェア・ソフトウェア協調設計が加速。",
+        "investment_implications": "AI半導体新興、IPベンダーに注目。"
       },
       "keywords": [
         "フィジカルAI",
         "エッジAI",
+        "NPU",
         "協調設計",
-        "低消費電力",
-        "リアルタイム"
+        "IP"
       ],
       "companies_mentioned": [
-        "ADI",
-        "Arm",
-        "ソニー",
         "NVIDIA",
+        "ADI",
+        "Alif Semiconductor",
+        "Arm",
         "Rebellions"
       ]
     },
     {
-      "name": "次世代通信と高速化技術",
+      "name": "次世代パワー半導体の大型化と高効率化",
+      "confidence": 0.88,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial",
+        "datacenter"
+      ],
+      "summary": "SiCなどの次世代パワー半導体材料において、基板の大型化と製造プロセスの高効率化が進み、EVや産業機器での採用拡大が見込まれる。",
+      "analysis": {
+        "short_term": "300mm SiC基板開発競争が激化。",
+        "mid_term": "高効率・高耐圧デバイスの需要増。",
+        "investment_implications": "SiC材料・デバイスメーカーに期待。"
+      },
+      "keywords": [
+        "SiC",
+        "パワー半導体",
+        "EV",
+        "大型化",
+        "高効率"
+      ],
+      "companies_mentioned": [
+        "レゾナック"
+      ]
+    },
+    {
+      "name": "SoC設計の複雑化とインターコネクト技術",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
         "logic",
-        "memory",
-        "analog",
-        "frontend"
+        "frontend",
+        "backend",
+        "miniaturization"
       ],
-      "summary": "サブテラヘルツ帯の超高速無線伝送、PCIe 6.0、シリコン光回路統合など、データセンターや通信インフラの高速化が進む。",
+      "summary": "SoCの複雑化に伴い、従来のバスアーキテクチャからNoC（Network-on-Chip）への移行が進み、データ移動効率化が重要になっている。",
       "analysis": {
-        "short_term": "次世代通信規格への期待感高まる。",
-        "mid_term": "データ転送速度向上がAI・HPCのボトルネック解消へ。",
-        "investment_implications": "高速インターコネクト・光通信関連に注目。"
+        "short_term": "NoC IPソリューションの需要増。",
+        "mid_term": "チップレット設計との連携強化。",
+        "investment_implications": "インターコネクトIPベンダーに注目。"
       },
       "keywords": [
-        "6G",
-        "サブテラヘルツ",
-        "PCIe 6.0",
-        "シリコンフォトニクス",
-        "光アイソレーター"
+        "SoC",
+        "NoC",
+        "インターコネクト",
+        "チップレット",
+        "データ移動"
       ],
       "companies_mentioned": [
-        "NTT",
-        "京セラ",
-        "東北大学",
-        "ASML"
+        "Baya Systems"
       ]
     },
     {
-      "name": "メモリ技術の進化と市場変動",
+      "name": "半導体テスト・信頼性向上の重要性",
       "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "memory",
-        "ai",
-        "datacenter"
-      ],
-      "summary": "AI推論向けメモリチップレット、HBMの需要増、DRAM市場の急回復など、メモリ技術と市場はダイナミックに変動。",
-      "analysis": {
-        "short_term": "DRAM市場は回復基調、Samsungが優位。",
-        "mid_term": "AI向け高帯域メモリの重要性が増す。",
-        "investment_implications": "メモリメーカー、特にAI向け製品に強みを持つ企業。"
-      },
-      "keywords": [
-        "DRAM",
-        "HBM",
-        "メモリチップレット",
-        "AI推論",
-        "市場回復"
-      ],
-      "companies_mentioned": [
-        "Samsung",
-        "CXMT",
-        "キオクシア"
-      ]
-    },
-    {
-      "name": "微細化と先進パッケージングの重要性",
-      "confidence": 0.75,
-      "momentum": "rising",
+      "momentum": "stable",
       "related_fields": [
         "frontend",
         "backend",
-        "logic",
-        "miniaturization"
+        "equipment",
+        "automotive",
+        "industrial"
       ],
-      "summary": "ASMLのハイパーNA露光装置、3D積層チップ、チップレット技術など、微細化とパッケージング技術が性能向上とコスト削減を両立。",
+      "summary": "半導体の信頼性向上に向けたテストデータ転送の高速化や、放射線耐性、電源完全性解析などの技術開発が進められている。",
       "analysis": {
-        "short_term": "最先端露光装置への投資は継続。",
-        "mid_term": "先進パッケージングが性能向上の鍵となる。",
-        "investment_implications": "ファウンドリ、パッケージング技術企業に機会。"
+        "short_term": "テストデータ転送高速化ソリューションに関心。",
+        "mid_term": "高信頼性が求められる分野での需要増。",
+        "investment_implications": "テスト・計測機器メーカーに注目。"
       },
       "keywords": [
-        "微細化",
-        "EUV",
-        "ハイパーNA",
-        "先進パッケージング",
-        "チップレット"
+        "テスト",
+        "信頼性",
+        "高速化",
+        "放射線耐性",
+        "電源完全性"
       ],
       "companies_mentioned": [
-        "ASML",
-        "Microchip"
+        "Microchip",
+        "Vishay",
+        "Tektronix"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連インフラ投資の拡大",
-      "エッジAI市場の成長",
-      "DRAM市場の回復",
-      "次世代通信技術への期待"
+      "AI関連半導体の需要拡大",
+      "データセンター投資の活発化",
+      "車載半導体市場の回復基調",
+      "DRAM市場の価格上昇と需要増"
     ],
     "bearish": [
-      "AIデータセンターの電力問題",
-      "ハードウェア・ソフトウェア協調設計の課題"
+      "地政学的リスクによるサプライチェーンの不確実性",
+      "一部汎用半導体の在庫調整懸念"
     ],
     "neutral": [
-      "超低電圧SoC設計の難易度",
-      "折りたたみスマホ市場の不確実性"
+      "先端ロジックファウンドリの生産能力増強",
+      "メモリ市場の需給バランスの変動"
     ]
   },
-  "source_count": 44
+  "source_count": 45
 }

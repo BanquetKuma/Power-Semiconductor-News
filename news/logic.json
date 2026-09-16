@@ -1,39 +1,21 @@
 {
-  "generated_at": "2026-09-16T08:24:02.769987+09:00",
+  "generated_at": "2026-09-17T08:32:21.501339+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
-    "summary": "AMBA Over UCIeは、次世代AI・HPC・データセンター向けに、マルチダイシステムを統合する新しい設計手法です。",
+    "title": "Why SoC Interconnects Have Outgrown the Bus",
+    "summary": "SoCのインターコネクトはバスを超え、NoCアーキテクチャとコヒーレントサブシステムIPが次世代のスケーラビリティ、安全性、性能課題に対応。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems"
+        "url": "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus"
       }
     ]
   },
   "sections": {
     "news": [
-      {
-        "title": "推論領域への野心強めるNVIDIA　韓国新興と協議か",
-        "blurb": "NVIDIAが韓国の新興企業Rebellionsと協議。推論用NPU分野で提携、出資、買収も視野か。",
-        "category": "company",
-        "date": "2026-09-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
       {
         "title": "MediaTek Unveils New Flagship Smartphone Chip",
         "blurb": "MediaTekが新フラッグシップスマホチップ「Dimensity 9600 Pro」を発表。マルチコア消費電力を61%削減。",
@@ -55,14 +37,14 @@
     ],
     "tech": [
       {
-        "title": "One Processor, One Toolchain",
-        "blurb": "単一のソフトウェア制御コアが、行列、ベクトル、スカラーコードを一つの実行パイプラインで処理する。",
+        "title": "FPGA architecture: Radiation particle types and single event upsets (SEUs)",
+        "blurb": "FPGAにおける単一イベントアップセット（SEU）は、アルファ粒子などによる信頼性問題。その原因となる放射線粒子について解説。",
         "category": "tools",
-        "date": "2026-09-15",
+        "date": "2026-09-16",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/one-processor-one-toolchain"
+          "name": "edn.com",
+          "url": "https://www.edn.com/fpga-architecture-radiation-particle-types-and-single-event-upsets-seus"
         },
         "field": {
           "primary": "logic",
@@ -75,38 +57,20 @@
     ],
     "market": [
       {
-        "title": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
-        "blurb": "AMBA Over UCIeは、次世代AI・HPC・データセンター向けに、マルチダイシステムを統合する新しい設計手法です。",
+        "title": "Why SoC Interconnects Have Outgrown the Bus",
+        "blurb": "SoCのインターコネクトはバスを超え、NoCアーキテクチャとコヒーレントサブシステムIPが次世代のスケーラビリティ、安全性、性能課題に対応。",
         "category": "business",
-        "date": "2026-09-15",
+        "date": "2026-09-16",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems"
+          "url": "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "ADI、AI半導体新興を13億ドルで買収 フィジカルAI強化",
-        "blurb": "ADIは、AI半導体新興Alif Semiconductorを13.5億ドルで買収。エッジAI技術とアナログ技術を融合し、フィジカルAIソリューションを強化する。",
-        "category": "business",
-        "date": "2026-09-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news049.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
       }
