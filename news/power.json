@@ -1,30 +1,69 @@
 {
-  "generated_at": "2026-09-17T08:32:21.500675+09:00",
+  "generated_at": "2026-09-18T08:22:02.477819+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "レゾナックが300mm SiC単結晶基板を開発",
-    "summary": "レゾナックが直径300mmの炭化ケイ素（SiC）単結晶基板の成長と加工に成功。SiC基板の大型化競争が激化する中、次世代技術への貢献が期待される。",
+    "title": "Power Corner: Scaling Vertical GaN FinFETs on an Engineered Substrate",
+    "summary": "Vertical Semiconductor、AIデータセンター向け垂直GaN FinFETの量産化を発表。エンジニアリング基板上で実現。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news052.html"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/power-corner-scaling-vertical-gan-finfets-on-an-engineered-substrate"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "レゾナックが300mm SiC単結晶基板を開発",
-        "blurb": "レゾナックが直径300mmの炭化ケイ素（SiC）単結晶基板の成長と加工に成功。SiC基板の大型化競争が激化する中、次世代技術への貢献が期待される。",
+        "title": "Power Corner: Scaling Vertical GaN FinFETs on an Engineered Substrate",
+        "blurb": "Vertical Semiconductor、AIデータセンター向け垂直GaN FinFETの量産化を発表。エンジニアリング基板上で実現。",
         "category": "company",
-        "date": "2026-09-16",
+        "date": "2026-09-17",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-scaling-vertical-gan-finfets-on-an-engineered-substrate"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "miniaturization",
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "ロームのSiCパワー半導体、BMWがEVに採用",
+        "blurb": "ロームのSiCパワー半導体が、BMWの次世代EV「Neue Klasse」に採用。電動パワートレインに搭載され、EV普及に貢献。",
+        "category": "company",
+        "date": "2026-09-17",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news052.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news100.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Predictive TCAD Modeling of Normally-Off p-GaN HEMTs for Dynamic RDS(on), Leakage, Breakdown, and ML-Based Design Exploration",
+        "blurb": "p-GaN HEMTの予測TCADモデリング。リーク、オン抵抗、破壊特性を解析し、MLで設計を効率化。",
+        "category": "business",
+        "date": "2026-09-17",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/predictive-tcad-modeling-of-normally-off-p-gan-hemts-for-dynamic-rdson-leakage-breakdown-and-ml-based-design-exploration"
         },
         "field": {
           "primary": "power",
@@ -34,8 +73,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

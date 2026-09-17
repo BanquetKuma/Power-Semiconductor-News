@@ -1,46 +1,40 @@
 {
-  "generated_at": "2026-09-17T08:32:21.499003+09:00",
+  "generated_at": "2026-09-16T08:24:02.768745+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Tektronix ELR 21000 Targets 800 V Data Center Power Testing",
-    "summary": "TektronixのELR 21000は、800Vデータセンター向け電力試験システム。高電流、高効率、拡張性を備え、高度な電力システム検証に対応。",
+    "title": "TDK Launches 12.5kW Three-Phase Power Supplies",
+    "summary": "TDKは、高効率・並列運転可能な12.5kW三相電源「TPF12500」を発表。産業・データセンター向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/tektronix-elr-21000-targets-800-v-data-center-power-testing"
+        "url": "https://www.powerelectronicsnews.com/tdk-launches-12-5kw-three-phase-power-supplies"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Tektronix ELR 21000 Targets 800 V Data Center Power Testing",
-        "blurb": "TektronixのELR 21000は、800Vデータセンター向け電力試験システム。高電流、高効率、拡張性を備え、高度な電力システム検証に対応。",
+        "title": "Understanding PCS Architectures for Utility-Scale BESSes",
+        "blurb": "大規模蓄電システムでは、効率、設備数、可用性のバランスを取り、集中型、分散型、ハイブリッド型PCSアーキテクチャから選択する。",
         "category": "business",
-        "date": "2026-09-16",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/tektronix-elr-21000-targets-800-v-data-center-power-testing"
+          "url": "https://www.powerelectronicsnews.com/understanding-pcs-architectures-for-utility-scale-bess"
         },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "Moving Test Data Faster",
-        "blurb": "半導体の信頼性向上のためのテストデータ転送高速化の選択肢と回避策について解説。",
+        "title": "AI Data Centers Have A Stranded Power Problem",
+        "blurb": "AIデータセンターは冗長電源で電力容量を無駄にしている。より多くのハードウェアをサポートできる能力が失われている。",
         "category": "business",
-        "date": "2026-09-16",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/moving-test-data-faster"
+          "url": "https://semiengineering.com/ai-data-centers-have-a-power-hoarding-problem"
         },
         "field": {
           "primary": "general",
@@ -51,68 +45,14 @@
         }
       },
       {
-        "title": "Why SoC Interconnects Have Outgrown the Bus",
-        "blurb": "SoCのインターコネクトはバスを超え、NoCアーキテクチャとコヒーレントサブシステムIPが次世代のスケーラビリティ、安全性、性能課題に対応。",
+        "title": "Hardware-Software Co-Design In The AI Era",
+        "blurb": "AI時代におけるハードウェア・ソフトウェア協調設計は、メリットが認識されているものの、多くの課題に直面している。",
         "category": "business",
-        "date": "2026-09-16",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Enhancing AI Inference Efficiency with Cadence LPDDR Memory IP Solutions",
-        "blurb": "ケイデンス、AI推論効率向上へLPDDRメモリIPソリューションを提供。次世代LPDDR6/5x対応で、クラウド・エッジ・物理インフラを強化。",
-        "category": "business",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enhancing-ai-inference-efficiency-with-cadence-lpddr-memory-ip-solutions"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Enabling Efficient Edge AI Inferencing Through Ecosystem Collaboration",
-        "blurb": "エッジAI推論向けLPDDRベースのメモリプラットフォームがエコシステム連携で効率化。セミコンダクター・エンジニアリングの記事。",
-        "category": "business",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/enabling-efficient-edge-ai-inferencing-through-ecosystem-collaboration"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Blog Review: Sept. 16",
-        "blurb": "半導体エンジニアリングのブログレビュー。初回シリコンの成功、エンジニアリング能力、最小クロック周期、PyTorch最適化、偽造電子機器について。",
-        "category": "business",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-sept-16-3"
+          "url": "https://semiengineering.com/hardware-software-co-design-in-the-ai-era"
         },
         "field": {
           "primary": "general",
@@ -123,14 +63,14 @@
         }
       },
       {
-        "title": "半導体の「データ移動」を効率化　米IP新興が日本進出",
-        "blurb": "米Baya Systemsが日本進出。AI・チップレット普及で複雑化する半導体のデータ移動を効率化するIPを提供。HPC、車載、エッジ等に商機。",
+        "title": "Scaling Thermal Analysis From Transistors To Data Centers",
+        "blurb": "トランジスタからデータセンターまで、熱解析の重要性が増している。チップレットの複雑化と電力密度の増加が設計初期段階での熱対策を必須にしている。",
         "category": "business",
-        "date": "2026-09-16",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news046.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/scaling-thermal-analysis-from-transistors-to-data-centers"
         },
         "field": {
           "primary": "backend",
@@ -141,52 +81,14 @@
         }
       },
       {
-        "title": "結晶方位を利用した次世代スピントロニクスデバイスへ新成果",
-        "blurb": "京大らは、CrSbのスピントルクが結晶方向に強く依存することを発見。界面対称性が起源と判明。次世代スピントロニクスデバイスへの応用が期待される。",
+        "title": "Scaling AI Infrastructure With PCIe Switches And Retimers",
+        "blurb": "PCIeスイッチとリタイマーでAIインフラを拡張。ローカル、共有リソース、長距離トポロジーに対応し、柔軟なサブシステム構築を可能にする。",
         "category": "business",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news034.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Tektronix Launches Dynamic Test System for 800-V AI Data Centers",
-        "blurb": "TektronixがAIデータセンター向け800V対応の動的テストシステムを発表。高電圧・高電力の検証を効率化。",
-        "category": "business",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/tektronix-launches-dynamic-test-system-for-800-v-ai-data-centers"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "PowerUP Circuit Lab: How to Build a Complete PoE-Powered-Device Chain to Isolated 12V",
-        "blurb": "PoE給電デバイス6段構成の回路を解説。入力から絶縁12V出力までを構築する方法を紹介。",
-        "category": "tools",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/powerup-circuit-lab-how-to-build-a-complete-poe-powered-device-chain-to-isolated-12v"
-        },
-        "field": null
-      },
-      {
-        "title": "The Missing Science Of Robotic Systems",
-        "blurb": "ロボットの能力向上には、適切なパラダイムでの実現、時間を通じた構成、異種コンピューティングへの分散、明示的な制約下での統治が必要。",
-        "category": "tools",
-        "date": "2026-09-16",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-missing-science-of-robotic-systems"
+          "url": "https://semiengineering.com/scaling-ai-infrastructure-with-pcie-switches-and-retimers"
         },
         "field": {
           "primary": "general",
@@ -197,112 +99,116 @@
         }
       },
       {
-        "title": "System-level Power Integrity Analysis Using The Innovator 3D IC Solution Suite",
-        "blurb": "3D IC設計の複雑さを簡略化。ダイレベルとパッケージレベルの電源完全性解析を統合し、直感的な環境で提供。",
-        "category": "tools",
-        "date": "2026-09-16",
+        "title": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
+        "blurb": "AMBA Over UCIeは、次世代AI・HPC・データセンター向けに、マルチダイシステムを統合する新しい設計手法です。",
+        "category": "business",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/system-level-power-integrity-analysis-using-the-innovator-3d-ic-solution-suite"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "FPGA architecture: Radiation particle types and single event upsets (SEUs)",
-        "blurb": "FPGAにおける単一イベントアップセット（SEU）は、アルファ粒子などによる信頼性問題。その原因となる放射線粒子について解説。",
-        "category": "tools",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fpga-architecture-radiation-particle-types-and-single-event-upsets-seus"
+          "url": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Validating PCIe 6.0 Connectivity In A 3D Multi-Die Test Chip",
+        "blurb": "3D積層チップでPCIe 6.0の接続性を検証。64.0 GT/sの高速通信を実現するテストチップ。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/validating-pcie-6-0-connectivity-in-a-3d-multi-die-test-chip"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Digital pot programming with a twist",
-        "blurb": "555タイマーICを使ったデジタルポテンショメータのプログラミング回路例。アナログタイミングにおける555の重要性を示す。",
-        "category": "tools",
-        "date": "2026-09-16",
+        "title": "製造現場にフィジカルAIをどう実装するか――電子版2026年9月号",
+        "blurb": "製造現場へのフィジカルAI実装方法を解説。電子版2026年9月号にEE Exclusive記事として掲載。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news030.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ADI、AI半導体新興を13億ドルで買収 フィジカルAI強化",
+        "blurb": "ADIは、AI半導体新興Alif Semiconductorを13.5億ドルで買収。エッジAI技術とアナログ技術を融合し、フィジカルAIソリューションを強化する。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news049.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "A design path to success exists for ultra-low-voltage SoCs",
+        "blurb": "超低電圧（ULV）SoC設計は、トランジスタ閾値電圧付近の供給電圧が課題。成功への設計パスが存在する。",
+        "category": "business",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/digital-pot-programming-with-a-twist"
+          "url": "https://www.edn.com/a-design-path-to-success-exists-for-ultra-low-voltage-socs"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ESD eBook September/October 2026: Rethinking Mil/Aero System Design",
+        "blurb": "ESD eBook 2026年版：過酷な環境下でのMIL/AEROシステム設計の再考。インテリジェント化・複雑化するシステム設計の課題に焦点を当てる。",
+        "category": "business",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/esd-ebook-september-october-2026-rethinking-mil-aero-system-design"
         },
         "field": null
       },
       {
-        "title": "ARK Just A Pi Shrinks Raspberry Pi CM5 Connectivity to 55 × 40 mm",
-        "blurb": "Raspberry Pi CM5を55x40mmに小型化。デュアルEthernet、PCIe、USB3.0などを搭載した組み込みプラットフォーム。",
-        "category": "tools",
-        "date": "2026-09-16",
+        "title": "Eggtronic, Renesas Target 140-W USB-C Chargers with GaN",
+        "blurb": "Eggtronicとルネサスが、窒化ガリウム（GaN）技術を活用した140W USB-C充電器の基準プラットフォームを発表。高効率と低コストを目指す。",
+        "category": "business",
+        "date": "2026-09-15",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/ark-just-a-pi-shrinks-raspberry-pi-cm5-connectivity-to-55-x-40-mm"
-        },
-        "field": null
-      },
-      {
-        "title": "The Aventon Level 3 Made Me Fall Back In Love With E-Biking",
-        "blurb": "人気ブランドAventonの新型電動アシスト自転車「Level 3」は、通勤に最適で、再び電動アシスト自転車の魅力を発見させてくれる。",
-        "category": "tools",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808422/aventon-level-3-review-e-bike"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "中国勢の速さにどう追い付く　TEが語る自動車開発の今後",
-        "blurb": "TE Connectivity Japan社長が、電動化・SDV化・中国勢台頭といった自動車業界の変化と、開発期間短縮への対応について語る。",
-        "category": "company",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news038.html"
-        },
-        "field": null
-      },
-      {
-        "title": "旭化成がポリマー光導波路　開発背景に「TSMCショック」",
-        "blurb": "旭化成は、TSMCショックを背景に、耐熱性と加工性を両立し低分子シロキサンガス排出を抑えるポリマー光導波路素材を開発。光電融合Worldで紹介。",
-        "category": "company",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news047.html"
-        },
-        "field": null
-      },
-      {
-        "title": "レゾナックが300mm SiC単結晶基板を開発",
-        "blurb": "レゾナックが直径300mmの炭化ケイ素（SiC）単結晶基板の成長と加工に成功。SiC基板の大型化競争が激化する中、次世代技術への貢献が期待される。",
-        "category": "company",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news052.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/eggtronic-renesas-target-140-w-usb-c-chargers-with-gan"
         },
         "field": {
           "primary": "power",
@@ -313,14 +219,100 @@
         }
       },
       {
-        "title": "MIPI Alliance Forms Kinematics Working Group",
-        "blurb": "MIPIアライアンスがキネマティクスワーキンググループを設立。レーダー・LiDARセンサーデータの標準化仕様を開発。",
-        "category": "company",
+        "title": "Tektronix Launches Dynamic Test System for 800-V AI Data Centers",
+        "blurb": "TektronixがAIデータセンター向け800V対応の動的テストシステムを発表。高ダイナミック、自動レンジ切替機能で電力アーキテクチャを検証。",
+        "category": "business",
         "date": "2026-09-16",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/mipi-alliance-forms-kinematics-working-group"
+          "url": "https://www.embedded.com/tektronix-launches-dynamic-test-system-for-800-v-ai-data-centers"
+        },
+        "field": null
+      },
+      {
+        "title": "CATL's New Electric Truck Battery Is Coming For Diesel's Biggest Advantage",
+        "blurb": "CATLが新型EVトラック用バッテリーを発表。航続距離620マイル、耐久性90万マイル超でディーゼル車に対抗。",
+        "category": "business",
+        "date": "2026-09-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808395/catl-new-megawatt-battery-commercial"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "Compressing An 11B VLM To 2.7-bit Weights For Mobile CPUs",
+        "blurb": "110億パラメータのVLMを2.7ビットに圧縮し、モバイルCPUでの実行を可能にする技術。精度維持とモデルサイズ削減を両立。",
+        "category": "tools",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/compressing-an-11b-vlm-to-2-7-bit-weights-for-mobile-cpus"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "One Processor, One Toolchain",
+        "blurb": "単一のソフトウェア制御コアが、行列、ベクトル、スカラーコードを一つの実行パイプラインで処理する。",
+        "category": "tools",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/one-processor-one-toolchain"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "コウモリ模擬のドローン、障害物を回避し自律飛行",
+        "blurb": "コウモリ型ドローンが超音波で障害物を回避し自律飛行するシステムを開発。研究グループが発表。",
+        "category": "tools",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news044.html"
+        },
+        "field": null
+      },
+      {
+        "title": "塗って乾かすだけ、異種材料を強固に接合する新技術",
+        "blurb": "NIMSが異種材料を塗布・乾燥で強固に接合する新技術を開発。7MPa超の強度を確認。",
+        "category": "tools",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news043.html"
+        },
+        "field": null
+      },
+      {
+        "title": "DAC implementations: The spread-bit PWM strikes back",
+        "blurb": "DAC実装におけるspread-bit PWMの理論的利点の実際への応用は困難。EDNの記事。",
+        "category": "tools",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/dac-implementations-the-spread-bit-pwm-strikes-back"
         },
         "field": {
           "primary": "analog",
@@ -329,6 +321,164 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "GM's New UI For Trucks Plays Nice With CarPlay",
+        "blurb": "GMはトラック向けインフォテインメントシステムを刷新。CarPlayとの連携を強化し、より洗練されたUIを実現。",
+        "category": "tools",
+        "date": "2026-09-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808414/carplay-gm-ui-update-2027"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "TDK Launches 12.5kW Three-Phase Power Supplies",
+        "blurb": "TDKは、高効率・並列運転可能な12.5kW三相電源「TPF12500」を発表。産業・データセンター向け。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/tdk-launches-12-5kw-three-phase-power-supplies"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Vishay Introduces High-Density Bidirectional TVS Protection",
+        "blurb": "Vishayが、車載・産業用途向けに高密度双方向TVS保護デバイスの新シリーズを発表。11kWのパルス耐力、低漏洩電流、ほぼ1:1のクランプ比が特徴。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/vishay-introduces-high-density-bidirectional-tvs-protection"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "高耐熱／高剛性でズレ抑制　光電融合向けセラミック基板",
+        "blurb": "日本特殊陶業は産総研と共同開発した光電融合向けセラミック基板を出展。高耐熱・高剛性で光学アライメントのズレを抑制する。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news075.html"
+        },
+        "field": null
+      },
+      {
+        "title": "推論領域への野心強めるNVIDIA　韓国新興と協議か",
+        "blurb": "NVIDIAが韓国の新興企業Rebellionsと協議。推論用NPU分野で提携、出資、買収も視野か。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Caliptra-enabled hardware security solution eyes AI SoCs",
+        "blurb": "AI SoC向けにCaliptraベースのハードウェアセキュリティソリューションが登場。ハードウェアとソフトウェアの統合フレームワークを提供。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/caliptra-enabled-hardware-security-solution-eyes-ai-socs"
+        },
+        "field": null
+      },
+      {
+        "title": "Lantronix Open-M 720G and 520G SoMs Target Edge AI Applications",
+        "blurb": "LantronixがAIエッジIoT向けSoM「Open-M 720G/520G」を発表。MediaTek製チップ搭載で最大10 TOPSのAI性能。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/lantronix-open-m-720g-and-520g-soms-target-edge-ai-applications"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "New York City Is Getting 700 EV Chargers Right On The Curb",
+        "blurb": "ニューヨーク市、今後3年で路上にEV充電器700基設置へ。ブルックリンのIt's Electric社が担当。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808264/new-york-ev-charging-its-electric-curbside"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "BMW Is Giving Its Navigation System A Tesla-Style Makeover",
+        "blurb": "BMWがナビゲーションシステムを刷新。iX3に初搭載され、ナビと運転支援情報を統合した3D表示が可能に。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808328/bmw-maps-driver-assistance-3d-view-update"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Lidl Is Now Using A Truck With No Cab To Ship Goods",
+        "blurb": "Lidlはドイツで、キャブのない自動運転トラックによる物流を開始。公道走行の許可を取得。",
+        "category": "company",
+        "date": "2026-09-15",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808296/lidl-einride-autonomous-truck-deliveries-germany"
+        },
+        "field": null
       },
       {
         "title": "MediaTek Unveils New Flagship Smartphone Chip",
@@ -349,68 +499,8 @@
         }
       },
       {
-        "title": "New Volkswagen ID.3 GTI: The First RWD GTI Is Here With More Power Than Ever",
-        "blurb": "フォルクスワーゲンが新型ID.3 GTIを発表。後輪駆動で、史上最もパワフルなGTIとなる。",
-        "category": "company",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808505/vw-id3-gti-official-range-specs"
-        },
-        "field": null
-      },
-      {
-        "title": "The 2027 Porsche Cayenne EV Can Open Its Doors For You At The Press Of A Button",
-        "blurb": "ポルシェ新型カイエンEVは、ボタン一つでドアが開閉。ロールスロイスのような機能を追加料金で提供。",
-        "category": "company",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808453/2027-porsche-cayenne-electric-doors-updates"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Tesla's New 'Accordion' Superchargers Promise Instant Commissioning",
-        "blurb": "テスラは、設置が20%安価な「アコーディオン」型スーパーチャージャーを発表。組み立て済みで即時設置可能。",
-        "category": "company",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808477/tesla-accordion-supercharger-prefabricated"
-        },
-        "field": null
-      },
-      {
-        "title": "Renault 5 Nearly Matched Its Official Range On A Mountain Road Trip",
-        "blurb": "ルノー5、山道走行で公式航続距離に近い性能を発揮。エネルギー消費量は期待できる結果となった。",
-        "category": "company",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808429/renault-5-mountain-drive-efficiency"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
         "title": "The 2027 Ford F-150 Unlocks Hands-Free Towing Through BlueCruise",
-        "blurb": "2027年型フォードF-150は、一部制限付きながら、トレーラー牽引時のハンズフリー運転を実現。",
+        "blurb": "2027年型フォードF-150は、一部制限付きながら、トレーラー牽引中のハンズフリー運転を可能にする。",
         "category": "company",
         "date": "2026-09-16",
         "stars": 3,
@@ -421,88 +511,46 @@
         "field": null
       },
       {
-        "title": "Micron Develops Ultra-Dense 512-GB DDR5 Memory Module",
-        "blurb": "マイクロンがAI・データ分析向けに業界初の512GB DDR5メモリを発表。高速化と省電力化を実現。",
+        "title": "Kia's New Electric Van Is Bigger And Better, With An 800V Architecture And Flexible Body Styles",
+        "blurb": "キアが新型EVバン「PV7」を発表。800Vアーキテクチャ採用で充電性能向上、多彩なボディスタイルに対応。",
         "category": "company",
-        "date": "2026-09-17",
+        "date": "2026-09-16",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/micron-develops-ultra-dense-512-gb-ddr5-memory-module"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808421/kia-pv7-800v-charging"
         },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": "idm"
-        }
+        "field": null
       },
       {
-        "title": "New Infineon PMIC Consolidates Power and Safety for EV Traction Inverters",
-        "blurb": "インフィニオンの新PMICは、EV駆動インバーター向けに、電源と安全機能を統合した単一チップ設計を実現しました。",
+        "title": "People Are Already Modding The Tiny Fiat Topolino. I Want One, Badly",
+        "blurb": "フィアットの小型EV「トポリーノ」が早くも改造され、ゴルフカート以上の可能性を秘めていると注目されている。",
         "category": "company",
-        "date": "2026-09-17",
+        "date": "2026-09-16",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/new-infineon-pmic-consolidates-power-and-safety-for-ev-traction-inverters"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808412/people-modding-fiat-topolinos"
+        },
+        "field": null
+      },
+      {
+        "title": "2027 Mercedes GLC 400 Electric Review: The Best Mercedes EV Ever, And It’s Not Close",
+        "blurb": "メルセデス GLC 400 Electric、史上最高のメルセデスEVとの評価。洗練された走りだが高価。",
+        "category": "company",
+        "date": "2026-09-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/808381/mercedes-glc"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "automotive",
+          "device": null,
           "process": null,
           "market": "automotive",
           "industry": null
         }
-      },
-      {
-        "title": "This Hilarious 1961 Electric Shopper Can Get You To The Grocery Store And Back. But That's About It",
-        "blurb": "1961年の電動ショッピングカーが販売中。当時のフィアット・トッポリーノのようなデザインで、近距離の買い物に最適。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808576/electric-shopper-for-sale"
-        },
-        "field": null
-      },
-      {
-        "title": "The Mercedes CLA Is One Of America's Quickest Charging EVs: Test",
-        "blurb": "メルセデスCLAは、充電速度だけでなく航続距離と効率性も優れており、長距離旅行に適したEVである。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808559/mercedes-cla-among-best-chargers"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla Says The Cybercab Is Street Legal. Regulators Want To Know How.",
-        "blurb": "テスラがサイバーキャブの公道走行可能を主張、当局は安全基準適合方法の説明を要求。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808554/tesla-cybercab-nhtsa-legal-fmvss"
-        },
-        "field": null
-      },
-      {
-        "title": "The Porsche Cayenne Electric Can Now Charge Wirelessly",
-        "blurb": "ポルシェ・カイエンEV、ワイヤレス充電パッドが一部市場で販売開始。車載技術は以前から搭載。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808552/porsche-cayenne-electric-wireless-charging-pad"
-        },
-        "field": null
       }
     ],
     "sns": []

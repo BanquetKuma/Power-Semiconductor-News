@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-09-17T08:32:21.501948+09:00",
+  "generated_at": "2026-09-18T08:22:02.478786+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "MIPI Alliance Forms Kinematics Working Group",
-    "summary": "MIPIアライアンスがキネマティクスワーキンググループを設立。レーダー・LiDARセンサーデータの標準化仕様を開発。",
+    "title": "先端半導体市場に貢献、フルヤ金属の新工場が完成",
+    "summary": "フルヤ金属の新千歳工場が完成。半導体製造装置向け部品の生産能力が2倍に増え、先端半導体市場に貢献する見込み。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/mipi-alliance-forms-kinematics-working-group"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news033.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "MIPI Alliance Forms Kinematics Working Group",
-        "blurb": "MIPIアライアンスがキネマティクスワーキンググループを設立。レーダー・LiDARセンサーデータの標準化仕様を開発。",
+        "title": "先端半導体市場に貢献、フルヤ金属の新工場が完成",
+        "blurb": "フルヤ金属の新千歳工場が完成。半導体製造装置向け部品の生産能力が2倍に増え、先端半導体市場に貢献する見込み。",
         "category": "company",
-        "date": "2026-09-16",
+        "date": "2026-09-17",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mipi-alliance-forms-kinematics-working-group"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news033.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": "equipment",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Sensor sharpens infrared in-cabin imaging",
+        "blurb": "STマイクロエレクトロニクスが車内監視用赤外線イメージセンサーを発表。ドライバーや乗員のモニタリングに活用。",
+        "category": "company",
+        "date": "2026-09-17",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/sensor-sharpens-infrared-in-cabin-imaging"
         },
         "field": {
           "primary": "analog",
@@ -35,20 +53,20 @@
         }
       },
       {
-        "title": "New Infineon PMIC Consolidates Power and Safety for EV Traction Inverters",
-        "blurb": "インフィニオンの新PMICは、EV駆動インバーター向けに、電源と安全機能を統合した単一チップ設計を実現しました。",
+        "title": "SPAD sensor processes photon events on-chip",
+        "blurb": "Singular Photonics社のSPADイメージセンサー「Litavis」は、オンチップでデジタル光子処理を統合。ピクセル内で光子イベントを処理する。",
         "category": "company",
         "date": "2026-09-17",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/new-infineon-pmic-consolidates-power-and-safety-for-ev-traction-inverters"
+          "name": "edn.com",
+          "url": "https://www.edn.com/spad-sensor-processes-photon-events-on-chip"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
       }

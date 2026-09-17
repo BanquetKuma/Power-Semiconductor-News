@@ -1,76 +1,38 @@
 {
-  "generated_at": "2026-09-17T08:32:21.501339+09:00",
+  "generated_at": "2026-09-18T08:22:02.478460+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Why SoC Interconnects Have Outgrown the Bus",
-    "summary": "SoCのインターコネクトはバスを超え、NoCアーキテクチャとコヒーレントサブシステムIPが次世代のスケーラビリティ、安全性、性能課題に対応。",
+    "title": "シャープが国内向けにAIサーバ展開 NVIDIA製GPU搭載",
+    "summary": "シャープがNVIDIA製GPU搭載のAIサーバを国内展開。企業や研究機関向けに販売開始。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news091.html"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "MediaTek Unveils New Flagship Smartphone Chip",
-        "blurb": "MediaTekが新フラッグシップスマホチップ「Dimensity 9600 Pro」を発表。マルチコア消費電力を61%削減。",
-        "category": "company",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mediatek-unveils-new-flagship-smartphone-chip"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "FPGA architecture: Radiation particle types and single event upsets (SEUs)",
-        "blurb": "FPGAにおける単一イベントアップセット（SEU）は、アルファ粒子などによる信頼性問題。その原因となる放射線粒子について解説。",
-        "category": "tools",
-        "date": "2026-09-16",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fpga-architecture-radiation-particle-types-and-single-event-upsets-seus"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
+    "tech": [],
     "market": [
       {
-        "title": "Why SoC Interconnects Have Outgrown the Bus",
-        "blurb": "SoCのインターコネクトはバスを超え、NoCアーキテクチャとコヒーレントサブシステムIPが次世代のスケーラビリティ、安全性、性能課題に対応。",
+        "title": "シャープが国内向けにAIサーバ展開 NVIDIA製GPU搭載",
+        "blurb": "シャープがNVIDIA製GPU搭載のAIサーバを国内展開。企業や研究機関向けに販売開始。",
         "category": "business",
-        "date": "2026-09-16",
+        "date": "2026-09-17",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news091.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
