@@ -1,69 +1,48 @@
 {
-  "generated_at": "2026-09-18T08:22:02.477819+09:00",
+  "generated_at": "2026-09-19T08:00:43.036508+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Corner: Scaling Vertical GaN FinFETs on an Engineered Substrate",
-    "summary": "Vertical Semiconductor、AIデータセンター向け垂直GaN FinFETの量産化を発表。エンジニアリング基板上で実現。",
+    "title": "ST Introduces Compact 600V SLLIMM IPM for Motor Drives",
+    "summary": "STマイクロエレクトロニクスが、モーター駆動向けに小型600V SLLIMM IPMを発表。IGBT、ドライバ、保護機能を統合。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-corner-scaling-vertical-gan-finfets-on-an-engineered-substrate"
+        "url": "https://www.powerelectronicsnews.com/st-introduces-compact-600v-sllimm-ipm-for-motor-drives"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Power Corner: Scaling Vertical GaN FinFETs on an Engineered Substrate",
-        "blurb": "Vertical Semiconductor、AIデータセンター向け垂直GaN FinFETの量産化を発表。エンジニアリング基板上で実現。",
+        "title": "ST Introduces Compact 600V SLLIMM IPM for Motor Drives",
+        "blurb": "STマイクロエレクトロニクスが、モーター駆動向けに小型600V SLLIMM IPMを発表。IGBT、ドライバ、保護機能を統合。",
         "category": "company",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-scaling-vertical-gan-finfets-on-an-engineered-substrate"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "miniaturization",
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "ロームのSiCパワー半導体、BMWがEVに採用",
-        "blurb": "ロームのSiCパワー半導体が、BMWの次世代EV「Neue Klasse」に採用。電動パワートレインに搭載され、EV普及に貢献。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news100.html"
+          "url": "https://www.powerelectronicsnews.com/st-introduces-compact-600v-sllimm-ipm-for-motor-drives"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
-      }
-    ],
-    "tech": [],
-    "market": [
+      },
       {
-        "title": "Predictive TCAD Modeling of Normally-Off p-GaN HEMTs for Dynamic RDS(on), Leakage, Breakdown, and ML-Based Design Exploration",
-        "blurb": "p-GaN HEMTの予測TCADモデリング。リーク、オン抵抗、破壊特性を解析し、MLで設計を効率化。",
-        "category": "business",
-        "date": "2026-09-17",
+        "title": "Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights",
+        "blurb": "ドローン向けSWaP最適化コンピューティング、MIPI Allianceの新ワーキンググループ、GaN技術のUSB-C充電器など、最新技術動向をまとめた記事。",
+        "category": "company",
+        "date": "2026-09-19",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/predictive-tcad-modeling-of-normally-off-p-gan-hemts-for-dynamic-rdson-leakage-breakdown-and-ml-based-design-exploration"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/designing-swap-optimized-compute-for-uavs-mipi-alliance-kinematics-working-group-esd-ebook-embedded-week-insights"
         },
         "field": {
           "primary": "power",
@@ -73,6 +52,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

@@ -1,100 +1,40 @@
 {
-  "generated_at": "2026-09-18T08:22:02.476144+09:00",
+  "generated_at": "2026-09-19T08:00:43.035574+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Integrations Launches CAPZero-4 X-Capacitor Discharge IC",
-    "summary": "Power Integrationsが新IC「CAPZero-4」を発表。Xキャパシタ放電ICで、低消費電力と広範囲の容量に対応。",
+    "title": "Electrification and AI Data Centers, Power Conversion in the Hydrogen Economy, PCS Architectures for Utility-Scale BESSes: Power Electronics Week Insights",
+    "summary": "電力電子技術の最新動向：AIデータセンター、水素経済、大規模蓄電池のPCSアーキテクチャに関する知見。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-integrations-launches-capzero-4-x-capacitor-discharge-ic"
+        "url": "https://www.powerelectronicsnews.com/electrification-and-ai-data-centers-power-conversion-in-the-hydrogen-economy-pcs-architectures-for-utility-scale-besses-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Negative Expansion Materials Resist Warpage",
-        "blurb": "熱安定性を向上させるモールド材とアンダーフィルが反りを抑制。半導体分野での応用が期待。",
+        "title": "The Grid Evolves to Become an Ecosystem as AI Data Centers, Electrification Expand",
+        "blurb": "AIデータセンターと電化により、従来の電力網は分散型のエコシステムへと進化しています。",
         "category": "business",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/negative-expansion-materials-resist-warpage"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/grid-evolves-to-become-an-ecosystem-as-ai-data-centers-electrification-expands"
         },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "Beyond Scaling: The Growing Role Of Materials Innovation In Semiconductor Manufacturing",
-        "blurb": "半導体製造において、材料革新がスケーリングを超えて重要性を増している。研究室から工場への材料移行に計算能力と共同開発が変化をもたらす。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の週刊レビュー：メモリ大型契約、AIインフラ、米国の生産能力、次世代プロセス、ファーウェイの攻勢、データセンター向けRoT、中国勢の台頭、インドの建設計画など。",
         "category": "business",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beyond-scaling-the-growing-role-of-materials-innovation-in-semiconductor-manufacturing"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI’s Storage Problem Is a Packaging Problem",
-        "blurb": "AIのストレージ問題は、薄型化、積層化、ハイブリッドボンディングによるNANDの進化で解決へ向かう。",
-        "category": "business",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ais-storage-problem-is-a-packaging-problem"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Driving Power Delivery Innovations For The AI Data Center",
-        "blurb": "AIデータセンターの性能向上のため、電力供給技術の革新が不可欠になっています。",
-        "category": "business",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/driving-power-delivery-innovations-for-the-ai-data-center"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Virtual Fabrication Meets Stress Physics: Solving GAA Channel Non-Uniformity",
-        "blurb": "GAAチャネルのナノシート間のわずかな不均衡がデバイス挙動を歪ませる。仮想製造と応力物理学で解決。",
-        "category": "business",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/virtual-fabrication-meets-stress-physics-solving-gaa-channel-non-uniformity"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-156"
         },
         "field": {
           "primary": "miniaturization",
@@ -105,294 +45,96 @@
         }
       },
       {
-        "title": "From Silicon To Systems: Heterogeneous Integration As The Engine Of AI Performance",
-        "blurb": "AI性能向上の鍵はヘテロジニアス統合。高度なパッケージングとチップレットシステムで設計空間探索が重要になる。",
+        "title": "Microchip’s SY75714 Bridges 1.2V Cores and Legacy Clock Rails",
+        "blurb": "マイクロチップ、FinFETプロセッサ向けに低ジッタのクロックバッファSY75714を発表。レガシー電圧を1.2Vコアに対応。",
         "category": "business",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/from-silicon-to-systems-heterogeneous-integration-as-the-engine-of-ai-performance"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/microchips-sy75714-bridges-1-2v-cores-and-legacy-clock-rails"
         },
         "field": {
-          "primary": "backend",
+          "primary": "miniaturization",
           "device": null,
-          "process": "backend",
+          "process": "miniaturization",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Predicting Silicon Behavior Years Before Test Wafers",
-        "blurb": "高NA EUV向けウェハー検証用光学シミュレーションで、数年先のシリコン挙動を予測。",
+        "title": "Electrification and AI Data Centers, Power Conversion in the Hydrogen Economy, PCS Architectures for Utility-Scale BESSes: Power Electronics Week Insights",
+        "blurb": "電力電子技術の最新動向：AIデータセンター、水素経済、大規模蓄電池のPCSアーキテクチャに関する知見。",
         "category": "business",
-        "date": "2026-09-17",
+        "date": "2026-09-19",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/predicting-silicon-behavior-years-before-test-wafers"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/electrification-and-ai-data-centers-power-conversion-in-the-hydrogen-economy-pcs-architectures-for-utility-scale-besses-power-electronics-week-insights"
         },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "Predictive TCAD Modeling of Normally-Off p-GaN HEMTs for Dynamic RDS(on), Leakage, Breakdown, and ML-Based Design Exploration",
-        "blurb": "p-GaN HEMTの予測TCADモデリング。リーク、オン抵抗、破壊特性を解析し、MLで設計を効率化。",
+        "title": "TeraSignal Launches Analog Wave Processor for AI Networks",
+        "blurb": "TeraSignalがAIネットワーク向けアナログ波形プロセッサを発表。次世代AIインフラの高速・低遅延接続を実現。",
         "category": "business",
-        "date": "2026-09-17",
+        "date": "2026-09-19",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/predictive-tcad-modeling-of-normally-off-p-gan-hemts-for-dynamic-rdson-leakage-breakdown-and-ml-based-design-exploration"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "シャープが国内向けにAIサーバ展開 NVIDIA製GPU搭載",
-        "blurb": "シャープがNVIDIA製GPU搭載のAIサーバを国内展開。企業や研究機関向けに販売開始。",
-        "category": "business",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news091.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/terasignal-launches-analog-wave-processor-for-ai-networks"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "「水と活性炭」で半導体／データセンターに攻勢、クラレ",
-        "blurb": "クラレは半導体・データセンター向けに水と活性炭を活用した製品で攻勢をかける。2026年9月に注力事業と製品を発表した。",
-        "category": "business",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news086.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "AI時代の半導体製造、ウェット装置への要求は　Lam幹部に聞く",
-        "blurb": "AI時代、半導体製造におけるウェット装置の役割についてLam Researchの幹部に聞いた。",
-        "category": "business",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news017.html"
-        },
-        "field": {
-          "primary": "equipment",
-          "device": null,
-          "process": "equipment",
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "「Spansion」復活へ、WinbondがInfineonのNORフラッシュ事業買収",
-        "blurb": "WinbondがInfineonのNORフラッシュ事業を買収し、「Spansion」として再出発。独立事業体で運営。",
-        "category": "business",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news050.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Highly integrated approach to power system design in the AI era",
-        "blurb": "AI時代に向け、シリコンウェーハをパッケージとして活用する新アーキテクチャで、電力システムの高密度化と性能向上が実現。",
-        "category": "business",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/high-integrated-approach-to-power-system-design-in-the-ai-era"
-        },
-        "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Transient voltage suppression devices reach 11 kW with flat clamping",
-        "blurb": "Vishayは、ピーク電力11kWのフラットクランプTVSデバイス「XFD11KxxCA」を発表しました。",
-        "category": "business",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/transient-voltage-suppression-devices-reach-11-kw-with-flat-clamping"
-        },
-        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Why Package Digital Twins Are So Hard To Build",
-        "blurb": "パッケージ化されたデジタルツインの構築は、製造実態との同期が難しく困難である。",
+        "title": "Some tips for electrical engineers",
+        "blurb": "電気エンジニア向けのヒント集。コメントでの提案を歓迎。機械エンジニアの参加も検討。",
         "category": "tools",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build"
+          "name": "edn.com",
+          "url": "https://www.edn.com/some-tips-for-electrical-engineers"
+        },
+        "field": null
+      },
+      {
+        "title": "FPGA architecture: SEU detection and recovery strategies",
+        "blurb": "FPGAにおけるSEU（単一イベントアップセット）の検出・復旧戦略について、地上・ terrestreアプリケーションでの実装方法を解説。",
+        "category": "tools",
+        "date": "2026-09-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/fpga-architecture-seu-detection-and-recovery-strategies"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "量子コンピュータと量子暗号（前編）",
-        "blurb": "実装技術ロードマップの「量子コンピュータと量子暗号」の概要を報告するシリーズの前編。",
-        "category": "tools",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news042.html"
-        },
-        "field": null
-      },
-      {
-        "title": "SFP: Add-in module delivers diminutive performance, flexibility",
-        "blurb": "SFPモジュールは、イーサネット、光ファイバー接続、帯域幅向上、長距離化など、多様なネットワークニーズに対応する小型高性能モジュールです。",
-        "category": "tools",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sfp-add-in-module-delivers-diminutive-performance-flexibility"
-        },
-        "field": null
       }
     ],
     "company": [
       {
-        "title": "Power Integrations Launches CAPZero-4 X-Capacitor Discharge IC",
-        "blurb": "Power Integrationsが新IC「CAPZero-4」を発表。Xキャパシタ放電ICで、低消費電力と広範囲の容量に対応。",
+        "title": "Onsemi’s Embedded Power Platform (EPP)",
+        "blurb": "オンセミがワイヤボンディング代替の埋め込み電源プラットフォーム(EPP)を発表。シリコンウェーハ上に異種ダイを統合。",
         "category": "company",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-integrations-launches-capzero-4-x-capacitor-discharge-ic"
-        },
-        "field": null
-      },
-      {
-        "title": "Vishay Introduces 12 A Standard Rectifiers in DFN Package",
-        "blurb": "VishayがDFNパッケージの12A標準整流器を発表。熱性能とサージ耐性を向上し、自動光学検査に対応。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vishay-introduces-12-a-standard-rectifiers-in-dfn-package"
-        },
-        "field": null
-      },
-      {
-        "title": "Power Corner: Scaling Vertical GaN FinFETs on an Engineered Substrate",
-        "blurb": "Vertical Semiconductor、AIデータセンター向け垂直GaN FinFETの量産化を発表。エンジニアリング基板上で実現。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-scaling-vertical-gan-finfets-on-an-engineered-substrate"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": "miniaturization",
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Silicon Heartland Wants To Be America’s Next Chip Powerhouse",
-        "blurb": "米中西部が次世代半導体産業の拠点を目指す。インテルに加え、材料供給、パッケージング、量子技術の新興企業がエコシステム構築の鍵となる。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-silicon-heartland-wants-to-be-americas-next-chip-powerhouse"
-        },
-        "field": {
-          "primary": "idm",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
-      },
-      {
-        "title": "ロームのSiCパワー半導体、BMWがEVに採用",
-        "blurb": "ロームのSiCパワー半導体が、BMWの次世代EV「Neue Klasse」に採用。電動パワートレインに搭載され、EV普及に貢献。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news100.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "プラズマ処理なしで300mmウエハーを直接接合、横浜国立大ら",
-        "blurb": "横浜国立大とKOKUSAI ELECTRICは、ALDで形成した酸化アルミニウム薄膜に自己活性化特性を発見。プラズマ処理なしで300mmウエハーを直接接合可能にし、3次元半導体実現への道を開く。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news036.html"
+          "url": "https://www.powerelectronicsnews.com/onsemis-embedded-power-platform-epp"
         },
         "field": {
           "primary": "general",
@@ -403,54 +145,144 @@
         }
       },
       {
-        "title": "先端半導体市場に貢献、フルヤ金属の新工場が完成",
-        "blurb": "フルヤ金属の新千歳工場が完成。半導体製造装置向け部品の生産能力が2倍に増え、先端半導体市場に貢献する見込み。",
+        "title": "Taiwan Semi Expands TQM Series with 60V Dual MOSFETs",
+        "blurb": "台湾積体電路製造（TSMC）が、車載用電源設計向けに低RDS(ON)・高ドレイン電流の60VデュアルMOSFETを発表。",
         "category": "company",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news033.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/taiwan-semi-expands-tqm-series-with-60v-dual-mosfets"
         },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "Sensor sharpens infrared in-cabin imaging",
-        "blurb": "STマイクロエレクトロニクスが車内監視用赤外線イメージセンサーを発表。ドライバーや乗員のモニタリングに活用。",
+        "title": "ST Introduces Compact 600V SLLIMM IPM for Motor Drives",
+        "blurb": "STマイクロエレクトロニクスが、モーター駆動向けに小型600V SLLIMM IPMを発表。IGBT、ドライバ、保護機能を統合。",
         "category": "company",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sensor-sharpens-infrared-in-cabin-imaging"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-introduces-compact-600v-sllimm-ipm-for-motor-drives"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "SPAD sensor processes photon events on-chip",
-        "blurb": "Singular Photonics社のSPADイメージセンサー「Litavis」は、オンチップでデジタル光子処理を統合。ピクセル内で光子イベントを処理する。",
+        "title": "量子チップを商用300mmラインで製造、基本3動作実証",
+        "blurb": "仏Quobly、商用300mmラインで製造したシリコンチップ上で量子ビットの基本3動作を実証。STMicroelectronicsの製造施設を利用。",
         "category": "company",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/spad-sensor-processes-photon-events-on-chip"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news057.html"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "超伝導SCSCケーブルと巻き線技術を開発、京都大",
+        "blurb": "京都大学が、超伝導モーターや核融合発電への応用が期待されるSCSCケーブルと巻き線技術を開発しました。",
+        "category": "company",
+        "date": "2026-09-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news038.html"
+        },
+        "field": null
+      },
+      {
+        "title": "半導体誘致で対照的な日韓、共通する「官」「民」のズレ",
+        "blurb": "韓国で半導体工場誘致フォーラムが開かれたが、企業は不参加。日韓共に官民の意思疎通に課題があり、企業の実態を踏まえた戦略が求められる。",
+        "category": "company",
+        "date": "2026-09-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news051.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "半導体設計を2週間で　20歳CEOの米新興がAIで挑む",
+        "blurb": "米Architect LabsはAIで半導体設計・検証を高速化。20歳CEOが2週間で試作チップ開発を示し、期間短縮を目指す。",
+        "category": "company",
+        "date": "2026-09-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news048.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "三菱電機が量子技術の産業応用加速へ　OptQCに出資",
+        "blurb": "三菱電機は、光方式量子コンピュータ開発のOptQCに出資し、量子技術の産業応用を加速する。",
+        "category": "company",
+        "date": "2026-09-18",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news037.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Dragonwing Q-2390 and IQ-2390 Bring AI and Real-Time Processing to IoT",
+        "blurb": "Dragonwingの新CPUはAIとリアルタイム処理をIoT機器に提供。スマートホームや産業用自動化システム向け。",
+        "category": "company",
+        "date": "2026-09-18",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/dragonwing-q-2390-and-iq-2390-bring-ai-and-real-time-processing-to-iot"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights",
+        "blurb": "ドローン向けSWaP最適化コンピューティング、MIPI Allianceの新ワーキンググループ、GaN技術のUSB-C充電器など、最新技術動向をまとめた記事。",
+        "category": "company",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/designing-swap-optimized-compute-for-uavs-mipi-alliance-kinematics-working-group-esd-ebook-embedded-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null

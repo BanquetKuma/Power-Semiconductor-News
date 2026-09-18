@@ -1,38 +1,76 @@
 {
-  "generated_at": "2026-09-18T08:22:02.478460+09:00",
+  "generated_at": "2026-09-19T08:00:43.036729+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "シャープが国内向けにAIサーバ展開 NVIDIA製GPU搭載",
-    "summary": "シャープがNVIDIA製GPU搭載のAIサーバを国内展開。企業や研究機関向けに販売開始。",
+    "title": "量子チップを商用300mmラインで製造、基本3動作実証",
+    "summary": "仏Quobly、商用300mmラインで製造したシリコンチップ上で量子ビットの基本3動作を実証。STMicroelectronicsの製造施設を利用。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news091.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news057.html"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "シャープが国内向けにAIサーバ展開 NVIDIA製GPU搭載",
-        "blurb": "シャープがNVIDIA製GPU搭載のAIサーバを国内展開。企業や研究機関向けに販売開始。",
-        "category": "business",
-        "date": "2026-09-17",
+        "title": "量子チップを商用300mmラインで製造、基本3動作実証",
+        "blurb": "仏Quobly、商用300mmラインで製造したシリコンチップ上で量子ビットの基本3動作を実証。STMicroelectronicsの製造施設を利用。",
+        "category": "company",
+        "date": "2026-09-18",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news091.html"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news057.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "FPGA architecture: SEU detection and recovery strategies",
+        "blurb": "FPGAにおけるSEU（単一イベントアップセット）の検出・復旧戦略について、地上・ terrestreアプリケーションでの実装方法を解説。",
+        "category": "tools",
+        "date": "2026-09-18",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/fpga-architecture-seu-detection-and-recovery-strategies"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "TeraSignal Launches Analog Wave Processor for AI Networks",
+        "blurb": "TeraSignalがAIネットワーク向けアナログ波形プロセッサを発表。次世代AIインフラの高速・低遅延接続を実現。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/terasignal-launches-analog-wave-processor-for-ai-networks"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
