@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-19T08:00:43.037334+09:00",
+  "generated_at": "2026-09-20T07:39:25.116693+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Onsemi’s Embedded Power Platform (EPP)",
-    "summary": "オンセミがワイヤボンディング代替の埋め込み電源プラットフォーム(EPP)を発表。シリコンウェーハ上に異種ダイを統合。",
+    "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+    "summary": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造依存性を考慮したフレームワークを開発。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/onsemis-embedded-power-platform-epp"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Onsemi’s Embedded Power Platform (EPP)",
-        "blurb": "オンセミがワイヤボンディング代替の埋め込み電源プラットフォーム(EPP)を発表。シリコンウェーハ上に異種ダイを統合。",
+        "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+        "blurb": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造依存性を考慮したフレームワークを開発。",
         "category": "company",
-        "date": "2026-09-18",
+        "date": "2026-09-20",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/onsemis-embedded-power-platform-epp"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university"
         },
         "field": {
           "primary": "general",
@@ -35,32 +35,14 @@
         }
       },
       {
-        "title": "半導体誘致で対照的な日韓、共通する「官」「民」のズレ",
-        "blurb": "韓国で半導体工場誘致フォーラムが開かれたが、企業は不参加。日韓共に官民の意思疎通に課題があり、企業の実態を踏まえた戦略が求められる。",
+        "title": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edinburgh)",
+        "blurb": "エディンバラ大学の研究者が、AIによる半導体設計の役割変化（生成からオーケストレーションへ）に関する論文を発表。設計プロセスへのAI活用が進化。",
         "category": "company",
-        "date": "2026-09-18",
+        "date": "2026-09-20",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news051.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "半導体設計を2週間で　20歳CEOの米新興がAIで挑む",
-        "blurb": "米Architect LabsはAIで半導体設計・検証を高速化。20歳CEOが2週間で試作チップ開発を示し、期間短縮を目指す。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news048.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh"
         },
         "field": {
           "primary": "general",
@@ -71,7 +53,44 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
+        "blurb": "Purdue大の研究者は、大規模言語モデルを活用したDRC-Aidを発表。設計規則の自動修正とレイアウト等価性の維持を実現。",
+        "category": "tools",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts  (NYU)",
+        "blurb": "NYUの研究者は、強化学習を用いて半導体設計における配線違反を削減する手法を発表しました。",
+        "category": "tools",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

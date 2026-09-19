@@ -1,42 +1,24 @@
 {
-  "generated_at": "2026-09-19T08:00:43.036508+09:00",
+  "generated_at": "2026-09-20T07:39:25.114867+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Introduces Compact 600V SLLIMM IPM for Motor Drives",
-    "summary": "STマイクロエレクトロニクスが、モーター駆動向けに小型600V SLLIMM IPMを発表。IGBT、ドライバ、保護機能を統合。",
+    "title": "SiCの開発と実装が進む 300mm化から次世代EV採用まで",
+    "summary": "SiCの開発と実装が加速。300mm化や次世代EVへの採用が進み、エレクトロニクス業界の動向に注目が集まる。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/st-introduces-compact-600v-sllimm-ipm-for-motor-drives"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/19/news013.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "ST Introduces Compact 600V SLLIMM IPM for Motor Drives",
-        "blurb": "STマイクロエレクトロニクスが、モーター駆動向けに小型600V SLLIMM IPMを発表。IGBT、ドライバ、保護機能を統合。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-introduces-compact-600v-sllimm-ipm-for-motor-drives"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights",
-        "blurb": "ドローン向けSWaP最適化コンピューティング、MIPI Allianceの新ワーキンググループ、GaN技術のUSB-C充電器など、最新技術動向をまとめた記事。",
+        "blurb": "ドローン向けSWaP最適化コンピューティング、MIPIの新ワーキンググループ、GaN充電器など、組み込み技術の最新動向を紹介。",
         "category": "company",
         "date": "2026-09-19",
         "stars": 3,
@@ -54,6 +36,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "SiCの開発と実装が進む 300mm化から次世代EV採用まで",
+        "blurb": "SiCの開発と実装が加速。300mm化や次世代EVへの採用が進み、エレクトロニクス業界の動向に注目が集まる。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/19/news013.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-19T08:00:43.035574+09:00",
+  "generated_at": "2026-09-20T07:39:25.113669+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Electrification and AI Data Centers, Power Conversion in the Hydrogen Economy, PCS Architectures for Utility-Scale BESSes: Power Electronics Week Insights",
-    "summary": "電力電子技術の最新動向：AIデータセンター、水素経済、大規模蓄電池のPCSアーキテクチャに関する知見。",
+    "summary": "電力電子技術の最新動向：AIデータセンター、水素経済、大規模蓄電池システムのPCSアーキテクチャに関する知見。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -15,56 +15,8 @@
   "sections": {
     "business": [
       {
-        "title": "The Grid Evolves to Become an Ecosystem as AI Data Centers, Electrification Expand",
-        "blurb": "AIデータセンターと電化により、従来の電力網は分散型のエコシステムへと進化しています。",
-        "category": "business",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/grid-evolves-to-become-an-ecosystem-as-ai-data-centers-electrification-expands"
-        },
-        "field": null
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "半導体業界の週刊レビュー：メモリ大型契約、AIインフラ、米国の生産能力、次世代プロセス、ファーウェイの攻勢、データセンター向けRoT、中国勢の台頭、インドの建設計画など。",
-        "category": "business",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-156"
-        },
-        "field": {
-          "primary": "miniaturization",
-          "device": null,
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Microchip’s SY75714 Bridges 1.2V Cores and Legacy Clock Rails",
-        "blurb": "マイクロチップ、FinFETプロセッサ向けに低ジッタのクロックバッファSY75714を発表。レガシー電圧を1.2Vコアに対応。",
-        "category": "business",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/microchips-sy75714-bridges-1-2v-cores-and-legacy-clock-rails"
-        },
-        "field": {
-          "primary": "miniaturization",
-          "device": null,
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "Electrification and AI Data Centers, Power Conversion in the Hydrogen Economy, PCS Architectures for Utility-Scale BESSes: Power Electronics Week Insights",
-        "blurb": "電力電子技術の最新動向：AIデータセンター、水素経済、大規模蓄電池のPCSアーキテクチャに関する知見。",
+        "blurb": "電力電子技術の最新動向：AIデータセンター、水素経済、大規模蓄電池システムのPCSアーキテクチャに関する知見。",
         "category": "business",
         "date": "2026-09-19",
         "stars": 3,
@@ -73,6 +25,24 @@
           "url": "https://www.powerelectronicsnews.com/electrification-and-ai-data-centers-power-conversion-in-the-hydrogen-economy-pcs-architectures-for-utility-scale-besses-power-electronics-week-insights"
         },
         "field": null
+      },
+      {
+        "title": "SiCの開発と実装が進む 300mm化から次世代EV採用まで",
+        "blurb": "SiCの開発と実装が加速。300mm化や次世代EVへの採用が進み、エレクトロニクス業界の動向に注目が集まる。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/19/news013.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
         "title": "TeraSignal Launches Analog Wave Processor for AI Networks",
@@ -91,188 +61,116 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "‘The Trend Is Clear’: How EVs Are Closing In On Gas Car Prices",
+        "blurb": "EVの新車価格はガソリン車より9.4%高。インセンティブの役割は縮小傾向で、価格差は急速に縮まっている。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808818/ev-gas-car-price-parity"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "What If We're Thinking About EV Charging All Wrong?",
+        "blurb": "EV充電のあり方を見直す。テスラ・ロードスター、メルセデスGLC、フォード・ファザムについても議論。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/808817/ev-charging-podcast-tesla-roadster"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "tools": [
       {
-        "title": "Some tips for electrical engineers",
-        "blurb": "電気エンジニア向けのヒント集。コメントでの提案を歓迎。機械エンジニアの参加も検討。",
+        "title": "Is This An E-Bike Or A Moped? It Depends On Who You Ask",
+        "blurb": "電動アシスト自転車と電動バイクの境界線は曖昧。従来の電動アシスト自転車のデザインが推奨される。",
         "category": "tools",
-        "date": "2026-09-18",
+        "date": "2026-09-19",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/some-tips-for-electrical-engineers"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/808693/ebike-vs-emoto-aotos-flux-x26-pro-review"
         },
         "field": null
       },
       {
-        "title": "FPGA architecture: SEU detection and recovery strategies",
-        "blurb": "FPGAにおけるSEU（単一イベントアップセット）の検出・復旧戦略について、地上・ terrestreアプリケーションでの実装方法を解説。",
+        "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
+        "blurb": "Purdue大の研究者は、大規模言語モデルを活用したDRC-Aidを発表。設計規則の自動修正とレイアウト等価性の維持を実現。",
         "category": "tools",
-        "date": "2026-09-18",
+        "date": "2026-09-20",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fpga-architecture-seu-detection-and-recovery-strategies"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts  (NYU)",
+        "blurb": "NYUの研究者は、強化学習を用いて半導体設計における配線違反を削減する手法を発表しました。",
+        "category": "tools",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Open Benchmark Evaluates AI Thermal Models for 2.5D and 3D ICs (UTS, TU Munich, ShanghaiTech)",
+        "blurb": "AIによる2.5D/3D ICの熱モデル評価ベンチマーク「IC-ThermBench」が公開。複数の大学が共同開発し、汎用性の高い評価を目指す。",
+        "category": "tools",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": "backend",
+          "market": "industrial",
           "industry": null
         }
       }
     ],
     "company": [
       {
-        "title": "Onsemi’s Embedded Power Platform (EPP)",
-        "blurb": "オンセミがワイヤボンディング代替の埋め込み電源プラットフォーム(EPP)を発表。シリコンウェーハ上に異種ダイを統合。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/onsemis-embedded-power-platform-epp"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Taiwan Semi Expands TQM Series with 60V Dual MOSFETs",
-        "blurb": "台湾積体電路製造（TSMC）が、車載用電源設計向けに低RDS(ON)・高ドレイン電流の60VデュアルMOSFETを発表。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/taiwan-semi-expands-tqm-series-with-60v-dual-mosfets"
-        },
-        "field": null
-      },
-      {
-        "title": "ST Introduces Compact 600V SLLIMM IPM for Motor Drives",
-        "blurb": "STマイクロエレクトロニクスが、モーター駆動向けに小型600V SLLIMM IPMを発表。IGBT、ドライバ、保護機能を統合。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/st-introduces-compact-600v-sllimm-ipm-for-motor-drives"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "量子チップを商用300mmラインで製造、基本3動作実証",
-        "blurb": "仏Quobly、商用300mmラインで製造したシリコンチップ上で量子ビットの基本3動作を実証。STMicroelectronicsの製造施設を利用。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news057.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "超伝導SCSCケーブルと巻き線技術を開発、京都大",
-        "blurb": "京都大学が、超伝導モーターや核融合発電への応用が期待されるSCSCケーブルと巻き線技術を開発しました。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news038.html"
-        },
-        "field": null
-      },
-      {
-        "title": "半導体誘致で対照的な日韓、共通する「官」「民」のズレ",
-        "blurb": "韓国で半導体工場誘致フォーラムが開かれたが、企業は不参加。日韓共に官民の意思疎通に課題があり、企業の実態を踏まえた戦略が求められる。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news051.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "半導体設計を2週間で　20歳CEOの米新興がAIで挑む",
-        "blurb": "米Architect LabsはAIで半導体設計・検証を高速化。20歳CEOが2週間で試作チップ開発を示し、期間短縮を目指す。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news048.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "三菱電機が量子技術の産業応用加速へ　OptQCに出資",
-        "blurb": "三菱電機は、光方式量子コンピュータ開発のOptQCに出資し、量子技術の産業応用を加速する。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news037.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Dragonwing Q-2390 and IQ-2390 Bring AI and Real-Time Processing to IoT",
-        "blurb": "Dragonwingの新CPUはAIとリアルタイム処理をIoT機器に提供。スマートホームや産業用自動化システム向け。",
-        "category": "company",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/dragonwing-q-2390-and-iq-2390-bring-ai-and-real-time-processing-to-iot"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
         "title": "Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights",
-        "blurb": "ドローン向けSWaP最適化コンピューティング、MIPI Allianceの新ワーキンググループ、GaN技術のUSB-C充電器など、最新技術動向をまとめた記事。",
+        "blurb": "ドローン向けSWaP最適化コンピューティング、MIPIの新ワーキンググループ、GaN充電器など、組み込み技術の最新動向を紹介。",
         "category": "company",
         "date": "2026-09-19",
         "stars": 3,
@@ -284,6 +182,126 @@
           "primary": "power",
           "device": "power",
           "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Hyundai CEO's Answer For The EV Slowdown: Building Thousands Of Robotaxis",
+        "blurb": "現代自動車、EV需要減速に対応し、自動運転タクシー「ロボタクシー」を数万台製造へ。Waymo向けにアイオニック5を改造。",
+        "category": "company",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808830/hyundais-answer-for-ev-slowdown-building-robotaxis"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "'Can't Be Done By One Company': This Startup Is Rallying A Team To Bring Solid-State Batteries To Life",
+        "blurb": "Factorial社は、単独では困難な全固体電池の実用化に向け、複数の企業と連携する連合を立ち上げました。",
+        "category": "company",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808779/factorial-solid-state-ev-battery-coalition-mitsui-kinzoku"
+        },
+        "field": null
+      },
+      {
+        "title": "Congress Advances Bill That Would Force Your EV To Have AM Radio",
+        "blurb": "米下院、EVを含む全米販売の新車にAMラジオ搭載を義務付ける法案を可決。安全上の理由から、緊急放送受信能力を確保する狙い。",
+        "category": "company",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808694/federal-am-radio-mandate-bill"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+        "blurb": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造依存性を考慮したフレームワークを開発。",
+        "category": "company",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators (University of Michigan)",
+        "blurb": "ミシガン大学がAIアクセラレータ向けチップレット共同設計フレームワーク「Fengshui」を発表。エネルギーと設計コストを削減。",
+        "category": "company",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edinburgh)",
+        "blurb": "エディンバラ大学の研究者が、AIによる半導体設計の役割変化（生成からオーケストレーションへ）に関する論文を発表。設計プロセスへのAI活用が進化。",
+        "category": "company",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Unified Chiplet Network Scales Neuromorphic Computing Systems (Heidelberg University)",
+        "blurb": "ハイデルベルク大学の研究者らが、ニューロモルフィックコンピューティングシステムのスケーリングを可能にする統一チップレットネットワークを発表しました。",
+        "category": "company",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
           "market": null,
           "industry": null
         }

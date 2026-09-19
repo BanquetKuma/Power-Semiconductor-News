@@ -1,149 +1,168 @@
 {
-  "generated_at": "2026-09-19T08:00:47.371978+09:00",
-  "date": "2026-09-19",
+  "generated_at": "2026-09-20T07:39:29.213206+09:00",
+  "date": "2026-09-20",
   "meta_trends": [
     {
-      "name": "AIデータセンター向け電力供給強化",
+      "name": "AIによる設計・検証の高速化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "datacenter",
-        "ai"
+        "ai",
+        "logic",
+        "frontend",
+        "backend",
+        "equipment"
       ],
-      "summary": "AIデータセンターの電力需要増大に対応するため、高効率・高出力な電力供給技術と試験装置への投資が加速している。",
+      "summary": "AI技術（LLM、強化学習等）を活用し、半導体設計・検証プロセスを大幅に自動化・高速化する動きが加速。",
       "analysis": {
-        "short_term": "高電圧対応試験装置の需要増。高効率電源モジュール開発競争激化。",
-        "mid_term": "次世代データセンター向け電力インフラ投資拡大。GaN技術の採用進展。",
-        "investment_implications": "電力半導体、電源管理IC、試験装置メーカーに注目。"
+        "short_term": "設計期間短縮の事例が増加。",
+        "mid_term": "EDAツールの進化とAI人材育成が鍵。",
+        "investment_implications": "AI設計関連スタートアップへの注目。"
       },
       "keywords": [
         "AI",
-        "データセンター",
-        "電力"
+        "設計自動化",
+        "EDA",
+        "LLM",
+        "強化学習"
       ],
       "companies_mentioned": [
-        "Tektronix",
-        "Vertical Semiconductor"
+        "Purdue University",
+        "NYU",
+        "University of Edinburgh",
+        "Architect Labs"
       ]
     },
     {
-      "name": "ヘテロジニアス統合と先進パッケージング",
+      "name": "次世代パワー半導体の進化とEV普及",
       "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "ai",
-        "miniaturization"
-      ],
-      "summary": "AI性能向上の鍵として、異なる機能を持つチップレットを統合するヘテロジニアス統合と先進パッケージング技術が重要視されている。",
-      "analysis": {
-        "short_term": "チップレット設計・検証ツールの需要増。ハイブリッドボンディング技術の進化。",
-        "mid_term": "システムレベルでの性能最適化が進む。多様なチップレット統合ソリューションが登場。",
-        "investment_implications": "パッケージング技術、インターコネクト技術、EDAツール関連企業に期待。"
-      },
-      "keywords": [
-        "ヘテロジニアス統合",
-        "チップレット",
-        "パッケージング"
-      ],
-      "companies_mentioned": [
-        "Onsemi",
-        "Baya Systems"
-      ]
-    },
-    {
-      "name": "SiCパワー半導体のEV普及加速",
-      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "industrial"
       ],
-      "summary": "電気自動車（EV）の電動パワートレインにおいて、SiCパワー半導体の採用が進み、EVの性能向上と普及を後押ししている。",
+      "summary": "SiCやGaNといった次世代パワー半導体の開発・量産化が進み、EVの性能向上と普及を後押し。",
       "analysis": {
-        "short_term": "SiC基板の大型化競争激化。EVメーカーのSiC採用拡大。",
-        "mid_term": "SiCパワー半導体のコスト競争力向上。次世代EVプラットフォームへの搭載増加。",
-        "investment_implications": "SiCウェーハ、SiCデバイスメーカー、EVサプライヤーに注目。"
+        "short_term": "EVメーカーによる採用拡大。",
+        "mid_term": "300mm化や高耐圧化が進展。",
+        "investment_implications": "SiC/GaN材料・デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
+        "GaN",
         "EV",
-        "パワー半導体"
+        "パワー半導体",
+        "300mm"
       ],
       "companies_mentioned": [
+        "STMicroelectronics",
+        "Vertical Semiconductor",
+        "BMW",
         "ローム",
-        "レゾナック",
-        "BMW"
+        "レゾナック"
       ]
     },
     {
-      "name": "材料革新と製造プロセスの進化",
+      "name": "チップレット技術の進展と多様化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
+        "logic",
         "backend",
-        "wafer",
-        "equipment"
+        "ai",
+        "datacenter"
       ],
-      "summary": "微細化の限界を超えるため、材料革新が半導体製造の重要な推進力となっている。製造プロセスの効率化・低コスト化も進む。",
+      "summary": "チップレットの共同設計や統合ネットワーク技術が進み、AIアクセラレータやHPC向けに性能とコスト効率を向上。",
       "analysis": {
-        "short_term": "反り抑制材料、直接接合技術への関心高まる。材料開発サイクルの短縮。",
-        "mid_term": "新材料の工場導入が進む。ウェット装置など製造装置への要求高度化。",
-        "investment_implications": "先端材料メーカー、製造装置メーカー、研究開発型企業に機会。"
+        "short_term": "共同設計フレームワークの活用開始。",
+        "mid_term": "多様なチップレットの標準化と相互接続性向上。",
+        "investment_implications": "チップレット設計・IPベンダーへの期待。"
       },
       "keywords": [
-        "材料革新",
-        "製造プロセス",
-        "ALD"
+        "チップレット",
+        "共同設計",
+        "AIアクセラレータ",
+        "HPC",
+        "ネットワーク"
       ],
       "companies_mentioned": [
-        "横浜国立大",
-        "KOKUSAI ELECTRIC",
-        "Lam Research"
+        "University of Michigan",
+        "Heidelberg University",
+        "Baya Systems"
       ]
     },
     {
-      "name": "AIによる設計・検証の高速化",
+      "name": "先端パッケージングと熱管理の重要性増大",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "logic",
+        "backend",
+        "datacenter",
         "ai",
         "equipment"
       ],
-      "summary": "AI技術を活用し、半導体設計・検証プロセスを大幅に短縮する動きが加速しており、開発期間とコスト削減に貢献する。",
+      "summary": "高密度実装が進む先端パッケージングにおいて、熱伝導率予測や熱管理技術、反り抑制材料が重要性を増す。",
       "analysis": {
-        "short_term": "AI設計ツールの導入進展。設計期間短縮の事例増加。",
-        "mid_term": "AIによる最適化設計が標準化。EDAツール市場への影響拡大。",
-        "investment_implications": "AIを活用したEDAツールベンダー、ファブレス企業に注目。"
+        "short_term": "熱管理ソリューションへの需要増。",
+        "mid_term": "デジタルツイン技術との連携強化。",
+        "investment_implications": "パッケージング材料・熱対策技術への注目。"
       },
       "keywords": [
-        "AI",
-        "半導体設計",
-        "EDA"
+        "パッケージング",
+        "熱管理",
+        "熱伝導率",
+        "デジタルツイン",
+        "反り抑制"
       ],
       "companies_mentioned": [
-        "Architect Labs"
+        "Peking University",
+        "UTS",
+        "TU Munich",
+        "ShanghaiTech",
+        "KOKUSAI ELECTRIC"
+      ]
+    },
+    {
+      "name": "データセンター向け高効率・高出力化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "power",
+        "ai"
+      ],
+      "summary": "AI需要の拡大に伴い、データセンターの電力システムは高効率・高出力化が求められ、試験装置も進化。",
+      "analysis": {
+        "short_term": "800V対応試験装置の導入進む。",
+        "mid_term": "電力システム設計の最適化が課題。",
+        "investment_implications": "データセンターインフラ関連企業への恩恵。"
+      },
+      "keywords": [
+        "データセンター",
+        "AI",
+        "高効率",
+        "高出力",
+        "電源試験"
+      ],
+      "companies_mentioned": [
+        "Tektronix",
+        "クラレ"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連半導体需要の継続的な拡大",
-      "EV市場の成長に伴うパワー半導体需要増",
-      "先進パッケージング技術への投資拡大"
+      "AIによる設計効率化の進展",
+      "EV向けパワー半導体需要の拡大",
+      "データセンター投資の継続"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "メモリ市場の価格変動リスク"
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "各国の半導体製造能力強化政策の進捗",
-      "量子コンピューティング技術の商用化に向けた動き"
+      "半導体誘致における官民の連携課題"
     ]
   },
-  "source_count": 44
+  "source_count": 50
 }

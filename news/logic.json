@@ -1,60 +1,41 @@
 {
-  "generated_at": "2026-09-19T08:00:43.036729+09:00",
+  "generated_at": "2026-09-20T07:39:25.115166+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "量子チップを商用300mmラインで製造、基本3動作実証",
-    "summary": "仏Quobly、商用300mmラインで製造したシリコンチップ上で量子ビットの基本3動作を実証。STMicroelectronicsの製造施設を利用。",
+    "title": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators (University of Michigan)",
+    "summary": "ミシガン大学がAIアクセラレータ向けチップレット共同設計フレームワーク「Fengshui」を発表。エネルギーと設計コストを削減。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news057.html"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "量子チップを商用300mmラインで製造、基本3動作実証",
-        "blurb": "仏Quobly、商用300mmラインで製造したシリコンチップ上で量子ビットの基本3動作を実証。STMicroelectronicsの製造施設を利用。",
+        "title": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators (University of Michigan)",
+        "blurb": "ミシガン大学がAIアクセラレータ向けチップレット共同設計フレームワーク「Fengshui」を発表。エネルギーと設計コストを削減。",
         "category": "company",
-        "date": "2026-09-18",
+        "date": "2026-09-20",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/18/news057.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
-          "process": null,
+          "process": "backend",
           "market": null,
           "industry": null
         }
       }
     ],
-    "tech": [
-      {
-        "title": "FPGA architecture: SEU detection and recovery strategies",
-        "blurb": "FPGAにおけるSEU（単一イベントアップセット）の検出・復旧戦略について、地上・ terrestreアプリケーションでの実装方法を解説。",
-        "category": "tools",
-        "date": "2026-09-18",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fpga-architecture-seu-detection-and-recovery-strategies"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": [
       {
         "title": "TeraSignal Launches Analog Wave Processor for AI Networks",
