@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-09-18T08:22:02.478151+09:00",
+  "generated_at": "2026-09-22T08:48:53.183041+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AI’s Storage Problem Is a Packaging Problem",
-    "summary": "AIのストレージ問題は、薄型化、積層化、ハイブリッドボンディングによるNANDの進化で解決へ向かう。",
+    "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
+    "summary": "Georgia Techらの研究チームが、ホストメモリとHBMの同時アクセスでLLM推論を高速化するBOOSTを発表。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ais-storage-problem-is-a-packaging-problem"
+        "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "AI’s Storage Problem Is a Packaging Problem",
-        "blurb": "AIのストレージ問題は、薄型化、積層化、ハイブリッドボンディングによるNANDの進化で解決へ向かう。",
-        "category": "business",
-        "date": "2026-09-17",
+        "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
+        "blurb": "Georgia Techらの研究チームが、ホストメモリとHBMの同時アクセスでLLM推論を高速化するBOOSTを発表。",
+        "category": "company",
+        "date": "2026-09-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ais-storage-problem-is-a-packaging-problem"
+          "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
-          "process": "backend",
+          "process": null,
           "market": null,
-          "industry": null
+          "industry": "fabless"
         }
-      },
+      }
+    ],
+    "tech": [
       {
-        "title": "「Spansion」復活へ、WinbondがInfineonのNORフラッシュ事業買収",
-        "blurb": "WinbondがInfineonのNORフラッシュ事業を買収し、「Spansion」として再出発。独立事業体で運営。",
-        "category": "business",
-        "date": "2026-09-17",
+        "title": "The Hidden Cost of Embedded Databases on NAND Flash Memory",
+        "blurb": "NANDフラッシュメモリ上の組み込みデータベースの隠れたコストを、異なるストレージアーキテクチャにおける書き込みコストから考察する。",
+        "category": "tools",
+        "date": "2026-09-21",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news050.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-memory"
         },
         "field": {
           "primary": "memory",
@@ -54,6 +54,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

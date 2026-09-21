@@ -1,174 +1,162 @@
 {
-  "generated_at": "2026-09-21T07:58:04.820922+09:00",
-  "date": "2026-09-21",
+  "generated_at": "2026-09-22T08:48:57.736527+09:00",
+  "date": "2026-09-22",
   "meta_trends": [
     {
-      "name": "AIとチップ設計の融合加速",
-      "confidence": 0.95,
+      "name": "AIとチップ設計の融合",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
         "frontend",
-        "backend",
-        "equipment"
+        "backend"
       ],
-      "summary": "AI技術がチップ設計プロセス全体に浸透し、設計・検証・製造の自動化と効率化を推進している。",
+      "summary": "LLMやAIエージェントがチップ設計プロセス（HLS、DRC修正、ルーティング）を自動化・高速化し、設計効率と品質を向上させている。",
       "analysis": {
-        "short_term": "EDAツールへのAI統合が進む。設計期間短縮が期待。",
-        "mid_term": "AIによる設計最適化が性能向上に寄与。新アーキテクチャ登場。",
-        "investment_implications": "AI設計関連企業への投資妙味増す。"
+        "short_term": "AI設計ツールの導入加速、設計期間短縮。",
+        "mid_term": "AIによる設計最適化が標準化。",
+        "investment_implications": "AI設計技術を持つ企業に注目。"
       },
       "keywords": [
         "AI",
-        "設計自動化",
-        "EDA",
-        "LLM"
+        "LLM",
+        "HLS",
+        "DRC",
+        "設計自動化"
       ],
       "companies_mentioned": [
+        "UCLA",
         "Purdue University",
         "NYU",
-        "University of Edinburgh",
-        "Architect Labs",
-        "Lam Research"
+        "Architect Labs"
       ]
     },
     {
-      "name": "次世代パワー半導体の進化",
-      "confidence": 0.9,
+      "name": "次世代パワー半導体（SiC）の普及",
+      "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
         "industrial"
       ],
-      "summary": "SiCやGaNといった次世代パワー半導体の開発・量産化が進み、EVやデータセンターなどでの採用が拡大している。",
+      "summary": "SiC（シリコンカーバイド）パワー半導体の300mm化、EVへの採用拡大が進み、高効率化と小型化に貢献している。",
       "analysis": {
-        "short_term": "EV向けSiC採用拡大。300mm化が本格化。",
-        "mid_term": "データセンターの電力効率向上に貢献。新材料開発も進む。",
-        "investment_implications": "SiC/GaN関連メーカーに注目。"
+        "short_term": "EVメーカーによるSiC採用が加速。",
+        "mid_term": "SiCのサプライチェーンが強化される。",
+        "investment_implications": "SiC材料・デバイスメーカーに投資妙味。"
       },
       "keywords": [
         "SiC",
-        "GaN",
         "EV",
-        "データセンター",
+        "パワー半導体",
         "300mm"
       ],
       "companies_mentioned": [
-        "STMicroelectronics",
-        "Vertical Semiconductor",
         "ローム",
-        "レゾナック",
-        "BMW"
+        "BMW",
+        "レゾナック"
       ]
     },
     {
-      "name": "チップレット技術の普及と進化",
+      "name": "チップレット技術の進化と応用",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "backend",
         "ai",
-        "datacenter",
-        "automotive"
+        "automotive",
+        "datacenter"
       ],
-      "summary": "チップレット技術により、高性能化、低コスト化、開発期間短縮が可能になり、AIアクセラレータやHPC分野で採用が進む。",
+      "summary": "チップレットの共同設計フレームワークやデータ移動効率化技術が登場し、AIアクセラレータや高性能コンピューティングでの活用が進む。",
       "analysis": {
-        "short_term": "AIアクセラレータ向け協調設計フレームワーク登場。",
-        "mid_term": "ニューロモルフィックコンピューティング等への応用拡大。",
-        "investment_implications": "チップレット関連IP・技術を持つ企業に期待。"
+        "short_term": "チップレット設計・IPソリューションへの関心高まる。",
+        "mid_term": "チップレットベースのSoCが主流化。",
+        "investment_implications": "チップレット関連IP・設計企業に注目。"
       },
       "keywords": [
         "チップレット",
-        "Co-design",
-        "AIアクセラレータ",
-        "HPC"
+        "共同設計",
+        "データ移動",
+        "AIアクセラレータ"
       ],
       "companies_mentioned": [
         "University of Michigan",
-        "Heidelberg University",
         "Baya Systems"
       ]
     },
     {
-      "name": "高度なパッケージング技術",
+      "name": "先端パッケージング技術の進展",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "backend",
+        "wafer",
         "logic",
-        "datacenter",
-        "ai",
-        "miniaturization"
+        "power"
       ],
-      "summary": "異種ダイ統合や3D IC化など、高度なパッケージング技術により、性能向上と小型化を実現する。",
+      "summary": "異種ダイのウェハ埋め込み技術や、プラズマ処理なしでのウェハ直接接合技術が登場し、3次元集積化と高性能化を推進。",
       "analysis": {
-        "short_term": "異種ダイ統合技術の発表。熱管理の重要性増す。",
-        "mid_term": "3D IC実現に向けた接合技術が進展。デジタルツインの課題。",
-        "investment_implications": "パッケージング技術・材料関連企業が鍵。"
+        "short_term": "3D IC向け新接合・埋め込み技術の研究開発活発化。",
+        "mid_term": "先端パッケージングが性能向上の鍵に。",
+        "investment_implications": "パッケージング技術関連企業に機会。"
       },
       "keywords": [
-        "パッケージング",
         "3D IC",
-        "異種ダイ統合",
-        "デジタルツイン"
+        "チップレット",
+        "ウェハ接合",
+        "異種集積"
       ],
       "companies_mentioned": [
         "onsemi",
-        "北京大学",
-        "UTS",
-        "TU Munich",
-        "ShanghaiTech",
         "横浜国立大",
         "KOKUSAI ELECTRIC"
       ]
     },
     {
-      "name": "量子コンピューティングの現実化",
-      "confidence": 0.7,
+      "name": "HBMとホストメモリの協調",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "frontend",
-        "industrial",
-        "research"
+        "memory",
+        "ai",
+        "datacenter"
       ],
-      "summary": "商用製造ラインでの量子チップ製造が実証され、実用化に向けた技術開発が進展している。",
+      "summary": "HBMとホストメモリの同時アクセスにより、LLM推論のスループットが向上する技術が発表され、AI処理性能のボトルネック解消に寄与。",
       "analysis": {
-        "short_term": "商用300mmラインでの量子ビット動作実証。",
-        "mid_term": "量子ビットの安定性・エラー訂正技術が課題。",
-        "investment_implications": "長期的な視点で量子技術関連企業を注視。"
+        "short_term": "AI向けメモリ帯域幅強化技術への期待。",
+        "mid_term": "HBM搭載サーバーの普及が進む。",
+        "investment_implications": "高性能メモリ・AIインフラ関連に注目。"
       },
       "keywords": [
-        "量子コンピュータ",
-        "CMOS",
-        "300mmライン",
-        "量子ビット"
+        "HBM",
+        "LLM",
+        "推論",
+        "メモリ帯域幅"
       ],
       "companies_mentioned": [
-        "Quobly",
-        "STMicroelectronics"
+        "Georgia Tech",
+        "Nvidia",
+        "Stanford"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連半導体需要の継続的な増加",
-      "EVシフトによるパワー半導体需要拡大",
-      "先端プロセスへの投資活発化",
-      "データセンター向け半導体需要堅調"
+      "AIによる設計効率化の進展",
+      "EV向けSiCパワー半導体の需要拡大",
+      "チップレット技術の応用拡大",
+      "HBMメモリの性能向上"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不安定化",
-      "一部メモリ市場の調整局面"
+      "半導体誘致における官民の連携課題（日韓）"
     ],
     "neutral": [
-      "半導体製造装置市場の安定推移",
-      "新興国市場での需要の伸び悩み"
+      "ハードウェアトロイ検出技術の研究",
+      "量子チップの商用ライン製造実証"
     ]
   },
-  "source_count": 49
+  "source_count": 45
 }

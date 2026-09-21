@@ -1,23 +1,120 @@
 {
-  "generated_at": "2026-09-21T07:58:00.639710+09:00",
+  "generated_at": "2026-09-20T07:39:25.113669+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
-    "summary": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造を考慮したフレームワークを開発した。",
+    "title": "Electrification and AI Data Centers, Power Conversion in the Hydrogen Economy, PCS Architectures for Utility-Scale BESSes: Power Electronics Week Insights",
+    "summary": "電力電子技術の最新動向：AIデータセンター、水素経済、大規模蓄電池システムのPCSアーキテクチャに関する知見。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/electrification-and-ai-data-centers-power-conversion-in-the-hydrogen-economy-pcs-architectures-for-utility-scale-besses-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
-    "business": [],
+    "business": [
+      {
+        "title": "Electrification and AI Data Centers, Power Conversion in the Hydrogen Economy, PCS Architectures for Utility-Scale BESSes: Power Electronics Week Insights",
+        "blurb": "電力電子技術の最新動向：AIデータセンター、水素経済、大規模蓄電池システムのPCSアーキテクチャに関する知見。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/electrification-and-ai-data-centers-power-conversion-in-the-hydrogen-economy-pcs-architectures-for-utility-scale-besses-power-electronics-week-insights"
+        },
+        "field": null
+      },
+      {
+        "title": "SiCの開発と実装が進む 300mm化から次世代EV採用まで",
+        "blurb": "SiCの開発と実装が加速。300mm化や次世代EVへの採用が進み、エレクトロニクス業界の動向に注目が集まる。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/19/news013.html"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "TeraSignal Launches Analog Wave Processor for AI Networks",
+        "blurb": "TeraSignalがAIネットワーク向けアナログ波形プロセッサを発表。次世代AIインフラの高速・低遅延接続を実現。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/terasignal-launches-analog-wave-processor-for-ai-networks"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "‘The Trend Is Clear’: How EVs Are Closing In On Gas Car Prices",
+        "blurb": "EVの新車価格はガソリン車より9.4%高。インセンティブの役割は縮小傾向で、価格差は急速に縮まっている。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808818/ev-gas-car-price-parity"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "What If We're Thinking About EV Charging All Wrong?",
+        "blurb": "EV充電のあり方を見直す。テスラ・ロードスター、メルセデスGLC、フォード・ファザムについても議論。",
+        "category": "business",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/808817/ev-charging-podcast-tesla-roadster"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
     "tools": [
       {
+        "title": "Is This An E-Bike Or A Moped? It Depends On Who You Ask",
+        "blurb": "電動アシスト自転車と電動バイクの境界線は曖昧。従来の電動アシスト自転車のデザインが推奨される。",
+        "category": "tools",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/808693/ebike-vs-emoto-aotos-flux-x26-pro-review"
+        },
+        "field": null
+      },
+      {
         "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
-        "blurb": "Purdue大の研究者は、大規模言語モデルを活用したDRC-Aidを発表。設計規則の自動修正とレイアウト等価性を維持する。",
+        "blurb": "Purdue大の研究者は、大規模言語モデルを活用したDRC-Aidを発表。設計規則の自動修正とレイアウト等価性の維持を実現。",
         "category": "tools",
         "date": "2026-09-20",
         "stars": 3,
@@ -35,7 +132,7 @@
       },
       {
         "title": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts  (NYU)",
-        "blurb": "NYUの研究者が、LSTMを用いた強化学習で半導体設計における配線違反を削減する手法を発表しました。",
+        "blurb": "NYUの研究者は、強化学習を用いて半導体設計における配線違反を削減する手法を発表しました。",
         "category": "tools",
         "date": "2026-09-20",
         "stars": 3,
@@ -53,7 +150,7 @@
       },
       {
         "title": "Open Benchmark Evaluates AI Thermal Models for 2.5D and 3D ICs (UTS, TU Munich, ShanghaiTech)",
-        "blurb": "AIによる2.5D/3D ICの熱モデル評価ベンチマーク「IC-ThermBench」が公開。複数の大学が共同開発。",
+        "blurb": "AIによる2.5D/3D ICの熱モデル評価ベンチマーク「IC-ThermBench」が公開。複数の大学が共同開発し、汎用性の高い評価を目指す。",
         "category": "tools",
         "date": "2026-09-20",
         "stars": 3,
@@ -72,8 +169,74 @@
     ],
     "company": [
       {
+        "title": "Designing SWaP-Optimized Compute for UAVs, MIPI Alliance Kinematics Working Group, ESD eBook: Embedded Week Insights",
+        "blurb": "ドローン向けSWaP最適化コンピューティング、MIPIの新ワーキンググループ、GaN充電器など、組み込み技術の最新動向を紹介。",
+        "category": "company",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/designing-swap-optimized-compute-for-uavs-mipi-alliance-kinematics-working-group-esd-ebook-embedded-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Hyundai CEO's Answer For The EV Slowdown: Building Thousands Of Robotaxis",
+        "blurb": "現代自動車、EV需要減速に対応し、自動運転タクシー「ロボタクシー」を数万台製造へ。Waymo向けにアイオニック5を改造。",
+        "category": "company",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808830/hyundais-answer-for-ev-slowdown-building-robotaxis"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "'Can't Be Done By One Company': This Startup Is Rallying A Team To Bring Solid-State Batteries To Life",
+        "blurb": "Factorial社は、単独では困難な全固体電池の実用化に向け、複数の企業と連携する連合を立ち上げました。",
+        "category": "company",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808779/factorial-solid-state-ev-battery-coalition-mitsui-kinzoku"
+        },
+        "field": null
+      },
+      {
+        "title": "Congress Advances Bill That Would Force Your EV To Have AM Radio",
+        "blurb": "米下院、EVを含む全米販売の新車にAMラジオ搭載を義務付ける法案を可決。安全上の理由から、緊急放送受信能力を確保する狙い。",
+        "category": "company",
+        "date": "2026-09-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/808694/federal-am-radio-mandate-bill"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
         "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
-        "blurb": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造を考慮したフレームワークを開発した。",
+        "blurb": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造依存性を考慮したフレームワークを開発。",
         "category": "company",
         "date": "2026-09-20",
         "stars": 3,
@@ -91,7 +254,7 @@
       },
       {
         "title": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators (University of Michigan)",
-        "blurb": "ミシガン大学がAIアクセラレータ向けチップレット協調設計フレームワーク「Fengshui」を発表。エネルギーと設計コストを削減。",
+        "blurb": "ミシガン大学がAIアクセラレータ向けチップレット共同設計フレームワーク「Fengshui」を発表。エネルギーと設計コストを削減。",
         "category": "company",
         "date": "2026-09-20",
         "stars": 3,
@@ -109,7 +272,7 @@
       },
       {
         "title": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edinburgh)",
-        "blurb": "エディンバラ大学の研究者は、AIがチップ設計のコード生成からEDAのオーケストレーションへと役割を変化させる可能性について論文を発表しました。",
+        "blurb": "エディンバラ大学の研究者が、AIによる半導体設計の役割変化（生成からオーケストレーションへ）に関する論文を発表。設計プロセスへのAI活用が進化。",
         "category": "company",
         "date": "2026-09-20",
         "stars": 3,
@@ -127,7 +290,7 @@
       },
       {
         "title": "Unified Chiplet Network Scales Neuromorphic Computing Systems (Heidelberg University)",
-        "blurb": "ハイデルベルク大学が、ニューロモルフィックコンピューティングシステムのスケーリングを可能にする統一チップレットネットワークを発表しました。",
+        "blurb": "ハイデルベルク大学の研究者らが、ニューロモルフィックコンピューティングシステムのスケーリングを可能にする統一チップレットネットワークを発表しました。",
         "category": "company",
         "date": "2026-09-20",
         "stars": 3,

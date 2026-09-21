@@ -1,68 +1,31 @@
 {
-  "generated_at": "2026-09-21T07:58:00.641441+09:00",
+  "generated_at": "2026-09-22T08:48:53.184497+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
-    "summary": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造を考慮したフレームワークを開発した。",
+    "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
+    "summary": "UW-MadisonとMarist大の研究者が、合成後のゲートレベルネットリストにおけるハードウェアトロイの検出手法「LoRD」を発表。構造と信号流の安定パターンを利用。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university"
+        "url": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
-        "blurb": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造を考慮したフレームワークを開発した。",
-        "category": "company",
-        "date": "2026-09-20",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edinburgh)",
-        "blurb": "エディンバラ大学の研究者は、AIがチップ設計のコード生成からEDAのオーケストレーションへと役割を変化させる可能性について論文を発表しました。",
-        "category": "company",
-        "date": "2026-09-20",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
-        "blurb": "Purdue大の研究者は、大規模言語モデルを活用したDRC-Aidを発表。設計規則の自動修正とレイアウト等価性を維持する。",
+        "title": "Hybrid ReRAM-Spintronic Ising Machine Solves Optimization Problems",
+        "blurb": "仏研究者がReRAMとスピントロニクスを融合したイジングマシンを開発。組合せ最適化問題を単一チップで解く。",
         "category": "tools",
-        "date": "2026-09-20",
+        "date": "2026-09-21",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/hybrid-reram-spintronic-ising-machine-solves-optimization-problems"
         },
         "field": {
           "primary": "general",
@@ -73,14 +36,32 @@
         }
       },
       {
-        "title": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts  (NYU)",
-        "blurb": "NYUの研究者が、LSTMを用いた強化学習で半導体設計における配線違反を削減する手法を発表しました。",
+        "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
+        "blurb": "UW-MadisonとMarist大の研究者が、合成後のゲートレベルネットリストにおけるハードウェアトロイの検出手法「LoRD」を発表。構造と信号流の安定パターンを利用。",
         "category": "tools",
-        "date": "2026-09-20",
+        "date": "2026-09-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu"
+          "url": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Can Agents Design  Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)",
+        "blurb": "UCLAの研究者は、LLMエージェントがHLSを用いて高抽象度でチップ設計を行うことで、より良い設計が可能か検証した。",
+        "category": "tools",
+        "date": "2026-09-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/can-agents-design-better-chips-when-operating-at-a-higher-level-of-abstraction-using-hls-ucla"
         },
         "field": {
           "primary": "general",
@@ -91,6 +72,25 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity",
+        "blurb": "ロボティクスとインテリジェントな設備制御が、次世代ファブの生産性を向上させ、再現性、稼働率、歩留まりを高めている。",
+        "category": "business",
+        "date": "2026-09-21",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

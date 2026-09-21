@@ -1,72 +1,36 @@
 {
-  "generated_at": "2026-09-18T08:22:02.478786+09:00",
+  "generated_at": "2026-09-22T08:48:53.183620+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "先端半導体市場に貢献、フルヤ金属の新工場が完成",
-    "summary": "フルヤ金属の新千歳工場が完成。半導体製造装置向け部品の生産能力が2倍に増え、先端半導体市場に貢献する見込み。",
+    "title": "Lynred Launches CAPT640 Automotive Thermal Imaging Sensor",
+    "summary": "Lynredが欧州初の車載向け熱画像センサー「CAPT640」を発表。ADASの性能向上に貢献。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news033.html"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/lynred-launches-capt640-automotive-thermal-imaging-sensor"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "先端半導体市場に貢献、フルヤ金属の新工場が完成",
-        "blurb": "フルヤ金属の新千歳工場が完成。半導体製造装置向け部品の生産能力が2倍に増え、先端半導体市場に貢献する見込み。",
+        "title": "Lynred Launches CAPT640 Automotive Thermal Imaging Sensor",
+        "blurb": "Lynredが欧州初の車載向け熱画像センサー「CAPT640」を発表。ADASの性能向上に貢献。",
         "category": "company",
-        "date": "2026-09-17",
+        "date": "2026-09-22",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news033.html"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": "equipment",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Sensor sharpens infrared in-cabin imaging",
-        "blurb": "STマイクロエレクトロニクスが車内監視用赤外線イメージセンサーを発表。ドライバーや乗員のモニタリングに活用。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sensor-sharpens-infrared-in-cabin-imaging"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/lynred-launches-capt640-automotive-thermal-imaging-sensor"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "SPAD sensor processes photon events on-chip",
-        "blurb": "Singular Photonics社のSPADイメージセンサー「Litavis」は、オンチップでデジタル光子処理を統合。ピクセル内で光子イベントを処理する。",
-        "category": "company",
-        "date": "2026-09-17",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/spad-sensor-processes-photon-events-on-chip"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
       }
