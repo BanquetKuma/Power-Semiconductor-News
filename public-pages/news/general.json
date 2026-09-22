@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-09-22T08:48:53.184497+09:00",
+  "generated_at": "2026-09-23T08:28:57.803905+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
-    "summary": "UW-MadisonとMarist大の研究者が、合成後のゲートレベルネットリストにおけるハードウェアトロイの検出手法「LoRD」を発表。構造と信号流の安定パターンを利用。",
+    "title": "Designing Multi-kW Power Delivery In 3D Heterogeneously Integrated Systems (U. of Minnesota)",
+    "summary": "ミネソタ大学の研究者は、3Dチップレットシステム向けに高出力（数キロワット）電力供給技術を発表しました。高密度化とピン数制限が課題です。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist"
+        "url": "https://semiengineering.com/designing-multi-kw-power-delivery-for-advanced-3d-chiplet-systems"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Hybrid ReRAM-Spintronic Ising Machine Solves Optimization Problems",
-        "blurb": "仏研究者がReRAMとスピントロニクスを融合したイジングマシンを開発。組合せ最適化問題を単一チップで解く。",
-        "category": "tools",
-        "date": "2026-09-21",
+        "title": "Designing Multi-kW Power Delivery In 3D Heterogeneously Integrated Systems (U. of Minnesota)",
+        "blurb": "ミネソタ大学の研究者は、3Dチップレットシステム向けに高出力（数キロワット）電力供給技術を発表しました。高密度化とピン数制限が課題です。",
+        "category": "company",
+        "date": "2026-09-23",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/hybrid-reram-spintronic-ising-machine-solves-optimization-problems"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/designing-multi-kw-power-delivery-for-advanced-3d-chiplet-systems"
         },
         "field": {
           "primary": "general",
@@ -34,7 +33,9 @@
           "market": null,
           "industry": null
         }
-      },
+      }
+    ],
+    "tech": [
       {
         "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
         "blurb": "UW-MadisonとMarist大の研究者が、合成後のゲートレベルネットリストにおけるハードウェアトロイの検出手法「LoRD」を発表。構造と信号流の安定パターンを利用。",
@@ -55,7 +56,7 @@
       },
       {
         "title": "Can Agents Design  Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)",
-        "blurb": "UCLAの研究者は、LLMエージェントがHLSを用いて高抽象度でチップ設計を行うことで、より良い設計が可能か検証した。",
+        "blurb": "UCLAの研究者は、LLMエージェントがHLSを用いて高抽象度でチップ設計を行うことで、より優れたチップを設計できるか検証した。",
         "category": "tools",
         "date": "2026-09-22",
         "stars": 3,
@@ -72,25 +73,6 @@
         }
       }
     ],
-    "market": [
-      {
-        "title": "How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity",
-        "blurb": "ロボティクスとインテリジェントな設備制御が、次世代ファブの生産性を向上させ、再現性、稼働率、歩留まりを高めている。",
-        "category": "business",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

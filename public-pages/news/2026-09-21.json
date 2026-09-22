@@ -1,52 +1,29 @@
 {
-  "generated_at": "2026-09-22T08:48:53.181578+09:00",
+  "generated_at": "2026-09-21T07:58:00.639710+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chasing the 1%: Power Electronics and the Modern Grid Ecosystem",
-    "summary": "電力電子技術が現代の電力網の効率化に不可欠であることを解説。グリッド近代化とエネルギーインフラの最新動向を紹介。",
+    "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+    "summary": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造を考慮したフレームワークを開発した。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/chasing-the-1-power-electronics-and-the-modern-grid-ecosystem"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university"
       }
     ]
   },
   "sections": {
-    "business": [
+    "business": [],
+    "tools": [
       {
-        "title": "Chasing the 1%: Power Electronics and the Modern Grid Ecosystem",
-        "blurb": "電力電子技術が現代の電力網の効率化に不可欠であることを解説。グリッド近代化とエネルギーインフラの最新動向を紹介。",
-        "category": "business",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/chasing-the-1-power-electronics-and-the-modern-grid-ecosystem"
-        },
-        "field": null
-      },
-      {
-        "title": "VPT Launches Scalable FLX DC-DC Converter Series",
-        "blurb": "VPTが、-55℃～110℃で動作するスケーラブルなDC-DCコンバータシリーズ「FLX」を発表。出力は1W～5kWに対応。",
-        "category": "business",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vpt-launches-scalable-flx-dc-dc-converter-series"
-        },
-        "field": null
-      },
-      {
-        "title": "How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity",
-        "blurb": "ロボティクスとインテリジェントな設備制御が、次世代ファブの生産性を向上させ、再現性、稼働率、歩留まりを高めている。",
-        "category": "business",
-        "date": "2026-09-21",
+        "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
+        "blurb": "Purdue大の研究者は、大規模言語モデルを活用したDRC-Aidを発表。設計規則の自動修正とレイアウト等価性を維持する。",
+        "category": "tools",
+        "date": "2026-09-20",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity"
+          "url": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence"
         },
         "field": {
           "primary": "general",
@@ -57,332 +34,114 @@
         }
       },
       {
-        "title": "CATL’s New Batteries Target American Pickups. They Could Be Made In The U.S.",
-        "blurb": "中国CATL、米国ピックアップトラック向け新バッテリー開発。米国での現地生産も視野に入れる。",
-        "category": "business",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808953/catl-us-pickup-battery-cells"
-        },
-        "field": null
-      },
-      {
-        "title": "Nissan's New Rogue Is A Different Kind Of Hybrid. Here's How Much It Costs.",
-        "blurb": "日産新型ローグは、競合他社とは異なる独自のハイブリッドパワートレインを採用。価格も発表。",
-        "category": "business",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808948/2027-nissan-rogue-hybrid-prices"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "Easy Power Rail Sequencing and Ripple Noise Characterization with Modern Oscilloscopes",
-        "blurb": "最新オシロスコープで電源シーケンスとリップルノイズを容易に測定。分散型電源システムでの検証が容易に。",
+        "title": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts  (NYU)",
+        "blurb": "NYUの研究者が、LSTMを用いた強化学習で半導体設計における配線違反を削減する手法を発表しました。",
         "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/easy-power-rail-sequencing-and-ripple-noise-characterization-with-modern-oscilloscopes"
-        },
-        "field": null
-      },
-      {
-        "title": "How 60 GHz Radar Improves Low-Power Presence Sensing In IoT Devices",
-        "blurb": "60GHzレーダーは、IoTデバイスで低消費電力の存在検知を改善し、常時稼働せずに占有と動きを追跡します。",
-        "category": "tools",
-        "date": "2026-09-21",
+        "date": "2026-09-20",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-60-ghz-radar-improves-low-power-presence-sensing-in-iot-devices"
+          "url": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Open Benchmark Evaluates AI Thermal Models for 2.5D and 3D ICs (UTS, TU Munich, ShanghaiTech)",
+        "blurb": "AIによる2.5D/3D ICの熱モデル評価ベンチマーク「IC-ThermBench」が公開。複数の大学が共同開発。",
+        "category": "tools",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech"
         },
         "field": {
           "primary": "industrial",
           "device": null,
-          "process": null,
+          "process": "backend",
           "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "SFP: The single-mode module autopsy",
-        "blurb": "長距離対応光ファイバーネットワークアダプターの単一モードモジュールを分析。レーザーに焦点を当てる。",
-        "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sfp-the-single-mode-module-autopsy"
-        },
-        "field": null
-      },
-      {
-        "title": "Unmasking the ghosts in your grid with power quality analyzers",
-        "blurb": "電力品質アナライザは、オシロスコープでは捉えきれない電源の状態を詳細に分析し、問題の原因を特定する。",
-        "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/unmasking-the-ghosts-in-your-grid-with-power-quality-analyzers"
-        },
-        "field": null
-      },
-      {
-        "title": "The Hidden Cost of Embedded Databases on NAND Flash Memory",
-        "blurb": "NANDフラッシュメモリ上の組み込みデータベースの隠れたコストを、異なるストレージアーキテクチャにおける書き込みコストから考察する。",
-        "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-memory"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Hybrid ReRAM-Spintronic Ising Machine Solves Optimization Problems",
-        "blurb": "仏研究者がReRAMとスピントロニクスを融合したイジングマシンを開発。組合せ最適化問題を単一チップで解く。",
-        "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/hybrid-reram-spintronic-ising-machine-solves-optimization-problems"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
-        "blurb": "UW-MadisonとMarist大の研究者が、合成後のゲートレベルネットリストにおけるハードウェアトロイの検出手法「LoRD」を発表。構造と信号流の安定パターンを利用。",
-        "category": "tools",
-        "date": "2026-09-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Can Agents Design  Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)",
-        "blurb": "UCLAの研究者は、LLMエージェントがHLSを用いて高抽象度でチップ設計を行うことで、より良い設計が可能か検証した。",
-        "category": "tools",
-        "date": "2026-09-22",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/can-agents-design-better-chips-when-operating-at-a-higher-level-of-abstraction-using-hls-ucla"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
           "industry": null
         }
       }
     ],
     "company": [
       {
-        "title": "Banana Pi BPI-AI2N SoM Features Renesas RZ/V2N SoC and 15 TOPS AI",
-        "blurb": "Banana PiがRenesas RZ/V2N SoC搭載のAIモジュール「BPI-AI2N」を発表。15 TOPSのAI処理能力を持つ。",
+        "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+        "blurb": "北京大学の研究者らが、先端集積回路のBEOL配線構造における熱伝導率予測モデルを発表。構造を考慮したフレームワークを開発した。",
         "category": "company",
-        "date": "2026-09-21",
+        "date": "2026-09-20",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/banana-pi-bpi-ai2n-som-features-renesas-rz-v2n-soc-and-15-tops-ai"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators (University of Michigan)",
+        "blurb": "ミシガン大学がAIアクセラレータ向けチップレット協調設計フレームワーク「Fengshui」を発表。エネルギーと設計コストを削減。",
+        "category": "company",
+        "date": "2026-09-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
-          "process": null,
+          "process": "backend",
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Hyundai Recalls Ioniq 9 EV Because Rear Seats Could Trap Children",
-        "blurb": "現代自動車、イオンク9 EVの後部座席が子供を閉じ込める可能性がありリコール。消費者からの苦情5件、軽傷2件の報告あり。",
+        "title": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edinburgh)",
+        "blurb": "エディンバラ大学の研究者は、AIがチップ設計のコード生成からEDAのオーケストレーションへと役割を変化させる可能性について論文を発表しました。",
         "category": "company",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808955/hyundai-ioniq-9-ev-recall-child-trap-rear-seats"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Scania's New EV Truck Has 447 Miles Of Range",
-        "blurb": "スカニアが新型EVトラックを発表。航続距離は700km超でテスラセミを凌駕。",
-        "category": "company",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808918/scania-extended-range-ev-truck"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "This VW ID. Buzz Finished A 62,000-Mile World Trip With Nearly 96% Battery Health",
-        "blurb": "VWのEVバン「ID. Buzz」が62,000マイルの世界一周をほぼ満充電で完了。445日間で92カ国を訪問し、技術的な故障はゼロだった。",
-        "category": "company",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808905/vw-id-buzz-world-trip"
-        },
-        "field": null
-      },
-      {
-        "title": "Volvo’s CEO Is Out. Again.",
-        "blurb": "ボルボのCEOが2年足らずで退任。退職から復帰し、ブランド再建を担っていた。",
-        "category": "company",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808886/volvo-cars-new-ceo-2027"
-        },
-        "field": null
-      },
-      {
-        "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
-        "blurb": "Georgia Techらの研究チームが、ホストメモリとHBMの同時アクセスでLLM推論を高速化するBOOSTを発表。",
-        "category": "company",
-        "date": "2026-09-22",
+        "date": "2026-09-20",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford"
+          "url": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Lynred Launches CAPT640 Automotive Thermal Imaging Sensor",
-        "blurb": "Lynredが欧州初の車載向け熱画像センサー「CAPT640」を発表。ADASの性能向上に貢献。",
-        "category": "company",
-        "date": "2026-09-22",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/lynred-launches-capt640-automotive-thermal-imaging-sensor"
-        },
-        "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "This Chinese SUV Has Built-In Propellers So It Can Drive Across Water",
-        "blurb": "中国の吉利汽車、水陸両用SUV「バトルシップ700」を発表。船のように水上を航行可能。",
+        "title": "Unified Chiplet Network Scales Neuromorphic Computing Systems (Heidelberg University)",
+        "blurb": "ハイデルベルク大学が、ニューロモルフィックコンピューティングシステムのスケーリングを可能にする統一チップレットネットワークを発表しました。",
         "category": "company",
-        "date": "2026-09-22",
+        "date": "2026-09-20",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809021/geely-battleship-700-water-swim"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university"
         },
-        "field": null
-      },
-      {
-        "title": "These Absolutely Wild-Looking EVs Are Saudi Arabia's First Homegrown Cars",
-        "blurb": "サウジアラビア初の国産EV「Ceer Exobot」は、異形デザイン、850馬力、ヨークステアリングを備える。",
-        "category": "company",
-        "date": "2026-09-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809011/ceer-exobot-sedan-suv"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla Wants $50,000 Deposits For A Roadster Nobody Has Seen Yet",
-        "blurb": "テスラ、未公開の新型ロードスターの予約金を5万ドルに設定。2週間後に公開予定。",
-        "category": "company",
-        "date": "2026-09-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808999/tesla-roadster-orders-reopen-50000"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla Cybercab Inherited One Of The Most Annoying Things About Owning A Tesla",
-        "blurb": "テスラのサイバーキャブ、既存テスラ車と同様のナビゲーション問題を引き継ぐ。奇妙なルート案内が報告されている。",
-        "category": "company",
-        "date": "2026-09-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808696/tesla-cybercab-navigation-problems-issues"
-        },
-        "field": null
-      },
-      {
-        "title": "Rivian R3 Will Be Priced 'Materially Lower' Than R2, CEO Says",
-        "blurb": "リビアンCEO、新型EV「R3」は「R2」より大幅に低価格になると発言。さらに低価格な「R4」も計画。",
-        "category": "company",
-        "date": "2026-09-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809000/rivian-r3-price-materially-lower-than-r2-rj-scaringe"
-        },
-        "field": null
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "sns": []

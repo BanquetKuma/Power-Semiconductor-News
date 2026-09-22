@@ -1,176 +1,80 @@
 {
-  "generated_at": "2026-09-22T08:48:53.181578+09:00",
+  "generated_at": "2026-09-23T08:28:57.800931+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Chasing the 1%: Power Electronics and the Modern Grid Ecosystem",
-    "summary": "電力電子技術が現代の電力網の効率化に不可欠であることを解説。グリッド近代化とエネルギーインフラの最新動向を紹介。",
+    "title": "TDK Expands Compact 500V Snap-In Capacitors for AI Servers",
+    "summary": "TDKはAIサーバー向けに、高容量・高リプル電流対応の小型500Vスナップインコンデンサの新シリーズを発表しました。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/chasing-the-1-power-electronics-and-the-modern-grid-ecosystem"
+        "url": "https://www.powerelectronicsnews.com/tdk-expands-compact-500v-snap-in-capacitors-for-ai-servers"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Chasing the 1%: Power Electronics and the Modern Grid Ecosystem",
-        "blurb": "電力電子技術が現代の電力網の効率化に不可欠であることを解説。グリッド近代化とエネルギーインフラの最新動向を紹介。",
+        "title": "From Test Compression To Hierarchical Connectivity: Scaling SoC Test For AI And HPC Devices",
+        "blurb": "AI・HPC向けSoCテスト、圧縮に加え階層的接続による効率的なデータ配布が重要。",
         "category": "business",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/chasing-the-1-power-electronics-and-the-modern-grid-ecosystem"
-        },
-        "field": null
-      },
-      {
-        "title": "VPT Launches Scalable FLX DC-DC Converter Series",
-        "blurb": "VPTが、-55℃～110℃で動作するスケーラブルなDC-DCコンバータシリーズ「FLX」を発表。出力は1W～5kWに対応。",
-        "category": "business",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/vpt-launches-scalable-flx-dc-dc-converter-series"
-        },
-        "field": null
-      },
-      {
-        "title": "How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity",
-        "blurb": "ロボティクスとインテリジェントな設備制御が、次世代ファブの生産性を向上させ、再現性、稼働率、歩留まりを高めている。",
-        "category": "business",
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity"
+          "url": "https://semiengineering.com/from-test-compression-to-hierarchical-connectivity-scaling-soc-test-for-ai-and-hpc-devices"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "CATL’s New Batteries Target American Pickups. They Could Be Made In The U.S.",
-        "blurb": "中国CATL、米国ピックアップトラック向け新バッテリー開発。米国での現地生産も視野に入れる。",
+        "title": "Chip Industry Technical Paper Roundup: Sept. 22",
+        "blurb": "AI熱モデリング、チップレット・AIアクセラレータ協調設計、BEOL熱伝導率、DRCエージェント修復、RLによるルーティング、LLMによるEDA、ニューロモルフィックコンピューティング向けチップレット相互接続など、半導体技術論文を紹介。",
         "category": "business",
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808953/catl-us-pickup-battery-cells"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-22"
         },
-        "field": null
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "Nissan's New Rogue Is A Different Kind Of Hybrid. Here's How Much It Costs.",
-        "blurb": "日産新型ローグは、競合他社とは異なる独自のハイブリッドパワートレインを採用。価格も発表。",
+        "title": "Space-rated analog ICs are increasingly standard catalog items",
+        "blurb": "宇宙用アナログICがカスタム品から標準カタログ品へ移行。調達が容易になり、開発期間短縮に貢献。",
         "category": "business",
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808948/2027-nissan-rogue-hybrid-prices"
+          "name": "edn.com",
+          "url": "https://www.edn.com/space-rated-analog-ics-are-increasingly-standard-catalog-items"
         },
         "field": null
       }
     ],
     "tools": [
       {
-        "title": "Easy Power Rail Sequencing and Ripple Noise Characterization with Modern Oscilloscopes",
-        "blurb": "最新オシロスコープで電源シーケンスとリップルノイズを容易に測定。分散型電源システムでの検証が容易に。",
+        "title": "Power Electronics Course with QSPICE (Episode 18): Buck-Boost Converter",
+        "blurb": "QSPICEを用いたパワーエレクトロニクス講座第18回は、非反転バックブーストコンバータを解説。動作モード、デューティサイクル制御、QSPICEシミュレーション結果を分析。",
         "category": "tools",
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/easy-power-rail-sequencing-and-ripple-noise-characterization-with-modern-oscilloscopes"
+          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-18-buck-boost-converter"
         },
         "field": null
-      },
-      {
-        "title": "How 60 GHz Radar Improves Low-Power Presence Sensing In IoT Devices",
-        "blurb": "60GHzレーダーは、IoTデバイスで低消費電力の存在検知を改善し、常時稼働せずに占有と動きを追跡します。",
-        "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-60-ghz-radar-improves-low-power-presence-sensing-in-iot-devices"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "SFP: The single-mode module autopsy",
-        "blurb": "長距離対応光ファイバーネットワークアダプターの単一モードモジュールを分析。レーザーに焦点を当てる。",
-        "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sfp-the-single-mode-module-autopsy"
-        },
-        "field": null
-      },
-      {
-        "title": "Unmasking the ghosts in your grid with power quality analyzers",
-        "blurb": "電力品質アナライザは、オシロスコープでは捉えきれない電源の状態を詳細に分析し、問題の原因を特定する。",
-        "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/unmasking-the-ghosts-in-your-grid-with-power-quality-analyzers"
-        },
-        "field": null
-      },
-      {
-        "title": "The Hidden Cost of Embedded Databases on NAND Flash Memory",
-        "blurb": "NANDフラッシュメモリ上の組み込みデータベースの隠れたコストを、異なるストレージアーキテクチャにおける書き込みコストから考察する。",
-        "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/the-hidden-cost-of-embedded-databases-on-nand-flash-memory"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Hybrid ReRAM-Spintronic Ising Machine Solves Optimization Problems",
-        "blurb": "仏研究者がReRAMとスピントロニクスを融合したイジングマシンを開発。組合せ最適化問題を単一チップで解く。",
-        "category": "tools",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/hybrid-reram-spintronic-ising-machine-solves-optimization-problems"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
       },
       {
         "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
@@ -192,7 +96,7 @@
       },
       {
         "title": "Can Agents Design  Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)",
-        "blurb": "UCLAの研究者は、LLMエージェントがHLSを用いて高抽象度でチップ設計を行うことで、より良い設計が可能か検証した。",
+        "blurb": "UCLAの研究者は、LLMエージェントがHLSを用いて高抽象度でチップ設計を行うことで、より優れたチップを設計できるか検証した。",
         "category": "tools",
         "date": "2026-09-22",
         "stars": 3,
@@ -207,90 +111,78 @@
           "market": null,
           "industry": null
         }
-      }
-    ],
-    "company": [
+      },
       {
-        "title": "Banana Pi BPI-AI2N SoM Features Renesas RZ/V2N SoC and 15 TOPS AI",
-        "blurb": "Banana PiがRenesas RZ/V2N SoC搭載のAIモジュール「BPI-AI2N」を発表。15 TOPSのAI処理能力を持つ。",
-        "category": "company",
-        "date": "2026-09-21",
+        "title": "Frequency division by any number, with a 50% duty cycle output",
+        "blurb": "任意の数を2で割る周波数分周回路の設計アイデア。50%のデューティサイクル出力が可能。",
+        "category": "tools",
+        "date": "2026-09-22",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/banana-pi-bpi-ai2n-som-features-renesas-rz-v2n-soc-and-15-tops-ai"
+          "name": "edn.com",
+          "url": "https://www.edn.com/frequency-division-by-any-number-with-a-50-duty-cycle-output"
+        },
+        "field": null
+      },
+      {
+        "title": "MCUs for power conversion and motor control feature PQC",
+        "blurb": "電力変換・モーター制御向けMCUが登場。アナログからデジタル制御への移行を加速する。",
+        "category": "tools",
+        "date": "2026-09-22",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/mcus-for-power-conversion-and-motor-control-feature-pqc"
+        },
+        "field": null
+      },
+      {
+        "title": "High-Intensity Rowhammer Attack On GPUs Leveraging Non-uniform Hammering (U. of Toronto)",
+        "blurb": "トロント大学の研究者が、GPUのメモリに影響を与える高強度のRowhammer攻撃「GPUThor」を発表。ECC保護されたGPUも標的となる。",
+        "category": "tools",
+        "date": "2026-09-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/high-intensity-rowhammer-attack-on-gpus-leveraging-non-uniform-hammering-u-of-toronto"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "fabless"
         }
       },
       {
-        "title": "Hyundai Recalls Ioniq 9 EV Because Rear Seats Could Trap Children",
-        "blurb": "現代自動車、イオンク9 EVの後部座席が子供を閉じ込める可能性がありリコール。消費者からの苦情5件、軽傷2件の報告あり。",
-        "category": "company",
-        "date": "2026-09-21",
+        "title": "Cadence Automates RTL Creation and Early PPA Optimization",
+        "blurb": "CadenceがAIエージェントを拡張し、仕様からRTL生成・最適化まで自動化。PPA最適化と検証を支援。",
+        "category": "tools",
+        "date": "2026-09-23",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808955/hyundai-ioniq-9-ev-recall-child-trap-rear-seats"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Scania's New EV Truck Has 447 Miles Of Range",
-        "blurb": "スカニアが新型EVトラックを発表。航続距離は700km超でテスラセミを凌駕。",
-        "category": "company",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808918/scania-extended-range-ev-truck"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "This VW ID. Buzz Finished A 62,000-Mile World Trip With Nearly 96% Battery Health",
-        "blurb": "VWのEVバン「ID. Buzz」が62,000マイルの世界一周をほぼ満充電で完了。445日間で92カ国を訪問し、技術的な故障はゼロだった。",
-        "category": "company",
-        "date": "2026-09-21",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808905/vw-id-buzz-world-trip"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/cadence-automates-rtl-creation-and-early-ppa-optimization"
         },
         "field": null
-      },
+      }
+    ],
+    "company": [
       {
-        "title": "Volvo’s CEO Is Out. Again.",
-        "blurb": "ボルボのCEOが2年足らずで退任。退職から復帰し、ブランド再建を担っていた。",
+        "title": "TDK Expands Compact 500V Snap-In Capacitors for AI Servers",
+        "blurb": "TDKはAIサーバー向けに、高容量・高リプル電流対応の小型500Vスナップインコンデンサの新シリーズを発表しました。",
         "category": "company",
-        "date": "2026-09-21",
+        "date": "2026-09-22",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808886/volvo-cars-new-ceo-2027"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/tdk-expands-compact-500v-snap-in-capacitors-for-ai-servers"
         },
         "field": null
       },
       {
         "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
-        "blurb": "Georgia Techらの研究チームが、ホストメモリとHBMの同時アクセスでLLM推論を高速化するBOOSTを発表。",
+        "blurb": "米大学とNvidiaが、GPUメモリとホストメモリの同時アクセスでLLM推論を高速化する技術「BOOST」を発表。",
         "category": "company",
         "date": "2026-09-22",
         "stars": 3,
@@ -325,64 +217,58 @@
         }
       },
       {
-        "title": "This Chinese SUV Has Built-In Propellers So It Can Drive Across Water",
-        "blurb": "中国の吉利汽車、水陸両用SUV「バトルシップ700」を発表。船のように水上を航行可能。",
+        "title": "Wafer-Scale Sub-5nm Channel Monolayer MoS2 Transistors (CMU, UF, MIT et al.)",
+        "blurb": "CMU、フロリダ大、MITらが、シリコン限界を超えるサブ5nmチャネル長、2D MoS2トランジスタを発表。",
         "category": "company",
-        "date": "2026-09-22",
+        "date": "2026-09-23",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809021/geely-battleship-700-water-swim"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al"
         },
-        "field": null
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "These Absolutely Wild-Looking EVs Are Saudi Arabia's First Homegrown Cars",
-        "blurb": "サウジアラビア初の国産EV「Ceer Exobot」は、異形デザイン、850馬力、ヨークステアリングを備える。",
+        "title": "Designing Multi-kW Power Delivery In 3D Heterogeneously Integrated Systems (U. of Minnesota)",
+        "blurb": "ミネソタ大学の研究者は、3Dチップレットシステム向けに高出力（数キロワット）電力供給技術を発表しました。高密度化とピン数制限が課題です。",
         "category": "company",
-        "date": "2026-09-22",
+        "date": "2026-09-23",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809011/ceer-exobot-sedan-suv"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/designing-multi-kw-power-delivery-for-advanced-3d-chiplet-systems"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "Tesla Wants $50,000 Deposits For A Roadster Nobody Has Seen Yet",
-        "blurb": "テスラ、未公開の新型ロードスターの予約金を5万ドルに設定。2週間後に公開予定。",
+        "title": "MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops",
+        "blurb": "MediaTekがAI向け新SoC「Dimensity CX C10 Max」を発表。Googlebook向けで高性能・高効率を実現。",
         "category": "company",
-        "date": "2026-09-22",
+        "date": "2026-09-23",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808999/tesla-roadster-orders-reopen-50000"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops"
         },
-        "field": null
-      },
-      {
-        "title": "Tesla Cybercab Inherited One Of The Most Annoying Things About Owning A Tesla",
-        "blurb": "テスラのサイバーキャブ、既存テスラ車と同様のナビゲーション問題を引き継ぐ。奇妙なルート案内が報告されている。",
-        "category": "company",
-        "date": "2026-09-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/808696/tesla-cybercab-navigation-problems-issues"
-        },
-        "field": null
-      },
-      {
-        "title": "Rivian R3 Will Be Priced 'Materially Lower' Than R2, CEO Says",
-        "blurb": "リビアンCEO、新型EV「R3」は「R2」より大幅に低価格になると発言。さらに低価格な「R4」も計画。",
-        "category": "company",
-        "date": "2026-09-22",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809000/rivian-r3-price-materially-lower-than-r2-rj-scaringe"
-        },
-        "field": null
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
       }
     ],
     "sns": []

@@ -1,30 +1,70 @@
 {
-  "generated_at": "2026-09-22T08:48:53.183312+09:00",
+  "generated_at": "2026-09-23T08:28:57.802789+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Banana Pi BPI-AI2N SoM Features Renesas RZ/V2N SoC and 15 TOPS AI",
-    "summary": "Banana PiがRenesas RZ/V2N SoC搭載のAIモジュール「BPI-AI2N」を発表。15 TOPSのAI処理能力を持つ。",
+    "title": "High-Intensity Rowhammer Attack On GPUs Leveraging Non-uniform Hammering (U. of Toronto)",
+    "summary": "トロント大学の研究者が、GPUのメモリに影響を与える高強度のRowhammer攻撃「GPUThor」を発表。ECC保護されたGPUも標的となる。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/banana-pi-bpi-ai2n-som-features-renesas-rz-v2n-soc-and-15-tops-ai"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/high-intensity-rowhammer-attack-on-gpus-leveraging-non-uniform-hammering-u-of-toronto"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Banana Pi BPI-AI2N SoM Features Renesas RZ/V2N SoC and 15 TOPS AI",
-        "blurb": "Banana PiがRenesas RZ/V2N SoC搭載のAIモジュール「BPI-AI2N」を発表。15 TOPSのAI処理能力を持つ。",
+        "title": "MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops",
+        "blurb": "MediaTekがAI向け新SoC「Dimensity CX C10 Max」を発表。Googlebook向けで高性能・高効率を実現。",
         "category": "company",
-        "date": "2026-09-21",
+        "date": "2026-09-23",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/banana-pi-bpi-ai2n-som-features-renesas-rz-v2n-soc-and-15-tops-ai"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "High-Intensity Rowhammer Attack On GPUs Leveraging Non-uniform Hammering (U. of Toronto)",
+        "blurb": "トロント大学の研究者が、GPUのメモリに影響を与える高強度のRowhammer攻撃「GPUThor」を発表。ECC保護されたGPUも標的となる。",
+        "category": "tools",
+        "date": "2026-09-23",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/high-intensity-rowhammer-attack-on-gpus-leveraging-non-uniform-hammering-u-of-toronto"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "From Test Compression To Hierarchical Connectivity: Scaling SoC Test For AI And HPC Devices",
+        "blurb": "AI・HPC向けSoCテスト、圧縮に加え階層的接続による効率的なデータ配布が重要。",
+        "category": "business",
+        "date": "2026-09-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/from-test-compression-to-hierarchical-connectivity-scaling-soc-test-for-ai-and-hpc-devices"
         },
         "field": {
           "primary": "logic",
@@ -33,9 +73,25 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Chip Industry Technical Paper Roundup: Sept. 22",
+        "blurb": "AI熱モデリング、チップレット・AIアクセラレータ協調設計、BEOL熱伝導率、DRCエージェント修復、RLによるルーティング、LLMによるEDA、ニューロモルフィックコンピューティング向けチップレット相互接続など、半導体技術論文を紹介。",
+        "category": "business",
+        "date": "2026-09-22",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-22"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
