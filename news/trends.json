@@ -1,162 +1,159 @@
 {
-  "generated_at": "2026-09-23T08:29:01.983697+09:00",
-  "date": "2026-09-23",
+  "generated_at": "2026-09-24T08:25:45.533560+09:00",
+  "date": "2026-09-24",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体のEV普及加速",
+      "name": "AIによる設計・検証の高速化",
       "confidence": 0.95,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "frontend",
+        "backend"
+      ],
+      "summary": "AI技術を活用し、半導体設計・検証プロセスを大幅に短縮する動きが加速。設計期間の劇的な短縮や効率化が期待される。",
+      "analysis": {
+        "short_term": "AIツールの導入進展、設計期間短縮の実証が進む。",
+        "mid_term": "AIネイティブな設計フローが標準化、開発競争が激化。",
+        "investment_implications": "AI設計ツール関連企業への投資妙味増大。"
+      },
+      "keywords": [
+        "AI",
+        "設計自動化",
+        "検証",
+        "EDA"
+      ],
+      "companies_mentioned": [
+        "Architect Labs",
+        "Cadence",
+        "Synopsys",
+        "TSMC"
+      ]
+    },
+    {
+      "name": "SiCパワー半導体のEV普及加速",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
         "industrial"
       ],
-      "summary": "SiC（炭化ケイ素）パワー半導体のEV（電気自動車）への採用が急速に進展。300mm化や次世代EVへの搭載が加速し、業界の注目を集めている。",
+      "summary": "SiC（炭化ケイ素）パワー半導体の開発・量産化が進み、次世代EVへの採用が拡大。高効率化、小型化、コスト低減に貢献。",
       "analysis": {
-        "short_term": "採用拡大と供給能力増強の動きが続く。",
-        "mid_term": "EV市場の成長と共にSiC需要は高まる。",
-        "investment_implications": "SiC関連企業への投資妙味が増す。"
+        "short_term": "SiC採用EVモデルの発表・量産開始が増加。",
+        "mid_term": "SiCの300mm化、さらなるコスト低減が進み、EV以外への応用も拡大。",
+        "investment_implications": "SiC材料・デバイスメーカーの成長期待が高い。"
       },
       "keywords": [
         "SiC",
         "EV",
         "パワー半導体",
-        "車載"
+        "モーター駆動"
       ],
       "companies_mentioned": [
         "ローム",
         "BMW",
-        "レゾナック"
-      ]
-    },
-    {
-      "name": "AI・HPC向けチップ設計・テスト革新",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "datacenter",
-        "equipment",
-        "backend"
-      ],
-      "summary": "AI・HPC向けSoCの設計・テスト効率化が重要。AI、LLM、チップレット協調設計、階層的接続、RL活用などが進展。",
-      "analysis": {
-        "short_term": "AIによる設計・検証期間短縮が加速。",
-        "mid_term": "複雑化するSoCに対応する技術開発が続く。",
-        "investment_implications": "EDA、IP、設計サービス企業に注目。"
-      },
-      "keywords": [
-        "AI",
-        "HPC",
-        "SoC",
-        "チップレット",
-        "LLM",
-        "EDA"
-      ],
-      "companies_mentioned": [
-        "Architect Labs",
-        "NVIDIA",
-        "MediaTek",
-        "UCLA"
-      ]
-    },
-    {
-      "name": "次世代パッケージングと3D集積技術",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "logic",
-        "power",
-        "wafer",
-        "miniaturization"
-      ],
-      "summary": "異種ダイのウェーハ埋め込み、3Dチップレットシステム向け高電力供給技術、プラズマレスウェーハ接合など、高密度・高性能化技術が進展。",
-      "analysis": {
-        "short_term": "異種集積技術の実用化が進む。",
-        "mid_term": "3D集積による性能向上が期待される。",
-        "investment_implications": "先端パッケージング関連技術に注目。"
-      },
-      "keywords": [
-        "チップレット",
-        "3D集積",
-        "パッケージング",
-        "異種集積"
-      ],
-      "companies_mentioned": [
-        "オンセミ",
-        "ミネソタ大学",
-        "横浜国立大",
-        "KOKUSAI ELECTRIC"
-      ]
-    },
-    {
-      "name": "量子コンピューティングの商用化進展",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "logic",
-        "foundry",
-        "equipment"
-      ],
-      "summary": "商用300mmラインで量子チップの製造・基本動作実証が進む。シリコンベースの量子ビット技術が実用化へ向かう。",
-      "analysis": {
-        "short_term": "製造技術の確立と性能向上が焦点。",
-        "mid_term": "量子コンピューティングの応用分野が拡大。",
-        "investment_implications": "量子技術関連企業への長期投資妙味。"
-      },
-      "keywords": [
-        "量子コンピューティング",
-        "300mmライン",
-        "シリコン"
-      ],
-      "companies_mentioned": [
-        "Quobly",
+        "レゾナック",
         "STMicroelectronics"
       ]
     },
     {
-      "name": "半導体製造におけるロボティクス活用",
-      "confidence": 0.7,
+      "name": "ヘテロジニアス統合とチップレット技術",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "equipment",
-        "industrial",
-        "frontend",
-        "backend"
+        "logic",
+        "backend",
+        "automotive",
+        "datacenter",
+        "frontend"
       ],
-      "summary": "ロボット工学とインテリジェントな設備制御が、次世代ファブの生産性を向上。再現性、稼働率、歩留まり向上に貢献。",
+      "summary": "異なる機能を持つチップレットを統合するヘテロジニアス統合技術が進化。高密度化、高性能化、低コスト化を実現し、AI・HPC・車載分野で重要度増す。",
       "analysis": {
-        "short_term": "ファブ自動化・効率化の動きが加速。",
-        "mid_term": "生産性向上によるコスト削減効果が期待。",
-        "investment_implications": "FA・ロボット関連企業に恩恵。"
+        "short_term": "チップレット設計・実装技術の標準化が進展。",
+        "mid_term": "3D積層技術、高密度実装技術がさらに進化し、性能向上。",
+        "investment_implications": "チップレット設計・製造・パッケージング関連企業に注目。"
       },
       "keywords": [
-        "ロボティクス",
-        "ファブ",
-        "生産性向上",
-        "自動化"
+        "チップレット",
+        "ヘテロジニアス統合",
+        "3D積層",
+        "パッケージング"
       ],
       "companies_mentioned": [
-        "Lam Research"
+        "Onsemi",
+        "ミネソタ大学",
+        "Baya Systems"
+      ]
+    },
+    {
+      "name": "ハードウェアセキュリティの重要性増大",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "automotive",
+        "datacenter",
+        "industrial"
+      ],
+      "summary": "半導体設計の初期段階からハードウェアセキュリティを組み込む必要性が高まっている。サイバー攻撃への対策として不可欠。",
+      "analysis": {
+        "short_term": "セキュリティ設計ガイドラインの普及、認証技術の進化。",
+        "mid_term": "セキュアSoC設計が標準化、サプライチェーン全体でのセキュリティ強化。",
+        "investment_implications": "セキュリティIP・ソリューション提供企業に追い風。"
+      },
+      "keywords": [
+        "ハードウェアセキュリティ",
+        "SoC",
+        "サイバー攻撃",
+        "設計"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "次世代トランジスタ材料の開発",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "miniaturization",
+        "frontend",
+        "logic"
+      ],
+      "summary": "シリコンの限界を超えるサブ5nmチャネル長を持つ2D MoS₂トランジスタなどが開発されている。低消費電力化、高性能化に貢献。",
+      "analysis": {
+        "short_term": "新材料を用いたトランジスタの性能実証が進む。",
+        "mid_term": "量産技術の確立、次世代デバイスへの応用が本格化。",
+        "investment_implications": "新材料・次世代トランジスタ技術開発企業に注目。"
+      },
+      "keywords": [
+        "2D材料",
+        "MoS2",
+        "トランジスタ",
+        "低消費電力"
+      ],
+      "companies_mentioned": [
+        "CMU",
+        "フロリダ大",
+        "MIT"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "SiCパワー半導体のEV採用拡大",
-      "AI・HPC向け半導体需要の増加",
-      "次世代パッケージング技術の進展",
-      "量子コンピューティングの商用化加速"
+      "AIによる設計・検証プロセスの劇的な効率化",
+      "SiCパワー半導体のEV市場での採用拡大",
+      "ヘテロジニアス統合・チップレット技術の進化",
+      "次世代トランジスタ材料の研究開発進展"
     ],
     "bearish": [
-      "半導体誘致における日韓の官民連携課題"
+      "半導体誘致における日韓の官民のズレ（戦略実行の遅延リスク）"
     ],
     "neutral": [
-      "FPGAのSEU対策技術",
-      "IoT向け低電力センサーの進化"
+      "量子チップの商用300mmラインでの製造実証（実用化には時間要す）",
+      "GPUに対する高強度Rowhammer攻撃の発表（セキュリティ対策の重要性再認識）"
     ]
   },
-  "source_count": 35
+  "source_count": 48
 }

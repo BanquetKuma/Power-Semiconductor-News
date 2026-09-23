@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-09-23T08:28:57.802055+09:00",
+  "generated_at": "2026-09-24T08:25:40.738585+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
-    "summary": "米大学とNvidiaが、GPUメモリとホストメモリの同時アクセスでLLM推論を高速化する技術「BOOST」を発表。",
+    "title": "Lattice’s Mach-N2 FPGAs Add Post-Quantum Security to System Control",
+    "summary": "LatticeのFPGA「Mach-N2」は、量子コンピュータ耐性暗号を搭載し、長期的なインフラ設計に安全な制御機能を提供します。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford"
+        "name": "electronics-lab.com",
+        "url": "https://www.electronics-lab.com/lattices-mach-n2-fpgas-add-post-quantum-security-to-system-control"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
-        "blurb": "米大学とNvidiaが、GPUメモリとホストメモリの同時アクセスでLLM推論を高速化する技術「BOOST」を発表。",
+        "title": "Geely's New EV Charger Is Absurdly Powerful: 2.2 Megawatts",
+        "blurb": "吉利汽車、2.25メガワットの超急速EV充電システムを発表。BYDを凌駕する性能。",
         "category": "company",
-        "date": "2026-09-22",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/809271/geely-2-megawatt-smart-charging-system"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "Lattice’s Mach-N2 FPGAs Add Post-Quantum Security to System Control",
+        "blurb": "LatticeのFPGA「Mach-N2」は、量子コンピュータ耐性暗号を搭載し、長期的なインフラ設計に安全な制御機能を提供します。",
+        "category": "business",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/lattices-mach-n2-fpgas-add-post-quantum-security-to-system-control"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": "fabless"
+          "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
