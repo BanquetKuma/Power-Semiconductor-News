@@ -1,25 +1,44 @@
 {
-  "generated_at": "2026-09-24T08:25:40.739424+09:00",
+  "generated_at": "2026-09-25T08:45:22.063074+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "PCIe card brings edge AI acceleration to developers",
-    "summary": "BrainChipのAKD1500コプロセッサ搭載PCIeカードが登場。既存AIフレームワークで構築したモデルをエッジAIで実行可能に。",
+    "title": "エレファンテックが次世代AIサーバ基板向け製造装置",
+    "summary": "エレファンテックは次世代AIサーバ基板向けインクジェット印刷装置「DK100」を海外に初出荷。マイクロビア導電化技術に対応し、量産に向け顧客現場で立ち上げを開始。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/pcie-card-brings-edge-ai-acceleration-to-developers"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news051.html"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "エレファンテックが次世代AIサーバ基板向け製造装置",
+        "blurb": "エレファンテックは次世代AIサーバ基板向けインクジェット印刷装置「DK100」を海外に初出荷。マイクロビア導電化技術に対応し、量産に向け顧客現場で立ち上げを開始。",
+        "category": "company",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news051.html"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": "equipment",
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
     "tech": [
       {
         "title": "PCIe card brings edge AI acceleration to developers",
-        "blurb": "BrainChipのAKD1500コプロセッサ搭載PCIeカードが登場。既存AIフレームワークで構築したモデルをエッジAIで実行可能に。",
+        "blurb": "BrainChipのAKD1500 PCIe開発カードは、既存AIフレームワークで構築されたモデルを実行し、エッジAIアクセラレーションを開発者に提供します。",
         "category": "tools",
         "date": "2026-09-24",
         "stars": 3,

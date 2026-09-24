@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-21T07:58:00.641016+09:00",
+  "generated_at": "2026-09-25T08:45:22.063757+09:00",
   "field": "backend",
   "field_label": "後工程",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Unified Chiplet Network Scales Neuromorphic Computing Systems (Heidelberg University)",
-    "summary": "ハイデルベルク大学が、ニューロモルフィックコンピューティングシステムのスケーリングを可能にする統一チップレットネットワークを発表しました。",
+    "title": "Managing 3D-IC Design And IP",
+    "summary": "3D-IC設計とIP管理では、マルチチップレット統合のために設計データ管理、トレーサビリティ、改訂管理が不可欠です。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university"
+        "url": "https://semiengineering.com/managing-3d-ic-design-and-ip"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Unified Chiplet Network Scales Neuromorphic Computing Systems (Heidelberg University)",
-        "blurb": "ハイデルベルク大学が、ニューロモルフィックコンピューティングシステムのスケーリングを可能にする統一チップレットネットワークを発表しました。",
+        "title": "EdgeCortix Launches Scalable RAIDEN AI Chiplet Platform",
+        "blurb": "EdgeCortixが、データセンター外での物理AI向けに、スケーラブルで電力効率の高いAIチップレットプラットフォーム「RAIDEN」を発表。",
         "category": "company",
-        "date": "2026-09-20",
+        "date": "2026-09-25",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/edgecortix-launches-scalable-raiden-ai-chiplet-platform"
         },
         "field": {
           "primary": "backend",
@@ -35,7 +35,45 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "Managing 3D-IC Design And IP",
+        "blurb": "3D-IC設計とIP管理では、マルチチップレット統合のために設計データ管理、トレーサビリティ、改訂管理が不可欠です。",
+        "category": "tools",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/managing-3d-ic-design-and-ip"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "3D Chips Push EDA Into New Territory",
+        "blurb": "AIチップの3D化・チップレット化に伴い、EDAツールはクロスドメイン解析や高速探索、AI支援のために刷新されている。",
+        "category": "business",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/3d-chips-push-eda-into-new-territory"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

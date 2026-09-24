@@ -1,28 +1,46 @@
 {
-  "generated_at": "2026-09-24T08:25:40.737175+09:00",
+  "generated_at": "2026-09-25T08:45:22.061388+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Metal Oxide Varistors: Essential Elements in HVDC Circuit Breaking",
-    "summary": "HVDC回路遮断器において、酸化金属バリスタ（MOV）はサージ抑制とエネルギー吸収に不可欠な役割を果たします。",
+    "title": "ST’s Heterogeneously Integrated GaN Approach",
+    "summary": "STマイクロエレクトロニクスは、GaNとシリコンBCDを統合し、システムレベルでのヘテロジニアス統合を重視した製品を展開。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/metal-oxide-varistors-essential-elements-in-hvdc-circuit-breaking"
+        "url": "https://www.powerelectronicsnews.com/sts-heterogeneously-integrated-gan-approach"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Building A Connected, Contextual Data Backbone For AI-Driven Semiconductor Design",
-        "blurb": "AI時代の半導体設計のため、データ管理基盤の構築が重要。設計ライフサイクル全体でAI活用可能なデータ管理の必要性を説く。",
+        "title": "ST SiC Technology Enables 400 kW DG Matrix Interport Platform",
+        "blurb": "STのSiC技術により、400kWのDGマトリックス・インターポート・プラットフォームが実現。高密度電源用途で98.5%以上の効率。",
         "category": "business",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-sic-technology-enables-400kw-dg-matrix-interport-platform"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "A Network-on-Chip (NoC) For Multi-Die Devices",
+        "blurb": "マルチダイデバイス向けNoC技術。安定したインターフェースでダイ境界を越えたネイティブパケット転送を実現。",
+        "category": "business",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-a-connected-contextual-data-backbone-for-ai-driven-semiconductor-design"
+          "url": "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices"
         },
         "field": {
           "primary": "general",
@@ -33,106 +51,52 @@
         }
       },
       {
-        "title": "Blog Review: Sept. 23",
-        "blurb": "デジタルツイン、AIワークフロー、物理AI向け新シリコン、RF設計変更など、半導体技術の最新動向をレビュー。",
+        "title": "3D Chips Push EDA Into New Territory",
+        "blurb": "AIチップの3D化・チップレット化に伴い、EDAツールはクロスドメイン解析や高速探索、AI支援のために刷新されている。",
         "category": "business",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/blog-review-sept-23-3"
+          "url": "https://semiengineering.com/3d-chips-push-eda-into-new-territory"
         },
         "field": {
-          "primary": "general",
+          "primary": "backend",
           "device": null,
-          "process": null,
+          "process": "backend",
           "market": null,
           "industry": null
         }
-      },
-      {
-        "title": "With PEN nearing end-of-life, capacitors built on it must change",
-        "blurb": "PENフィルムの生産終了に伴い、コンデンサメーカーは代替品採用か、最新システム要求に合わせた再設計かの選択を迫られている。",
-        "category": "business",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/with-pen-nearing-end-of-life-capacitors-built-on-it-must-change"
-        },
-        "field": null
-      },
-      {
-        "title": "PHEV Batteries Take A Beating If Used Right. But They Still Last",
-        "blurb": "PHEVバッテリーはEVバッテリーより頻繁に充放電するため、劣化しやすい。しかし、適切な使用で寿命は延びる。",
-        "category": "business",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/806631/phev-battery-degradation-diaries"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Lattice’s Mach-N2 FPGAs Add Post-Quantum Security to System Control",
-        "blurb": "LatticeのFPGA「Mach-N2」は、量子コンピュータ耐性暗号を搭載し、長期的なインフラ設計に安全な制御機能を提供します。",
-        "category": "business",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/lattices-mach-n2-fpgas-add-post-quantum-security-to-system-control"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "8 Cheap EVs Were Driven Until They Died. One Stood Out",
-        "blurb": "フィアット・グランデ・パンダは、実走行テストで公式航続距離を上回り、注目を集めた。",
-        "category": "business",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809323/fiat-grande-panda-range-test"
-        },
-        "field": null
       }
     ],
     "tools": [
       {
-        "title": "Metal Oxide Varistors: Essential Elements in HVDC Circuit Breaking",
-        "blurb": "HVDC回路遮断器において、酸化金属バリスタ（MOV）はサージ抑制とエネルギー吸収に不可欠な役割を果たします。",
+        "title": "Managing 3D-IC Design And IP",
+        "blurb": "3D-IC設計とIP管理では、マルチチップレット統合のために設計データ管理、トレーサビリティ、改訂管理が不可欠です。",
         "category": "tools",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/metal-oxide-varistors-essential-elements-in-hvdc-circuit-breaking"
-        },
-        "field": null
-      },
-      {
-        "title": "Five Signals From The 2026 Functional Verification Study",
-        "blurb": "2026年機能検証スタディからの5つのシグナル。設計完了だけでなく、シリコン登場前にシステム理解が重要に。",
-        "category": "tools",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/five-signals-from-the-2026-functional-verification-study"
+          "url": "https://semiengineering.com/managing-3d-ic-design-and-ip"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "EDA’s Future Is Evidence-Driven Automation",
+        "blurb": "EDAの未来は証拠駆動型自動化。AIは半導体設計を加速するが、信頼には形式的証明、意味的連続性、監査可能なワークフローが必要。",
+        "category": "tools",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/edas-future-is-evidence-driven-automation"
         },
         "field": {
           "primary": "general",
@@ -143,14 +107,14 @@
         }
       },
       {
-        "title": "Build Secure SoCs From The Start",
-        "blurb": "半導体設計の初期段階からハードウェアセキュリティを確保するための実践的なガイド。",
+        "title": "AI-Driven Device Modeling For Next Generation Quantum Applications",
+        "blurb": "AIを活用した次世代量子応用向けデバイスモデリング。低温下でのハイブリッドANNアプローチでコンパクトモデルを抽出。",
         "category": "tools",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/build-secure-socs-from-the-start"
+          "url": "https://semiengineering.com/ai-driven-device-modeling-for-next-generation-quantum-applications"
         },
         "field": {
           "primary": "general",
@@ -161,14 +125,14 @@
         }
       },
       {
-        "title": "Multi-Agent AI Systems Must Work Like An Orchestra Without A Conductor",
-        "blurb": "指揮者なしのオーケストラのように機能するマルチエージェントAI。人間とAIの協調の境界線が課題。",
+        "title": "Autonomy Levels For Design Agents: L1 To L5 Explained",
+        "blurb": "設計エージェントの自律レベルL1～L5を解説。意思決定範囲、検証、支援要求、責任者を明確化。",
         "category": "tools",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/multi-agent-ai-systems-must-work-like-an-orchestra-without-a-conductor"
+          "url": "https://semiengineering.com/autonomy-levels-for-design-agents-l1-to-l5-explained"
         },
         "field": {
           "primary": "general",
@@ -179,74 +143,44 @@
         }
       },
       {
-        "title": "Make Your Interface Work For Your AI  SoC—A 10 Step Program: Verification With Simulation",
-        "blurb": "AI SoC向けインターフェースIP統合リスク低減と検証期間短縮の10ステッププログラム。シミュレーションによる検証。",
+        "title": "次の指令はメガネが教えてくれる 製造現場でAIスマートグラス活用",
+        "blurb": "製造現場でAIスマートグラス活用。作業員に次の指示を視覚的に提供し、DXを推進する。",
         "category": "tools",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/make-your-interface-work-for-your-ai-soc-a-10-step-program-verification-with-simulation"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news052.html"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "High-Intensity Rowhammer Attack On GPUs Leveraging Non-uniform Hammering (U. of Toronto)",
-        "blurb": "トロント大学の研究者が、GPUのメモリに影響を与える高強度Rowhammer攻撃「GPUThor」を発表。ECC保護されたGPUも標的となる。",
+        "title": "LEDs for under-cabinet illumination upgrades",
+        "blurb": "キャビネット下照明をLED化。長寿命、省電力、色温度調整可能で、既存照明との交換も容易。",
         "category": "tools",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/high-intensity-rowhammer-attack-on-gpus-leveraging-non-uniform-hammering-u-of-toronto"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "8 to 48 volt PWM relay/solenoid driver finds fault, pinches power",
-        "blurb": "8～48V対応PWMリレー/ソレノイドドライバは、開閉回路の異常を検出し、効率を向上させる。",
-        "category": "tools",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/8-to-48-volt-pwm-relay-solenoid-driver-finds-fault-pinches-power"
+          "url": "https://www.edn.com/leds-for-under-cabinet-illumination-upgrades"
         },
         "field": null
       },
       {
-        "title": "Where Developer Choice Broke Down in Embedded Software Development",
-        "blurb": "組み込み開発でWindows限定ツールチェーンが採用の障壁に。クロスプラットフォームIDEが解決策となる。",
+        "title": "How did antennas get so small?",
+        "blurb": "家電製品のアンテナは、目立つものから見えなくなるほど小型化しました。その進化の過程を解説します。",
         "category": "tools",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/where-developer-choice-broke-down-in-embedded-software-development"
-        },
-        "field": null
-      },
-      {
-        "title": "Cadence Automates RTL Creation and Early PPA Optimization",
-        "blurb": "CadenceがAIエージェントを拡張し、仕様からRTL生成・最適化まで自動化。PPA最適化と検証を支援。",
-        "category": "tools",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/cadence-automates-rtl-creation-and-early-ppa-optimization"
+          "name": "edn.com",
+          "url": "https://www.edn.com/how-did-antennas-get-so-small"
         },
         "field": null
       },
@@ -276,7 +210,7 @@
       },
       {
         "title": "PCIe card brings edge AI acceleration to developers",
-        "blurb": "BrainChipのAKD1500コプロセッサ搭載PCIeカードが登場。既存AIフレームワークで構築したモデルをエッジAIで実行可能に。",
+        "blurb": "BrainChipのAKD1500 PCIe開発カードは、既存AIフレームワークで構築されたモデルを実行し、エッジAIアクセラレーションを開発者に提供します。",
         "category": "tools",
         "date": "2026-09-24",
         "stars": 3,
@@ -294,7 +228,7 @@
       },
       {
         "title": "RaiderChip Tests Voice-Directed Robot Control on a GenAI NPU",
-        "blurb": "RaiderChipは、GenAI NPU上で音声指示によるロボット制御をテスト。言語と制御モデルを単一NPUで効率的にスケジューリング。",
+        "blurb": "RaiderChipは、GenAI NPU上で音声指示によるロボット制御をテスト。言語・制御モデルを単一NPUで効率的にスケジューリング。",
         "category": "tools",
         "date": "2026-09-24",
         "stars": 3,
@@ -313,32 +247,50 @@
     ],
     "company": [
       {
-        "title": "Wafer-Scale Sub-5nm Channel Monolayer MoS2 Transistors (CMU, UF, MIT et al.)",
-        "blurb": "CMU、フロリダ大、MITらが、シリコン限界を超えるサブ5nmチャネル長・低消費電力の2D MoS₂トランジスタを開発。",
+        "title": "ST’s Heterogeneously Integrated GaN Approach",
+        "blurb": "STマイクロエレクトロニクスは、GaNとシリコンBCDを統合し、システムレベルでのヘテロジニアス統合を重視した製品を展開。",
         "category": "company",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/sts-heterogeneously-integrated-gan-approach"
         },
         "field": {
-          "primary": "miniaturization",
-          "device": null,
-          "process": "miniaturization",
+          "primary": "power",
+          "device": "power",
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Designing Multi-kW Power Delivery In 3D Heterogeneously Integrated Systems (U. of Minnesota)",
-        "blurb": "ミネソタ大学の研究者は、3Dチップレットシステム向けに高出力（数キロワット）電力供給技術を発表しました。高密度化とピン数制限が課題です。",
+        "title": "Power Corner: Teledyne on Building GaN for the New Space Era",
+        "blurb": "Teledyneが宇宙時代のGaN開発について解説。放射線硬化、ゲートドライバ設計、TSMC撤退が宇宙電力に影響。",
         "category": "company",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-corner-teledyne-hirel-on-building-gan-for-the-new-space-era"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "When AI Agents Cross Chip Design Silos",
+        "blurb": "AIエージェントがチップ設計分野に進出。専門化と連携が重要視される一方、調整、制御、信頼性が課題。",
+        "category": "company",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/designing-multi-kw-power-delivery-for-advanced-3d-chiplet-systems"
+          "url": "https://semiengineering.com/when-ai-agents-cross-chip-design-silos"
         },
         "field": {
           "primary": "general",
@@ -349,166 +301,76 @@
         }
       },
       {
-        "title": "MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops",
-        "blurb": "MediaTekがAI向け新SoC「Dimensity CX C10 Max」を発表。Googlebook向けで高性能・高効率を実現。",
+        "title": "富士フイルム、インドに初の半導体材料工場建設へ",
+        "blurb": "富士フイルムはインドに約130億円を投じ、初の半導体材料工場を新設する。",
         "category": "company",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news090.html"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "Quectel SH602FA and SE505FE MediaTek-Powered Modules for IoT",
-        "blurb": "QuectelがMediaTek製プロセッサ搭載のIoTモジュールSH602FAとSE505FEを発表。高速セルラー通信、マルチメディア、Android 16に対応。",
-        "category": "company",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/quectel-sh602fa-and-se505fe-mediatek-powered-modules-for-iot"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "The New BMW i3 EV Is Coming To The U.S. Sooner Than Expected",
-        "blurb": "BMWの新型EV「i3」が予想より早く米国で予約受付開始。ドイツの自動車メーカーが、スタイリッシュな電気セダンの注文受付を前倒しする。",
-        "category": "company",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809247/bmw-i3-us-reservations-sooner-than-expected"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "Volkswagen Is Now Selling More EVs Than Gas Cars In Germany. That Changes The Plan",
-        "blurb": "独フォルクスワーゲン、ドイツ国内でEV販売がガソリン車を上回る。生産計画の見直しが必要に。",
+        "title": "ルネサスが超小型「GreenPAK」、設定書き換え何度でも",
+        "blurb": "ルネサスが設定書き換え可能な超小型IC「GreenPAK」新製品を発表。1.155mm角でマルチタイムプログラマブル機能を搭載。2026年11月量産開始。",
         "category": "company",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809219/vw-more-orders-evs-combustion-cars-germany"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news085.html"
         },
         "field": null
       },
       {
-        "title": "The BMW iX3 Beat Mercedes And Volvo On Efficiency And Range In A Highway Test",
-        "blurb": "BMW iX3が高速道路テストでメルセデスとボルボより効率と航続距離で優位。消費電力低くバッテリー容量も大きい。",
+        "title": "エレファンテックが次世代AIサーバ基板向け製造装置",
+        "blurb": "エレファンテックは次世代AIサーバ基板向けインクジェット印刷装置「DK100」を海外に初出荷。マイクロビア導電化技術に対応し、量産に向け顧客現場で立ち上げを開始。",
         "category": "company",
-        "date": "2026-09-23",
+        "date": "2026-09-24",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809214/ix3-glc-ex60-highway-range"
-        },
-        "field": null
-      },
-      {
-        "title": "The Tesla Semi Just Got A Massive Boost From The Biggest U.S. Electric Truck Order Ever",
-        "blurb": "米大手トラック会社がテスラセミを過去最大数発注。米国内の電動トラック数を倍増させる見込み。",
-        "category": "company",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809205/largest-electric-truck-order-us-tesla-semi"
-        },
-        "field": null
-      },
-      {
-        "title": "Mercedes Taps Wayve For Tesla FSD-Like System Within 2 Years",
-        "blurb": "メルセデス・ベンツは2年以内にテスラのような自動運転システムを搭載するため、Wayveと提携。Nvidiaとも同様の契約を結んでいる。",
-        "category": "company",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809174/mercedes-taps-wayve-for-tesla-fsd-like-driver-assistance"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news051.html"
         },
         "field": {
-          "primary": "fabless",
+          "primary": "ai",
           "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Rivian Says The R2 Has Half The Carbon Footprint Of An R1S",
-        "blurb": "Rivianの新型EV「R2」は、既存モデル「R1S」の半分の二酸化炭素排出量で、同社の目標達成を4年早めたと報告。",
-        "category": "company",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809176/rivian-r2-half-carbon-footprint"
-        },
-        "field": null
-      },
-      {
-        "title": "Teslas Are Way More Likely To Have Salvage Titles: Report",
-        "blurb": "テスラ車の約20%がオークションでサルベージタイトル付きで出品されており、業界平均の2倍以上であることが判明しました。",
-        "category": "company",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809165/tesla-salvage-title-auction-rate"
-        },
-        "field": null
-      },
-      {
-        "title": "Toyota Is Reportedly Getting Into EREVs. Here's What We Know",
-        "blurb": "トヨタが中国でレンジエクステンダーEV（EREV）市場に参入する見込み。EREVは中国で人気が高まっている。",
-        "category": "company",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809159/toyota-build-erevs-china"
-        },
-        "field": null
-      },
-      {
-        "title": "High-Mileage EVs May Hold Up Better Than Gas Cars: Study",
-        "blurb": "英の研究によると、高走行距離のEVはガソリン車より耐久性が高い可能性があり、EVの寿命への懸念は過剰であると示唆された。",
-        "category": "company",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809127/ev-durability-gas-uk-study"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
+          "process": "equipment",
+          "market": "ai",
           "industry": null
         }
+      },
+      {
+        "title": "三菱電機、量子コンピュータ大規模化へ研究加速",
+        "blurb": "三菱電機はNEDOのプロジェクトを通じ、量子コンピュータの大規模化と産業応用を目指す研究開発を加速させる。",
+        "category": "company",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news023.html"
+        },
+        "field": null
+      },
+      {
+        "title": "圧力をかけると明るく光り発光色も変わる結晶、大阪大",
+        "blurb": "阪大などの研究グループが、圧力をかけると発光色が変わる結晶を発見。圧力計や偽造防止材料への応用が期待される。",
+        "category": "company",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news022.html"
+        },
+        "field": null
       },
       {
         "title": "AI agent automates PPA-driven RTL generation",
@@ -547,6 +409,18 @@
         }
       },
       {
+        "title": "Why Software-Defined Vehicles Need a New Security Foundation",
+        "blurb": "ソフトウェア定義車両(SDV)は、継続的なソフトウェア更新と常時接続により攻撃対象領域が拡大し、セキュリティ基盤の見直しが必要。",
+        "category": "company",
+        "date": "2026-09-24",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/why-software-defined-vehicles-need-a-new-security-foundation"
+        },
+        "field": null
+      },
+      {
         "title": "Synopsys, TSMC Advance Agentic AI for Chip Design",
         "blurb": "シノプシスとTSMCは、AIやHPC向け半導体開発を加速するため、エージェンティックAIを活用したEDAフローを共同で推進する。",
         "category": "company",
@@ -565,68 +439,20 @@
         }
       },
       {
-        "title": "Nissan's Newest EV Isn't Actually A Nissan",
-        "blurb": "日産、最新EVは実はルノー製。LFPバッテリー搭載の小型シティカー「ピクソ」が登場。",
+        "title": "EdgeCortix Launches Scalable RAIDEN AI Chiplet Platform",
+        "blurb": "EdgeCortixが、データセンター外での物理AI向けに、スケーラブルで電力効率の高いAIチップレットプラットフォーム「RAIDEN」を発表。",
         "category": "company",
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809325/nissan-newest-ev-pixo-renault-twingo-twin"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/edgecortix-launches-scalable-raiden-ai-chiplet-platform"
         },
         "field": {
-          "primary": "automotive",
+          "primary": "backend",
           "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Bentley’s First EV Charges Faster Than You Can Finish Lunch",
-        "blurb": "ベントレー初のEVは、豪華なミッドサイズSUV「トルカル」。ランチ中に充電完了するほどの急速充電性能。",
-        "category": "company",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809318/bentley-torcal-midsize-suv-fast-charging"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Rivian R2 Just Got Its First Recall",
-        "blurb": "リビアン、カメラ不具合で約9万9千台をリコール。新型R2も対象。",
-        "category": "company",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809297/rivian-r1-r2-recall-camera"
-        },
-        "field": null
-      },
-      {
-        "title": "Geely's New EV Charger Is Absurdly Powerful: 2.2 Megawatts",
-        "blurb": "吉利汽車、2.25メガワットの超急速EV充電システムを発表。BYDを凌駕する性能。",
-        "category": "company",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809271/geely-2-megawatt-smart-charging-system"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "automotive",
+          "process": "backend",
+          "market": null,
           "industry": null
         }
       }

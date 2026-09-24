@@ -1,39 +1,21 @@
 {
-  "generated_at": "2026-09-24T08:25:40.739098+09:00",
+  "generated_at": "2026-09-25T08:45:22.062764+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Make Your Interface Work For Your AI  SoC—A 10 Step Program: Verification With Simulation",
-    "summary": "AI SoC向けインターフェースIP統合リスク低減と検証期間短縮の10ステッププログラム。シミュレーションによる検証。",
+    "title": "Vision AI ASIC enables always-on vehicle security",
+    "summary": "Omnivisionの低消費電力ASIC「OAX7700」は、常時稼働する車載セキュリティ向けビジョンAIプロセッサです。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/make-your-interface-work-for-your-ai-soc-a-10-step-program-verification-with-simulation"
+        "name": "edn.com",
+        "url": "https://www.edn.com/vision-ai-asic-enables-always-on-vehicle-security"
       }
     ]
   },
   "sections": {
     "news": [
-      {
-        "title": "MediaTek Debuts CX C10 SoC for AI-First Googlebook Laptops",
-        "blurb": "MediaTekがAI向け新SoC「Dimensity CX C10 Max」を発表。Googlebook向けで高性能・高効率を実現。",
-        "category": "company",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mediatek-debuts-cx-c10-soc-for-ai-first-googlebook-laptops"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
       {
         "title": "Vision AI ASIC enables always-on vehicle security",
         "blurb": "Omnivisionの低消費電力ASIC「OAX7700」は、常時稼働する車載セキュリティ向けビジョンAIプロセッサです。",
@@ -55,44 +37,8 @@
     ],
     "tech": [
       {
-        "title": "Make Your Interface Work For Your AI  SoC—A 10 Step Program: Verification With Simulation",
-        "blurb": "AI SoC向けインターフェースIP統合リスク低減と検証期間短縮の10ステッププログラム。シミュレーションによる検証。",
-        "category": "tools",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/make-your-interface-work-for-your-ai-soc-a-10-step-program-verification-with-simulation"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "High-Intensity Rowhammer Attack On GPUs Leveraging Non-uniform Hammering (U. of Toronto)",
-        "blurb": "トロント大学の研究者が、GPUのメモリに影響を与える高強度Rowhammer攻撃「GPUThor」を発表。ECC保護されたGPUも標的となる。",
-        "category": "tools",
-        "date": "2026-09-23",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/high-intensity-rowhammer-attack-on-gpus-leveraging-non-uniform-hammering-u-of-toronto"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
         "title": "RaiderChip Tests Voice-Directed Robot Control on a GenAI NPU",
-        "blurb": "RaiderChipは、GenAI NPU上で音声指示によるロボット制御をテスト。言語と制御モデルを単一NPUで効率的にスケジューリング。",
+        "blurb": "RaiderChipは、GenAI NPU上で音声指示によるロボット制御をテスト。言語・制御モデルを単一NPUで効率的にスケジューリング。",
         "category": "tools",
         "date": "2026-09-24",
         "stars": 3,
