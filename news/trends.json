@@ -1,122 +1,127 @@
 {
-  "generated_at": "2026-09-25T08:45:28.768433+09:00",
-  "date": "2026-09-25",
+  "generated_at": "2026-09-26T08:48:06.307151+09:00",
+  "date": "2026-09-26",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体の進化と普及",
+      "name": "AIによる設計・製造プロセスの自動化・高速化",
       "confidence": 0.95,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "automotive",
-        "datacenter"
-      ],
-      "summary": "GaNやSiCといった次世代パワー半導体の技術開発と実用化が加速。高効率化、小型化が進み、EVやデータセンターなど幅広い分野で採用が拡大。",
-      "analysis": {
-        "short_term": "EV向けSiC需要が堅調。GaNはデータセンター向けで採用増。",
-        "mid_term": "車載・産業機器向けでSiC/GaNの競争激化。新興材料も登場。",
-        "investment_implications": "SiC/GaN関連技術・材料・製造装置メーカーに注目。"
-      },
-      "keywords": [
-        "GaN",
-        "SiC",
-        "EV",
-        "データセンター",
-        "高効率"
-      ],
-      "companies_mentioned": [
-        "STMicroelectronics",
-        "Teledyne",
-        "BMW",
-        "ローム"
-      ]
-    },
-    {
-      "name": "AI・マルチエージェントによる設計自動化",
-      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
         "frontend",
         "backend",
-        "equipment"
+        "equipment",
+        "datacenter"
       ],
-      "summary": "AIエージェントがチップ設計プロセス全体に浸透。RTL生成、検証、モデリングなどを自動化し、設計期間短縮と効率化を実現。",
+      "summary": "AIエージェントがRTL生成、検証、デバイスモデリングなどを自動化し、設計期間短縮と効率向上を実現。EDAツールもAI活用で進化。",
       "analysis": {
-        "short_term": "AIによるRTL生成・検証ツールが普及開始。",
-        "mid_term": "マルチエージェントシステムが設計ワークフローを刷新。",
-        "investment_implications": "EDAツールベンダー、AI設計プラットフォーム企業に期待。"
+        "short_term": "設計期間短縮の初期効果が出始める。",
+        "mid_term": "AIによる設計品質・性能向上が本格化。",
+        "investment_implications": "AI設計ツール/EDA企業に注目。"
       },
       "keywords": [
         "AI",
         "EDA",
         "自動化",
-        "設計",
-        "検証",
-        "マルチエージェント"
+        "設計高速化",
+        "RTL生成"
       ],
       "companies_mentioned": [
         "Cadence",
         "Architect Labs",
-        "富士フイルム"
+        "Applied Materials",
+        "TUM",
+        "UNIMORE"
       ]
     },
     {
-      "name": "3D-IC・チップレット化の進展",
-      "confidence": 0.88,
+      "name": "次世代パワー半導体（SiC/GaN）の進化と応用拡大",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial",
+        "datacenter"
+      ],
+      "summary": "SiC/GaN技術は高効率化・高密度化を進め、EV、データセンター、宇宙分野などでの採用が加速。",
+      "analysis": {
+        "short_term": "EV向け採用拡大とデータセンター向け需要増。",
+        "mid_term": "次世代EV、再生可能エネルギー分野での標準化。",
+        "investment_implications": "SiC/GaNウェーハ、デバイスメーカーに期待。"
+      },
+      "keywords": [
+        "SiC",
+        "GaN",
+        "EV",
+        "高効率",
+        "データセンター"
+      ],
+      "companies_mentioned": [
+        "STMicroelectronics",
+        "Teledyne",
+        "住友金属鉱山",
+        "第一稀元素化学工業"
+      ]
+    },
+    {
+      "name": "AIインフラ向け電源・冷却ソリューションの統合",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "power",
+        "ai",
+        "equipment"
+      ],
+      "summary": "AIデータセンターの電力・冷却需要増に対応するため、800VDC電源や統合冷却システムなど、インフラ全体の最適化が進む。",
+      "analysis": {
+        "short_term": "AI工場向けプレハブインフラの需要増。",
+        "mid_term": "データセンターの電力効率・冷却性能が競争力に。",
+        "investment_implications": "データセンターインフラ関連企業に追い風。"
+      },
+      "keywords": [
+        "AIデータセンター",
+        "電源",
+        "冷却",
+        "800VDC",
+        "インフラ"
+      ],
+      "companies_mentioned": [
+        "Delta",
+        "三菱電機",
+        "NVIDIA"
+      ]
+    },
+    {
+      "name": "3D-IC/チップレット設計・製造技術の進展",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "backend",
-        "logic",
         "frontend",
-        "equipment"
+        "logic",
+        "datacenter",
+        "ai"
       ],
-      "summary": "AIチップを中心に3D-ICやチップレット化が進展。マルチダイ統合、設計データ管理、EDAツールの進化が不可欠。",
+      "summary": "マルチチップレット統合のため、NoC技術や3D-IC設計・IP管理手法が進化。EDAツールも対応を強化。",
       "analysis": {
-        "short_term": "高性能AIチップで3D-IC採用が増加。",
-        "mid_term": "チップレットエコシステムの構築と標準化が進む。",
-        "investment_implications": "先端パッケージング技術、EDA、材料関連企業が恩恵。"
+        "short_term": "高性能AIチップでのチップレット採用が増加。",
+        "mid_term": "3D-IC設計・検証の標準化と効率化が進む。",
+        "investment_implications": "チップレット設計・製造関連技術に注目。"
       },
       "keywords": [
         "3D-IC",
         "チップレット",
-        "マルチダイ",
-        "パッケージング",
+        "NoC",
+        "設計",
         "EDA"
       ],
       "companies_mentioned": [
-        "STMicroelectronics",
-        "KOKUSAI ELECTRIC",
-        "横浜国立大"
-      ]
-    },
-    {
-      "name": "製造現場のDX推進と自動化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "equipment",
-        "industrial",
-        "frontend",
-        "backend"
-      ],
-      "summary": "製造現場でのAIスマートグラス活用や、インクジェット印刷装置による次世代基板製造など、DXと自動化が進展。",
-      "analysis": {
-        "short_term": "スマートグラスによる作業支援が現場で普及。",
-        "mid_term": "AIを活用した製造装置の高度化が進む。",
-        "investment_implications": "製造装置、IoTソリューションプロバイダーに注目。"
-      },
-      "keywords": [
-        "DX",
-        "AI",
-        "スマートグラス",
-        "製造装置",
-        "自動化"
-      ],
-      "companies_mentioned": [
-        "エレファンテック",
-        "Lam Research"
+        "Applied Materials",
+        "TUM",
+        "UNIMORE"
       ]
     },
     {
@@ -127,44 +132,43 @@
         "geopolitics",
         "foundry",
         "fabless",
-        "frontend",
-        "backend"
+        "equipment",
+        "memory"
       ],
-      "summary": "半導体サプライチェーンの安定化に向けた各国の誘致合戦が続く一方、官民連携の課題も浮き彫り。",
+      "summary": "供給網の逼迫と地政学リスクから、各国・地域での生産拠点分散や技術連携の動きが加速。",
       "analysis": {
-        "short_term": "地政学リスクによる供給懸念は継続。",
-        "mid_term": "国内生産拠点化の動きは続くが、コスト競争力が課題。",
-        "investment_implications": "サプライチェーンの多様化・強靭化に貢献する企業が有利。"
+        "short_term": "特定地域への依存リスクが顕在化。",
+        "mid_term": "サプライチェーンの多様化・強靭化が進む。",
+        "investment_implications": "地域分散化の恩恵を受ける企業に注目。"
       },
       "keywords": [
-        "地政学",
         "サプライチェーン",
-        "工場誘致",
-        "官民連携",
-        "国内生産"
+        "地政学リスク",
+        "生産拠点",
+        "中国",
+        "インド"
       ],
       "companies_mentioned": [
-        "富士フイルム",
-        "韓国",
-        "日本"
+        "TSMC",
+        "CXMT",
+        "富士フイルム"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体（SiC/GaN）の需要拡大",
-      "AI・自動化技術による設計効率の向上",
-      "3D-IC・チップレット化の進展による高性能化",
-      "EV市場の成長に伴う車載半導体需要増"
+      "AIによる設計・製造プロセスの自動化・高速化の加速",
+      "次世代パワー半導体（SiC/GaN）のEV、データセンター等での採用拡大",
+      "AIインフラ向け電源・冷却ソリューションの需要増",
+      "3D-IC/チップレット技術の高性能AIチップへの適用拡大",
+      "中国メモリメーカーのNANDフラッシュ市場参入検討（供給逼迫緩和の可能性）"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "半導体製造における人材不足とコスト増"
+      "半導体誘致における日韓の官民のズレ（政策実行の遅延リスク）"
     ],
     "neutral": [
-      "量子コンピューティング向け半導体開発の進展",
-      "宇宙分野におけるGaN採用の可能性"
+      "宇宙向けIC、光学技術、自動PQC、人材育成など多角的な技術開発の進展"
     ]
   },
-  "source_count": 33
+  "source_count": 46
 }

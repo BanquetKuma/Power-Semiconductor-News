@@ -1,66 +1,30 @@
 {
-  "generated_at": "2026-09-25T08:45:22.064161+09:00",
+  "generated_at": "2026-09-26T08:48:01.795840+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "A Network-on-Chip (NoC) For Multi-Die Devices",
-    "summary": "マルチダイデバイス向けNoC技術。安定したインターフェースでダイ境界を越えたネイティブパケット転送を実現。",
+    "title": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (TUM, UNIMORE, Applied Materials)",
+    "summary": "TUM、UNIMORE、Applied MaterialsがA7 CFETとA10 Nanosheet FETの寄生抵抗・容量・信頼性を評価する技術論文を発表。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices"
+        "url": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "When AI Agents Cross Chip Design Silos",
-        "blurb": "AIエージェントがチップ設計分野に進出。専門化と連携が重要視される一方、調整、制御、信頼性が課題。",
+        "title": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (TUM, UNIMORE, Applied Materials)",
+        "blurb": "TUM、UNIMORE、Applied MaterialsがA7 CFETとA10 Nanosheet FETの寄生抵抗・容量・信頼性を評価する技術論文を発表。",
         "category": "company",
-        "date": "2026-09-24",
+        "date": "2026-09-26",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/when-ai-agents-cross-chip-design-silos"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "富士フイルム、インドに初の半導体材料工場建設へ",
-        "blurb": "富士フイルムはインドに約130億円を投じ、初の半導体材料工場を新設する。",
-        "category": "company",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news090.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI agent automates PPA-driven RTL generation",
-        "blurb": "Cadenceは、シリコン設計・検証向けAIプラットフォームにPPA駆動RTL生成エージェントを追加しました。",
-        "category": "company",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-agent-automates-ppa-driven-rtl-generation"
+          "url": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials"
         },
         "field": {
           "primary": "general",
@@ -71,90 +35,17 @@
         }
       }
     ],
-    "tech": [
-      {
-        "title": "EDA’s Future Is Evidence-Driven Automation",
-        "blurb": "EDAの未来は証拠駆動型自動化。AIは半導体設計を加速するが、信頼には形式的証明、意味的連続性、監査可能なワークフローが必要。",
-        "category": "tools",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/edas-future-is-evidence-driven-automation"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AI-Driven Device Modeling For Next Generation Quantum Applications",
-        "blurb": "AIを活用した次世代量子応用向けデバイスモデリング。低温下でのハイブリッドANNアプローチでコンパクトモデルを抽出。",
-        "category": "tools",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ai-driven-device-modeling-for-next-generation-quantum-applications"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Autonomy Levels For Design Agents: L1 To L5 Explained",
-        "blurb": "設計エージェントの自律レベルL1～L5を解説。意思決定範囲、検証、支援要求、責任者を明確化。",
-        "category": "tools",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/autonomy-levels-for-design-agents-l1-to-l5-explained"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "次の指令はメガネが教えてくれる 製造現場でAIスマートグラス活用",
-        "blurb": "製造現場でAIスマートグラス活用。作業員に次の指示を視覚的に提供し、DXを推進する。",
-        "category": "tools",
-        "date": "2026-09-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/24/news052.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
+    "tech": [],
     "market": [
       {
-        "title": "A Network-on-Chip (NoC) For Multi-Die Devices",
-        "blurb": "マルチダイデバイス向けNoC技術。安定したインターフェースでダイ境界を越えたネイティブパケット転送を実現。",
+        "title": "26年Q2の半導体世界ランキングから読み取る「本当の勝者」",
+        "blurb": "26年Q2半導体ランキングはChatGPT登場で勢力図が激変。TSMCやメモリメーカー不在の背景に、産業構造の根本的変化が浮き彫りに。",
         "category": "business",
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news025.html"
         },
         "field": {
           "primary": "general",

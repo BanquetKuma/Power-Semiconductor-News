@@ -1,60 +1,77 @@
 {
-  "generated_at": "2026-09-25T08:45:22.062764+09:00",
+  "generated_at": "2026-09-26T08:48:01.793556+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Vision AI ASIC enables always-on vehicle security",
-    "summary": "Omnivisionの低消費電力ASIC「OAX7700」は、常時稼働する車載セキュリティ向けビジョンAIプロセッサです。",
+    "title": "三菱電機、NVIDIA対応AIデータセンターの電力／冷却を丸ごと設計",
+    "summary": "三菱電機、NVIDIA対応AIデータセンター向け電力・冷却統合設計を開発。チップから系統接続までをカバー。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/vision-ai-asic-enables-always-on-vehicle-security"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news115.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Vision AI ASIC enables always-on vehicle security",
-        "blurb": "Omnivisionの低消費電力ASIC「OAX7700」は、常時稼働する車載セキュリティ向けビジョンAIプロセッサです。",
+        "title": "三菱電機、NVIDIA対応AIデータセンターの電力／冷却を丸ごと設計",
+        "blurb": "三菱電機、NVIDIA対応AIデータセンター向け電力・冷却統合設計を開発。チップから系統接続までをカバー。",
         "category": "company",
-        "date": "2026-09-24",
+        "date": "2026-09-25",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/vision-ai-asic-enables-always-on-vehicle-security"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news115.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "datacenter",
           "industry": null
         }
-      }
-    ],
-    "tech": [
+      },
       {
-        "title": "RaiderChip Tests Voice-Directed Robot Control on a GenAI NPU",
-        "blurb": "RaiderChipは、GenAI NPU上で音声指示によるロボット制御をテスト。言語・制御モデルを単一NPUで効率的にスケジューリング。",
-        "category": "tools",
-        "date": "2026-09-24",
+        "title": "Seeed Studio reComputer RK3576 Dev Kit Adds 20 TOPS RK1820 AI Accelerator",
+        "blurb": "Seeed StudioがRK3576とRK1820 AIアクセラレータ搭載の開発キットを発表。エッジAI処理に最適。",
+        "category": "company",
+        "date": "2026-09-25",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/seeed-studio-recomputer-rk3576-dev-kit-adds-20-tops-rk1820-ai-accelerator"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Ezurio Unveils BL54LM20 Bluetooth LE Modules",
+        "blurb": "EzurioがBluetooth LEモジュール新シリーズ「BL54LM20」を発表。AI対応モデルも提供。",
+        "category": "company",
+        "date": "2026-09-26",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/raiderchip-tests-voice-directed-robot-control-on-a-genai-npu"
+          "url": "https://www.embedded.com/ezurio-unveils-bl54lm20-bluetooth-le-modules"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
+          "market": "ai",
           "industry": null
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }
