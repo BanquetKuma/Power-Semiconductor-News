@@ -1,223 +1,19 @@
 {
-  "generated_at": "2026-09-26T08:48:01.790937+09:00",
+  "generated_at": "2026-09-27T08:22:23.369278+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Delta Integrates 800-VDC Power and Cooling for AI Factories",
-    "summary": "デルタがAI工場向けに800VDC電源と冷却を統合。NVIDIA DSX工場をサポートするプレハブインフラ。",
+    "title": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (TUM, UNIMORE, Applied Materials)",
+    "summary": "TUMらがCFETとNanosheet FETの寄生抵抗・容量・信頼性を評価する技術論文を発表。チップ性能向上へ。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/delta-integrates-800-vdc-power-and-cooling-for-ai-factories"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials"
       }
     ]
   },
   "sections": {
     "business": [
-      {
-        "title": "Microchip Adds Energy Monitoring to 48V Power Systems",
-        "blurb": "マイクロチップ社が48V電源システム向けに、負荷変動や長期的な電力挙動をリアルタイムで監視できるエネルギー監視機能を追加。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/microchip-adds-energy-monitoring-to-48v-power-systems"
-        },
-        "field": null
-      },
-      {
-        "title": "High-Voltage Conversion Drives T&D Modernization",
-        "blurb": "高電圧変換技術が送配電網の近代化を推進。HVDC変換器や固体変圧器などが活用されている。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/high-voltage-conversion-drives-td-modernization"
-        },
-        "field": null
-      },
-      {
-        "title": "High-Voltage Conversion Drives T&D Modernization, Metal Oxide Varistors, Power Rail Sequencing and Ripple Characterization with Oscilloscopes: Power Electronics Week Insights",
-        "blurb": "高電圧変換技術が送配電網の近代化を推進。酸化物バリスタ、電源レールのシーケンス、オシロスコープによるリップル特性評価に関する最新動向。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/high-voltage-conversion-drives-td-modernization-metal-oxide-varistors-power-rail-sequencing-and-ripple-characterization-with-oscilloscopes-power-electronics-week-insights"
-        },
-        "field": null
-      },
-      {
-        "title": "Chip Industry Week In Review",
-        "blurb": "AIが半導体設計に進出。中国はAI計算・メモリを強化。供給網は逼迫。TSMC提携加速、宇宙向けIC、光学技術、自動PQC、人材育成も進む。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-157"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "中国のDRAM大手CXMT、NANDフラッシュに参入か",
-        "blurb": "中国DRAM大手のCXMTがNANDフラッシュ市場参入を検討。メモリ不足の中、中国大手メモリ2社の事業領域進出が加速。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news060.html"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "日本は「課題先進国」だけど「導入後進国」なのか",
-        "blurb": "日本は課題先進国だが、技術導入では後進国との指摘。DX推進には、経営層の理解と現場への浸透が不可欠。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news080.html"
-        },
-        "field": null
-      },
-      {
-        "title": "26年Q2の半導体世界ランキングから読み取る「本当の勝者」",
-        "blurb": "26年Q2半導体ランキングはChatGPT登場で勢力図が激変。TSMCやメモリメーカー不在の背景に、産業構造の根本的変化が浮き彫りに。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news025.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "量子コンピュータと量子暗号（後編）",
-        "blurb": "実装技術ロードマップの「量子コンピュータと量子暗号」後編。2026年度版の概要を解説。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news030.html"
-        },
-        "field": null
-      },
-      {
-        "title": "三菱ケミカル、次世代光通信向け材料新興に出資",
-        "blurb": "三菱ケミカルが次世代光通信材料の新興企業NLM Photonicsに出資。AIデータセンター向け市場での技術優位性を強化する。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news043.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "More cost-effective OIS brings better photo/video quality to mobile devices",
-        "blurb": "低コストな手ぶれ補正(OIS)がモバイル機器の写真・動画品質を向上させ、需要増に対応。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/more-cost-effective-ois-brings-better-photo-video-quality-to-mobile-devices"
-        },
-        "field": null
-      },
-      {
-        "title": "Two New Capacitor Families Target Rugged Industrial Design",
-        "blurb": "KYOCERA AVXとVishayが、過酷な産業用途向けに、振動に強くノイズを抑える新型キャパシタを発表しました。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/two-new-capacitor-families-target-rugged-industrial-design"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "EV Sales Keep Surging In Europe, Now Make Up 29% Of New Car Sales",
-        "blurb": "欧州でのEV販売が急増し、新車販売の29%を占める。内燃機関車のシェアは低下傾向。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809592/ev-sales-europe-august-market-share"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Americans Are Buying Hybrids At A Record Pace. And It's Not Just Toyota Anymore",
-        "blurb": "米国でハイブリッド車が過去最高のペースで購入されている。トヨタだけでなく、他社も販売を伸ばしている。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809482/record-hybrid-growth-america"
-        },
-        "field": null
-      },
-      {
-        "title": "Volkswagen Bets You'll Pay Up For In-Car Gaming",
-        "blurb": "フォルクスワーゲン、車載ゲーム機能で収益化を狙う。スマホをコントローラーとして利用可能に。",
-        "category": "business",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809461/volkswagen-bets-youll-pay-up-for-in-car-gaming"
-        },
-        "field": null
-      },
       {
         "title": "From 5G uplink testing to 6G research: AI DPoD in the lab",
         "blurb": "AIを活用したデジタルポストディストーションが6G研究で注目を集めています。変調性能と効率の向上が期待されます。",
@@ -232,7 +28,7 @@
       },
       {
         "title": "5G to 6G: AI moves into the network",
-        "blurb": "6G標準化が進み、AIやセンシング、新アーキテクチャが研究されている。2030年代の商用展開を目指す。",
+        "blurb": "6G標準化が進み、AIやセンシング、新アーキテクチャが研究されている。2030年代の実用化を目指す。",
         "category": "business",
         "date": "2026-09-26",
         "stars": 3,
@@ -241,194 +37,25 @@
           "url": "https://www.edn.com/5g-to-6g-ai-moves-into-the-network"
         },
         "field": null
-      }
-    ],
-    "tools": [
+      },
       {
-        "title": "Neon lamps and Krypton 85",
-        "blurb": "ネオンランプとクリプトン85に関する最近の研究結果は、スーパーマンでなくても懸念される内容である。",
-        "category": "tools",
-        "date": "2026-09-25",
+        "title": "These Battery Cells Were Tested After 14 Years Of Hard Work. They're Good For Another Decade",
+        "blurb": "CATL製LFPバッテリー、14年経過後も劣化少なく、さらに10年使用可能。世界初の大型蓄電プロジェクトで実証。",
+        "category": "business",
+        "date": "2026-09-26",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/neon-lamps-and-krypton-85"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/809604/catl-lfp-prismatic-cell-age-test"
         },
         "field": null
       }
     ],
+    "tools": [],
     "company": [
       {
-        "title": "Delta Integrates 800-VDC Power and Cooling for AI Factories",
-        "blurb": "デルタがAI工場向けに800VDC電源と冷却を統合。NVIDIA DSX工場をサポートするプレハブインフラ。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/delta-integrates-800-vdc-power-and-cooling-for-ai-factories"
-        },
-        "field": {
-          "primary": "fabless",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "三菱電機、NVIDIA対応AIデータセンターの電力／冷却を丸ごと設計",
-        "blurb": "三菱電機、NVIDIA対応AIデータセンター向け電力・冷却統合設計を開発。チップから系統接続までをカバー。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news115.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "ハフニウムの国内製造技術を確立、第一稀元素化学工業",
-        "blurb": "第一稀元素化学工業がハフニウムの国内製造技術を確立。AI半導体等への応用で2028年量産へ。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news044.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "日本の技術力を結集！ Teslaより70％軽いインバーター",
-        "blurb": "名古屋大学が主導する産学連携プロジェクト「フェザーインバーター」が、Teslaより70%軽量なインバーターを世界初公開。日本の技術力を結集。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news061.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "住友金属鉱山、「世界初」300mm貼り合わせSiC基板開発",
-        "blurb": "住友金属鉱山は、世界初の300mm貼り合わせSiC基板を開発し、サンプル出荷を開始しました。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news064.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "EdgeCortix Launches Scalable RAIDEN AI Chiplet Platform",
-        "blurb": "EdgeCortixが、データセンター外での物理AI向けに、スケーラブルで電力効率の高いAIチップレットプラットフォーム「RAIDEN」を発表。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/edgecortix-launches-scalable-raiden-ai-chiplet-platform"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Seeed Studio reComputer RK3576 Dev Kit Adds 20 TOPS RK1820 AI Accelerator",
-        "blurb": "Seeed StudioがRK3576とRK1820 AIアクセラレータ搭載の開発キットを発表。エッジAI処理に最適。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/seeed-studio-recomputer-rk3576-dev-kit-adds-20-tops-rk1820-ai-accelerator"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Volkswagen ID.4 Just Got Up to $12,500 Cheaper in America",
-        "blurb": "VW、米国でID.4の在庫一掃のため最大12,500ドルの大幅値引きを実施。現行モデルの販売終了が近い。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809539/volkswagen-id4-big-discounts-us"
-        },
-        "field": null
-      },
-      {
-        "title": "This Audi EV Set A Guinness World Record By Driving 831 Miles Without Recharging",
-        "blurb": "アウディのEVが、1回の充電で831マイル（約1337km）を走行し、ギネス世界記録を樹立。驚異的な効率を達成。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809472/audi-a6-etron-guinness-record"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Volkswagen Delays The ID. Buzz's Return To The U.S. Again",
-        "blurb": "フォルクスワーゲン、EVバン「ID. Buzz」の米国導入を2028年モデルに再延期。来年発売予定。",
-        "category": "company",
-        "date": "2026-09-25",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/809464/volkswagen-id-buzz-delayed-to-model-year-2028"
-        },
-        "field": null
-      },
-      {
         "title": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (TUM, UNIMORE, Applied Materials)",
-        "blurb": "TUM、UNIMORE、Applied MaterialsがA7 CFETとA10 Nanosheet FETの寄生抵抗・容量・信頼性を評価する技術論文を発表。",
+        "blurb": "TUMらがCFETとNanosheet FETの寄生抵抗・容量・信頼性を評価する技術論文を発表。チップ性能向上へ。",
         "category": "company",
         "date": "2026-09-26",
         "stars": 3,
@@ -464,7 +91,7 @@
       },
       {
         "title": "Ezurio Unveils BL54LM20 Bluetooth LE Modules",
-        "blurb": "EzurioがBluetooth LEモジュール新シリーズ「BL54LM20」を発表。AI対応モデルも提供。",
+        "blurb": "EzurioがBluetooth LEモジュール新シリーズ「BL54LM20」を発表。AI機能搭載モデルも。",
         "category": "company",
         "date": "2026-09-26",
         "stars": 3,
@@ -481,8 +108,62 @@
         }
       },
       {
+        "title": "Forget Politics. EVs Have An Age Problem",
+        "blurb": "EV購入意欲は超党派で一致。しかし、ベビーブーマー世代の高齢化が普及の課題。",
+        "category": "company",
+        "date": "2026-09-26",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/809672/forget-politics-evs-have-an-age-problem"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Bentley Goes Electric As China's EV Charging War Gets Ridiculous",
+        "blurb": "ベントレーがEV市場に参入。中国では2.2MWの超急速充電器が登場するなど、EV充電戦争が過熱。",
+        "category": "company",
+        "date": "2026-09-26",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/809673/bentley-torcal-geely-ev-charging-ceer-exobot-podcast"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Volkswagen Delays Ontario Battery Plant",
+        "blurb": "フォルクスワーゲン、カナダ・オンタリオ州でのEVバッテリー工場建設を延期。北米EV計画に新たな遅延。",
+        "category": "company",
+        "date": "2026-09-26",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/809662/vw-ontario-battery-plant-delay"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
         "title": "Inside The Texas Factory Racing To Break China’s Grip On EV Magnets",
-        "blurb": "米MPマテリアルズがテキサス州でレアアース磁石工場を稼働。中国依存脱却へ、EV産業の歴史を変えるか注目される。",
+        "blurb": "米MPマテリアルズがテキサス州でレアアース磁石工場を稼働させ、中国依存脱却を目指す。EV普及のカギとなるか注目される。",
         "category": "company",
         "date": "2026-09-26",
         "stars": 3,
@@ -500,7 +181,7 @@
       },
       {
         "title": "Tesla Finally Kicks Off Semi Deliveries As Diesel Prices Skyrocket",
-        "blurb": "テスラ、10年越しにセミトラックの納車を開始。ディーゼル価格高騰のタイミングで。",
+        "blurb": "テスラ、10年越しにセミトラックの納車を開始。ディーゼル価格高騰のタイミングで",
         "category": "company",
         "date": "2026-09-26",
         "stars": 3,
@@ -512,7 +193,7 @@
       },
       {
         "title": "Waymo's Latest Safety Numbers Sure Make Human Drivers Look Bad",
-        "blurb": "Waymoは自動運転車が人間より82%事故が少ないと発表。2億7100万マイルの走行データに基づく。",
+        "blurb": "Waymoは自動運転車が人間より82%少ない負傷事故に関与したと発表。2億7100万マイルの走行データに基づく。",
         "category": "company",
         "date": "2026-09-26",
         "stars": 3,

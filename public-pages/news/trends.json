@@ -1,92 +1,27 @@
 {
-  "generated_at": "2026-09-26T08:48:06.307151+09:00",
-  "date": "2026-09-26",
+  "generated_at": "2026-09-27T08:22:27.011126+09:00",
+  "date": "2026-09-27",
   "meta_trends": [
     {
-      "name": "AIによる設計・製造プロセスの自動化・高速化",
+      "name": "AIインフラと電力・冷却統合",
       "confidence": 0.95,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "frontend",
-        "backend",
-        "equipment",
-        "datacenter"
-      ],
-      "summary": "AIエージェントがRTL生成、検証、デバイスモデリングなどを自動化し、設計期間短縮と効率向上を実現。EDAツールもAI活用で進化。",
-      "analysis": {
-        "short_term": "設計期間短縮の初期効果が出始める。",
-        "mid_term": "AIによる設計品質・性能向上が本格化。",
-        "investment_implications": "AI設計ツール/EDA企業に注目。"
-      },
-      "keywords": [
-        "AI",
-        "EDA",
-        "自動化",
-        "設計高速化",
-        "RTL生成"
-      ],
-      "companies_mentioned": [
-        "Cadence",
-        "Architect Labs",
-        "Applied Materials",
-        "TUM",
-        "UNIMORE"
-      ]
-    },
-    {
-      "name": "次世代パワー半導体（SiC/GaN）の進化と応用拡大",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "automotive",
-        "industrial",
-        "datacenter"
-      ],
-      "summary": "SiC/GaN技術は高効率化・高密度化を進め、EV、データセンター、宇宙分野などでの採用が加速。",
-      "analysis": {
-        "short_term": "EV向け採用拡大とデータセンター向け需要増。",
-        "mid_term": "次世代EV、再生可能エネルギー分野での標準化。",
-        "investment_implications": "SiC/GaNウェーハ、デバイスメーカーに期待。"
-      },
-      "keywords": [
-        "SiC",
-        "GaN",
-        "EV",
-        "高効率",
-        "データセンター"
-      ],
-      "companies_mentioned": [
-        "STMicroelectronics",
-        "Teledyne",
-        "住友金属鉱山",
-        "第一稀元素化学工業"
-      ]
-    },
-    {
-      "name": "AIインフラ向け電源・冷却ソリューションの統合",
-      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
         "power",
-        "ai",
-        "equipment"
+        "ai"
       ],
-      "summary": "AIデータセンターの電力・冷却需要増に対応するため、800VDC電源や統合冷却システムなど、インフラ全体の最適化が進む。",
+      "summary": "AIデータセンター向けに、高電圧DC電源、冷却システム、電力供給を統合したインフラソリューションが急速に普及。",
       "analysis": {
-        "short_term": "AI工場向けプレハブインフラの需要増。",
-        "mid_term": "データセンターの電力効率・冷却性能が競争力に。",
-        "investment_implications": "データセンターインフラ関連企業に追い風。"
+        "short_term": "AI需要拡大でインフラ投資加速。",
+        "mid_term": "プレハブ型ソリューションが標準化。",
+        "investment_implications": "インフラ関連企業に注目。"
       },
       "keywords": [
-        "AIデータセンター",
-        "電源",
-        "冷却",
-        "800VDC",
-        "インフラ"
+        "AI",
+        "データセンター",
+        "電力",
+        "冷却"
       ],
       "companies_mentioned": [
         "Delta",
@@ -95,58 +30,112 @@
       ]
     },
     {
-      "name": "3D-IC/チップレット設計・製造技術の進展",
-      "confidence": 0.8,
+      "name": "次世代パワー半導体（GaN/SiC）",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "datacenter",
+        "industrial"
+      ],
+      "summary": "GaNとSiC技術のヘテロジニアス統合や300mm化が進み、EV、データセンター、産業機器での高効率・高密度化に貢献。",
+      "analysis": {
+        "short_term": "EV、再生可能エネルギー向け需要増。",
+        "mid_term": "300mm化でコスト競争力向上。",
+        "investment_implications": "SiC/GaNメーカー、材料サプライヤーに投資妙味。"
+      },
+      "keywords": [
+        "GaN",
+        "SiC",
+        "EV",
+        "高効率"
+      ],
+      "companies_mentioned": [
+        "STMicroelectronics",
+        "住友金属鉱山",
+        "Teledyne",
+        "第一稀元素化学工業"
+      ]
+    },
+    {
+      "name": "AIによるチップ設計自動化・高速化",
+      "confidence": 0.92,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "frontend",
+        "backend",
+        "equipment"
+      ],
+      "summary": "AIエージェントがRTL生成、検証、モデリングを自動化し、チップ設計期間を大幅に短縮。EDAツールの進化も加速。",
+      "analysis": {
+        "short_term": "設計期間短縮への期待高まる。",
+        "mid_term": "AIエージェントの信頼性・制御が課題。",
+        "investment_implications": "EDAベンダー、AI設計プラットフォームに注目。"
+      },
+      "keywords": [
+        "AI",
+        "チップ設計",
+        "EDA",
+        "自動化"
+      ],
+      "companies_mentioned": [
+        "Cadence",
+        "Architect Labs",
+        "TUM",
+        "Applied Materials"
+      ]
+    },
+    {
+      "name": "3D-IC/チップレット化の進展",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "backend",
-        "frontend",
         "logic",
         "datacenter",
         "ai"
       ],
-      "summary": "マルチチップレット統合のため、NoC技術や3D-IC設計・IP管理手法が進化。EDAツールも対応を強化。",
+      "summary": "AIチップの高性能化のため、チップレット技術と3D積層化が不可欠に。マルチダイ統合設計・IP管理が重要。",
       "analysis": {
-        "short_term": "高性能AIチップでのチップレット採用が増加。",
-        "mid_term": "3D-IC設計・検証の標準化と効率化が進む。",
-        "investment_implications": "チップレット設計・製造関連技術に注目。"
+        "short_term": "高性能AIチップで採用拡大。",
+        "mid_term": "EDAツールがクロスドメイン解析に対応。",
+        "investment_implications": "3D-IC設計・IP管理ソリューションに成長機会。"
       },
       "keywords": [
         "3D-IC",
         "チップレット",
-        "NoC",
-        "設計",
+        "マルチダイ",
         "EDA"
       ],
       "companies_mentioned": [
-        "Applied Materials",
-        "TUM",
-        "UNIMORE"
+        "TSMC",
+        "NVIDIA"
       ]
     },
     {
-      "name": "地政学リスクとサプライチェーン再編",
-      "confidence": 0.75,
-      "momentum": "stable",
+      "name": "半導体サプライチェーンの地域分散化・強化",
+      "confidence": 0.8,
+      "momentum": "rising",
       "related_fields": [
-        "geopolitics",
         "foundry",
-        "fabless",
-        "equipment",
-        "memory"
+        "geopolitics",
+        "frontend",
+        "backend"
       ],
-      "summary": "供給網の逼迫と地政学リスクから、各国・地域での生産拠点分散や技術連携の動きが加速。",
+      "summary": "地政学リスクと供給網逼迫を受け、各国で半導体製造能力の強化とサプライチェーンの地域分散化が進む。",
       "analysis": {
-        "short_term": "特定地域への依存リスクが顕在化。",
-        "mid_term": "サプライチェーンの多様化・強靭化が進む。",
-        "investment_implications": "地域分散化の恩恵を受ける企業に注目。"
+        "short_term": "中国のAI・メモリ分野強化が顕著。",
+        "mid_term": "インド等新興国での材料・製造拠点設立。",
+        "investment_implications": "地政学リスクを考慮した投資戦略が必要。"
       },
       "keywords": [
         "サプライチェーン",
-        "地政学リスク",
-        "生産拠点",
-        "中国",
-        "インド"
+        "地政学",
+        "地域分散",
+        "製造拠点"
       ],
       "companies_mentioned": [
         "TSMC",
@@ -157,18 +146,17 @@
   ],
   "market_signals": {
     "bullish": [
-      "AIによる設計・製造プロセスの自動化・高速化の加速",
-      "次世代パワー半導体（SiC/GaN）のEV、データセンター等での採用拡大",
-      "AIインフラ向け電源・冷却ソリューションの需要増",
-      "3D-IC/チップレット技術の高性能AIチップへの適用拡大",
-      "中国メモリメーカーのNANDフラッシュ市場参入検討（供給逼迫緩和の可能性）"
+      "AI需要によるデータセンター投資の継続的な拡大。",
+      "EVシフト加速に伴うSiC/GaNパワー半導体需要の増加。",
+      "AIによる設計自動化・高速化への期待感の高まり。"
     ],
     "bearish": [
-      "半導体誘致における日韓の官民のズレ（政策実行の遅延リスク）"
+      "地政学リスクによるサプライチェーンの不確実性。",
+      "人材育成と「官」「民」の連携不足による戦略の遅延リスク。"
     ],
     "neutral": [
-      "宇宙向けIC、光学技術、自動PQC、人材育成など多角的な技術開発の進展"
+      "宇宙向けIC、光学技術、自動PQCなど特定分野での技術開発進展。"
     ]
   },
-  "source_count": 46
+  "source_count": 48
 }
