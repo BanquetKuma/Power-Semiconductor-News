@@ -1,42 +1,10 @@
 {
-  "generated_at": "2026-09-28T08:38:00.627948+09:00",
-  "date": "2026-09-28",
+  "generated_at": "2026-09-29T09:49:02.198674+09:00",
+  "date": "2026-09-29",
   "meta_trends": [
     {
-      "name": "AIによる設計自動化と効率化",
+      "name": "次世代パワー半導体",
       "confidence": 0.95,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "frontend",
-        "backend",
-        "equipment"
-      ],
-      "summary": "AIエージェントがチップ設計、検証、RTL生成を自動化し、設計期間短縮とPPA最適化を実現。EDAツールもAI活用で進化。",
-      "analysis": {
-        "short_term": "設計期間短縮への期待高まる。ツールベンダーの動向注視。",
-        "mid_term": "設計プロセス全体へのAI浸透が進む。信頼性・制御が鍵。",
-        "investment_implications": "AI設計関連EDA、IP企業に注目。",
-        "keywords": [
-          "AI",
-          "EDA",
-          "RTL",
-          "検証",
-          "自動化"
-        ],
-        "companies_mentioned": [
-          "Cadence",
-          "Architect Labs",
-          "Applied Materials",
-          "TUM",
-          "UNIMORE"
-        ]
-      }
-    },
-    {
-      "name": "次世代パワー半導体（SiC/GaN）の進化",
-      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
@@ -44,138 +12,170 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "SiC/GaN技術がEV、データセンター、産業機器向けに高効率・高密度化。300mm化やヘテロジニアス統合が進展。",
+      "summary": "GaNやSiCといった次世代パワー半導体の技術革新と採用拡大が進展。高効率化、小型化、コスト削減が主要テーマ。",
       "analysis": {
-        "short_term": "EV向け需要堅調。300mm SiC基板の量産化が焦点。",
-        "mid_term": "データセンター、産業機器への採用拡大。新材料・新構造開発活発。",
-        "investment_implications": "SiC/GaNウェーハ、デバイスメーカーに投資妙味。",
-        "keywords": [
-          "SiC",
-          "GaN",
-          "EV",
-          "データセンター",
-          "高効率"
-        ],
-        "companies_mentioned": [
-          "STMicroelectronics",
-          "住友金属鉱山",
-          "Teledyne",
-          "三菱電機",
-          "名古屋大学"
-        ]
-      }
+        "short_term": "需要は堅調。供給能力増強が鍵。",
+        "mid_term": "EV、データセンター、再生可能エネルギー分野で採用加速。",
+        "investment_implications": "材料・製造技術を持つ企業に注目。"
+      },
+      "keywords": [
+        "GaN",
+        "SiC",
+        "EV",
+        "データセンター",
+        "高効率"
+      ],
+      "companies_mentioned": [
+        "Wise Integration",
+        "Navitas",
+        "STMicroelectronics",
+        "Teledyne",
+        "住友金属鉱山",
+        "名古屋大学"
+      ]
     },
     {
-      "name": "AIインフラとデータセンターの進化",
-      "confidence": 0.88,
+      "name": "AIによる設計・製造革新",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "datacenter",
         "ai",
-        "power",
         "logic",
-        "memory"
+        "frontend",
+        "backend",
+        "equipment",
+        "foundry",
+        "fabless"
       ],
-      "summary": "AIデータセンター向けに、高密度電源・冷却、高速通信、大容量メモリが求められる。インフラ統合ソリューションが重要。",
+      "summary": "AIが半導体設計（EDA）、デバイスモデリング、製造プロセス最適化に活用され、開発期間短縮と性能向上に貢献。",
       "analysis": {
-        "short_term": "AIチップ需要拡大でデータセンター投資加速。冷却技術が課題。",
-        "mid_term": "電力・冷却・通信・メモリの統合設計が進む。中国勢のメモリ強化も注視。",
-        "investment_implications": "データセンター向けインフラ、AIチップ関連企業に注目。",
-        "keywords": [
-          "AIデータセンター",
-          "電源",
-          "冷却",
-          "NVIDIA",
-          "メモリ"
-        ],
-        "companies_mentioned": [
-          "Delta",
-          "三菱電機",
-          "三菱ケミカル",
-          "第一稀元素化学工業",
-          "CXMT"
-        ]
-      }
+        "short_term": "EDAツールへのAI統合が進む。",
+        "mid_term": "設計・製造の自動化・最適化が加速。",
+        "investment_implications": "AI活用EDA企業、AI向けチップ設計企業に期待。"
+      },
+      "keywords": [
+        "AI",
+        "EDA",
+        "設計自動化",
+        "デバイスモデリング",
+        "チップレット"
+      ],
+      "companies_mentioned": [
+        "Applied Materials",
+        "imec",
+        "Purdue University",
+        "UCLA",
+        "TUM",
+        "UNIMORE"
+      ]
     },
     {
-      "name": "チップレット・3D-IC設計の複雑化とEDA",
+      "name": "先端パッケージング技術",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "backend",
-        "frontend",
         "logic",
+        "datacenter",
         "ai",
-        "equipment"
+        "miniaturization"
       ],
-      "summary": "マルチチップレット統合のため、3D-IC設計・IP管理が複雑化。EDAツールはクロスドメイン解析やAI支援で対応。",
+      "summary": "チップレット、3D-IC、CFETなどの先端パッケージング技術が進化し、高性能化と省スペース化を実現。",
       "analysis": {
-        "short_term": "高性能AIチップの3D化進む。EDAツールの刷新が急務。",
-        "mid_term": "チップレットエコシステムの構築が鍵。設計データ管理・トレーサビリティ重要。",
-        "investment_implications": "3D-IC設計・検証ツール、IPベンダーに注目。",
-        "keywords": [
-          "3D-IC",
-          "チップレット",
-          "EDA",
-          "IP管理",
-          "マルチダイ"
-        ],
-        "companies_mentioned": [
-          "Applied Materials",
-          "TUM",
-          "UNIMORE",
-          "Cadence"
-        ]
-      }
+        "short_term": "チップレット統合技術の標準化が課題。",
+        "mid_term": "高性能コンピューティング分野での採用拡大。",
+        "investment_implications": "パッケージング材料・装置メーカーに注目。"
+      },
+      "keywords": [
+        "チップレット",
+        "3D-IC",
+        "CFET",
+        "先端パッケージング",
+        "マルチチップ"
+      ],
+      "companies_mentioned": [
+        "TSMC",
+        "Applied Materials",
+        "NVIDIA"
+      ]
     },
     {
-      "name": "地政学リスクとサプライチェーン再編",
+      "name": "サプライチェーンの地域分散化",
       "confidence": 0.8,
-      "momentum": "stable",
+      "momentum": "rising",
       "related_fields": [
-        "geopolitics",
         "foundry",
-        "equipment",
-        "frontend",
-        "backend"
+        "geopolitics",
+        "industrial",
+        "automotive"
       ],
-      "summary": "米中対立や地政学リスクから、半導体サプライチェーンの再編・国内回帰が進む。各国で誘致競争が激化。",
+      "summary": "地政学リスクと供給網の安定化のため、主要国で半導体製造拠点の国内回帰や新設が進む。",
       "analysis": {
-        "short_term": "供給網の逼迫継続。各国政府の支援策が鍵。",
-        "mid_term": "生産拠点の分散化・多様化が進む。人材育成も課題。",
-        "investment_implications": "サプライチェーン強靭化に貢献する企業に注目。",
-        "keywords": [
-          "地政学",
-          "サプライチェーン",
-          "誘致",
-          "国内回帰",
-          "中国"
-        ],
-        "companies_mentioned": [
-          "TSMC",
-          "富士フイルム",
-          "第一稀元素化学工業"
-        ]
-      }
+        "short_term": "新工場の建設・稼働計画が進行中。",
+        "mid_term": "地域ごとの生産能力のバランスが変化。",
+        "investment_implications": "新工場建設地のインフラ関連企業に機会。"
+      },
+      "keywords": [
+        "サプライチェーン",
+        "地政学リスク",
+        "国内生産",
+        "新工場",
+        "地域分散"
+      ],
+      "companies_mentioned": [
+        "VSMC",
+        "NXP",
+        "VIS",
+        "TSMC",
+        "CXMT"
+      ]
+    },
+    {
+      "name": "光通信技術の進化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "ai",
+        "analog",
+        "miniaturization"
+      ],
+      "summary": "AIデータセンターや次世代通信向けに、高速・低消費電力な光通信技術（APD、透明薄膜材料）が開発されている。",
+      "analysis": {
+        "short_term": "高性能APDの性能向上が続く。",
+        "mid_term": "データセンターの帯域幅需要増に対応。",
+        "investment_implications": "光デバイス・材料メーカーに注目。"
+      },
+      "keywords": [
+        "光通信",
+        "APD",
+        "データセンター",
+        "高速通信",
+        "イメージセンサー"
+      ],
+      "companies_mentioned": [
+        "imec",
+        "三菱ケミカル",
+        "NLM Photonics",
+        "住友化学"
+      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIによる設計自動化の進展による生産性向上への期待",
-      "次世代パワー半導体（SiC/GaN）のEV・データセンター向け需要拡大",
-      "AIデータセンター向けインフラ投資の活発化",
-      "チップレット・3D-IC技術の進化による高性能化への期待"
+      "次世代パワー半導体への投資拡大",
+      "AIによる設計・製造プロセスの効率化",
+      "先端パッケージング技術の需要増",
+      "データセンター向け高速・高効率化ニーズ"
     ],
     "bearish": [
       "地政学リスクによるサプライチェーンの不確実性",
-      "半導体製造装置メーカー間の競争激化と価格圧力",
-      "一部地域における人材不足と育成の遅れ"
+      "一部地域での過剰生産能力への懸念"
     ],
     "neutral": [
-      "メモリ市場の需給バランスの変動",
-      "量子コンピューティング向けデバイス開発の長期的な視点",
-      "宇宙向けIC市場のニッチながらも着実な成長"
+      "メモリ市場の需給バランス",
+      "先端プロセス（2nm）への移行コスト"
     ]
   },
-  "source_count": 48
+  "source_count": 45
 }
