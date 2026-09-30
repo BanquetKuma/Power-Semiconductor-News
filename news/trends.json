@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-29T09:49:02.198674+09:00",
-  "date": "2026-09-29",
+  "generated_at": "2026-09-30T09:04:04.811588+09:00",
+  "date": "2026-09-30",
   "meta_trends": [
     {
-      "name": "次世代パワー半導体",
+      "name": "次世代パワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,170 +12,168 @@
         "datacenter",
         "industrial"
       ],
-      "summary": "GaNやSiCといった次世代パワー半導体の技術革新と採用拡大が進展。高効率化、小型化、コスト削減が主要テーマ。",
+      "summary": "SiC、GaN、ダイヤモンドなどの次世代パワー半導体技術が、データセンター、EV、産業機器向けに急速に進化・普及している。電力変換効率の向上と小型化が鍵。",
       "analysis": {
-        "short_term": "需要は堅調。供給能力増強が鍵。",
-        "mid_term": "EV、データセンター、再生可能エネルギー分野で採用加速。",
-        "investment_implications": "材料・製造技術を持つ企業に注目。"
+        "short_term": "SiC/GaNデバイスの採用拡大とコスト競争激化。",
+        "mid_term": "新材料（ダイヤモンド等）の商用化と性能競争の加速。",
+        "investment_implications": "パワー半導体メーカー、関連材料・製造装置メーカーに注目。"
       },
       "keywords": [
-        "GaN",
         "SiC",
+        "GaN",
+        "ダイヤモンド",
         "EV",
         "データセンター",
-        "高効率"
+        "電力効率"
       ],
       "companies_mentioned": [
-        "Wise Integration",
+        "Infineon",
         "Navitas",
         "STMicroelectronics",
-        "Teledyne",
-        "住友金属鉱山",
-        "名古屋大学"
+        "onsemi",
+        "住友化学",
+        "東北大学",
+        "金沢大学",
+        "産総研",
+        "OKIエンジニアリング"
       ]
     },
     {
-      "name": "AIによる設計・製造革新",
+      "name": "AIによる半導体設計・検証の革新",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
         "frontend",
-        "backend",
-        "equipment",
-        "foundry",
-        "fabless"
+        "equipment"
       ],
-      "summary": "AIが半導体設計（EDA）、デバイスモデリング、製造プロセス最適化に活用され、開発期間短縮と性能向上に貢献。",
+      "summary": "AI技術がEDA（電子設計自動化）分野に浸透し、設計、検証、最適化プロセスを劇的に高速化・効率化している。複雑化するチップ設計への対応が急務。",
       "analysis": {
-        "short_term": "EDAツールへのAI統合が進む。",
-        "mid_term": "設計・製造の自動化・最適化が加速。",
-        "investment_implications": "AI活用EDA企業、AI向けチップ設計企業に期待。"
+        "short_term": "AIを活用した検証ツールの導入が進む。",
+        "mid_term": "AIによる設計自動化・最適化が標準化。",
+        "investment_implications": "EDAベンダー、AI技術を持つスタートアップに注目。"
       },
       "keywords": [
         "AI",
         "EDA",
         "設計自動化",
-        "デバイスモデリング",
-        "チップレット"
+        "検証",
+        "LLM"
       ],
       "companies_mentioned": [
-        "Applied Materials",
-        "imec",
-        "Purdue University",
-        "UCLA",
+        "Moores Lab AI",
         "TUM",
-        "UNIMORE"
+        "UNIMORE",
+        "Applied Materials"
       ]
     },
     {
-      "name": "先端パッケージング技術",
+      "name": "先端パッケージング技術の多様化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "backend",
+        "foundry",
+        "fabless",
         "logic",
-        "datacenter",
-        "ai",
+        "memory",
         "miniaturization"
       ],
-      "summary": "チップレット、3D-IC、CFETなどの先端パッケージング技術が進化し、高性能化と省スペース化を実現。",
+      "summary": "単一基板に依存しない、用途特化型の先端パッケージング技術が進化。マルチチップ化やチップレット技術の進展により、性能向上とコスト最適化を図る。",
       "analysis": {
-        "short_term": "チップレット統合技術の標準化が課題。",
-        "mid_term": "高性能コンピューティング分野での採用拡大。",
-        "investment_implications": "パッケージング材料・装置メーカーに注目。"
+        "short_term": "チップレット技術の採用が多様な分野で拡大。",
+        "mid_term": "高性能・高密度実装技術の開発競争が激化。",
+        "investment_implications": "ファウンドリ、OSAT、材料メーカーに機会。"
       },
       "keywords": [
+        "パッケージング",
         "チップレット",
-        "3D-IC",
-        "CFET",
-        "先端パッケージング",
-        "マルチチップ"
+        "マルチチップ",
+        "NoC",
+        "TSV"
       ],
       "companies_mentioned": [
         "TSMC",
-        "Applied Materials",
-        "NVIDIA"
+        "NXP",
+        "VIS",
+        "VSMC"
       ]
     },
     {
-      "name": "サプライチェーンの地域分散化",
+      "name": "車載センサー・通信技術の高度化",
       "confidence": 0.8,
       "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "analog",
+        "image",
+        "logic"
+      ],
+      "summary": "自動運転や先進運転支援システム（ADAS）の進化に伴い、高精度なイメージセンサー、LiDAR、高速通信規格（MIPI A-PHY）などの車載半導体需要が増加。",
+      "analysis": {
+        "short_term": "車載向け高機能センサーの需要が堅調。",
+        "mid_term": "次世代通信規格への対応と統合化が進む。",
+        "investment_implications": "車載半導体メーカー、センサーメーカーに注目。"
+      },
+      "keywords": [
+        "車載",
+        "イメージセンサー",
+        "ADAS",
+        "MIPI A-PHY",
+        "LiDAR"
+      ],
+      "companies_mentioned": [
+        "ソニー",
+        "onsemi",
+        "バレンズ"
+      ]
+    },
+    {
+      "name": "半導体サプライチェーンの再編と強化",
+      "confidence": 0.75,
+      "momentum": "stable",
       "related_fields": [
         "foundry",
         "geopolitics",
         "industrial",
-        "automotive"
+        "datacenter"
       ],
-      "summary": "地政学リスクと供給網の安定化のため、主要国で半導体製造拠点の国内回帰や新設が進む。",
+      "summary": "地政学リスクや需要変動に対応するため、サプライチェーンの国内回帰や複数拠点化が進む。AI需要拡大も供給網逼迫の一因。",
       "analysis": {
-        "short_term": "新工場の建設・稼働計画が進行中。",
-        "mid_term": "地域ごとの生産能力のバランスが変化。",
-        "investment_implications": "新工場建設地のインフラ関連企業に機会。"
+        "short_term": "特定地域への依存リスクが意識される。",
+        "mid_term": "サプライチェーンの強靭化に向けた投資が継続。",
+        "investment_implications": "ファウンドリ、装置メーカー、地政学リスクの影響を注視。"
       },
       "keywords": [
         "サプライチェーン",
-        "地政学リスク",
-        "国内生産",
-        "新工場",
-        "地域分散"
+        "地政学",
+        "AI需要",
+        "供給網",
+        "TSMC"
       ],
       "companies_mentioned": [
-        "VSMC",
+        "TSMC",
         "NXP",
         "VIS",
-        "TSMC",
-        "CXMT"
-      ]
-    },
-    {
-      "name": "光通信技術の進化",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "ai",
-        "analog",
-        "miniaturization"
-      ],
-      "summary": "AIデータセンターや次世代通信向けに、高速・低消費電力な光通信技術（APD、透明薄膜材料）が開発されている。",
-      "analysis": {
-        "short_term": "高性能APDの性能向上が続く。",
-        "mid_term": "データセンターの帯域幅需要増に対応。",
-        "investment_implications": "光デバイス・材料メーカーに注目。"
-      },
-      "keywords": [
-        "光通信",
-        "APD",
-        "データセンター",
-        "高速通信",
-        "イメージセンサー"
-      ],
-      "companies_mentioned": [
-        "imec",
-        "三菱ケミカル",
-        "NLM Photonics",
-        "住友化学"
+        "VSMC"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "次世代パワー半導体への投資拡大",
-      "AIによる設計・製造プロセスの効率化",
-      "先端パッケージング技術の需要増",
-      "データセンター向け高速・高効率化ニーズ"
+      "データセンター向け高性能半導体需要の拡大",
+      "AI関連半導体（GPU、メモリ等）の旺盛な需要",
+      "車載半導体市場の着実な成長",
+      "次世代パワー半導体（SiC/GaN）の採用加速"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "一部地域での過剰生産能力への懸念"
+      "世界的なインフレと金利上昇による設備投資抑制リスク",
+      "地政学リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "メモリ市場の需給バランス",
-      "先端プロセス（2nm）への移行コスト"
+      "先端プロセス（2nm等）への投資競争の激化",
+      "半導体設計・検証におけるAI活用の進展"
     ]
   },
-  "source_count": 45
+  "source_count": 38
 }
