@@ -1,104 +1,224 @@
 {
-  "generated_at": "2026-09-30T09:03:59.870198+09:00",
+  "generated_at": "2026-10-01T09:20:46.675922+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Getting ready for 6G networks",
-    "summary": "5G-AdvancedはAI/ML、センシング、非地上ネットワーク機能を統合し、6Gへの準備を進める。",
+    "title": "Renesas 650V GaN Enables High-Density 800V AI Power",
+    "summary": "ルネサスが650V GaNデバイスを発表。高密度800V AI電源向けで、低オン抵抗と両面冷却を両立。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/getting-ready-for-6g-networks"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/renesas-650v-gan-enables-high-density-800v-ai-power"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Getting ready for 6G networks",
-        "blurb": "5G-AdvancedはAI/ML、センシング、非地上ネットワーク機能を統合し、6Gへの準備を進める。",
+        "title": "Renesas 650V GaN Enables High-Density 800V AI Power",
+        "blurb": "ルネサスが650V GaNデバイスを発表。高密度800V AI電源向けで、低オン抵抗と両面冷却を両立。",
         "category": "business",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/getting-ready-for-6g-networks"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/renesas-650v-gan-enables-high-density-800v-ai-power"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "EU Cyber Resilience Act: Evidence Matters",
+        "blurb": "EUサイバーレジリエンス法、証拠保全の重要性を指摘。デバイス再起動で証拠消失の事例に言及。",
+        "category": "business",
+        "date": "2026-10-01",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/eu-cyber-resilience-act-evidence-matters"
         },
         "field": null
       }
     ],
     "tools": [
       {
-        "title": "MathWorks Releases MATLAB and Simulink R2026b",
-        "blurb": "MathWorksがMATLABとSimulinkの最新版R2026bをリリース。複雑なシステム開発を支援する新機能や強化機能を追加。",
+        "title": "AI agents speed silicon-to-system engineering",
+        "blurb": "シノプシス社のAIエージェント「AgentEngineer」が、シリコンからシステム設計までのエンジニアリングを加速させる。",
         "category": "tools",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/mathworks-releases-matlab-and-simulink-r2026b"
+          "name": "edn.com",
+          "url": "https://www.edn.com/ai-agents-speed-silicon-to-system-engineering"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       }
     ],
     "company": [
       {
-        "title": "The Range Rover Sport Electric Is Here To Take On The Lucid Gravity",
-        "blurb": "レンジローバー・スポーツのEV版が登場。大型モデルと同様の350kW急速充電と約640kmの航続距離を実現。",
+        "title": "64-bit soft SoC expands FPGA processing",
+        "blurb": "EfinixがRISC-Vベースの64ビットソフトSoC「Sapphire RV64」を発表。FPGA処理能力を拡張。",
         "category": "company",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810006/range-rover-sport-electric-official-battery-specs-debut"
+          "name": "edn.com",
+          "url": "https://www.edn.com/64-bit-soft-soc-expands-fpga-processing"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "160-W power supply withstands harsh conditions",
+        "blurb": "アドバンストエナジー社が、過酷な環境下でも動作する160W AC/DC電源DF150を発表。防衛・産業用途向け。",
+        "category": "company",
+        "date": "2026-10-01",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/160-w-power-supply-withstands-harsh-conditions"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "SBRFP rectifiers cut losses in automotive systems",
+        "blurb": "Diodes社が、自動車システムでの損失を低減するSBRFP整流器を発表。低順方向電圧と低逆方向漏れ電流が特徴。",
+        "category": "company",
+        "date": "2026-10-01",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/sbrfp-rectifiers-cut-losses-in-automotive-systems"
         },
         "field": null
       },
       {
-        "title": "The Government Rolled Back Fuel Economy Standards. Here's How Many Lives It Will Cost",
-        "blurb": "トランプ政権は、燃費基準の緩和により、排出ガス増加による死者増を認めた。",
+        "title": "Tiny IC packs analog and logic functions",
+        "blurb": "ルネサス、スマートリング等に最適な小型（1.155×1.155mm）のミックスドシグナルIC「SLG46801」を発表。",
         "category": "company",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810071/trump-administration-lowers-emission-regulations"
+          "name": "edn.com",
+          "url": "https://www.edn.com/tiny-ic-packs-analog-and-logic-functions"
         },
         "field": null
       },
       {
-        "title": "Connected Cars Share A Lot More Data With Companies Than Owners May Realize",
-        "blurb": "コネクテッドカーは、所有者が認識している以上に多くのデータを広告・分析会社と共有していることが調査で判明。",
+        "title": "Efinix Adds 64-Bit RISC-V SoC with Linux and DDR Support",
+        "blurb": "EfinixがLinuxとDDR対応の64ビットRISC-V SoC「Sapphire RV64」を発表。FPGA向けに処理性能とメモリ容量を強化。",
         "category": "company",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/efinix-adds-64-bit-risc-v-soc-with-linux-and-ddr-support"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "NTX Embedded Adds Edge AI to Its Octolux Rapid Development System",
+        "blurb": "NTX Embeddedは、Octolux開発システムにエッジAI機能を追加。12週間で量産前ハードウェア向けに、センサーと学習フローをバンドル。",
+        "category": "company",
+        "date": "2026-10-01",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/ntx-embedded-adds-edge-ai-to-its-octolux-rapid-development-system"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Mercedes Won't Be Banned In America: Senator",
+        "blurb": "メルセデス・ベンツの株式の約20%を中国投資家が保有。新法遵守のため、保有比率の引き下げが必要になる可能性。",
+        "category": "company",
+        "date": "2026-10-01",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810073/connected-cars-advertisers-send-data"
+          "url": "https://insideevs.com/news/810367/mercedes-chinese-owned-bill"
         },
         "field": null
       },
       {
-        "title": "Tesla Patents 'Electric Fan Car' Weeks Before Roadster Reveal",
-        "blurb": "テスラ、ロードスター発表前に「電動ファンカー」の特許を取得。ロードスターの性能向上に寄与か。",
+        "title": "Ford CEO Thinks Its 'Too Late' For Europe To Take On Chinese Automakers",
+        "blurb": "フォードCEOは、欧州が中国メーカーに対抗するには手遅れだと考えているが、同社には競争のチャンスがあると述べている。",
         "category": "company",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810100/tesla-electric-fan-car-patent"
+          "url": "https://insideevs.com/news/810341/ford-ceo-europe-china-caution"
         },
         "field": null
       },
       {
-        "title": "Lucid Overhauled The Air's Infotainment. You Might Need $950 Hardware To Get It",
-        "blurb": "Lucid Airのインフォテインメントシステムが刷新。旧モデルは950ドルのハードウェアアップグレードが必要。",
+        "title": "You Won't Be Able To Buy A Rivian R2 With Lidar This Year After All",
+        "blurb": "リビアンR2、Lidar搭載モデルは今年購入不可。自動運転コンピューターとLidarは今年発売予定だが、車両への搭載は2027年以降となる見込み。",
         "category": "company",
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810081/lucid-air-ux-update-gravity-computer-hardware-upgrade"
+          "url": "https://insideevs.com/news/810319/rivian-r2-lidar-rap1-2027"
+        },
+        "field": null
+      },
+      {
+        "title": "Nissan Wants Hybrids To Be Its Primary Powertrain By 2030",
+        "blurb": "日産は2030年までにハイブリッド車を主力パワートレインとする方針。需要増に対応し、ハイブリッド車やEREVモデルを拡充する。",
+        "category": "company",
+        "date": "2026-10-01",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/810339/nissan-primary-power-hybrid-push"
+        },
+        "field": null
+      },
+      {
+        "title": "How Geely's New Battery Handles A Megawatt Of Charging Power Without Crazy Degradation",
+        "blurb": "吉利汽車は、メガワット級の急速充電でも劣化を抑える新バッテリー技術を発表。持続的なEV普及に貢献。",
+        "category": "company",
+        "date": "2026-10-01",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/810093/geely-ev-battery-degradation-megawatt-charging"
         },
         "field": null
       }
