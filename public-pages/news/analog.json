@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-10-01T09:20:46.677980+09:00",
+  "generated_at": "2026-10-02T09:30:48.813831+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "NTX Embedded Adds Edge AI to Its Octolux Rapid Development System",
-    "summary": "NTX Embeddedは、Octolux開発システムにエッジAI機能を追加。12週間で量産前ハードウェア向けに、センサーと学習フローをバンドル。",
+    "title": "Vector, SCSK Simplify RL78/F2x Embedded Software Development",
+    "summary": "VectorとSCSKがRenesas製MCU向け統合開発環境を提供。ソフトウェア開発の初期設定と統合作業を簡略化し、開発期間を短縮します。",
     "sources": [
       {
-        "name": "electronics-lab.com",
-        "url": "https://www.electronics-lab.com/ntx-embedded-adds-edge-ai-to-its-octolux-rapid-development-system"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/vector-scsk-simplify-rl78-f2x-embedded-software-development"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "NTX Embedded Adds Edge AI to Its Octolux Rapid Development System",
-        "blurb": "NTX Embeddedは、Octolux開発システムにエッジAI機能を追加。12週間で量産前ハードウェア向けに、センサーと学習フローをバンドル。",
+        "title": "Aetina Launches Edge AI Systems for Robotics",
+        "blurb": "AetinaがNvidia Jetson Thor搭載のロボット向けエッジAIシステムを発表。高性能AI、センサー接続、産業制御を統合し、協働ロボット等の開発を支援。",
         "category": "company",
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/ntx-embedded-adds-edge-ai-to-its-octolux-rapid-development-system"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/aetina-launches-edge-ai-systems-for-robotics"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
           "market": "ai",
+          "industry": "fabless"
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "Vector, SCSK Simplify RL78/F2x Embedded Software Development",
+        "blurb": "VectorとSCSKがRenesas製MCU向け統合開発環境を提供。ソフトウェア開発の初期設定と統合作業を簡略化し、開発期間を短縮します。",
+        "category": "tools",
+        "date": "2026-10-02",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/vector-scsk-simplify-rl78-f2x-embedded-software-development"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }

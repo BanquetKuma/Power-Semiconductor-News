@@ -1,64 +1,52 @@
 {
-  "generated_at": "2026-10-01T09:20:46.675922+09:00",
+  "generated_at": "2026-10-02T09:30:48.812953+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Renesas 650V GaN Enables High-Density 800V AI Power",
-    "summary": "ルネサスが650V GaNデバイスを発表。高密度800V AI電源向けで、低オン抵抗と両面冷却を両立。",
+    "stars": 4,
+    "title": "General Motors' EV Sales Are Way Down. But It's Not As Bleak As It Seems",
+    "summary": "GMのEV販売は大幅減だが、税額控除の影響が大きく、悲観的ではない。特にシルバラードEVは92%減。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/renesas-650v-gan-enables-high-density-800v-ai-power"
+        "name": "insideevs.com",
+        "url": "https://insideevs.com/news/810487/gm-ev-sales-down-2026"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Renesas 650V GaN Enables High-Density 800V AI Power",
-        "blurb": "ルネサスが650V GaNデバイスを発表。高密度800V AI電源向けで、低オン抵抗と両面冷却を両立。",
+        "title": "General Motors' EV Sales Are Way Down. But It's Not As Bleak As It Seems",
+        "blurb": "GMのEV販売は大幅減だが、税額控除の影響が大きく、悲観的ではない。特にシルバラードEVは92%減。",
         "category": "business",
-        "date": "2026-10-01",
-        "stars": 3,
+        "date": "2026-10-02",
+        "stars": 4,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/renesas-650v-gan-enables-high-density-800v-ai-power"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/810487/gm-ev-sales-down-2026"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "automotive",
+          "device": null,
           "process": null,
-          "market": null,
+          "market": "automotive",
           "industry": null
         }
-      },
-      {
-        "title": "EU Cyber Resilience Act: Evidence Matters",
-        "blurb": "EUサイバーレジリエンス法、証拠保全の重要性を指摘。デバイス再起動で証拠消失の事例に言及。",
-        "category": "business",
-        "date": "2026-10-01",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/eu-cyber-resilience-act-evidence-matters"
-        },
-        "field": null
       }
     ],
     "tools": [
       {
-        "title": "AI agents speed silicon-to-system engineering",
-        "blurb": "シノプシス社のAIエージェント「AgentEngineer」が、シリコンからシステム設計までのエンジニアリングを加速させる。",
+        "title": "Vector, SCSK Simplify RL78/F2x Embedded Software Development",
+        "blurb": "VectorとSCSKがRenesas製MCU向け統合開発環境を提供。ソフトウェア開発の初期設定と統合作業を簡略化し、開発期間を短縮します。",
         "category": "tools",
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-agents-speed-silicon-to-system-engineering"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/vector-scsk-simplify-rl78-f2x-embedded-software-development"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "analog",
+          "device": "analog",
           "process": null,
           "market": null,
           "industry": null
@@ -67,160 +55,82 @@
     ],
     "company": [
       {
-        "title": "64-bit soft SoC expands FPGA processing",
-        "blurb": "EfinixがRISC-Vベースの64ビットソフトSoC「Sapphire RV64」を発表。FPGA処理能力を拡張。",
+        "title": "Keysight Launches Dual-Channel 20 GHz Analog Signal Generator",
+        "blurb": "キーサイトが、低ノイズ・高出力のデュアルチャンネル20GHzアナログ信号発生器を発売。",
         "category": "company",
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/64-bit-soft-soc-expands-fpga-processing"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "160-W power supply withstands harsh conditions",
-        "blurb": "アドバンストエナジー社が、過酷な環境下でも動作する160W AC/DC電源DF150を発表。防衛・産業用途向け。",
-        "category": "company",
-        "date": "2026-10-01",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/160-w-power-supply-withstands-harsh-conditions"
-        },
-        "field": {
-          "primary": "industrial",
-          "device": null,
-          "process": null,
-          "market": "industrial",
-          "industry": null
-        }
-      },
-      {
-        "title": "SBRFP rectifiers cut losses in automotive systems",
-        "blurb": "Diodes社が、自動車システムでの損失を低減するSBRFP整流器を発表。低順方向電圧と低逆方向漏れ電流が特徴。",
-        "category": "company",
-        "date": "2026-10-01",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sbrfp-rectifiers-cut-losses-in-automotive-systems"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/keysight-launches-dual-channel-20-ghz-analog-signal-generator"
         },
         "field": null
       },
       {
-        "title": "Tiny IC packs analog and logic functions",
-        "blurb": "ルネサス、スマートリング等に最適な小型（1.155×1.155mm）のミックスドシグナルIC「SLG46801」を発表。",
+        "title": "Aetina Launches Edge AI Systems for Robotics",
+        "blurb": "AetinaがNvidia Jetson Thor搭載のロボット向けエッジAIシステムを発表。高性能AI、センサー接続、産業制御を統合し、協働ロボット等の開発を支援。",
         "category": "company",
-        "date": "2026-10-01",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/tiny-ic-packs-analog-and-logic-functions"
-        },
-        "field": null
-      },
-      {
-        "title": "Efinix Adds 64-Bit RISC-V SoC with Linux and DDR Support",
-        "blurb": "EfinixがLinuxとDDR対応の64ビットRISC-V SoC「Sapphire RV64」を発表。FPGA向けに処理性能とメモリ容量を強化。",
-        "category": "company",
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/efinix-adds-64-bit-risc-v-soc-with-linux-and-ddr-support"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "NTX Embedded Adds Edge AI to Its Octolux Rapid Development System",
-        "blurb": "NTX Embeddedは、Octolux開発システムにエッジAI機能を追加。12週間で量産前ハードウェア向けに、センサーと学習フローをバンドル。",
-        "category": "company",
-        "date": "2026-10-01",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/ntx-embedded-adds-edge-ai-to-its-octolux-rapid-development-system"
+          "url": "https://www.embedded.com/aetina-launches-edge-ai-systems-for-robotics"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
           "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "The Fathom Is Ford's Shot At EV Redemption. The CEO Knows He Has To Get It Right",
+        "blurb": "フォードの新EV「ファザム」は3万ドル。EV事業再起の鍵だが、成功は容易ではない。",
+        "category": "company",
+        "date": "2026-10-02",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/810492/ford-fathom-ev-redemption-ceo"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "Mercedes Won't Be Banned In America: Senator",
-        "blurb": "メルセデス・ベンツの株式の約20%を中国投資家が保有。新法遵守のため、保有比率の引き下げが必要になる可能性。",
+        "title": "Over 60% Of Toyotas Sold In Q3 Were Electrified",
+        "blurb": "トヨタの第3四半期販売の6割超が電動化モデル。ハイブリッド車やEVの販売は今後も加速する見込み。",
         "category": "company",
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810367/mercedes-chinese-owned-bill"
+          "url": "https://insideevs.com/news/810488/toyota-lexus-q3-hybrid-ev-sales"
         },
         "field": null
       },
       {
-        "title": "Ford CEO Thinks Its 'Too Late' For Europe To Take On Chinese Automakers",
-        "blurb": "フォードCEOは、欧州が中国メーカーに対抗するには手遅れだと考えているが、同社には競争のチャンスがあると述べている。",
+        "title": "VW’s Electric Polo Is Expensive. But After Driving It, It's Not Hard To See Why",
+        "blurb": "VWの新型EV「ポロ」は欧州での長距離走行で大人びた乗り心地。最高EVの可能性も、価格は高め。",
         "category": "company",
-        "date": "2026-10-01",
+        "date": "2026-10-02",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810341/ford-ceo-europe-china-caution"
+          "url": "https://insideevs.com/reviews/809842/vw-id-polo-road-trip"
         },
-        "field": null
-      },
-      {
-        "title": "You Won't Be Able To Buy A Rivian R2 With Lidar This Year After All",
-        "blurb": "リビアンR2、Lidar搭載モデルは今年購入不可。自動運転コンピューターとLidarは今年発売予定だが、車両への搭載は2027年以降となる見込み。",
-        "category": "company",
-        "date": "2026-10-01",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810319/rivian-r2-lidar-rap1-2027"
-        },
-        "field": null
-      },
-      {
-        "title": "Nissan Wants Hybrids To Be Its Primary Powertrain By 2030",
-        "blurb": "日産は2030年までにハイブリッド車を主力パワートレインとする方針。需要増に対応し、ハイブリッド車やEREVモデルを拡充する。",
-        "category": "company",
-        "date": "2026-10-01",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810339/nissan-primary-power-hybrid-push"
-        },
-        "field": null
-      },
-      {
-        "title": "How Geely's New Battery Handles A Megawatt Of Charging Power Without Crazy Degradation",
-        "blurb": "吉利汽車は、メガワット級の急速充電でも劣化を抑える新バッテリー技術を発表。持続的なEV普及に貢献。",
-        "category": "company",
-        "date": "2026-10-01",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810093/geely-ev-battery-degradation-megawatt-charging"
-        },
-        "field": null
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "sns": []
