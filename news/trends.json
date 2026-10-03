@@ -1,168 +1,175 @@
 {
-  "generated_at": "2026-10-02T09:30:53.422754+09:00",
-  "date": "2026-10-02",
+  "generated_at": "2026-10-03T09:09:08.372567+09:00",
+  "date": "2026-10-03",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ（WBG）材料のAI・データセンター用途拡大",
+      "name": "AI・データセンター向け高性能電源",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
+        "ai",
         "datacenter",
-        "ai"
+        "logic"
       ],
-      "summary": "SiCおよびGaNデバイスがAIデータセンターの電力効率と高密度化に不可欠となり、高性能電源や変圧器への採用が進んでいる。",
+      "summary": "AIの進化とデータセンターの拡大に伴い、高効率・高密度な電源ソリューションが不可欠。GaNやSiCといった広帯域ギャップ材料の採用が進む。",
       "analysis": {
-        "short_term": "需要増と技術革新が継続。供給能力が鍵。",
-        "mid_term": "AIインフラ拡大に伴い、WBG材料の市場シェアが拡大。",
-        "investment_implications": "WBG材料メーカー、関連電源・インバーター企業に注目。"
+        "short_term": "GaN/SiC採用電源の製品投入加速。需要は堅調。",
+        "mid_term": "AIモデルの大型化で電源需要はさらに拡大。技術革新が鍵。",
+        "investment_implications": "電源IC、GaN/SiCデバイスメーカーに注目。"
       },
       "keywords": [
-        "SiC",
-        "GaN",
         "AI",
         "データセンター",
+        "GaN",
+        "SiC",
         "電源"
       ],
       "companies_mentioned": [
+        "Infineon",
         "Navitas",
         "Renesas",
-        "Infineon",
-        "Wise Integration",
-        "Toshiba"
+        "Wise Integration"
       ]
     },
     {
-      "name": "AIによる半導体設計・検証の自動化・高速化",
+      "name": "AI・自動運転によるハードウェア需要増",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
+        "automotive",
+        "memory",
         "logic",
-        "frontend",
-        "backend",
-        "foundry"
+        "datacenter"
       ],
-      "summary": "LLMやAIエージェントがRTL設計、DRC違反修正、検証プロセスを自動化し、設計サイクル短縮と複雑な先端プロセスへの対応を可能にする。",
+      "summary": "AI定義車両やエッジAIの普及は、コンピューティング、メモリ、センサー、通信など、半導体全般にわたるハードウェアの性能限界を押し上げる。",
       "analysis": {
-        "short_term": "EDAツールへのAI統合が進み、設計効率が向上。",
-        "mid_term": "AI主導の設計が標準化し、新技術・新プロセスの開発を加速。",
-        "investment_implications": "EDAベンダー、AI設計プラットフォーム企業に成長機会。"
+        "short_term": "AIチップ、高性能メモリの需要が継続。車載半導体も堅調。",
+        "mid_term": "エッジAIの普及で、低消費電力・高性能なデバイス競争激化。",
+        "investment_implications": "AIチップ、車載半導体、高性能メモリ関連企業に追い風。"
       },
       "keywords": [
         "AI",
-        "LLM",
-        "設計自動化",
+        "自動運転",
+        "エッジAI",
+        "コンピューティング",
+        "メモリ"
+      ],
+      "companies_mentioned": [
+        "NVIDIA",
+        "Infineon",
+        "TSMC",
+        "UC Berkeley",
+        "FuriosaAI"
+      ]
+    },
+    {
+      "name": "先端パッケージング技術の重要性増大",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "memory",
+        "logic",
+        "foundry",
+        "datacenter"
+      ],
+      "summary": "HBMなどの高性能メモリや、AI・HPC向けチップレット統合に不可欠な先端パッケージング技術への投資と開発が加速している。",
+      "analysis": {
+        "short_term": "HBM供給不足と価格上昇が続く。パッケージング能力が律速。",
+        "mid_term": "2.5D/3Dパッケージの需要拡大。新装置・材料開発が活発化。",
+        "investment_implications": "パッケージング材料・装置メーカー、ファウンドリに注目。"
+      },
+      "keywords": [
+        "先端パッケージ",
+        "HBM",
+        "チップレット",
+        "2.5D/3D",
+        "故障解析"
+      ],
+      "companies_mentioned": [
+        "浜松ホトニクス",
+        "TSMC",
+        "新光電気",
+        "Synopsys"
+      ]
+    },
+    {
+      "name": "宇宙・防衛分野における半導体需要",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial",
+        "geopolitics"
+      ],
+      "summary": "宇宙用半導体の高信頼性要求や、防衛分野でのSiC・GaN技術の採用が進み、新たな市場を開拓している。",
+      "analysis": {
+        "short_term": "宇宙用半導体の耐放射線評価技術が重要視される。",
+        "mid_term": "防衛分野での国内製造プロセス確立の動きが加速。",
+        "investment_implications": "高信頼性・特殊用途向け半導体メーカーに機会。"
+      },
+      "keywords": [
+        "宇宙",
+        "防衛",
+        "SiC",
+        "GaN",
+        "耐放射線"
+      ],
+      "companies_mentioned": [
+        "Infineon",
+        "Navitas"
+      ]
+    },
+    {
+      "name": "半導体設計・製造のAI活用",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "logic",
+        "ai",
+        "equipment",
+        "frontend",
+        "backend"
+      ],
+      "summary": "EDAツールや設計プロセスにAIが導入され、設計自動化、DRC違反修正、歩留まり向上などが進展している。",
+      "analysis": {
+        "short_term": "AIによるDRC違反修正ツールの実用化が進む。",
+        "mid_term": "設計・製造プロセス全体のAI最適化が加速。",
+        "investment_implications": "EDAベンダー、AIを活用するファウンドリ・設計企業に注目。"
+      },
+      "keywords": [
+        "AI",
         "EDA",
-        "RTL"
+        "設計自動化",
+        "DRC",
+        "TSMC"
       ],
       "companies_mentioned": [
         "Siemens",
         "TSMC",
         "Synopsys"
       ]
-    },
-    {
-      "name": "エッジAIの性能向上とインフラ課題",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "memory",
-        "automotive",
-        "industrial"
-      ],
-      "summary": "エッジAIはリアルタイム処理、自律性向上、データトラフィック削減に貢献するが、モデル進化、計算柔軟性、データ移動、セキュリティが課題。",
-      "analysis": {
-        "short_term": "エッジデバイス向け高性能・低消費電力チップの需要増。",
-        "mid_term": "エッジAIインフラが整備され、多様なアプリケーションが普及。",
-        "investment_implications": "エッジAI向けプロセッサ、メモリ、センサー関連企業に注目。"
-      },
-      "keywords": [
-        "エッジAI",
-        "リアルタイム",
-        "自律性",
-        "IoT",
-        "セキュリティ"
-      ],
-      "companies_mentioned": []
-    },
-    {
-      "name": "ヒューマノイドロボット向け半導体市場の成長",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "power",
-        "automotive",
-        "industrial",
-        "logic",
-        "memory"
-      ],
-      "summary": "ヒューマノイドロボットは、高耐久性メモリ、高精度センサー、効率的なモーター制御用WBGパワーデバイスなど、多岐にわたる半導体を必要とする。",
-      "analysis": {
-        "short_term": "ロボット開発競争激化、部品需要が先行。",
-        "mid_term": "量産化が進み、部品コスト低減と市場拡大が期待される。",
-        "investment_implications": "ロボット用IC、センサー、パワー半導体メーカーに商機。"
-      },
-      "keywords": [
-        "ヒューマノイドロボット",
-        "AI",
-        "パワー半導体",
-        "メモリ",
-        "センサー"
-      ],
-      "companies_mentioned": [
-        "Infineon"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術とチップレットの進化",
-      "confidence": 0.88,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "logic",
-        "memory",
-        "ai",
-        "foundry"
-      ],
-      "summary": "チップレット間の通信を可能にするUCIe規格や、先進パッケージング技術（CoWoSなど）が、高性能AIチップや多様な機能統合を実現する。",
-      "analysis": {
-        "short_term": "チップレット相互接続技術の標準化と採用が進む。",
-        "mid_term": "先進パッケージングが、性能・コスト・消費電力のトレードオフを改善。",
-        "investment_implications": "パッケージング技術、チップレット関連企業に投資妙味。"
-      },
-      "keywords": [
-        "チップレット",
-        "UCIe",
-        "CoWoS",
-        "先進パッケージング",
-        "HBM"
-      ],
-      "companies_mentioned": [
-        "TSMC",
-        "浜松ホトニクス",
-        "新光電気"
-      ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIインフラ投資の継続的な拡大",
-      "WBG材料の需要増と技術革新",
-      "エッジAI市場の成長ポテンシャル",
-      "ヒューマノイドロボット市場の黎明期",
-      "先端パッケージング技術の重要性増大"
+      "AI・データセンター向け半導体需要の継続的な拡大",
+      "車載半導体市場の堅調な成長",
+      "先端パッケージング技術への投資活発化",
+      "広帯域ギャップ材料（SiC, GaN）の採用拡大"
     ],
     "bearish": [
-      "GPU向けHBMの供給不足と価格高騰（一部メーカーの積層数削減検討）"
+      "HBMの供給不足と価格高騰によるGPUメーカーのコスト増懸念",
+      "技術者不足の深刻化"
     ],
     "neutral": [
-      "地政学リスク（米国のエネルギー供給網安全保障大統領令）によるサプライチェーンへの影響",
-      "スマートフォン市場における技術革新（タウスケーリングなど）の競争激化"
+      "半導体設計における抽象化レイヤーの重要性",
+      "エッジAI設計の複雑化とセキュリティ課題"
     ]
   },
-  "source_count": 53
+  "source_count": 50
 }

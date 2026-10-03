@@ -1,31 +1,48 @@
 {
-  "generated_at": "2026-10-01T09:20:46.678632+09:00",
+  "generated_at": "2026-10-03T09:09:03.593573+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "AI agents speed silicon-to-system engineering",
-    "summary": "シノプシス社のAIエージェント「AgentEngineer」が、シリコンからシステム設計までのエンジニアリングを加速させる。",
+    "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
+    "summary": "Infineonとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/ai-agents-speed-silicon-to-system-engineering"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "AI agents speed silicon-to-system engineering",
-        "blurb": "シノプシス社のAIエージェント「AgentEngineer」が、シリコンからシステム設計までのエンジニアリングを加速させる。",
-        "category": "tools",
-        "date": "2026-10-01",
+        "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
+        "blurb": "Infineonとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
+        "category": "company",
+        "date": "2026-10-03",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/ai-agents-speed-silicon-to-system-engineering"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)",
+        "blurb": "ジョージア工科大学などがCAN XLの形式的セキュリティ分析を実施し、脆弱性を発見した。車載通信の安全性が懸念される。",
+        "category": "company",
+        "date": "2026-10-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/formal-analysis-uncovers-security-flaws-in-can-xl-georgia-tech-qcri-purdue"
         },
         "field": {
           "primary": "general",
@@ -36,6 +53,7 @@
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }
