@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-03T09:09:03.593573+09:00",
+  "generated_at": "2026-10-04T08:30:53.527627+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
-    "summary": "Infineonとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
+    "summary": "インフィニオンとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
     "sources": [
       {
         "name": "semiengineering.com",
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
-        "blurb": "Infineonとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
+        "blurb": "インフィニオンとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
         "category": "company",
         "date": "2026-10-03",
         "stars": 3,
@@ -36,7 +36,7 @@
       },
       {
         "title": "Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)",
-        "blurb": "ジョージア工科大学などがCAN XLの形式的セキュリティ分析を実施し、脆弱性を発見した。車載通信の安全性が懸念される。",
+        "blurb": "ジョージア工科大学らがCAN XLの形式的セキュリティ分析を実施し、脆弱性を発見。車載通信の安全性が懸念される。",
         "category": "company",
         "date": "2026-10-03",
         "stars": 3,
@@ -54,6 +54,25 @@
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "半導体生産拠点に動き　前工程から先端パッケージまで",
+        "blurb": "半導体生産拠点の動向に注目。前工程から先端パッケージングまで、業界の主要な動きをEE Times Japanの記事と共に振り返ります。",
+        "category": "business",
+        "date": "2026-10-03",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/03/news006.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

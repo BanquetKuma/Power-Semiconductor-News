@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-03T09:09:03.592819+09:00",
+  "generated_at": "2026-10-04T08:30:53.526389+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
-    "summary": "UCバークレーとFuriosaAIがLLMサービング向け高帯域幅フラッシュ技術を発表。モデル拡大でメモリ帯域幅が性能ボトルネックに。",
+    "summary": "UCバークレーとFuriosaAIがLLMサービング向け高帯域幅フラッシュ技術を発表。メモリ容量と帯域幅のボトルネック解消を目指す。",
     "sources": [
       {
         "name": "semiengineering.com",
@@ -15,11 +15,13 @@
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
         "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
-        "blurb": "UCバークレーとFuriosaAIがLLMサービング向け高帯域幅フラッシュ技術を発表。モデル拡大でメモリ帯域幅が性能ボトルネックに。",
-        "category": "company",
+        "blurb": "UCバークレーとFuriosaAIがLLMサービング向け高帯域幅フラッシュ技術を発表。メモリ容量と帯域幅のボトルネック解消を目指す。",
+        "category": "business",
         "date": "2026-10-03",
         "stars": 3,
         "source": {
@@ -34,8 +36,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }
