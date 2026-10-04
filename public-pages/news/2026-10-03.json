@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-04T08:30:53.525319+09:00",
+  "generated_at": "2026-10-03T09:09:03.591874+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Dukosi Launches DK-NFLNK Contactless BMS Communication",
-    "summary": "Dukosiが非接触型BMS通信「DK-NFLNK」を発表。単一バスアンテナでAFEとBMSホストを接続し、電気的絶縁と同期データ転送を実現。",
+    "summary": "Dukosiが、AFEとBMSホストを接続する非接触型通信モジュール「DK-NFLNK」を発表。電気的絶縁と同期データ転送を実現。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
@@ -15,44 +15,8 @@
   "sections": {
     "business": [
       {
-        "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
-        "blurb": "UCバークレーとFuriosaAIがLLMサービング向け高帯域幅フラッシュ技術を発表。メモリ容量と帯域幅のボトルネック解消を目指す。",
-        "category": "business",
-        "date": "2026-10-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "半導体生産拠点に動き　前工程から先端パッケージまで",
-        "blurb": "半導体生産拠点の動向に注目。前工程から先端パッケージングまで、業界の主要な動きをEE Times Japanの記事と共に振り返ります。",
-        "category": "business",
-        "date": "2026-10-03",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/03/news006.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
         "title": "EU CRA for Embedded Developers: Secure-by-Design, Redesign Vs. Bolt-On Security, and Compliance Evidence: Embedded Week Insights",
-        "blurb": "EUのサイバーレジリエンス法（CRA）について、組み込み開発者向けにセキュアバイデザイン、リデザイン対ボルトオンセキュリティ、コンプライアンス証拠を解説。",
+        "blurb": "EUのサイバーレジリエンス法（CRA）について、組み込み開発者向けにセキュアバイデザイン、リデザイン対ボルトオンセキュリティ、コンプライアンス証拠を解説。ロボティクス向けエッジAIやMATLAB/Simulinkの最新動向も。",
         "category": "business",
         "date": "2026-10-03",
         "stars": 3,
@@ -67,11 +31,13 @@
           "market": "ai",
           "industry": null
         }
-      },
+      }
+    ],
+    "tools": [
       {
         "title": "Local PCB Prototyping Cuts Delays and Speeds Iterations",
-        "blurb": "地域密着型のPCB試作は、要件調整や修正、検証を迅速化し、開発サイクルを短縮します。",
-        "category": "business",
+        "blurb": "地域密着型のPCB試作は、要件調整、改訂、検証を迅速化し、開発サイクルを短縮する。",
+        "category": "tools",
         "date": "2026-10-03",
         "stars": 3,
         "source": {
@@ -79,43 +45,12 @@
           "url": "https://www.embedded.com/local-pcb-prototyping-cuts-delays-and-speeds-iterations"
         },
         "field": null
-      },
-      {
-        "title": "Is The BMW i3's 468-Mile Range Overkill?",
-        "blurb": "BMW i3の航続距離468マイルは過剰か？テスラ超え、トランプ政権の規制、シボレー・ボルトの限定生産について議論。",
-        "category": "business",
-        "date": "2026-10-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/810672/bmw-i3-cafe-chevy-bolt-ev-podcast"
-        },
-        "field": null
-      },
-      {
-        "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
-        "blurb": "中国は2030年までに全固体電池の大量生産を目指すが、世界最大の電池メーカーCATLは、技術の低価格化が課題だと警告している。",
-        "category": "business",
-        "date": "2026-10-04",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810656/china-solid-state-batteries-2030"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
       }
     ],
-    "tools": [],
     "company": [
       {
         "title": "Dukosi Launches DK-NFLNK Contactless BMS Communication",
-        "blurb": "Dukosiが非接触型BMS通信「DK-NFLNK」を発表。単一バスアンテナでAFEとBMSホストを接続し、電気的絶縁と同期データ転送を実現。",
+        "blurb": "Dukosiが、AFEとBMSホストを接続する非接触型通信モジュール「DK-NFLNK」を発表。電気的絶縁と同期データ転送を実現。",
         "category": "company",
         "date": "2026-10-03",
         "stars": 3,
@@ -127,7 +62,7 @@
       },
       {
         "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
-        "blurb": "インフィニオンとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
+        "blurb": "Infineonとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
         "category": "company",
         "date": "2026-10-03",
         "stars": 3,
@@ -144,8 +79,26 @@
         }
       },
       {
+        "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
+        "blurb": "UCバークレーとFuriosaAIがLLMサービング向け高帯域幅フラッシュ技術を発表。モデル拡大でメモリ帯域幅が性能ボトルネックに。",
+        "category": "company",
+        "date": "2026-10-03",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)",
-        "blurb": "ジョージア工科大学らがCAN XLの形式的セキュリティ分析を実施し、脆弱性を発見。車載通信の安全性が懸念される。",
+        "blurb": "ジョージア工科大学などがCAN XLの形式的セキュリティ分析を実施し、脆弱性を発見した。車載通信の安全性が懸念される。",
         "category": "company",
         "date": "2026-10-03",
         "stars": 3,
@@ -162,26 +115,20 @@
         }
       },
       {
-        "title": "The 2027 Cadillac Escalade IQ Gets A NACS Port And Faster Home Charging",
-        "blurb": "2027年型キャデラック・エスカレードIQはテスラ式充電ポートを採用し、家庭用充電が高速化。",
+        "title": "Is The BMW i3's 468-Mile Range Overkill?",
+        "blurb": "BMW i3の航続距離468マイルは過剰か？テスラ超え、トランプ政権の規制、シボレー・ボルトの限定生産について議論。",
         "category": "company",
         "date": "2026-10-03",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810603/2027-cadillac-escalade-nacs-home-charging-upgrade"
+          "url": "https://insideevs.com/features/810672/bmw-i3-cafe-chevy-bolt-ev-podcast"
         },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
+        "field": null
       },
       {
         "title": "I Thought Fake Gears Made EVs Better. Then I Drove This Porsche Taycan",
-        "blurb": "EVの走行体験向上のため、擬似的なギアが提案されているが、ポルシェタイカンは不要であることを示した。",
+        "blurb": "EVの走行体験向上のため、擬似的なギアが導入されているが、ポルシェ・タイカンは不要であることを示した。",
         "category": "company",
         "date": "2026-10-03",
         "stars": 3,
@@ -205,7 +152,7 @@
       },
       {
         "title": "Tesla Will Now Let You Drive Away From A Supercharger In An Emergency",
-        "blurb": "テスラは、緊急時にスーパーチャージャーから離れることを可能にした。悪用は高額な罰金につながる可能性がある。",
+        "blurb": "テスラは緊急時にスーパーチャージャーから車両を離脱させる機能を導入。悪用は高額な罰金につながる可能性がある。",
         "category": "company",
         "date": "2026-10-03",
         "stars": 3,

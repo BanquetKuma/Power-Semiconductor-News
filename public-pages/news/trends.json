@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T08:30:57.948992+09:00",
-  "date": "2026-10-04",
+  "generated_at": "2026-10-05T08:49:10.638618+09:00",
+  "date": "2026-10-05",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ材料のAI・データセンター・宇宙・車載用途拡大",
+      "name": "広帯域ギャップ（WBG）材料のAI・データセンター・宇宙・軍事用途拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -13,11 +13,11 @@
         "automotive",
         "industrial"
       ],
-      "summary": "SiCやGaNといった広帯域ギャップ材料が、AIデータセンターの電源効率向上、宇宙用半導体の高信頼性、EVや産業機器の高性能化に不可欠となっている。",
+      "summary": "SiCやGaNなどのWBG材料が、AIデータセンターの電源効率向上、宇宙・軍事用途での高信頼性要求に応える形で採用を拡大。",
       "analysis": {
-        "short_term": "AI・データセンター向け需要が牽引。供給能力増強が課題。",
-        "mid_term": "車載・宇宙分野での採用が本格化し、市場が拡大。",
-        "investment_implications": "SiC/GaN技術を持つ企業への投資妙味が増す。"
+        "short_term": "AI・データセンター向け電源需要がWBG材料の成長を牽引。",
+        "mid_term": "EV、宇宙、軍事分野での採用がさらに加速し、市場拡大。",
+        "investment_implications": "WBG材料メーカー、関連デバイスメーカーに注目。"
       },
       "keywords": [
         "SiC",
@@ -25,15 +25,13 @@
         "AI",
         "データセンター",
         "宇宙",
-        "車載"
+        "軍事"
       ],
       "companies_mentioned": [
         "Infineon",
-        "Microchip",
         "Navitas",
         "Renesas",
-        "Wise Integration",
-        "Toshiba"
+        "Wise Integration"
       ]
     },
     {
@@ -48,133 +46,133 @@
         "backend",
         "equipment"
       ],
-      "summary": "AIが設計検証（DRC違反修正）、EDAフローの最適化、故障解析、さらにはハードウェア設計の抽象化に活用され、開発期間短縮とコスト削減に貢献。",
+      "summary": "AIが設計検証（DRC）の自動修正、EDAツールの最適化、製造プロセスの効率化に活用され、開発期間短縮と歩留まり向上に貢献。",
       "analysis": {
-        "short_term": "EDAツールへのAI統合が進み、設計効率が向上。",
-        "mid_term": "AIによる設計・製造の自動化が標準化し、歩留まり向上に寄与。",
-        "investment_implications": "AIを活用したEDA・製造ソリューション提供企業が注目。"
+        "short_term": "EDAベンダーとファウンドリの協業によるAI活用が進展。",
+        "mid_term": "設計・製造の全工程でAI活用が標準化し、競争優位性を確立。",
+        "investment_implications": "AIを活用したEDAソリューション、先端プロセスを持つファウンドリに注目。"
       },
       "keywords": [
         "AI",
         "設計自動化",
         "EDA",
-        "製造プロセス",
-        "故障解析"
+        "TSMC",
+        "Siemens",
+        "Synopsys"
       ],
       "companies_mentioned": [
         "Siemens",
         "TSMC",
         "Synopsys",
-        "Infineon",
-        "Hamamatsu Photonics"
+        "NVIDIA"
       ]
     },
     {
-      "name": "エッジAIの普及とそれに伴うハードウェア課題",
+      "name": "エッジAIとヒューマノイドロボット向け半導体の需要増",
+      "confidence": 0.88,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "automotive",
+        "industrial",
+        "memory",
+        "power"
+      ],
+      "summary": "エッジAIの普及とヒューマノイドロボット開発の進展により、低消費電力、高効率、高信頼性の半導体（特にメモリ、パワー半導体）への需要が増加。",
+      "analysis": {
+        "short_term": "エッジAIデバイスの多様化とロボット開発の加速が需要を牽引。",
+        "mid_term": "ヒューマノイドロボットの量産化がメモリ・パワー半導体市場を拡大。",
+        "investment_implications": "エッジAI向けチップ、ロボット向け半導体メーカーに注目。"
+      },
+      "keywords": [
+        "エッジAI",
+        "ヒューマノイドロボット",
+        "メモリ",
+        "パワー半導体",
+        "低消費電力"
+      ],
+      "companies_mentioned": [
+        "Infineon",
+        "UC Berkeley",
+        "FuriosaAI"
+      ]
+    },
+    {
+      "name": "次世代コンピューティングとメモリ技術の進化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "logic",
         "memory",
-        "automotive",
-        "industrial",
+        "logic",
         "datacenter"
       ],
-      "summary": "エッジAIの進化は、モデルの進化速度、計算柔軟性、データ移動、セキュリティ、そしてヒューマノイドロボット等でのメモリ要件といったハードウェアの課題を顕在化させている。",
+      "summary": "LLMサービングの性能ボトルネック解消に向けたメモリ帯域幅・容量の改善や、AI向け計算高速化技術（低精度・倍精度計算の組み合わせ）が進化。",
       "analysis": {
-        "short_term": "エッジAI向けプロセッサやメモリの需要が増加。",
-        "mid_term": "低消費電力・高効率なエッジAIハードウェア開発が加速。",
-        "investment_implications": "エッジAI向け半導体・ソリューション企業に投資機会。"
+        "short_term": "LLM処理能力向上のためのメモリ・計算技術開発が加速。",
+        "mid_term": "AI特化型プロセッサやメモリアーキテクチャが市場をリード。",
+        "investment_implications": "AI向けメモリ、高性能CPU/GPUメーカーに注目。"
       },
       "keywords": [
-        "エッジAI",
-        "ハードウェア",
+        "LLM",
         "メモリ",
-        "セキュリティ",
-        "ロボット"
+        "帯域幅",
+        "計算高速化",
+        "AI"
       ],
       "companies_mentioned": [
         "UC Berkeley",
         "FuriosaAI",
-        "Infineon"
+        "NVIDIA",
+        "芝浦工大"
       ]
     },
     {
-      "name": "半導体サプライチェーンの地域分散化と先端パッケージング",
+      "name": "半導体サプライチェーンの地域分散化と先端パッケージング強化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "foundry",
         "backend",
         "geopolitics",
-        "fabless",
-        "idm"
+        "equipment"
       ],
-      "summary": "地政学リスクや需要増に対応するため、前工程から後工程（先端パッケージング含む）まで、生産拠点の地域分散化が進んでいる。",
+      "summary": "地政学リスクへの対応やサプライチェーン強靭化のため、前工程から先端パッケージングまで、生産拠点の地域分散化と新設が進む。",
       "analysis": {
-        "short_term": "新工場建設やM&Aによる生産能力増強が活発化。",
-        "mid_term": "先端パッケージング技術が競争力の鍵となる。",
-        "investment_implications": "サプライチェーンの再編・強化に関わる企業に注目。"
+        "short_term": "先端パッケージング能力の増強がサプライチェーンのボトルネック解消に寄与。",
+        "mid_term": "地域分散化が進み、各地域での半導体エコシステムが確立。",
+        "investment_implications": "先端パッケージング技術を持つ企業、新拠点設立企業に注目。"
       },
       "keywords": [
-        "生産拠点",
-        "先端パッケージング",
         "サプライチェーン",
-        "地政学"
+        "先端パッケージング",
+        "生産拠点",
+        "地域分散化"
       ],
       "companies_mentioned": [
         "Infineon",
+        "新光電気",
         "JDI",
-        "Shinko Electric",
-        "TSMC"
-      ]
-    },
-    {
-      "name": "車載半導体の高度化とセキュリティ",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "automotive",
-        "logic",
-        "security",
-        "ai",
-        "power"
-      ],
-      "summary": "AI定義車両への移行は、コンピューティング、メモリ、検証能力に大きな負荷をかけ、CAN XLのような車載通信プロトコルのセキュリティ脆弱性も浮き彫りにしている。",
-      "analysis": {
-        "short_term": "車載向け高性能・高信頼性半導体の需要が増加。",
-        "mid_term": "サイバーセキュリティ対策が車載半導体設計の最重要課題に。",
-        "investment_implications": "先進運転支援・自動運転関連技術を持つ企業が有利。"
-      },
-      "keywords": [
-        "車載",
-        "AI",
-        "セキュリティ",
-        "自動運転",
-        "CAN XL"
-      ],
-      "companies_mentioned": [
-        "Georgia Tech",
-        "QCRI",
-        "Purdue"
+        "浜松ホトニクス"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIデータセンター向けパワー半導体の需要拡大",
-      "SiC/GaN技術の採用拡大（EV、産業機器、宇宙）",
-      "AIを活用した半導体設計・製造ソリューションへの投資増加"
+      "AI・データセンター向けWBG材料の需要拡大",
+      "AIによる設計・製造プロセスの自動化・効率化の進展",
+      "エッジAIおよびヒューマノイドロボット市場の成長",
+      "次世代コンピューティング・メモリ技術への投資活発化",
+      "半導体サプライチェーン強靭化に向けた生産能力増強"
     ],
     "bearish": [
       "半導体エンジニア不足の深刻化（記事12より）",
-      "サプライチェーンの地政学的リスク"
+      "車両通信（CAN XL）における潜在的脆弱性の発見（記事10より）"
     ],
     "neutral": [
-      "エッジAIハードウェアの進化と課題の並行",
-      "車載通信プロトコルのセキュリティ脆弱性への対応"
+      "宇宙用パワー半導体の放射線耐性評価方法の標準化（記事1より）",
+      "物理デバイスからRTLモデルへのハードウェア設計追跡技術（記事8より）"
     ]
   },
-  "source_count": 51
+  "source_count": 47
 }
