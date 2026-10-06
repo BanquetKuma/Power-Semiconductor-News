@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-10-04T08:30:53.527627+09:00",
+  "generated_at": "2026-10-06T10:39:59.908243+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
-    "summary": "インフィニオンとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
+    "title": "Reducing Contact Resistance Pushes 2D Transistors Toward Advanced CMOS (HUST, PolyU, UCSB, NUS)",
+    "summary": "低接触抵抗化により2次元トランジスタのCMOS応用が進展。HUSTらが新技術を発表。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich"
+        "url": "https://semiengineering.com/reducing-contact-resistance-pushes-2d-transistors-toward-advanced-cmos-hust-polyu-ucsb-nus"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
-        "blurb": "インフィニオンとミュンヘン工科大学の研究者が、物理デバイスからRTLモデルへのハードウェア設計の追跡に関する論文を発表。抽象化の重要性を論じる。",
+        "title": "TI Integrates Zephyr Across Its Embedded and Wireless Portfolio",
+        "blurb": "テキサス・インスツルメンツは、組み込み・無線製品群にZephyr RTOSサポートを拡大。開発者は複数プラットフォームで共通の開発環境を利用可能に。",
         "category": "company",
-        "date": "2026-10-03",
+        "date": "2026-10-06",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)",
-        "blurb": "ジョージア工科大学らがCAN XLの形式的セキュリティ分析を実施し、脆弱性を発見。車載通信の安全性が懸念される。",
-        "category": "company",
-        "date": "2026-10-03",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/formal-analysis-uncovers-security-flaws-in-can-xl-georgia-tech-qcri-purdue"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/ti-integrates-zephyr-across-its-embedded-and-wireless-portfolio"
         },
         "field": {
           "primary": "general",
@@ -56,14 +38,14 @@
     "tech": [],
     "market": [
       {
-        "title": "半導体生産拠点に動き　前工程から先端パッケージまで",
-        "blurb": "半導体生産拠点の動向に注目。前工程から先端パッケージングまで、業界の主要な動きをEE Times Japanの記事と共に振り返ります。",
+        "title": "Reducing Contact Resistance Pushes 2D Transistors Toward Advanced CMOS (HUST, PolyU, UCSB, NUS)",
+        "blurb": "低接触抵抗化により2次元トランジスタのCMOS応用が進展。HUSTらが新技術を発表。",
         "category": "business",
-        "date": "2026-10-03",
+        "date": "2026-10-06",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/03/news006.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/reducing-contact-resistance-pushes-2d-transistors-toward-advanced-cmos-hust-polyu-ucsb-nus"
         },
         "field": {
           "primary": "general",

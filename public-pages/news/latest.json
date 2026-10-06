@@ -1,69 +1,148 @@
 {
-  "generated_at": "2026-10-05T08:49:06.504017+09:00",
+  "generated_at": "2026-10-06T10:39:59.906256+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "The Genesis GV60 Magma Is One Of The Quirkiest Performance EVs On Sale",
-    "summary": "ジェネシスGV60マグマは、ユニークな特徴を持つ高性能EVとして注目されています。",
+    "stars": 4,
+    "title": "91本の電子線で数十倍速く微小欠陥を検査　日立ハイテク",
+    "summary": "日立ハイテクはZEISS SMTと共同で、微小欠陥を従来比数十倍速く検査できるマルチビーム電子線検査装置の開発を加速する。",
     "sources": [
       {
-        "name": "insideevs.com",
-        "url": "https://insideevs.com/news/810490/genesis-gv60-magma-doug-demuro"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/06/news020.html"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "China Wants Mass-Produced Solid-State Batteries By 2030. CATL Knows That's Hard",
-        "blurb": "中国は2030年までに全固体電池の量産を目指すが、世界最大の電池メーカーCATLは、技術の低価格化が課題だと警告している。",
+        "title": "Backside Clock Meshes Cut Skew and Power in 2nm Nanosheets (UCSC)",
+        "blurb": "UCSCの研究者は、2nmプロセスにおける裏面クロックメッシュ技術が、スキューと消費電力を削減できることを発表しました。",
         "category": "business",
-        "date": "2026-10-04",
+        "date": "2026-10-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/backside-clock-meshes-cut-skew-and-power-in-2nm-nanosheets-ucsc"
+        },
+        "field": {
+          "primary": "miniaturization",
+          "device": null,
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Reducing Contact Resistance Pushes 2D Transistors Toward Advanced CMOS (HUST, PolyU, UCSB, NUS)",
+        "blurb": "低接触抵抗化により2次元トランジスタのCMOS応用が進展。HUSTらが新技術を発表。",
+        "category": "business",
+        "date": "2026-10-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/reducing-contact-resistance-pushes-2d-transistors-toward-advanced-cmos-hust-polyu-ucsb-nus"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Cheaper EVs Are Helping Fuel Europe’s Electric Car Boom",
+        "blurb": "欧州でEV販売が急増。価格の手頃さだけでなく、他の要因も追い風となっている。",
+        "category": "business",
+        "date": "2026-10-06",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810656/china-solid-state-batteries-2030"
+          "url": "https://insideevs.com/news/810822/europe-ev-sales-january-august"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "Row-Parallel DRAM Computing Cuts Data-Reorganization Overhead (Syracuse, FAU, TU Dresden)",
+        "blurb": "DRAM内で計算を行う新技術「RAPID」が、データ再編成のオーバーヘッドを削減し、処理効率を向上させる。",
+        "category": "tools",
+        "date": "2026-10-06",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/row-parallel-dram-computing-cuts-data-reorganization-overhead-syracuse-fau-tu-dresden"
         },
         "field": {
-          "primary": "automotive",
-          "device": null,
+          "primary": "memory",
+          "device": "memory",
           "process": null,
-          "market": "automotive",
+          "market": null,
           "industry": null
         }
       }
     ],
-    "tools": [],
     "company": [
       {
-        "title": "The Genesis GV60 Magma Is One Of The Quirkiest Performance EVs On Sale",
-        "blurb": "ジェネシスGV60マグマは、ユニークな特徴を持つ高性能EVとして注目されています。",
+        "title": "91本の電子線で数十倍速く微小欠陥を検査　日立ハイテク",
+        "blurb": "日立ハイテクはZEISS SMTと共同で、微小欠陥を従来比数十倍速く検査できるマルチビーム電子線検査装置の開発を加速する。",
         "category": "company",
-        "date": "2026-10-04",
+        "date": "2026-10-06",
+        "stars": 4,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/06/news020.html"
+        },
+        "field": {
+          "primary": "equipment",
+          "device": null,
+          "process": "equipment",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Toshiba Launches Low-Power Dual-Channel Digital Isolators",
+        "blurb": "東芝、低消費電力・高速通信のデュアルチャネルデジタルアイソレータ4機種を発表。低電流、高データレート、高耐圧を実現。",
+        "category": "company",
+        "date": "2026-10-06",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810490/genesis-gv60-magma-doug-demuro"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/toshiba-launches-low-power-dual-channel-digital-isolators"
         },
         "field": null
       },
       {
-        "title": "Here's What's Good (And Bad) About Owning An Audi E-Tron GT",
-        "blurb": "アウディe-tron GTの1ヶ月レビュー。EVとしての長所と短所を評価。",
+        "title": "TI Integrates Zephyr Across Its Embedded and Wireless Portfolio",
+        "blurb": "テキサス・インスツルメンツは、組み込み・無線製品群にZephyr RTOSサポートを拡大。開発者は複数プラットフォームで共通の開発環境を利用可能に。",
         "category": "company",
-        "date": "2026-10-04",
+        "date": "2026-10-06",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/ti-integrates-zephyr-across-its-embedded-and-wireless-portfolio"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "This Chinese SUV Was The UK's Best Selling Car Last Month",
+        "blurb": "中国製SUV「Jaecoo 7」が9月、英国で最も売れた新車となった。プラグインハイブリッド車としても提供されている。",
+        "category": "company",
+        "date": "2026-10-06",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810658/audi-e-tron-gt-owner-review"
+          "url": "https://insideevs.com/news/810819/jaecoo-7-uk-best-selling"
         },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
+        "field": null
       }
     ],
     "sns": []

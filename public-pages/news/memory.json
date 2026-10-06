@@ -1,32 +1,31 @@
 {
-  "generated_at": "2026-10-04T08:30:53.526389+09:00",
+  "generated_at": "2026-10-06T10:39:59.907130+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
-    "summary": "UCバークレーとFuriosaAIがLLMサービング向け高帯域幅フラッシュ技術を発表。メモリ容量と帯域幅のボトルネック解消を目指す。",
+    "title": "Row-Parallel DRAM Computing Cuts Data-Reorganization Overhead (Syracuse, FAU, TU Dresden)",
+    "summary": "DRAM内で計算を行う新技術「RAPID」が、データ再編成のオーバーヘッドを削減し、処理効率を向上させる。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai"
+        "url": "https://semiengineering.com/row-parallel-dram-computing-cuts-data-reorganization-overhead-syracuse-fau-tu-dresden"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
-        "blurb": "UCバークレーとFuriosaAIがLLMサービング向け高帯域幅フラッシュ技術を発表。メモリ容量と帯域幅のボトルネック解消を目指す。",
-        "category": "business",
-        "date": "2026-10-03",
+        "title": "Row-Parallel DRAM Computing Cuts Data-Reorganization Overhead (Syracuse, FAU, TU Dresden)",
+        "blurb": "DRAM内で計算を行う新技術「RAPID」が、データ再編成のオーバーヘッドを削減し、処理効率を向上させる。",
+        "category": "tools",
+        "date": "2026-10-06",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai"
+          "url": "https://semiengineering.com/row-parallel-dram-computing-cuts-data-reorganization-overhead-syracuse-fau-tu-dresden"
         },
         "field": {
           "primary": "memory",
@@ -36,6 +35,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }
