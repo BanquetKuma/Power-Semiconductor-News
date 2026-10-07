@@ -1,66 +1,65 @@
 {
-  "generated_at": "2026-10-06T10:40:04.666644+09:00",
-  "date": "2026-10-06",
+  "generated_at": "2026-10-07T09:21:12.097109+09:00",
+  "date": "2026-10-07",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の進化と需要拡大",
+      "name": "SiCパワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "industrial",
+        "datacenter"
       ],
-      "summary": "SiCやGaNを用いたパワー半導体の性能向上とコスト低減が進み、EV、AIデータセンター、産業機器など幅広い分野での採用が加速している。",
+      "summary": "SiC（シリコンカーバイド）を用いたパワー半導体の性能向上とコスト低減が進み、EV、産業機器、データセンターなど幅広い分野での採用が加速。",
       "analysis": {
-        "short_term": "EVシフト加速とデータセンター需要増で堅調。供給制約に注意。",
-        "mid_term": "新材料・新構造の採用が進み、さらなる性能向上と用途拡大が期待。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味増大。サプライチェーンも注視。"
+        "short_term": "SiC基板の供給能力拡大が鍵。需要は堅調。",
+        "mid_term": "EVシフト加速で需要増。技術革新でさらなる普及期待。",
+        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
-        "GaN",
         "EV",
-        "AIデータセンター",
-        "パワー半導体"
+        "パワーモジュール",
+        "全固体変圧器"
       ],
       "companies_mentioned": [
+        "Vishay",
         "Infineon",
-        "Navitas",
-        "Renesas",
+        "レゾナック",
         "東芝D＆S"
       ]
     },
     {
-      "name": "AIによる半導体設計・製造の革新",
+      "name": "AI特化型半導体・技術の加速",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
-        "frontend",
-        "backend",
-        "equipment"
+        "memory",
+        "datacenter",
+        "fabless"
       ],
-      "summary": "AI技術が半導体設計の自動化、検証、製造プロセス最適化に活用され、開発期間短縮と性能向上が進んでいる。",
+      "summary": "AIの指数関数的成長を支えるため、高性能・高効率なAI向け半導体や、ニューロモルフィックコンピューティング、LLMサービングに特化した技術開発が活発化。",
       "analysis": {
-        "short_term": "設計自動化ツールの進化が開発効率を向上。AIチップ開発も活発化。",
-        "mid_term": "AIによる歩留まり改善や新材料・構造の探索が加速する可能性。",
-        "investment_implications": "AI設計・EDAツールベンダー、AI活用に積極的なファウンドリに注目。"
+        "short_term": "NVIDIA中心の供給体制。新技術の採用進む。",
+        "mid_term": "AIスーパーサイクル継続。多様なAIチップ・技術が登場。",
+        "investment_implications": "AIチップ設計・製造関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "EDA",
-        "設計自動化",
-        "製造プロセス",
-        "チップレット"
+        "ニューロモルフィック",
+        "LLM",
+        "NVIDIA",
+        "CUDA"
       ],
       "companies_mentioned": [
-        "Siemens",
-        "TSMC",
         "NVIDIA",
-        "芝浦工大"
+        "芝浦工大",
+        "ソウル大",
+        "延世大"
       ]
     },
     {
@@ -73,94 +72,96 @@
         "industrial",
         "geopolitics"
       ],
-      "summary": "宇宙、防衛、産業用途など、過酷な環境下での動作が求められる分野で、高信頼性・高耐久性を持つ半導体の需要が高まっている。",
+      "summary": "宇宙、防衛、量子計算などの分野で、放射線耐性や高温・低温に耐えうる高信頼性半導体の需要が増加。評価・テスト技術も進化。",
       "analysis": {
-        "short_term": "宇宙・防衛分野での開発加速。インフラ投資も後押し。",
-        "mid_term": "車載用途での高信頼性要求もさらに高まる見込み。",
-        "investment_implications": "高信頼性・耐放射線技術を持つ企業に投資機会。"
+        "short_term": "宇宙・防衛分野での需要が安定的に増加。",
+        "mid_term": "量子コンピュータ実用化に向けた需要拡大も期待。",
+        "investment_implications": "高信頼性デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "宇宙",
+        "放射線耐性",
         "高信頼性",
-        "耐放射線",
-        "防衛",
-        "産業機器"
+        "量子計算"
       ],
       "companies_mentioned": [
-        "Infineon",
-        "ITEN"
-      ]
-    },
-    {
-      "name": "先端パッケージング技術の重要性向上",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "logic",
-        "ai",
-        "memory",
-        "equipment"
-      ],
-      "summary": "AIチップレットや高性能CPU/GPUの性能を引き出すため、チップレット統合や高密度実装を可能にする先端パッケージング技術が不可欠になっている。",
-      "analysis": {
-        "short_term": "AI/HPC向け高性能パッケージの需要増。技術開発競争が激化。",
-        "mid_term": "3D積層技術や異種材料統合技術の進化が鍵となる。",
-        "investment_implications": "先端パッケージング関連企業、材料・装置メーカーに注目。"
-      },
-      "keywords": [
-        "チップレット",
-        "先端パッケージ",
-        "3D積層",
-        "故障解析",
-        "AI"
-      ],
-      "companies_mentioned": [
-        "浜松ホトニクス",
         "Infineon"
       ]
     },
     {
-      "name": "IoT市場の拡大と無線チップの進化",
+      "name": "半導体製造技術の微細化・高密度化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "frontend",
+        "foundry",
+        "logic",
+        "memory",
+        "equipment"
+      ],
+      "summary": "2nmプロセスやCFET、裏面配線技術など、さらなる微細化・高密度化に向けた先端製造技術の開発が進展。集積回路の小型化・高性能化に貢献。",
+      "analysis": {
+        "short_term": "先端プロセス開発競争が激化。歩留まり向上が課題。",
+        "mid_term": "新構造デバイスの量産化が進む。製造装置への需要増。",
+        "investment_implications": "先端プロセス・製造装置メーカーに注目。"
+      },
+      "keywords": [
+        "2nmプロセス",
+        "CFET",
+        "裏面配線",
+        "微細化",
+        "GAAFET"
+      ],
+      "companies_mentioned": [
+        "UCSC",
+        "ETH Zürich",
+        "CISPA",
+        "NYU",
+        "日立ハイテク"
+      ]
+    },
+    {
+      "name": "IoT向け半導体の多様化と需要拡大",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "industrial",
         "automotive",
-        "analog",
-        "logic"
+        "memory",
+        "analog"
       ],
-      "summary": "民生用・産業用IoTデバイスの普及に伴い、低消費電力、高集積、高セキュリティを備えた無線通信チップの需要が拡大している。",
+      "summary": "民生用・産業用IoTの普及に伴い、低消費電力、高集積、高セキュリティを備えた無線チップや、全固体電池などの需要が拡大。",
       "analysis": {
-        "short_term": "スマートホーム、ウェアラブル機器向け需要が堅調。",
-        "mid_term": "産業IoT、自動運転分野での無線通信技術の重要性が増す。",
-        "investment_implications": "低消費電力・高集積無線チップメーカーに投資機会。"
+        "short_term": "IoTデバイスの普及が継続。チップ需要は堅調。",
+        "mid_term": "スマートシティ、自動運転など応用分野が拡大。",
+        "investment_implications": "IoT関連チップ・モジュールメーカーに注目。"
       },
       "keywords": [
         "IoT",
         "無線チップ",
-        "低消費電力",
-        "高集積",
-        "セキュリティ"
+        "全固体電池",
+        "低消費電力"
       ],
       "companies_mentioned": [
-        "ITEN"
+        "ITEN",
+        "Apple",
+        "Google"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI関連投資の継続拡大",
-      "EVシフトによるパワー半導体需要増",
-      "データセンター投資の活発化"
+      "Micronの業績過去最高更新、市場の好調を示唆。",
+      "AI関連技術・製品への投資活発化。",
+      "SiCパワー半導体の需要拡大と技術革新。"
     ],
     "bearish": [
-      "地政学リスクによるサプライチェーンの不確実性",
-      "メモリ市場の需給バランスの変動"
+      "地政学的リスクによるサプライチェーンの不確実性。",
+      "先端製造装置への巨額投資と競争激化。"
     ],
     "neutral": [
-      "スマートフォン市場の成熟化"
+      "半導体製造拠点の再編・新設の動向。"
     ]
   },
-  "source_count": 49
+  "source_count": 47
 }
