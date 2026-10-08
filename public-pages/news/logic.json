@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-01T09:20:46.677677+09:00",
+  "generated_at": "2026-10-08T09:42:38.042523+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "64-bit soft SoC expands FPGA processing",
-    "summary": "EfinixがRISC-Vベースの64ビットソフトSoC「Sapphire RV64」を発表。FPGA処理能力を拡張。",
+    "title": "FPGA IP accelerates deterministic networking",
+    "summary": "Orthogone社がAMDプラットフォーム向けに超低遅延FPGA IPポートフォリオを発表。ネットワークとデータ移動を高速化。",
     "sources": [
       {
         "name": "edn.com",
-        "url": "https://www.edn.com/64-bit-soft-soc-expands-fpga-processing"
+        "url": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "64-bit soft SoC expands FPGA processing",
-        "blurb": "EfinixがRISC-Vベースの64ビットソフトSoC「Sapphire RV64」を発表。FPGA処理能力を拡張。",
-        "category": "company",
-        "date": "2026-10-01",
+        "title": "FPGA IP accelerates deterministic networking",
+        "blurb": "Orthogone社がAMDプラットフォーム向けに超低遅延FPGA IPポートフォリオを発表。ネットワークとデータ移動を高速化。",
+        "category": "business",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/64-bit-soft-soc-expands-fpga-processing"
+          "url": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
+          "industry": "fabless"
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

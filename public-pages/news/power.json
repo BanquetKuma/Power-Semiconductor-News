@@ -1,32 +1,51 @@
 {
-  "generated_at": "2026-10-01T09:20:46.676997+09:00",
+  "generated_at": "2026-10-08T09:42:38.042142+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Renesas 650V GaN Enables High-Density 800V AI Power",
-    "summary": "ルネサスが650V GaNデバイスを発表。高密度800V AI電源向けで、低オン抵抗と両面冷却を両立。",
+    "title": "Toshiba Launches 3300V High-Power SiC MOSFET Module",
+    "summary": "東芝、3300V/800AのSiC MOSFETモジュールを発売。高電力変換システム向け。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/renesas-650v-gan-enables-high-density-800v-ai-power"
+        "url": "https://www.powerelectronicsnews.com/toshiba-launches-3300v-high-power-sic-mosfet-module"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Renesas 650V GaN Enables High-Density 800V AI Power",
-        "blurb": "ルネサスが650V GaNデバイスを発表。高密度800V AI電源向けで、低オン抵抗と両面冷却を両立。",
-        "category": "business",
-        "date": "2026-10-01",
+        "title": "Toshiba Launches 3300V High-Power SiC MOSFET Module",
+        "blurb": "東芝、3300V/800AのSiC MOSFETモジュールを発売。高電力変換システム向け。",
+        "category": "company",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/renesas-650v-gan-enables-high-density-800v-ai-power"
+          "url": "https://www.powerelectronicsnews.com/toshiba-launches-3300v-high-power-sic-mosfet-module"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [],
+    "market": [
+      {
+        "title": "GaN FET meets megawatt-scale demands",
+        "blurb": "ルネサス、業界初の650V GaN FETをサンプリング開始。データセンター向けでメガワット級の需要に対応。",
+        "category": "business",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/gan-fet-meets-megawatt-scale-demands"
         },
         "field": {
           "primary": "power",

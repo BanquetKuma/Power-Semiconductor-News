@@ -1,116 +1,66 @@
 {
-  "generated_at": "2026-10-07T09:21:07.273378+09:00",
+  "generated_at": "2026-10-08T09:42:38.040922+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Ultra-Compact Photonic Bends Reduce Loss While Meeting Foundry Rules (Georgia Tech)",
-    "summary": "ジョージア工科大が、損失を抑えつつ製造規則を満たす超小型フォトニック導波路ベンドを開発。集積回路の小型化に貢献。",
+    "title": "2026 IEEE Long Island Power Electronics Symposium",
+    "summary": "IEEE長島パワーエレクトロニクスシンポジウムが11月5日にニューヨーク州ハップポーグで開催。技術講演、展示、交流会が行われる。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/ultra-compact-photonic-bends-reduce-loss-while-meeting-foundry-rules-georgia-tech"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/2026-ieee-long-island-power-electronics-symposium"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Jaguar Says America Is The Most Important Market For Its New Electric Sedan",
-        "blurb": "ジャガーは新型EVセダン「Type 01」について、13万ドルの高価格帯ながら米国とカナダが最重要市場だと発表しました。",
+        "title": "FPGA IP accelerates deterministic networking",
+        "blurb": "Orthogone社がAMDプラットフォーム向けに超低遅延FPGA IPポートフォリオを発表。ネットワークとデータ移動を高速化。",
         "category": "business",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810951/type-01-sedan-jaguar-important"
-        },
-        "field": null
-      },
-      {
-        "title": "Even Russia Is Beating The U.S. In EV and PHEV Market Share",
-        "blurb": "ロシアではガソリン不足からEV・PHEV市場が拡大。中国製が中心。米国を上回る。",
-        "category": "business",
-        "date": "2026-10-07",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810941/russia-passes-america-ev-share"
+          "name": "edn.com",
+          "url": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking"
         },
         "field": {
-          "primary": "automotive",
-          "device": null,
+          "primary": "logic",
+          "device": "logic",
           "process": null,
-          "market": "automotive",
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "GaN FET meets megawatt-scale demands",
+        "blurb": "ルネサス、業界初の650V GaN FETをサンプリング開始。データセンター向けでメガワット級の需要に対応。",
+        "category": "business",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/gan-fet-meets-megawatt-scale-demands"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
           "industry": null
         }
       }
     ],
     "tools": [
       {
-        "title": "Programmable Memory Controller Eases Adoption of New DRAM Techniques (ETH Zürich, CISPA, NYU)",
-        "blurb": "新DRAM技術の採用を容易にするプログラマブルメモリコントローラが開発された。これにより性能、電力効率、堅牢性が向上する。",
+        "title": "Microphone array advances acoustic detection",
+        "blurb": "sensiBel社がエッジAI向けに32個の光学MEMSマイクを備えたスパイラルアレイ評価キット「NOVA32」を発表。音響検出技術を進化させる。",
         "category": "tools",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/programmable-memory-controller-eases-adoption-of-new-dram-techniques-eth-zurich-cispa-nyu"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "company": [
-      {
-        "title": "Ultra-Compact Photonic Bends Reduce Loss While Meeting Foundry Rules (Georgia Tech)",
-        "blurb": "ジョージア工科大が、損失を抑えつつ製造規則を満たす超小型フォトニック導波路ベンドを開発。集積回路の小型化に貢献。",
-        "category": "company",
-        "date": "2026-10-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/ultra-compact-photonic-bends-reduce-loss-while-meeting-foundry-rules-georgia-tech"
-        },
-        "field": {
-          "primary": "foundry",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": "foundry"
-        }
-      },
-      {
-        "title": "Monolithic 3D Memristor-TFT Stack For Programmable Neuromorphic Computing (SNU, Yonsei)",
-        "blurb": "ソウル大と延世大の研究者が、電気的にプログラム可能なニューロモルフィックコンピューティング向け積層型メモリスタ-TFTを発表。",
-        "category": "company",
-        "date": "2026-10-07",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/monolithic-3d-memristor-tft-stack-for-programmable-neuromorphic-computing-snu-yonsei"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Innodisk Unveils Industrial DDR5 8000 RDIMM",
-        "blurb": "Innodiskが産業用DDR5 8000 RDIMMを発表。エッジAIやサーバー向けで、転送速度8000 MT/sを実現。",
-        "category": "company",
-        "date": "2026-10-07",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/innodisk-unveils-industrial-ddr5-8000-rdimm"
+          "name": "edn.com",
+          "url": "https://www.edn.com/microphone-array-advances-acoustic-detection"
         },
         "field": {
           "primary": "ai",
@@ -121,74 +71,142 @@
         }
       },
       {
-        "title": "Jaguar Heard The Rebrand Haters. It Doesn't Think They're Its Customers",
-        "blurb": "ジャガーのトップは、ブランド再編への批判は顧客層とは関係ないとし、方針変更への理解を求めた。",
-        "category": "company",
-        "date": "2026-10-07",
+        "title": "Silicon Labs Expands AI Tools for Embedded IoT Development",
+        "blurb": "Silicon LabsがAI開発ツールを拡充。組み込みIoT開発、検証、エッジAIライフサイクル管理を強化し、Simplicityプラットフォームを進化。",
+        "category": "tools",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810986/jaguar-culture-war-result-ad"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/silicon-labs-expands-ai-tools-for-embedded-iot-development"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "2026 IEEE Long Island Power Electronics Symposium",
+        "blurb": "IEEE長島パワーエレクトロニクスシンポジウムが11月5日にニューヨーク州ハップポーグで開催。技術講演、展示、交流会が行われる。",
+        "category": "company",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/2026-ieee-long-island-power-electronics-symposium"
         },
         "field": null
       },
       {
-        "title": "The Jaguar Type 01 Won't Be The Only Model To Look Like This",
-        "blurb": "ジャガー新型モデル「タイプ01」は、今後登場する他のモデルと共通のデザイン言語を持つ。",
+        "title": "Toshiba Launches 3300V High-Power SiC MOSFET Module",
+        "blurb": "東芝、3300V/800AのSiC MOSFETモジュールを発売。高電力変換システム向け。",
         "category": "company",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810950/jaguar-new-model-coming-soon"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/toshiba-launches-3300v-high-power-sic-mosfet-module"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)",
+        "blurb": "カールツァイスとASMLが、0.75以上の開口数を持つ次世代露光技術「Hyper-NA EUV」を発表。高NA EUVの先を見据えた技術。",
+        "category": "company",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hyper-na-euv-the-next-extension-beyond-high-na-lithography-carl-zeiss-asml"
+        },
+        "field": {
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Global-shutter sensor raises pixel density",
+        "blurb": "Omnivisionの新センサーOG05Dは、2.2µmでHDR対応の小型グローバルシャッターを実現し、ピクセル密度を向上させた。",
+        "category": "company",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/global-shutter-sensor-raises-pixel-density"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Quad beamformer simplifies X-band radar design",
+        "blurb": "Qorvo社がXバンドレーダー向けに、7.9～12GHzで動作する4チャンネルビームフォーマーIC「QPX0252」を発表。レーダー設計を簡素化。",
+        "category": "company",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/quad-beamformer-simplifies-x-band-radar-design"
         },
         "field": null
       },
       {
-        "title": "The Jaguar Type 01 Is A 1,000-horsepower Beast. But It Isn’t For Everyone",
-        "blurb": "ジャガー新型「Type 01」は1000馬力のEVだが、高価で実用性に欠け、一部で賛否両論を呼びそう。",
+        "title": "ST Pairs Vibration-Immune Gyroscopes With Dual Accelerometers",
+        "blurb": "STマイクロエレクトロニクスは、外部ノイズに強い振動除去ジャイロスコープとデュアル加速度センサーをペアにした新製品を発表しました。",
         "category": "company",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/st-pairs-vibration-immune-gyroscopes-with-dual-accelerometers"
+        },
+        "field": {
+          "primary": "industrial",
+          "device": null,
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "The BMW iX4 Is An Electric X4 With Over 400 Miles Of Range",
+        "blurb": "BMWの新型EV「iX4」は、航続距離400マイル超えで、iX3に迫る性能。",
+        "category": "company",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810839/jaguar-type-01-launch-ev"
+          "url": "https://insideevs.com/news/811066/bmw-ix4-ev-official-specs-range-charging-options"
         },
         "field": null
       },
       {
-        "title": "The Tesla Model 3 And Model Y Can Now Power Your Home In A Blackout",
-        "blurb": "テスラ車、停電時に自宅へ給電可能に。モデル3とYで「PowerShare」機能が利用可能に。",
+        "title": "1 In 4 New Mercedes Cars Sold Last Quarter Had A Plug",
+        "blurb": "メルセデス・ベンツのEV販売が急増、前年同期比61%増。販売台数の4分の1がプラグイン車となった。",
         "category": "company",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810989/tesla-model-y-model-3-home-backup-powershare"
-        },
-        "field": null
-      },
-      {
-        "title": "Ionna Wants To Teach Car Dealers How To Sell EVs",
-        "blurb": "EV普及のため、販売店向けに航続距離や充電に関する教育プログラムを提供する。",
-        "category": "company",
-        "date": "2026-10-07",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810966/ionna-charging-dealership-training"
-        },
-        "field": null
-      },
-      {
-        "title": "Mitsubishi's Clone Of The Nissan Leaf Isn't All That Cheap",
-        "blurb": "三菱の新型EV「eKクロスEV」は、日産リーフより8000ドル高価で、価格競争力に課題。",
-        "category": "company",
-        "date": "2026-10-07",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810979/mitsubishi-eclipse-ev-more-expensive"
+          "url": "https://insideevs.com/news/811103/mercedes-q3-sales-25-plug"
         },
         "field": {
           "primary": "automotive",
@@ -199,14 +217,14 @@
         }
       },
       {
-        "title": "Honda Will Test Wireless EV Chargers On The Highway In 2027",
-        "blurb": "ホンダは2027年、都内近郊の高速道路でワイヤレスEV充電の実証実験を開始する。",
+        "title": "'Magnificent' Or 'Hideous?' People Are Divided On Jaguar's $130,000 EV",
+        "blurb": "ジャガーの新型EV「Type 01」が発表された。13万ドル（約1950万円）という高価格帯で、賛否両論を呼んでいる。",
         "category": "company",
-        "date": "2026-10-07",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/810955/honda-wireless-highway-ev-charging"
+          "url": "https://insideevs.com/news/811093/jaguar-type-01-public-reaction"
         },
         "field": {
           "primary": "automotive",
@@ -215,6 +233,42 @@
           "market": "automotive",
           "industry": null
         }
+      },
+      {
+        "title": "How Tesla Is Pressuring European Regulators To Approve FSD",
+        "blurb": "テスラは欧州規制当局にFSD承認を迫る。イーロン・マスクらは「承認遅延は人命を奪う」と主張するが、科学者は証拠がないと反論。",
+        "category": "company",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/811098/tesla-pressure-campaign-europe-fsd-approval"
+        },
+        "field": null
+      },
+      {
+        "title": "The Rivian R2's 'Pet Mode' Now Lets You Monitor Your Dog With A Live Stream",
+        "blurb": "リビアンR2、愛犬を車内からライブ配信で確認できる「ペットモード」を搭載。定期的なステータス写真の送信も可能。",
+        "category": "company",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/811090/rivian-r2-update-assistant-pet"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla FSD Just Got The Green Light From Germany. But It Might Need A New Name",
+        "blurb": "独規制当局、テスラのFSD（完全自動運転）の欧州承認を支持。ただし、「完全自動運転」の名称変更を要求。",
+        "category": "company",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/811088/tesla-fsd-gains-support-germany"
+        },
+        "field": null
       }
     ],
     "sns": []

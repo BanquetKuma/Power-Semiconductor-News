@@ -1,30 +1,49 @@
 {
-  "generated_at": "2026-10-07T09:21:07.274856+09:00",
+  "generated_at": "2026-10-08T09:42:38.043346+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Innodisk Unveils Industrial DDR5 8000 RDIMM",
-    "summary": "Innodiskが産業用DDR5 8000 RDIMMを発表。エッジAIやサーバー向けで、転送速度8000 MT/sを実現。",
+    "title": "Microphone array advances acoustic detection",
+    "summary": "sensiBel社がエッジAI向けに32個の光学MEMSマイクを備えたスパイラルアレイ評価キット「NOVA32」を発表。音響検出技術を進化させる。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/innodisk-unveils-industrial-ddr5-8000-rdimm"
+        "name": "edn.com",
+        "url": "https://www.edn.com/microphone-array-advances-acoustic-detection"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "Innodisk Unveils Industrial DDR5 8000 RDIMM",
-        "blurb": "Innodiskが産業用DDR5 8000 RDIMMを発表。エッジAIやサーバー向けで、転送速度8000 MT/sを実現。",
-        "category": "company",
-        "date": "2026-10-07",
+        "title": "Microphone array advances acoustic detection",
+        "blurb": "sensiBel社がエッジAI向けに32個の光学MEMSマイクを備えたスパイラルアレイ評価キット「NOVA32」を発表。音響検出技術を進化させる。",
+        "category": "tools",
+        "date": "2026-10-08",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/microphone-array-advances-acoustic-detection"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Silicon Labs Expands AI Tools for Embedded IoT Development",
+        "blurb": "Silicon LabsがAI開発ツールを拡充。組み込みIoT開発、検証、エッジAIライフサイクル管理を強化し、Simplicityプラットフォームを進化。",
+        "category": "tools",
+        "date": "2026-10-08",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/innodisk-unveils-industrial-ddr5-8000-rdimm"
+          "url": "https://www.embedded.com/silicon-labs-expands-ai-tools-for-embedded-iot-development"
         },
         "field": {
           "primary": "ai",
@@ -35,7 +54,6 @@
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }
