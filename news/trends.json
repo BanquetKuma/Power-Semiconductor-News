@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T09:42:42.255890+09:00",
-  "date": "2026-10-08",
+  "generated_at": "2026-10-09T09:58:01.448496+09:00",
+  "date": "2026-10-09",
   "meta_trends": [
     {
-      "name": "SiC/GaNパワー半導体の普及拡大",
+      "name": "SiCパワー半導体の進化と普及",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -12,158 +12,158 @@
         "industrial",
         "datacenter"
       ],
-      "summary": "SiCやGaNといった次世代パワー半導体の採用が、EV、AIサーバー、産業機器など幅広い分野で加速。高効率化と小型化に貢献。",
+      "summary": "SiC（炭化ケイ素）を用いた高耐圧・高効率パワー半導体の開発・採用が加速。EV、AIサーバー、産業機器での需要増が背景。",
       "analysis": {
-        "short_term": "需要拡大継続。供給能力が鍵。",
-        "mid_term": "コスト競争力向上と用途拡大が進む。",
-        "investment_implications": "SiC/GaN関連企業への投資妙味あり。"
+        "short_term": "供給能力拡大とコスト低減が進む。",
+        "mid_term": "800Vシステムへの対応が進み、さらなる用途拡大。",
+        "investment_implications": "SiC材料・デバイスメーカーに注目。"
       },
       "keywords": [
         "SiC",
-        "GaN",
+        "パワー半導体",
         "EV",
-        "AIサーバー",
-        "高効率"
+        "AIサーバー"
       ],
       "companies_mentioned": [
-        "Toshiba",
+        "Skyworks",
+        "東芝",
         "Vishay",
-        "Infineon",
         "ローム",
-        "ルネサス",
         "レゾナック"
       ]
     },
     {
-      "name": "AIチップと熱管理の高度化",
+      "name": "先端パッケージング技術の重要性増大",
       "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "logic",
+        "ai",
+        "datacenter",
+        "equipment"
+      ],
+      "summary": "チップレット化や高密度実装に対応するため、ハイブリッドボンディング等の先端パッケージング技術が重要に。プロセス制御と欠陥検出が鍵。",
+      "analysis": {
+        "short_term": "プロセス制御・検査装置への投資が増加。",
+        "mid_term": "チップレットエコシステムの成熟を加速。",
+        "investment_implications": "先端パッケージング関連企業に注目。"
+      },
+      "keywords": [
+        "チップレット",
+        "ハイブリッドボンディング",
+        "プロセス制御",
+        "欠陥検出"
+      ],
+      "companies_mentioned": [
+        "Delos",
+        "日立ハイテク",
+        "ZEISS"
+      ]
+    },
+    {
+      "name": "AI・データセンター向け高性能化",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "datacenter",
-        "frontend",
-        "backend",
+        "logic",
+        "power",
         "equipment"
       ],
-      "summary": "AIチップの高密度化・高性能化に伴い、熱管理が喫緊の課題に。ダイヤモンドなどの新素材や先進的な冷却技術が求められる。",
+      "summary": "AI・データセンターの計算能力・データ処理能力向上のため、GPU、CPU、メモリの低遅延接続やシステムレベルテストが重要化。",
       "analysis": {
-        "short_term": "熱問題解決技術への注目高まる。",
-        "mid_term": "AIインフラ投資の拡大が続く。",
-        "investment_implications": "熱管理ソリューション関連企業が有望。"
+        "short_term": "高性能CPU/GPU、高速インターコネクト需要増。",
+        "mid_term": "システムレベルテストの重要性がさらに高まる。",
+        "investment_implications": "AI向け半導体・インフラ関連企業に注目。"
       },
       "keywords": [
         "AI",
-        "熱管理",
         "データセンター",
-        "ダイヤモンド",
-        "冷却"
+        "チップレット",
+        "システムレベルテスト"
       ],
       "companies_mentioned": [
+        "Delos",
         "NVIDIA",
-        "Carl Zeiss",
-        "ASML",
-        "日立ハイテク"
+        "STマイクロエレクトロニクス"
       ]
     },
     {
-      "name": "先端微細化と新構造デバイス",
+      "name": "新材料・新プロセス技術の探求",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "frontend",
-        "logic",
-        "memory",
-        "foundry",
+        "backend",
+        "wafer",
         "equipment"
       ],
-      "summary": "EUV露光技術の進化やCFET、GAAFETなどの新構造デバイス開発が進展。ムーアの法則の限界を超えるための技術革新が加速。",
+      "summary": "ダイヤモンド、原子層制御技術、プラズマ処理など、既存材料・プロセスに代わる革新的技術の研究開発が進展。",
       "analysis": {
-        "short_term": "次世代プロセス開発競争が激化。",
-        "mid_term": "新構造デバイスの量産化が焦点。",
-        "investment_implications": "先端プロセス・装置メーカーに注目。"
+        "short_term": "基礎研究から応用開発への移行期。",
+        "mid_term": "次世代デバイスの性能向上に貢献。",
+        "investment_implications": "材料・プロセス技術開発企業に注目。"
       },
       "keywords": [
-        "EUV",
-        "CFET",
-        "GAAFET",
-        "微細化",
-        "露光"
+        "ダイヤモンド",
+        "原子層制御",
+        "プラズマ",
+        "新材料"
       ],
       "companies_mentioned": [
-        "ASML",
-        "Carl Zeiss",
-        "Micron",
-        "UCSC"
+        "Diamond Quanta",
+        "東大",
+        "金沢大",
+        "カールツァイス",
+        "ASML"
       ]
     },
     {
-      "name": "フォトニクスと集積化技術",
-      "confidence": 0.75,
+      "name": "半導体市場の記録的成長",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
-        "logic",
-        "analog",
-        "datacenter",
-        "miniaturization"
+        "foundry",
+        "fabless",
+        "idm",
+        "geopolitics"
       ],
-      "summary": "光技術（フォトニクス）と電子回路の集積化が進展。データ転送速度向上や低消費電力化に貢献し、次世代通信やAI応用が期待される。",
+      "summary": "半導体市場が史上初の8ヶ月で1兆ドルを突破。AI、データセンター、自動車分野の需要が市場拡大を牽引。",
       "analysis": {
-        "short_term": "集積フォトニクス技術への投資増。",
-        "mid_term": "データセンターや通信分野での応用拡大。",
-        "investment_implications": "フォトニクス関連スタートアップに注目。"
+        "short_term": "需要増が供給制約を上回る可能性。",
+        "mid_term": "市場の持続的成長が期待される。",
+        "investment_implications": "主要プレイヤーの業績拡大に期待。"
       },
       "keywords": [
-        "フォトニクス",
-        "集積化",
-        "光通信",
-        "低消費電力"
-      ],
-      "companies_mentioned": [
-        "Georgia Tech"
-      ]
-    },
-    {
-      "name": "AI/MLの半導体設計・製造への応用",
-      "confidence": 0.7,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "frontend",
-        "backend",
-        "equipment",
-        "foundry"
-      ],
-      "summary": "AI/ML技術がEDA（電子設計自動化）や製造プロセス（欠陥検査など）に応用され、開発効率向上や品質改善に貢献。",
-      "analysis": {
-        "short_term": "AI活用による効率化が進む。",
-        "mid_term": "設計・製造の自動化・最適化が進展。",
-        "investment_implications": "AIを活用するEDA・装置メーカーが有利。"
-      },
-      "keywords": [
+        "市場成長",
         "AI",
-        "ML",
-        "EDA",
-        "欠陥検査",
-        "自動化"
+        "データセンター",
+        "自動車"
       ],
       "companies_mentioned": [
-        "日立ハイテク"
+        "Micron Technology"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "Micronの業績過去最高更新",
-      "AIサーバー向け電源需要の増加",
-      "SiC/GaNパワー半導体の採用拡大"
+      "半導体市場全体の記録的な成長（記事21）",
+      "SiCパワー半導体の需要拡大と技術進化（記事2, 4, 6, 7, 23, 29）",
+      "AI・データセンター向け高性能化の加速（記事5, 16, 20, 24）",
+      "先端パッケージング技術への投資活発化（記事8, 13, 14, 18）",
+      "主要半導体メーカーの業績好調（記事26）"
     ],
     "bearish": [
-      "EV市場の減速懸念（一部報道）"
+      "ファブデータ管理の複雑化（記事12）",
+      "CPOテストにおける技術的課題（記事15）"
     ],
     "neutral": [
-      "先端パッケージング技術への注目継続"
+      "新材料・新プロセス技術の研究開発（記事1, 9, 19, 27）",
+      "半導体開発における可視性の課題（記事10）",
+      "次世代露光技術の開発（記事17）"
     ]
   },
-  "source_count": 47
+  "source_count": 50
 }
