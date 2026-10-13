@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-08T09:42:38.042907+09:00",
+  "generated_at": "2026-10-13T11:24:53.496915+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Global-shutter sensor raises pixel density",
-    "summary": "Omnivisionの新センサーOG05Dは、2.2µmでHDR対応の小型グローバルシャッターを実現し、ピクセル密度を向上させた。",
+    "title": "TI Unveils High-Speed ADC for AI Data Center Monitoring",
+    "summary": "TIがAIデータセンター監視向け高速ADCを発表。AIインフラ向けに、過渡故障検出、高電圧保護、高精度クロッキングを統合。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/global-shutter-sensor-raises-pixel-density"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/ti-unveils-high-speed-adc-for-ai-data-center-monitoring"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Global-shutter sensor raises pixel density",
-        "blurb": "Omnivisionの新センサーOG05Dは、2.2µmでHDR対応の小型グローバルシャッターを実現し、ピクセル密度を向上させた。",
-        "category": "company",
-        "date": "2026-10-08",
+        "title": "TI Unveils High-Speed ADC for AI Data Center Monitoring",
+        "blurb": "TIがAIデータセンター監視向け高速ADCを発表。AIインフラ向けに、過渡故障検出、高電圧保護、高精度クロッキングを統合。",
+        "category": "business",
+        "date": "2026-10-13",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/global-shutter-sensor-raises-pixel-density"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/ti-unveils-high-speed-adc-for-ai-data-center-monitoring"
         },
         "field": {
           "primary": "analog",
           "device": "analog",
           "process": null,
-          "market": null,
+          "market": "datacenter",
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

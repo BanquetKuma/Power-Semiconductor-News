@@ -1,93 +1,91 @@
 {
-  "generated_at": "2026-10-12T09:12:51.615592+09:00",
-  "date": "2026-10-12",
+  "generated_at": "2026-10-13T11:24:57.349492+09:00",
+  "date": "2026-10-13",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体の需要拡大",
+      "name": "AI・データセンター向けパワー半導体需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
-        "datacenter"
+        "datacenter",
+        "ai",
+        "logic"
       ],
-      "summary": "SiCパワー半導体は、EV、データセンター、産業機器での高効率化ニーズから需要が急拡大。特に800Vシステムへの対応が鍵。",
+      "summary": "AIデータセンターの電力変換効率向上と高密度化のため、GaNやSiCを用いた高電圧・高効率パワー半導体の需要が急増している。",
       "analysis": {
-        "short_term": "EV市場の動向に左右されるが、データセンター向けは堅調。",
-        "mid_term": "800Vシステム普及で、車載・データセンター両面で成長加速。",
-        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味増す。"
+        "short_term": "需要は引き続き堅調。供給能力が鍵。",
+        "mid_term": "800VDC化など新規格対応が加速。",
+        "investment_implications": "パワー半導体メーカーに注目。"
       },
       "keywords": [
-        "SiC",
-        "EV",
+        "AI",
         "データセンター",
+        "GaN",
+        "SiC",
         "800V"
       ],
       "companies_mentioned": [
         "Navitas",
         "Microchip",
-        "Skyworks",
-        "Toshiba",
         "Infineon",
         "Eaton",
+        "Toshiba",
         "ローム"
       ]
     },
     {
-      "name": "AI・データセンター向け高性能化",
+      "name": "次世代半導体材料・技術の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "datacenter",
+        "frontend",
         "logic",
-        "power",
-        "backend"
+        "memory",
+        "power"
       ],
-      "summary": "AI需要が半導体市場を牽引。データセンターの高密度化、高速化、低消費電力化が求められ、チップレットや先端パッケージング技術が重要に。",
+      "summary": "2D半導体、ダイヤモンド、AlGaN/GaN、p型BCNなど、既存材料に代わる新材料や、原子レベルでの精密制御技術開発が進展。",
       "analysis": {
-        "short_term": "AIチップ、データセンター向け需要は引き続き高水準。",
-        "mid_term": "チップレット、CPO、先進パッケージング技術の進化が競争力を左右。",
-        "investment_implications": "AIインフラ関連企業、先端パッケージング技術を持つ企業に注目。"
+        "short_term": "研究開発段階だが、将来性は高い。",
+        "mid_term": "特定用途での実用化が期待される。",
+        "investment_implications": "先端材料・プロセス技術企業に注目。"
       },
       "keywords": [
-        "AI",
-        "データセンター",
-        "チップレット",
-        "先端パッケージング",
-        "1兆ドル市場"
+        "2D半導体",
+        "ダイヤモンド",
+        "GaN",
+        "BCN",
+        "材料"
       ],
       "companies_mentioned": [
-        "Delos",
-        "GF",
-        "TSMC",
-        "Emergence AI",
-        "Rebellions"
+        "Diamond Quanta",
+        "Monolith",
+        "東大",
+        "KAIST"
       ]
     },
     {
-      "name": "先端パッケージング技術の進化",
-      "confidence": 0.85,
+      "name": "先端パッケージング技術の重要性増大",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "logic",
+        "memory",
         "ai",
-        "datacenter",
-        "miniaturization"
+        "datacenter"
       ],
-      "summary": "半導体性能向上のボトルネック解消のため、チップレット、ハイブリッドボンディング等の先端パッケージング技術が不可欠となっている。",
+      "summary": "チップレット化や高性能化に伴い、ハイブリッドボンディングなどの先端パッケージング技術が性能向上とコスト削減の鍵となる。",
       "analysis": {
-        "short_term": "歩留まり改善、プロセス制御技術の重要性が増す。",
-        "mid_term": "CoWoS等、高度なパッケージング技術が市場競争を左右。",
-        "investment_implications": "先進パッケージング関連技術・ファウンドリへの投資妙味。"
+        "short_term": "歩留まり改善が最重要課題。",
+        "mid_term": "CoWoSなどの高度なパッケージング需要増。",
+        "investment_implications": "パッケージング受託・材料メーカーに注目。"
       },
       "keywords": [
-        "先端パッケージング",
         "チップレット",
         "ハイブリッドボンディング",
         "CoWoS",
-        "歩留まり"
+        "先端パッケージング"
       ],
       "companies_mentioned": [
         "GF",
@@ -96,83 +94,74 @@
       ]
     },
     {
-      "name": "パワーエレクトロニクス革新",
-      "confidence": 0.8,
+      "name": "車載半導体、SiC・GaN採用拡大",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "datacenter",
         "automotive",
-        "industrial"
+        "logic"
       ],
-      "summary": "データセンターの高密度化、EVの高性能化に対応するため、パワーエレクトロニクス分野で革新的な技術開発が進んでいる。",
+      "summary": "EVの普及や電動化の進展により、SiCやGaNを用いた高効率・高耐圧なパワー半導体の車載用途での採用が拡大している。",
       "analysis": {
-        "short_term": "800V電源、高密度電力変換技術の採用が進む。",
-        "mid_term": "ダイヤモンド材料、ハイブリッド固体開閉器など新技術の応用拡大。",
-        "investment_implications": "パワー半導体、関連材料・技術開発企業に注目。"
+        "short_term": "EV市場の動向に左右される。",
+        "mid_term": "次世代EV向けにSiC/GaNの重要性が増す。",
+        "investment_implications": "車載向けパワー半導体メーカーに注目。"
       },
       "keywords": [
-        "パワーエレクトロニクス",
-        "データセンター",
         "EV",
-        "800V",
-        "ダイヤモンド"
+        "SiC",
+        "GaN",
+        "車載"
       ],
       "companies_mentioned": [
-        "Navitas",
-        "Microchip",
-        "Diamond Quanta",
-        "Infineon",
-        "Eaton",
-        "ローム"
+        "Skyworks",
+        "ローム",
+        "Infineon"
       ]
     },
     {
-      "name": "テスト・計測技術の高度化",
-      "confidence": 0.75,
+      "name": "AI・データ移動・メモリ分野への資金集中",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "equipment",
-        "backend",
         "ai",
-        "datacenter",
-        "frontend"
+        "memory",
+        "logic",
+        "datacenter"
       ],
-      "summary": "半導体開発の複雑化、先端パッケージング、AI・データセンター向け製品の登場により、高度なテスト・計測技術の重要性が増している。",
+      "summary": "2026年第3四半期のスタートアップ資金調達では、データ移動・メモリ分野の企業が大型調達を達成しており、AI関連への投資が継続。",
       "analysis": {
-        "short_term": "欠陥検出、プロセス制御の自動化・高度化が求められる。",
-        "mid_term": "システムレベルテスト、可視性向上技術が競争優位性を左右。",
-        "investment_implications": "テスト・計測機器メーカー、関連ソフトウェア企業に注目。"
+        "short_term": "AI・データ関連への投資は活発。",
+        "mid_term": "技術革新が早い分野は資金調達も活発。",
+        "investment_implications": "AI・メモリ関連スタートアップに注目。"
       },
       "keywords": [
-        "テスト",
-        "計測",
-        "欠陥検出",
-        "プロセス制御",
         "AI",
-        "システムレベルテスト"
+        "メモリ",
+        "データ移動",
+        "スタートアップ",
+        "資金調達"
       ],
       "companies_mentioned": [
-        "ZEISS",
-        "Diamond Quanta"
+        "Delos"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "半導体市場、2026年に1兆ドル突破の見通し",
-      "AI需要による半導体市場の力強い成長",
-      "SiCパワー半導体の需要拡大と技術革新",
-      "データセンター向け高性能化・高密度化の加速"
+      "AI需要による半導体市場の1兆ドル突破（2026年見通し）",
+      "データセンターの拡大と高密度化",
+      "EV市場の電動化進展による車載半導体需要増",
+      "先端パッケージング技術への巨額投資と契約"
     ],
     "bearish": [
-      "EV市場の成長鈍化による一部セグメントへの影響",
-      "地政学的リスクによるサプライチェーンの不確実性"
+      "一部のスタートアップにおける資金調達の停滞（全体としては活発だが、分野による差）"
     ],
     "neutral": [
-      "有機半導体、BCNなどの新材料・新技術開発の進展",
-      "EUVリソグラフィ技術の継続的な進化"
+      "半導体製造装置のEUV進化と巨額ファウンドリ契約",
+      "量子技術への関心と開発動向"
     ]
   },
-  "source_count": 52
+  "source_count": 53
 }
