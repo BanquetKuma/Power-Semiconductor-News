@@ -1,49 +1,30 @@
 {
-  "generated_at": "2026-10-13T11:24:53.498529+09:00",
+  "generated_at": "2026-10-14T09:08:04.066831+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "On-Chip Monitors Detect Bit-Flip Attacks in AI Accelerators (UF, UT Dallas, RPI)",
-    "summary": "UFなどの研究者、AIアクセラレータ向けにビット反転攻撃を検出するチップ内モニターを開発。安全性向上に貢献。",
+    "title": "Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)",
+    "summary": "コロンビア大学とGoogleの研究者らが、AIを活用し半導体設計検証におけるRTL波形解析とデバッグを自動化する技術を発表。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/on-chip-monitors-detect-bit-flip-attacks-in-ai-accelerators-uf-ut-dallas-rpi"
+        "url": "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "On-Chip Monitors Detect Bit-Flip Attacks in AI Accelerators (UF, UT Dallas, RPI)",
-        "blurb": "UFなどの研究者、AIアクセラレータ向けにビット反転攻撃を検出するチップ内モニターを開発。安全性向上に貢献。",
-        "category": "tools",
-        "date": "2026-10-13",
+        "title": "Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)",
+        "blurb": "コロンビア大学とGoogleの研究者らが、AIを活用し半導体設計検証におけるRTL波形解析とデバッグを自動化する技術を発表。",
+        "category": "company",
+        "date": "2026-10-14",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/on-chip-monitors-detect-bit-flip-attacks-in-ai-accelerators-uf-ut-dallas-rpi"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "スマートフォン「iPhone」歴代モデルの要素技術（後編）",
-        "blurb": "iPhoneのリアカメラモジュールやチップ部品の実装技術について、実装技術ロードマップのモバイルデバイス、メタバースの観点から解説。",
-        "category": "tools",
-        "date": "2026-10-13",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/09/news064.html"
+          "url": "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google"
         },
         "field": {
           "primary": "general",
@@ -54,6 +35,7 @@
         }
       }
     ],
+    "tech": [],
     "market": []
   }
 }

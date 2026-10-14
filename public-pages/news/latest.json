@@ -1,176 +1,46 @@
 {
-  "generated_at": "2026-10-13T11:24:53.495550+09:00",
+  "generated_at": "2026-10-14T09:08:04.064951+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "TI Unveils High-Speed ADC for AI Data Center Monitoring",
-    "summary": "TIがAIデータセンター監視向け高速ADCを発表。AIインフラ向けに、過渡故障検出、高電圧保護、高精度クロッキングを統合。",
+    "stars": 4,
+    "title": "「米国の製造回帰が本格化」　米州の製造装置市場は3年で2倍に",
+    "summary": "米国の製造回帰が本格化し、米州の製造装置市場は3年で2倍に拡大する見通し。SEMIが最新予測を発表。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/ti-unveils-high-speed-adc-for-ai-data-center-monitoring"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/13/news072.html"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "TI Unveils High-Speed ADC for AI Data Center Monitoring",
-        "blurb": "TIがAIデータセンター監視向け高速ADCを発表。AIインフラ向けに、過渡故障検出、高電圧保護、高精度クロッキングを統合。",
+        "title": "「米国の製造回帰が本格化」　米州の製造装置市場は3年で2倍に",
+        "blurb": "米国の製造回帰が本格化し、米州の製造装置市場は3年で2倍に拡大する見通し。SEMIが最新予測を発表。",
         "category": "business",
-        "date": "2026-10-13",
-        "stars": 3,
+        "date": "2026-10-14",
+        "stars": 4,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/ti-unveils-high-speed-adc-for-ai-data-center-monitoring"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/13/news072.html"
         },
         "field": {
-          "primary": "analog",
-          "device": "analog",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Marvell Introduces Six-Channel CXL 3.2 Memory Expanders",
-        "blurb": "MarvellがAIサーバー向けにCXL 3.2メモリ拡張コントローラーを発表。メモリ容量と帯域幅を向上させ、LLM推論などのワークロードを強化。",
-        "category": "business",
-        "date": "2026-10-13",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/marvell-introduces-six-channel-cxl-3-2-memory-expanders"
-        },
-        "field": {
-          "primary": "datacenter",
+          "primary": "equipment",
           "device": null,
-          "process": null,
-          "market": "datacenter",
+          "process": "equipment",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "China Agrees To Limit Hybrid Imports To EU To 350,000 Annually",
-        "blurb": "中国、EUへのハイブリッド車輸入を年35万台に制限。EVへの高関税を回避する中国車が急増したため。",
+        "title": "EV Sales Rebound To Their Highest Level In A Year",
+        "blurb": "EV販売台数が1年ぶりの最高水準に回復。厳しい状況からの反転が期待される。",
         "category": "business",
-        "date": "2026-10-13",
+        "date": "2026-10-14",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/811656/china-eu-trade-limit-350000"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "On-Chip Monitors Detect Bit-Flip Attacks in AI Accelerators (UF, UT Dallas, RPI)",
-        "blurb": "UFなどの研究者、AIアクセラレータ向けにビット反転攻撃を検出するチップ内モニターを開発。安全性向上に貢献。",
-        "category": "tools",
-        "date": "2026-10-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/on-chip-monitors-detect-bit-flip-attacks-in-ai-accelerators-uf-ut-dallas-rpi"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "スマートフォン「iPhone」歴代モデルの要素技術（後編）",
-        "blurb": "iPhoneのリアカメラモジュールやチップ部品の実装技術について、実装技術ロードマップのモバイルデバイス、メタバースの観点から解説。",
-        "category": "tools",
-        "date": "2026-10-13",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/09/news064.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "The secret life of ferrite bead: More than just a lump on a wire",
-        "blurb": "フェライトビーズは高周波ノイズを熱に変換する、エンジニアの秘密兵器となる部品である。",
-        "category": "tools",
-        "date": "2026-10-13",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/the-secret-life-of-ferrite-bead-more-than-just-a-lump-on-a-wire"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Carbon-Dot Interface Enables Ultrathin High-κ Dielectrics on 2D Semiconductors (UIUC, NETL, Argonne, Monash)",
-        "blurb": "炭素ドット層で2D半導体上に薄膜高誘電率絶縁膜を実現。次世代半導体開発に貢献。",
-        "category": "company",
-        "date": "2026-10-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/carbon-dot-interface-enables-ultrathin-high-%ce%ba-dielectrics-on-2d-semiconductors-uiuc-netl-argonne-monash"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Deterministic Nucleation Enables Controlled Growth of 2D Semiconductors (KAIST, TDS, Hanyang et al.)",
-        "blurb": "KAISTらの研究チームは、2D半導体の結晶成長を精密に制御する「決定論的核生成」技術を発表しました。",
-        "category": "company",
-        "date": "2026-10-13",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/deterministic-nucleation-enables-controlled-growth-of-2d-semiconductors-kaist-tds-hanyang-et-al"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ペロブスカイト太陽電池の高性能化へ　岐阜大が新材料",
-        "blurb": "岐阜大がペロブスカイト太陽電池の高性能化に成功。新材料設計で「エネルギーの階段」を作り、高い光電変換効率を実現した。",
-        "category": "company",
-        "date": "2026-10-13",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/13/news045.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Volkswagen’s Family Of Cheap EVs Already Looks Like A Hit",
-        "blurb": "フォルクスワーゲン、欧州でのEV販売が20%増。中国での苦戦をカバーする。",
-        "category": "company",
-        "date": "2026-10-13",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/811680/vw-ev-sales-growing-europe"
+          "url": "https://insideevs.com/news/811825/ev-sales-q3-2026"
         },
         "field": {
           "primary": "automotive",
@@ -179,34 +49,56 @@
           "market": "automotive",
           "industry": null
         }
-      },
+      }
+    ],
+    "tools": [
       {
-        "title": "BYD's New 3-Row SUV Brings 5-Minute Flash Charging To European Families",
-        "blurb": "BYDの新SUV「Atto 8」は、5分で10%から70%まで充電可能。欧州ファミリー向け。",
-        "category": "company",
-        "date": "2026-10-13",
+        "title": "Designing Edge AI for Real-Time Systems",
+        "blurb": "リアルタイムシステム向けエッジAI設計では、センサーからOSまで全要素の連携最適化がミリ秒単位の判断に不可欠。",
+        "category": "tools",
+        "date": "2026-10-14",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/811664/byd-flash-charging-five-minutes"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/designing-edge-ai-for-real-time-systems"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)",
+        "blurb": "コロンビア大学とGoogleの研究者らが、AIを活用し半導体設計検証におけるRTL波形解析とデバッグを自動化する技術を発表。",
+        "category": "company",
+        "date": "2026-10-14",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Alpine’s Electric A310 Isn’t The Comeback You Think It Is",
-        "blurb": "アルピーヌが電動スポーツカーの可能性を示すコンセプト「A310」を発表。将来の市販モデルとは異なる。",
+        "title": "The Next VW ID. Buzz Could Get More Tech And A Lower Price Tag",
+        "blurb": "VWは次期ID. Buzzのコスト削減と技術向上を目指す。新プラットフォーム導入で価格引き下げも検討。",
         "category": "company",
-        "date": "2026-10-13",
+        "date": "2026-10-14",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/811675/alpine-a310-concept-unveiled-paris"
+          "url": "https://insideevs.com/news/811821/second-generation-vw-id-buzz"
         },
         "field": null
       }

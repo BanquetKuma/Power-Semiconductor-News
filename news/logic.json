@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-08T09:42:38.042523+09:00",
+  "generated_at": "2026-10-14T09:08:04.065770+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "FPGA IP accelerates deterministic networking",
-    "summary": "Orthogone社がAMDプラットフォーム向けに超低遅延FPGA IPポートフォリオを発表。ネットワークとデータ移動を高速化。",
+    "title": "Designing Edge AI for Real-Time Systems",
+    "summary": "リアルタイムシステム向けエッジAI設計では、センサーからOSまで全要素の連携最適化がミリ秒単位の判断に不可欠。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/designing-edge-ai-for-real-time-systems"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "FPGA IP accelerates deterministic networking",
-        "blurb": "Orthogone社がAMDプラットフォーム向けに超低遅延FPGA IPポートフォリオを発表。ネットワークとデータ移動を高速化。",
-        "category": "business",
-        "date": "2026-10-08",
+        "title": "Designing Edge AI for Real-Time Systems",
+        "blurb": "リアルタイムシステム向けエッジAI設計では、センサーからOSまで全要素の連携最適化がミリ秒単位の判断に不可欠。",
+        "category": "tools",
+        "date": "2026-10-14",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/fpga-ip-accelerates-deterministic-networking"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/designing-edge-ai-for-real-time-systems"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
-          "industry": "fabless"
+          "market": "ai",
+          "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }
