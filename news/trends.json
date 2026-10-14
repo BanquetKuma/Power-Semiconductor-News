@@ -1,162 +1,163 @@
 {
-  "generated_at": "2026-10-14T09:08:08.452808+09:00",
-  "date": "2026-10-14",
+  "generated_at": "2026-10-15T08:40:10.353825+09:00",
+  "date": "2026-10-15",
   "meta_trends": [
     {
-      "name": "AIインフラ向けパワー半導体需要拡大",
+      "name": "AI向け電力供給強化",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "ai",
-        "datacenter"
+        "datacenter",
+        "ai"
       ],
-      "summary": "AI処理能力向上に伴い、データセンター向けに高効率・高電力密度なパワー半導体の需要が急増。800VDC化や新材料（GaN, SiC）の採用が進む。",
+      "summary": "AIプロセッサの電力変換効率向上と高密度化に対応するため、次世代パワー半導体技術と統合ソリューションへの投資が加速。",
       "analysis": {
-        "short_term": "需要増は継続。供給能力が鍵。",
-        "mid_term": "技術革新と標準化が進む。",
-        "investment_implications": "パワー半導体メーカーに注目。"
+        "short_term": "AIチップの性能向上に伴い、高効率・高密度電源ソリューションへの需要増。",
+        "mid_term": "AIデータセンターの電力インフラが競争力の源泉に。",
+        "investment_implications": "AI向けパワー半導体、電源管理ICメーカーに注目。"
       },
       "keywords": [
         "AI",
-        "データセンター",
-        "800VDC",
+        "Power Delivery",
         "GaN",
-        "SiC"
+        "SiC",
+        "Data Center"
       ],
       "companies_mentioned": [
         "Navitas",
-        "TI",
-        "Infineon",
-        "Eaton",
-        "Microchip"
+        "Microchip",
+        "Claros"
       ]
     },
     {
-      "name": "先端パッケージング技術の重要性増大",
+      "name": "次世代半導体材料・構造開発",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "ai",
-        "datacenter",
-        "memory"
+        "power",
+        "frontend",
+        "miniaturization"
       ],
-      "summary": "AIアクセラレータや高性能メモリ（HBM）の性能向上には、チップレット統合や高密度実装を可能にする先端パッケージング技術が不可欠。",
+      "summary": "GaN、酸化ガリウム、ダイヤモンドなどの新材料やGAAFETなどの新構造が、性能向上と小型化・高効率化を実現。",
       "analysis": {
-        "short_term": "CoWoS等、主要技術への投資活発。",
-        "mid_term": "新技術（ハイブリッドボンディング）が普及。",
-        "investment_implications": "パッケージング関連企業に機会。"
+        "short_term": "新材料・構造の技術的ブレークスルーが続出。",
+        "mid_term": "量産化に向けた材料・製造プロセスの確立が鍵。",
+        "investment_implications": "先端材料・製造技術を持つ企業に投資妙味。"
       },
       "keywords": [
-        "先端パッケージング",
-        "チップレット",
-        "HBM",
-        "CoWoS",
-        "ハイブリッドボンディング"
+        "GaN",
+        "Gallium Oxide",
+        "Diamond",
+        "GAAFET",
+        "Miniaturization"
       ],
       "companies_mentioned": [
-        "GF",
-        "TSMC"
+        "Navitas",
+        "FLOSFIA",
+        "Diamond Quanta",
+        "Sandia"
       ]
     },
     {
-      "name": "次世代半導体材料・製造技術の研究開発加速",
+      "name": "半導体製造の国内回帰・サプライチェーン強化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
+        "geopolitics",
+        "foundry",
         "equipment",
-        "wafer",
-        "ai"
+        "frontend",
+        "backend"
       ],
-      "summary": "2D半導体、ダイヤモンド、GaN/SiCなどの新材料や、EUV、決定論的核生成などの革新的な製造技術開発が、次世代デバイス実現の鍵となる。",
+      "summary": "地政学リスクの高まりを受け、各国で半導体製造拠点の国内回帰やサプライチェーンの強靭化が進む。",
       "analysis": {
-        "short_term": "基礎研究から応用開発へ移行。",
-        "mid_term": "一部技術の実用化が進む。",
-        "investment_implications": "材料・装置メーカーに期待。"
+        "short_term": "米国・日本での工場建設・投資が活発化。",
+        "mid_term": "製造装置・材料分野での国内サプライヤーの重要性が増す。",
+        "investment_implications": "国内製造・装置・材料関連企業に恩恵。"
       },
       "keywords": [
-        "2D半導体",
-        "ダイヤモンド",
-        "GaN",
-        "SiC",
-        "EUV"
+        "Reshoring",
+        "Supply Chain",
+        "Foundry",
+        "Manufacturing Equipment",
+        "Geopolitics"
       ],
       "companies_mentioned": [
-        "Diamond Quanta",
-        "東京応化工業",
-        "KAIST"
+        "GF",
+        "Nikon",
+        "Tokyo Ohka Kogyo"
       ]
     },
     {
-      "name": "AIによる半導体設計・検証の自動化",
+      "name": "先端実装技術の進化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
+        "backend",
+        "datacenter",
         "ai",
-        "frontend",
-        "equipment"
+        "memory"
       ],
-      "summary": "AI技術（特にLLM）を活用し、RTL設計検証や歩留まり改善などの半導体開発プロセスを自動化・効率化する動きが活発化。",
+      "summary": "チップレット統合や3D積層技術が、性能向上、電力効率改善、小型化を実現し、AI・HPC分野で重要性を増す。",
       "analysis": {
-        "short_term": "AIツールの導入が進む。",
-        "mid_term": "開発期間短縮・コスト削減に寄与。",
-        "investment_implications": "AIソリューションプロバイダーに注目。"
+        "short_term": "チップレット設計・実装技術の早期最適化が重要。",
+        "mid_term": "HBM代替となる高効率メモリ開発が加速。",
+        "investment_implications": "先端パッケージング、インターポーザー関連企業に注目。"
       },
       "keywords": [
-        "AI",
-        "設計自動化",
-        "検証自動化",
-        "歩留まり改善",
-        "LLM"
+        "Advanced Packaging",
+        "Chiplets",
+        "3D Stacking",
+        "HBM",
+        "Interposer"
       ],
       "companies_mentioned": [
-        "Columbia University",
-        "Google",
-        "Emergence AI"
+        "GF",
+        "Kepler Computing"
       ]
     },
     {
-      "name": "米国製造業回帰と国内サプライチェーン強化",
+      "name": "AIによる設計・検証自動化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "geopolitics",
-        "equipment",
-        "foundry"
+        "ai",
+        "logic",
+        "frontend",
+        "equipment"
       ],
-      "summary": "地政学リスクの高まりを受け、米国は製造業の国内回帰を推進。半導体製造装置市場の拡大や国内ファウンドリ能力増強が進む。",
+      "summary": "AIが半導体設計・検証プロセスの効率化に貢献。RTL波形解析やデバッグの自動化が進む。",
       "analysis": {
-        "short_term": "装置投資が加速。",
-        "mid_term": "国内生産体制が構築される。",
-        "investment_implications": "米州の装置・ファウンドリ関連に恩恵。"
+        "short_term": "AIを活用した設計ツールへの関心が高まる。",
+        "mid_term": "設計サイクルの短縮と開発コスト削減に寄与。",
+        "investment_implications": "EDAツール、AIソリューションプロバイダーに機会。"
       },
       "keywords": [
-        "米国製造業回帰",
-        "サプライチェーン",
-        "半導体製造装置",
-        "ファウンドリ"
+        "AI",
+        "EDA",
+        "Design Automation",
+        "Verification",
+        "RTL Debugging"
       ],
       "companies_mentioned": [
-        "SEMI"
+        "Columbia University",
+        "Google"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体市場1兆ドル超え予測（2026年）",
-      "データセンター向けパワー半導体需要の急増",
-      "米国製造装置市場の急拡大予測",
-      "先端パッケージング技術への巨額投資"
+      "AI需要による半導体市場の1兆ドル超え予測",
+      "データセンター向け高密度電力ソリューションの需要増",
+      "米国での半導体製造装置市場の拡大予測"
     ],
     "bearish": [
-      "EV市場の停滞（一部報道）"
+      "HBMの電力消費がボトルネックとなる可能性"
     ],
     "neutral": [
-      "半導体市場の再形成期入り（キーサイト社長発言）",
-      "スタートアップ資金調達額の安定（Q3 2026）"
+      "iPhoneの要素技術に関する解説記事の公開"
     ]
   },
-  "source_count": 52
+  "source_count": 59
 }

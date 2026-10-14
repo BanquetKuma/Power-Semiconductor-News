@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-14T09:08:04.066831+09:00",
+  "generated_at": "2026-10-15T08:40:05.983084+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)",
-    "summary": "コロンビア大学とGoogleの研究者らが、AIを活用し半導体設計検証におけるRTL波形解析とデバッグを自動化する技術を発表。",
+    "title": "Simplify Electronic-Photonic Design Workflows: eBook",
+    "summary": "電子・フォトニック設計ワークフローを簡略化するeBook。EDAの進化により、フォトニックデバイス、回路、システムへの設計手法が拡張されます。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google"
+        "url": "https://semiengineering.com/simplify-electronic-photonic-design-workflows"
       }
     ]
   },
@@ -18,7 +18,7 @@
     "news": [
       {
         "title": "Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)",
-        "blurb": "コロンビア大学とGoogleの研究者らが、AIを活用し半導体設計検証におけるRTL波形解析とデバッグを自動化する技術を発表。",
+        "blurb": "コロンビア大学とGoogleの研究者らが、AIを活用し半導体設計検証におけるRTL波形解析とデバッグを自動化する技術を発表しました。",
         "category": "company",
         "date": "2026-10-14",
         "stars": 3,
@@ -35,7 +35,63 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "Simplify Electronic-Photonic Design Workflows: eBook",
+        "blurb": "電子・フォトニック設計ワークフローを簡略化するeBook。EDAの進化により、フォトニックデバイス、回路、システムへの設計手法が拡張されます。",
+        "category": "tools",
+        "date": "2026-10-14",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/simplify-electronic-photonic-design-workflows"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Why Heat Is Becoming A Bigger Chip Design Issue",
+        "blurb": "チップ設計において、複雑化に伴い熱・電気・機械的影響の同時解析が重要課題となっている。",
+        "category": "business",
+        "date": "2026-10-14",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/why-heat-is-becoming-a-bigger-chip-design-issue"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Microchip Expands 10BASE-T1S Lineup With New Transceivers and Endpoints",
+        "blurb": "マイクロチップが10BASE-T1Sの新トランシーバーとエンドポイントを発表。3ピンインターフェースで8ノード以上の接続が可能に。",
+        "category": "business",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/microchip-expands-10base-t1s-lineup-with-new-transceivers-and-endpoints"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ]
   }
 }

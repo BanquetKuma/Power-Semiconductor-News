@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-10-11T09:05:18.282974+09:00",
+  "generated_at": "2026-10-15T08:40:05.977648+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "SYNDEM and VSM Architectures Improve Future’s Grid Stability, Engineered Diamonds Solve Extreme Power Densities in Data Centers, Hybrid Thyristor/SiC JFET Solid-State Contactors: Power Electronics Week Insights",
-    "summary": "次世代グリッド安定化技術、データセンター向け高密度電力、ハイブリッド固体開閉器など、パワーエレクトロニクス分野の最新動向。",
+    "title": "Power Electronics Course with QSPICE (Episode 19): Building a Simple Boost Converter",
+    "summary": "QSPICEを用いたブーストコンバータ構築。マイコン制御で12Vバッテリーを昇圧。ソフトウェアPWMとロジックレベルMOSFETを使用。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/syndem-and-vsm-architectures-improve-futures-grid-stability-engineered-diamonds-solve-extreme-power-densities-in-data-centers-hybrid-thyristor-sic-jfet-solid-state-contactors-power-electro"
+        "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-19-building-a-simple-boost-converter"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "SYNDEM and VSM Architectures Improve Future’s Grid Stability, Engineered Diamonds Solve Extreme Power Densities in Data Centers, Hybrid Thyristor/SiC JFET Solid-State Contactors: Power Electronics Week Insights",
-        "blurb": "次世代グリッド安定化技術、データセンター向け高密度電力、ハイブリッド固体開閉器など、パワーエレクトロニクス分野の最新動向。",
-        "category": "business",
-        "date": "2026-10-10",
+        "title": "100-V GaN FETs lower switching FOM",
+        "blurb": "ルネサスが初の100V強化モードGaNパワーFETを発表。スイッチング性能を向上。",
+        "category": "company",
+        "date": "2026-10-15",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/syndem-and-vsm-architectures-improve-futures-grid-stability-engineered-diamonds-solve-extreme-power-densities-in-data-centers-hybrid-thyristor-sic-jfet-solid-state-contactors-power-electro"
+          "name": "edn.com",
+          "url": "https://www.edn.com/100-v-gan-fets-lower-switching-fom"
         },
         "field": {
           "primary": "power",
@@ -36,6 +34,27 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [
+      {
+        "title": "Power Electronics Course with QSPICE (Episode 19): Building a Simple Boost Converter",
+        "blurb": "QSPICEを用いたブーストコンバータ構築。マイコン制御で12Vバッテリーを昇圧。ソフトウェアPWMとロジックレベルMOSFETを使用。",
+        "category": "tools",
+        "date": "2026-10-14",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-19-building-a-simple-boost-converter"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": []
   }
 }

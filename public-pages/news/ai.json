@@ -1,59 +1,41 @@
 {
-  "generated_at": "2026-10-08T09:42:38.043346+09:00",
+  "generated_at": "2026-10-15T08:40:05.979278+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Microphone array advances acoustic detection",
-    "summary": "sensiBel社がエッジAI向けに32個の光学MEMSマイクを備えたスパイラルアレイ評価キット「NOVA32」を発表。音響検出技術を進化させる。",
+    "title": "Systems reduce latency in edge AI automation",
+    "summary": "Aetinaの産業用AIシステムはNVIDIA Jetson Thor/Blackwellを採用し、エッジAIの遅延を低減。",
     "sources": [
       {
         "name": "edn.com",
-        "url": "https://www.edn.com/microphone-array-advances-acoustic-detection"
+        "url": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "Microphone array advances acoustic detection",
-        "blurb": "sensiBel社がエッジAI向けに32個の光学MEMSマイクを備えたスパイラルアレイ評価キット「NOVA32」を発表。音響検出技術を進化させる。",
-        "category": "tools",
-        "date": "2026-10-08",
+        "title": "Systems reduce latency in edge AI automation",
+        "blurb": "Aetinaの産業用AIシステムはNVIDIA Jetson Thor/Blackwellを採用し、エッジAIの遅延を低減。",
+        "category": "business",
+        "date": "2026-10-15",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/microphone-array-advances-acoustic-detection"
+          "url": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation"
         },
         "field": {
           "primary": "ai",
           "device": null,
           "process": null,
           "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Silicon Labs Expands AI Tools for Embedded IoT Development",
-        "blurb": "Silicon LabsがAI開発ツールを拡充。組み込みIoT開発、検証、エッジAIライフサイクル管理を強化し、Simplicityプラットフォームを進化。",
-        "category": "tools",
-        "date": "2026-10-08",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/silicon-labs-expands-ai-tools-for-embedded-iot-development"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
+          "industry": "fabless"
         }
       }
-    ],
-    "market": []
+    ]
   }
 }
