@@ -1,26 +1,45 @@
 {
-  "generated_at": "2026-10-15T08:40:05.980502+09:00",
+  "generated_at": "2026-10-16T08:32:45.692112+09:00",
   "field": "datacenter",
   "field_label": "データセンター",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Microchip Unveils PCIe Gen 6 and NVMe Devices for Data Centers",
-    "summary": "マイクロチップ、データセンター向けにAIインフラ対応のPCIe Gen 6スイッチ、NVMe SSDコントローラ、RAIDストレージアクセラレータを発表。",
+    "title": "0.6V駆動で180Gbps　早大がAI向け光送信器",
+    "summary": "早大がAI向け光送信器を開発。0.6V駆動で180Gbpsを実現し、データセンターの高集積化、小型化、低消費電力化に貢献。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/microchip-unveils-pcie-gen-6-and-nvme-devices-for-data-centers"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news026.html"
       }
     ]
   },
   "sections": {
-    "news": [],
+    "news": [
+      {
+        "title": "0.6V駆動で180Gbps　早大がAI向け光送信器",
+        "blurb": "早大がAI向け光送信器を開発。0.6V駆動で180Gbpsを実現し、データセンターの高集積化、小型化、低消費電力化に貢献。",
+        "category": "company",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news026.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ],
     "tech": [],
     "market": [
       {
         "title": "Microchip Unveils PCIe Gen 6 and NVMe Devices for Data Centers",
-        "blurb": "マイクロチップ、データセンター向けにAIインフラ対応のPCIe Gen 6スイッチ、NVMe SSDコントローラ、RAIDストレージアクセラレータを発表。",
+        "blurb": "マイクロチップがデータセンター向けにPCIe Gen 6スイッチやNVMe SSDコントローラなどを発表。AIインフラの性能、セキュリティ、拡張性を強化。",
         "category": "business",
         "date": "2026-10-15",
         "stars": 3,

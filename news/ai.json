@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T08:40:05.979278+09:00",
+  "generated_at": "2026-10-16T08:32:45.691466+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
     "title": "Systems reduce latency in edge AI automation",
-    "summary": "Aetinaの産業用AIシステムはNVIDIA Jetson Thor/Blackwellを採用し、エッジAIの遅延を低減。",
+    "summary": "Aetinaの産業用AIシステムはNVIDIA Jetson Thor/Blackwellを採用し、エッジAIの遅延を削減。産業制御の効率化に貢献。",
     "sources": [
       {
         "name": "edn.com",
@@ -20,7 +20,7 @@
     "market": [
       {
         "title": "Systems reduce latency in edge AI automation",
-        "blurb": "Aetinaの産業用AIシステムはNVIDIA Jetson Thor/Blackwellを採用し、エッジAIの遅延を低減。",
+        "blurb": "Aetinaの産業用AIシステムはNVIDIA Jetson Thor/Blackwellを採用し、エッジAIの遅延を削減。産業制御の効率化に貢献。",
         "category": "business",
         "date": "2026-10-15",
         "stars": 3,
@@ -34,6 +34,24 @@
           "process": null,
           "market": "ai",
           "industry": "fabless"
+        }
+      },
+      {
+        "title": "Solving the Edge Computing Energy Problem",
+        "blurb": "エッジAIでは推論がクラウドから組み込みデバイスへ移行。バッテリー駆動のデバイスでは電力問題が発生。開発者は省電力化が課題。",
+        "category": "business",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/solving-the-edge-computing-energy-problem"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
         }
       }
     ]

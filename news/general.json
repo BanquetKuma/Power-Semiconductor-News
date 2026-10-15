@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-15T08:40:05.983084+09:00",
+  "generated_at": "2026-10-16T08:32:45.693529+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Simplify Electronic-Photonic Design Workflows: eBook",
-    "summary": "電子・フォトニック設計ワークフローを簡略化するeBook。EDAの進化により、フォトニックデバイス、回路、システムへの設計手法が拡張されます。",
+    "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+    "summary": "PCIeリタイマーの到達距離は、シリコン設計、コントローラーの知性、チャネル品質、伝送媒体など複数の要因で決まる。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/simplify-electronic-photonic-design-workflows"
+        "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)",
-        "blurb": "コロンビア大学とGoogleの研究者らが、AIを活用し半導体設計検証におけるRTL波形解析とデバッグを自動化する技術を発表しました。",
+        "title": "ローム、半導体後工程の外部委託を拡大　製造戦略を変革",
+        "blurb": "ロームは半導体後工程の外部委託を拡大し、OSAT企業への委託を増やす。現地需要への対応から始める。",
         "category": "company",
-        "date": "2026-10-14",
+        "date": "2026-10-15",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news050.html"
         },
         "field": {
           "primary": "general",
@@ -37,14 +37,14 @@
     ],
     "tech": [
       {
-        "title": "Simplify Electronic-Photonic Design Workflows: eBook",
-        "blurb": "電子・フォトニック設計ワークフローを簡略化するeBook。EDAの進化により、フォトニックデバイス、回路、システムへの設計手法が拡張されます。",
+        "title": "Why Open-Weight AI Matters",
+        "blurb": "オープンウェイトAIは、AI展開に柔軟性をもたらす。独自モデルが優位だが、オープンウェイトの重要性が増している。",
         "category": "tools",
-        "date": "2026-10-14",
+        "date": "2026-10-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/simplify-electronic-photonic-design-workflows"
+          "url": "https://semiengineering.com/why-open-weight-ai-matters"
         },
         "field": {
           "primary": "general",
@@ -57,14 +57,104 @@
     ],
     "market": [
       {
-        "title": "Why Heat Is Becoming A Bigger Chip Design Issue",
-        "blurb": "チップ設計において、複雑化に伴い熱・電気・機械的影響の同時解析が重要課題となっている。",
+        "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+        "blurb": "PCIeリタイマーの到達距離は、シリコン設計、コントローラーの知性、チャネル品質、伝送媒体など複数の要因で決まる。",
         "category": "business",
-        "date": "2026-10-14",
+        "date": "2026-10-15",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-heat-is-becoming-a-bigger-chip-design-issue"
+          "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+        "blurb": "自動ビア挿入により、先進ノードの配線信頼性と性能が向上。短絡耐性も強化。",
+        "category": "business",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Building AI Infrastructure For Greater Choice And Flexibility",
+        "blurb": "AIインフラはオープンインターフェースと相互運用性で、システム要件に応じた技術選択の自由度と柔軟性を高める。",
+        "category": "business",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Thermal Co-Simulation Testing Of Co-Packaged Optics",
+        "blurb": "AIプロセッサと共パッケージ化された光学エンジンの熱連成シミュレーション試験。マルチチップパッケージでの信頼性確保が課題。",
+        "category": "business",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "NVIDIAが描くAI市場の「次章」、日本の活路はどこか",
+        "blurb": "NVIDIAはAIインフラからフィジカルAIへ展開。日本の半導体産業が取るべき道を考察。",
+        "category": "business",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news038.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「1兆ドル市場に乾杯」 SEMICON West 2026開幕",
+        "blurb": "半導体展示会SEMICON West 2026が開幕。世界市場1兆ドル突破を祝し、米国の半導体エコシステムへの投資も1兆ドル超えへ向かう。",
+        "category": "business",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news054.html"
         },
         "field": {
           "primary": "general",
@@ -76,7 +166,7 @@
       },
       {
         "title": "Microchip Expands 10BASE-T1S Lineup With New Transceivers and Endpoints",
-        "blurb": "マイクロチップが10BASE-T1Sの新トランシーバーとエンドポイントを発表。3ピンインターフェースで8ノード以上の接続が可能に。",
+        "blurb": "マイクロチップが10BASE-T1Sの新トランシーバーとエンドポイントを発表。8ノード以上を単一バスに接続可能に。",
         "category": "business",
         "date": "2026-10-15",
         "stars": 3,

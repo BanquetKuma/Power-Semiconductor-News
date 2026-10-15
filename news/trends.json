@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T08:40:10.353825+09:00",
-  "date": "2026-10-15",
+  "generated_at": "2026-10-16T08:32:50.561949+09:00",
+  "date": "2026-10-16",
   "meta_trends": [
     {
-      "name": "AI向け電力供給強化",
+      "name": "AI向け高効率・高密度電源技術",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
@@ -11,153 +11,159 @@
         "datacenter",
         "ai"
       ],
-      "summary": "AIプロセッサの電力変換効率向上と高密度化に対応するため、次世代パワー半導体技術と統合ソリューションへの投資が加速。",
+      "summary": "AIインフラの電力需要増大に対応するため、高電圧（800V）、高効率、高密度な電源技術（GaN、pIVR等）の開発・採用が加速。",
       "analysis": {
-        "short_term": "AIチップの性能向上に伴い、高効率・高密度電源ソリューションへの需要増。",
-        "mid_term": "AIデータセンターの電力インフラが競争力の源泉に。",
-        "investment_implications": "AI向けパワー半導体、電源管理ICメーカーに注目。"
+        "short_term": "AIデータセンター向けリファレンスデザインの採用拡大。",
+        "mid_term": "次世代AIプロセッサ向け電力変換技術の進化継続。",
+        "investment_implications": "AIインフラ関連の電源IC・モジュールメーカーに注目。"
       },
       "keywords": [
         "AI",
-        "Power Delivery",
         "GaN",
-        "SiC",
-        "Data Center"
+        "800V",
+        "電源"
       ],
       "companies_mentioned": [
         "Navitas",
+        "NVIDIA",
         "Microchip",
         "Claros"
       ]
     },
     {
-      "name": "次世代半導体材料・構造開発",
+      "name": "次世代半導体材料・構造の進化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
+        "miniaturization",
         "frontend",
-        "miniaturization"
+        "automotive"
       ],
-      "summary": "GaN、酸化ガリウム、ダイヤモンドなどの新材料やGAAFETなどの新構造が、性能向上と小型化・高効率化を実現。",
+      "summary": "GaN、酸化ガリウム、ダイヤモンド等の新材料やGAAFET等の先進構造が、高性能・高効率化、小型化を実現。",
       "analysis": {
-        "short_term": "新材料・構造の技術的ブレークスルーが続出。",
-        "mid_term": "量産化に向けた材料・製造プロセスの確立が鍵。",
-        "investment_implications": "先端材料・製造技術を持つ企業に投資妙味。"
+        "short_term": "新材料を用いたパワーデバイスのサンプル出荷・評価進展。",
+        "mid_term": "次世代ロジック・パワー半導体の量産適用拡大。",
+        "investment_implications": "新材料・構造に強みを持つ素材・デバイスメーカーに投資妙味。"
       },
       "keywords": [
         "GaN",
-        "Gallium Oxide",
-        "Diamond",
-        "GAAFET",
-        "Miniaturization"
+        "酸化ガリウム",
+        "ダイヤモンド",
+        "GAAFET"
       ],
       "companies_mentioned": [
+        "Microchip",
         "Navitas",
         "FLOSFIA",
-        "Diamond Quanta",
+        "Power Diamond Systems",
         "Sandia"
       ]
     },
     {
-      "name": "半導体製造の国内回帰・サプライチェーン強化",
+      "name": "AIによる半導体設計・製造の自動化",
       "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "frontend",
+        "backend",
+        "equipment",
+        "logic"
+      ],
+      "summary": "AIエージェントが設計、製造プロセス最適化、装置制御等に活用され、開発効率向上とコスト削減に貢献。",
+      "analysis": {
+        "short_term": "設計自動化ツールのAI機能強化と採用拡大。",
+        "mid_term": "製造装置の自律制御・最適化技術の進展。",
+        "investment_implications": "AIを活用したEDA・製造装置ベンダーに期待。"
+      },
+      "keywords": [
+        "AI",
+        "自動化",
+        "設計",
+        "製造"
+      ],
+      "companies_mentioned": [
+        "Synopsys",
+        "Nikon",
+        "東京応化工業"
+      ]
+    },
+    {
+      "name": "オープン化・相互運用性によるAIインフラ",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "datacenter",
+        "logic",
+        "memory"
+      ],
+      "summary": "オープンインターフェース、オープンウェイトAI、チップレット技術（AMBA C2C等）により、AIインフラの柔軟性と選択肢が増加。",
+      "analysis": {
+        "short_term": "オープンソースAIモデルの普及とエコシステム拡大。",
+        "mid_term": "チップレットベースのAIアクセラレータの性能向上。",
+        "investment_implications": "オープンエコシステムを推進する企業・プラットフォームに注目。"
+      },
+      "keywords": [
+        "AI",
+        "オープンソース",
+        "チップレット",
+        "相互運用性"
+      ],
+      "companies_mentioned": [
+        "NVIDIA",
+        "ARM"
+      ]
+    },
+    {
+      "name": "半導体サプライチェーンの再編と国内回帰",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "geopolitics",
         "foundry",
-        "equipment",
         "frontend",
-        "backend"
-      ],
-      "summary": "地政学リスクの高まりを受け、各国で半導体製造拠点の国内回帰やサプライチェーンの強靭化が進む。",
-      "analysis": {
-        "short_term": "米国・日本での工場建設・投資が活発化。",
-        "mid_term": "製造装置・材料分野での国内サプライヤーの重要性が増す。",
-        "investment_implications": "国内製造・装置・材料関連企業に恩恵。"
-      },
-      "keywords": [
-        "Reshoring",
-        "Supply Chain",
-        "Foundry",
-        "Manufacturing Equipment",
-        "Geopolitics"
-      ],
-      "companies_mentioned": [
-        "GF",
-        "Nikon",
-        "Tokyo Ohka Kogyo"
-      ]
-    },
-    {
-      "name": "先端実装技術の進化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
         "backend",
-        "datacenter",
-        "ai",
-        "memory"
-      ],
-      "summary": "チップレット統合や3D積層技術が、性能向上、電力効率改善、小型化を実現し、AI・HPC分野で重要性を増す。",
-      "analysis": {
-        "short_term": "チップレット設計・実装技術の早期最適化が重要。",
-        "mid_term": "HBM代替となる高効率メモリ開発が加速。",
-        "investment_implications": "先端パッケージング、インターポーザー関連企業に注目。"
-      },
-      "keywords": [
-        "Advanced Packaging",
-        "Chiplets",
-        "3D Stacking",
-        "HBM",
-        "Interposer"
-      ],
-      "companies_mentioned": [
-        "GF",
-        "Kepler Computing"
-      ]
-    },
-    {
-      "name": "AIによる設計・検証自動化",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "frontend",
         "equipment"
       ],
-      "summary": "AIが半導体設計・検証プロセスの効率化に貢献。RTL波形解析やデバッグの自動化が進む。",
+      "summary": "地政学リスクの高まりを受け、各国で半導体製造能力の強化とサプライチェーンの国内回帰が進む。",
       "analysis": {
-        "short_term": "AIを活用した設計ツールへの関心が高まる。",
-        "mid_term": "設計サイクルの短縮と開発コスト削減に寄与。",
-        "investment_implications": "EDAツール、AIソリューションプロバイダーに機会。"
+        "short_term": "各国政府による半導体投資支援策の継続。",
+        "mid_term": "新工場建設・稼働による生産能力増強。",
+        "investment_implications": "ファウンドリ、装置メーカー、材料メーカーの国内拠点に恩恵。"
       },
       "keywords": [
-        "AI",
-        "EDA",
-        "Design Automation",
-        "Verification",
-        "RTL Debugging"
+        "サプライチェーン",
+        "国内回帰",
+        "地政学",
+        "投資"
       ],
       "companies_mentioned": [
-        "Columbia University",
-        "Google"
+        "GF",
+        "SEMI",
+        "ローム",
+        "東京応化工業",
+        "ニコン"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体市場の1兆ドル超え予測",
-      "データセンター向け高密度電力ソリューションの需要増",
-      "米国での半導体製造装置市場の拡大予測"
+      "AI向け高性能コンピューティング需要の継続的な拡大",
+      "高効率・高密度電源技術への投資加速",
+      "次世代半導体材料・構造への期待感の高まり",
+      "半導体製造装置市場の堅調な成長見通し",
+      "各国政府による半導体産業への積極的な支援策"
     ],
     "bearish": [
-      "HBMの電力消費がボトルネックとなる可能性"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "先端プロセス開発における技術的課題とコスト増大"
     ],
     "neutral": [
-      "iPhoneの要素技術に関する解説記事の公開"
+      "メモリ市場の需給バランスの変動",
+      "PC・スマートフォン市場の回復ペース"
     ]
   },
-  "source_count": 59
+  "source_count": 55
 }

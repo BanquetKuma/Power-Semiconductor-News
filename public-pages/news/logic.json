@@ -1,98 +1,25 @@
 {
-  "generated_at": "2026-10-15T08:40:05.978510+09:00",
+  "generated_at": "2026-10-16T08:32:45.691154+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "How To Define CPU And Software Stack Performance For Agentic AI",
-    "summary": "AIエージェントのCPUとソフトウェアスタックの性能を定義する方法。ボトルネック、効率、システムレベルのトレードオフを評価する。",
+    "title": "Agentic AI Alters The CPU-GPU Balance",
+    "summary": "エージェンティックAIがCPU需要を増大させ、AIアクセラレーションはGPUだけでなくCPUにも影響を与え、CPUとGPUのバランスを変化させている。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/how-to-define-cpu-and-software-stack-performance-for-agentic-ai"
+        "url": "https://semiengineering.com/agentic-ai-alters-the-cpu-gpu-balance"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "Axiado, Arm Integrate AI Security into AGI CPU Servers",
-        "blurb": "AxiadoとArmが次世代データセンター向けCPUサーバーにAIセキュリティを統合。ハードウェアベースのセキュリティとAI監視で運用と安全性を強化。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "How To Define CPU And Software Stack Performance For Agentic AI",
-        "blurb": "AIエージェントのCPUとソフトウェアスタックの性能を定義する方法。ボトルネック、効率、システムレベルのトレードオフを評価する。",
-        "category": "tools",
-        "date": "2026-10-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-to-define-cpu-and-software-stack-performance-for-agentic-ai"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Generative AI On A General-Purpose Neural Processor (GPNPU)",
-        "blurb": "汎用ニューラルプロセッサ(GPNPU)は、単一ISAとC++モデルでスカラー・ベクトル・行列演算を統合し、生成AIを効率化する。",
-        "category": "tools",
-        "date": "2026-10-14",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/generative-ai-on-a-general-purpose-neural-processor-gpnpu"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Designing Edge AI for Real-Time Systems",
-        "blurb": "リアルタイムシステム向けエッジAI設計では、センサーからOSまで全要素の連携がミリ秒単位の判断に不可欠。",
-        "category": "tools",
-        "date": "2026-10-14",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/designing-edge-ai-for-real-time-systems"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
         "title": "Diamond spreader tames AI GPU hotspots",
-        "blurb": "AI GPUのホットスポットを冷却するダイヤモンド熱拡散板を統合した液冷コールドプレート「LiquidJet Diamond」が登場。",
+        "blurb": "Frore社のLiquidJet Diamondは、AI GPUのホットスポットを冷却する液体冷却コールドプレートで、ダイヤモンド熱拡散器を統合しています。",
         "category": "tools",
         "date": "2026-10-15",
         "stars": 3,
@@ -109,6 +36,43 @@
         }
       }
     ],
-    "market": []
+    "market": [
+      {
+        "title": "Agentic AI Alters The CPU-GPU Balance",
+        "blurb": "エージェンティックAIがCPU需要を増大させ、AIアクセラレーションはGPUだけでなくCPUにも影響を与え、CPUとGPUのバランスを変化させている。",
+        "category": "business",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/agentic-ai-alters-the-cpu-gpu-balance"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Axiado, Arm Integrate AI Security into AGI CPU Servers",
+        "blurb": "AxiadoとArmがAI向けCPUサーバーにハードウェアベースのセキュリティとAI監視を統合し、次世代データセンターの運用とセキュリティ要件に対応。",
+        "category": "business",
+        "date": "2026-10-15",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ]
   }
 }
