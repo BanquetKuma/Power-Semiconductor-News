@@ -1,51 +1,30 @@
 {
-  "generated_at": "2026-10-16T08:32:45.691154+09:00",
+  "generated_at": "2026-10-17T08:14:43.112858+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Agentic AI Alters The CPU-GPU Balance",
-    "summary": "エージェンティックAIがCPU需要を増大させ、AIアクセラレーションはGPUだけでなくCPUにも影響を与え、CPUとGPUのバランスを変化させている。",
+    "title": "Elektrobit and Microchip Simplify AUTOSAR Integration",
+    "summary": "ElektrobitとMicrochipが提携し、AUTOSARソフトウェア開発を簡素化。ハードとソフトの統合を容易にし、開発リスクを低減、市場投入を加速。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/agentic-ai-alters-the-cpu-gpu-balance"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "Diamond spreader tames AI GPU hotspots",
-        "blurb": "Frore社のLiquidJet Diamondは、AI GPUのホットスポットを冷却する液体冷却コールドプレートで、ダイヤモンド熱拡散器を統合しています。",
-        "category": "tools",
-        "date": "2026-10-15",
+        "title": "Elektrobit and Microchip Simplify AUTOSAR Integration",
+        "blurb": "ElektrobitとMicrochipが提携し、AUTOSARソフトウェア開発を簡素化。ハードとソフトの統合を容易にし、開発リスクを低減、市場投入を加速。",
+        "category": "company",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/diamond-spreader-tames-ai-gpu-hotspots"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "Agentic AI Alters The CPU-GPU Balance",
-        "blurb": "エージェンティックAIがCPU需要を増大させ、AIアクセラレーションはGPUだけでなくCPUにも影響を与え、CPUとGPUのバランスを変化させている。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/agentic-ai-alters-the-cpu-gpu-balance"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration"
         },
         "field": {
           "primary": "logic",
@@ -56,23 +35,25 @@
         }
       },
       {
-        "title": "Axiado, Arm Integrate AI Security into AGI CPU Servers",
-        "blurb": "AxiadoとArmがAI向けCPUサーバーにハードウェアベースのセキュリティとAI監視を統合し、次世代データセンターの運用とセキュリティ要件に対応。",
-        "category": "business",
-        "date": "2026-10-15",
+        "title": "SECO Launches Industrial HMI and SBC Powered by Dragonwing IQ-2390",
+        "blurb": "SECOがDragonwing IQ-2390搭載の産業用HMIとSBCを発表。NPU、無線接続、YoctoベースOSを搭載。",
+        "category": "company",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers"
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/seco-launches-industrial-hmi-and-sbc-powered-by-dragonwing-iq-2390"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "datacenter",
+          "market": "industrial",
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

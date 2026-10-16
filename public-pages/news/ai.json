@@ -1,50 +1,31 @@
 {
-  "generated_at": "2026-10-16T08:32:45.691466+09:00",
+  "generated_at": "2026-10-17T08:14:43.113542+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Systems reduce latency in edge AI automation",
-    "summary": "Aetinaの産業用AIシステムはNVIDIA Jetson Thor/Blackwellを採用し、エッジAIの遅延を削減。産業制御の効率化に貢献。",
+    "title": "Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights",
+    "summary": "組み込み技術の最新動向。リアルタイムシステム向けEdge AI、エッジコンピューティングの電力問題、PCIe 6.0スイッチなどが解説。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Systems reduce latency in edge AI automation",
-        "blurb": "Aetinaの産業用AIシステムはNVIDIA Jetson Thor/Blackwellを採用し、エッジAIの遅延を削減。産業制御の効率化に貢献。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Solving the Edge Computing Energy Problem",
-        "blurb": "エッジAIでは推論がクラウドから組み込みデバイスへ移行。バッテリー駆動のデバイスでは電力問題が発生。開発者は省電力化が課題。",
-        "category": "business",
-        "date": "2026-10-15",
+        "title": "Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights",
+        "blurb": "組み込み技術の最新動向。リアルタイムシステム向けEdge AI、エッジコンピューティングの電力問題、PCIe 6.0スイッチなどが解説。",
+        "category": "tools",
+        "date": "2026-10-17",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/solving-the-edge-computing-energy-problem"
+          "url": "https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights"
         },
         "field": {
           "primary": "ai",
@@ -54,6 +35,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

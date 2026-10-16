@@ -1,70 +1,30 @@
 {
-  "generated_at": "2026-10-16T08:32:45.693529+09:00",
+  "generated_at": "2026-10-17T08:14:43.115178+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
-    "summary": "PCIeリタイマーの到達距離は、シリコン設計、コントローラーの知性、チャネル品質、伝送媒体など複数の要因で決まる。",
+    "title": "「日本の意見、世界に」　Bluetooth SIG日本法人が設立",
+    "summary": "Bluetooth SIGが日本法人「Bluetooth SIG Japan」を設立。黒川剣氏が代表に就任し、日本の意見を世界に発信する。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/16/news045.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "ローム、半導体後工程の外部委託を拡大　製造戦略を変革",
-        "blurb": "ロームは半導体後工程の外部委託を拡大し、OSAT企業への委託を増やす。現地需要への対応から始める。",
+        "title": "「日本の意見、世界に」　Bluetooth SIG日本法人が設立",
+        "blurb": "Bluetooth SIGが日本法人「Bluetooth SIG Japan」を設立。黒川剣氏が代表に就任し、日本の意見を世界に発信する。",
         "category": "company",
-        "date": "2026-10-15",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news050.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "tech": [
-      {
-        "title": "Why Open-Weight AI Matters",
-        "blurb": "オープンウェイトAIは、AI展開に柔軟性をもたらす。独自モデルが優位だが、オープンウェイトの重要性が増している。",
-        "category": "tools",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-open-weight-ai-matters"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
-        "blurb": "PCIeリタイマーの到達距離は、シリコン設計、コントローラーの知性、チャネル品質、伝送媒体など複数の要因で決まる。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/16/news045.html"
         },
         "field": {
           "primary": "general",
@@ -75,104 +35,14 @@
         }
       },
       {
-        "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
-        "blurb": "自動ビア挿入により、先進ノードの配線信頼性と性能が向上。短絡耐性も強化。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Building AI Infrastructure For Greater Choice And Flexibility",
-        "blurb": "AIインフラはオープンインターフェースと相互運用性で、システム要件に応じた技術選択の自由度と柔軟性を高める。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Thermal Co-Simulation Testing Of Co-Packaged Optics",
-        "blurb": "AIプロセッサと共パッケージ化された光学エンジンの熱連成シミュレーション試験。マルチチップパッケージでの信頼性確保が課題。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "NVIDIAが描くAI市場の「次章」、日本の活路はどこか",
-        "blurb": "NVIDIAはAIインフラからフィジカルAIへ展開。日本の半導体産業が取るべき道を考察。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news038.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「1兆ドル市場に乾杯」 SEMICON West 2026開幕",
-        "blurb": "半導体展示会SEMICON West 2026が開幕。世界市場1兆ドル突破を祝し、米国の半導体エコシステムへの投資も1兆ドル超えへ向かう。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news054.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Microchip Expands 10BASE-T1S Lineup With New Transceivers and Endpoints",
-        "blurb": "マイクロチップが10BASE-T1Sの新トランシーバーとエンドポイントを発表。8ノード以上を単一バスに接続可能に。",
-        "category": "business",
-        "date": "2026-10-15",
+        "title": "Qorvo QPX0252 Targets Crowded X-Band Radar Arrays",
+        "blurb": "QorvoがXバンドレーダー向けに小型ビームフォーマー「QPX0252」を発表。外部回路を削減し、高密度実装を可能にする。",
+        "category": "company",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
           "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/microchip-expands-10base-t1s-lineup-with-new-transceivers-and-endpoints"
+          "url": "https://www.electronics-lab.com/qorvo-qpx0252-targets-crowded-x-band-radar-arrays"
         },
         "field": {
           "primary": "general",
@@ -182,6 +52,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

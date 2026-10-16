@@ -1,184 +1,40 @@
 {
-  "generated_at": "2026-10-16T08:32:45.688846+09:00",
+  "generated_at": "2026-10-17T08:14:43.111152+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Power Corner: Why LED Backlights Are the New Battery Bottleneck in 1S Laptops",
-    "summary": "ノートPCのLEDバックライトがバッテリー消費の新たなボトルネックに。昇圧・チャージポンプ回路の分離でバッテリー寿命を延長。",
+    "title": "onsemi and Sungrow Target 99.3% Efficiency in Utility-Scale BESS",
+    "summary": "onsemiとSungrowは、電力変換効率99.3%の次世代蓄電システム「PowerTitan 3.0」を発表。大規模設置で年間475MWh以上の節電を見込む。",
     "sources": [
       {
         "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/power-corner-why-led-backlights-are-the-new-battery-bottleneck-in-1s-laptops"
+        "url": "https://www.powerelectronicsnews.com/onsemi-and-sungrow-target-99-3-efficiency-in-utility-scale-bess"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Power Corner: Why LED Backlights Are the New Battery Bottleneck in 1S Laptops",
-        "blurb": "ノートPCのLEDバックライトがバッテリー消費の新たなボトルネックに。昇圧・チャージポンプ回路の分離でバッテリー寿命を延長。",
+        "title": "onsemi and Sungrow Target 99.3% Efficiency in Utility-Scale BESS",
+        "blurb": "onsemiとSungrowは、電力変換効率99.3%の次世代蓄電システム「PowerTitan 3.0」を発表。大規模設置で年間475MWh以上の節電を見込む。",
         "category": "business",
-        "date": "2026-10-15",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-why-led-backlights-are-the-new-battery-bottleneck-in-1s-laptops"
+          "url": "https://www.powerelectronicsnews.com/onsemi-and-sungrow-target-99-3-efficiency-in-utility-scale-bess"
         },
         "field": null
       },
       {
-        "title": "Navitas, NVIDIA Develop 24 kW 800V-to-12V Power Board",
-        "blurb": "NavitasとNVIDIAは、高効率・高密度な24kW 800V-12V電源基板を開発。コンピューティングトレイ設計を簡素化。",
+        "title": "Ferric’s New Dual-Sided IVR for In-Package Integration, Monolithically Integrated AlGaN/GaN Diode and Transistor, Building a Simple Boost Converter in QSPICE: Power Electronics Week Insights",
+        "blurb": "Ferric社が新デュアルサイドIVR、AlGaN/GaNダイオード・トランジスタ集積、QSPICEでのブーストコンバータ構築など、パワーエレクトロニクス分野の最新動向を紹介。",
         "category": "business",
-        "date": "2026-10-15",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
           "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-nvidia-develop-24-kw-800v-to-12v-power-board"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
-        "blurb": "PCIeリタイマーの到達距離は、シリコン設計、コントローラーの知性、チャネル品質、伝送媒体など複数の要因で決まる。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
-        "blurb": "自動ビア挿入により、先進ノードの配線信頼性と性能が向上。短絡耐性も強化。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Building AI Infrastructure For Greater Choice And Flexibility",
-        "blurb": "AIインフラはオープンインターフェースと相互運用性で、システム要件に応じた技術選択の自由度と柔軟性を高める。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
-        "blurb": "AMBA C2Cは、AXIとCHI間のチップレット接続を拡張し、スケーラブルなプロトコルサブセットと柔軟なトランスポートサポートを提供します。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Agentic AI Alters The CPU-GPU Balance",
-        "blurb": "エージェンティックAIがCPU需要を増大させ、AIアクセラレーションはGPUだけでなくCPUにも影響を与え、CPUとGPUのバランスを変化させている。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/agentic-ai-alters-the-cpu-gpu-balance"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "How Close Are We To Fully Autonomous Chip Design?",
-        "blurb": "AIエージェント、自律設計の限界、デジタルツイン、3D-ICの課題について、シノプシスCEOが語る。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Thermal Co-Simulation Testing Of Co-Packaged Optics",
-        "blurb": "AIプロセッサと共パッケージ化された光学エンジンの熱連成シミュレーション試験。マルチチップパッケージでの信頼性確保が課題。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ダイヤモンドMOSFETで6.78MHz電力変換　PDS",
-        "blurb": "Power Diamond Systemsは、ダイヤモンドMOSFETで6.78MHz電力変換に成功。ドローン等への無線給電応用が期待される。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news027.html"
+          "url": "https://www.powerelectronicsnews.com/ferrics-new-dual-sided-ivr-for-in-package-integration-monolithically-integrated-algan-gan-diode-and-transistor-building-a-simple-boost-converter-in-qspice-power-electronics-week-insights"
         },
         "field": {
           "primary": "power",
@@ -189,202 +45,180 @@
         }
       },
       {
-        "title": "NVIDIAが描くAI市場の「次章」、日本の活路はどこか",
-        "blurb": "NVIDIAはAIインフラからフィジカルAIへ展開。日本の半導体産業が取るべき道を考察。",
+        "title": "Chip Industry Week In Review",
+        "blurb": "半導体業界の週刊レビュー。ファブ拡張加速、中国のメモリ・EUV進展、テラダインのテスト契約、SEMICON West等。",
         "category": "business",
-        "date": "2026-10-15",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news038.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "「1兆ドル市場に乾杯」 SEMICON West 2026開幕",
-        "blurb": "半導体展示会SEMICON West 2026が開幕。世界市場1兆ドル突破を祝し、米国の半導体エコシステムへの投資も1兆ドル超えへ向かう。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news054.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "最大3.3兆円で米国に半導体2工場、日本が投資 GFが運営",
-        "blurb": "日本政府が最大3.3兆円を投資し、GFが米国に半導体工場2棟を新設。GFが運営を担う。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/14/news084.html"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-160"
         },
         "field": {
           "primary": "foundry",
           "device": null,
-          "process": null,
+          "process": "equipment",
           "market": null,
           "industry": "foundry"
         }
       },
       {
-        "title": "Not all diodes use electrons",
-        "blurb": "電子以外のキャリアを利用するダイオードが存在する。これは、従来の半導体ダイオードとは異なる動作原理を持つ。",
+        "title": "Micronの2026会計年度は売上高が2年連続で過去最高を更新",
+        "blurb": "Micron、2026年度は売上高が2年連続で過去最高を更新する見込み。半導体市場の回復が追い風。",
         "category": "business",
-        "date": "2026-10-15",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/not-all-diodes-use-electrons"
-        },
-        "field": null
-      },
-      {
-        "title": "Systems reduce latency in edge AI automation",
-        "blurb": "Aetinaの産業用AIシステムはNVIDIA Jetson Thor/Blackwellを採用し、エッジAIの遅延を削減。産業制御の効率化に貢献。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/systems-reduce-latency-in-edge-ai-automation"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/16/news016.html"
         },
         "field": {
-          "primary": "ai",
+          "primary": "idm",
           "device": null,
           "process": null,
-          "market": "ai",
-          "industry": "fabless"
+          "market": null,
+          "industry": "idm"
         }
       },
       {
-        "title": "Solving the Edge Computing Energy Problem",
-        "blurb": "エッジAIでは推論がクラウドから組み込みデバイスへ移行。バッテリー駆動のデバイスでは電力問題が発生。開発者は省電力化が課題。",
+        "title": "InfineonがWolfspeedと契約拡大、8インチSiC調達強化",
+        "blurb": "InfineonはWolfspeedと8インチSiCウエハーの供給契約を締結し、パワー半導体生産拡大に向け調達体制を強化する。",
         "category": "business",
-        "date": "2026-10-15",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/solving-the-edge-computing-energy-problem"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/16/news051.html"
         },
         "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      },
-      {
-        "title": "Microchip Unveils PCIe Gen 6 and NVMe Devices for Data Centers",
-        "blurb": "マイクロチップがデータセンター向けにPCIe Gen 6スイッチやNVMe SSDコントローラなどを発表。AIインフラの性能、セキュリティ、拡張性を強化。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/microchip-unveils-pcie-gen-6-and-nvme-devices-for-data-centers"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Axiado, Arm Integrate AI Security into AGI CPU Servers",
-        "blurb": "AxiadoとArmがAI向けCPUサーバーにハードウェアベースのセキュリティとAI監視を統合し、次世代データセンターの運用とセキュリティ要件に対応。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/axiado-arm-integrate-ai-security-into-agi-cpu-servers"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Microchip Expands 10BASE-T1S Lineup With New Transceivers and Endpoints",
-        "blurb": "マイクロチップが10BASE-T1Sの新トランシーバーとエンドポイントを発表。8ノード以上を単一バスに接続可能に。",
-        "category": "business",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/microchip-expands-10base-t1s-lineup-with-new-transceivers-and-endpoints"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "Canadians Are Holding Out For Chinese EVs",
-        "blurb": "カナダの新車購入者の約半数がEVを検討しており、そのうち半数が中国製EVを待っている。",
+        "title": "日本は「世界最高のAIデータ作成環境」？ 現場動画に価値",
+        "blurb": "日本の産業現場の作業動画は、熟練者の視点でAI学習データとして価値が高い。フィジカルAI開発競争で日本企業の優位性につながる可能性。",
         "category": "business",
-        "date": "2026-10-15",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/811996/canadian-ev-buyers-chinese-cars"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/16/news044.html"
         },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
+        "field": null
       },
       {
-        "title": "Xpeng Thinks It Can Outsell Ford In Europe",
-        "blurb": "中国のEVメーカーXPengは、欧州でフォードを上回る50万台の販売を目指す。",
+        "title": "富士フイルム、米国に30億円投資　CMPスラリー増産へ",
+        "blurb": "富士フイルムは米国アリゾナ拠点でCMPスラリーの生産能力を増強するため約30億円を投資。2027年稼働予定。",
         "category": "business",
-        "date": "2026-10-15",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/16/news027.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Automotive demands driving passive components to extreme performance",
+        "blurb": "自動車分野の需要が、受動部品に極限の性能を求めている。高機能部品は他分野でも活用可能。",
+        "category": "business",
+        "date": "2026-10-17",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/automotive-demands-driving-passive-components-to-extreme-performance"
+        },
+        "field": null
+      },
+      {
+        "title": "European Car Companies Can't Compete With Chinese Tech. In Paris, They Leaned On 'Heritage' Instead",
+        "blurb": "欧州自動車メーカーは中国勢に苦戦。パリモーターショーでは「ヘリテージ」を強調したが、中国市場での競争力維持は不透明。",
+        "category": "business",
+        "date": "2026-10-17",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/811969/xpeng-europe-50-percent-sales"
+          "url": "https://insideevs.com/features/812277/paris-auto-show-recap-2026"
         },
         "field": null
       }
     ],
     "tools": [
       {
-        "title": "Why Open-Weight AI Matters",
-        "blurb": "オープンウェイトAIは、AI展開に柔軟性をもたらす。独自モデルが優位だが、オープンウェイトの重要性が増している。",
+        "title": "Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights",
+        "blurb": "組み込み技術の最新動向。リアルタイムシステム向けEdge AI、エッジコンピューティングの電力問題、PCIe 6.0スイッチなどが解説。",
         "category": "tools",
-        "date": "2026-10-15",
+        "date": "2026-10-17",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/why-open-weight-ai-matters"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "Replacing 48 MLCCs with 4 LKZ Capacitors for Compact, Cost-Effective Robot Joint Motor Controllers",
+        "blurb": "ロボット関節モーター制御器で、MLCC48個をLKZキャパシタ4個に置き換え、小型・低コスト化を実現。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/replacing-48-mlccs-with-4-lkz-capacitors-for-compact-cost-effective-robot-joint-motor-controllers"
+        },
+        "field": null
+      },
+      {
+        "title": "ニデック会計不正、永守氏や歴代社長ら9人に「損害賠償責任」",
+        "blurb": "ニデック、会計不正で永守氏ら9人に損害賠償責任を認定。役員責任調査委が結論。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/16/news112.html"
+        },
+        "field": null
+      },
+      {
+        "title": "電極を積層し光電圧100倍に　東北大らの光蓄電池",
+        "blurb": "東北大らは、電極を積層した光蓄電池で光電圧を100倍に高めることに成功。自律型センサー等への応用が期待される。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/16/news030.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "「日本の意見、世界に」　Bluetooth SIG日本法人が設立",
+        "blurb": "Bluetooth SIGが日本法人「Bluetooth SIG Japan」を設立。黒川剣氏が代表に就任し、日本の意見を世界に発信する。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/16/news045.html"
         },
         "field": {
           "primary": "general",
@@ -395,50 +229,26 @@
         }
       },
       {
-        "title": "職人の暗黙知をフィジカルAIに 指先を捉えるグローブ",
-        "blurb": "村田製作所とMelt Interface Technologiesが手指の動きを高精度に計測するグローブ型デバイス「ContactGlove3 Pro」を発表。熟練技術者の作業をフィジカルAIの学習データに活用。",
-        "category": "tools",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news042.html"
-        },
-        "field": null
-      },
-      {
-        "title": "人の動きを「見まね」 人型ロボットがスケボーに挑戦！",
-        "blurb": "NEDOはCEATEC 2026で、人間の動きを学習した人型ロボットがスケボーに乗るデモを公開。AIによる「見まね学習」で複雑な身体制御を実現し、将来は人と協働できるロボットを目指す。",
-        "category": "tools",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news023.html"
-        },
-        "field": null
-      },
-      {
-        "title": "NAS upgrades: Proprietary lockouts and surmounts",
-        "blurb": "NASのアップグレードは、独自仕様による制限を乗り越え、中古品や在庫品で対応可能。",
-        "category": "tools",
-        "date": "2026-10-15",
+        "title": "Apollo 11 corner reflector",
+        "blurb": "アポロ11号のコーナーリフレクターに関する記事。陰謀論者にも科学的根拠を示すエンジニアの試み。",
+        "category": "company",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/nas-upgrades-proprietary-lockouts-and-surmounts"
+          "url": "https://www.edn.com/apollo-11-corner-reflector"
         },
         "field": null
       },
       {
-        "title": "Diamond spreader tames AI GPU hotspots",
-        "blurb": "Frore社のLiquidJet Diamondは、AI GPUのホットスポットを冷却する液体冷却コールドプレートで、ダイヤモンド熱拡散器を統合しています。",
-        "category": "tools",
-        "date": "2026-10-15",
+        "title": "Elektrobit and Microchip Simplify AUTOSAR Integration",
+        "blurb": "ElektrobitとMicrochipが提携し、AUTOSARソフトウェア開発を簡素化。ハードとソフトの統合を容易にし、開発リスクを低減、市場投入を加速。",
+        "category": "company",
+        "date": "2026-10-16",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/diamond-spreader-tames-ai-gpu-hotspots"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/elektrobit-and-microchip-simplify-autosar-integration"
         },
         "field": {
           "primary": "logic",
@@ -449,244 +259,8 @@
         }
       },
       {
-        "title": "Updated rack enclosures offer flexible design options",
-        "blurb": "METCASEが19インチラックマウントケースを改良し、剛性とパネルスペースを向上。柔軟な設計が可能に。",
-        "category": "tools",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/updated-rack-enclosures-offer-flexible-design-options"
-        },
-        "field": null
-      },
-      {
-        "title": "Makerfabs nRF52840 Board Brings Bluetooth and UWB Tracking Together",
-        "blurb": "MakerfabsがBluetoothとUWBを統合した開発ボードを発表。位置特定機能も搭載し、価格は43.80ドル。",
-        "category": "tools",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/makerfabs-nrf52840-board-brings-bluetooth-and-uwb-tracking-together"
-        },
-        "field": null
-      }
-    ],
-    "company": [
-      {
-        "title": "Microchip Launches Rad-Tolerant 20A GaN Converter for Space",
-        "blurb": "マイクロチップ社が宇宙用途向け耐放射線性20A GaNコンバータを発表。FPGA、ASIC、MCU電源に対応。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/microchip-launches-rad-tolerant-20a-gan-converter-for-space"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
-        "blurb": "ETH ZurichとNYUの研究者がHBM2 DRAMチップの消費電力に関する初の包括的な実験的特性評価を発表しました。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Simulations Pinpoint Leakage Pathway In GAAFETs (Sandia, Luxembourg)",
-        "blurb": "サンディア国立研究所とルクセンブルク科学技術研究所は、次世代半導体GAAFETのリーク経路を特定するシミュレーションを発表しました。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/simulations-pinpoint-leakage-pathway-in-gaafets-sandia-luxembourg"
-        },
-        "field": {
-          "primary": "miniaturization",
-          "device": null,
-          "process": "miniaturization",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ローム、半導体後工程の外部委託を拡大　製造戦略を変革",
-        "blurb": "ロームは半導体後工程の外部委託を拡大し、OSAT企業への委託を増やす。現地需要への対応から始める。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news050.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "0.6V駆動で180Gbps　早大がAI向け光送信器",
-        "blurb": "早大がAI向け光送信器を開発。0.6V駆動で180Gbpsを実現し、データセンターの高集積化、小型化、低消費電力化に貢献。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/15/news026.html"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Integrated FEMs ease 2.4-GHz RF design",
-        "blurb": "pSemiがBluetooth等向け2.4GHz帯RFモジュールを発表。設計を簡素化。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/integrated-fems-ease-2-4-ghz-rf-design"
-        },
-        "field": null
-      },
-      {
-        "title": "100-V GaN FETs lower switching FOM",
-        "blurb": "ルネサスが初の100V強化モードGaNパワーFETを発表。スイッチング性能を向上。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/100-v-gan-fets-lower-switching-fom"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "New Tesla Roadster Reveal: How To Watch The Livestream",
-        "blurb": "テスラが新型ロードスターを発表。9年ぶりの新型公開となる。ライブ配信で視聴可能。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/812012/new-tesla-roadster-reveal-event-livestream"
-        },
-        "field": null
-      },
-      {
-        "title": "The Electric Porsche Cayenne Just Torched The V8-Powered Audi RS Q8",
-        "blurb": "電動ポルシェ・カイエンがV8搭載のアウディRS Q8を圧倒。631馬力のRS Q8も敵ではなかった。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/811984/porsche-cayenne-electric-audi-rsq8"
-        },
-        "field": null
-      },
-      {
-        "title": "A BMW i3 EV Went 753 Miles On A Single Charge. Its Energy Consumption Was Astonishing",
-        "blurb": "BMW i3 EVが1回の充電で753マイル（約1212km）を走行。驚異的な電費を記録した。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/812073/bmw-i3-753-miles-range-test-ev"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Rivian Is Taking Its Battery Recycling Game To The Next Level",
-        "blurb": "Rivianは、EV用バッテリーのリサイクルを強化し、製造スクラップから寿命を迎えたバッテリーまで、無駄なく活用する。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/812033/rivian-battery-recycling-energy-storage"
-        },
-        "field": null
-      },
-      {
-        "title": "BMW’s EV Sales Are Growing Again. Europe Is Doing The Heavy Lifting",
-        "blurb": "BMWのEV販売が欧州の好調により再び増加。ただし、PHEVは後退。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/811936/bmw-q3-ev-sales-report"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Rivian's Robot Startup Hires Veteran EV Exec Doug Field",
-        "blurb": "Rivian、フォードとテスラでの経験を持つダグ・フィールド氏をEV製造ロボット開発責任者に起用。",
-        "category": "company",
-        "date": "2026-10-15",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/811835/rivian-mind-robotics-manufacturing"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
         "title": "From Spooky Action to Quantum Internet: Communication Takes to the Air",
-        "blurb": "研究者らがロングアイランド海峡で13マイルの自由空間量子通信リンクを実証。量子インターネット実現へ。",
+        "blurb": "研究者らがロングアイランド海峡で13マイルの自由空間量子通信リンクを実証。量子インターネット実現へ期待。",
         "category": "company",
         "date": "2026-10-16",
         "stars": 3,
@@ -697,14 +271,146 @@
         "field": null
       },
       {
-        "title": "Slate Opened Its First Showroom Where You Can Test Drive Its $24,950 Electric Pickup Truck",
-        "blurb": "Slateがシカゴに初のショールームを開設。24,950ドルのEVトラックの試乗が可能。",
+        "title": "Qorvo QPX0252 Targets Crowded X-Band Radar Arrays",
+        "blurb": "QorvoがXバンドレーダー向けに小型ビームフォーマー「QPX0252」を発表。外部回路を削減し、高密度実装を可能にする。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/qorvo-qpx0252-targets-crowded-x-band-radar-arrays"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "SECO Launches Industrial HMI and SBC Powered by Dragonwing IQ-2390",
+        "blurb": "SECOがDragonwing IQ-2390搭載の産業用HMIとSBCを発表。NPU、無線接続、YoctoベースOSを搭載。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/seco-launches-industrial-hmi-and-sbc-powered-by-dragonwing-iq-2390"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
+      },
+      {
+        "title": "Tesla Just Revealed The Roadster With A Truly Insane Demo. Here's What You Need To Know",
+        "blurb": "テスラは新型ロードスターを発表。0-60mphを0.81秒で加速し、セミトラックを飛び越える性能を主張。ただし、まだ発売されていない。",
         "category": "company",
         "date": "2026-10-16",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/812128/first-slate-experience-center-chicago"
+          "url": "https://insideevs.com/news/812151/2027-tesla-roadster-price-specs-release-date"
+        },
+        "field": null
+      },
+      {
+        "title": "I Drove Mercedes’ New EV With A Silicon Anode Battery. The Future Is Here",
+        "blurb": "メルセデスが新型EVにシリコンアノード電池を採用。驚異的な効率と充電速度を実現し、未来の技術を体現。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/811794/mercedes-cla-350-electric-review"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "The Tesla Roadster Has 1,341 HP And Half The Range Elon Musk Once Promised. Here Are The Full Specs",
+        "blurb": "テスラの新ロードスターは1341馬力だが、イーロン・マスクが以前約束した航続距離の半分になる。詳細スペックが判明。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812242/tesla-roadster-2026-specs"
+        },
+        "field": null
+      },
+      {
+        "title": "The Tesla Roadster's Thrusters Last Seconds. Refilling Takes Hours",
+        "blurb": "テスラ・ロードスターの新型スラストバージョンのスラスターは5秒間しか持たず、再充填には数時間かかる。テスラはこれを大幅に短縮したいと考えている。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812205/tesla-roadster-replenishes-air-tanks"
+        },
+        "field": null
+      },
+      {
+        "title": "Volvo Taps Nvidia To Bring ‘Eyes-Off And Mind-Off’ Driving To Its Cars",
+        "blurb": "ボルボがNvidiaと提携し、将来の車種で「目視不要・運転不要」の自動運転機能を実現する。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812200/volvo-nvidia-hands-free-eyes-off-automated-driving"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Is The New Tesla Roadster Actually A Roadster? Not Really",
+        "blurb": "テスラの新型ロードスターは、ルーフが取り外せないため、厳密にはロードスターではないと報じられています。",
+        "category": "company",
+        "date": "2026-10-16",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812185/is-tesla-roadster-convertible"
+        },
+        "field": null
+      },
+      {
+        "title": "The BMW iX5 Gets A Range Boost Ahead Of U.S. Launch",
+        "blurb": "BMWの新型EV「iX5」の航続距離が450マイルに延長され、米国での発売が近づいています。",
+        "category": "company",
+        "date": "2026-10-17",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812254/bmw-ix5-x5-electric-range-increase-450-miles"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla 'Cannot Guarantee' Your Roadster Pre-Order Will Ever Be Delivered",
+        "blurb": "テスラは、ロードスターの予約注文について、納車時期や納車の保証ができないと契約書に明記している。",
+        "category": "company",
+        "date": "2026-10-17",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812247/tesla-roadster-preorder-delivery-guarantee"
         },
         "field": null
       }
