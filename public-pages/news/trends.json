@@ -1,171 +1,169 @@
 {
-  "generated_at": "2026-10-17T08:14:48.020819+09:00",
-  "date": "2026-10-17",
+  "generated_at": "2026-10-18T07:52:50.614571+09:00",
+  "date": "2026-10-18",
   "meta_trends": [
     {
-      "name": "AIインフラとパワー半導体の進化",
+      "name": "AIインフラ向け高効率パワー半導体",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "ai",
-        "datacenter",
-        "logic"
+        "datacenter"
       ],
-      "summary": "AI処理能力向上に伴い、高効率・高電力密度なパワー半導体（GaN, SiC）の需要が急増。AIチップと統合・近接配置が進む。",
+      "summary": "AIプロセッサの電力需要増大に対応するため、高効率・高密度な電源ソリューションが求められている。GaNやSiC技術の活用が進む。",
       "analysis": {
-        "short_term": "AIチップ需要増でパワー半導体も堅調。",
-        "mid_term": "次世代AI向け電力供給技術開発が加速。",
-        "investment_implications": "AI関連パワー半導体メーカーに注目。"
+        "short_term": "需要は引き続き堅調。新技術の採用が加速。",
+        "mid_term": "AIチップの進化と共に、さらなる高効率化が必須。",
+        "investment_implications": "関連技術を持つ企業に注目。Navitas、NVIDIA、Infineon等。"
       },
       "keywords": [
         "AI",
         "GaN",
         "SiC",
-        "power delivery",
-        "datacenter"
+        "電源効率"
       ],
       "companies_mentioned": [
         "Navitas",
         "NVIDIA",
-        "Microchip",
         "Infineon",
-        "Wolfspeed"
+        "Microchip",
+        "Wolfspeed",
+        "Claros"
       ]
     },
     {
-      "name": "先端プロセスと後工程の高度化",
-      "confidence": 0.88,
-      "momentum": "rising",
-      "related_fields": [
-        "foundry",
-        "frontend",
-        "backend",
-        "logic",
-        "memory",
-        "miniaturization"
-      ],
-      "summary": "先端ノードでの配線技術（自動ビア挿入）や、チップレット接続（AMBA C2C）、3D-IC、共パッケージ化光学などが進化。",
-      "analysis": {
-        "short_term": "先端ロジック・メモリの需要が牽引。",
-        "mid_term": "チップレット・3D-IC技術が普及期へ。",
-        "investment_implications": "先端ファウンドリ、後工程技術に投資妙味。"
-      },
-      "keywords": [
-        "advanced node",
-        "interconnect",
-        "chiplet",
-        "3D-IC",
-        "backend processing"
-      ],
-      "companies_mentioned": [
-        "Nikon",
-        "AMBA",
-        "FLOSFIA"
-      ]
-    },
-    {
-      "name": "AIによる設計・製造プロセスの変革",
+      "name": "AIによる半導体設計・製造の自動化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "automotive",
-        "logic",
+        "foundry",
+        "frontend",
+        "backend",
+        "equipment"
+      ],
+      "summary": "AIエージェントが半導体設計の自動化を進め、開発期間短縮や複雑な設計（3D-IC等）への対応を目指す。後工程の自動化も進展。",
+      "analysis": {
+        "short_term": "設計自動化ツールへの関心が高まる。",
+        "mid_term": "完全自動化には課題残るも、部分的な導入は拡大。",
+        "investment_implications": "AI設計プラットフォーム、自動化関連装置メーカーに期待。"
+      },
+      "keywords": [
+        "AI設計",
+        "自動化",
+        "3D-IC",
+        "後工程"
+      ],
+      "companies_mentioned": [
+        "NVIDIA",
+        "ニコン",
+        "ローム"
+      ]
+    },
+    {
+      "name": "先端ノードと配線技術の進化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "foundry",
+        "frontend",
+        "backend",
+        "miniaturization"
+      ],
+      "summary": "先端プロセスノードにおける配線信頼性と性能向上のため、自動ビア挿入技術などが開発されている。チップレット接続技術も進化。",
+      "analysis": {
+        "short_term": "先端ノード向け材料・装置の需要増。",
+        "mid_term": "チップレットエコシステムの発展が鍵。",
+        "investment_implications": "先端ファウンドリ、配線材料、インターコネクト技術に注目。"
+      },
+      "keywords": [
+        "先端ノード",
+        "配線技術",
+        "チップレット",
+        "ビア挿入"
+      ],
+      "companies_mentioned": [
+        "AMBA",
+        "FLOSFIA"
+      ]
+    },
+    {
+      "name": "半導体サプライチェーンの地域分散化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "geopolitics",
         "foundry",
         "frontend",
         "backend"
       ],
-      "summary": "AIエージェントが半導体設計の自動化を進め、CPUとGPUのバランスを変化させる。製造プロセス（後工程委託）も変革。",
+      "summary": "地政学リスクへの対応として、半導体製造拠点の米国回帰や日本からの投資が加速。サプライチェーンの安定化と多様化を目指す。",
       "analysis": {
-        "short_term": "設計自動化ツールへの関心高まる。",
-        "mid_term": "AIによる設計・製造の効率化が進展。",
-        "investment_implications": "AI設計ツール、OSAT企業に注目。"
+        "short_term": "各国政府の支援策が投資を後押し。",
+        "mid_term": "新たな製造拠点の稼働がサプライチェーン構造を変える。",
+        "investment_implications": "米国、日本での設備投資関連企業、ファウンドリに恩恵。"
       },
       "keywords": [
-        "AI agent",
-        "autonomous design",
-        "CPU-GPU balance",
-        "outsourcing"
+        "サプライチェーン",
+        "米国回帰",
+        "地政学リスク",
+        "設備投資"
       ],
       "companies_mentioned": [
-        "NVIDIA",
-        "Rohm",
-        "Teradyne"
+        "Micron",
+        "GF",
+        "日本政府"
       ]
     },
     {
-      "name": "特殊用途向け半導体の需要拡大",
-      "confidence": 0.75,
+      "name": "HBMとAIデータセンター向け高速インターフェース",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "automotive",
-        "industrial",
-        "datacenter"
-      ],
-      "summary": "宇宙用途向け耐放射線性コンバータ、AIデータセンター監視用ADC、高電圧・高効率変換技術（GaN, SiC, ダイヤモンド）が進化。",
-      "analysis": {
-        "short_term": "特定分野での技術革新が続く。",
-        "mid_term": "高信頼性・高効率化ニーズが拡大。",
-        "investment_implications": "ニッチ市場向け高付加価値製品に強み。"
-      },
-      "keywords": [
-        "radiation tolerant",
-        "high voltage",
-        "high efficiency",
-        "space",
-        "AI monitoring"
-      ],
-      "companies_mentioned": [
-        "Microchip",
-        "TI",
-        "Power Diamond Systems",
-        "Ferric"
-      ]
-    },
-    {
-      "name": "オープン化と相互運用性の重視",
-      "confidence": 0.7,
-      "momentum": "stable",
-      "related_fields": [
-        "ai",
+        "memory",
         "datacenter",
-        "logic",
-        "general"
+        "ai",
+        "logic"
       ],
-      "summary": "AIインフラはオープンインターフェースと相互運用性で、システム要件に応じた技術選択の自由度と柔軟性を高める。",
+      "summary": "AI処理能力向上のため、HBMメモリの消費電力特性評価が進む。データセンター監視向け高速ADCや、AI向け光送信器も開発。",
       "analysis": {
-        "short_term": "オープンAIモデルへの関心維持。",
-        "mid_term": "エコシステム全体の相互運用性が鍵。",
-        "investment_implications": "標準化推進企業やプラットフォームに注目。"
+        "short_term": "HBMの需要は引き続き高い。",
+        "mid_term": "データセンターの帯域幅と電力効率の向上が課題。",
+        "investment_implications": "HBM、高速ADC、光通信関連技術を持つ企業に注目。"
       },
       "keywords": [
-        "open interface",
-        "interoperability",
-        "AI infrastructure",
-        "flexibility"
+        "HBM",
+        "AI",
+        "データセンター",
+        "高速ADC",
+        "光送信器"
       ],
       "companies_mentioned": [
-        "Bluetooth SIG",
-        "NVIDIA"
+        "ETH Zurich",
+        "NYU",
+        "TI",
+        "早大"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AI需要による半導体市場全体の回復基調（Micron売上高予測）",
-      "パワー半導体（SiC, GaN）の需要拡大と供給契約強化",
-      "米国における半導体製造投資の加速（日本政府支援）",
-      "SEMICON Westでの楽観的な市場見通し（1兆ドル市場）"
+      "AI関連半導体（特にHBM、GPU、AIアクセラレータ）の需要拡大",
+      "高効率パワー半導体（GaN/SiC）市場の成長",
+      "先端ロジック・メモリの需要回復と価格上昇",
+      "各国政府による半導体産業への大規模投資と支援強化"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性（記事からは直接読み取れないが、背景として考慮）"
+      "一部の汎用半導体における過剰供給リスク",
+      "地政学リスクによるサプライチェーンの混乱可能性",
+      "先端製造装置の納期遅延による生産計画への影響"
     ],
     "neutral": [
-      "PCIeリタイマーの性能は多要因で決定され、単純なスペック競争ではない",
-      "オープンウェイトAIは独自モデルに劣るものの、展開の柔軟性を提供"
+      "PC・スマートフォン市場の緩やかな回復",
+      "車載半導体市場の安定成長"
     ]
   },
-  "source_count": 47
+  "source_count": 48
 }
