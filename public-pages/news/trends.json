@@ -1,181 +1,173 @@
 {
-  "generated_at": "2026-10-19T07:45:38.469180+09:00",
-  "date": "2026-10-19",
+  "generated_at": "2026-10-20T09:06:09.802732+09:00",
+  "date": "2026-10-20",
   "meta_trends": [
     {
-      "name": "AIインフラと電力供給の進化",
+      "name": "AIデータセンター向け高効率電源",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "ai",
         "datacenter",
+        "ai",
         "logic"
       ],
-      "summary": "AIプロセッサの高性能化に伴い、高効率・高密度な電力供給技術（GaN、SiC、pIVR等）が急速に進化。データセンターの電力効率と冷却が重要課題に。",
+      "summary": "AIデータセンターの電力需要増に対応するため、GaNやSiCを用いた高効率・高密度な電源技術（800Vシステム、両面冷却、pIVR等）が急速に進化。",
       "analysis": {
-        "short_term": "AIチップ需要拡大で関連電源IC、SiC/GaNデバイス需要増。",
-        "mid_term": "AIインフラ投資拡大で、高密度電源、冷却技術の競争激化。",
-        "investment_implications": "AI向け電源ソリューション、GaN/SiCメーカーに注目。"
-      },
-      "keywords": [
-        "AI",
-        "GaN",
-        "SiC",
-        "pIVR",
-        "データセンター",
-        "電力変換"
-      ],
-      "companies_mentioned": [
-        "Navitas",
-        "NVIDIA",
-        "Infineon",
-        "Wolfspeed",
-        "Frore"
-      ]
+        "short_term": "需要拡大と技術革新が継続。Navitas等の買収も追い風。",
+        "mid_term": "データセンターの電力効率が競争優位性に。標準化の動きも。",
+        "investment_implications": "高効率電源関連企業に注目。GaN/SiC技術が鍵。",
+        "keywords": [
+          "GaN",
+          "SiC",
+          "800V",
+          "AI",
+          "datacenter"
+        ],
+        "companies_mentioned": [
+          "Navitas",
+          "NVIDIA",
+          "Infineon",
+          "Wolfspeed"
+        ]
+      }
     },
     {
-      "name": "次世代半導体材料と製造技術",
+      "name": "先端ロジック・メモリのボトルネック解消",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
-        "power",
-        "foundry",
+        "memory",
+        "logic",
+        "ai",
+        "hpc",
         "frontend",
-        "backend",
-        "automotive"
+        "backend"
       ],
-      "summary": "GaN、SiC、酸化ガリウムなどの新材料や、3D SiP、共パッケージ化光学、先進ノードのインターコネクト技術が進化。製造プロセスの自動化も進展。",
+      "summary": "AI/HPC SoCの性能向上のため、メモリ帯域幅のボトルネック解消や、異種チップ統合、先進的な配線技術（ビア挿入）が重要視されている。",
       "analysis": {
-        "short_term": "新材料・新技術の採用拡大、製造装置・材料メーカーに追い風。",
-        "mid_term": "高性能・高信頼性デバイスの需要増で、材料・製造技術の差別化が鍵。",
-        "investment_implications": "次世代材料、先進パッケージング、製造装置関連企業に投資妙味。"
-      },
-      "keywords": [
-        "GaN",
-        "SiC",
-        "酸化ガリウム",
-        "3D SiP",
-        "共パッケージ化光学",
-        "先進ノード"
-      ],
-      "companies_mentioned": [
-        "Ferric",
-        "Microchip",
-        "FLOSFIA",
-        "ニコン",
-        "ローム"
-      ]
+        "short_term": "異種チップ統合アーキテクチャの研究開発が活発化。",
+        "mid_term": "先端プロセスでの配線技術が性能・信頼性を左右。",
+        "investment_implications": "メモリIP、相互接続技術、先進パッケージング関連に投資妙味。",
+        "keywords": [
+          "AI",
+          "HPC",
+          "memory bottleneck",
+          "interconnect",
+          "heterogeneous integration"
+        ],
+        "companies_mentioned": [
+          "Argonne",
+          "UIUC",
+          "Cadence",
+          "Notre Dame"
+        ]
+      }
     },
     {
-      "name": "半導体サプライチェーンの再編と国内投資",
+      "name": "車載AI・自動運転の進化と課題",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "ai",
+        "logic",
+        "security"
+      ],
+      "summary": "AIの物理システム統合はセンサー・計算・アクチュエーター連携が課題。熱サイドチャネル攻撃などセキュリティリスクも顕在化。",
+      "analysis": {
+        "short_term": "物理AIのエンジニアリング課題への対応が急務。",
+        "mid_term": "セキュリティ対策とチップ設計の連携が不可欠に。",
+        "investment_implications": "車載AIチップ、センサー、セキュリティソリューションに注目。",
+        "keywords": [
+          "physical AI",
+          "autonomous driving",
+          "thermal security",
+          "sensor fusion"
+        ],
+        "companies_mentioned": [
+          "Missouri S&T"
+        ]
+      }
+    },
+    {
+      "name": "半導体製造の地政学リスクと国内回帰",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "geopolitics",
         "foundry",
+        "idm",
         "frontend",
-        "backend",
         "equipment"
       ],
-      "summary": "地政学リスクの高まりを受け、米国への半導体製造回帰が加速。日本も巨額投資を計画し、サプライチェーンの国内・地域化が進む。",
+      "summary": "地政学リスクの高まりを受け、各国で半導体製造拠点の国内回帰やサプライチェーン強化の動きが加速。日本も巨額投資を計画。",
       "analysis": {
-        "short_term": "国内・米国でのファブ建設・投資が活発化、関連装置・材料需要増。",
-        "mid_term": "サプライチェーンの安定化が最優先課題となり、地域分散化が進む。",
-        "investment_implications": "国内半導体関連企業、米国での生産拠点を持つ企業に恩恵。"
-      },
-      "keywords": [
-        "米国回帰",
-        "国内投資",
-        "サプライチェーン",
-        "ファブ",
-        "地政学"
-      ],
-      "companies_mentioned": [
-        "Micron",
-        "GF",
-        "ニコン",
-        "ローム"
-      ]
+        "short_term": "RapidusやTSMC熊本への支援強化、米国での投資拡大。",
+        "mid_term": "サプライチェーンの安定化と技術覇権争いが続く。",
+        "investment_implications": "国内製造拠点、関連設備・材料メーカーへの恩恵期待。",
+        "keywords": [
+          "reshoring",
+          "supply chain",
+          "geopolitics",
+          "government support"
+        ],
+        "companies_mentioned": [
+          "Rapidus",
+          "TSMC",
+          "Applied Materials",
+          "住友ベークライト"
+        ]
+      }
     },
     {
-      "name": "AIによる設計・テストの自動化・高度化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "automotive",
-        "equipment",
-        "foundry"
-      ],
-      "summary": "AIエージェントがチップ設計、テスト、検証プロセスを自動化・高度化。CPUとGPUのバランス変化や、自律型設計への期待が高まる。",
-      "analysis": {
-        "short_term": "AI設計ツール、EDAソフトウェアの需要が増加。",
-        "mid_term": "設計・テストの効率化・高速化が進み、開発コスト削減に寄与。",
-        "investment_implications": "AIを活用したEDA、テストソリューション企業に注目。"
-      },
-      "keywords": [
-        "AIエージェント",
-        "自律設計",
-        "CPU",
-        "GPU",
-        "EDA",
-        "テスト"
-      ],
-      "companies_mentioned": [
-        "シノプシス",
-        "テラダイン"
-      ]
-    },
-    {
-      "name": "高密度・低消費電力化の追求",
+      "name": "次世代パワー半導体の多様化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "power",
+        "automotive",
         "datacenter",
-        "memory",
-        "logic",
-        "miniaturization"
+        "industrial"
       ],
-      "summary": "AIデータセンター監視用ADC、AI向け光送信器、HBM消費電力特性評価など、高密度化と低消費電力化に向けた技術開発が加速。",
+      "summary": "GaN、SiCに加え、ダイヤモンドMOSFETなど新材料・技術が登場。EV、データセンター、産業機器など幅広い分野で高効率化・小型化を推進。",
       "analysis": {
-        "short_term": "高密度・低消費電力デバイス、インターコネクト技術の需要増。",
-        "mid_term": "データセンターの省電力化・高密度化競争が激化。",
-        "investment_implications": "高効率電源、高速インターコネクト、メモリ技術関連企業に期待。"
-      },
-      "keywords": [
-        "ADC",
-        "光送信器",
-        "HBM",
-        "低消費電力",
-        "高密度化",
-        "データセンター"
-      ],
-      "companies_mentioned": [
-        "TI",
-        "早大",
-        "ETH Zurich",
-        "NYU"
-      ]
+        "short_term": "SiCウエハー供給契約の拡大が続く。",
+        "mid_term": "新材料の量産化とコスト競争力が焦点に。",
+        "investment_implications": "パワー半導体材料・デバイスメーカーの成長機会。",
+        "keywords": [
+          "GaN",
+          "SiC",
+          "diamond MOSFET",
+          "power electronics",
+          "EV"
+        ],
+        "companies_mentioned": [
+          "Infineon",
+          "Wolfspeed",
+          "Power Diamond Systems",
+          "Navitas"
+        ]
+      }
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIインフラ投資の継続的な拡大",
-      "パワー半導体（SiC/GaN）の需要増",
-      "半導体製造装置・材料分野への大型投資",
-      "データセンター向け高性能チップの需要増"
+      "AI/HPC向け半導体需要の堅調な伸び",
+      "データセンター投資の活発化",
+      "車載半導体市場の回復基調",
+      "先端ロジック・メモリの技術革新",
+      "各国政府による半導体産業支援強化"
     ],
     "bearish": [
       "地政学リスクによるサプライチェーンの不確実性",
-      "一部先端プロセスにおける設備投資の過熱懸念"
+      "メモリ市場の価格変動リスク",
+      "一部地域での設備投資の過熱懸念"
     ],
     "neutral": [
-      "オープンソースAIモデルの普及による市場構造の変化",
-      "Bluetooth SIG日本法人の設立による国内エコシステムの活性化"
+      "先端プロセス開発競争の激化",
+      "人材獲得競争の継続"
     ]
   },
-  "source_count": 46
+  "source_count": 44
 }
