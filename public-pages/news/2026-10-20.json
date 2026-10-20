@@ -1,22 +1,40 @@
 {
-  "generated_at": "2026-10-20T09:06:06.082271+09:00",
+  "generated_at": "2026-10-21T08:37:01.183849+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC)",
-    "summary": "アルゴンヌ国立研究所とイリノイ大学が、AI/HPCシステムの異種チップ・相互接続アーキテクチャに関する技術論文を発表。GPU、データフロー、RISC-V等、多様な計算アーキテクチャを網羅。",
+    "stars": 4,
+    "title": "Electrify America’s biggest charging station yet opens in theme park territory",
+    "summary": "Electrify Americaがテーマパーク近くに過去最大の充電ステーションを開設。DC急速充電器24基を備える。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/agentic-ai-explores-heterogeneous-chip-and-interconnect-architectures-argonne-uiuc"
+        "name": "electrek.co",
+        "url": "https://electrek.co/2026/10/20/electrify-americas-biggest-charging-station-yet-opens-in-theme-park-territory"
       }
     ]
   },
   "sections": {
     "business": [
       {
+        "title": "Chip Industry Technical Paper Roundup: Oct. 20",
+        "blurb": "HBM消費電力、GAAFETリーク経路、異種システム設計向けAI、eDRAM、3D-IC熱モデリング、RTL検証、自動運転車での熱攻撃など、半導体技術論文をまとめた。",
+        "category": "business",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
         "title": "Industrial Edge Analytics: Detect Issues Faster and Improve Maintenance",
-        "blurb": "産業用エッジコンピューティングは、データ処理を現地で行い、リアルタイム分析で問題検知と保守を迅速化する。",
+        "blurb": "産業用エッジコンピューティングは、センサーデータを現地で処理し、リアルタイム分析で問題検知と保守を迅速化する。",
         "category": "business",
         "date": "2026-10-20",
         "stars": 3,
@@ -31,25 +49,151 @@
           "market": "industrial",
           "industry": null
         }
+      },
+      {
+        "title": "Used EVs Hit A Record Share Of Overall Used Car Sales In September",
+        "blurb": "中古EV販売が過去最高を記録。価格が適正であれば、消費者はEVを求めていることが示唆された。",
+        "category": "business",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812497/record-used-ev-sales-september-2026"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "How electric school buses power 1,000 homes in California – and make money",
+        "blurb": "カリフォルニアで74台のEVスクールバスがV2G技術で約1000世帯に電力供給、グリッド負荷軽減と収益化に貢献。",
+        "category": "business",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/how-electric-school-buses-power-1000-homes-in-california-and-make-money"
+        },
+        "field": null
+      },
+      {
+        "title": "Volkswagen opens orders for the lower-priced ID. Cross, starting at about $31,000",
+        "blurb": "フォルクスワーゲン、約3万1000ドルから低価格EV「ID.クロス」の受注を開始。エントリーモデル。",
+        "category": "business",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/19/vw-opens-orders-lower-priced-id-cross-starting-31000"
+        },
+        "field": null
+      },
+      {
+        "title": "Foxconn pays $727M for half of Mitsubishi Electric’s car parts unit in EV push",
+        "blurb": "鴻海精密工業が三菱電機の車載部品事業の半分を727億円で買収。EV事業拡大へ大型投資。",
+        "category": "business",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/19/foxconn-mitsubishi-electric-mobility-50-percent-stake-ev-push"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+        "blurb": "テスラ、2026年第3四半期決算発表へ。売上横ばい、利益は10%減予想。納車台数は予想を上回る。",
+        "category": "business",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview"
+        },
+        "field": null
+      },
+      {
+        "title": "I bought a $199 Walmart e-bike, and what arrived shocked me",
+        "blurb": "ウォルマートで199ドルの電動自転車を購入したところ、予想外のものが届き驚いた。",
+        "category": "business",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/i-bought-a-199-walmart-e-bike-and-what-arrived-shocked-me"
+        },
+        "field": null
       }
     ],
     "tools": [],
     "company": [
       {
-        "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC)",
-        "blurb": "アルゴンヌ国立研究所とイリノイ大学が、AI/HPCシステムの異種チップ・相互接続アーキテクチャに関する技術論文を発表。GPU、データフロー、RISC-V等、多様な計算アーキテクチャを網羅。",
+        "title": "Electrify America’s biggest charging station yet opens in theme park territory",
+        "blurb": "Electrify Americaがテーマパーク近くに過去最大の充電ステーションを開設。DC急速充電器24基を備える。",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 4,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/electrify-americas-biggest-charging-station-yet-opens-in-theme-park-territory"
+        },
+        "field": null
+      },
+      {
+        "title": "ニデックが役員責任報告書を公表、永守氏ら歴代5社長の責任詳述",
+        "blurb": "ニデックは会計不正問題で役員責任調査委の報告書を公表。永守氏ら歴代5社長の任務懈怠を詳述した。",
         "category": "company",
         "date": "2026-10-20",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/agentic-ai-explores-heterogeneous-chip-and-interconnect-architectures-argonne-uiuc"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news081.html"
+        },
+        "field": null
+      },
+      {
+        "title": "室温成膜のまま熱電性能を約250倍に向上、東北大",
+        "blurb": "東北大学は、室温で窒化物薄膜を形成した熱電デバイスを試作し、既存の高性能熱電薄膜に匹敵する出力密度を実現した。クロム窒化物（CrN）薄膜にチタン（Ti）を添加することで、熱電性能を示すパワーファクターを純CrNの約250倍に向上させた。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news034.html"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
+          "primary": "frontend",
+          "device": null,
+          "process": "frontend",
           "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "FinFET使わず7nm級の性能、GFの新世代FD-SOI技術",
+        "blurb": "GlobalFoundriesが新世代FD-SOI技術「FDX Fusion」を発表。AI半導体の次なる市場を開拓する。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news055.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
           "industry": null
         }
       },
@@ -72,22 +216,364 @@
         }
       },
       {
-        "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
-        "blurb": "Secoは産業用HMIプラットフォーム「Modular Vision 10.1 MX95」の量産を開始。OEMやシステムインテグレーター向けに提供。",
+        "title": "MediaTek Dimensity CX C10 Max Octa-Core SoC Targets Googlebooks",
+        "blurb": "MediaTek、Googlebooks向け新SoC「Dimensity CX C10 Max」を発表。3nmプロセス、Cortex-X925、Wi-Fi 7、Gemini AI搭載。",
         "category": "company",
         "date": "2026-10-20",
         "stars": 3,
         "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/news/mediatek-dimensity-cx-c10-max-octa-core-soc-targets-googlebooks"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "miniaturization",
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "GM Is Closing Its Detroit EV Battery Plant",
+        "blurb": "GMはデトロイトのEVバッテリー工場を閉鎖。キャデラック・セレスティックやシボレー・コルベット E-Rayの部品を製造していた。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812603/gm-brownstown-ev-battery-plant-closure"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "The 2027 Lexus NX Plug-In Hybrid Gets A Bigger Battery And Fast Charging",
+        "blurb": "2027年型レクサスNX、PHEVモデルはバッテリー大型化と急速充電対応へ。ガソリンモデルは廃止。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812539/2027-lexus-nx-hybrid-plug-in-hybrid-specs-range-official"
+        },
+        "field": null
+      },
+      {
+        "title": "Here's What It's Like To Take Delivery Of A Rivian R2",
+        "blurb": "リビアンR2の納車プロセス体験談。期待と現実のギャップを語る。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812502/rivian-r2-delivery-process"
+        },
+        "field": null
+      },
+      {
+        "title": "2027 Volvo EX60 Blows Past EPA Rating In Real-World Range Test",
+        "blurb": "2027年型ボルボEX60、実走行テストでEPA評価を大幅に上回る航続距離を記録。EVの航続距離への懸念を払拭。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812433/2027-volvo-ex60-blows-past-epa-range-test"
+        },
+        "field": null
+      },
+      {
+        "title": "Polestar and Oxford wired up drivers to measure how performance feels",
+        "blurb": "ポールスターとオックスフォード大がEVの走行性能を数値化。ドライバーの心拍数や視線で、体感的なパフォーマンスを測定した。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/polestar-oxford-study-measure-ev-performance-feel"
+        },
+        "field": null
+      },
+      {
+        "title": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
+        "blurb": "テスラの競合他社から、空を飛び、ひっくり返り、完全自動運転可能なEVが続々登場。購入可能なモデルも多数。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/19/flying-flipping-tesla-roadster-delivered-on-style-these-evs-deliver-on-substance"
+        },
+        "field": null
+      },
+      {
+        "title": "BYD’s new high-tech 5-seat electric SUV revealed with 690 hp and dual 30″ screens",
+        "blurb": "BYDが新型EV SUV「Tang EV」を発表。690馬力、デュアル30インチスクリーン搭載。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/19/byds-new-high-tech-5-seat-ev-suv-revealed-two-30-screens"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Toyota’s best-selling Corolla is going electric, and it will be made in China",
+        "blurb": "トヨタ、主力車種カローラを2028年から中国でEV化。ハイブリッド・ガソリン車も併売。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/19/toyotas-best-selling-corolla-going-electric"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Priority’s fan-favorite Sauce bike just got a big electric upgrade",
+        "blurb": "Priority Bicyclesが人気のSauceバイクを電動化。シンプルで高品質な自転車を提供してきた同社が、遊び心のあるモデルを新たに電動アシスト化。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/19/prioritys-fan-favorite-sauce-bike-just-got-a-big-electric-upgrade"
+        },
+        "field": null
+      },
+      {
+        "title": "The Volvo EX60 delivered more driving range in the real world, covering over 350 miles",
+        "blurb": "新型ボルボEX60、実走行で350マイル超え。EPA推定値312マイルを上回る航続距離を達成。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/19/volvo-ex60-delivered-350-miles-real-world-driving-range"
+        },
+        "field": null
+      },
+      {
+        "title": "STMicroelectronics Launches QML-V Qualified LVDS Receiver",
+        "blurb": "STマイクロエレクトロニクス、毎秒600メガビットのデータレートに対応する放射線耐性LVDS受信機を発表。航空宇宙システム向け。",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/stmicroelectronics-launches-qml-v-qualified-lvds-receiver"
+        },
+        "field": null
+      },
+      {
+        "title": "Altera Expands Defense-Grade Agilex FPGA Portfolio",
+        "blurb": "Altera Corp. is extending defense-grade capabilities across its Agilex FPGA and SoC FPGA portfolio to support aerospace ",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production"
+          "url": "https://www.embedded.com/altera-expands-defense-grade-agilex-fpga-portfolio"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "industrial",
+          "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "Synaptics Claims a New Class of Edge AI Processors, Expands Coralboard Platform",
+        "blurb": "Synaptics Inc. has claimed a new class of microcontrollers (MCUs), the xMCU, for multimodal edge AI. Announced at its an",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Can The BMW iX3 Take Down The Tesla Model Y L And Rivian R2?",
+        "blurb": "The iX3 is one of the most sophisticated electric crossovers on sale. But can it beat the latest and greatest from Tesla",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812651/bmw-ix3-tesla-rivian-comparison"
+        },
+        "field": null
+      },
+      {
+        "title": "Waymo Plans To Have 20,000 Cars By The End Of 2027",
+        "blurb": "Waymo plans to grow its fleet of driverless cars five-fold by the end of next year, Semafor reported.",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812642/waymo-quintuple-fleet-5000-robotaxis"
+        },
+        "field": null
+      },
+      {
+        "title": "The Boring Company Uses Tesla Model 3 Sleds To Shuttle Shipping Containers Through Its Tunnels",
+        "blurb": "The shipping containers fit \"like a glove.\"",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812647/boring-company-model-3-freight"
+        },
+        "field": null
+      },
+      {
+        "title": "How Much Range Do EVs Lose When Parked? (And How to Stop It)",
+        "blurb": "Your electric car can use energy without moving an inch. Here’s where those miles actually go and how much \"vampire drai",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/features/812051/your-parked-ev-loses-range"
+        },
+        "field": null
+      },
+      {
+        "title": "Mercedes’ new GLC 400 EV crushes range estimates, driving nearly 400 miles",
+        "blurb": "The new 2027 Mercedes-Benz GLC 400 4Matic EV has an EPA-estimated range of up to 331 miles, but in the real world, it wi",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/mercedes-glc-ev-crushes-range-estimate-driving-nearly-400-miles"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "A parking giant with 5,700 sites is taking on apartment EV charging",
+        "blurb": "Apartment and condo residents could get more places to plug in their EVs without their buildings needing a costly electr",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/a-parking-giant-with-5700-sites-is-taking-on-apartment-ev-charging"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
+        "blurb": "Rivian is now the #2 EV brand in the US, up from 10th last year, taking Chevrolet’s spot as almost every other automaker",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/rivian-now-2-us-ev-brand-up-from-10-as-big-auto-marginalizes-itself"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "BMW iX5 hits up to 460 kW during first public fast-charging demo",
+        "blurb": "With up to 460 kW DC fast charging, the new BMW iX5 can add up to 170 miles in just 10 minutes. BMW proved it during a l",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/bmw-ix5-hits-460-kw-first-public-fast-charging-demo"
+        },
+        "field": null
+      },
+      {
+        "title": "Segway E3 Go electric scooter launches at $100 off, Bluetti 2,016Wh FridgePower station exclusive $854 in Member Sale, more",
+        "blurb": "Our two headliners for today’s edition is the newly launched Segway E3 Go Electric Scooter with $100 savings at $550 , w",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/segway-e3-go-electric-scooter-bluetti-2016wh-fridgepower-station-more"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Subaru is killing off gas cars and will only sell EVs in Europe",
+        "blurb": "スバルは2027年末までに欧州でガソリン車の販売を終了し、EV専業メーカーとなる。",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/subaru-killing-off-gas-cars-europe-will-only-sell-evs"
+        },
+        "field": null
+      },
+      {
+        "title": "Volkswagen tells ID.4 owners to limit charging to 80% as part of a recall, or it will do it for them",
+        "blurb": "Volkswagen told certain ID.4 drivers to limit charging to 80% as part of a recall by October 21. Unless drivers opt out,",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/volkswagen-id-4-recall-caps-charging-at-80-or-remotely-enforces-it"
+        },
+        "field": null
       }
     ],
     "sns": []

@@ -1,27 +1,81 @@
 {
-  "generated_at": "2026-10-20T09:06:06.083534+09:00",
+  "generated_at": "2026-10-21T08:37:01.187125+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
-    "summary": "Secoは産業用HMIプラットフォーム「Modular Vision 10.1 MX95」の量産を開始。OEMやシステムインテグレーター向けに提供。",
+    "title": "FinFET使わず7nm級の性能、GFの新世代FD-SOI技術",
+    "summary": "GlobalFoundriesが新世代FD-SOI技術「FDX Fusion」を発表。AI半導体の次なる市場を開拓する。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news055.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
-        "blurb": "Secoは産業用HMIプラットフォーム「Modular Vision 10.1 MX95」の量産を開始。OEMやシステムインテグレーター向けに提供。",
+        "title": "FinFET使わず7nm級の性能、GFの新世代FD-SOI技術",
+        "blurb": "GlobalFoundriesが新世代FD-SOI技術「FDX Fusion」を発表。AI半導体の次なる市場を開拓する。",
         "category": "company",
         "date": "2026-10-20",
         "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news055.html"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "MediaTek Dimensity CX C10 Max Octa-Core SoC Targets Googlebooks",
+        "blurb": "MediaTek、Googlebooks向け新SoC「Dimensity CX C10 Max」を発表。3nmプロセス、Cortex-X925、Wi-Fi 7、Gemini AI搭載。",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/news/mediatek-dimensity-cx-c10-max-octa-core-soc-targets-googlebooks"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": "miniaturization",
+          "market": null,
+          "industry": "foundry"
+        }
+      },
+      {
+        "title": "Altera Expands Defense-Grade Agilex FPGA Portfolio",
+        "blurb": "Altera Corp. is extending defense-grade capabilities across its Agilex FPGA and SoC FPGA portfolio to support aerospace ",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/altera-expands-defense-grade-agilex-fpga-portfolio"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
+        "blurb": "Seco has moved its Modular Vision 10.1 MX95 industrial human-machine interface (HMI) platform into mass production, maki",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 2,
         "source": {
           "name": "embedded.com",
           "url": "https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production"

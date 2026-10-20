@@ -1,27 +1,45 @@
 {
-  "generated_at": "2026-10-20T09:06:06.083200+09:00",
+  "generated_at": "2026-10-21T08:37:01.186457+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC)",
-    "summary": "アルゴンヌ国立研究所とイリノイ大学が、AI/HPCシステムの異種チップ・相互接続アーキテクチャに関する技術論文を発表。GPU、データフロー、RISC-V等、多様な計算アーキテクチャを網羅。",
+    "title": "Chip Industry Technical Paper Roundup: Oct. 20",
+    "summary": "HBM消費電力、GAAFETリーク経路、異種システム設計向けAI、eDRAM、3D-IC熱モデリング、RTL検証、自動運転車での熱攻撃など、半導体技術論文をまとめた。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/agentic-ai-explores-heterogeneous-chip-and-interconnect-architectures-argonne-uiuc"
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "Synaptics Claims a New Class of Edge AI Processors, Expands Coralboard Platform",
+        "blurb": "Synaptics Inc. has claimed a new class of microcontrollers (MCUs), the xMCU, for multimodal edge AI. Announced at its an",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/synaptics-claims-a-new-class-of-edge-ai-processors-expands-coralboard-platform"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
         "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC)",
-        "blurb": "アルゴンヌ国立研究所とイリノイ大学が、AI/HPCシステムの異種チップ・相互接続アーキテクチャに関する技術論文を発表。GPU、データフロー、RISC-V等、多様な計算アーキテクチャを網羅。",
+        "blurb": "Researchers at Argonne National Laboratory and the University of Illinois Urbana-Champaign published a technical paper t",
         "category": "company",
         "date": "2026-10-20",
-        "stars": 3,
+        "stars": 2,
         "source": {
           "name": "semiengineering.com",
           "url": "https://semiengineering.com/agentic-ai-explores-heterogeneous-chip-and-interconnect-architectures-argonne-uiuc"
@@ -33,9 +51,64 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "DRAMとNANDの「二刀流」目指す？ 中国2大メモリメーカーの思惑とは",
+        "blurb": "中国のDRAMメーカーCXMTと、NANDフラッシュメーカーYMTCの動きが活発になっている。昨今のIPO（新規株式公開）による多額の資金調達や、AIブームを受け、DRAMやNANDフラッシュの「専業」メーカーではなく、両方の市場に参入する",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 2,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news021.html"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "BYD launches new Seagull EV with 5-minute Flash Charging, starting under $10,000",
+        "blurb": "BYD’s new Seagull EV is now its cheapest electric car in China with 5-minute Flash Charging, and starts at under $10,000",
+        "category": "company",
+        "date": "2026-10-20",
+        "stars": 2,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/20/byd-launches-new-seagull-ev-with-5-min-charging-under-10k"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Chip Industry Technical Paper Roundup: Oct. 20",
+        "blurb": "HBM消費電力、GAAFETリーク経路、異種システム設計向けAI、eDRAM、3D-IC熱モデリング、RTL検証、自動運転車での熱攻撃など、半導体技術論文をまとめた。",
+        "category": "business",
+        "date": "2026-10-20",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }
