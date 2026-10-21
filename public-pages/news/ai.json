@@ -1,32 +1,66 @@
 {
-  "generated_at": "2026-10-18T07:52:45.386676+09:00",
+  "generated_at": "2026-10-22T08:53:45.743671+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights",
-    "summary": "組み込み分野の最新情報。リアルタイムシステム向けエッジAI、エッジコンピューティングの電力問題、PCIe 6.0高ラディクススイッチなどを解説。",
+    "title": "MCUs accelerate multimodal edge AI",
+    "summary": "The Synaptics Astra SR200 series of xMCUs runs multimodal AI workloads without the memory and compute limitations of con",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights"
+        "name": "edn.com",
+        "url": "https://www.edn.com/mcus-accelerate-multimodal-edge-ai"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "Edge AI for Real-Time Systems, the Edge Computing Energy Problem, PCIe 6.0 High-Radix Switches: Embedded Week Insights",
-        "blurb": "組み込み分野の最新情報。リアルタイムシステム向けエッジAI、エッジコンピューティングの電力問題、PCIe 6.0高ラディクススイッチなどを解説。",
-        "category": "business",
-        "date": "2026-10-17",
+        "title": "MCUs accelerate multimodal edge AI",
+        "blurb": "The Synaptics Astra SR200 series of xMCUs runs multimodal AI workloads without the memory and compute limitations of con",
+        "category": "company",
+        "date": "2026-10-22",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/edge-ai-for-real-time-systems-the-edge-computing-energy-problem-pcie-6-0-high-radix-switches-embedded-week-insights"
+          "name": "edn.com",
+          "url": "https://www.edn.com/mcus-accelerate-multimodal-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Blog Review: Oct. 21",
+        "blurb": "From server to rack; AMBA CXS; digital twins; edge AI development loop; satellite power; global talent challenges. The p",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 2,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/blog-review-oct-21-3"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "AIはクラウドから現場へ　台湾が示す電子産業の進化",
+        "blurb": "台湾・台北で2026年10月20日、電子産業の展示会「TAITRONICS & AIoT Taiwan 2026」が開幕した。260社が出展し、エッジAIや次世代通信、スマートエネルギーなどの技術を紹介する。開幕式では、AIの産業応用の拡大",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 2,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/21/news037.html"
         },
         "field": {
           "primary": "ai",
@@ -36,6 +70,8 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "tech": [],
+    "market": []
   }
 }

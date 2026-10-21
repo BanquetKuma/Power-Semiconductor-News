@@ -1,55 +1,91 @@
 {
-  "generated_at": "2026-10-21T08:37:01.187125+09:00",
+  "generated_at": "2026-10-22T08:53:45.743016+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "FinFET使わず7nm級の性能、GFの新世代FD-SOI技術",
-    "summary": "GlobalFoundriesが新世代FD-SOI技術「FDX Fusion」を発表。AI半導体の次なる市場を開拓する。",
+    "title": "Altera extends Agilex FPGAs to defense systems",
+    "summary": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range o",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news055.html"
+        "name": "edn.com",
+        "url": "https://www.edn.com/altera-extends-agilex-fpgas-to-defense-systems"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "FinFET使わず7nm級の性能、GFの新世代FD-SOI技術",
-        "blurb": "GlobalFoundriesが新世代FD-SOI技術「FDX Fusion」を発表。AI半導体の次なる市場を開拓する。",
+        "title": "Altera extends Agilex FPGAs to defense systems",
+        "blurb": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range o",
         "category": "company",
-        "date": "2026-10-20",
+        "date": "2026-10-22",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/20/news055.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/altera-extends-agilex-fpgas-to-defense-systems"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "ai",
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "MediaTek Dimensity CX C10 Max Octa-Core SoC Targets Googlebooks",
-        "blurb": "MediaTek、Googlebooks向け新SoC「Dimensity CX C10 Max」を発表。3nmプロセス、Cortex-X925、Wi-Fi 7、Gemini AI搭載。",
+        "title": "Processor IP brings generative AI to edge devices",
+        "blurb": "BrainChip’s Sequora processor IP core runs generative AI and large language models (LLMs) directly on battery-powered ed",
         "category": "company",
-        "date": "2026-10-20",
+        "date": "2026-10-22",
         "stars": 3,
         "source": {
-          "name": "electronics-lab.com",
-          "url": "https://www.electronics-lab.com/news/mediatek-dimensity-cx-c10-max-octa-core-soc-targets-googlebooks"
+          "name": "edn.com",
+          "url": "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
-          "process": "miniaturization",
+          "process": null,
           "market": null,
-          "industry": "foundry"
+          "industry": null
+        }
+      },
+      {
+        "title": "Variscite, SecEdge Add Firmware TPM 2.0 Security to i.MX SoMs",
+        "blurb": "Variscite and SecEdge Inc. have announced the availability of firmware-based Trusted Platform Module (TPM) 2.0 security ",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/variscite-secedge-add-firmware-tpm-2-0-security-to-i-mx-soms"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins",
+        "blurb": "Fab workflow connects GDS layout import, 3D process simulation, GPU-accelerated FDTD, design of experiments, with AI-bas",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 2,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/accelerating-manufacturing-aware-simulations-for-photonic-integrated-circuits-with-ftco-and-digital-twins"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
         }
       },
       {
@@ -57,7 +93,7 @@
         "blurb": "Altera Corp. is extending defense-grade capabilities across its Agilex FPGA and SoC FPGA portfolio to support aerospace ",
         "category": "company",
         "date": "2026-10-21",
-        "stars": 3,
+        "stars": 2,
         "source": {
           "name": "embedded.com",
           "url": "https://www.embedded.com/altera-expands-defense-grade-agilex-fpga-portfolio"
@@ -67,24 +103,6 @@
           "device": "logic",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Seco Modular Vision 10.1 MX95 Enters Mass Production",
-        "blurb": "Seco has moved its Modular Vision 10.1 MX95 industrial human-machine interface (HMI) platform into mass production, maki",
-        "category": "company",
-        "date": "2026-10-20",
-        "stars": 2,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/seco-modular-vision-10-1-mx95-enters-mass-production"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": "industrial",
           "industry": null
         }
       }
