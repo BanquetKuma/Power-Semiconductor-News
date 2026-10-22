@@ -1,27 +1,45 @@
 {
-  "generated_at": "2026-10-22T08:53:45.743016+09:00",
+  "generated_at": "2026-10-23T08:53:06.241743+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Altera extends Agilex FPGAs to defense systems",
-    "summary": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range o",
+    "title": "Socionext, Cadence Advance AI-Driven 3-nm SoC Design",
+    "summary": "Socionext Inc. is expanding its use of agentic artificial intelligence (AI) across system-on-chip (SoC) development, ext",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/altera-extends-agilex-fpgas-to-defense-systems"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/socionext-cadence-advance-ai-driven-3-nm-soc-design"
       }
     ]
   },
   "sections": {
     "news": [
       {
+        "title": "Socionext, Cadence Advance AI-Driven 3-nm SoC Design",
+        "blurb": "Socionext Inc. is expanding its use of agentic artificial intelligence (AI) across system-on-chip (SoC) development, ext",
+        "category": "company",
+        "date": "2026-10-23",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/socionext-cadence-advance-ai-driven-3-nm-soc-design"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
         "title": "Altera extends Agilex FPGAs to defense systems",
         "blurb": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range o",
         "category": "company",
         "date": "2026-10-22",
-        "stars": 3,
+        "stars": 2,
         "source": {
           "name": "edn.com",
           "url": "https://www.edn.com/altera-extends-agilex-fpgas-to-defense-systems"
@@ -39,7 +57,7 @@
         "blurb": "BrainChip’s Sequora processor IP core runs generative AI and large language models (LLMs) directly on battery-powered ed",
         "category": "company",
         "date": "2026-10-22",
-        "stars": 3,
+        "stars": 2,
         "source": {
           "name": "edn.com",
           "url": "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices"
@@ -53,50 +71,32 @@
         }
       },
       {
+        "title": "How Agentic AI Accelerates Edge AI Software Development",
+        "blurb": "Deploying an AI model on edge hardware involves much more than generating application code. The model needs to be compre",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 2,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/how-agentic-ai-accelerates-edge-ai-software-development"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
         "title": "Variscite, SecEdge Add Firmware TPM 2.0 Security to i.MX SoMs",
         "blurb": "Variscite and SecEdge Inc. have announced the availability of firmware-based Trusted Platform Module (TPM) 2.0 security ",
         "category": "company",
         "date": "2026-10-22",
-        "stars": 3,
+        "stars": 2,
         "source": {
           "name": "embedded.com",
           "url": "https://www.embedded.com/variscite-secedge-add-firmware-tpm-2-0-security-to-i-mx-soms"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins",
-        "blurb": "Fab workflow connects GDS layout import, 3D process simulation, GPU-accelerated FDTD, design of experiments, with AI-bas",
-        "category": "company",
-        "date": "2026-10-21",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/accelerating-manufacturing-aware-simulations-for-photonic-integrated-circuits-with-ftco-and-digital-twins"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Altera Expands Defense-Grade Agilex FPGA Portfolio",
-        "blurb": "Altera Corp. is extending defense-grade capabilities across its Agilex FPGA and SoC FPGA portfolio to support aerospace ",
-        "category": "company",
-        "date": "2026-10-21",
-        "stars": 2,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/altera-expands-defense-grade-agilex-fpga-portfolio"
         },
         "field": {
           "primary": "logic",
