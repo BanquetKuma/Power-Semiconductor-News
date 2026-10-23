@@ -1,48 +1,84 @@
 {
-  "generated_at": "2026-10-23T08:53:06.240875+09:00",
+  "generated_at": "2026-10-24T08:44:58.629278+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Navitas Launches 2300-V SiC Power Module for Grid Infrastructure",
-    "summary": "2300 V SiC technology targets higher efficiency and power density in AI data centers, energy storage, and grid applicati",
+    "title": "Chip Industry Week In Review",
+    "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; ",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/navitas-launches-2300-v-sic-power-module-for-grid-infrastructure"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-161"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Navitas Launches 2300-V SiC Power Module for Grid Infrastructure",
-        "blurb": "2300 V SiC technology targets higher efficiency and power density in AI data centers, energy storage, and grid applicati",
+        "title": "Chip Industry Week In Review",
+        "blurb": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; ",
         "category": "company",
         "date": "2026-10-23",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-launches-2300-v-sic-power-module-for-grid-infrastructure"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-161"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
           "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Infineon and Wolfspeed Extend SiC Wafer Supply Agreement",
+        "blurb": "The expanded agreement adds larger-diameter substrates to Infineon's supply base as demand grows across EV charging, ren",
+        "category": "company",
+        "date": "2026-10-23",
+        "stars": 2,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/infineon-and-wolfspeed-extend-sic-wafer-supply-agreement"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "wafer",
+          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "Rad-tolerant GaN converter powers space electronics",
-        "blurb": "Microchip’s POL-05-20S-T GaN converter delivers up to 20 A to power FPGAs, MCUs, and other processing-intensive digital ",
+        "title": "Leveraging the FinFET Structure for Power: Applications and Use Cases",
+        "blurb": "FinFET-based voltage regulators and vertical GaN transistors raise power density at opposite ends of power conversion. T",
         "category": "company",
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "stars": 2,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/leveraging-the-finfet-structure-for-power-applications-and-use-cases"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": "miniaturization",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Navitas Launches 2300-V SiC Power Module for Grid Infrastructure",
+        "blurb": "2300 V SiC technology targets higher efficiency and power density in AI data centers, energy storage, and grid applicati",
+        "category": "company",
+        "date": "2026-10-23",
+        "stars": 2,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/navitas-launches-2300-v-sic-power-module-for-grid-infrastructure"
         },
         "field": {
           "primary": "power",

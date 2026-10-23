@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-23T08:53:06.239068+09:00",
+  "generated_at": "2026-10-22T08:53:45.737295+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Navitas Launches 2300-V SiC Power Module for Grid Infrastructure",
-    "summary": "2300 V SiC technology targets higher efficiency and power density in AI data centers, energy storage, and grid applicati",
+    "title": "ソニー、「業界初」製品で使い捨て内視鏡用イメージセンサー市場に参入",
+    "summary": "ソニーセミコンダクタソリューションズ（以下、SSS）が、医療用シングルユース（使い捨て）内視鏡向けのCMOSイメージセンサー市場に参入する。SSSは2026年10月22日、同市場向けとして初めて開発した新製品「IMX742」を発表した。今回",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/navitas-launches-2300-v-sic-power-module-for-grid-infrastructure"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/22/news034.html"
       }
     ]
   },
@@ -17,14 +17,284 @@
     "tools": [],
     "company": [
       {
-        "title": "Spotify’s First Native In-Car App Is Hitting Audi EVs First",
-        "blurb": "Built without Google’s design restrictions, the new app will go live on the Audi A6 e-tron and Q6 e-tron around the worl",
+        "title": "光チップレット量産技術開発を本格化、NTTら5社",
+        "blurb": "NTTら5社は、NEDOの公募において、光チップレットの生産技術の研究開発テーマが採択されたと発表した。光電融合デバイスの量産技術開発を本格化し、一貫した光チップレットの量産技術の確立と、研究開発時点と比べて10倍以上の生産性向上を目指す。",
+        "category": "company",
+        "date": "2026-10-21",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/21/news041.html"
+        },
+        "field": {
+          "primary": "backend",
+          "device": null,
+          "process": "backend",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "ソニー、「業界初」製品で使い捨て内視鏡用イメージセンサー市場に参入",
+        "blurb": "ソニーセミコンダクタソリューションズ（以下、SSS）が、医療用シングルユース（使い捨て）内視鏡向けのCMOSイメージセンサー市場に参入する。SSSは2026年10月22日、同市場向けとして初めて開発した新製品「IMX742」を発表した。今回",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/22/news034.html"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Altera extends Agilex FPGAs to defense systems",
+        "blurb": "Defense-grade Agilex FPGAs and SoC FPGAs from Altera operate reliably in harsh environments across a temperature range o",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/altera-extends-agilex-fpgas-to-defense-systems"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "MCUs accelerate multimodal edge AI",
+        "blurb": "The Synaptics Astra SR200 series of xMCUs runs multimodal AI workloads without the memory and compute limitations of con",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/mcus-accelerate-multimodal-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "Rad-tolerant GaN converter powers space electronics",
+        "blurb": "Microchip’s POL-05-20S-T GaN converter delivers up to 20 A to power FPGAs, MCUs, and other processing-intensive digital ",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/rad-tolerant-gan-converter-powers-space-electronics"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Processor IP brings generative AI to edge devices",
+        "blurb": "BrainChip’s Sequora processor IP core runs generative AI and large language models (LLMs) directly on battery-powered ed",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/processor-ip-brings-generative-ai-to-edge-devices"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "AMD defines rack-scale infrastructure for agentic AI",
+        "blurb": "AMD Helion is a rack-scale reference design for agentic AI infrastructure, combining open-source hardware and software. ",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/amd-defines-rack-scale-infrastructure-for-agentic-ai"
+        },
+        "field": {
+          "primary": "fabless",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Variscite, SecEdge Add Firmware TPM 2.0 Security to i.MX SoMs",
+        "blurb": "Variscite and SecEdge Inc. have announced the availability of firmware-based Trusted Platform Module (TPM) 2.0 security ",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/variscite-secedge-add-firmware-tpm-2-0-security-to-i-mx-soms"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
+        "blurb": "Tesla's newest subscription numbers show that 75% of buyers subscribe to Tesla's $99 per month autonomy software.",
         "category": "company",
         "date": "2026-10-22",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/812853/spotify-new-in-car-app-audi"
+          "url": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales"
+        },
+        "field": null
+      },
+      {
+        "title": "'End Of The Year': Tesla Says Cybercab Customer Deliveries Will Begin Soon",
+        "blurb": "But the vast majority of Cybercabs will be owned by Tesla, CEO Elon Musk says.",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812834/tesla-cybercab-customer-deliveries"
+        },
+        "field": null
+      },
+      {
+        "title": "The Midterms Won't Mean Much For EV Policy, Analysts Say",
+        "blurb": "Even if Democrats flip congress, they won't be able to make meaningful change.",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812832/midterm-elections-ev-sales"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "General Motors Isn't 'Walking Away' From EVs, Top Exec Says",
+        "blurb": "A fourth-gen EV platform powered by LMR cells is coming soon.",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812806/gm-not-walking-away-evs"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "GM Is Adding Its Own Version Of Tesla's Sentry Mode To Cars",
+        "blurb": "GM's new OnStar Connected Cameras sound like a page out of Tesla's tech-focused playbook.",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812803/gm-sentry-mode-coming-soon"
+        },
+        "field": null
+      },
+      {
+        "title": "Rivian Was The Second Best-Selling EV Brand In Q3 2026, But Still Far Behind Tesla",
+        "blurb": "Move over Chevy, there's a new second-place in town.",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812808/rivian-r2-q3-sales"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Chinese Cars Cost Way Less To Build Than European Ones. Here’s Why",
+        "blurb": "Consulting firm AlixPartners found that, structurally, Chinese EV Manufacturers are on a totally different planet.",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812811/china-compete-build-structural-advantage"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "GM's Next-Generation EV Platform Has 30% Less Wiring And 20% Less Battery",
+        "blurb": "GM revealed some details of its fourth-generation EV platform at its GM Forward event on Wednesday.",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812810/gm-fourth-generation-ev-platform-lmr-battery"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "GM's OnStar AI Assistant Debuts In The 2027 Cadillac Lyriq",
+        "blurb": "The digital assistant can control various vehicle functions and answer specific questions through voice commands.",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/812764/gm-onstar-ai-assistant-cadillac-lyriq"
         },
         "field": null
       },
@@ -41,152 +311,74 @@
         "field": null
       },
       {
-        "title": "Lucid’s 25,000 Bolt robotaxis will run on Nvidia’s self-driving software",
-        "blurb": "Lucid’s European robotaxi deal now has a driver. Bolt announced today that its fleet of at least 25,000 autonomous Lucid",
+        "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+        "blurb": "Rio Tinto wants to put Australia’s cheap midday electricity to work at its Yarwun alumina refinery – by storing it in ho",
         "category": "company",
         "date": "2026-10-22",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/21/lucid-bolt-robotaxi-nvidia-alpamayo-madrid-2027"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": "fabless"
-        }
-      },
-      {
-        "title": "Navitas Launches 2300-V SiC Power Module for Grid Infrastructure",
-        "blurb": "2300 V SiC technology targets higher efficiency and power density in AI data centers, energy storage, and grid applicati",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/navitas-launches-2300-v-sic-power-module-for-grid-infrastructure"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Socionext, Cadence Advance AI-Driven 3-nm SoC Design",
-        "blurb": "Socionext Inc. is expanding its use of agentic artificial intelligence (AI) across system-on-chip (SoC) development, ext",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/socionext-cadence-advance-ai-driven-3-nm-soc-design"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too",
-        "blurb": "Its next-generation EVs will offer security camera functionality and autonomous driving. But its gas SUVs won’t get left",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/features/812982/gm-software-platform-powertrain-agnostic"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Want The Best Range Rover? Get The Electric One: First Drive",
-        "blurb": "The electric model is powerful, elegant, and capable. And it doesn't even cost more than the gas model.",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/812974/range-rover-electric-first-drive"
+          "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use"
         },
         "field": null
       },
       {
-        "title": "I Drove The Electric And Gas-Powered BMW X5. I Know Which One I'd Pick.",
-        "blurb": "For the first time ever, the X5 is going electric. I drove the iX5 to see if it's compelling enough to get BMW buyers in",
+        "title": "Tesla wants to sell you a useless car with no steering wheel this year",
+        "blurb": "Tesla said today it will sell Cybercab to consumers by the end of this year, raising questions of what end users would d",
         "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/812963/bmw-ix5-electric-x5-first-drive-review-2027"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "The Ferrari Luce Officially Starts At $560,800",
-        "blurb": "The first-ever electric Ferrari makes a Rolls-Royce Cullinan look like a bargain.",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/812962/ferrari-luce-official-pricing-revealed"
-        },
-        "field": null
-      },
-      {
-        "title": "sonnen files for insolvency in Germany as US sales double",
-        "blurb": "Residential battery storage maker sonnen is reporting two very different stories today: Its German business has filed fo",
-        "category": "company",
-        "date": "2026-10-23",
+        "date": "2026-10-22",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/sonnen-files-for-insolvency-in-germany-as-us-sales-double"
+          "url": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year"
         },
         "field": null
       },
       {
-        "title": "Tesla skipped the most important shareholder question on its earnings call",
-        "blurb": "Tesla skipped one of its top shareholder questions on its Q3 2026 earnings call: when Hardware 3 owners will find out if",
+        "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+        "blurb": "Tesla now says unsupervised “Full Self-Driving” in customer-owned cars will arrive in Q2 2027. It’s the latest date on a",
         "category": "company",
-        "date": "2026-10-23",
+        "date": "2026-10-22",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call"
+          "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet"
+        },
+        "field": null
+      },
+      {
+        "title": "It’s finally here: Porsche puts wireless charging into production [UPDATE]",
+        "blurb": "Buried in a press release titled, “Even more colours and even greater convenience for the Cayenne Electric” was news tha",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/21/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla energy revenue drops 16% as it refunds customers over tariffs",
+        "blurb": "Tesla’s energy business deployed more batteries in Q3 2026 but brought in less money. Energy generation and storage reve",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds"
         },
         "field": null
       },
       {
         "title": "BYD is about to launch this luxury electric SUV with 623 miles of range",
-        "blurb": "BYD will open pre-orders for the Denza N8 EV next week, a large five-seat luxury electric SUV with a CLTC range of over ",
+        "blurb": "BYD is set to launch the Denza N8 EV next week, a large five-seat luxury electric SUV with a CLTC range of over 623 mile",
         "category": "company",
-        "date": "2026-10-23",
+        "date": "2026-10-22",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/byd-launch-luxury-ev-suv-623-miles-range"
+          "url": "https://electrek.co/2026/10/21/byd-launch-luxury-ev-suv-with-623-miles-range"
         },
         "field": {
           "primary": "automotive",
@@ -197,14 +389,62 @@
         }
       },
       {
-        "title": "Seattle plans 200 curbside EV charging stations – and you can request one",
-        "blurb": "Seattle plans to add up to 200 public curbside Level 2 EV charging stations by 2030, and residents can now request one n",
+        "title": "Tesla FSD ‘subscriptions’ hit 1.74M, counted the way Musk’s pay package wants",
+        "blurb": "Tesla says it now has 1.74 million active “Full Self-Driving” subscriptions, up 67% from a year ago. A footnote in its Q",
         "category": "company",
-        "date": "2026-10-23",
+        "date": "2026-10-22",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/seattle-plans-200-curbside-ev-charging-stations-and-you-can-request-one"
+          "url": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla blames battery supply for flat sales, but its prices keep falling",
+        "blurb": "Tesla says battery supply, not demand, is what’s holding back its car sales. In its Q3 2026 shareholder letter, the auto",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/21/tesla-battery-supply-limiting-sales-prices-falling"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
+        "blurb": "Tesla (TSLA) released its financial results and shareholders’ letter for the third quarter (Q3) 2026 after market close ",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results"
+        },
+        "field": null
+      },
+      {
+        "title": "BMW’s first three-row electric SUV is almost here: Here’s an early look at the iX7",
+        "blurb": "BMW is preparing to introduce its first three-row electric SUV. With its official debut coming up, the iX7 was spotted t",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/21/bmws-3-row-ev-suv-almost-here-early-look-ix7"
+        },
+        "field": null
+      },
+      {
+        "title": "Save up to $389 on Heybike Mars 2.5 + Ranger S 2.0 e-bikes at exclusive new lows from $799, Segway E2 Pro e-scooter, more",
+        "blurb": "Our midweek edition is dominated by electric vehicles, starting with two exclusive deals from Heybike to score $289 savi",
+        "category": "company",
+        "date": "2026-10-22",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/10/21/heybike-mars-2-5-ranger-s-2-0-e-bikes-segway-e2-pro-electric-scooter-more"
         },
         "field": {
           "primary": "automotive",
@@ -215,268 +455,16 @@
         }
       },
       {
-        "title": "BMW is already discounting the new iX5 with a $1,000 loyalty bonus",
-        "blurb": "The iX5 is set to go on sale in early 2027, but BMW is already offering a loyalty discount to sweeten the deal for those",
+        "title": "Kia’s electric SUV and van are getting a new job as police cars",
+        "blurb": "Kia’s electric vehicles could soon be the ones pulling you over. Kia converted the EV5 and PV5 into patrol vehicles as p",
         "category": "company",
-        "date": "2026-10-23",
+        "date": "2026-10-22",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/bmw-discounting-new-ix5-1000-loyalty-bonus"
+          "url": "https://electrek.co/2026/10/21/kias-electric-suv-and-van-police-cars"
         },
         "field": null
-      },
-      {
-        "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
-        "blurb": "Tesla says it’s building its own maps to fix some of the most common problems with its “Full Self-Driving” system, inclu",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps"
-        },
-        "field": null
-      },
-      {
-        "title": "Ferrari Luce EV starts at $560,800 in the US, $80K less than expected",
-        "blurb": "Ferrari’s first electric car, the Luce, will start at $560,800 in the US, with American deliveries planned for the secon",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/ferrari-luce-ev-us-price-560800"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Kia believes it has a way to beat China’s cheap EVs in Canada",
-        "blurb": "Kia is betting its new lineup of affordable EVs, like the EV3 , can beat the incoming wave of Chinese models in Canada, ",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/kia-beat-chinas-cheap-evs-canada"
-        },
-        "field": null
-      },
-      {
-        "title": "Exclusive $500 savings hit Heybike’s 100-mile Hybrid e-bike + 45-pound Venus e-bike at new lows from $999, EcoFlow, more",
-        "blurb": "Heybike is once again dominating our daily Green Deals edition with another pair of exclusive deals for our readers, but",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/heybike-hybrid-e-bike-venus-e-bike-ecoflow-delta-3-max-more"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Volkswagen is launching its most affordable EV yet in 2027, starting at around €20,000",
-        "blurb": "Volkswagen’s upcoming electric car will be smaller and lower-priced than the ID. Polo, starting at around €20,000 ($22,5",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/vw-launch-most-affordable-ev-2027-starting-e20k"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Scania speeds up switch to silent semi trucks with Chinese production",
-        "blurb": "Record fuel prices driven by the dumb oil war in Iran are fueling a faster-than-expected switch to electric trucks in th",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/scania-speeds-up-switch-to-silent-semi-trucks-with-chinese-production"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla pushes Optimus deliveries to late 2027, says hands still a problem",
-        "blurb": "Elon Musk now says Tesla will start delivering Optimus humanoid robots to outside customers around the end of 2027. On T",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems"
-        },
-        "field": null
-      },
-      {
-        "title": "New Jersey may finally reverse its draconian e-bike law after massive backlash",
-        "blurb": "New Jersey lawmakers are already looking to walk back one of the country’s most controversial e-bike laws, just months a",
-        "category": "company",
-        "date": "2026-10-23",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/10/22/new-jersey-may-finally-reverse-its-draconian-e-bike-law-after-massive-backlash"
-        },
-        "field": null
-      },
-      {
-        "title": "Power Corner: How to Test Solid-State and Line-Frequency Transformers for AI Data Centers",
-        "blurb": "Rohde & Schwarz’s Patrick Fuchs explains how to test data center transformers and SSTs with power analyzers. The post Po",
-        "category": "company",
-        "date": "2026-10-22",
-        "stars": 2,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/power-corner-how-to-test-solid-state-and-line-frequency-transformers-for-ai-data-centers"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Allegro Introduces 48V Power and Precision Sensors for Robotics",
-        "blurb": "Compact 48V power management and precision position sensors help humanoid robots improve integration, motion control, an",
-        "category": "company",
-        "date": "2026-10-22",
-        "stars": 2,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/allegro-introduces-48v-power-and-precision-sensors-for-robotics"
-        },
-        "field": null
-      },
-      {
-        "title": "Beyond The EPE Budget: Building The Next Generation Of Computational Lithography",
-        "blurb": "Why better models, richer metrology, explainable AI, and cross-industry collaboration must come together to extend semic",
-        "category": "company",
-        "date": "2026-10-22",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/beyond-the-epe-budget-building-the-next-generation-of-computational-lithography"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload",
-        "blurb": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what t",
-        "category": "company",
-        "date": "2026-10-22",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/pvtw-extending-silicon-characterization-from-pvt-to-real-world-workload"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Chip Scaling Moves Beyond The Transistor",
-        "blurb": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversation",
-        "category": "company",
-        "date": "2026-10-22",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor"
-        },
-        "field": {
-          "primary": "backend",
-          "device": null,
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
-        "blurb": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improv",
-        "category": "company",
-        "date": "2026-10-22",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-        "blurb": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large ",
-        "category": "company",
-        "date": "2026-10-22",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "What Breaks When Packaging Moves From Wafer To Panel?",
-        "blurb": "Engineers are discovering many things they thought were process assumptions were actually wafer assumptions. The post Wh",
-        "category": "company",
-        "date": "2026-10-22",
-        "stars": 2,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/what-breaks-when-packaging-moves-from-wafer-to-panel"
-        },
-        "field": {
-          "primary": "wafer",
-          "device": null,
-          "process": "wafer",
-          "market": null,
-          "industry": null
-        }
       }
     ],
     "sns": []
