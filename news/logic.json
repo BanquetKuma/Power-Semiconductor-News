@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-10-29T09:35:26.710594+09:00",
+  "generated_at": "2026-10-30T09:35:15.034531+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Analog in-memory computing advances to 12 nm",
-    "summary": "TetraMem has completed tapeout of the MLX300, a 12-nm analog in-memory computing (A-IMC) SoC based on multi-level RRAM t",
+    "title": "2nm微細化の効果は絶大、Apple新スマホチップ「A20 Pro」分解",
+    "summary": "前回に引き続き、2026年9月18日に発売されたApple最新スマートフォン「iPhone 18 Pro」のプロセッサ「A20 Pro」を中心に分解する。シリコン面積は前世代の「A19 Pro」とほぼ同じだが、3nmから2nmへと微細化した",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/analog-in-memory-computing-advances-to-12-nm"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/30/news012.html"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Analog in-memory computing advances to 12 nm",
-        "blurb": "TetraMem has completed tapeout of the MLX300, a 12-nm analog in-memory computing (A-IMC) SoC based on multi-level RRAM t",
+        "title": "2nm微細化の効果は絶大、Apple新スマホチップ「A20 Pro」分解",
+        "blurb": "前回に引き続き、2026年9月18日に発売されたApple最新スマートフォン「iPhone 18 Pro」のプロセッサ「A20 Pro」を中心に分解する。シリコン面積は前世代の「A19 Pro」とほぼ同じだが、3nmから2nmへと微細化した",
         "category": "company",
-        "date": "2026-10-29",
+        "date": "2026-10-30",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/analog-in-memory-computing-advances-to-12-nm"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2610/30/news012.html"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
-          "process": null,
+          "process": "miniaturization",
           "market": null,
           "industry": null
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Ceva Expands NeuPro NPU Portfolio into AI Infrastructure",
+        "blurb": "Ceva Inc. has unveiled its next-generation NeuPro neural processing unit (NPU) portfolio, targeting AI workloads ranging",
+        "category": "tools",
+        "date": "2026-10-30",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/ceva-expands-neupro-npu-portfolio-into-ai-infrastructure"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }
