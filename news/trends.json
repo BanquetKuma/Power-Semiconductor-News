@@ -1,11 +1,175 @@
 {
-  "generated_at": "2026-10-31T09:21:07.441962+09:00",
-  "date": "2026-10-31",
-  "meta_trends": [],
+  "generated_at": "2026-11-01T08:56:48.351506+09:00",
+  "date": "2026-11-01",
+  "meta_trends": [
+    {
+      "name": "AIデータセンター向け高電力密度化",
+      "confidence": 0.95,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "datacenter",
+        "ai"
+      ],
+      "summary": "AI需要の急増に伴い、データセンター向け電源の高電圧化（800VDC、900VDC）と高電力密度化が進展。GaNやSiCなどのワイドバンドギャップ（WBG）材料の採用が加速している。",
+      "analysis": {
+        "short_term": "電源・冷却ソリューションの需要増が続く。",
+        "mid_term": "WBGデバイスの量産体制とコスト競争力が鍵。",
+        "investment_implications": "高効率電源・WBG関連企業に注目。"
+      },
+      "keywords": [
+        "AI",
+        "データセンター",
+        "GaN",
+        "SiC",
+        "800VDC",
+        "高電力密度"
+      ],
+      "companies_mentioned": [
+        "Advanced Energy",
+        "Infineon",
+        "NVIDIA",
+        "Enphase",
+        "Vertical Semiconductor",
+        "村田製作所",
+        "ルネサス"
+      ]
+    },
+    {
+      "name": "WBGデバイスの信頼性向上と普及",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial",
+        "aerospace"
+      ],
+      "summary": "SiCおよびGaNデバイスの信頼性向上のためのウェハーレベルバーンイン技術が注目されている。これにより、車載・航空宇宙分野での採用がさらに促進される見込み。",
+      "analysis": {
+        "short_term": "信頼性向上技術への投資が活発化。",
+        "mid_term": "量産規模拡大とコスト低減が進む。",
+        "investment_implications": "WBGデバイスメーカー、関連材料・装置企業に期待。"
+      },
+      "keywords": [
+        "WBG",
+        "SiC",
+        "GaN",
+        "信頼性",
+        "ウェハーレベルバーンイン",
+        "車載"
+      ],
+      "companies_mentioned": [
+        "SemiQ",
+        "Infineon",
+        "Enphase",
+        "Vertical Semiconductor"
+      ]
+    },
+    {
+      "name": "半導体設計・検証プロセスの進化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "frontend",
+        "backend",
+        "ai"
+      ],
+      "summary": "AIを活用した設計・検証手法（シフトレフト、プロパティ自動生成、物理ベース検証）や、熱問題への早期対応、複雑なシステム検証手法が進化している。",
+      "analysis": {
+        "short_term": "設計自動化・効率化ツールの需要増。",
+        "mid_term": "AIエンジニア育成と教育カリキュラムの変革。",
+        "investment_implications": "EDAツールベンダー、AI設計技術関連企業に注目。"
+      },
+      "keywords": [
+        "設計",
+        "検証",
+        "AI",
+        "EDA",
+        "シフトレフト",
+        "熱解析"
+      ],
+      "companies_mentioned": [
+        "Apple",
+        "Intel",
+        "ASML",
+        "Zeiss"
+      ]
+    },
+    {
+      "name": "HBM需要と先端パッケージングの重要性増大",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "foundry",
+        "backend"
+      ],
+      "summary": "AIアクセラレータの性能向上に不可欠なHBM（High Bandwidth Memory）の供給不足が懸念されており、TSMCは先端パッケージングの増産と値上げを検討している。",
+      "analysis": {
+        "short_term": "HBM供給逼迫が継続する可能性。",
+        "mid_term": "先端パッケージング技術への投資が加速。",
+        "investment_implications": "HBMサプライヤー、先端パッケージング関連企業に追い風。"
+      },
+      "keywords": [
+        "HBM",
+        "AI",
+        "メモリ",
+        "先端パッケージング",
+        "TSMC"
+      ],
+      "companies_mentioned": [
+        "TSMC",
+        "Infineon",
+        "UMC"
+      ]
+    },
+    {
+      "name": "車載半導体の高度化と標準化",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "automotive",
+        "power",
+        "logic"
+      ],
+      "summary": "xEVにおける機能連携の重要性が高まる中、ゾーン型アーキテクチャ採用や、車載MCUの進化が進んでいる。NXPとVolkswagenの提携がその一例。",
+      "analysis": {
+        "short_term": "xEV向け半導体ソリューションの競争激化。",
+        "mid_term": "SDV（Software Defined Vehicle）への対応が鍵。",
+        "investment_implications": "車載半導体メーカー、Tier1サプライヤーに注目。"
+      },
+      "keywords": [
+        "車載",
+        "xEV",
+        "SDV",
+        "MCU",
+        "ゾーンアーキテクチャ"
+      ],
+      "companies_mentioned": [
+        "ADI",
+        "Volkswagen",
+        "NXP"
+      ]
+    }
+  ],
   "market_signals": {
-    "bullish": [],
-    "bearish": [],
-    "neutral": []
+    "bullish": [
+      "AI関連半導体（特に電源、メモリ、パッケージング）の需要拡大",
+      "WBG材料（SiC, GaN）の採用拡大と信頼性向上",
+      "データセンター向けインフラ投資の活発化",
+      "車載半導体市場の継続的な成長"
+    ],
+    "bearish": [
+      "地政学的リスクによるサプライチェーンの不安定化懸念",
+      "一部先端プロセスにおける設備投資の過熱感"
+    ],
+    "neutral": [
+      "半導体設計・検証プロセスの効率化・自動化の進展",
+      "EUサイバーレジリエンス法への対応コスト増加の可能性"
+    ]
   },
-  "source_count": 94
+  "source_count": 52
 }
