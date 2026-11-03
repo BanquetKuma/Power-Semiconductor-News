@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T09:13:12.628418+09:00",
-  "date": "2026-11-02",
+  "generated_at": "2026-11-03T11:45:42.714645+09:00",
+  "date": "2026-11-03",
   "meta_trends": [
     {
       "name": "AIデータセンター向け高電力・高効率化",
@@ -11,17 +11,17 @@
         "datacenter",
         "ai"
       ],
-      "summary": "AI需要拡大に伴い、データセンター向け電源の高電圧化（800V/900V DC）、GaN/SiCなどの広帯域ギャップ（WBG）材料の採用、電力密度・効率向上が加速している。",
+      "summary": "AI需要拡大に伴い、データセンター向け電源の高電圧化（800V/900V DC）、高電力密度化、高効率化が進展。SiCやGaNといった広帯域ギャップ（WBG）材料の採用が加速。",
       "analysis": {
-        "short_term": "WBG電源・モジュール開発競争激化。",
-        "mid_term": "データセンターインフラ投資拡大継続。",
-        "investment_implications": "WBG材料・電源メーカーに注目。"
+        "short_term": "電源・半導体メーカーの供給体制強化が鍵。",
+        "mid_term": "インフラ投資の継続と技術革新が需要を牽引。",
+        "investment_implications": "WBG材料、高密度電源関連企業に注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
-        "GaN",
         "SiC",
+        "GaN",
         "800V DC"
       ],
       "companies_mentioned": [
@@ -29,127 +29,131 @@
         "Infineon",
         "NVIDIA",
         "Enphase",
-        "Vertical Semiconductor",
+        "三菱電機",
         "村田製作所",
         "ルネサス"
       ]
     },
     {
-      "name": "車載半導体の高性能化・高信頼化",
-      "confidence": 0.88,
+      "name": "車載半導体の高性能化・高機能化",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "automotive",
+        "logic",
         "power",
-        "logic"
+        "analog",
+        "ai"
       ],
-      "summary": "EV（xEV）や自動運転の進化に伴い、車載向けWBGデバイスの信頼性向上、高耐圧化、機能連携のスムーズ化、ゾーン型アーキテクチャへの対応が求められている。",
+      "summary": "自動運転、電動化（xEV）、コネクテッド機能の普及により、車載SoCやセンサーICの高性能化・高機能化が進む。SiC/GaNの車載応用も拡大。",
       "analysis": {
-        "short_term": "車載向けWBGデバイスの採用拡大。",
-        "mid_term": "自動運転・コネクテッドカー向けIC需要増。",
-        "investment_implications": "車載半導体メーカー、WBG材料に投資妙味。"
+        "short_term": "EV向けSiCパワー半導体需要が堅調。",
+        "mid_term": "自動運転レベル向上に伴い、SoC・センサー需要が増加。",
+        "investment_implications": "車載SoC、センサー、パワー半導体メーカーに期待。"
       },
       "keywords": [
         "車載",
+        "SoC",
         "EV",
         "自動運転",
-        "WBG",
-        "MCU"
+        "SiC"
       ],
       "companies_mentioned": [
-        "SemiQ",
         "Infineon",
-        "Enphase",
-        "ADI",
-        "NXP",
-        "Volkswagen"
+        "STマイクロエレクトロニクス",
+        "ADI"
       ]
     },
     {
-      "name": "半導体設計・検証プロセスの高度化",
+      "name": "エッジAIの普及とオンデバイス処理",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "memory",
+        "frontend",
+        "datacenter"
+      ],
+      "summary": "AI処理がクラウドからエッジデバイスへと移行。リアルタイム処理、プライバシー保護、低遅延のニーズに対応するため、NPUやAIチップのオンデバイス実装が進む。",
+      "analysis": {
+        "short_term": "エッジAI向けプロセッサ・SDKの拡充。",
+        "mid_term": "多様なアプリケーションでのAI活用が加速。",
+        "investment_implications": "エッジAI向け半導体・プラットフォーム企業に注目。"
+      },
+      "keywords": [
+        "エッジAI",
+        "オンデバイス",
+        "NPU",
+        "音声AI",
+        "リアルタイム"
+      ],
+      "companies_mentioned": [
+        "Ceva",
+        "ABR",
+        "Alif",
+        "Amazon",
+        "Apple",
+        "Microsoft"
+      ]
+    },
+    {
+      "name": "先端微細化技術の継続的進化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "logic",
         "frontend",
-        "backend",
-        "ai"
+        "foundry",
+        "equipment",
+        "miniaturization"
       ],
-      "summary": "AI技術の活用、シフトレフト、物理ベース検証、熱解析の重要性が増し、設計・検証プロセスの効率化と信頼性向上が図られている。",
+      "summary": "Appleの2nmプロセス採用など、ロジック半導体の微細化競争は継続。EUV露光装置の増産や、AIによる設計支援も進むが、製造の複雑さは増大。",
       "analysis": {
-        "short_term": "AI活用EDAツールの進化。",
-        "mid_term": "設計・検証期間短縮と品質向上。",
-        "investment_implications": "EDA企業、AIを活用する設計企業に注目。"
+        "short_term": "EUV装置の供給能力がボトルネック。",
+        "mid_term": "微細化による性能向上とコスト効率のバランスが重要。",
+        "investment_implications": "先端プロセス技術を持つファウンドリ・装置メーカーに期待。"
       },
       "keywords": [
-        "設計",
-        "検証",
-        "AI",
-        "EDA",
-        "熱解析"
+        "微細化",
+        "2nm",
+        "EUV",
+        "AI設計",
+        "ファウンドリ"
       ],
       "companies_mentioned": [
         "Apple",
         "ASML",
-        "Zeiss"
+        "Zeiss",
+        "TetraMem"
       ]
     },
     {
-      "name": "先端製造技術の能力増強とサプライチェーン強化",
+      "name": "データ保存・アーカイブ需要の増大",
       "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "foundry",
-        "equipment",
-        "wafer",
-        "geopolitics"
-      ],
-      "summary": "AI需要や地政学リスクに対応するため、TSMC、インフィニオン、UMCなどが設備投資を増強し、EUV露光装置の増産や300mmウェーハ製造能力の拡大を進めている。",
-      "analysis": {
-        "short_term": "先端製造装置メーカーへの需要増。",
-        "mid_term": "サプライチェーンの安定化・強靭化。",
-        "investment_implications": "ファウンドリ、製造装置メーカーに投資機会。"
-      },
-      "keywords": [
-        "EUV",
-        "TSMC",
-        "設備投資",
-        "サプライチェーン",
-        "300mmウェーハ"
-      ],
-      "companies_mentioned": [
-        "TSMC",
-        "インフィニオン",
-        "UMC",
-        "ASML",
-        "Zeiss"
-      ]
-    },
-    {
-      "name": "データストレージ需要の多様化と増大",
-      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
         "memory",
-        "ai"
+        "frontend",
+        "general"
       ],
-      "summary": "AIやビッグデータ処理の進展により、HBM（High Bandwidth Memory）の需要が急増し、データアーカイブ用途での磁気テープ増産や次世代電池開発も進んでいる。",
+      "summary": "AI、ビッグデータ、デジタルアーカイブの需要増により、データストレージ分野での投資が活発化。磁気テープの増産や、次世代電池技術の研究も進む。",
       "analysis": {
-        "short_term": "HBM不足と価格上昇懸念。",
-        "mid_term": "ストレージ関連技術への投資拡大。",
-        "investment_implications": "HBM、ストレージ関連企業に注目。"
+        "short_term": "データセンター向けMLCC投資が拡大。",
+        "mid_term": "長期データ保存ソリューションの重要性が増す。",
+        "investment_implications": "ストレージ関連、次世代電池技術に注目。"
       },
       "keywords": [
-        "HBM",
-        "ストレージ",
-        "データセンター",
+        "データ保存",
+        "アーカイブ",
         "磁気テープ",
+        "MLCC",
         "次世代電池"
       ],
       "companies_mentioned": [
-        "TSMC",
         "富士フイルム",
+        "村田製作所",
         "マクセル",
         "東京科学大"
       ]
@@ -157,20 +161,19 @@
   ],
   "market_signals": {
     "bullish": [
-      "AI関連半導体（特に電源、メモリ、ロジック）の需要急増",
-      "データセンター向けインフラ投資の拡大",
-      "車載半導体市場の成長（EV、自動運転）",
-      "WBG材料（SiC、GaN）の採用拡大",
-      "先端製造装置およびファウンドリへの設備投資増強"
+      "AI関連投資の継続的な拡大",
+      "データセンターインフラ需要の堅調さ",
+      "車載半導体市場の成長予測",
+      "WBG材料（SiC/GaN）の採用拡大"
     ],
     "bearish": [
-      "HBM（High Bandwidth Memory）の供給不足と価格上昇懸念",
-      "地政学リスクによるサプライチェーンの不確実性"
+      "地政学リスクによるサプライチェーンの不確実性",
+      "先端製造装置の供給制約"
     ],
     "neutral": [
-      "半導体設計・検証プロセスの技術革新と標準化",
-      "EUサイバーレジリエンス法の影響（一部企業）"
+      "メモリ市場の需給バランスの変動",
+      "AIによるチップ設計の進展と製造の課題"
     ]
   },
-  "source_count": 49
+  "source_count": 42
 }
