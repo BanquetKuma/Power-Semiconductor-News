@@ -1,54 +1,92 @@
 {
-  "generated_at": "2026-11-03T11:45:38.509169+09:00",
+  "generated_at": "2026-11-04T10:01:48.608231+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "PowerUP Circuit Lab: How to Build a Synchronous Negative-to-Positive Boost Converter",
-    "summary": "PowerUP Circuit Labは、-48V入力をクリーンな48V出力に変換する同期昇圧コンバーターの構築方法を紹介。",
+    "title": "Randomized Caches in HW: Overheads And Limitations (RUB, Max Planck, Georgia Tech)",
+    "summary": "ハードウェアにおけるランダム化キャッシュはサイドチャネル攻撃を防ぐが、実装上の課題やオーバーヘッドが存在する。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/powerup-circuit-lab-how-to-build-a-synchronous-negative-to-positive-boost-converter"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/randomized-caches-in-hw-overheads-and-limitations-rub-max-planck-georgia-tech"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Volvo Is Getting Crushed In The U.S.",
-        "blurb": "ボルボ、米市場で需要低迷と関税により収益危機に直面。販売台数と利益率の低下が深刻化。",
+        "title": "Used EVs Are Selling Like Hotcakes. The Fastest Movers May Surprise You",
+        "blurb": "中古EV市場が活況。予想外の車種が最も早く売れている。大手メーカーはトップ10入りせず。",
         "category": "business",
-        "date": "2026-11-03",
+        "date": "2026-11-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/813589/volvo-profitability-crisis-us-market"
+          "url": "https://insideevs.com/news/814282/used-evs-selling-fast"
+        },
+        "field": null
+      },
+      {
+        "title": "Nearly 1 In 3 Hyundais Sold In October Was A Hybrid As High Gas Prices Push Buyers To Pivot",
+        "blurb": "ガソリン高騰で現代自動車のハイブリッド車販売比率が過去最高の29%に。キアのEV3も米国で好調なデビュー。",
+        "category": "business",
+        "date": "2026-11-04",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/814263/hyundai-kia-october-2026-ev-hybrid-sales"
         },
         "field": null
       }
     ],
     "tools": [
       {
-        "title": "PowerUP Circuit Lab: How to Build a Synchronous Negative-to-Positive Boost Converter",
-        "blurb": "PowerUP Circuit Labは、-48V入力をクリーンな48V出力に変換する同期昇圧コンバーターの構築方法を紹介。",
+        "title": "Randomized Caches in HW: Overheads And Limitations (RUB, Max Planck, Georgia Tech)",
+        "blurb": "ハードウェアにおけるランダム化キャッシュはサイドチャネル攻撃を防ぐが、実装上の課題やオーバーヘッドが存在する。",
         "category": "tools",
-        "date": "2026-11-03",
+        "date": "2026-11-04",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/powerup-circuit-lab-how-to-build-a-synchronous-negative-to-positive-boost-converter"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/randomized-caches-in-hw-overheads-and-limitations-rub-max-planck-georgia-tech"
         },
-        "field": null
+        "field": {
+          "primary": "general",
+          "device": null,
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "company": [
+      {
+        "title": "Fast, Sub-Volt HZO Ferroelectric Capacitors For DRAM-Like Memory (SNU)",
+        "blurb": "ソウル国立大学の研究者らが、DRAM級の低電圧・高耐久性メモリ向けに、高速なHZO強誘電体キャパシタを開発しました。",
+        "category": "company",
+        "date": "2026-11-04",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/fast-sub-volt-hzo-ferroelectric-capacitors-for-dram-like-memory-snu"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
       },
       {
-        "title": "ABR Launches Speech AI SDK for Alif Processors",
-        "blurb": "ABRがAlifプロセッサ向け音声AI SDKをリリース。クラウド不要でオンデバイス処理を実現。",
-        "category": "tools",
-        "date": "2026-11-03",
+        "title": "Nordic Launches nRF71 SoCs for Low-Power Wi-Fi and Edge AI",
+        "blurb": "ノルディックセミコンダクターが、低消費電力Wi-FiとエッジAIを統合したnRF71シリーズSoCを発表。バッテリー駆動製品向け。",
+        "category": "company",
+        "date": "2026-11-04",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/abr-launches-speech-ai-sdk-for-alif-processors"
+          "url": "https://www.embedded.com/nordic-launches-nrf71-socs-for-low-power-wi-fi-and-edge-ai"
         },
         "field": {
           "primary": "ai",
@@ -57,56 +95,24 @@
           "market": "ai",
           "industry": null
         }
-      }
-    ],
-    "company": [
-      {
-        "title": "Gas Vs. Electric: Which BMW Goes Further Without Stopping For Fuel?",
-        "blurb": "BMW iX3とガソリン車のX3の航続距離を比較。EVのiX3が満タンでどこまで走れるかを検証。",
-        "category": "company",
-        "date": "2026-11-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/814122/bmw-ix3-vs-x3-range"
-        },
-        "field": null
       },
       {
-        "title": "Ford's Privacy Promise Includes A 'Quasi-80s Mode' To Dumb-Down Connected Cars",
-        "blurb": "フォードは、コネクテッドカーのプライバシー保護のため、機能を制限する「準80年代モード」を導入。ユーザーが選択可能。",
+        "title": "Defying Online Backlash, The Ferrari Luce EV Is Already Sold Out Through 2027",
+        "blurb": "フェラーリのEV「Luce」は、デザインへの批判にもかかわらず、2027年までの生産分が完売した。",
         "category": "company",
-        "date": "2026-11-03",
+        "date": "2026-11-04",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/814107/ford-privacy-transparency-new-site"
+          "url": "https://insideevs.com/news/814280/ferrari-luce-ev-sold-out-for-2027"
         },
-        "field": null
-      },
-      {
-        "title": "BMW's Tesla FSD Rival Hits City Streets In 2027",
-        "blurb": "BMWは2027年、テスラに匹敵する自動運転技術を市街地で展開。交差点、車線変更、渋滞、ロータリーなどを自動処理。",
-        "category": "company",
-        "date": "2026-11-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/814101/bmw-level-2-adas-standard"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.",
-        "blurb": "テスラは緊急移動機能のテストを警告したが、一部オーナーは実行し、1名が539ドルの請求を受けた。",
-        "category": "company",
-        "date": "2026-11-03",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/814089/tesla-supercharger-inspection-drive-away"
-        },
-        "field": null
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "sns": []
