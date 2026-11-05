@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-11-04T10:01:48.609469+09:00",
+  "generated_at": "2026-11-05T10:17:19.252472+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
-    "stars": 3,
-    "title": "Nordic Launches nRF71 SoCs for Low-Power Wi-Fi and Edge AI",
-    "summary": "ノルディックセミコンダクターが、低消費電力Wi-FiとエッジAIを統合したnRF71シリーズSoCを発表。バッテリー駆動製品向け。",
+    "stars": 4,
+    "title": "Wi-Fi SoCs pair low power with edge AI",
+    "summary": "ノルディックが低消費電力Wi-Fi SoC「nRF71」を発表。旧モデル比で待機時消費電力を最大20倍削減し、エッジAI用途に最適。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/nordic-launches-nrf71-socs-for-low-power-wi-fi-and-edge-ai"
+        "name": "edn.com",
+        "url": "https://www.edn.com/wi-fi-socs-pair-low-power-with-edge-ai"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Nordic Launches nRF71 SoCs for Low-Power Wi-Fi and Edge AI",
-        "blurb": "ノルディックセミコンダクターが、低消費電力Wi-FiとエッジAIを統合したnRF71シリーズSoCを発表。バッテリー駆動製品向け。",
+        "title": "Aetina Unveils Rugged Edge AI System for Heavy-Duty Vehicles",
+        "blurb": "Aetinaが、トラック等向けにNvidia Jetson AGX Orin搭載の堅牢なエッジAIシステム「DeviceEdge AIE-VX28/18-IP」を発表。最大12台のカメラ入力に対応し、360度映像解析が可能。",
         "category": "company",
-        "date": "2026-11-04",
+        "date": "2026-11-05",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/nordic-launches-nrf71-socs-for-low-power-wi-fi-and-edge-ai"
+          "url": "https://www.embedded.com/aetina-unveils-rugged-edge-ai-system-for-heavy-duty-vehicles"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": "fabless"
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "How to Make Embedded Computer Vision Work in the Real World",
+        "blurb": "組み込みコンピュータビジョンを実用化するには、デモを信頼性の高いデバイスに変えるための4つのエッジAIプロジェクト事例を紹介。",
+        "category": "tools",
+        "date": "2026-11-05",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/how-to-make-embedded-computer-vision-work-in-the-real-world"
         },
         "field": {
           "primary": "ai",
@@ -35,7 +55,25 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "Wi-Fi SoCs pair low power with edge AI",
+        "blurb": "ノルディックが低消費電力Wi-Fi SoC「nRF71」を発表。旧モデル比で待機時消費電力を最大20倍削減し、エッジAI用途に最適。",
+        "category": "business",
+        "date": "2026-11-05",
+        "stars": 4,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/wi-fi-socs-pair-low-power-with-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ]
   }
 }

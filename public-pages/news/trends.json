@@ -1,180 +1,151 @@
 {
-  "generated_at": "2026-11-04T10:01:53.807696+09:00",
-  "date": "2026-11-04",
+  "generated_at": "2026-11-05T10:17:23.136353+09:00",
+  "date": "2026-11-05",
   "meta_trends": [
     {
-      "name": "広帯域ギャップ（WBG）材料の普及",
+      "name": "SiCパワー半導体の需要拡大",
       "confidence": 0.95,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter",
-        "industrial"
+        "datacenter"
       ],
-      "summary": "SiCやGaNといったWBG材料は、AIデータセンター、EV、産業機器など、高効率・高電力密度が求められる分野で急速に採用が進んでいます。",
+      "summary": "AIデータセンターやEV向けにSiC（シリコンカーバイド）パワー半導体の需要が急速に拡大。電力効率向上と小型化に貢献。",
       "analysis": {
-        "short_term": "需要拡大と供給能力増強が続く。",
-        "mid_term": "技術革新とコスト低減で適用範囲が広がる。",
-        "investment_implications": "WBG材料メーカー、関連デバイスメーカーに注目。"
+        "short_term": "供給能力増強が追いつかず、品薄感続く可能性。",
+        "mid_term": "新世代SiCデバイスの登場で性能競争激化。",
+        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味。"
       },
       "keywords": [
         "SiC",
-        "GaN",
         "EV",
         "AIデータセンター",
-        "高効率"
+        "パワー半導体"
       ],
       "companies_mentioned": [
-        "Infineon",
+        "Allegro",
         "SemiQ",
-        "Advanced Energy",
-        "三菱電機",
-        "村田製作所",
-        "ルネサス"
+        "Infineon",
+        "レゾナック"
       ]
     },
     {
-      "name": "AIインフラ需要の急増",
+      "name": "AIインフラ投資の加速",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "datacenter",
-        "logic",
-        "memory",
+        "ai",
         "power"
       ],
-      "summary": "AIの進化と普及に伴い、データセンターの電力供給、冷却、高性能チップ（GPU、AIアクセラレータ）の需要が爆発的に増加しています。",
+      "summary": "AI開発・運用に不可欠なデータセンターへの投資が加速。高性能サーバー、電源、冷却システム需要が増加。",
       "analysis": {
-        "short_term": "データセンター向け電源・冷却ソリューションの需要増。",
-        "mid_term": "高性能AIチップの設計・製造競争が激化。",
-        "investment_implications": "データセンターインフラ、高性能半導体関連企業が恩恵。"
+        "short_term": "データセンター向け電源・冷却関連製品の需要増。",
+        "mid_term": "ネットワークセキュリティ強化の重要性が増す。",
+        "investment_implications": "データセンターインフラ関連企業に注目。"
       },
       "keywords": [
         "AI",
         "データセンター",
-        "GPU",
         "電源",
         "冷却"
       ],
       "companies_mentioned": [
+        "Allegro",
         "Advanced Energy",
-        "Infineon",
-        "NVIDIA",
         "三菱電機",
-        "村田製作所",
-        "ルネサス",
-        "Apple"
+        "村田製作所"
       ]
     },
     {
-      "name": "半導体製造技術の高度化と複雑化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "frontend",
-        "backend",
-        "logic",
-        "miniaturization",
-        "foundry",
-        "equipment"
-      ],
-      "summary": "微細化（2nm）、3D実装、量子コンピューティング、AIによる欠陥検出など、製造プロセスは高度化・複雑化し、新たな技術開発競争が加速しています。",
-      "analysis": {
-        "short_term": "微細化、3D実装技術の進展が続く。",
-        "mid_term": "量子コンピューティングなど新分野への挑戦が本格化。",
-        "investment_implications": "先端製造技術を持つファウンドリ、装置メーカーに注目。"
-      },
-      "keywords": [
-        "微細化",
-        "3D実装",
-        "量子コンピューティング",
-        "AI",
-        "欠陥検出"
-      ],
-      "companies_mentioned": [
-        "Apple",
-        "imec",
-        "IBM Research",
-        "富士フイルム",
-        "ASE"
-      ]
-    },
-    {
-      "name": "車載半導体の高性能化と需要拡大",
-      "confidence": 0.8,
+      "name": "車載SoCの高度化と市場拡大",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "automotive",
         "logic",
-        "power",
-        "analog"
+        "ai"
       ],
-      "summary": "自動運転、電動化（xEV）、AI搭載の進展により、車載SoC、パワー半導体などの高性能化・高機能化が進み、市場は着実に拡大しています。",
+      "summary": "自動運転や車載AIの普及により、車載SoC（System on Chip）市場が急速に拡大。高性能・高信頼性が求められる。",
       "analysis": {
-        "short_term": "xEV向け機能連携技術の重要性が増す。",
-        "mid_term": "車載SoC市場は2035年に大幅拡大見込み。",
-        "investment_implications": "車載半導体メーカー、関連技術サプライヤーに投資妙味。"
+        "short_term": "自動車グレードPQC IPの重要性が高まる。",
+        "mid_term": "AI機能搭載SoCの競争が激化。",
+        "investment_implications": "車載半導体メーカー、IPベンダーに機会。"
       },
       "keywords": [
-        "車載",
-        "SoC",
-        "xEV",
+        "車載SoC",
         "自動運転",
-        "AI"
+        "AI",
+        "PQC"
       ],
       "companies_mentioned": [
-        "Infineon",
-        "ADI",
-        "ルネサス"
+        "東北大学",
+        "アイシン",
+        "ルネサス",
+        "インフィニオン"
       ]
     },
     {
-      "name": "検証・信頼性向上の重要性増大",
-      "confidence": 0.75,
+      "name": "チップレット技術の進化と普及",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "frontend",
         "backend",
-        "general"
+        "logic",
+        "ai",
+        "datacenter"
       ],
-      "summary": "AIシステムの検証、ハードウェアのセキュリティ、WBGデバイスの信頼性向上など、複雑化するシステムにおける検証と品質保証の重要性が高まっています。",
+      "summary": "チップレット技術による高性能・高機能SoC設計が加速。異種チップ統合やプロトタイピングの効率化が課題。",
       "analysis": {
-        "short_term": "AI検証手法の開発が急務となる。",
-        "mid_term": "ハードウェアセキュリティ対策の需要が増加。",
-        "investment_implications": "検証ツール、セキュリティソリューション関連企業に注目。"
+        "short_term": "チップレット設計ツールやIPの需要増。",
+        "mid_term": "3D-IC技術との連携が進む。",
+        "investment_implications": "先進パッケージング技術を持つ企業に注目。"
       },
       "keywords": [
-        "検証",
-        "信頼性",
-        "セキュリティ",
-        "AI",
-        "WBG"
+        "チップレット",
+        "3D-IC",
+        "先進パッケージング",
+        "プロトタイピング"
       ],
-      "companies_mentioned": [
-        "Max Planck",
-        "Georgia Tech",
-        "KU Leuven",
-        "UT Austin"
-      ]
+      "companies_mentioned": []
+    },
+    {
+      "name": "GaNパワー半導体の量産化進展",
+      "confidence": 0.85,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial"
+      ],
+      "summary": "GaN（窒化ガリウム）パワー半導体の量産体制が確立し、高耐圧化や300mmウェハー対応が進む。電力変換効率向上に貢献。",
+      "analysis": {
+        "short_term": "900V耐圧品など高耐圧化が進む。",
+        "mid_term": "300mmウェハー工場での生産が本格化。",
+        "investment_implications": "GaN材料・デバイスメーカーの成長期待。"
+      },
+      "keywords": [
+        "GaN",
+        "パワー半導体",
+        "高耐圧",
+        "量産"
+      ],
+      "companies_mentioned": []
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIおよびデータセンター関連投資の継続的な増加",
-      "広帯域ギャップ（WBG）材料の採用拡大と需要増",
-      "車載半導体市場の着実な成長予測",
-      "村田製作所、ルネサスなどの主要メーカーの業績上方修正"
+      "AI・データセンター関連需要の堅調さ",
+      "SiC・GaNパワー半導体の需要急増",
+      "車載半導体市場の拡大予測"
     ],
     "bearish": [
-      "地政学的リスクによるサプライチェーンの不確実性",
-      "半導体製造装置への巨額投資に伴う過剰供給リスク（長期視点）"
+      "地政学的リスクによるサプライチェーンの不確実性"
     ],
     "neutral": [
-      "量子コンピューティング技術の初期段階",
-      "ハードウェアセキュリティ対策の進化と適用範囲の拡大"
+      "半導体製造装置市場の動向"
     ]
   },
-  "source_count": 45
+  "source_count": 44
 }
