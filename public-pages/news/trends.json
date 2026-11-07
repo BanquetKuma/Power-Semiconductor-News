@@ -1,162 +1,166 @@
 {
-  "generated_at": "2026-11-06T10:21:58.826870+09:00",
-  "date": "2026-11-06",
+  "generated_at": "2026-11-07T09:36:30.523632+09:00",
+  "date": "2026-11-07",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体の普及加速",
+      "name": "AI向け高性能半導体需要の拡大",
       "confidence": 0.95,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "memory",
+        "logic",
+        "datacenter"
+      ],
+      "summary": "AIエージェント普及やHPC需要増により、高性能ADC、CPU、HBMなどの需要が急増。データセンターインフラへの投資も活発化。",
+      "analysis": {
+        "short_term": "需要増は継続。供給能力が追いつかず品薄感続く可能性。",
+        "mid_term": "AIチップ競争激化。次世代技術開発が加速。",
+        "investment_implications": "AI関連銘柄、特にメモリ・ロジック・AIチップメーカーに注目。"
+      },
+      "keywords": [
+        "AI",
+        "HBM",
+        "CPU",
+        "ADC"
+      ],
+      "companies_mentioned": [
+        "Silanna",
+        "Nvidia",
+        "Micron",
+        "Samsung",
+        "Google",
+        "太陽誘電"
+      ]
+    },
+    {
+      "name": "SiC・GaNパワー半導体の普及加速",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "automotive",
-        "datacenter"
+        "datacenter",
+        "industrial"
       ],
-      "summary": "SiC（炭化ケイ素）を用いたパワー半導体が、EV、データセンター、電力網など幅広い分野で採用され、性能向上と省電力化に貢献している。",
+      "summary": "AIデータセンターの電力効率向上や、EV、スマートグリッド向けにSiC・GaNデバイスの採用が拡大。透明SiC基板も登場。",
       "analysis": {
-        "short_term": "需要増で供給逼迫の可能性。価格上昇圧力。",
-        "mid_term": "製造技術の進化と量産効果でコスト競争力向上。",
-        "investment_implications": "SiC材料・デバイスメーカーへの投資妙味。"
+        "short_term": "データセンター向け需要が牽引。SiC基板の供給体制が鍵。",
+        "mid_term": "車載、産業機器への用途拡大。新材料・新構造デバイス開発進む。",
+        "investment_implications": "SiC/GaNデバイスメーカー、関連材料・装置メーカーに投資妙味。"
       },
       "keywords": [
         "SiC",
-        "EV",
+        "GaN",
+        "パワー半導体",
         "データセンター",
-        "電力網"
+        "EV"
       ],
       "companies_mentioned": [
+        "Diodes",
         "Wolfspeed",
+        "Navitas",
         "Allegro",
         "Infineon",
-        "レゾナック",
-        "SemiQ"
+        "レゾナック"
       ]
     },
     {
-      "name": "AI・HPC向けデータセンター投資活発化",
-      "confidence": 0.9,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "ai",
-        "logic",
-        "power"
-      ],
-      "summary": "AI・HPCの計算需要増大に伴い、データセンターのインフラ投資が活発化。電力供給、冷却、ネットワークセキュリティが重要課題。",
-      "analysis": {
-        "short_term": "高性能サーバー、ストレージ需要が継続。",
-        "mid_term": "データセンターの省電力化・高密度化技術が進化。",
-        "investment_implications": "データセンター関連インフラ、半導体メーカーに恩恵。"
-      },
-      "keywords": [
-        "AI",
-        "HPC",
-        "データセンター",
-        "電力",
-        "セキュリティ"
-      ],
-      "companies_mentioned": [
-        "Allegro",
-        "Infineon",
-        "三菱電機",
-        "村田製作所"
-      ]
-    },
-    {
-      "name": "エッジAIのアーキテクチャ最適化",
+      "name": "エッジAI・IoTデバイスの進化",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "ai",
         "logic",
+        "analog",
         "automotive",
         "industrial"
       ],
-      "summary": "エッジデバイスでのAI処理において、モデルの圧縮だけでなく、ハードウェアアーキテクチャとの適合性が重要視されている。",
+      "summary": "エッジAI向けに低消費電力・高性能なSoCやセンサー、通信モジュールが登場。AIモデルの最適化とハードウェア適合が重要。",
       "analysis": {
-        "short_term": "低消費電力・高性能なエッジAIチップの需要増。",
-        "mid_term": "AIモデルとハードウェアの協調設計が進展。",
-        "investment_implications": "エッジAI向けSoC、IPベンダーに注目。"
+        "short_term": "低消費電力SoCの需要増。AIモデル圧縮技術が鍵。",
+        "mid_term": "自動運転、ロボティクス等への応用拡大。セキュリティ機能も重要に。",
+        "investment_implications": "エッジAI向けSoC、センサー、通信モジュールメーカーに注目。"
       },
       "keywords": [
         "エッジAI",
+        "IoT",
         "SoC",
-        "ハードウェア",
-        "低消費電力"
+        "低消費電力",
+        "自動運転"
       ],
       "companies_mentioned": [
+        "Silanna",
+        "Nordic Semiconductor",
         "東北大学",
-        "アイシン",
-        "ノルディック"
+        "アイシン"
       ]
     },
     {
-      "name": "チップレット設計の標準化と効率化",
-      "confidence": 0.8,
+      "name": "チップレット・3D-ICの技術開発進展",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "frontend",
         "backend",
+        "frontend",
         "logic",
-        "foundry"
+        "miniaturization"
       ],
-      "summary": "チップレットベースの設計において、プラグアンドプレイプロトタイピングの加速が求められている。共有リソースや異速ツール対応が課題。",
+      "summary": "チップレット設計におけるプロトタイピング加速や、3D-ICの信号品質解析が重要視されている。異種集積技術が進化。",
       "analysis": {
-        "short_term": "チップレットインターフェース標準化の動き加速。",
-        "mid_term": "設計・検証ツールの進化で開発期間短縮。",
-        "investment_implications": "チップレット関連IP、EDAツールベンダーに機会。"
+        "short_term": "チップレット設計ツールの進化が鍵。標準化の動きも重要。",
+        "mid_term": "高性能コンピューティング、AI分野での採用拡大。",
+        "investment_implications": "先端パッケージング技術、EDAツール関連企業に注目。"
       },
       "keywords": [
         "チップレット",
-        "プロトタイピング",
-        "EDA",
-        "標準化"
+        "3D-IC",
+        "パッケージング",
+        "信号品質"
       ],
       "companies_mentioned": []
     },
     {
-      "name": "物理AIとハードウェアの進化",
-      "confidence": 0.75,
+      "name": "半導体製造装置市場の回復基調",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "automotive",
-        "industrial",
-        "logic"
+        "equipment",
+        "foundry",
+        "frontend"
       ],
-      "summary": "自律型機械やロボットなど、物理世界と相互作用するAI（物理AI）が進化。メモリボトルネックや電力制約など、ハードウェアの限界に挑戦。",
+      "summary": "露光装置事業の好調など、半導体製造装置市場は回復基調。AI需要に対応した先端製造装置への投資が継続。",
       "analysis": {
-        "short_term": "AI処理の高速化・低電力化が最重要課題。",
-        "mid_term": "システムレベルでの再設計や新材料の採用が進む。",
-        "investment_implications": "AIハードウェアアクセラレータ、新興技術に注目。"
+        "short_term": "先端ロジック・メモリ向け装置需要が堅調。",
+        "mid_term": "ファウンドリの設備投資計画が市場を左右。",
+        "investment_implications": "主要な半導体製造装置メーカーの業績回復に期待。"
       },
       "keywords": [
-        "物理AI",
-        "ロボット",
-        "ハードウェア",
-        "メモリボトルネック"
+        "露光装置",
+        "製造装置",
+        "ファウンドリ",
+        "設備投資"
       ],
       "companies_mentioned": [
-        "ルネサス",
-        "インフィニオン"
+        "ニコン"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の3四半期連続20%超成長（記事19）",
-      "ソニー半導体の過去最高益（記事17）",
-      "三菱電機、村田製作所のデータセンター向け売上好調（記事25, 26）",
-      "SiC関連技術の発表・開発活発化（記事1, 4, 5, 18, 21, 23, 29）"
+      "AI需要による半導体市場全体の成長加速",
+      "SiC/GaNパワー半導体の採用拡大",
+      "データセンター投資の活発化",
+      "エッジAIデバイスの普及"
     ],
     "bearish": [
-      "スマートフォン市場の縮小（記事17）",
-      "コンピュータサイエンス卒業生の厳しい状況（記事13）"
+      "地政学的リスクによる供給網の不安定化（HBM密輸報道など）",
+      "一部市場（スマホ等）の需要減速"
     ],
     "neutral": [
-      "自動運転車のテストの難しさ（記事10）",
-      "3D-ICの信号品質解析の複雑化（記事8）",
-      "量子チップ製造への挑戦（記事24）"
+      "半導体製造装置市場の回復基調",
+      "チップレット・3D-IC技術の進化"
     ]
   },
-  "source_count": 42
+  "source_count": 48
 }
