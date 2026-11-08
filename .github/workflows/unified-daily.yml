@@ -55,15 +55,12 @@ jobs:
 
       - name: Build news JSON
         env:
-          # LLM: Gemini (primary, cheaper) or OpenAI (fallback)
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_API_BASE: ${{ vars.OPENAI_API_BASE }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
           NEWS_FAST_MODE: '1'
           NEWS_GLOBAL_TIMEOUT_SEC: '45'
+          NEWS_ENRICH_TIMEOUT_SEC: '900'
         run: |
           python script/build_news.py 2>&1 | tee logs/$(date +%Y-%m-%d).log
           echo "Log saved to logs/$(date +%Y-%m-%d).log"

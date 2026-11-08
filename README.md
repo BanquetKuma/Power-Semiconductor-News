@@ -10,7 +10,7 @@
 ## 特徴
 
 - **4軸20分野の自動分類**: デバイス種類/製造工程/市場用途/業界構造で分類
-- **投資家向けトレンド分析**: Gemini AIによるメタトレンド抽出・市場シグナル生成
+- **投資家向けトレンド分析**: Claudeによるメタトレンド抽出・市場シグナル生成
 - **分野別JSON出力**: power.json, memory.json, automotive.json 等を自動生成
 - **パフォーマンス最適化**: 並列処理による高速収集（従来比87%短縮）
 - **自動化**: GitHub Actionsによる日次自動更新（毎日06:00 JST）
@@ -32,7 +32,7 @@ flowchart TD
         C[build-news Job]
         D[build_news.py 実行]
         E[RSS/X/Sheets から<br/>ニュース収集]
-        F[Gemini API で<br/>要約・分析]
+        F[Claude API で<br/>要約・分析]
         G[trends.json 生成<br/>投資家向けトレンド]
         H[news/*.json 出力]
         I[archive Job]
@@ -81,7 +81,7 @@ flowchart TD
 ├─────────────────────────────────────────────────────────────┤
 │  1. build_news.py 実行                                      │
 │     ├─ RSS/X/Google Sheets からニュース収集                 │
-│     ├─ Gemini API で要約・分類                              │
+│     ├─ Claude API で要約・分類                              │
 │     └─ trends.json 生成（投資家向けメタトレンド）           │
 │                                                             │
 │  2. news/*.json を public-pages/ にコピー                   │
@@ -112,8 +112,7 @@ flowchart TD
 
 | 変数名 | 必須 | 説明 |
 |--------|------|------|
-| `GOOGLE_API_KEY` | 推奨 | Gemini API キー（要約・トレンド分析） |
-| `OPENAI_API_KEY` | 任意 | OpenAI API キー（Geminiのフォールバック） |
+| `ANTHROPIC_API_KEY` | 推奨 | Claude API キー（要約・トレンド分析・ツイート生成） |
 | `X_BEARER_TOKEN` | 任意 | X (Twitter) API トークン |
 
 ### ローカル開発
@@ -222,7 +221,7 @@ gh workflow run twitter-post.yml
 
 ## X（Twitter）自動投稿機能
 
-毎日08:30 JSTに、Geminiが生成したバズるツイートを自動投稿します。
+毎日08:30 JSTに、Claudeが生成したバズるツイートを自動投稿します。
 
 ### 投稿フロー
 
@@ -233,7 +232,7 @@ gh workflow run twitter-post.yml
            │
            ▼
 ┌─────────────────────────────────────────┐
-│  Gemini がツイート文を生成              │
+│  Claude がツイート文を生成              │
 │  「🔥 SiC半導体、EV需要で爆発的成長！   │
 │   Infineonが生産能力2倍に #半導体」     │
 └─────────────────────────────────────────┘

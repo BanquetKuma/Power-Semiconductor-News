@@ -2,10 +2,10 @@
 """
 Daily tweet posting script for Semiconductor News.
 
-Posts a Gemini-generated highlight tweet and replies with the site link.
+Posts a Claude-generated highlight tweet and replies with the site link.
 
 Required environment variables:
-  GOOGLE_API_KEY    - Gemini API key
+  ANTHROPIC_API_KEY - Claude API key
   X_API_KEY         - X API Key (Consumer Key)
   X_API_SECRET      - X API Secret (Consumer Secret)
   X_ACCESS_TOKEN    - X Access Token
@@ -13,6 +13,7 @@ Required environment variables:
 """
 
 import os
+import llm_client
 import json
 import sys
 from datetime import datetime, timezone, timedelta
@@ -45,18 +46,13 @@ def load_news_data():
     return news, trends
 
 
-def generate_tweet_with_gemini(news, trends):
-    """Generate a catchy tweet using Gemini API."""
-    api_key = os.environ.get('GOOGLE_API_KEY')
-    if not api_key:
-        log('GOOGLE_API_KEY not set, using fallback tweet')
+def generate_tweet_with_claude(news, trends):
+    """Generate a catchy tweet using the Claude API."""
+    if not llm_client.is_available():
+        log('ANTHROPIC_API_KEY not set, using fallback tweet')
         return None
 
     try:
-        import google.generativeai as genai
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-2.0-flash-lite')
-
         # Build context from news and trends
         context_parts = []
 
@@ -100,8 +96,10 @@ def generate_tweet_with_gemini(news, trends):
 ツイート本文のみを出力してください。説明や前置きは不要です。
 """
 
-        response = model.generate_content(prompt)
-        tweet_text = response.text.strip()
+        tweet_text = llm_client.generate(prompt, effort='medium')
+        if not tweet_text:
+            return None
+        tweet_text = tweet_text.strip()
 
         # Remove any markdown formatting
         tweet_text = tweet_text.replace('```', '').strip()
@@ -114,7 +112,7 @@ def generate_tweet_with_gemini(news, trends):
         return tweet_text
 
     except Exception as e:
-        log(f'Gemini error: {e}')
+        log(f'Tweet generation error: {e}')
         return None
 
 
@@ -189,7 +187,7 @@ def main():
         return
 
     # Generate tweet
-    tweet_text = generate_tweet_with_gemini(news, trends)
+    tweet_text = generate_tweet_with_claude(news, trends)
 
     if not tweet_text:
         tweet_text = get_fallback_tweet(news, trends)
