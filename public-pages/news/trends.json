@@ -1,170 +1,179 @@
 {
-  "generated_at": "2026-11-08T09:10:59.406119+09:00",
+  "generated_at": "2026-11-08T23:48:39.092162+09:00",
   "date": "2026-11-08",
   "meta_trends": [
     {
-      "name": "SiCパワー半導体の需要拡大",
-      "confidence": 0.95,
+      "name": "AIデータセンター電力変革",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
-        "datacenter"
+        "datacenter",
+        "ai",
+        "idm"
       ],
-      "summary": "SiC（シリコンカーバイド）は、高効率・高耐圧特性からEV、データセンター、再生可能エネルギー分野で採用が加速。電力変換効率向上に貢献。",
+      "summary": "AIデータセンターの電力増大で、SST・SSCB・IVR・48V給電など電力供給と冷却の半導体化が加速している。SiC/GaNゲートドライバや電流センサーの需要も拡大中。",
       "analysis": {
-        "short_term": "需要増で供給逼迫の可能性。価格上昇圧力。",
-        "mid_term": "量産体制強化と技術革新でコスト競争激化。",
-        "investment_implications": "SiC材料・デバイスメーカーに注目。"
+        "short_term": "Allegro、Navitas等の新製品投入が続き、受注・設計採用の拡大が見込まれる",
+        "mid_term": "SSTのハイパースケール導入が本格化し、SiCパワー需要の新たな柱になる",
+        "investment_implications": "DC電源向けパワー半導体・ゲートドライバ・センサー企業に注目"
       },
       "keywords": [
+        "SST",
+        "SSCB",
         "SiC",
-        "EV",
-        "データセンター",
-        "再生可能エネルギー"
+        "GaN",
+        "IVR",
+        "48V給電",
+        "ゲートドライバ"
       ],
       "companies_mentioned": [
-        "Wolfspeed",
+        "Navitas",
         "Allegro",
-        "レゾナック",
-        "インフィニオン"
+        "Infineon",
+        "Diodes",
+        "Wolfspeed"
       ]
     },
     {
-      "name": "AI向け半導体需要の継続的拡大",
-      "confidence": 0.92,
+      "name": "SiC基板の大口径・多用途化",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "wafer",
+        "power",
+        "equipment"
+      ],
+      "summary": "レゾナックが300mm SiC基板を開発し、Wolfspeedは透明SiC基板でAR・量子向けに用途を拡大。基板メーカーはEV需要の鈍化を受け、コスト低減と用途多角化を急いでいる。",
+      "analysis": {
+        "short_term": "200mm移行が進む一方、価格競争の継続で収益性は依然として厳しい",
+        "mid_term": "300mm化とAR・DC向け用途拡大が、中国勢との差別化要因となる",
+        "investment_implications": "技術先行の基板メーカーは選別投資、価格下落リスクに留意"
+      },
+      "keywords": [
+        "300mm SiC",
+        "透明SiC",
+        "AR導波路",
+        "量子コンピューティング"
+      ],
+      "companies_mentioned": [
+        "レゾナック",
+        "Wolfspeed"
+      ]
+    },
+    {
+      "name": "AI主導の半導体超成長",
+      "confidence": 0.9,
+      "momentum": "rising",
+      "related_fields": [
+        "memory",
+        "ai",
+        "datacenter",
+        "logic",
+        "geopolitics"
+      ],
+      "summary": "世界半導体売上は3Qに5177億ドルとなり、3四半期連続で前期比20%超の成長を記録。HBM増強やエージェントAIによるCPU需要、受動部品の逼迫がAI需要の裾野拡大を示している。",
+      "analysis": {
+        "short_term": "メモリ価格上昇とHBM増産が続き、決算での上方修正が相次ぐ見込み",
+        "mid_term": "2027年も成長は継続見込みだが、密輸規制など地政学リスクが変動要因",
+        "investment_implications": "メモリ・DC向けCPU・MLCCなど周辺部品まで投資機会が広がる"
+      },
+      "keywords": [
+        "HBM",
+        "エージェントAI",
+        "データセンターCPU",
+        "MLCC",
+        "SIA"
+      ],
+      "companies_mentioned": [
+        "Samsung",
+        "Micron",
+        "Nvidia",
+        "Google",
+        "太陽誘電",
+        "Oracle",
+        "Tencent"
+      ]
+    },
+    {
+      "name": "エッジ・フィジカルAI拡大",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "ai",
-        "logic",
-        "memory",
-        "datacenter",
-        "frontend",
-        "backend"
+        "automotive",
+        "industrial",
+        "analog",
+        "logic"
       ],
-      "summary": "AIエージェントの普及、HPC、エッジAIなど多岐にわたるAIアプリケーションが、高性能CPU、GPU、メモリ、ADCなどの需要を牽引。",
+      "summary": "ロボット・自律機械などのフィジカルAI向けに、低電力SoC、小型ADC、MRAM搭載SoCが相次いで登場。メモリ帯域・電力・安全要件が設計上の主要課題となっている。",
       "analysis": {
-        "short_term": "NVIDIA H200など高性能AIチップの供給動向が注目。",
-        "mid_term": "AIモデルの最適化とハードウェアの適合が重要に。",
-        "investment_implications": "AIチップ設計・製造関連企業に投資妙味。"
+        "short_term": "Wi-Fi SoCやADCなど、エッジAI対応製品の発表が続く",
+        "mid_term": "ロボット・自動車向け専用アーキテクチャの採用が拡大する",
+        "investment_implications": "マイコン・アナログ・不揮発メモリの中長期成長テーマとして注目"
       },
       "keywords": [
-        "AI",
-        "CPU",
-        "GPU",
-        "HBM",
-        "エッジAI"
+        "フィジカルAI",
+        "エッジAI",
+        "STT-MRAM",
+        "ADC",
+        "ロボット"
       ],
       "companies_mentioned": [
         "Silanna",
-        "NVIDIA",
-        "マイクロン",
-        "サムスン",
-        "Google",
-        "太陽誘電",
-        "東北大学",
-        "アイシン"
+        "Nordic",
+        "アイシン",
+        "ルネサス",
+        "Infineon"
       ]
     },
     {
-      "name": "チップレット技術の進化と普及",
-      "confidence": 0.88,
+      "name": "チップレット・3D実装の高度化",
+      "confidence": 0.7,
       "momentum": "rising",
       "related_fields": [
         "backend",
-        "frontend",
         "logic",
-        "miniaturization"
+        "fabless",
+        "equipment"
       ],
-      "summary": "チップレット設計は、高性能化とコスト効率を両立するアプローチとして注目。プロトタイピングの加速が課題。",
+      "summary": "3D-ICの信号品質確保やチップレットのプロトタイピングでは、システムレベルの設計・検証が不可欠に。ニコンの露光装置事業も回復しており、先端製造への投資が堅調。",
       "analysis": {
-        "short_term": "プラグアンドプレイプロトタイピングの課題解決が鍵。",
-        "mid_term": "標準化とエコシステム構築が進展する可能性。",
-        "investment_implications": "チップレット関連技術・IP企業に注目。"
+        "short_term": "EDA・検証ツール需要が増加し、露光装置の利益回復が継続",
+        "mid_term": "異種統合が標準化し、パッケージ・検証市場が拡大する",
+        "investment_implications": "EDA、先端パッケージ、装置関連に中期的な追い風"
       },
       "keywords": [
-        "チップレット",
         "3D-IC",
-        "プロトタイピング",
-        "信号完全性"
+        "チップレット",
+        "インターポーザ",
+        "露光装置"
       ],
       "companies_mentioned": [
-        "ルネサス",
-        "インフィニオン"
-      ]
-    },
-    {
-      "name": "エッジAIのハードウェア最適化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "logic",
-        "analog",
-        "automotive",
-        "industrial"
-      ],
-      "summary": "エッジデバイスでのAI処理には、低消費電力化と高性能化の両立が不可欠。AIモデルの圧縮や専用ハードウェアが重要。",
-      "analysis": {
-        "short_term": "低消費電力Wi-Fi SoCなど、エッジ向け新製品登場。",
-        "mid_term": "ハードウェアアーキテクチャとAIモデルの適合が進む。",
-        "investment_implications": "エッジAI向け半導体・ソリューション提供企業に期待。"
-      },
-      "keywords": [
-        "エッジAI",
-        "低消費電力",
-        "ADC",
-        "SoC"
-      ],
-      "companies_mentioned": [
-        "Silanna",
-        "ノルディック",
-        "東北大学",
-        "アイシン"
-      ]
-    },
-    {
-      "name": "データセンターの電力効率と制御強化",
-      "confidence": 0.82,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "power",
-        "logic",
-        "automotive"
-      ],
-      "summary": "AI需要によるデータセンターの電力消費増大に対応するため、電力供給・冷却効率の向上と、グリッドとの連携制御が重要視。",
-      "analysis": {
-        "short_term": "SiCベースの変圧器・遮断器が電力制御の鍵に。",
-        "mid_term": "スマートグリッドの一部としてのデータセンター機能強化。",
-        "investment_implications": "データセンター向け電源・冷却ソリューションに注目。"
-      },
-      "keywords": [
-        "データセンター",
-        "電力効率",
-        "SST",
-        "SSCB",
-        "SiC"
-      ],
-      "companies_mentioned": [
-        "Allegro",
-        "インフィニオン"
+        "ニコン"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "世界半導体市場の3四半期連続20%超成長（記事24）",
-      "AI需要による太陽誘電の営業利益127%増（記事20）",
-      "ニコン露光装置事業の営業利益137%増（記事18）"
+      "世界半導体売上が3四半期連続で前期比20%超の成長",
+      "太陽誘電が営業利益127%増を見込み、設備投資を2年前倒し",
+      "SamsungのHBM増強",
+      "ソニー半導体が2Qで過去最高益",
+      "SST・SSCBがハイパースケール導入段階へ移行",
+      "ニコン露光装置事業の営業利益が137%増"
     ],
     "bearish": [
-      "スマホ市場2割減（記事22）"
+      "HBMの中国密輸や香港でのH200留置など、輸出規制リスク",
+      "Micron台湾工場の作業停止",
+      "スマホ市場の2割減と、SamsungのApple向けCIS参入によるソニーのシェアリスク",
+      "Oracle-Tencent提携の破談"
     ],
     "neutral": [
-      "コンピュータサイエンス専攻卒業生のAI進化による不確実性（記事16）",
-      "中国へのHBM密輸、NVIDIA H200香港保留（記事8）"
+      "SiCは150mmから200mmへの移行期にあり、300mmは将来技術",
+      "エージェントAIによるCPU需要の再評価",
+      "AI普及による新卒の雇用環境変化"
     ]
   },
-  "source_count": 49
+  "source_count": 90
 }
