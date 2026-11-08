@@ -12,12 +12,15 @@ import trafilatura
 import csv
 from pathlib import Path
 
+import llm_client
+
 JST = timezone(timedelta(hours=9))
 FAST_MODE = os.getenv('NEWS_FAST_MODE') == '1'
 try:
     GLOBAL_TIMEOUT_SEC = int(os.getenv('NEWS_GLOBAL_TIMEOUT_SEC', '60'))
 except Exception:
     GLOBAL_TIMEOUT_SEC = 60
+ENRICH_TIMEOUT_SEC = int(os.getenv('NEWS_ENRICH_TIMEOUT_SEC', str(GLOBAL_TIMEOUT_SEC)))
 ROOT = os.path.dirname(os.path.dirname(__file__))
 NEWS_DIR = os.path.join(ROOT, 'news')
 SOURCES_YAML = os.path.join(ROOT, 'sources.yaml')
@@ -472,117 +475,56 @@ def score(item):
     return base, min(max(stars,1),5)
 
 # --- LLM summarization (optional) -------------------------
-# Priority: GOOGLE_API_KEY (Gemini, cheaper) > OPENAI_API_KEY
 
-_llm_warned = False
+SUMMARY_SCHEMA = {
+    'type': 'object',
+    'properties': {
+        'summary': {'type': 'string'},
+        'category': {'type': 'string', 'enum': ['business', 'tools', 'company', 'sns']},
+        'stars': {'type': 'integer'},
+    },
+    'required': ['summary', 'category', 'stars'],
+    'additionalProperties': False,
+}
+
+_llm_announced = False
 
 def _build_prompt(title, text, url):
-    return f"""以下の記事を日本語で80文字以内に要約し、カテゴリ（business/tools/company/snsのいずれか）と、重要度を1〜5で出してください。出力はJSONのみ。
+    return f"""以下の記事を日本語で80文字以内に要約し（summary）、カテゴリ（category: business/tools/company/snsのいずれか）と、重要度（stars: 1〜5の整数）を出してください。
 
 タイトル: {title}
 URL: {url}
 本文: {text[:4000]}"""
 
-def _parse_llm_response(ans):
-    """Parse LLM response JSON"""
-    # Remove markdown code blocks if present
-    ans = ans.strip()
-    if ans.startswith('```'):
-        ans = '\n'.join(ans.split('\n')[1:])
-    if ans.endswith('```'):
-        ans = ans.rsplit('```', 1)[0]
-    ans = ans.strip()
-    j = json.loads(ans)
-    return {
-        'blurb': j.get('summary') or j.get('要約') or j.get('blurb'),
-        'category': j.get('category') or j.get('カテゴリ'),
-        'stars': int(j.get('stars') or j.get('重要度') or 3)
-    }
-
-def _llm_gemini(title, text, url):
-    """Gemini API (gemini-2.5-flash-lite)"""
-    key = os.getenv('GOOGLE_API_KEY')
-    model = os.getenv('GEMINI_MODEL') or 'gemini-2.5-flash-lite'
-    prompt = _build_prompt(title, text, url)
-
-    payload = {
-        'contents': [{'parts': [{'text': prompt}]}],
-        'generationConfig': {
-            'temperature': 0.2,
-            'responseMimeType': 'application/json'
-        },
-        'systemInstruction': {'parts': [{'text': 'You are a concise Japanese news assistant. Output JSON only.'}]}
-    }
-
-    r = requests.post(
-        f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}',
-        json=payload,
-        timeout=45
-    )
-    r.raise_for_status()
-    ans = r.json()['candidates'][0]['content']['parts'][0]['text']
-    return _parse_llm_response(ans)
-
-def _llm_openai(title, text, url):
-    """OpenAI API (gpt-4o-mini)"""
-    key = os.getenv('OPENAI_API_KEY')
-    model = os.getenv('OPENAI_MODEL') or 'gpt-4o-mini'
-    base = os.getenv('OPENAI_API_BASE') or 'https://api.openai.com/v1'
-    prompt = _build_prompt(title, text, url)
-
-    payload = {
-        'model': model,
-        'messages': [
-            {'role': 'system', 'content': 'You are a concise Japanese news assistant.'},
-            {'role': 'user', 'content': prompt}
-        ],
-        'temperature': 0.2
-    }
-    r = requests.post(f'{base}/chat/completions', headers={'Authorization': f'Bearer {key}'}, json=payload, timeout=45)
-    r.raise_for_status()
-    ans = r.json()['choices'][0]['message']['content']
-    return _parse_llm_response(ans)
-
 def llm_summarize(title, text, url):
-    global _llm_warned
+    global _llm_announced
 
-    google_key = os.getenv('GOOGLE_API_KEY')
-    openai_key = os.getenv('OPENAI_API_KEY')
+    if not _llm_announced:
+        if llm_client.is_available():
+            log(f'LLM: Using Claude ({llm_client.model_name()})')
+        else:
+            log('LLM: ANTHROPIC_API_KEY not set, using RSS/feed summaries')
+        _llm_announced = True
 
-    if not google_key and not openai_key:
-        if not _llm_warned:
-            log('LLM: No API key set (GOOGLE_API_KEY or OPENAI_API_KEY), using RSS/feed summaries')
-            _llm_warned = True
+    ans = llm_client.generate(
+        _build_prompt(title, text, url),
+        system='You are a concise Japanese news assistant.',
+        schema=SUMMARY_SCHEMA,
+        effort='low',
+        timeout=45,
+    )
+    if not ans:
         return None
-
-    # Try Gemini first (cheaper), fall back to OpenAI
-    if google_key:
-        try:
-            if not _llm_warned:
-                model = os.getenv('GEMINI_MODEL') or 'gemini-2.5-flash-lite'
-                log(f'LLM: Using Gemini ({model})')
-                _llm_warned = True
-            return _llm_gemini(title, text, url)
-        except Exception as ex:
-            log('Gemini API error:', type(ex).__name__, str(ex)[:100])
-            # Fall back to OpenAI if available
-            if openai_key:
-                log('Falling back to OpenAI...')
-            else:
-                return None
-
-    if openai_key:
-        try:
-            if not _llm_warned:
-                model = os.getenv('OPENAI_MODEL') or 'gpt-4o-mini'
-                log(f'LLM: Using OpenAI ({model})')
-                _llm_warned = True
-            return _llm_openai(title, text, url)
-        except Exception as ex:
-            log('OpenAI API error (continuing without LLM):', type(ex).__name__, str(ex)[:100])
-            return None
-
-    return None
+    try:
+        j = json.loads(ans)
+    except json.JSONDecodeError as ex:
+        log('LLM: invalid JSON from Claude:', str(ex)[:100])
+        return None
+    return {
+        'blurb': j['summary'],
+        'category': j['category'],
+        'stars': max(1, min(5, j['stars'])),
+    }
 
 
 # --- Trends Analysis for Investors ---
@@ -632,11 +574,57 @@ def _build_trends_prompt(articles_text: str, date: str) -> str:
 """
 
 
-def _llm_gemini_trends(articles: list, date: str) -> dict | None:
-    """Gemini APIでメタトレンド分析を実行"""
-    key = os.getenv('GOOGLE_API_KEY')
-    if not key:
-        log('Trends: GOOGLE_API_KEY not set, skipping trends generation')
+TRENDS_SCHEMA = {
+    'type': 'object',
+    'properties': {
+        'meta_trends': {
+            'type': 'array',
+            'items': {
+                'type': 'object',
+                'properties': {
+                    'name': {'type': 'string'},
+                    'confidence': {'type': 'number'},
+                    'momentum': {'type': 'string', 'enum': ['rising', 'stable', 'declining']},
+                    'related_fields': {'type': 'array', 'items': {'type': 'string'}},
+                    'summary': {'type': 'string'},
+                    'analysis': {
+                        'type': 'object',
+                        'properties': {
+                            'short_term': {'type': 'string'},
+                            'mid_term': {'type': 'string'},
+                            'investment_implications': {'type': 'string'},
+                        },
+                        'required': ['short_term', 'mid_term', 'investment_implications'],
+                        'additionalProperties': False,
+                    },
+                    'keywords': {'type': 'array', 'items': {'type': 'string'}},
+                    'companies_mentioned': {'type': 'array', 'items': {'type': 'string'}},
+                },
+                'required': ['name', 'confidence', 'momentum', 'related_fields', 'summary',
+                             'analysis', 'keywords', 'companies_mentioned'],
+                'additionalProperties': False,
+            },
+        },
+        'market_signals': {
+            'type': 'object',
+            'properties': {
+                'bullish': {'type': 'array', 'items': {'type': 'string'}},
+                'bearish': {'type': 'array', 'items': {'type': 'string'}},
+                'neutral': {'type': 'array', 'items': {'type': 'string'}},
+            },
+            'required': ['bullish', 'bearish', 'neutral'],
+            'additionalProperties': False,
+        },
+    },
+    'required': ['meta_trends', 'market_signals'],
+    'additionalProperties': False,
+}
+
+
+def _llm_trends(articles: list, date: str) -> dict | None:
+    """Claudeでメタトレンド分析を実行"""
+    if not llm_client.is_available():
+        log('Trends: Claude unavailable, skipping trends generation')
         return None
 
     # 記事テキストを構築
@@ -652,42 +640,24 @@ def _llm_gemini_trends(articles: list, date: str) -> dict | None:
         log('Trends: No articles to analyze')
         return None
 
-    model = os.getenv('GEMINI_TRENDS_MODEL') or os.getenv('GEMINI_MODEL') or 'gemini-2.5-flash-lite'
-    prompt = _build_trends_prompt(articles_text, date)
-
-    payload = {
-        'contents': [{'parts': [{'text': prompt}]}],
-        'generationConfig': {
-            'temperature': 0.3,
-            'responseMimeType': 'application/json'
-        },
-        'systemInstruction': {'parts': [{'text': '半導体業界の投資アナリストとして、正確で洞察力のある分析をJSON形式で提供してください。'}]}
-    }
-
-    try:
-        log(f'Trends: Generating with {model}...')
-        r = requests.post(
-            f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}',
-            json=payload,
-            timeout=60
-        )
-        r.raise_for_status()
-        ans = r.json()['candidates'][0]['content']['parts'][0]['text']
-
-        # Parse JSON response
-        ans = ans.strip()
-        if ans.startswith('```'):
-            ans = '\n'.join(ans.split('\n')[1:])
-        if ans.endswith('```'):
-            ans = ans.rsplit('```', 1)[0]
-        ans = ans.strip()
-
-        trends_data = json.loads(ans)
-        log(f'Trends: Generated {len(trends_data.get("meta_trends", []))} trends')
-        return trends_data
-    except Exception as ex:
-        log('Trends generation error:', type(ex).__name__, str(ex)[:100])
+    log(f'Trends: Generating with {llm_client.model_name()}...')
+    ans = llm_client.generate(
+        _build_trends_prompt(articles_text, date),
+        system='半導体業界の投資アナリストとして、正確で洞察力のある分析をJSON形式で提供してください。',
+        schema=TRENDS_SCHEMA,
+        effort='medium',
+        max_tokens=16000,
+        timeout=180,
+    )
+    if not ans:
         return None
+    try:
+        trends_data = json.loads(ans)
+    except json.JSONDecodeError as ex:
+        log('Trends: invalid JSON from Claude:', str(ex)[:100])
+        return None
+    log(f'Trends: Generated {len(trends_data.get("meta_trends", []))} trends')
+    return trends_data
 
 
 def generate_trends_json(enriched_items: list, date: str) -> None:
@@ -700,7 +670,7 @@ def generate_trends_json(enriched_items: list, date: str) -> None:
         return
 
     # LLMでトレンド分析
-    trends_data = _llm_gemini_trends(semi_items, date)
+    trends_data = _llm_trends(semi_items, date)
 
     if not trends_data:
         # フォールバック: 空のトレンドデータ
@@ -795,6 +765,7 @@ def main():
 
     # enrich with text, llm/fallback summary, score, category
     enriched = []
+    enrich_start = time.time()
     for it in verified:
         body = extract_text(it['url'])
         llm = llm_summarize(it['title'], body or it['summary'], it['url'])
@@ -829,7 +800,7 @@ def main():
         enriched.append(item_out)
         if FAST_MODE and len(enriched) >= 200:
             break
-        if time.time() - start_time > GLOBAL_TIMEOUT_SEC:
+        if time.time() - enrich_start > ENRICH_TIMEOUT_SEC:
             break
 
     # score again using produced blurb/title
