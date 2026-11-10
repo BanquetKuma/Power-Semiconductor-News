@@ -1,30 +1,66 @@
 {
-  "generated_at": "2026-11-09T09:36:30.825028+09:00",
+  "generated_at": "2026-11-10T12:15:15.378907+09:00",
   "field": "automotive",
   "field_label": "車載半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "French carmaker Renault wants to get into the military robot business",
-    "summary": "仏自動車大手ルノーが軍事ロボット事業への参入を目指し、仏陸軍の過酷な任務向けに自律走行型の電動車両プラットフォームを開発。",
+    "title": "Ford's Radical New EV Manufacturing Process Is Already Building Trucks",
+    "summary": "フォードが新たなEV製造方式を導入したルイビル工場で、電動ピックアップの初期生産車を製造開始。今後は量産規模への拡大が課題となる。",
     "sources": [
       {
-        "name": "electrek.co",
-        "url": "https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business"
+        "name": "insideevs.com",
+        "url": "https://insideevs.com/news/814711/ford-first-fathoms-pre-production"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "French carmaker Renault wants to get into the military robot business",
-        "blurb": "仏自動車大手ルノーが軍事ロボット事業への参入を目指し、仏陸軍の過酷な任務向けに自律走行型の電動車両プラットフォームを開発。",
+        "title": "Humble Hauler autonomous trailer takes the truck out of trucking [update]",
+        "blurb": "トラック不要の自律走行トレーラー「Humble Hauler」を開発するHumble Roboticsが、設立1年未満で5100万ドルのシリーズAを調達し累計7500万ドル超に。",
         "category": "company",
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/08/french-carmaker-renault-wants-to-get-into-the-military-robot-business"
+          "url": "https://electrek.co/2026/11/09/humble-hauler-autonomous-trailer-takes-the-truck-out-of-trucking"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Ford’s EV batteries retain more than 90% health after 100,000 miles",
+        "blurb": "Fordは同社EVのバッテリーが10万マイル走行後も平均90%超の健全性を維持していると発表。バッテリーを長持ちさせるためのコツも紹介。",
+        "category": "company",
+        "date": "2026-11-10",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/09/fords-ev-batteries-retain-over-90-health-after-100000-miles"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "BYD is going all out on its ultra-luxury EV with coach doors and 1,000+ km of range [Images]",
+        "blurb": "BYDが超高級EV「仰望（Yangwang）Altior」を発表。観音開きドア、CLTC航続1000km超、1000V急速充電対応で豪華装備を満載。",
+        "category": "company",
+        "date": "2026-11-10",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/09/byds-ultra-luxury-ev-coach-doors-1000-km-range"
         },
         "field": {
           "primary": "automotive",
@@ -35,7 +71,45 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "tech": [
+      {
+        "title": "PlugShare finally adds dark mode, and there’s more for EV drivers",
+        "blurb": "EV充電アプリPlugShareがiPhone向けv8.0を11月10日に世界配信。ダークモード、充電地点間距離を示す旅程計画、刷新したApple Watchアプリを搭載。",
+        "category": "tools",
+        "date": "2026-11-10",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/09/plugshare-finally-adds-dark-mode-and-theres-more-for-ev-drivers"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": "fabless"
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "Ford's Radical New EV Manufacturing Process Is Already Building Trucks",
+        "blurb": "フォードが新たなEV製造方式を導入したルイビル工場で、電動ピックアップの初期生産車を製造開始。今後は量産規模への拡大が課題となる。",
+        "category": "business",
+        "date": "2026-11-10",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/814711/ford-first-fathoms-pre-production"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ]
   }
 }
