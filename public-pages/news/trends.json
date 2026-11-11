@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T12:15:40.092158+09:00",
-  "date": "2026-11-10",
+  "generated_at": "2026-11-11T10:06:24.042336+09:00",
+  "date": "2026-11-11",
   "meta_trends": [
     {
-      "name": "AIデータセンター電力供給革新",
+      "name": "AIデータセンター電力革新",
       "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
@@ -12,18 +12,19 @@
         "ai",
         "analog"
       ],
-      "summary": "AIサーバの数千A級電力需要に対し、デジタル制御IVR、SiC/GaNゲートドライバ、48V系、受動部品が一斉に拡大。電源・受動部品各社の業績上方修正が相次ぐ。",
+      "summary": "AIサーバの電力需要急増を受け、IVR、48V給電、SiC/GaNゲートドライバ、電流センサ等の高効率電力供給・冷却ソリューションが相次いで投入されている。",
       "analysis": {
-        "short_term": "ローム・太陽誘電の上方修正で電源・受動部品株に買い優勢が続く見込み",
-        "mid_term": "48V/高電流VRや受動部品の増産投資が本格化し、供給能力が業績を左右",
-        "investment_implications": "AIサーバ電源・MLCC関連の能力増強企業を選好、設備前倒し銘柄に注目"
+        "short_term": "AIサーバ向け電源・受動部品の受注増が続き、各社の上方修正が相次ぐ見込み。",
+        "mid_term": "数千A級の電力供給と48V/800V化が標準化し、パワーIC市場が構造的に拡大。",
+        "investment_implications": "Navitas、Allegro、ローム、太陽誘電などAI電源関連銘柄に選別的に注目。"
       },
       "keywords": [
         "IVR",
         "48V",
         "ゲートドライバ",
-        "MLCC",
-        "電流センサー"
+        "電流センサ",
+        "AIサーバ",
+        "MLCC"
       ],
       "companies_mentioned": [
         "Navitas",
@@ -34,147 +35,143 @@
       ]
     },
     {
-      "name": "メモリ超好況とHBM争奪",
-      "confidence": 0.9,
+      "name": "ワイドバンドギャップ技術進化",
+      "confidence": 0.8,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "wafer",
+        "automotive",
+        "industrial"
+      ],
+      "summary": "Infineonの300mm SiC量産化成功、Wolfspeedの透明SiC基板、GaNの水素プラズマ不活性化などWBG材料・プロセス技術が大口径化と用途多様化で前進。",
+      "analysis": {
+        "short_term": "300mm SiCの成功でコスト低下期待が高まり、基板価格競争が激化。",
+        "mid_term": "SiC/GaNの単価低下でEV・産機・DC向け採用が加速、基板勢の淘汰も進む。",
+        "investment_implications": "大口径化で先行するInfineonに優位、基板専業は価格下落リスクに注意。"
+      },
+      "keywords": [
+        "SiC",
+        "GaN",
+        "300mmウエハー",
+        "HEMT",
+        "AR導波路",
+        "量子コンピューティング"
+      ],
+      "companies_mentioned": [
+        "Infineon",
+        "Wolfspeed",
+        "Diodes"
+      ]
+    },
+    {
+      "name": "AIメモリ超好況",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
-        "geopolitics",
-        "datacenter"
+        "datacenter",
+        "automotive"
       ],
-      "summary": "2026年Q3のDRAM売上は前年比369%増の約2000億ドルに迫り、Samsungが首位。HBM増強の一方、中国への密輸やMicron台湾工場停止など供給リスクも顕在化。",
+      "summary": "2026年Q3のDRAM売上高は前年比369%増の約2000億ドルに迫りSamsungが首位。HBMに加えLPDDR6がフィジカルAI向けにも需要拡大。",
       "analysis": {
-        "short_term": "価格高止まりでメモリ大手の好決算継続、供給障害が需給を一段と逼迫",
-        "mid_term": "増産投資の成果で2027年後半に需給緩和リスク、ピークアウト警戒",
-        "investment_implications": "メモリ株は利益最大化局面、サイクル天井の兆候監視と利確計画が重要"
+        "short_term": "需給逼迫と価格上昇が続き、メモリ各社の記録的業績が継続。",
+        "mid_term": "増産投資で2027年後半に供給過剰化リスク、エッジ向けLPDDR6は成長継続。",
+        "investment_implications": "メモリ大手は強気継続も、ピークアウト兆候と設備投資動向を注視すべき。"
       },
       "keywords": [
         "DRAM",
         "HBM",
         "LPDDR6",
-        "価格高騰",
-        "輸出規制"
-      ],
-      "companies_mentioned": [
-        "Samsung",
-        "Micron",
-        "Nvidia",
-        "Counterpoint"
-      ]
-    },
-    {
-      "name": "SiC大口径化と新用途展開",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "wafer",
-        "industrial",
-        "automotive"
-      ],
-      "summary": "Infineonが300mm SiCでデバイス製造に成功、Wolfspeedは透明SiC基板でAR・量子向けを開拓。EV減速下でコスト低減と用途多角化が進む。",
-      "analysis": {
-        "short_term": "300mm化の発表でSiC競争軸がコストへ移行、既存200mm勢に圧力",
-        "mid_term": "300mm量産立ち上げが進めば価格下落加速、AIDC・産機用途が拡大",
-        "investment_implications": "大口径化を主導するIDMを優位視、基板専業は用途多角化の成否を評価"
-      },
-      "keywords": [
-        "SiC",
-        "300mmウエハー",
-        "透明SiC",
-        "GaN",
-        "AR導波路"
-      ],
-      "companies_mentioned": [
-        "Infineon",
-        "Wolfspeed",
-        "ローム"
-      ]
-    },
-    {
-      "name": "フィジカルAIとエッジ推論拡大",
-      "confidence": 0.78,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "automotive",
-        "industrial",
-        "analog",
-        "memory"
-      ],
-      "summary": "ロボットや自動運転などフィジカルAIが拡大し、LPDDR6、高速ADC、専用アーキテクチャ、安全性検証が重要に。エッジ向けモデル最適化とハード協調設計が進展。",
-      "analysis": {
-        "short_term": "展示会・製品発表が先行、売上寄与は限定的だが期待先行で評価上昇",
-        "mid_term": "ロボット・ADAS量産でLPDDR6・エッジSoC・センサー需要が立ち上がる",
-        "investment_implications": "エッジAI向けメモリ・アナログ・シミュレーション検証ツールに中長期妙味"
-      },
-      "keywords": [
         "フィジカルAI",
-        "LPDDR6",
-        "ADC",
-        "自動運転",
-        "ロボット"
+        "メモリ価格"
       ],
       "companies_mentioned": [
-        "Silanna",
-        "Infineon",
-        "ソニー"
+        "Samsung"
       ]
     },
     {
-      "name": "材料・装置の再編と国内回帰",
-      "confidence": 0.8,
+      "name": "先端パッケージ検査・テスト高度化",
+      "confidence": 0.82,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "equipment",
+        "ai",
+        "miniaturization"
+      ],
+      "summary": "ハイブリッドボンディング微細化、FOPLP、CPO/シリコンフォトニクス量産化に伴い、検査・計測・テストが限界に直面。予測モデルやSSN over PCIeで効率化が進む。",
+      "analysis": {
+        "short_term": "AIチップのテスト工程増加でテスタ・検査装置需要が堅調に推移。",
+        "mid_term": "ハイブリッドボンディング・CPOの量産で新型検査装置とデータ解析市場が拡大。",
+        "investment_implications": "検査・計測装置、テスト解析ソフト、光インターコネクト関連に中長期の妙味。"
+      },
+      "keywords": [
+        "ハイブリッドボンディング",
+        "FOPLP",
+        "CPO",
+        "シリコンフォトニクス",
+        "SSN",
+        "歩留まり予測"
+      ],
+      "companies_mentioned": [
+        "Siemens EDA",
+        "Semiconductor Engineering"
+      ]
+    },
+    {
+      "name": "材料・装置業界の再編と回復",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "equipment",
         "frontend",
         "geopolitics",
-        "backend",
         "wafer"
       ],
-      "summary": "三井化学が1.8兆円でJSR買収、旭化成がAI材料開発拠点開設、ニコン露光装置が黒字回復。米国回帰で装置各社が商機を狙い、3D-IC・光接続も台頭。",
+      "summary": "三井化学による1.8兆円のJSR買収、ニコン露光装置の黒字回復、米国製造回帰による装置商機、旭化成のAI活用材料開発など、上流サプライチェーンが再編・強化。",
       "analysis": {
-        "short_term": "大型M&Aで材料セクターの再評価進展、装置受注は米国案件が下支え",
-        "mid_term": "日本材料の統合でスケール競争へ、3D-IC/光I/O向け材料・装置需要増",
-        "investment_implications": "先端パッケージ・露光関連材料と米国工場向け装置に選別的投資"
+        "short_term": "JSR買収を契機に国内材料メーカーの再編思惑が高まる。",
+        "mid_term": "米国新工場向け装置・材料需要が本格化し、日本勢の受注拡大が期待。",
+        "investment_implications": "再編で規模を得る材料大手と米国回帰の恩恵を受ける装置株に注目。"
       },
       "keywords": [
         "M&A",
         "フォトレジスト",
         "露光装置",
-        "3D-IC",
-        "光インターコネクト"
+        "リショアリング",
+        "感光性絶縁材料"
       ],
       "companies_mentioned": [
         "三井化学",
         "JSR",
-        "旭化成",
-        "ニコン"
+        "ニコン",
+        "旭化成"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "DRAM売上が前年比369%増の約2000億ドルに迫る",
-      "ローム営業利益360%増見込みで通期上方修正",
-      "太陽誘電が設備投資を2年前倒しし生産能力倍増",
-      "エージェント型AIでデータセンターCPU需要が拡大",
-      "ニコン露光装置事業の営業益137%増"
+      "DRAM売上高が前年比369%増の約2000億ドルに迫る",
+      "ロームが通期上方修正、営業利益360%増見込み",
+      "太陽誘電がAI需要で設備投資を2年前倒し",
+      "Infineonが300mm SiCで世界初のフルスケール製造に成功",
+      "ニコン露光装置事業の営業益137%増で黒字回復",
+      "エージェント型AI普及でデータセンターCPU需要が新たに拡大"
     ],
     "bearish": [
-      "HBMの中国密輸ルート発覚で輸出規制強化リスク",
-      "Micron台湾工場の作業停止による供給不安",
-      "SamsungのApple向けCIS参入報道でソニーのシェア低下懸念",
-      "スマホ市場2割減によるモバイル向け需要の弱さ",
-      "Oracle-Tencent取引破談とNvidia CEO調査など地政学的不透明感"
+      "SamsungのApple向けCIS参入報道でソニーのシェア低下リスク",
+      "AIチップのテストが進化に追いつかず品質・コスト負担が増大",
+      "ハイブリッドボンディング微細化で検査が限界、歩留まりリスク",
+      "メモリ超好況による増産で将来的な供給過剰懸念"
     ],
     "neutral": [
-      "自工会が車載半導体の世代交代ガイドラインを整備",
-      "三井化学によるJSR買収は統合効果の見極めが必要",
-      "3D-IC信号完全性やネットワークセキュリティの設計課題が顕在化",
-      "米国の製造回帰で装置メーカーの出展が増加"
+      "三井化学のJSR買収による材料業界再編の進展",
+      "自工会が車載半導体の「新陳代謝」ガイドラインを整備",
+      "IoTモデムでLTE Cat 1bisと5G RedCapの選択が分かれる",
+      "米国の製造回帰政策で装置メーカーの出展・投資が活発化"
     ]
   },
-  "source_count": 90
+  "source_count": 94
 }
