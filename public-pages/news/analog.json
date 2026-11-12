@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-29T09:35:26.710941+09:00",
+  "generated_at": "2026-11-12T11:12:48.790459+09:00",
   "field": "analog",
   "field_label": "アナログ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Motion sensor combo ICs target vehicle dynamics",
-    "summary": "ST has launched an automotive sensor platform that combines multi-axis accelerometers and angular-rate sensors in a sing",
+    "title": "PMIC boosts efficiency in 1.6T optical modules",
+    "summary": "MaxLinearがAIインフラ向けDSP搭載1.6T光モジュール用のカスタム多相PMIC「Jeju」を発表し、電力効率を向上させた。",
     "sources": [
       {
         "name": "edn.com",
-        "url": "https://www.edn.com/motion-sensor-combo-ics-target-vehicle-dynamics"
+        "url": "https://www.edn.com/pmic-boosts-efficiency-in-1-6t-optical-modules"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Motion sensor combo ICs target vehicle dynamics",
-        "blurb": "ST has launched an automotive sensor platform that combines multi-axis accelerometers and angular-rate sensors in a sing",
+        "title": "TDK and Microchip Develop Ethernet Sensor Platform for Robotics",
+        "blurb": "TDKとMicrochipが、InvenSenseセンサーとdsPIC33A、10BASE-T1Sイーサネットを組み合わせたロボット向け分散センサーノード基盤を共同開発。",
         "category": "company",
-        "date": "2026-10-29",
+        "date": "2026-11-12",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/motion-sensor-combo-ics-target-vehicle-dynamics"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/tdk-and-microchip-develop-ethernet-sensor-platform-for-robotics"
         },
         "field": {
           "primary": "analog",
@@ -35,7 +35,26 @@
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "PMIC boosts efficiency in 1.6T optical modules",
+        "blurb": "MaxLinearがAIインフラ向けDSP搭載1.6T光モジュール用のカスタム多相PMIC「Jeju」を発表し、電力効率を向上させた。",
+        "category": "tools",
+        "date": "2026-11-12",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/pmic-boosts-efficiency-in-1-6t-optical-modules"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

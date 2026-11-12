@@ -1,177 +1,170 @@
 {
-  "generated_at": "2026-11-11T10:06:24.042336+09:00",
-  "date": "2026-11-11",
+  "generated_at": "2026-11-12T11:13:09.440061+09:00",
+  "date": "2026-11-12",
   "meta_trends": [
     {
-      "name": "AIデータセンター電力革新",
-      "confidence": 0.88,
+      "name": "GaN/SiCのAI時代普及",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "datacenter",
-        "ai",
-        "analog"
-      ],
-      "summary": "AIサーバの電力需要急増を受け、IVR、48V給電、SiC/GaNゲートドライバ、電流センサ等の高効率電力供給・冷却ソリューションが相次いで投入されている。",
-      "analysis": {
-        "short_term": "AIサーバ向け電源・受動部品の受注増が続き、各社の上方修正が相次ぐ見込み。",
-        "mid_term": "数千A級の電力供給と48V/800V化が標準化し、パワーIC市場が構造的に拡大。",
-        "investment_implications": "Navitas、Allegro、ローム、太陽誘電などAI電源関連銘柄に選別的に注目。"
-      },
-      "keywords": [
-        "IVR",
-        "48V",
-        "ゲートドライバ",
-        "電流センサ",
-        "AIサーバ",
-        "MLCC"
-      ],
-      "companies_mentioned": [
-        "Navitas",
-        "Allegro",
-        "Diodes",
-        "ローム",
-        "太陽誘電"
-      ]
-    },
-    {
-      "name": "ワイドバンドギャップ技術進化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "wafer",
         "automotive",
-        "industrial"
+        "industrial",
+        "wafer"
       ],
-      "summary": "Infineonの300mm SiC量産化成功、Wolfspeedの透明SiC基板、GaNの水素プラズマ不活性化などWBG材料・プロセス技術が大口径化と用途多様化で前進。",
+      "summary": "InfineonのGaN普及宣言、300mm SiCウエハー初公開、onsemi第4世代トレンチSiC、Nexperia新製品など、WBGがAIデータセンターとEV向けに本格普及期へ移行。",
       "analysis": {
-        "short_term": "300mm SiCの成功でコスト低下期待が高まり、基板価格競争が激化。",
-        "mid_term": "SiC/GaNの単価低下でEV・産機・DC向け採用が加速、基板勢の淘汰も進む。",
-        "investment_implications": "大口径化で先行するInfineonに優位、基板専業は価格下落リスクに注意。"
+        "short_term": "AIデータセンター電源向けGaN/SiC採用発表が相次ぎ、受注期待が高まる",
+        "mid_term": "300mm SiC移行でコスト低下が進み、中小・後発メーカーとの格差が拡大",
+        "investment_implications": "300mm化とトレンチ技術を持つ大手IDMを優位と評価"
       },
       "keywords": [
-        "SiC",
         "GaN",
-        "300mmウエハー",
-        "HEMT",
-        "AR導波路",
-        "量子コンピューティング"
+        "SiC",
+        "300mm SiC",
+        "トレンチMOSFET",
+        "AIデータセンター電源",
+        "EVインバーター"
       ],
       "companies_mentioned": [
         "Infineon",
         "Wolfspeed",
-        "Diodes"
+        "onsemi",
+        "Nexperia",
+        "ローム",
+        "三菱電機"
       ]
     },
     {
-      "name": "AIメモリ超好況",
+      "name": "WBG周辺部品の需要拡大",
+      "confidence": 0.75,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "analog",
+        "automotive"
+      ],
+      "summary": "WBGの性能を引き出すうえでゲートドライバが主要なボトルネックになっている。Diodesの絶縁ゲートドライバや車載センサーなど、周辺アナログ部品にも需要が波及している。",
+      "analysis": {
+        "short_term": "WBG対応の絶縁ゲートドライバの新製品投入が続く",
+        "mid_term": "パワーデバイスとドライバの協調設計が差別化の要因になる",
+        "investment_implications": "WBG対応ドライバを持つアナログ企業に二次的な恩恵"
+      },
+      "keywords": [
+        "ゲートドライバ",
+        "絶縁",
+        "ホールセンサー",
+        "IntelliFET"
+      ],
+      "companies_mentioned": [
+        "Diodes",
+        "Silanna"
+      ]
+    },
+    {
+      "name": "AIメモリ超好況と株価乖離",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
-        "datacenter",
-        "automotive"
+        "datacenter"
       ],
-      "summary": "2026年Q3のDRAM売上高は前年比369%増の約2000億ドルに迫りSamsungが首位。HBMに加えLPDDR6がフィジカルAI向けにも需要拡大。",
+      "summary": "2026年Q3のDRAM売上高は前年同期比369%増の約2000億ドルに迫った。一方、キオクシアは好決算でも株価が急落し、市況のピークを警戒する見方が強まっている。",
       "analysis": {
-        "short_term": "需給逼迫と価格上昇が続き、メモリ各社の記録的業績が継続。",
-        "mid_term": "増産投資で2027年後半に供給過剰化リスク、エッジ向けLPDDR6は成長継続。",
-        "investment_implications": "メモリ大手は強気継続も、ピークアウト兆候と設備投資動向を注視すべき。"
+        "short_term": "需給逼迫は続くが、株価はピークアウト懸念で変動が大きい",
+        "mid_term": "AI投資の持続性が鍵。増産投資による供給過剰リスクの監視が必要",
+        "investment_implications": "業績は強いが、高値圏ではポジションを分散しボラティリティに備える"
       },
       "keywords": [
         "DRAM",
+        "NAND",
         "HBM",
-        "LPDDR6",
-        "フィジカルAI",
-        "メモリ価格"
+        "メモリ不足",
+        "サイクル"
       ],
       "companies_mentioned": [
-        "Samsung"
+        "Samsung",
+        "キオクシア"
       ]
     },
     {
-      "name": "先端パッケージ検査・テスト高度化",
-      "confidence": 0.82,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "equipment",
-        "ai",
-        "miniaturization"
-      ],
-      "summary": "ハイブリッドボンディング微細化、FOPLP、CPO/シリコンフォトニクス量産化に伴い、検査・計測・テストが限界に直面。予測モデルやSSN over PCIeで効率化が進む。",
-      "analysis": {
-        "short_term": "AIチップのテスト工程増加でテスタ・検査装置需要が堅調に推移。",
-        "mid_term": "ハイブリッドボンディング・CPOの量産で新型検査装置とデータ解析市場が拡大。",
-        "investment_implications": "検査・計測装置、テスト解析ソフト、光インターコネクト関連に中長期の妙味。"
-      },
-      "keywords": [
-        "ハイブリッドボンディング",
-        "FOPLP",
-        "CPO",
-        "シリコンフォトニクス",
-        "SSN",
-        "歩留まり予測"
-      ],
-      "companies_mentioned": [
-        "Siemens EDA",
-        "Semiconductor Engineering"
-      ]
-    },
-    {
-      "name": "材料・装置業界の再編と回復",
+      "name": "先端パッケージとテストの複雑化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "equipment",
-        "frontend",
-        "geopolitics",
-        "wafer"
+        "backend",
+        "ai",
+        "equipment"
       ],
-      "summary": "三井化学による1.8兆円のJSR買収、ニコン露光装置の黒字回復、米国製造回帰による装置商機、旭化成のAI活用材料開発など、上流サプライチェーンが再編・強化。",
+      "summary": "UCIeによるマルチダイ設計やFOPLPの量産立ち上げが進んでいる。一方、AIチップのテストは工程増加とデータの断片化で開発ペースに追いつけず、データ活用型のテストが必須になりつつある。",
       "analysis": {
-        "short_term": "JSR買収を契機に国内材料メーカーの再編思惑が高まる。",
-        "mid_term": "米国新工場向け装置・材料需要が本格化し、日本勢の受注拡大が期待。",
-        "investment_implications": "再編で規模を得る材料大手と米国回帰の恩恵を受ける装置株に注目。"
+        "short_term": "FOPLPの立ち上げに向けた歩留まり予測ツールの採用が進む",
+        "mid_term": "チップレット標準化とテスト工数の増加で後工程装置の需要が拡大",
+        "investment_implications": "テスト、検査、パッケージ装置、EDA関連銘柄に追い風"
       },
       "keywords": [
-        "M&A",
-        "フォトレジスト",
-        "露光装置",
-        "リショアリング",
-        "感光性絶縁材料"
+        "UCIe",
+        "チップレット",
+        "FOPLP",
+        "AIチップテスト",
+        "予測スクリーニング"
+      ],
+      "companies_mentioned": [
+        "Quadric"
+      ]
+    },
+    {
+      "name": "材料・装置の再編と供給網回帰",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "wafer",
+        "equipment",
+        "geopolitics",
+        "frontend"
+      ],
+      "summary": "三井化学が1.8兆円でJSRを買収し、ウエハー出荷面積は29年まで過去最高を更新する見通し。米国回帰やAIチップの輸出管理技術など、地政学がサプライチェーンを再形成している。",
+      "analysis": {
+        "short_term": "ウエハー出荷が堅調に推移し、材料メーカーの業績を下支え",
+        "mid_term": "材料業界の再編や米国内の装置投資がさらに加速する可能性",
+        "investment_implications": "規模を持つ材料大手と米国生産に関連する装置企業に注目"
+      },
+      "keywords": [
+        "JSR買収",
+        "シリコンウエハー",
+        "米国回帰",
+        "輸出規制",
+        "AIチップ密輸対策"
       ],
       "companies_mentioned": [
         "三井化学",
         "JSR",
-        "ニコン",
-        "旭化成"
+        "SEMI",
+        "Intel",
+        "Alphabet"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "DRAM売上高が前年比369%増の約2000億ドルに迫る",
-      "ロームが通期上方修正、営業利益360%増見込み",
-      "太陽誘電がAI需要で設備投資を2年前倒し",
-      "Infineonが300mm SiCで世界初のフルスケール製造に成功",
-      "ニコン露光装置事業の営業益137%増で黒字回復",
-      "エージェント型AI普及でデータセンターCPU需要が新たに拡大"
+      "DRAM売上高が前年同期比369%増で約2000億ドルに迫る",
+      "ロームが通期予想を上方修正し営業利益360%増を見込む",
+      "シリコンウエハー出荷面積が27〜29年まで過去最高を更新する見通し",
+      "Infineonが300mm SiCでの量産規模製造に世界初で成功",
+      "onsemiの第4世代SiCで比オン抵抗が50%減"
     ],
     "bearish": [
-      "SamsungのApple向けCIS参入報道でソニーのシェア低下リスク",
-      "AIチップのテストが進化に追いつかず品質・コスト負担が増大",
-      "ハイブリッドボンディング微細化で検査が限界、歩留まりリスク",
-      "メモリ超好況による増産で将来的な供給過剰懸念"
+      "キオクシアが好決算にもかかわらず株価急落し、メモリのピーク懸念",
+      "Alphabetの在庫急増など、AI投資における発注から稼働までの資金負担",
+      "AIチップのテストが開発ペースに追いつかず、品質・コストのリスク"
     ],
     "neutral": [
-      "三井化学のJSR買収による材料業界再編の進展",
-      "自工会が車載半導体の「新陳代謝」ガイドラインを整備",
-      "IoTモデムでLTE Cat 1bisと5G RedCapの選択が分かれる",
-      "米国の製造回帰政策で装置メーカーの出展・投資が活発化"
+      "三井化学によるJSR買収で材料業界の再編が進行",
+      "AIチップの位置検証技術など輸出規制への対応技術が登場",
+      "α型酸化ガリウムや2D CFETなど次世代材料の基礎研究が進展"
     ]
   },
-  "source_count": 94
+  "source_count": 91
 }

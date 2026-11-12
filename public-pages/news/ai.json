@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-11-11T10:06:01.353735+09:00",
+  "generated_at": "2026-11-12T11:12:48.790861+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "ST Unveils Unified STM32 MCU Platform",
-    "summary": "STマイクロがSTM32マイコンの統合プラットフォームを発表。安全重視・ミックスドシグナル向けMCUを追加し、エッジAIツールも新規投入・強化した。",
+    "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
+    "summary": "テキサスA&M大が、5G通信と暗号認証でAIチップの稼働位置を検証し密輸・輸出規制違反を防ぐハードウェア手法「5G CATS」を発表。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/st-unveils-unified-stm32-mcu-platform"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "ST Unveils Unified STM32 MCU Platform",
-        "blurb": "STマイクロがSTM32マイコンの統合プラットフォームを発表。安全重視・ミックスドシグナル向けMCUを追加し、エッジAIツールも新規投入・強化した。",
-        "category": "company",
-        "date": "2026-11-11",
+        "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
+        "blurb": "テキサスA&M大が、5G通信と暗号認証でAIチップの稼働位置を検証し密輸・輸出規制違反を防ぐハードウェア手法「5G CATS」を発表。",
+        "category": "tools",
+        "date": "2026-11-12",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/st-unveils-unified-stm32-mcu-platform"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am"
         },
         "field": {
           "primary": "ai",
@@ -35,7 +36,25 @@
         }
       }
     ],
-    "tech": [],
-    "market": []
+    "market": [
+      {
+        "title": "EDS: Panel Discussion: The Evolution of Edge AI",
+        "blurb": "EDSのパネル討論で、エッジAIの進化と性能・電力・メモリ制約、安全性・セキュリティ課題、シリコンからソフトまでの組込みシステム複雑化を専門家が議論。",
+        "category": "business",
+        "date": "2026-11-12",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/eds-panel-discussion-the-evolution-of-edge-ai"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ]
   }
 }

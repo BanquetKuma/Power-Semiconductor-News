@@ -1,32 +1,88 @@
 {
-  "generated_at": "2026-11-05T10:17:19.251772+09:00",
+  "generated_at": "2026-11-12T11:12:48.790067+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "SiC MOSFETs cut switching losses and resistance",
-    "summary": "SemiQが新世代SiC MOSFETを発表。オン抵抗21%減、スイッチング損失11%減を実現。",
+    "title": "PowerUP: Panel Discussion: The Gate Driver Problem – Extracting the Most Out of WBG",
+    "summary": "Power Electronics News主催PowerUPのパネル討論。WBG半導体の性能を最大限引き出す上で最大のボトルネックとなるゲートドライバ設計を議論。",
     "sources": [
       {
-        "name": "edn.com",
-        "url": "https://www.edn.com/sic-mosfets-cut-switching-losses-and-resistance"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/powerup-panel-discussion-the-gate-driver-problem-extracting-the-most-out-of-wbg"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [],
-    "market": [
+    "news": [
       {
-        "title": "SiC MOSFETs cut switching losses and resistance",
-        "blurb": "SemiQが新世代SiC MOSFETを発表。オン抵抗21%減、スイッチング損失11%減を実現。",
-        "category": "business",
-        "date": "2026-11-05",
+        "title": "PowerUP: Enabling a Paradigm Shift in How the World Creates, Stores, Converts and Uses Energy",
+        "blurb": "Wolfspeed CTOのアダム・バークリー博士がPowerUPで基調講演。SiCデバイスによるエネルギーの創出・蓄積・変換・利用のパラダイムシフトを語る。",
+        "category": "company",
+        "date": "2026-11-12",
         "stars": 3,
         "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/sic-mosfets-cut-switching-losses-and-resistance"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/powerup-enabling-a-paradigm-shift-in-how-the-world-creates-stores-converts-and-uses-energy"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "tech": [
+      {
+        "title": "PowerUP: Panel Discussion: The Gate Driver Problem – Extracting the Most Out of WBG",
+        "blurb": "Power Electronics News主催PowerUPのパネル討論。WBG半導体の性能を最大限引き出す上で最大のボトルネックとなるゲートドライバ設計を議論。",
+        "category": "tools",
+        "date": "2026-11-12",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/powerup-panel-discussion-the-gate-driver-problem-extracting-the-most-out-of-wbg"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      }
+    ],
+    "market": [
+      {
+        "title": "PowerUp: GaN at the Tipping Point: Why Gallium Nitride is the Semiconductor of the AI era",
+        "blurb": "インフィニオンのGaN事業責任者が基調講演で、窒化ガリウム（GaN）が普及期に入り、AIデータセンター等を支えるAI時代の半導体だと解説。",
+        "category": "business",
+        "date": "2026-11-12",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/powerup-gan-at-the-tipping-point-why-gallium-nitride-is-the-semiconductor-of-the-ai-era"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "α型酸化ガリウム薄膜の基本物性を初めて実測　北大ら",
+        "blurb": "北大と京大の研究グループが、α型酸化ガリウム薄膜の電子有効質量と熱伝導率を初めて実測。計算推定だった基本物性が明らかになり、パワー半導体開発を後押しする。",
+        "category": "business",
+        "date": "2026-11-12",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/12/news023.html"
         },
         "field": {
           "primary": "power",
