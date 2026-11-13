@@ -1,32 +1,31 @@
 {
-  "generated_at": "2026-11-12T11:12:48.791735+09:00",
+  "generated_at": "2026-11-13T10:46:42.109043+09:00",
   "field": "industrial",
   "field_label": "産業機器",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "EDS: Panel Discussion: Future Directions in Embedded Systems - Challenges and Opportunities",
-    "summary": "EDSのパネル討論で、組込みハードのアプリ特化化を議論。EV、産業自動化、ウェアラブル、スマートグリッドにおけるセキュリティや省電力の課題を扱う。",
+    "title": "ST Adds SoftSIM, Remote Provisioning to IoT Module",
+    "summary": "STマイクロがIoTモジュールST87M01にSoftSIMとリモートプロビジョニング機能を追加。産業IoT向けにZephyr RTOS統合も実現。",
     "sources": [
       {
         "name": "embedded.com",
-        "url": "https://www.embedded.com/eds-panel-discussion-future-directions-in-embedded-systems-challenges-and-opportunities"
+        "url": "https://www.embedded.com/st-adds-softsim-remote-provisioning-to-iot-module"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "EDS: Panel Discussion: Future Directions in Embedded Systems - Challenges and Opportunities",
-        "blurb": "EDSのパネル討論で、組込みハードのアプリ特化化を議論。EV、産業自動化、ウェアラブル、スマートグリッドにおけるセキュリティや省電力の課題を扱う。",
-        "category": "business",
-        "date": "2026-11-12",
+        "title": "ST Adds SoftSIM, Remote Provisioning to IoT Module",
+        "blurb": "STマイクロがIoTモジュールST87M01にSoftSIMとリモートプロビジョニング機能を追加。産業IoT向けにZephyr RTOS統合も実現。",
+        "category": "tools",
+        "date": "2026-11-13",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/eds-panel-discussion-future-directions-in-embedded-systems-challenges-and-opportunities"
+          "url": "https://www.embedded.com/st-adds-softsim-remote-provisioning-to-iot-module"
         },
         "field": {
           "primary": "industrial",
@@ -36,6 +35,7 @@
           "industry": null
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

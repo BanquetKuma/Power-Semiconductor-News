@@ -1,67 +1,32 @@
 {
-  "generated_at": "2026-11-12T11:12:48.792441+09:00",
+  "generated_at": "2026-11-13T10:46:42.109362+09:00",
   "field": "general",
   "field_label": "半導体全般",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Embedded ECC Protects AI Weights Against Bit-Flip Attacks (University of Florida)",
-    "summary": "フロリダ大学が、AIモデルの重みにECCパリティを埋め込みビット反転攻撃から保護する手法「SANAI」を発表。追加記憶容量ゼロで重要な重みを守る。",
+    "title": "The Semiconductor Singularity",
+    "summary": "Semiconductor Engineeringの記事。AIを活用してIC（集積回路）のイノベーションを加速させる「半導体シンギュラリティ」について論じている。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/embedded-ecc-protects-ai-weights-against-bit-flip-attacks-university-of-florida"
+        "url": "https://semiengineering.com/the-semiconductor-singularity"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [
+    "tech": [],
+    "market": [
       {
-        "title": "Embedded ECC Protects AI Weights Against Bit-Flip Attacks (University of Florida)",
-        "blurb": "フロリダ大学が、AIモデルの重みにECCパリティを埋め込みビット反転攻撃から保護する手法「SANAI」を発表。追加記憶容量ゼロで重要な重みを守る。",
-        "category": "tools",
-        "date": "2026-11-12",
+        "title": "The Semiconductor Singularity",
+        "blurb": "Semiconductor Engineeringの記事。AIを活用してIC（集積回路）のイノベーションを加速させる「半導体シンギュラリティ」について論じている。",
+        "category": "business",
+        "date": "2026-11-13",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/embedded-ecc-protects-ai-weights-against-bit-flip-attacks-university-of-florida"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Optimized E-Beam Evaporation Reduces Metal-Semiconductor Contact Degradation (RWTH Aachen)",
-        "blurb": "独アーヘン工科大が、金属蒸着時の荷電粒子衝撃を抑える最適化電子ビーム蒸着装置を発表し、金属-半導体接合の劣化低減を示した。",
-        "category": "tools",
-        "date": "2026-11-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/optimized-e-beam-evaporation-reduces-metal-semiconductor-contact-degradation-rwth-aachen"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "EDS: From Silicon to Systems: Enabling the Next Era of Model-Based Electronics Design",
-        "blurb": "電子システムの複雑化でシリコン中心設計が限界に。ハード・ソフト・ライフサイクルを統合するモデルベース設計への移行をEDS講演で解説。",
-        "category": "tools",
-        "date": "2026-11-12",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/eds-from-silicon-to-systems-enabling-the-next-era-of-model-based-electronics-design"
+          "url": "https://semiengineering.com/the-semiconductor-singularity"
         },
         "field": {
           "primary": "general",
@@ -71,7 +36,6 @@
           "industry": null
         }
       }
-    ],
-    "market": []
+    ]
   }
 }
