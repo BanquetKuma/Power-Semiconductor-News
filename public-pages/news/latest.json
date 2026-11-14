@@ -1,60 +1,152 @@
 {
-  "generated_at": "2026-11-13T10:46:42.107015+09:00",
+  "generated_at": "2026-11-14T10:22:27.079031+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 5,
-    "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-    "summary": "ブルームバーグ報道によると、SpaceXとテスラの1.5兆ドル規模の合併が12月にも発表される可能性があり、史上最大の合併となる見込み。",
+    "stars": 4,
+    "title": "AI需要が材料／部品に波及　NVIDIA創業者CEOが辞任",
+    "summary": "EE Times Japanが10/31～11/13の業界動向を総括。AI需要が材料・部品分野に波及し、NVIDIA創業者CEOの辞任も報じられた。",
     "sources": [
       {
-        "name": "electrek.co",
-        "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report"
+        "name": "itmedia.co.jp",
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "The Semiconductor Singularity",
-        "blurb": "Semiconductor Engineeringの記事。AIを活用してIC（集積回路）のイノベーションを加速させる「半導体シンギュラリティ」について論じている。",
+        "title": "AI需要が材料／部品に波及　NVIDIA創業者CEOが辞任",
+        "blurb": "EE Times Japanが10/31～11/13の業界動向を総括。AI需要が材料・部品分野に波及し、NVIDIA創業者CEOの辞任も報じられた。",
         "category": "business",
-        "date": "2026-11-13",
+        "date": "2026-11-14",
+        "stars": 4,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/14/news011.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+        "blurb": "UCリバーサイドの研究者が、HBM4のロジックプロセス製ベースダイを活用し、メモリコントローラ機能をホストとHBM側に分割配置する手法の論文を発表。",
+        "category": "business",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/the-semiconductor-singularity"
+          "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside"
         },
         "field": {
-          "primary": "general",
-          "device": null,
+          "primary": "memory",
+          "device": "memory",
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "America's 3 Most Popular SUVs Are About To Be Hybrid Or Electric",
-        "blurb": "ホンダCR-Vが2028年モデルからハイブリッド専用に。RAV4、テスラModel Yと並び、米国の人気SUVトップ3がすべてハイブリッドかEVになる見通し。",
+        "title": "Do EVs Wear Tires Faster? Here's What The Studies Show",
+        "blurb": "EVは車重と瞬時のトルクでタイヤ摩耗が早まる傾向があるが、車種やタイヤの種類、運転の仕方も寿命に大きく影響すると研究が示す。",
         "category": "business",
-        "date": "2026-11-13",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/815319/honda-crv-hybrid-toyota-rav4-tesla-model-y"
+          "url": "https://insideevs.com/features/815409/do-evs-wear-tires-quicker"
         },
         "field": null
+      },
+      {
+        "title": "Velotric Discover M mid-drive multi-terrain e-bike new $2,399 low + expanded Aventon sale, EcoFlow power station flash sale, more",
+        "blurb": "Velotric Discover M電動自転車が過去最安の2,399ドルに。Aventonセール拡大やEcoFlow電源の48時間限定セールなどブラックフライデー早期割引情報。",
+        "category": "business",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/13/velotric-discover-m-mid-drive-multi-terrain-e-bike-aventon-ecoflow-power-station"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
       }
     ],
     "tools": [
       {
-        "title": "2DEG密度4.6倍でも高移動度維持　新規GaNヘテロ接合",
-        "blurb": "東京大学と東京理科大学が新規GaNヘテロ接合で2DEGの量子輸送特性を解明。密度4.6倍でも高移動度を維持し、次世代GaNトランジスタの性能向上に期待。",
+        "title": "ST's Unified STM32 MCU Platform, TI Brings Agentic AI to CCStudio, NXP Unified Robotics Platform: Embedded Week Insights",
+        "blurb": "electronica 2026関連の週間まとめ。STが統合STM32 MCU基盤、TIがCCStudioにエージェントAI搭載、NXPが統合ロボティクス基盤を発表。",
         "category": "tools",
-        "date": "2026-11-13",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/sts-unified-stm32-mcu-platform-ti-brings-agentic-ai-to-ccstudio-nxp-unified-robotics-platform-embedded-week-insights"
+        },
+        "field": null
+      },
+      {
+        "title": "Taoglas Launches CRPA Reference Design for Resilient GNSS Systems",
+        "blurb": "Taoglasが市販のGNSSアンテナやフロントエンドモジュール等を組み合わせた、耐妨害性の高いGNSS向けCRPAリファレンスデザインを発表。",
+        "category": "tools",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/taoglas-launches-crpa-reference-design-for-resilient-gnss-systems"
+        },
+        "field": null
+      },
+      {
+        "title": "Rinnai’s new heat pump water heaters get smarter – and easier to install",
+        "blurb": "リンナイが新型ヒートポンプ給湯器を発表。Wi-Fi制御に対応し設置の選択肢も拡大、温水に必要なエネルギーを削減できる。",
+        "category": "tools",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/13/rinnai-new-heat-pump-water-heaters-get-smarter-and-easier-to-install"
+        },
+        "field": null
+      },
+      {
+        "title": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026",
+        "blurb": "ミラノで開催された欧州最大級のバイク見本市EICMA 2026で、注目の電動バイクや新ギアをElectrekが紹介。大手から小規模メーカーまで最新発表が集結。",
+        "category": "tools",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/13/here-are-the-coolest-e-motorcycles-and-gear-we-saw-at-eicma-2026"
+        },
+        "field": null
+      }
+    ],
+    "company": [
+      {
+        "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990",
+        "blurb": "テスラが自動運転車Cybercabの注文を一部顧客向けに29,990ドルで開始。個人利用向けの納車は早ければ来月から始まる見込み。",
+        "category": "company",
+        "date": "2026-11-14",
         "stars": 4,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/13/news034.html"
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced"
+        },
+        "field": null
+      },
+      {
+        "title": "Electronica 2026: Infineon’s Adam White on 800 VDC, Dresden, and 300-mm Wide Bandgap",
+        "blurb": "Infineonのアダム・ホワイト氏がElectronica 2026で800VDC化の進展、DC保護の課題、ドレスデン工場の立ち上げ、300mm GaN/SiCについて語った。",
+        "category": "company",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/electronica-2026-infineons-adam-white-on-800-vdc-dresden-and-300-mm-wide-bandgap"
         },
         "field": {
           "primary": "power",
@@ -65,56 +157,44 @@
         }
       },
       {
-        "title": "ST Adds SoftSIM, Remote Provisioning to IoT Module",
-        "blurb": "STマイクロがIoTモジュールST87M01にSoftSIMとリモートプロビジョニング機能を追加。産業IoT向けにZephyr RTOS統合も実現。",
-        "category": "tools",
-        "date": "2026-11-13",
+        "title": "ST Expands GANSPIN Family with 100V GaN Drivers",
+        "blurb": "STマイクロがGANSPINシリーズに100V GaNモータードライバを追加。高電力密度と高度な保護機能を備え、ロボットや産業機器向けに高効率動作を実現。",
+        "category": "company",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/st-adds-softsim-remote-provisioning-to-iot-module"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-expands-ganspin-family-with-100v-gan-drivers"
         },
         "field": {
-          "primary": "industrial",
-          "device": null,
+          "primary": "power",
+          "device": "power",
           "process": null,
           "market": "industrial",
           "industry": null
         }
       },
       {
-        "title": "TI Brings Agentic AI to CCStudio for Embedded Development",
-        "blurb": "TIが組込み開発環境CCStudioにエージェント型AI機能を追加。MCU、無線接続デバイス、レーダーSoCなど幅広い製品で利用可能に。",
-        "category": "tools",
-        "date": "2026-11-13",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/ti-brings-agentic-ai-to-ccstudio-for-embedded-development"
-        },
-        "field": null
-      },
-      {
-        "title": "NXP Unified Robotics Platform Accelerates Physical AI Deployments",
-        "blurb": "NXPがドローン市場向けに、安全技術を統合したロボティクス基盤を発表。オープンソースSDKと参照設計でセンシング・制御・AI処理を連携し、フィジカルAI導入を加速。",
-        "category": "tools",
-        "date": "2026-11-13",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/nxp-unified-robotics-platform-accelerates-physical-ai-deployments"
-        },
-        "field": null
-      },
-      {
-        "title": "The 2026 Chevy Silverado EV Trail Boss Makes No Sense. I Loved It Anyway",
-        "blurb": "2026年型シボレー・シルバラードEVトレイルボスの試乗レビュー。高価で巨大、非常に重く合理性に欠けるが、運転は楽しく魅力的だと評価。",
-        "category": "tools",
-        "date": "2026-11-13",
+        "title": "The VW ID. Buzz Is Getting A New Job As A Robotaxi",
+        "blurb": "May MobilityがVWのEVミニバンID. Buzzを使ったロボタクシー事業を計画。無人運転車両1万台の導入を目指す。",
+        "category": "company",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/815036/2026-chevy-silverado-ev-trail-boss-review"
+          "url": "https://insideevs.com/news/815293/vw-volkswagen-id-buzz-robotaxi"
+        },
+        "field": null
+      },
+      {
+        "title": "Audi A4 EV Delayed Amid VW Group Financial Troubles: Report",
+        "blurb": "VWグループの財務難を受け、BMW i3やメルセデスCクラスEVの対抗馬として2028年生産開始予定だったアウディA4のEV版が延期される見通しと報じられた。",
+        "category": "company",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/815433/audi-a4-ev-delayed-report"
         },
         "field": {
           "primary": "automotive",
@@ -125,26 +205,14 @@
         }
       },
       {
-        "title": "I Took A Rivian R2 On A Camping Trip To The Middle Of The Desert",
-        "blurb": "InsideEVsの記者がRivianの新型EV「R2」で砂漠のキャンプ旅に出かけ、アドベンチャー向けという同車の触れ込みが本当かを実地で検証したレビュー記事。",
-        "category": "tools",
-        "date": "2026-11-13",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/815287/rivian-r2-adventure-review"
-        },
-        "field": null
-      },
-      {
-        "title": "Lunar’s new home DC fast charger puts your EV battery to work",
-        "blurb": "Lunar Energyが25kWの家庭用DC急速充電器を発表。次世代蓄電池と連携し、停電時にEVから給電、電力網への売電も可能に。",
-        "category": "tools",
-        "date": "2026-11-13",
+        "title": "Volkswagen may have just hinted at the name of its next affordable EV",
+        "blurb": "VWが2027年発売予定の約2万ユーロの廉価EVについて、新たな商標出願が判明し、その車名を示唆している可能性がある。",
+        "category": "company",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/12/lunars-new-home-dc-fast-charger-puts-your-ev-battery-to-work"
+          "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev"
         },
         "field": {
           "primary": "automotive",
@@ -155,82 +223,38 @@
         }
       },
       {
-        "title": "Ride1Up VORSA e-bikes at Black Friday lows, EGO Power+ cordless snow blowers $220 off, Bluetti + EcoFlow power stations, more",
-        "blurb": "Ride1UpのVORSA電動自転車がブラックフライデー最安値の1,345ドルから。EGO除雪機やBluetti・EcoFlow電源もセール中。",
-        "category": "tools",
-        "date": "2026-11-13",
+        "title": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens",
+        "blurb": "BYDが中国で第3世代Tangの予約開始。約3.4万ドルからの5人乗りSUVで、30インチ超の大型画面2枚と最大850km(CLTC)の航続距離を備える。",
+        "category": "company",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/12/ride1up-vorsa-e-bikes-ego-power-cordless-snow-blowers-bluetti-ecoflow-power-stations-more"
+          "url": "https://electrek.co/2026/11/13/byd-opens-tang-ev-orders-two-enormous-screens-for-34000"
         },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      }
-    ],
-    "company": [
+        "field": null
+      },
       {
-        "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-        "blurb": "ブルームバーグ報道によると、SpaceXとテスラの1.5兆ドル規模の合併が12月にも発表される可能性があり、史上最大の合併となる見込み。",
+        "title": "Podcast: Tesla trims are falling like flies, Hyundai 2027 lineup, and BYD’s Rolls-Royce",
+        "blurb": "Electrekポッドキャスト最新回。テスラのグレード廃止が相次ぐ件、ヒョンデ2027年モデルのラインナップ、BYDのロールス・ロイス級高級車を解説。",
         "category": "company",
-        "date": "2026-11-13",
-        "stars": 5,
+        "date": "2026-11-14",
+        "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report"
+          "url": "https://electrek.co/2026/11/13/podcast-tesla-trims-are-falling-like-flies-hyundai-2027-lineup-and-byds-rolls-royce"
         },
         "field": null
       },
       {
-        "title": "Kia is giving the EV5 an update, and leaked images show what’s next",
-        "blurb": "起亜がスポーテージ級の電動SUV「EV5」の改良を計画中。流出画像により変更点が初めて明らかになった。",
+        "title": "Volkswagen is delaying another EV based on the SSP",
+        "blurb": "フォルクスワーゲンは電動ゴルフの開発延期に続き、次世代SSPプラットフォームを採用する別のEVの投入も延期すると報じられた。",
         "category": "company",
-        "date": "2026-11-13",
-        "stars": 4,
+        "date": "2026-11-14",
+        "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/12/kia-giving-ev5-update-leaked-images"
-        },
-        "field": null
-      },
-      {
-        "title": "Slate Is Selling A $30 'Screenless GPS' For Its Low-Tech Truck",
-        "blurb": "スクリーンを持たない低価格EVトラック「Slate Truck」向けに、Slateがブランド入りの紙の地図を30ドルの「画面なしGPS」として販売。スマホでのナビも可能。",
-        "category": "company",
-        "date": "2026-11-13",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/815316/slate-truck-gps-screenless-just-map"
-        },
-        "field": null
-      },
-      {
-        "title": "Scout's New Factory Is Already Making Trucks. But You Won't Be Able To Buy One For A While",
-        "blurb": "Scoutの新工場で検証用トラックの生産が開始。EVとレンジエクステンダー版の市販開始は数年後の見通しで、購入はまだ先となる。",
-        "category": "company",
-        "date": "2026-11-13",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/815309/scout-validation-production-launch"
-        },
-        "field": null
-      },
-      {
-        "title": "BYD's Futuristic EV Charger Can Run On Sunshine And Batteries",
-        "blurb": "BYDが太陽光パネルと蓄電池で稼働するオフグリッドEV充電器を発表。ロボットアームが自動接続し、送電網のない場所でも急速充電を可能にする。",
-        "category": "company",
-        "date": "2026-11-13",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/815299/byd-off-the-grid-charger"
+          "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp"
         },
         "field": {
           "primary": "automotive",
@@ -241,50 +265,26 @@
         }
       },
       {
-        "title": "Solid-State Cells Can Make The U.S. Competitive In Batteries Again: CEO",
-        "blurb": "米Solid PowerのCEOは、全固体電池が米国の電池産業の競争力回復につながると主張。同社は業界大手と提携し実用化を目指している。",
+        "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+        "blurb": "テスラが米国でサイバートラックの販売を最上位Cyberbeastのみに絞り、価格を7,500ドル値上げし109,990ドルに。8月比57%高。",
         "category": "company",
-        "date": "2026-11-13",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/815272/solid-power-solid-state-batteries-us-competitiveness"
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990"
         },
         "field": null
       },
       {
-        "title": "sonnen’s new smart breakers help your home battery last longer",
-        "blurb": "sonnenとSOLRITE Energyが、家庭用蓄電池の持続時間を延ばすスマートブレーカーを導入。停電時や電力需要逼迫時に不要な家電を一時的に遮断する。",
+        "title": "Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all",
+        "blurb": "ヒュンダイはコナの中間改良を見送り、新デザインと先進的な内装を備えた全面刷新モデルを投入予定。EV版も引き続き提供される見通し。",
         "category": "company",
-        "date": "2026-11-13",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/12/sonnens-new-smart-breakers-help-your-home-battery-last-longer"
-        },
-        "field": null
-      },
-      {
-        "title": "BYD wins round one in Defender-copycat battle as JLR is told to destroy documents",
-        "blurb": "BYDとJLRのディフェンダー模倣訴訟で、オランダ裁判所がBYD側の訴えを認め、JLRに押収文書の破棄を命令。違反時は制裁金。",
-        "category": "company",
-        "date": "2026-11-13",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/12/byd-wins-round-one-defender-copycat-battle-jlr-told-to-destroy-documents"
-        },
-        "field": null
-      },
-      {
-        "title": "BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000",
-        "blurb": "BYDが中国で5人乗り高級SUV「Denza N8 EV」を発売。CLTC航続1000km超、大型画面搭載の先進的な内装で、価格は約4万ドルから。",
-        "category": "company",
-        "date": "2026-11-13",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/12/byds-new-luxury-suv-brings-big-screens-big-range-starts-at-40000"
+          "url": "https://electrek.co/2026/11/13/hyundai-overhauling-kona-ev"
         },
         "field": {
           "primary": "automotive",
@@ -295,14 +295,26 @@
         }
       },
       {
-        "title": "Volkswagen’s new electric SUV is taking over where the ID.4 left off",
-        "blurb": "VWが人気車名を冠した新型電動SUV「ID. Tiguan」の生産を開始。2027年にID.4の後継として置き換える予定。",
+        "title": "Meta to deploy 25 electric semi trucks across I-10 corridor, but has nothing to ship",
+        "blurb": "電動トラック事業者NevoyaがMetaとの契約を拡大し、I-10沿いのサンバーナーディーノ〜フェニックス間に大型EVトラック25台を配備。ただしMeta製品の輸送はない。",
         "category": "company",
-        "date": "2026-11-13",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/12/volkswagens-new-electric-suv-taking-over-where-id-4-left-off"
+          "url": "https://electrek.co/2026/11/13/meta-to-deploy-25-electric-semi-trucks-across-i-10-corridor-but-has-nothing-to-ship"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more",
+        "blurb": "テスラが米国で41,990ドルのModel Y AWDを販売終了。最安の四輪駆動はPremium AWDの49,990ドルとなり8,000ドル値上げ。発売から約9カ月で告知なく廃止。",
+        "category": "company",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/13/tesla-kills-41990-model-y-awd-configurator"
         },
         "field": null
       }

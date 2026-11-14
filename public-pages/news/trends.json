@@ -1,174 +1,169 @@
 {
-  "generated_at": "2026-11-13T10:47:04.028759+09:00",
-  "date": "2026-11-13",
+  "generated_at": "2026-11-14T10:22:47.869542+09:00",
+  "date": "2026-11-14",
   "meta_trends": [
     {
-      "name": "SiC大口径化と世代交代",
-      "confidence": 0.9,
+      "name": "300mm SiC量産化の進展",
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "power",
-        "automotive",
         "wafer",
         "idm",
-        "industrial"
+        "automotive"
       ],
-      "summary": "Infineonが300mm SiCで動作デバイス製造に成功し、チップ数は約2.3倍。onsemiはトレンチ構造の第4世代M4で比オン抵抗を50%削減。コスト低減と性能向上が同時に進展。",
+      "summary": "Infineonが300mm SiCウエハーを初公開し、チップ取れ数は約2.3倍となる。onsemiもトレンチ型M4を投入し、SiCのコスト低減と性能競争が加速している。",
       "analysis": {
-        "short_term": "electronica発表を受け、主要IDMの技術優位性が再評価されやすい局面",
-        "mid_term": "300mm移行でSiC単価が低下し、EVや産業向けの採用拡大が見込まれる",
-        "investment_implications": "300mm量産力を持つIDMが優位。150/200mm依存の専業は価格圧力に注意"
+        "short_term": "electronica発表を受けて300mm SiC関連の評価が先行。量産寄与はまだ限定的",
+        "mid_term": "300mm移行でコスト優位が拡大。中国勢との価格競争下で統合型IDMが有利に",
+        "investment_implications": "300mm SiCで先行するIDMと大口径対応の装置・基板企業に注目"
       },
       "keywords": [
-        "SiC",
-        "300mm",
+        "300mm SiC",
         "トレンチMOSFET",
         "EliteSiC M4",
+        "ドレスデン",
         "EVインバーター"
       ],
       "companies_mentioned": [
         "Infineon",
-        "onsemi",
-        "Wolfspeed",
-        "Nexperia"
+        "onsemi"
       ]
     },
     {
-      "name": "GaNのAI電源普及期入り",
-      "confidence": 0.8,
+      "name": "AIデータセンター800VDC化",
+      "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "power",
         "datacenter",
-        "ai",
-        "industrial"
+        "ai"
       ],
-      "summary": "InfineonはGaNを「AI時代の半導体」と位置付け、Nexperiaも新GaN FETを投入。三菱電機や東大らの研究も進展し、データセンター電源での普及が転換点を迎えつつある。",
+      "summary": "AIデータセンターの800VDC給電に向け、onsemiが縦型GaNで800V→6Vを直接変換する20kW級試作機を示した。InfineonはGaNをAI時代の半導体と位置付けている。",
       "analysis": {
-        "short_term": "AIサーバー電源向けにGaN製品の発表・採用事例が増加する見込み",
-        "mid_term": "ゲートドライバ技術の成熟とともに高電圧領域へ用途が拡大",
-        "investment_implications": "GaNとゲートドライバを一体で提供できる企業に注目"
+        "short_term": "800VDC対応の試作・発表が相次ぐ。DC保護やゲートドライバ設計が課題",
+        "mid_term": "ハイパースケーラーの採用でGaN/SiC電源の需要が本格化",
+        "investment_implications": "DC電源向けGaN/SiCとゲートドライバ・保護部品のサプライヤーに好機"
       },
       "keywords": [
-        "GaN",
-        "AIデータセンター",
+        "800VDC",
+        "縦型GaN",
+        "中間バスコンバーター",
         "ゲートドライバ",
-        "WBG",
-        "2DEG"
+        "DC保護"
       ],
       "companies_mentioned": [
         "Infineon",
-        "Nexperia",
-        "三菱電機"
+        "onsemi",
+        "STMicroelectronics"
       ]
     },
     {
-      "name": "AI推論がメモリ需給を逼迫",
-      "confidence": 0.88,
+      "name": "AI推論のメモリの壁再定義",
+      "confidence": 0.82,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
-        "datacenter"
+        "datacenter",
+        "logic"
       ],
-      "summary": "2026年Q3のDRAM売上高は前年比369%増の約2000億ドルに達し、Samsungが首位。長文脈処理やエージェント型AIがメモリの壁を再定義し、ニアメモリ処理やFP8の採用が進む。",
+      "summary": "長文脈化、AIエージェント、フィジカルAIの普及でメモリ負荷の所在が変化している。HBM4ベースダイへのコントローラ機能分割、ニアメモリ処理、FP8採用が進む。",
       "analysis": {
-        "short_term": "供給不足で価格高止まり。ただしキオクシア急落のように株価のボラティリティは高い",
-        "mid_term": "推論需要の拡大によりDRAM・NANDの高水準需要が継続する可能性",
-        "investment_implications": "業績の強さは明確だが、ピークアウト懸念による株価変動を前提に選別投資"
+        "short_term": "メモリ不足が続き、HBMとNANDの需給は逼迫基調",
+        "mid_term": "HBM4のロジックベースダイ化で、ファウンドリとメモリの協業が拡大",
+        "investment_implications": "株価調整中のキオクシアなどメモリ株は、実需との乖離が押し目買いの機会となり得る"
       },
       "keywords": [
-        "DRAM",
-        "NAND",
-        "HBM",
+        "HBM4",
+        "ニアメモリ処理",
         "メモリの壁",
         "FP8",
-        "ニアメモリ処理"
+        "フィジカルAI"
       ],
       "companies_mentioned": [
-        "Samsung",
         "キオクシア"
       ]
     },
     {
-      "name": "半導体材料の再編と後工程好調",
-      "confidence": 0.82,
+      "name": "後工程材料・基板の需要拡大",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "wafer",
-        "equipment",
-        "frontend"
+        "ai"
       ],
-      "summary": "三井化学が約1.84兆円でJSRを買収。レゾナックは後工程材料が牽引し純利益が大幅増。SEMIはウエハー出荷面積が2027〜29年も過去最高を更新すると予測。",
+      "summary": "レゾナックは後工程材料が好調で純利益が約15倍に拡大した。三菱ガス化学はFC-BGA向けBT材料をタイで増産し、SEMIはウエハー出荷面積が27～29年に過去最高を更新すると予測する。",
       "analysis": {
-        "short_term": "再編に伴う統合期待と、先端パッケージ材料の需要が好調",
-        "mid_term": "日本の材料大手の寡占化が進み、価格交渉力が向上する見込み",
-        "investment_implications": "後工程材料とウエハーは構造的成長領域。日本の材料株を選好"
+        "short_term": "AIパッケージ向け材料の好決算が継続する見込み",
+        "mid_term": "2028年以降の能力増強で供給制約は緩和へ。数量の伸びは持続",
+        "investment_implications": "レゾナックや三菱ガス化学など日系材料メーカーは構造的な受益者"
       },
       "keywords": [
-        "半導体材料",
-        "M&A",
-        "後工程",
-        "先端パッケージ",
-        "シリコンウエハー"
+        "FC-BGA",
+        "BT積層材料",
+        "後工程材料",
+        "シリコンウエハー",
+        "SEMI"
       ],
       "companies_mentioned": [
-        "三井化学",
-        "JSR",
         "レゾナック",
+        "三菱ガス化学",
         "SEMI"
       ]
     },
     {
-      "name": "AIによる設計革新と電力の壁",
-      "confidence": 0.72,
-      "momentum": "rising",
+      "name": "AI投資の資金負担と時間差",
+      "confidence": 0.65,
+      "momentum": "stable",
       "related_fields": [
-        "ai",
         "logic",
-        "fabless",
-        "automotive"
+        "ai",
+        "datacenter"
       ],
-      "summary": "AIがAI半導体の設計を加速する「シンギュラリティ」論、エッジAIのニアスレッショルド設計、基盤IP統合、RISC-VのAI適性をめぐる議論が並行して進展。車載コックピット向けエッジAIも拡大。",
+      "summary": "GoogleのAIハード事業拡大でAlphabetの在庫が急増した。発注から稼働までの時間差と資金負担が、AI投資の隠れたリスクとして顕在化している。",
       "analysis": {
-        "short_term": "EDA・IPベンダーによるAI活用設計ツールの訴求が強まる",
-        "mid_term": "低電力の基盤IPとエッジAI SoCの需要が車載・フィジカルAIで拡大",
-        "investment_implications": "EDA・IP企業は安定成長。RISC-VのAI用途は選別的に評価"
+        "short_term": "在庫や運転資本の増加が決算上の懸念材料として意識される",
+        "mid_term": "稼働が遅れれば発注平準化や調整局面のリスク",
+        "investment_implications": "AI関連は受注と稼働の進捗を確認し、選別投資を推奨"
       },
       "keywords": [
-        "EDA",
-        "基盤IP",
-        "ニアスレッショルド",
-        "RISC-V",
-        "エッジAI",
-        "スマートコックピット"
+        "AI投資",
+        "在庫",
+        "リードタイム",
+        "TPU",
+        "設備稼働"
       ],
       "companies_mentioned": [
-        "ELAN",
-        "Oasistek",
-        "Diodes"
+        "Google",
+        "Alphabet",
+        "Intel",
+        "Nvidia"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "DRAM売上高が前年比369%増の約2000億ドルに到達",
-      "Infineonが300mm SiCで量産工場として世界初の製造に成功",
-      "シリコンウエハー出荷面積が2027〜29年も過去最高を更新する見通し",
-      "レゾナックの純利益が後工程材料の好調で1468%増",
-      "GaNがAIデータセンター電源で普及期入り"
+      "Infineonの300mm SiCウエハー公開によるSiCコスト低減期待",
+      "onsemi EliteSiC M4の比オン抵抗50%減",
+      "800VDC化によるデータセンター向けGaN/SiC需要拡大",
+      "レゾナック純利益1468%増など後工程材料の好調",
+      "シリコンウエハー出荷面積が27～29年に過去最高更新見通し",
+      "EVが2035年に世界販売の55%に達する予測"
     ],
     "bearish": [
-      "キオクシアは好決算でも株価が急落し、メモリのピーク懸念が浮上",
-      "AI設備投資における発注から稼働までの時間差と資金負担という隠れたコスト",
-      "Alphabetの在庫急増による投資効率への懸念"
+      "Alphabetの在庫急増に見るAI投資の資金負担と稼働遅延リスク",
+      "キオクシアの好決算後の株価急落",
+      "Nvidiaのセキュリティ・監督問題",
+      "300mm化によるSiC価格下落圧力"
     ],
     "neutral": [
-      "三井化学によるJSR買収は統合リスクと規模メリットが拮抗",
-      "RISC-VのAIコア適性については専門家の評価が分かれる",
-      "α型酸化ガリウムなど次世代材料はまだ研究段階"
+      "AIによるチップ設計加速（半導体シンギュラリティ）の議論",
+      "チップレット標準化とIP統合課題の進展",
+      "酸化ガリウムやGaNヘテロ接合など次世代材料の基礎研究成果",
+      "SiemensのLauterbach買収によるEDA再編"
     ]
   },
-  "source_count": 91
+  "source_count": 83
 }

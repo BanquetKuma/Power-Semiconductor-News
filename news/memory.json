@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-11-11T10:06:01.353473+09:00",
+  "generated_at": "2026-11-14T10:22:27.080588+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
-    "summary": "BYDが自動で接続するロボットアーム充電器を公開。5分で充電可能なフラッシュ充電技術に太陽光発電を統合し、動画で実演。",
+    "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+    "summary": "UCリバーサイドの研究者が、HBM4のロジックプロセス製ベースダイを活用し、メモリコントローラ機能をホストとHBM側に分割配置する手法の論文を発表。",
     "sources": [
       {
-        "name": "electrek.co",
-        "url": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [],
+    "market": [
       {
-        "title": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
-        "blurb": "BYDが自動で接続するロボットアーム充電器を公開。5分で充電可能なフラッシュ充電技術に太陽光発電を統合し、動画で実演。",
-        "category": "company",
-        "date": "2026-11-11",
+        "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+        "blurb": "UCリバーサイドの研究者が、HBM4のロジックプロセス製ベースダイを活用し、メモリコントローラ機能をホストとHBM側に分割配置する手法の論文を発表。",
+        "category": "business",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside"
+        },
+        "field": {
+          "primary": "memory",
+          "device": "memory",
+          "process": null,
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Velotric Discover M mid-drive multi-terrain e-bike new $2,399 low + expanded Aventon sale, EcoFlow power station flash sale, more",
+        "blurb": "Velotric Discover M電動自転車が過去最安の2,399ドルに。Aventonセール拡大やEcoFlow電源の48時間限定セールなどブラックフライデー早期割引情報。",
+        "category": "business",
+        "date": "2026-11-14",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video"
+          "url": "https://electrek.co/2026/11/13/velotric-discover-m-mid-drive-multi-terrain-e-bike-aventon-ecoflow-power-station"
         },
         "field": {
           "primary": "memory",
@@ -34,8 +54,6 @@
           "industry": null
         }
       }
-    ],
-    "tech": [],
-    "market": []
+    ]
   }
 }

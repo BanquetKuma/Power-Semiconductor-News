@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-11-13T10:46:42.108194+09:00",
+  "generated_at": "2026-11-14T10:22:27.080236+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
-    "stars": 4,
-    "title": "2DEG密度4.6倍でも高移動度維持　新規GaNヘテロ接合",
-    "summary": "東京大学と東京理科大学が新規GaNヘテロ接合で2DEGの量子輸送特性を解明。密度4.6倍でも高移動度を維持し、次世代GaNトランジスタの性能向上に期待。",
+    "stars": 3,
+    "title": "Electronica 2026: Infineon’s Adam White on 800 VDC, Dresden, and 300-mm Wide Bandgap",
+    "summary": "Infineonのアダム・ホワイト氏がElectronica 2026で800VDC化の進展、DC保護の課題、ドレスデン工場の立ち上げ、300mm GaN/SiCについて語った。",
     "sources": [
       {
-        "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/13/news034.html"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/electronica-2026-infineons-adam-white-on-800-vdc-dresden-and-300-mm-wide-bandgap"
       }
     ]
   },
   "sections": {
-    "news": [],
-    "tech": [
+    "news": [
       {
-        "title": "2DEG密度4.6倍でも高移動度維持　新規GaNヘテロ接合",
-        "blurb": "東京大学と東京理科大学が新規GaNヘテロ接合で2DEGの量子輸送特性を解明。密度4.6倍でも高移動度を維持し、次世代GaNトランジスタの性能向上に期待。",
-        "category": "tools",
-        "date": "2026-11-13",
-        "stars": 4,
+        "title": "Electronica 2026: Infineon’s Adam White on 800 VDC, Dresden, and 300-mm Wide Bandgap",
+        "blurb": "Infineonのアダム・ホワイト氏がElectronica 2026で800VDC化の進展、DC保護の課題、ドレスデン工場の立ち上げ、300mm GaN/SiCについて語った。",
+        "category": "company",
+        "date": "2026-11-14",
+        "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/13/news034.html"
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/electronica-2026-infineons-adam-white-on-800-vdc-dresden-and-300-mm-wide-bandgap"
         },
         "field": {
           "primary": "power",
@@ -34,8 +33,27 @@
           "market": null,
           "industry": null
         }
+      },
+      {
+        "title": "ST Expands GANSPIN Family with 100V GaN Drivers",
+        "blurb": "STマイクロがGANSPINシリーズに100V GaNモータードライバを追加。高電力密度と高度な保護機能を備え、ロボットや産業機器向けに高効率動作を実現。",
+        "category": "company",
+        "date": "2026-11-14",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/st-expands-ganspin-family-with-100v-gan-drivers"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "industrial",
+          "industry": null
+        }
       }
     ],
+    "tech": [],
     "market": []
   }
 }
