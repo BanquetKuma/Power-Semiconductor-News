@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T09:50:11.568461+09:00",
-  "date": "2026-11-15",
+  "generated_at": "2026-11-16T09:51:06.637421+09:00",
+  "date": "2026-11-16",
   "meta_trends": [
     {
-      "name": "300mm SiC量産化とコスト革新",
+      "name": "300mm SiC量産化競争",
       "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
@@ -12,18 +12,18 @@
         "idm",
         "automotive"
       ],
-      "summary": "Infineonが300mm SiCウエハーを初公開し、チップ数は約2.3倍に。onsemiもトレンチ型M4で比オン抵抗50%減を実現し、SiCのコスト・性能競争が新局面に入った。",
+      "summary": "Infineonが300mm SiCウエハーの実物を初公開し、量産化を前進させた。ウエハー当たりのチップ数は約2.3倍となる。onsemiはトレンチ構造の第4世代品M4で比オン抵抗を50%削減し、コストと性能の両面で競争が激化している。",
       "analysis": {
-        "short_term": "electronica発表を受け、300mm移行の工程歩留まりや量産時期への関心が高まる",
-        "mid_term": "300mm化でSiC単価が下落し、EV・産業用途の採用拡大と価格競争が同時進行",
-        "investment_implications": "300mm先行のIDMが優位。150/200mm専業ウエハー業者は価格圧力に注意"
+        "short_term": "electronica発表を受け、SiC大口径化の期待が先行する",
+        "mid_term": "ドレスデン工場の立ち上げ進捗がコスト優位と価格競争の鍵になる",
+        "investment_implications": "300mmで先行するIDMが優位。150/200mm依存の専業は価格圧力に注意"
       },
       "keywords": [
         "300mm SiC",
         "トレンチMOSFET",
         "EliteSiC M4",
-        "ドレスデン",
-        "EVインバーター"
+        "EVインバーター",
+        "ドレスデン"
       ],
       "companies_mentioned": [
         "Infineon",
@@ -31,139 +31,141 @@
       ]
     },
     {
-      "name": "AIデータセンター800VDC給電",
-      "confidence": 0.85,
+      "name": "AIデータセンター800VDC給電とGaN",
+      "confidence": 0.82,
       "momentum": "rising",
       "related_fields": [
         "power",
         "datacenter",
         "ai"
       ],
-      "summary": "AIサーバーの電力増大を背景に800VDC給電への移行が加速。縦型GaNによる800V→6Vの直接変換やDC保護技術が焦点となり、WBGデバイスの新市場が形成されつつある。",
+      "summary": "AIデータセンターで800VDC給電への移行が進んでいる。onsemiは1200V縦型GaNで800Vから6Vへ直接変換する20kW級コンバーターを展示した。InfineonはGaNを「AI時代の半導体」と位置付け、普及期入りを訴えている。",
       "analysis": {
-        "short_term": "800VDC対応の試作・デモが相次ぎ、ハイパースケーラーとの協業発表が続く見通し",
-        "mid_term": "2027年以降の次世代ラック導入に合わせ、GaN/SiC電源の量産採用が本格化",
-        "investment_implications": "DC電源向けGaN・SiCとゲートドライバ、保護デバイス供給企業に追い風"
+        "short_term": "試作・デモが中心で、DC保護やゲートドライバ設計が課題",
+        "mid_term": "ハイパースケーラーの800VDC採用拡大でGaN/SiC需要が本格化",
+        "investment_implications": "DC電源向けWBGデバイスとゲートドライバのサプライヤーに妙味"
       },
       "keywords": [
         "800VDC",
         "縦型GaN",
         "中間バスコンバーター",
-        "DC保護",
-        "AIデータセンター"
-      ],
-      "companies_mentioned": [
-        "Infineon",
-        "onsemi"
-      ]
-    },
-    {
-      "name": "GaNの普及期入りと用途拡大",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "power",
-        "industrial",
-        "datacenter"
-      ],
-      "summary": "GaNはAIデータセンター、ロボット用モーター駆動等へ用途を拡大。100V GaNドライバや1200V縦型GaNが登場し、ゲートドライバ・パッシベーション等の周辺技術課題の解決が進む。",
-      "analysis": {
-        "short_term": "STなどの新製品投入で産業・ロボット分野のデザインイン案件が増加",
-        "mid_term": "高耐圧縦型GaNがSiC領域と一部競合し、300mm GaNでのコスト低減も進展",
-        "investment_implications": "GaN統合ソリューションを持つIDMとドライバIC企業の評価余地が拡大"
-      },
-      "keywords": [
-        "GaN",
-        "GANSPIN",
         "ゲートドライバ",
-        "縦型GaN",
-        "ロボット"
+        "DC保護"
       ],
       "companies_mentioned": [
         "Infineon",
-        "STMicroelectronics",
-        "onsemi"
+        "onsemi",
+        "STMicroelectronics"
       ]
     },
     {
-      "name": "AI推論が再定義するメモリの壁",
-      "confidence": 0.82,
+      "name": "AI推論のメモリウォール再定義",
+      "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "memory",
         "ai",
-        "logic",
-        "datacenter"
+        "datacenter",
+        "logic"
       ],
-      "summary": "長文脈・エージェント型AIの普及で推論時のメモリ負荷が変化。HBM4ベースダイへのコントローラ機能移管やニアメモリ処理、FP8採用など、メモリ中心の設計最適化が進む。",
+      "summary": "長文脈化、AIエージェント、マルチモーダル化により推論時のメモリ負荷が変化している。帯域幅にとどまらず、ニアメモリ処理、HBM4のベースダイへの機能移管、FP8による効率化が焦点となっている。",
       "analysis": {
-        "short_term": "メモリ不足が継続し、HBM・NANDの価格は堅調推移が見込まれる",
-        "mid_term": "HBM4のロジックベースダイ活用やニアメモリ演算が製品化段階へ移行",
-        "investment_implications": "HBM・NAND大手は需給逼迫が追い風だが、株価変動の大きさに留意"
+        "short_term": "メモリ不足が続き、HBMとNANDの需給はタイトな状態が継続",
+        "mid_term": "HBM4のロジックベースダイやニアメモリ処理の採用が進む",
+        "investment_implications": "HBMと企業向けSSDは堅調。株価変動はバリュエーション調整の好機"
       },
       "keywords": [
         "HBM4",
         "ニアメモリ処理",
         "メモリウォール",
         "FP8",
-        "フィジカルAI"
+        "NAND"
       ],
       "companies_mentioned": [
         "キオクシア",
-        "Alphabet",
-        "Google",
-        "Nvidia"
+        "Alphabet"
       ]
     },
     {
-      "name": "後工程材料・ウエハー需要拡大",
+      "name": "後工程材料・基板の需給逼迫",
       "confidence": 0.78,
       "momentum": "rising",
       "related_fields": [
         "backend",
         "wafer",
+        "ai",
         "equipment"
       ],
-      "summary": "レゾナックは後工程材料の好調で純利益が大幅増、三菱ガス化学はFC-BGA向けBT材料をタイで増産。SEMIはシリコンウエハー出荷面積が27～29年に過去最高を更新と予測する。",
+      "summary": "レゾナックは後工程材料が好調で純利益が大幅に増加した。三菱ガス化学はFC-BGA向けBT材をタイで増産する。Intelは基板確保を進めており、SEMIはウエハー出荷面積が2029年まで過去最高を更新すると予測している。",
       "analysis": {
-        "short_term": "AIパッケージ向け材料の受注堅調が続き、材料各社の業績上方修正が続く可能性",
-        "mid_term": "2027～28年の増産投資が具体化し、ウエハー需給の引き締まりが進む見通し",
-        "investment_implications": "先端パッケージ材料とシリコンウエハー各社は中期的な成長株として注目"
+        "short_term": "AIパッケージ向け材料の受注は高水準が続く見通し",
+        "mid_term": "2028年に向けて能力増強が進むが、基板不足は当面継続",
+        "investment_implications": "後工程材料・基板メーカーは業績上振れ余地が大きい"
       },
       "keywords": [
         "FC-BGA",
         "BT材料",
         "後工程材料",
-        "シリコンウエハー出荷面積",
-        "先端パッケージ"
+        "シリコンウエハー",
+        "基板確保"
       ],
       "companies_mentioned": [
         "レゾナック",
         "三菱ガス化学",
+        "Intel",
         "SEMI"
+      ]
+    },
+    {
+      "name": "AIによる半導体設計加速",
+      "confidence": 0.65,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "logic",
+        "fabless"
+      ],
+      "summary": "AIがAI向け半導体の設計を加速する「半導体シンギュラリティ」論が浮上している。IP統合の複雑化、エッジAIのニアスレッショルド設計、Siemensによる買収など、EDAとIPの高度化が進む。",
+      "analysis": {
+        "short_term": "EDAベンダーのAI機能強化とM&Aが継続する",
+        "mid_term": "シリコン実データを活用した設計最適化が差別化要因になる",
+        "investment_implications": "EDA・IP企業は構造的成長の恩恵を受けやすい"
+      },
+      "keywords": [
+        "AI EDA",
+        "ニアスレッショルド",
+        "基盤IP",
+        "チップレット標準",
+        "Lauterbach"
+      ],
+      "companies_mentioned": [
+        "Siemens",
+        "Nvidia"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "Infineonの300mm SiCでチップ数が約2.3倍となり、SiCのコスト構造改善が視野に",
-      "800VDC化によりAIデータセンター向けWBGパワー半導体に新たな需要が発生",
-      "レゾナックの純利益1468%増が示す後工程材料需要の強さ",
-      "シリコンウエハー出荷面積が27～29年に過去最高を更新する見通し",
-      "AI推論拡大によるメモリ不足の継続"
+      "Infineonが300mm SiCを初公開し、チップ数約2.3倍によるコスト低減が見込まれる",
+      "onsemiのM4は比オン抵抗50%減で、EVインバーターの電力密度を最大30%向上",
+      "SEMIがウエハー出荷面積の2027～29年過去最高更新を予想",
+      "レゾナックの純利益が1468%増となり、後工程材料が好調",
+      "800VDCデータセンター向けGaN/SiC需要が拡大",
+      "2035年にEVが世界販売の55%を占めるとの見通し"
     ],
     "bearish": [
-      "好決算でもキオクシア株価が急落し、メモリ株のバリュエーション警戒感が残る",
-      "AI設備の発注から稼働までの時間差が在庫・資金負担という隠れたコストを生む（Alphabet在庫急増）",
-      "300mm化に伴うSiC価格下落で、既存口径の供給業者と後発メーカーのマージンが圧迫されるリスク",
-      "Nvidia製品に関するセキュリティ懸念"
+      "キオクシアが好決算にもかかわらず株価急落し、メモリ株の期待剥落リスクが顕在化",
+      "AI投資は発注から稼働までの時間差と資金負担が重く、Alphabetで在庫が急増",
+      "Nvidiaの安全性・監督問題や密輸対策など、規制リスクがくすぶる",
+      "SiC供給増により中期的な価格下落圧力が強まる"
     ],
     "neutral": [
-      "2035年にEVが世界販売の55%を占めるとの長期見通しは示されたが、短期のEV需要は不透明",
-      "α型酸化ガリウムや新規GaNヘテロ接合など次世代材料研究は商用化まで時間を要する",
-      "AIによる半導体設計加速（半導体シンギュラリティ）はEDA・IP業界の構造変化要因",
-      "SiemensによるLauterbach買収などEDA・ツール領域の再編が進行"
+      "α型酸化ガリウムや高2DEG GaNなど次世代材料研究が進展するが、実用化は先",
+      "HBM4コントローラ機能の分割配置は研究段階",
+      "FP8エコシステムが拡大中",
+      "台湾企業が車載スマートコックピット部品で存在感を高めている",
+      "三菱ガス化学のタイ新設備は2028年10月稼働予定で、寄与は中期以降"
     ]
   },
-  "source_count": 84
+  "source_count": 82
 }
