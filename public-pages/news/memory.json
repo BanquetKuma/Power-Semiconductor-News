@@ -1,59 +1,41 @@
 {
-  "generated_at": "2026-11-14T10:22:27.080588+09:00",
+  "generated_at": "2026-11-17T12:29:41.746146+09:00",
   "field": "memory",
   "field_label": "メモリ半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
-    "summary": "UCリバーサイドの研究者が、HBM4のロジックプロセス製ベースダイを活用し、メモリコントローラ機能をホストとHBM側に分割配置する手法の論文を発表。",
+    "title": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
+    "summary": "ジョージア工科大・NVIDIA・スタンフォードが、HBMのDRAMをNANDに置換するHBFのGPU向け遅延とSRAM負荷を軽減する「SlipStream」を発表。",
     "sources": [
       {
         "name": "semiengineering.com",
-        "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside"
+        "url": "https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford"
       }
     ]
   },
   "sections": {
     "news": [],
-    "tech": [],
-    "market": [
+    "tech": [
       {
-        "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
-        "blurb": "UCリバーサイドの研究者が、HBM4のロジックプロセス製ベースダイを活用し、メモリコントローラ機能をホストとHBM側に分割配置する手法の論文を発表。",
-        "category": "business",
-        "date": "2026-11-14",
+        "title": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
+        "blurb": "ジョージア工科大・NVIDIA・スタンフォードが、HBMのDRAMをNANDに置換するHBFのGPU向け遅延とSRAM負荷を軽減する「SlipStream」を発表。",
+        "category": "tools",
+        "date": "2026-11-17",
         "stars": 3,
         "source": {
           "name": "semiengineering.com",
-          "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside"
+          "url": "https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford"
         },
         "field": {
           "primary": "memory",
           "device": "memory",
           "process": null,
           "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Velotric Discover M mid-drive multi-terrain e-bike new $2,399 low + expanded Aventon sale, EcoFlow power station flash sale, more",
-        "blurb": "Velotric Discover M電動自転車が過去最安の2,399ドルに。Aventonセール拡大やEcoFlow電源の48時間限定セールなどブラックフライデー早期割引情報。",
-        "category": "business",
-        "date": "2026-11-14",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/13/velotric-discover-m-mid-drive-multi-terrain-e-bike-aventon-ecoflow-power-station"
-        },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": "automotive",
-          "industry": null
+          "industry": "fabless"
         }
       }
-    ]
+    ],
+    "market": []
   }
 }
