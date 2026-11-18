@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-11-17T12:29:41.745694+09:00",
+  "generated_at": "2026-11-18T11:49:44.053926+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Electronica 2026: Inside Renesas’ 20-kW, 800-V-to-6-V IBC for AI Data Centers",
-    "summary": "ルネサスがElectronica 2026でAIデータセンター向け20kW・800V→6V中間バスコンバータを紹介。高さ6mm、磁気損失や封止、40V未満GaN市場の展望を解説。",
+    "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
+    "summary": "テスラが変圧器・インバータ・遮断器を統合した7.4MWの固体変圧器Powercoreを発表。2027年稼働予定で、元幹部バグリーノ氏のHeron Linkと競合へ。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/electronica-2026-inside-renesas-20-kw-800-v-to-6-v-ibc-for-ai-data-centers"
+        "name": "electrek.co",
+        "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Electronica 2026: Inside Renesas’ 20-kW, 800-V-to-6-V IBC for AI Data Centers",
-        "blurb": "ルネサスがElectronica 2026でAIデータセンター向け20kW・800V→6V中間バスコンバータを紹介。高さ6mm、磁気損失や封止、40V未満GaN市場の展望を解説。",
+        "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
+        "blurb": "テスラが変圧器・インバータ・遮断器を統合した7.4MWの固体変圧器Powercoreを発表。2027年稼働予定で、元幹部バグリーノ氏のHeron Linkと競合へ。",
         "category": "company",
-        "date": "2026-11-17",
+        "date": "2026-11-18",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/electronica-2026-inside-renesas-20-kw-800-v-to-6-v-ibc-for-ai-data-centers"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "ロームのSiCと三菱のSiを混載「重さ7割減」日本発インバーター技術に迫る",
-        "blurb": "ロームはelectronica 2026で、名大と国内8社が共同開発する「フェザーインバーター」を公開。SiCとSi IGBTを混載し、軽量化を図る。",
-        "category": "company",
-        "date": "2026-11-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/17/news043.html"
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link"
         },
         "field": {
           "primary": "power",
@@ -54,25 +36,6 @@
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "SiC市場で存在感を示す欧州、製造拠点では「弱者」の矛盾",
-        "blurb": "欧州メーカーは世界SiCデバイス市場の約半分を握るが、生産投資は域外に向かい、EU内の製造能力は脆弱なままという矛盾を抱えている。",
-        "category": "business",
-        "date": "2026-11-17",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/17/news049.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }

@@ -1,70 +1,126 @@
 {
-  "generated_at": "2026-11-17T12:30:07.175728+09:00",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-18T11:50:04.508072+09:00",
+  "date": "2026-11-18",
   "meta_trends": [
     {
       "name": "AIデータセンター800VDC給電",
-      "confidence": 0.9,
+      "confidence": 0.88,
       "momentum": "rising",
       "related_fields": [
         "power",
         "datacenter",
         "ai"
       ],
-      "summary": "Renesas、onsemi、InfineonがElectronica 2026で800V→6V・20kW級の中間バスコンバータや800VDC給電を提示。AIラックの高電力化に伴い、GaN・SiCを使った高圧直流給電への移行が加速している。",
+      "summary": "AIデータセンターで800VDC給電への移行が進展。ルネサスの20kW 800V→6V IBCやInfineonの800VDC戦略など、高密度電源・GaN/SiC需要が拡大している。",
       "analysis": {
-        "short_term": "各社の試作機展示が相次ぎ、ハイパースケーラーとの設計採用競争が本格化する。",
-        "mid_term": "800VDCアーキテクチャの標準化が進み、DC保護部品や縦型GaNの量産が立ち上がる。",
-        "investment_implications": "AI電源ICとGaN/SiCを両方持つIDMが、データセンター向けで新たな収益源を得る。"
+        "short_term": "Electronica発表を受け、試作・評価案件の増加が見込まれる",
+        "mid_term": "DC保護や磁気部品の課題を解決し、量産採用が本格化する見通し",
+        "investment_implications": "DC電源IC・GaN・SiCを持つIDMと受動部品メーカーに追い風"
       },
       "keywords": [
         "800VDC",
         "IBC",
-        "縦型GaN",
+        "GaN",
         "AIデータセンター",
         "DC保護"
       ],
       "companies_mentioned": [
         "Renesas",
-        "Infineon",
-        "onsemi",
-        "NVIDIA"
+        "Infineon"
       ]
     },
     {
-      "name": "300mmワイドバンドギャップ移行",
+      "name": "300mm化によるSiC/GaNコスト革新",
       "confidence": 0.85,
       "momentum": "rising",
       "related_fields": [
         "power",
         "wafer",
         "idm",
-        "frontend"
+        "geopolitics"
       ],
-      "summary": "Infineonが300mm SiC生産を前進させ、ウエハー1枚あたりのチップ数は約2.3倍となる。300mm GaNも並行しており、onsemiのEliteSiC M4など世代更新と大口径化によるコスト低減競争が激化している。",
+      "summary": "InfineonがSiCウェハーの300mm化を前進させ、チップ数は約2.3倍になる。300mm GaNも並行して進むが、欧州では域内の製造能力が脆弱という矛盾を抱える。",
       "analysis": {
-        "short_term": "300mm SiC量産化の発表が続き、ウエハー・装置メーカーへの関心が高まる。",
-        "mid_term": "コスト優位を得た先行勢がシェアを拡大し、200mm勢には価格圧力がかかる。",
-        "investment_implications": "Infineonは先行者利益が見込める。一方、単価下落が中小SiC企業の収益を圧迫する点に注意。"
+        "short_term": "SiC価格下落圧力が続き、200mm勢の収益は圧迫される",
+        "mid_term": "300mm量産の立ち上げで先行者がコスト優位を確立する",
+        "investment_implications": "300mm対応の大手IDMと装置メーカーが優位、中小SiC専業は警戒"
       },
       "keywords": [
         "300mm SiC",
         "300mm GaN",
-        "EliteSiC M4",
         "ドレスデン",
-        "コスト低減"
+        "欧州供給網",
+        "ウェハー"
       ],
       "companies_mentioned": [
-        "Infineon",
-        "onsemi",
-        "STMicroelectronics",
-        "ROHM",
-        "Mitsubishi Electric"
+        "Infineon"
       ]
     },
     {
-      "name": "AI推論のメモリ壁再定義",
-      "confidence": 0.8,
+      "name": "GaN用途拡大とモビリティ電動化",
+      "confidence": 0.78,
+      "momentum": "rising",
+      "related_fields": [
+        "power",
+        "automotive",
+        "industrial"
+      ],
+      "summary": "GaNは2,000V超のSBDや100Vモータードライバへ用途を広げ、ロボット・産業機器にも浸透している。SiC/Si混載インバーターやEV比率55%予測も電動化需要を裏付ける。",
+      "analysis": {
+        "short_term": "ロボット・産業向けGaNドライバの採用が拡大する見込み",
+        "mid_term": "高耐圧GaNが一部SiC領域を侵食し、ハイブリッド構成が普及する",
+        "investment_implications": "GaN製品群が厚いST・ルネサス、SiCとSiを併せ持つロームに注目"
+      },
+      "keywords": [
+        "GaN HEMT",
+        "GANSPIN",
+        "フェザーインバーター",
+        "EV",
+        "ロボット"
+      ],
+      "companies_mentioned": [
+        "STMicroelectronics",
+        "Rohm",
+        "Mitsubishi Electric",
+        "Microchip"
+      ]
+    },
+    {
+      "name": "チップレット・先端パッケージ深化",
+      "confidence": 0.82,
+      "momentum": "rising",
+      "related_fields": [
+        "backend",
+        "logic",
+        "equipment",
+        "ai"
+      ],
+      "summary": "欠陥考慮型のチップレット組合せ、AIによるパッケージ設計探索、Lamの先端パッケージ戦略、AMI・X線による非破壊検査、ダイヤモンド放熱など、異種集積のエコシステムが拡充している。",
+      "analysis": {
+        "short_term": "AI向けパッケージ投資が継続し、検査・装置受注は堅調",
+        "mid_term": "チップレット標準化とAI設計ツールの普及で歩留まりが改善する",
+        "investment_implications": "先端パッケージ装置・検査・材料・EDAに中長期の成長余地"
+      },
+      "keywords": [
+        "チップレット",
+        "異種集積",
+        "歩留まり",
+        "非破壊検査",
+        "ダイヤモンド放熱"
+      ],
+      "companies_mentioned": [
+        "Lam Research",
+        "Hitachi",
+        "Ampere",
+        "Diamond Foundry",
+        "ADEKA",
+        "Entegris",
+        "Siemens"
+      ]
+    },
+    {
+      "name": "HBM4/HBFでメモリ階層再編",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "memory",
@@ -72,103 +128,42 @@
         "logic",
         "datacenter"
       ],
-      "summary": "長文脈・マルチモーダル・エージェント型の推論により、メモリ負荷が帯域幅以外にも広がっている。HBF(NANDベースHBM)、HBM4ベースダイへのコントローラ機能移管、ニアメモリ処理などの研究が活発化している。",
+      "summary": "HBM4のロジック製ベースダイへのコントローラ機能分割や、NANDベースのHBF遅延低減(SlipStream)など、AI向けメモリ階層の再設計が研究段階で進展している。",
       "analysis": {
-        "short_term": "HBM4採用が進み、ロジックプロセス製ベースダイの付加価値が注目される。",
-        "mid_term": "HBFやニアメモリ処理の実用化検討が進み、NAND需要の新たな柱となる可能性がある。",
-        "investment_implications": "HBMとNANDの双方を持つメモリ大手と、ベースダイを担うファウンドリに追い風。"
+        "short_term": "HBM4の立ち上げ需要が継続し、ロジックベースダイの受託が拡大",
+        "mid_term": "HBFが大容量推論用途で実用化検討段階に入る可能性",
+        "investment_implications": "HBM大手とファウンドリ、NAND勢の新市場機会に注目"
       },
       "keywords": [
         "HBM4",
         "HBF",
-        "ニアメモリ処理",
-        "KVキャッシュ",
-        "メモリウォール"
+        "ベースダイ",
+        "メモリコントローラ",
+        "NAND"
       ],
       "companies_mentioned": [
-        "NVIDIA"
-      ]
-    },
-    {
-      "name": "先端パッケージと熱・検査強化",
-      "confidence": 0.8,
-      "momentum": "rising",
-      "related_fields": [
-        "backend",
-        "equipment",
-        "wafer",
-        "ai"
-      ],
-      "summary": "Lamが先端パッケージングを限界突破の鍵と位置づけ、三菱ガス化学はFC-BGA向けBT材を増産する。200mm単結晶ダイヤモンドによる放熱、AMIやテンダーX線による非破壊検査など、周辺技術の需要が拡大している。",
-      "analysis": {
-        "short_term": "チップレット標準化やインターポーザ工程の発表が続き、材料・装置の受注が堅調に推移する。",
-        "mid_term": "放熱材料と非破壊検査の導入が量産ラインに広がり、新規材料市場が形成される。",
-        "investment_implications": "パッケージ材料、後工程装置、検査装置メーカーが中長期の成長銘柄となる。"
-      },
-      "keywords": [
-        "チップレット",
-        "FC-BGA",
-        "BT材料",
-        "ダイヤモンド放熱",
-        "非破壊検査"
-      ],
-      "companies_mentioned": [
-        "Lam Research",
-        "三菱ガス化学",
-        "Diamond Foundry",
-        "imec"
-      ]
-    },
-    {
-      "name": "AIによる半導体設計加速",
-      "confidence": 0.7,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "fabless",
-        "backend",
-        "equipment"
-      ],
-      "summary": "AIエージェントが新たな設計IPとして台頭している。日立はチップレット設計候補を9割削減する基盤技術を開発し、CMP仮想計測も登場した。「半導体シンギュラリティ」としてAIがAI半導体開発を加速する構図が鮮明になっている。",
-      "analysis": {
-        "short_term": "EDA各社のM&Aやエージェント機能の発表が増え、実証事例が蓄積される。",
-        "mid_term": "信頼性と課金モデルが確立すれば、設計期間の短縮が業界標準になる。",
-        "investment_implications": "EDA大手と、製造データを持つ計測・装置企業の価値が高まる。"
-      },
-      "keywords": [
-        "AIエージェント",
-        "EDA",
-        "仮想計測",
-        "半導体シンギュラリティ",
-        "チップレット設計"
-      ],
-      "companies_mentioned": [
-        "日立",
-        "Siemens",
-        "Lauterbach",
-        "NVIDIA"
+        "Nvidia"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "800VDC給電に向けたGaN/SiC電源の製品化が主要IDM各社で加速している",
-      "300mm SiCでウエハー1枚あたりのチップ数が約2.3倍となり、コスト構造が改善する",
-      "HBM4の高度化とHBF研究によりAI向けメモリ需要の裾野が拡大している",
-      "FC-BGA材料の増産投資など先端パッケージのサプライチェーンが拡張している",
-      "ロボット・産業向け100V GaNドライバ市場が立ち上がりつつある"
+      "AIデータセンター向け800VDC電源の具体的製品化が進展",
+      "300mm SiCでチップ数約2.3倍、コスト低減が加速",
+      "GaNがロボット・産業機器・高耐圧領域へ用途拡大",
+      "先端パッケージ・材料の国内設備投資(ADEKA 2027年稼働)",
+      "imecの北海道拠点設立による日本の研究基盤強化"
     ],
     "bearish": [
-      "欧州はSiC市場の約半分を握る一方、域内の製造能力は脆弱で地政学的な供給リスクがある",
-      "SiCの大口径化・量産化に伴う価格下落が中堅メーカーの利益率を圧迫しうる",
-      "Nvidia製品をめぐるセキュリティ懸念が規制リスクとなる"
+      "欧州SiCメーカーの域内製造能力の脆弱性",
+      "SiC価格下落による200mm専業メーカーの収益圧迫懸念",
+      "Nvidiaのセキュリティ懸念やAIチップ密輸対策など規制リスク"
     ],
     "neutral": [
-      "imecが北海道に日本初の拠点を設立し、日本の研究エコシステムが強化される",
-      "EV比率は2035年に55%との見通しで、車載パワー半導体の中長期需要は維持されるが短期はまちまち",
-      "AIエージェントの設計IP化は信頼性と利用モデルの課題が未解決",
-      "セルロース系バイオ半導体や新規GaNヘテロ接合など基礎研究成果は商用化まで時間を要する"
+      "AIエージェントの設計IP化は信頼性・利用モデルが未確立",
+      "光GPU・バイオ半導体など新原理デバイスは研究段階",
+      "EV比率2035年55%予測は長期見通しで短期業績への影響は限定的"
     ]
   },
-  "source_count": 77
+  "source_count": 85
 }
