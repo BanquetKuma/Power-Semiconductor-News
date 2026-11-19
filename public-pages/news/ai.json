@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-12T11:12:48.790861+09:00",
+  "generated_at": "2026-11-19T11:20:35.476215+09:00",
   "field": "ai",
   "field_label": "AI半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
-    "summary": "テキサスA&M大が、5G通信と暗号認証でAIチップの稼働位置を検証し密輸・輸出規制違反を防ぐハードウェア手法「5G CATS」を発表。",
+    "title": "SolidRun Unveils i.MX 95 Ecosystem for Industrial Edge AI",
+    "summary": "SolidRunがNXP i.MX 95搭載SOMや産業用キャリアボード等のエコシステムを発表。Nvidia Holoscan連携も披露し産業エッジAI向けに展開。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/solidrun-unveils-i-mx-95-ecosystem-for-industrial-edge-ai"
       }
     ]
   },
@@ -18,43 +18,24 @@
     "news": [],
     "tech": [
       {
-        "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
-        "blurb": "テキサスA&M大が、5G通信と暗号認証でAIチップの稼働位置を検証し密輸・輸出規制違反を防ぐハードウェア手法「5G CATS」を発表。",
+        "title": "SolidRun Unveils i.MX 95 Ecosystem for Industrial Edge AI",
+        "blurb": "SolidRunがNXP i.MX 95搭載SOMや産業用キャリアボード等のエコシステムを発表。Nvidia Holoscan連携も披露し産業エッジAI向けに展開。",
         "category": "tools",
-        "date": "2026-11-12",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am"
-        },
-        "field": {
-          "primary": "ai",
-          "device": null,
-          "process": null,
-          "market": "ai",
-          "industry": null
-        }
-      }
-    ],
-    "market": [
-      {
-        "title": "EDS: Panel Discussion: The Evolution of Edge AI",
-        "blurb": "EDSのパネル討論で、エッジAIの進化と性能・電力・メモリ制約、安全性・セキュリティ課題、シリコンからソフトまでの組込みシステム複雑化を専門家が議論。",
-        "category": "business",
-        "date": "2026-11-12",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/eds-panel-discussion-the-evolution-of-edge-ai"
+          "url": "https://www.embedded.com/solidrun-unveils-i-mx-95-ecosystem-for-industrial-edge-ai"
         },
         "field": {
           "primary": "ai",
           "device": null,
           "process": null,
           "market": "ai",
-          "industry": null
+          "industry": "fabless"
         }
       }
-    ]
+    ],
+    "market": []
   }
 }

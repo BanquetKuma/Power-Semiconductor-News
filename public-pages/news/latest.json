@@ -1,124 +1,204 @@
 {
-  "generated_at": "2026-11-18T11:49:44.052655+09:00",
+  "generated_at": "2026-11-19T11:20:35.473851+09:00",
   "highlight": {
     "category": "重要トピック",
     "stars": 4,
-    "title": "Waymo halts highway operation nationwide after CA DMV pause",
-    "summary": "警察の封鎖を突破しようとする動画が拡散し、カリフォルニア州DMVが高速道路走行の停止を命令。Waymoは全米で高速道路での運行を停止した。",
+    "title": "US battery storage just topped 200 GWh – here’s where it is",
+    "summary": "米国の蓄電池導入容量が累計200GWhを突破。2026年は1〜9月だけで約50GWhが新たに稼働し、急速な拡大が続いている。",
     "sources": [
       {
         "name": "electrek.co",
-        "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause"
+        "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)",
-        "blurb": "ASUとAmpereが、欠陥とトポロジーを考慮したチップレット組合せ手法DT-MATCHを発表。異種集積の歩留まり向上を目指す研究。",
+        "title": "US battery storage just topped 200 GWh – here’s where it is",
+        "blurb": "米国の蓄電池導入容量が累計200GWhを突破。2026年は1〜9月だけで約50GWhが新たに稼働し、急速な拡大が続いている。",
         "category": "business",
-        "date": "2026-11-18",
+        "date": "2026-11-19",
+        "stars": 4,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is"
+        },
+        "field": null
+      },
+      {
+        "title": "メタルパワーインダクター市場、32年に約10億米ドル",
+        "blurb": "レポートプライムによると、車載やAI対応PC電源向けメタルパワーインダクター市場は2025年の5.5億ドルから2032年に約10億ドルへ拡大見込み。",
+        "category": "business",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/19/news024.html"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
+        "blurb": "Electrekのポッドキャスト「Quick Charge」で、オートパイロット/FSD関与疑いのテスラ死亡事故多発、LiDARの有用性、IONNAの充電網を議論。",
+        "category": "business",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy"
+        },
+        "field": null
+      },
+      {
+        "title": "IONNA enables Plug & Charge for Tesla, opens 22 bay site in Westminster, CA",
+        "blurb": "自動車大手出資の充電網IONNAが加州ウェストミンスターに400kW×22基の最大拠点を開設。テスラ車のPlug & Chargeにも対応、ステランティス車も近日対応予定。",
+        "category": "business",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/ionna-enables-plug-charge-for-tesla-opens-22-bay-site-in-westminster-ca"
+        },
+        "field": null
+      },
+      {
+        "title": "Volvo EWR150 Electric wheeled excavator gets to work in Luxembourg",
+        "blurb": "ボルボの電動ホイール式ショベルEWR150 Electricがルクセンブルクで稼働開始。低騒音・無排出の現場需要が拡大し、建設・自治体での導入が進む。",
+        "category": "business",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/volvo-ewr150-electric-wheeled-excavator-gets-to-work-in-luxembourg"
+        },
+        "field": null
+      }
+    ],
+    "tools": [
+      {
+        "title": "Timing devices serve next-gen Ethernet and PCIe",
+        "blurb": "SiTimeがクロック製品FemtoClock 4とVersaClock 8を発表。データセンターの次世代EthernetおよびPCIeラックの帯域拡張を支援する。",
+        "category": "tools",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/timing-devices-serve-next-gen-ethernet-and-pcie"
+        },
+        "field": null
+      },
+      {
+        "title": "LED drivers improve matrix scanning and dimming",
+        "blurb": "LumissilがLEDドライバIS31FL370xシリーズを発表。高速マトリクススキャン、ディザリングPWM調光、LED診断機能を内蔵。",
+        "category": "tools",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/led-drivers-improve-matrix-scanning-and-dimming"
+        },
+        "field": null
+      },
+      {
+        "title": "Infrared sensor takes aim at wearable health",
+        "blurb": "Melexisが超小型の非接触型赤外線温度センサー「MLX90636」を発表。ウェアラブル機器での健康モニタリング用途を想定している。",
+        "category": "tools",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "edn.com",
+          "url": "https://www.edn.com/infrared-sensor-takes-aim-at-wearable-health"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "backend",
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "ハラリ氏が超知能の開発競争に警鐘 「神を奴隷にはできない」",
-        "blurb": "歴史家ハラリ氏がAI超知能の開発競争を「市場の失敗」と警告。制御の保証はなく、安全性研究や医療・交通等の課題解決型AIへの投資転換を訴えた。",
-        "category": "business",
-        "date": "2026-11-18",
+        "title": "Miniature actuator adds haptics to wearables",
+        "blurb": "Vybronicsが直径4mmと市場最小のコイン型リニア共振アクチュエータ（LRA）を発表。ウェアラブル機器への触覚フィードバック搭載を可能にする。",
+        "category": "tools",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/18/news047.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/miniature-actuator-adds-haptics-to-wearables"
         },
         "field": null
       },
       {
-        "title": "「ミドリムシ由来」の電池バインダー　PVDF代替へ",
-        "blurb": "産総研がミドリムシ由来のリチウムイオン電池正極用バインダーを開発。フッ素系PVDFと同等の充放電性能を確認し、代替材料として期待。",
-        "category": "business",
-        "date": "2026-11-18",
+        "title": "Compact LEDs expand multi-color lighting options",
+        "blurb": "Cree社が同社最小のセラミック多色LED「XLamp X21」シリーズを発表。2.1×2.1mmのパッケージに4色のLEDダイを搭載し、照明設計の選択肢を広げる。",
+        "category": "tools",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/18/news037.html"
+          "name": "edn.com",
+          "url": "https://www.edn.com/compact-leds-expand-multi-color-lighting-options"
         },
         "field": null
       },
       {
-        "title": "REO Runabout vs. Slate Truck: Which Sub-$30,000 Truck Is Better?",
-        "blurb": "3万ドル未満の格安トラックとして、ガソリン車のREO RunaboutとEVのSlateトラックを比較。REOはSlateの代替となり得るのかを検証。",
-        "category": "business",
-        "date": "2026-11-18",
+        "title": "RF Switch Supports Wideband Operation With Low Insertion Loss",
+        "blurb": "pSemiが広帯域・低挿入損失・高アイソレーション・高速切替・超低消費電流を特長とするSPDT RFスイッチを発表。",
+        "category": "tools",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/815780/reo-runabout-slate-auto"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/rf-switch-supports-wideband-operation-with-low-insertion-loss"
         },
         "field": null
       },
       {
-        "title": "Chevy, GMC, and Cadillac EV Owners Can Now Plug And Charge At Electrify America",
-        "blurb": "GMのEnergy Passが新たにElectrify Americaに対応し、シボレー・GMC・キャデラックのEV所有者がPlug and Chargeで充電可能になった。",
-        "category": "business",
-        "date": "2026-11-18",
+        "title": "SolidRun Unveils i.MX 95 Ecosystem for Industrial Edge AI",
+        "blurb": "SolidRunがNXP i.MX 95搭載SOMや産業用キャリアボード等のエコシステムを発表。Nvidia Holoscan連携も披露し産業エッジAI向けに展開。",
+        "category": "tools",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/815783/plug-charge-electrify-america-gm"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/solidrun-unveils-i-mx-95-ecosystem-for-industrial-edge-ai"
         },
         "field": {
-          "primary": "automotive",
+          "primary": "ai",
           "device": null,
           "process": null,
-          "market": "automotive",
+          "market": "ai",
+          "industry": "fabless"
+        }
+      },
+      {
+        "title": "Microchip Capacitance Digitizer Targets Robotic Tactile Sensing",
+        "blurb": "Microchipが20チャネルAFE搭載の容量デジタイザATFCD52を発表。最大640センサーノードを処理し、ロボットの把持制御や滑り検出、ウェアラブル向け触覚センシングを実現。",
+        "category": "tools",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electronics-lab.com",
+          "url": "https://www.electronics-lab.com/news/microchip-capacitance-digitizer-targets-robotic-tactile-sensing"
+        },
+        "field": {
+          "primary": "analog",
+          "device": "analog",
+          "process": null,
+          "market": null,
           "industry": null
         }
       },
       {
-        "title": "Iceland’s first wind farm comes with a water-saving bonus",
-        "blurb": "アイスランド初の大規模風力発電所が稼働。風が強い時は水力発電の貯水を温存でき、冬季の電力供給を補強する利点がある。",
-        "category": "business",
-        "date": "2026-11-18",
+        "title": "ENGWE Eagle e-dirt bike new $799 low + M20 3.0 e-bike $647 off, Anker eufy Wall Light Cam S4 new lows from $150, more",
+        "blurb": "ENGWEの電動ダートバイクEagleが799ドルの新安値、M20 3.0も割引。Anker eufy照明カメラS4は150ドルから。",
+        "category": "tools",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost"
-        },
-        "field": null
-      },
-      {
-        "title": "Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV",
-        "blurb": "トヨタは標準bZより大型で高出力な電動SUV「bZ Woodland」に、1,000ドル値引きと0%金利ローンを追加した。",
-        "category": "business",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/toyota-adds-1000-off-0-apr-to-bigger-electric-suv"
-        },
-        "field": null
-      },
-      {
-        "title": "EcoFlow flash sale offers 5,018Wh TITAN Classic + 4x rigid solar panels $1,588 off, Hiboy EVs up to 45% off from $300, more",
-        "blurb": "EcoFlowが48時間限定セールでTITAN 5000 Classicとソーラーパネル4枚セットを2,707ドルに。Hiboy EVも最大45%引き。",
-        "category": "business",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/ecoflow-5018wh-titan-classic-hiboy-evs-more"
+          "url": "https://electrek.co/2026/11/18/engwe-eagle-electric-dirt-bike-m20-3-0-e-bike-anker-eufy-wall-light-cam-s4-more"
         },
         "field": {
           "primary": "memory",
@@ -127,36 +207,30 @@
           "market": "automotive",
           "industry": null
         }
-      },
-      {
-        "title": "GM just made it way easier for EV drivers to charge at Electrify America stations",
-        "blurb": "GMのEnergy Pass登録済みのシボレー・キャデラック・GMCのEV利用者は、Electrify America充電器にプラグを挿すだけで充電可能に。アプリやカード不要。",
-        "category": "business",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/gm-easier-ev-drivers-charge-electrify-america"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
       }
     ],
-    "tools": [
+    "company": [
       {
-        "title": "Backside Clock Mesh Reduces Skew And Power In Backside Power Delivery (KAIST)",
-        "blurb": "KAISTが裏面電源供給（BSPDN）構造でクロックメッシュを裏面金属層に配置するクロック分配網を提案し、スキューと消費電力の削減を示した。",
-        "category": "tools",
-        "date": "2026-11-18",
+        "title": "Rivian’s ALSO pauses high-tech e-bike deliveries over ‘software issues’ that we saw coming",
+        "blurb": "Rivianの電動自転車子会社ALSOが、充電挙動などのソフトウェア不具合を受けて電動自転車TM-Bの納車を一時停止した。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 4,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/rivians-also-pauses-high-tech-e-bike-deliveries-over-software-issues-that-we-saw-coming"
+        },
+        "field": null
+      },
+      {
+        "title": "Silicon Motion Unveils Enterprise Storage Platforms for Agentic AI",
+        "blurb": "Silicon MotionがSC26でエージェントAIやAI推論向けのPCIe Gen5/Gen6対応企業向けSSDコントローラー「MonTitan」を披露。",
+        "category": "company",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/backside-clock-mesh-reduces-skew-and-power-in-backside-power-delivery-kaist"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/silicon-motion-unveils-enterprise-storage-platforms-for-agentic-ai"
         },
         "field": {
           "primary": "general",
@@ -167,14 +241,14 @@
         }
       },
       {
-        "title": "Every EV Motor Type Explained: They Aren't All The Same",
-        "blurb": "EVモーターの種類を解説。全てが永久磁石を使うわけではなく、通電コイル（巻線界磁）や誘導方式で代替するタイプもある。",
-        "category": "tools",
-        "date": "2026-11-18",
+        "title": "A Tesla Model Y Without A Steering Wheel Is Coming: Musk",
+        "blurb": "マスク氏、ハンドルのない自動運転版モデルYの投入を示唆。サイバーキャブに加え、6〜7人乗りの自動運転モデルYも重要と言及。",
+        "category": "company",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/features/815764/all-types-ev-motors-explained"
+          "url": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove"
         },
         "field": {
           "primary": "automotive",
@@ -185,224 +259,186 @@
         }
       },
       {
-        "title": "Amflow Made A Commuter E-Bike. I Tested It, And It's Really, Really Good",
-        "blurb": "Amflowが高性能Avinoxドライブを搭載した通勤向けカーボンe-Bike「UE Carbon Pro」を投入。e-MTB市場に続く展開で、実走レビューでも高評価。",
-        "category": "tools",
-        "date": "2026-11-18",
+        "title": "The BMW i3 Has The Nurburgring Skills To Match Its Impressive Range",
+        "blurb": "BMWの新型電動セダンi3がニュルブルクリンクで走行性能を披露。優れた航続距離に加え高い走行性能を示し、今後の電動M3にも期待が高まる。",
+        "category": "company",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/815779/amflow-ue-carbon-pro-review"
+          "url": "https://insideevs.com/news/815956/bmw-i3-50-nurburgring-video"
         },
         "field": null
       },
       {
-        "title": "Every Kind Of Hybrid Explained: Parallel, Series, EREV, PHEV, MHEV",
-        "blurb": "ガソリン高騰で米国のハイブリッド車人気が拡大。パラレル、シリーズ、EREV、PHEV、MHEVなど各方式の違いを解説。",
-        "category": "tools",
-        "date": "2026-11-18",
+        "title": "Kia Made Its First EV 40 Years Ago. It Shows How Far Electric Cars Have Come",
+        "blurb": "起亜は1986年アジア大会向けに初のEV「ベスタEV」を製造。約40年後の現在、同社は再びEVバンを他モデルと並行して展開している。",
+        "category": "company",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/features/815414/every-hybrid-type-explained-phev-erev-mhev-series-parallel"
+          "url": "https://insideevs.com/news/815955/kia-ev-history-besta-sales"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Ford Just Started Fathom LFP Battery Production In Michigan. It's A Big Deal",
+        "blurb": "フォードがミシガン州のBlueOval Battery ParkでLFPバッテリー生産を開始し、Fathom試作車向けにテスト用の量産品質セルの出荷を始めた。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/815927/ford-fathom-blueoval-battery-park-lfp-cells"
         },
         "field": null
       },
       {
-        "title": "E-quipment highlight: 110 hp Greenworks OPTIMUS electric UTV [video]",
-        "blurb": "電動工具ブランドGreenworksが、110馬力相当・最高時速40マイルの電動サイドバイサイドUTV「OPTIMUS」を発表し、製品ラインを拡大。",
-        "category": "tools",
-        "date": "2026-11-18",
+        "title": "This GM EV1 Lives After A Painstaking Restoration",
+        "blurb": "GMの電気自動車EV1が丹念なレストアを経て復活。個人所有で走行可能なEV1は約20年ぶりとなる。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/815802/gm-ev1-20-year-restoration"
+        },
+        "field": null
+      },
+      {
+        "title": "Toyota expands C-HR EV recall to 19,000 globally",
+        "blurb": "トヨタが電動SUV「C-HR EV」のリコール対象を世界で約1万9000台に拡大。うち米国では約1万台が対象となる。",
+        "category": "company",
+        "date": "2026-11-19",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/e-quipment-highlight-110-hp-greenworks-optimus-electric-utv-video"
+          "url": "https://electrek.co/2026/11/18/toyota-expands-c-hr-ev-recall-to-19000-globally"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "BYD spotted testing another boxy midsize SUV",
+        "blurb": "BYDがオフロード志向のサブブランドから新たな中型SUVを投入予定。箱型で無骨なデザインの試験車両が目撃された。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/byd-spotted-testing-another-boxy-midsize-suv"
+        },
+        "field": null
+      },
+      {
+        "title": "Kia went from this one quirky EV 40 years ago to an entire electric lineup",
+        "blurb": "Kiaは1986年に初のEV「Besta EV」を発表。40年後の現在、小型車からSUV、3列シートモデルまで幅広いEVラインナップを展開している。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/kia-one-quirky-ev-40-years-ago-to-entire-ev-lineup"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Tesla toughens FSD driver monitoring in Europe while loosening it in the US",
+        "blurb": "テスラは欧州でFSDの運転者監視を強化し、警告の早期化や130km/h超でのハンドル保持を義務化。一方米国では監視を緩和する逆の方針を取っている。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/tesla-fsd-driver-monitoring-europe-stricter-than-us"
+        },
+        "field": null
+      },
+      {
+        "title": "West Coast Customs turns a Tesla Model 3 into a 1955 Chevy Bel Air",
+        "blurb": "West Coast CustomsがTesla Model 3の車台に1955年型シボレー・ベルエアのボディを載せたEV「Project B-Zero」を完成。スーパーチャージャーで充電可能。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/west-coast-customs-tesla-model-3-1955-chevy-bel-air-ev"
+        },
+        "field": null
+      },
+      {
+        "title": "Ford’s first LFP batteries are en route, and the $30,000 Fathom EV pickup will get them first",
+        "blurb": "フォードがミシガン州の工場で初のLFP電池セル生産を開始。ケンタッキー州で開発中の3万ドルEVピックアップ「Fathom」の試作車に初搭載される。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/fords-first-lfp-batteries-en-route-30k-fathom-ev-pickup"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Amflow launches its first city e-bikes, packing huge torque and serious smart tech",
+        "blurb": "電動MTBで知られるAmflowが初の都市向けe-bike「UE Carbon」シリーズを発表。カーボンフレームに高トルクのミッドドライブモーターと多彩なスマート機能を搭載。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/amflow-launches-its-first-city-e-bikes-packing-huge-torque-and-serious-smart-tech"
+        },
+        "field": null
+      },
+      {
+        "title": "Tesla’s Semi Megacharger network hits 7 sites, far short of 37 goal",
+        "blurb": "テスラがテキサス州メスキートに初のSemi用Megacharger(8基)を開設。公開拠点は7カ所44基となったが、2026年目標の37カ所の5分の1未満にとどまる。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas"
+        },
+        "field": null
+      },
+      {
+        "title": "BYD’s luxury SUV pulled a nearly 400,000-pound jumbo jet on just two wheels [Video]",
+        "blurb": "BYDの新型高級SUVが、約400,000ポンド（約180トン）のジャンボジェット機を2輪走行状態で牽引する動画を公開。",
+        "category": "company",
+        "date": "2026-11-19",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/18/byds-luxury-suv-pulls-400000-lb-jumbo-jet-on-two-wheels-video"
         },
         "field": null
       }
     ],
-    "company": [
-      {
-        "title": "Waymo halts highway operation nationwide after CA DMV pause",
-        "blurb": "警察の封鎖を突破しようとする動画が拡散し、カリフォルニア州DMVが高速道路走行の停止を命令。Waymoは全米で高速道路での運行を停止した。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 4,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause"
-        },
-        "field": null
-      },
-      {
-        "title": "光GPUで演算も省電力化 NTTのIOWN構想は次の領域へ",
-        "blurb": "NTT R&D FORUM 2026内覧会で、IOWNの光電融合デバイス開発状況や光を演算に応用する光GPUなど省電力化の取り組みが紹介された。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/18/news059.html"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "鴻海、ソニーセミコンの車載カメラモジュール事業買収へ　約72億円",
-        "blurb": "鴻海（Foxconn）が2026年11月17日、ソニーセミコンダクタソリューションズの車載カメラモジュール事業を約72億円で買収すると発表した。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/18/news054.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Rivian Is Inviting Owners To Beta Test Its New Point-To-Point Assisted Driving Tech",
-        "blurb": "Rivianがテスラ FSDのような地点間型の運転支援機能（要視線監視）のベータテストを開始。オーナーを招待制で募り、一般公開へ向け段階的に展開する。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/815761/rivian-autonomy-beta-test-closed"
-        },
-        "field": null
-      },
-      {
-        "title": "Solarcycle, PedalPoint Recycling merge to feed a $7.4B US metals refinery",
-        "blurb": "SolarcycleとPedalPoint Recyclingが合併し新会社Jupiterを設立。廃棄太陽光パネル等から回収した金属を韓国亜鉛の74億ドル製錬所へ供給予定。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/solarcycle-pedalpoint-recycling-merge-to-feed-a-7-4b-us-metals-refinery"
-        },
-        "field": {
-          "primary": "datacenter",
-          "device": null,
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "Hyundai reveals new 7-seat Neira electric SUV",
-        "blurb": "現代自動車が3列7人乗りの電動SUV「Neira」の量産仕様を初公開。11月20日にインドネシアで発売予定。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/hyundai-reveals-new-7-seat-neira-electric-suv"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Scout Motors starts validation builds at $2B SC plant, deliveries in 2028",
-        "blurb": "VW傘下Scout Motorsが20億ドルの南カロライナ工場で検証車両の生産を開始。SUV「Traveler」とピックアップ「Terra」の納車は当初計画より2年遅れの2028年。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/scout-motors-validation-builds-south-carolina-deliveries-2028"
-        },
-        "field": null
-      },
-      {
-        "title": "Juiced Scrambler Mini launched as a cooler (and safer) e-bike option for teens and parents",
-        "blurb": "Juicedが10代向け電動自転車「Scrambler Mini」を発表。親が求める安全性と、若者好みのクールなデザインの両立を狙う。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/juiced-scrambler-mini-launched-as-a-cooler-and-safer-e-bike-option-for-teens-and-parents"
-        },
-        "field": null
-      },
-      {
-        "title": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging",
-        "blurb": "BMWが米国製初のEV「iX5」を発表。推定最大456マイルの航続距離と超急速充電に対応し、ノイエ・クラッセの技術を多数搭載。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/bmws-first-us-built-ev-delivers-435-miles-range-fast-charging"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
-        "blurb": "テスラが変圧器・インバータ・遮断器を統合した7.4MWの固体変圧器Powercoreを発表。2027年稼働予定で、元幹部バグリーノ氏のHeron Linkと競合へ。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Volkswagen is cooking up a ‘spicy’ new electric hot hatch",
-        "blurb": "フォルクスワーゲンが金曜日に新型電動ホットハッチ「GTI」を発表予定。同社は「非常にスパイシーなもの」になると予告している。",
-        "category": "company",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/volkswagen-cooking-up-spicy-new-electric-hot-hatch"
-        },
-        "field": null
-      }
-    ],
-    "sns": [
-      {
-        "title": "11-term rep who mocked a kid’s letter about EVs currently losing her seat (Upd.)",
-        "blurb": "EVと気候変動に関する10歳児の手紙を嘲笑した83歳の11期目下院議員フォックス氏が、開票100%で362票差で劣勢となり再集計を要求。",
-        "category": "sns",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "@https://electrek.co/2026/11/17/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with",
-          "url": "https://electrek.co/2026/11/17/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with"
-        },
-        "field": null,
-        "sns": {
-          "handle": "@https://electrek.co/2026/11/17/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with",
-          "display_name": "",
-          "posted_at": "2026-11-18T01:48:00+09:00"
-        }
-      }
-    ]
+    "sns": []
   }
 }
