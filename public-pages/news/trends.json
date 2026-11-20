@@ -1,171 +1,170 @@
 {
-  "generated_at": "2026-11-19T11:20:56.463189+09:00",
-  "date": "2026-11-19",
+  "generated_at": "2026-11-20T11:07:01.218570+09:00",
+  "date": "2026-11-20",
   "meta_trends": [
     {
-      "name": "AIデータセンター800VDC電源",
-      "confidence": 0.88,
+      "name": "AIデータセンター800VDC電源革新",
+      "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "datacenter",
-        "ai"
+        "ai",
+        "backend"
       ],
-      "summary": "AIデータセンターの電力密度上昇に伴い、800VDC給電と高効率IBCの採用が進展。GaN/SiCを用いた電源アーキテクチャ刷新が加速している。",
+      "summary": "AIアクセラレータの電力急増を受け、800VDC配電、中間バスコンバータ、プロセッサ近接の電圧レギュレータ配置が進展。GaN/SiCの採用拡大とパッケージ・熱設計の再構築を促す。",
       "analysis": {
-        "short_term": "electronica発表を受け、IBC・GaN電源の設計採用やサンプル出荷が拡大する見込み",
-        "mid_term": "800VDCラック実装が本格化。DC保護やGaNの40V未満市場が新たな収益源に",
-        "investment_implications": "データセンター電源向けGaN/SiCに強いIDMに注目。電源部品の付加価値は上昇傾向"
+        "short_term": "Electronica発表を受け800V対応IBCや低圧GaNの採用検討・評価が加速",
+        "mid_term": "次世代AIラックで800VDC採用が本格化し、電源IC・GaN需要が拡大",
+        "investment_implications": "ルネサス、Infineon等AI電源に強いパワー半導体企業に注目"
       },
       "keywords": [
         "800VDC",
         "IBC",
         "GaN",
-        "SiC",
-        "DC保護",
+        "垂直給電",
+        "電力供給ネットワーク",
         "AIデータセンター"
       ],
       "companies_mentioned": [
         "Renesas",
-        "Infineon",
-        "NVIDIA"
+        "Infineon"
       ]
     },
     {
-      "name": "300mmワイドバンドギャップ化",
+      "name": "ワイドバンドギャップ300mm化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
         "power",
         "wafer",
-        "idm",
-        "geopolitics"
+        "backend",
+        "geopolitics",
+        "automotive"
       ],
-      "summary": "SiC/GaNの300mmウェハー化が進み、コスト低減と用途拡大が期待される。一方、欧州はSiC市場で約半分のシェアを持つが、域内製造能力の脆弱さが課題。",
+      "summary": "SiC/GaNの300mmウェハー移行が進み、コスト低減とAIパッケージの熱管理材料など新用途が拡大。一方、欧州はSiC市場シェアに比べ域内製造能力が脆弱という構造的課題を抱える。",
       "analysis": {
-        "short_term": "ドレスデン工場立ち上げなど300mm投資の進捗が評価材料となる",
-        "mid_term": "300mm化でSiC価格低下が進み、競争は中国勢を含め激化する公算",
-        "investment_implications": "300mm量産で先行するIDMが優位。SiC単価下落による利益率低下リスクに留意"
+        "short_term": "300mm GaN/SiCの量産準備やドレスデン工場立ち上げの進捗が焦点",
+        "mid_term": "300mm化でコスト競争が激化し、中国勢との価格圧力が強まる可能性",
+        "investment_implications": "大口径化を先行する企業と材料・装置サプライヤーに選別投資"
       },
       "keywords": [
         "300mm SiC",
         "300mm GaN",
+        "熱管理",
         "ドレスデン",
-        "欧州SiC",
-        "ワイドバンドギャップ"
+        "欧州製造能力",
+        "フェザーインバーター"
       ],
       "companies_mentioned": [
         "Infineon",
-        "STMicroelectronics",
         "ROHM",
-        "Mitsubishi Electric"
+        "三菱電機",
+        "STMicroelectronics"
       ]
     },
     {
-      "name": "AIチップ熱管理材料の革新",
-      "confidence": 0.72,
-      "momentum": "rising",
-      "related_fields": [
-        "ai",
-        "backend",
-        "wafer",
-        "datacenter"
-      ],
-      "summary": "AIチップの発熱増大を受け、SiCやダイヤモンドなど高熱伝導材料をパッケージ放熱に活用する動きが浮上。200mm単結晶ダイヤモンドの開発も実現した。",
-      "analysis": {
-        "short_term": "試作・評価段階の発表が中心で、業績への寄与はまだ限定的",
-        "mid_term": "CoWoS系先端パッケージでヒートスプレッダや基板への採用評価が進む見込み",
-        "investment_implications": "高熱伝導材料サプライヤーに中長期的なオプション価値あり。量産性の見極めが鍵"
-      },
-      "keywords": [
-        "熱管理",
-        "SiCインターポーザ",
-        "単結晶ダイヤモンド",
-        "200mm",
-        "冷却",
-        "先端パッケージ"
-      ],
-      "companies_mentioned": [
-        "Diamond Foundry"
-      ]
-    },
-    {
-      "name": "チップレット設計のAI化",
+      "name": "ヒューマノイド向け半導体商機",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "backend",
-        "logic",
-        "fabless",
+        "industrial",
+        "analog",
+        "power",
         "ai"
       ],
-      "summary": "エージェント型AIによるチップレット設計候補の絞り込みや、欠陥を考慮したチップレット組み合わせで歩留まりを向上させる研究が進む。EDA統合が課題として残る。",
+      "summary": "Electronica 2026ではヒューマノイド展示が目立ち、GaNモータードライバ、ゲートドライバ、触覚センサーICなどロボット向け製品投入が相次ぎ、新たな需要領域として期待が高まる。",
       "analysis": {
-        "short_term": "研究・PoCの段階が続き、EDAベンダーのAIエージェント機能発表が相次ぐ見込み",
-        "mid_term": "設計期間の短縮効果が実証されれば、AIエージェントがIPとして商用化される",
-        "investment_implications": "EDA大手および設計AIを持つ企業に追い風。ただし収益化の時期は不透明"
+        "short_term": "ロボット向けドライバ・センサーの新製品発表とデザインイン活動が活発化",
+        "mid_term": "量産は限定的だが、アクチュエータ当たりの半導体搭載量増が明確化",
+        "investment_implications": "モーター制御・センサーに強いアナログ/パワー企業が中長期で恩恵"
       },
       "keywords": [
-        "エージェント型AI",
-        "チップレット",
-        "EDA",
-        "シフトレフト",
-        "異種集積",
-        "歩留まり"
+        "ヒューマノイド",
+        "GANSPIN",
+        "ゲートドライバ",
+        "触覚センサー",
+        "モーター制御"
       ],
       "companies_mentioned": [
-        "Hitachi",
-        "Ampere"
+        "STMicroelectronics",
+        "Microchip"
       ]
     },
     {
-      "name": "HBM後継メモリと光電融合",
-      "confidence": 0.68,
+      "name": "AI活用の製造・設計自律化",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
+        "frontend",
         "memory",
-        "ai",
-        "logic",
-        "datacenter"
+        "equipment",
+        "fabless"
       ],
-      "summary": "HBMのDRAMをNANDに置き換えるHBFや、HBM4コントローラの研究が進む。並行して光GPU・IOWNなど光電融合による省電力演算の探索も活発化している。",
+      "summary": "仮想ツインやML、プラズマシミュレーションで歩留まり改善と工程最適化が進展。エージェント型AIによる設計前倒しも期待されるが、データ品質やEDA統合が課題として残る。",
       "analysis": {
-        "short_term": "HBF等は論文・コンセプト段階で、HBM需要の逼迫は継続する",
-        "mid_term": "NAND各社がHBFの標準化・試作を進め、推論向けメモリ階層が多様化する",
-        "investment_implications": "HBF実現はNANDメーカーの再評価材料に。光電融合は長期テーマとして位置付けるべき"
+        "short_term": "DRAMやエッチング工程でのシミュレーション・ML導入事例が増加",
+        "mid_term": "計測データ基盤を軸にファブの部分的自律化が進むが完全自律は先",
+        "investment_implications": "計測・プロセス制御ソフト、EDA企業に構造的な成長機会"
       },
       "keywords": [
-        "HBF",
-        "HBM4",
-        "NAND",
-        "LLM推論",
+        "仮想ツイン",
+        "機械学習",
+        "歩留まり",
+        "エージェントAI",
+        "PVTW",
+        "計測"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "光電融合とCPOの実用化課題",
+      "confidence": 0.65,
+      "momentum": "rising",
+      "related_fields": [
+        "logic",
+        "datacenter",
+        "backend",
+        "ai"
+      ],
+      "summary": "NTTのIOWNは光電融合から光GPUへと演算領域に展開。一方、CPO/NPO向け着脱式光コネクタは標準化と量産体制が未整備で、普及に向けたボトルネックとなっている。",
+      "analysis": {
+        "short_term": "研究発表やデモは続くが、コネクタ標準化の議論が主要な焦点",
+        "mid_term": "標準化進展次第でAIクラスタ向けCPO採用が段階的に始まる",
+        "investment_implications": "光コネクタ・実装技術の標準を握る企業を中長期で注視"
+      },
+      "keywords": [
+        "CPO",
+        "NPO",
+        "光電融合",
+        "IOWN",
         "光GPU",
-        "IOWN"
+        "光ファイバーコネクタ"
       ],
       "companies_mentioned": [
-        "NVIDIA",
         "NTT"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIデータセンター向け800VDC/IBC電源で大手IDMが製品化を加速",
-      "300mm GaN/SiC製造の立ち上げによりワイドバンドギャップのコスト低減が進展",
-      "AI需要により商社コアスタッフの上期売上が前期通期を上回る",
-      "ADEKAとEntegrisによる3D半導体材料の国内生産投資（2027年稼働）",
-      "imecが北海道に拠点を設立し、日本の研究エコシステムが強化"
+      "AIデータセンター向け800VDC化で高電圧・低圧GaN/SiC電源需要が拡大",
+      "シリコンウエハー需要が新規ライン増加を背景に回復局面へ",
+      "商社コアスタッフがAI需要で上期に前期通期売上を突破",
+      "ADEKAとEntegrisが3D半導体材料設備を新設し2027年稼働予定",
+      "imecが北海道に日本初の拠点設立、国内研究エコシステム強化"
     ],
     "bearish": [
-      "欧州のSiC生産投資が域外へ流出し、域内製造基盤が脆弱",
-      "商社トップがAI需要の持続性に慎重姿勢を示し、反動減を警戒",
-      "設計AIエージェントはEDA統合と信頼性に課題があり、収益化は遅れる可能性"
+      "欧州はSiCシェアが高い一方で域内製造能力が脆弱",
+      "CPO向け光コネクタの標準化・量産体制が未整備",
+      "AI需要偏重に対しコアスタッフ社長が慎重姿勢を表明し、過熱リスクを示唆",
+      "AIによる製造自律化はデータ品質の課題で実装が遅れる可能性"
     ],
     "neutral": [
-      "産業・ロボット向けGaNドライバやゲートドライバの新製品投入が続く",
-      "AMIやテンダーX線など先端パッケージ向け非破壊検査技術が進展",
-      "AlNの高放射線耐性が実証され、宇宙用途は長期的なニッチ市場",
-      "BSPDN向け裏面クロックメッシュなど、微細化関連の研究は着実に進展"
+      "HBM以降の次世代メモリ技術開発が加速するも量産時期は不透明",
+      "NTTがAlN半導体の高放射線耐性を実証、宇宙用途は長期テーマ",
+      "テンダーX線で7.4nm分解能達成、非破壊検査への応用は研究段階",
+      "ウェアラブル向けオーディオAI・赤外線センサーなどエッジ製品が拡充"
     ]
   },
   "source_count": 89
