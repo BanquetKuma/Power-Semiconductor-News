@@ -1,60 +1,41 @@
 {
-  "generated_at": "2026-11-18T11:49:44.054649+09:00",
+  "generated_at": "2026-11-21T11:03:36.144670+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)",
-    "summary": "ASUとAmpereが、欠陥とトポロジーを考慮したチップレット組合せ手法DT-MATCHを発表。異種集積の歩留まり向上を目指す研究。",
+    "title": "Seco Opens Sampling of AMD Ryzen Embedded 8000 Module",
+    "summary": "SecoがAMD Ryzen Embedded 8000搭載のCOM Express Type 6 Compactモジュールのサンプル提供を開始。RDNA 3とNPUで産業エッジAIに対応。",
     "sources": [
       {
-        "name": "semiengineering.com",
-        "url": "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere"
+        "name": "embedded.com",
+        "url": "https://www.embedded.com/seco-opens-sampling-of-amd-ryzen-embedded-8000-module"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "光GPUで演算も省電力化 NTTのIOWN構想は次の領域へ",
-        "blurb": "NTT R&D FORUM 2026内覧会で、IOWNの光電融合デバイス開発状況や光を演算に応用する光GPUなど省電力化の取り組みが紹介された。",
+        "title": "Seco Opens Sampling of AMD Ryzen Embedded 8000 Module",
+        "blurb": "SecoがAMD Ryzen Embedded 8000搭載のCOM Express Type 6 Compactモジュールのサンプル提供を開始。RDNA 3とNPUで産業エッジAIに対応。",
         "category": "company",
-        "date": "2026-11-18",
+        "date": "2026-11-21",
         "stars": 3,
         "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/18/news059.html"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/seco-opens-sampling-of-amd-ryzen-embedded-8000-module"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": null,
-          "industry": null
+          "market": "industrial",
+          "industry": "fabless"
         }
       }
     ],
     "tech": [],
-    "market": [
-      {
-        "title": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)",
-        "blurb": "ASUとAmpereが、欠陥とトポロジーを考慮したチップレット組合せ手法DT-MATCHを発表。異種集積の歩留まり向上を目指す研究。",
-        "category": "business",
-        "date": "2026-11-18",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": "backend",
-          "market": null,
-          "industry": null
-        }
-      }
-    ]
+    "market": []
   }
 }
