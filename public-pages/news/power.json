@@ -1,41 +1,60 @@
 {
-  "generated_at": "2026-11-18T11:49:44.053926+09:00",
+  "generated_at": "2026-11-24T14:13:32.323442+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
-    "summary": "テスラが変圧器・インバータ・遮断器を統合した7.4MWの固体変圧器Powercoreを発表。2027年稼働予定で、元幹部バグリーノ氏のHeron Linkと競合へ。",
+    "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
+    "summary": "パワエレ週間まとめ：酸化ガリウム商用化競争、300mm SiCがAIチップパッケージにもたらす利点、HEMT互換プロセスのGaN SBDを紹介。",
     "sources": [
       {
-        "name": "electrek.co",
-        "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link"
+        "name": "powerelectronicsnews.com",
+        "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights"
       }
     ]
   },
   "sections": {
     "news": [
       {
-        "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
-        "blurb": "テスラが変圧器・インバータ・遮断器を統合した7.4MWの固体変圧器Powercoreを発表。2027年稼働予定で、元幹部バグリーノ氏のHeron Linkと競合へ。",
+        "title": "市場を超えて生きる技術基盤 オンセミ社長が語るGaN／Treo戦略",
+        "blurb": "オンセミ日本法人の林社長が、車載・産業・AIデータセンター向けに掲げる3つの技術基盤のうち、GaNパワー半導体とTreoプラットフォームの戦略を紹介した。",
         "category": "company",
-        "date": "2026-11-18",
+        "date": "2026-11-24",
         "stars": 3,
         "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link"
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/24/news030.html"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": null,
+          "market": "datacenter",
           "industry": null
         }
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
+        "blurb": "パワエレ週間まとめ：酸化ガリウム商用化競争、300mm SiCがAIチップパッケージにもたらす利点、HEMT互換プロセスのGaN SBDを紹介。",
+        "category": "tools",
+        "date": "2026-11-24",
+        "stars": 3,
+        "source": {
+          "name": "powerelectronicsnews.com",
+          "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      }
+    ],
     "market": []
   }
 }

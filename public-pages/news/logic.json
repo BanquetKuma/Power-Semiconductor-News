@@ -1,41 +1,59 @@
 {
-  "generated_at": "2026-11-21T11:03:36.144670+09:00",
+  "generated_at": "2026-11-24T14:13:32.323862+09:00",
   "field": "logic",
   "field_label": "ロジック半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "Seco Opens Sampling of AMD Ryzen Embedded 8000 Module",
-    "summary": "SecoがAMD Ryzen Embedded 8000搭載のCOM Express Type 6 Compactモジュールのサンプル提供を開始。RDNA 3とNPUで産業エッジAIに対応。",
+    "title": "Measuring Verification Gaps In LLM-Generated Post-Quantum Hardware (Lucid, EYL)",
+    "summary": "Lucid MotorsとEYLが、LLMエージェントが生成した耐量子暗号ハードウェアRTLの検証ギャップを測定し、7段階の検証ゲート型ワークフローを提案。",
     "sources": [
       {
-        "name": "embedded.com",
-        "url": "https://www.embedded.com/seco-opens-sampling-of-amd-ryzen-embedded-8000-module"
+        "name": "semiengineering.com",
+        "url": "https://semiengineering.com/measuring-verification-gaps-in-llm-generated-post-quantum-hardware-lucid-eyl"
       }
     ]
   },
   "sections": {
-    "news": [
+    "news": [],
+    "tech": [
       {
-        "title": "Seco Opens Sampling of AMD Ryzen Embedded 8000 Module",
-        "blurb": "SecoがAMD Ryzen Embedded 8000搭載のCOM Express Type 6 Compactモジュールのサンプル提供を開始。RDNA 3とNPUで産業エッジAIに対応。",
-        "category": "company",
-        "date": "2026-11-21",
+        "title": "Measuring Verification Gaps In LLM-Generated Post-Quantum Hardware (Lucid, EYL)",
+        "blurb": "Lucid MotorsとEYLが、LLMエージェントが生成した耐量子暗号ハードウェアRTLの検証ギャップを測定し、7段階の検証ゲート型ワークフローを提案。",
+        "category": "tools",
+        "date": "2026-11-24",
         "stars": 3,
         "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/seco-opens-sampling-of-amd-ryzen-embedded-8000-module"
+          "name": "semiengineering.com",
+          "url": "https://semiengineering.com/measuring-verification-gaps-in-llm-generated-post-quantum-hardware-lucid-eyl"
         },
         "field": {
           "primary": "logic",
           "device": "logic",
           "process": null,
-          "market": "industrial",
-          "industry": "fabless"
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "TuyaOpen Integrates Silicon Labs SiWx917 Wi-Fi 6 SoC",
+        "blurb": "Silicon LabsとTuyaが、オープンソース開発基盤TuyaOpenにWi-Fi 6とBLE対応の低消費電力SoC「SiWx917」のサポートを追加した。",
+        "category": "tools",
+        "date": "2026-11-24",
+        "stars": 3,
+        "source": {
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/tuyaopen-integrates-silicon-labs-siwx917-wi-fi-6-soc"
+        },
+        "field": {
+          "primary": "logic",
+          "device": "logic",
+          "process": null,
+          "market": null,
+          "industry": null
         }
       }
     ],
-    "tech": [],
     "market": []
   }
 }
