@@ -1,76 +1,88 @@
 {
-  "generated_at": "2026-11-24T14:13:32.322236+09:00",
+  "generated_at": "2026-11-25T13:02:22.212408+09:00",
   "highlight": {
     "category": "重要トピック",
-    "stars": 5,
-    "title": "NVIDIA創業者Huang氏がCEOに電撃復帰、辞任からわずか11日",
-    "summary": "NVIDIA共同創業者Jensen Huang氏が11月23日付で社長・CEO・取締役に復帰。12日の全役職辞任からわずか11日、取締役会が全会一致で決定。",
+    "stars": 4,
+    "title": "「半導体氷河期」を招く3つの衝撃――トランプ敗北、NVIDIAの経営混乱、メモリ各社の巨額投資",
+    "summary": "AI投資で好況の半導体業界に、トランプ敗北、NVIDIA経営混乱、メモリ各社の巨額投資という3つの衝撃が発生。危険な連鎖で「半導体氷河期」の恐れを市場予測から分析。",
     "sources": [
       {
         "name": "itmedia.co.jp",
-        "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/24/news038.html"
+        "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/25/news044.html"
       }
     ]
   },
   "sections": {
     "business": [
       {
-        "title": "Optimizing power delivery in AI data centers",
-        "blurb": "AIデータセンターの電力供給最適化として、800VDC配電、垂直給電、裏面電源供給により送電網からトランジスタまでのI²R損失を削減する手法を解説。",
+        "title": "「半導体氷河期」を招く3つの衝撃――トランプ敗北、NVIDIAの経営混乱、メモリ各社の巨額投資",
+        "blurb": "AI投資で好況の半導体業界に、トランプ敗北、NVIDIA経営混乱、メモリ各社の巨額投資という3つの衝撃が発生。危険な連鎖で「半導体氷河期」の恐れを市場予測から分析。",
         "category": "business",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
+        "stars": 4,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/25/news044.html"
+        },
+        "field": {
+          "primary": "datacenter",
+          "device": null,
+          "process": null,
+          "market": "datacenter",
+          "industry": null
+        }
+      },
+      {
+        "title": "Arrow and Seco Expand Partnership to Accelerate Industrial Edge AI Adoption",
+        "blurb": "Arrow ElectronicsとSecoが提携を拡大。Secoのエッジ・フィジカルAI技術とArrowの技術リソースを組み合わせ、産業用エッジAIの導入を加速する。",
+        "category": "business",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/optimizing-power-delivery-in-ai-data-centers"
+          "name": "embedded.com",
+          "url": "https://www.embedded.com/arrow-and-seco-expand-partnership-to-accelerate-industrial-edge-ai-adoption"
+        },
+        "field": {
+          "primary": "ai",
+          "device": null,
+          "process": null,
+          "market": "ai",
+          "industry": null
+        }
+      },
+      {
+        "title": "The BMW i3 Won Me Over In The Corners. But It Also Felt Wrong",
+        "blurb": "BMWの電動3シリーズ「i3」セダンを試乗レビュー。コーナリング性能は高評価だが、内装には違和感があり好き嫌いが分かれる仕上がり。",
+        "category": "business",
+        "date": "2026-11-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/reviews/816499/bmw-i3-electric-sedan-review"
         },
         "field": null
       },
       {
-        "title": "E-Beam Stitching Errors Increase Loss In SOI Waveguides (AMO GmbH, RWTH Aachen)",
-        "blurb": "AMOとアーヘン工科大が、電子ビーム描画のフィールドつなぎ誤差がSOI導波路の光損失を増大させることを示す論文を発表した。",
+        "title": "New York Says 'Enough Is Enough' To In-Car Subscriptions",
+        "blurb": "米ニューヨーク州で、車に既に搭載済みのハードウェア機能をサブスクリプション課金することを制限する新法が成立。自動車メーカーの課金戦略に影響か。",
         "category": "business",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/e-beam-stitching-errors-increase-loss-in-soi-waveguides-amo-gmbh-rwth-aachen"
-        },
-        "field": {
-          "primary": "frontend",
-          "device": null,
-          "process": "frontend",
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "後工程に商機あり 日本材料メーカーの最新動向",
-        "blurb": "EE Times Japanが、日本の素材・材料メーカーによる半導体後工程向け事業の記事をまとめた電子ブックレットを公開した。",
-        "category": "business",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/24/news011.html"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "This Little Electric Truck Looks Like France's Answer To The Slate",
-        "blurb": "仏Kilow社が小型電動トラック「La Bagnole」を発表。安価で実用的ながら可愛らしいデザインで、米Slateに対するフランスの回答と評される。",
-        "category": "business",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
           "name": "insideevs.com",
-          "url": "https://insideevs.com/news/816491/kilow-la-bagnole-ev-truck"
+          "url": "https://insideevs.com/news/816539/new-york-subscription-ban-law"
+        },
+        "field": null
+      },
+      {
+        "title": "These Are The Top 10 Black Friday EV Deals. Some Are $25,000 Off",
+        "blurb": "ブラックフライデーのEVお得情報トップ10。Kia、Lucid、Polestarなどが大幅値引きを実施し、最大2万5000ドル引きの車種も。",
+        "category": "business",
+        "date": "2026-11-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/816526/top-black-friday-ev-offers"
         },
         "field": {
           "primary": "automotive",
@@ -81,88 +93,70 @@
         }
       },
       {
-        "title": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
-        "blurb": "世界最大級の亜鉛鉱山であるアラスカのレッドドッグ鉱山に、州最大となる8.8MWの太陽光発電所と蓄電池が導入される。1日約4万ガロンのディーゼル消費削減を目指す。",
+        "title": "VW will pay EV drivers in Germany up to €720 to plug in at home",
+        "blurb": "VW傘下のElliが12月からドイツでV2Gプログラムを開始。対応EVを自宅で接続し続けるだけで初年度最大720ユーロを支払う。",
         "category": "business",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm"
-        },
-        "field": null
-      },
-      {
-        "title": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
-        "blurb": "Electrekが2026年ブラックフライデーのグリーン系セール情報を集約。電動自転車、EV、ポータブル電源、工具、家電などをサイバーマンデーまで随時更新。",
-        "category": "business",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/23/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more"
-        },
-        "field": null
-      }
-    ],
-    "tools": [
-      {
-        "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
-        "blurb": "パワエレ週間まとめ：酸化ガリウム商用化競争、300mm SiCがAIチップパッケージにもたらす利点、HEMT互換プロセスのGaN SBDを紹介。",
-        "category": "tools",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights"
+          "url": "https://electrek.co/2026/11/24/vw-will-pay-ev-drivers-in-germany-up-to-e720-to-plug-in-at-home"
         },
         "field": {
-          "primary": "power",
-          "device": "power",
+          "primary": "automotive",
+          "device": null,
           "process": null,
-          "market": "ai",
+          "market": "automotive",
           "industry": null
         }
       },
       {
-        "title": "Measuring Verification Gaps In LLM-Generated Post-Quantum Hardware (Lucid, EYL)",
-        "blurb": "Lucid MotorsとEYLが、LLMエージェントが生成した耐量子暗号ハードウェアRTLの検証ギャップを測定し、7段階の検証ゲート型ワークフローを提案。",
-        "category": "tools",
-        "date": "2026-11-24",
+        "title": "Bluetti Elite 300 power station exclusively at $1,044, ECOVACS LiDAR Pro robot mower lows from $949, GoTrax kids go kart, more",
+        "blurb": "ブラックフライデーセールでBluetti Elite 300電源が1,044ドル、ECOVACS芝刈りロボが949ドルから、子供用電動ゴーカート等が値下げ。",
+        "category": "business",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/measuring-verification-gaps-in-llm-generated-post-quantum-hardware-lucid-eyl"
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/24/bluetti-elite-300-power-station-ecovacs-lidar-pro-robot-mower-gotrax-go-kart-more"
         },
         "field": {
-          "primary": "logic",
-          "device": "logic",
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      }
+    ],
+    "tools": [
+      {
+        "title": "超伝導電流を電圧制御　磁性も備えた新型トランジスタ",
+        "blurb": "東京大学と米ニューヨーク大学が強磁性/非磁性半導体ヘテロ接合をチャネルとする新型トランジスタを作製し、ゲート電圧による超伝導電流制御と超伝導ダイオード効果を実現。",
+        "category": "tools",
+        "date": "2026-11-25",
+        "stars": 3,
+        "source": {
+          "name": "itmedia.co.jp",
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/25/news030.html"
+        },
+        "field": {
+          "primary": "general",
+          "device": null,
           "process": null,
           "market": null,
           "industry": null
         }
       },
       {
-        "title": "How embedded sensors are modernizing smart bathroom",
-        "blurb": "組込みセンサーがスマートバスルームを近代化。衛生、資源管理、ウェルネスを統合するエコシステムを各センシング技術が支えるとEDNが解説。",
+        "title": "IoT security advances are critical for smart home and smart city automation",
+        "blurb": "IoTセキュリティの進歩は、スマートホームやスマートシティの機器・データ・インフラをサイバー攻撃から守る上で不可欠だとEDNが解説。",
         "category": "tools",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
           "name": "edn.com",
-          "url": "https://www.edn.com/how-embedded-sensors-are-modernizing-smart-bathroom"
-        },
-        "field": null
-      },
-      {
-        "title": "Building smart environments with IoT development kits",
-        "blurb": "異種接続・省エネ・セキュリティを統合したIoT開発キットにより、スマートホームやスマートシティの構築を迅速化できると解説。",
-        "category": "tools",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "edn.com",
-          "url": "https://www.edn.com/building-smart-environments-with-iot-development-kits"
+          "url": "https://www.edn.com/iot-security-advances-are-critical-for-smart-home-and-smart-city-automation"
         },
         "field": {
           "primary": "industrial",
@@ -173,66 +167,48 @@
         }
       },
       {
-        "title": "TuyaOpen Integrates Silicon Labs SiWx917 Wi-Fi 6 SoC",
-        "blurb": "Silicon LabsとTuyaが、オープンソース開発基盤TuyaOpenにWi-Fi 6とBLE対応の低消費電力SoC「SiWx917」のサポートを追加した。",
+        "title": "LLMs Under ISO 26262 Part 8: Qualify the Tool or Prove the Review",
+        "blurb": "ISO 26262第8部に基づき、LLMで作成した安全要求にはツール分類による適格性確認か人によるレビューの証明が重要と解説。",
         "category": "tools",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
           "name": "embedded.com",
-          "url": "https://www.embedded.com/tuyaopen-integrates-silicon-labs-siwx917-wi-fi-6-soc"
-        },
-        "field": {
-          "primary": "logic",
-          "device": "logic",
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Inside Synopsys' AgentEngineer: Long-Horizon Agentic AI for Design and Verification",
-        "blurb": "Synopsysが検証・実装・アナログ設計・製造・シミュレーションの長期的ワークフローを自律実行するエージェントAI「AgentEngineer」とAutopilotを発表。",
-        "category": "tools",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "embedded.com",
-          "url": "https://www.embedded.com/inside-synopsys-agentengineer-long-horizon-agentic-ai-for-design-and-verification"
-        },
-        "field": {
-          "primary": "general",
-          "device": null,
-          "process": null,
-          "market": null,
-          "industry": null
-        }
-      },
-      {
-        "title": "Hyundai Ioniq 5 Maintenance Guide: What Needs Servicing And What Doesn’t",
-        "blurb": "米国で人気の電動クロスオーバー、ヒョンデ「Ioniq 5」の整備ガイド。必要なメンテナンス項目と不要な項目を解説している。",
-        "category": "tools",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/815737/hyundai-ioniq-5-maintenance-guide-schedule"
+          "url": "https://www.embedded.com/llms-under-iso-26262-part-8-qualify-the-tool-or-prove-the-review"
         },
         "field": null
       },
       {
-        "title": "EcoFlow TITAN 5000 Classic power station new $2,089 low, Velotric Nomad 2 e-bike + FREE extra battery $1,799 ($740 off), more",
-        "blurb": "ブラックフライデーでEcoFlow TITAN 5000 Classicが過去最安の2,089ドル、Velotric Nomad 2電動自転車は予備バッテリー付き1,799ドルに。",
+        "title": "Here’s How To Make Your Holiday EV Road Trip Easier",
+        "blurb": "年末年始はEVドライバーで道路や充電スタンドが混雑。帰省を快適にするための充電計画など旅のコツを紹介。",
         "category": "tools",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
+        "stars": 3,
+        "source": {
+          "name": "insideevs.com",
+          "url": "https://insideevs.com/news/816660/travel-tips-charging-holiday-road"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Greenworks snow blower + shovel kits at lows from $178, Worx tools up to 45% off, Segway Navimow robot mower lows, more",
+        "blurb": "Amazonブラックフライデーで、Greenworks除雪機が178ドルから、Worx工具最大45%オフ、Segwayロボット芝刈り機も最安値に。",
+        "category": "tools",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/23/ecoflow-titan-5000-classic-power-station-velotric-nomad-2-e-bike-more"
+          "url": "https://electrek.co/2026/11/24/greenworks-snow-blower-shovel-kits-worx-tools-segway-navimow-robot-mower-more"
         },
         "field": {
-          "primary": "memory",
-          "device": "memory",
+          "primary": "automotive",
+          "device": null,
           "process": null,
           "market": "automotive",
           "industry": null
@@ -241,170 +217,50 @@
     ],
     "company": [
       {
-        "title": "NVIDIA創業者Huang氏がCEOに電撃復帰、辞任からわずか11日",
-        "blurb": "NVIDIA共同創業者Jensen Huang氏が11月23日付で社長・CEO・取締役に復帰。12日の全役職辞任からわずか11日、取締役会が全会一致で決定。",
+        "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
+        "blurb": "BYDが仏ハンバッハのIneos工場買収で独占交渉入り。成立すればハンガリーに次ぐEU第2の乗用車工場で、中国メーカー初の欧州既存工場買収に。",
         "category": "company",
-        "date": "2026-11-24",
-        "stars": 5,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/24/news038.html"
-        },
-        "field": null
-      },
-      {
-        "title": "BYD Ti7 banned from the EU for copying the Land Rover Defender’s design",
-        "blurb": "オランダの裁判所がBYDのSUV「Ti7」がランドローバー・ディフェンダーの意匠権を侵害と判断し、EU全域で販売・製造を禁止。違反時は1日10万ユーロの制裁金。",
-        "category": "company",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "stars": 4,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/23/byd-ti7-banned-eu-land-rover-defender-design"
+          "url": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us"
         },
         "field": null
       },
       {
-        "title": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version",
-        "blurb": "トヨタが史上最も売れた車カローラを大刷新し、初の完全電気自動車（EV）版を投入する計画を発表した。",
+        "title": "Two tech companies tried to reinvent the e-bike. Why DJI’s Amflow soared while Rivian’s ALSO floundered",
+        "blurb": "DJI系Amflowが初の通勤用e-bikeを発表し好評を得た一方、Rivian発のALSOはソフト不具合でTM-Bの納車を停止。明暗が分かれた。",
         "category": "company",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "stars": 4,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/23/toyota-corolla-radical-makeover-first-ev"
+          "url": "https://electrek.co/2026/11/24/two-tech-companies-tried-to-reinvent-the-e-bike-why-djis-amflow-soared-while-rivians-also-floundered"
         },
         "field": null
       },
       {
-        "title": "Hybrid-Bonded 3D NAND Boosts Analog In-Memory Compute Density (IBM, Micron, U. of Patras)",
-        "blurb": "IBM・Micron・パトラス大が、ハイブリッド接合3D NANDを用いアナログインメモリ演算で4.8M重み/mm²の高密度を実現する論文を発表。",
+        "title": "Nuro pulls safety drivers from Lucid Gravity Uber robotaxis in Bay Area",
+        "blurb": "NuroがUber向けLucid Gravityロボタクシーの無人走行試験をベイエリア4都市で開始。100台超を投入も、一般向け開始は2027年第1四半期に延期。",
         "category": "company",
-        "date": "2026-11-24",
-        "stars": 3,
+        "date": "2026-11-25",
+        "stars": 4,
         "source": {
-          "name": "semiengineering.com",
-          "url": "https://semiengineering.com/hybrid-bonded-3d-nand-boosts-analog-in-memory-compute-density"
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/24/nuro-lucid-gravity-uber-robotaxi-driverless-testing-bay-area"
         },
-        "field": {
-          "primary": "memory",
-          "device": "memory",
-          "process": null,
-          "market": null,
-          "industry": "idm"
-        }
+        "field": null
       },
       {
-        "title": "市場を超えて生きる技術基盤 オンセミ社長が語るGaN／Treo戦略",
-        "blurb": "オンセミ日本法人の林社長が、車載・産業・AIデータセンター向けに掲げる3つの技術基盤のうち、GaNパワー半導体とTreoプラットフォームの戦略を紹介した。",
+        "title": "熱にも強く、よく伸びる　先端半導体向け新ポリマー",
+        "blurb": "住友ベークライトが約300℃のTgと60％の破断伸びを両立する新規ポリノルボルネン材料を開発。先端半導体向けに耐熱性と柔軟性を高次元で実現。",
         "category": "company",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
           "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/24/news030.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      },
-      {
-        "title": "送電線点検にフィジカルAI　Jパワー／日立らが実証へ",
-        "blurb": "Jパワー・日立・マクニカの3社が、送電線点検など重要社会インフラ向けフィジカルAIの社会実装を目指し、開発基盤構築の共同検討で合意した。",
-        "category": "company",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/24/news017.html"
-        },
-        "field": null
-      },
-      {
-        "title": "Ford Has A Dedicated Battery Abuse Team. It Obsesses Over How Cells Fail",
-        "blurb": "Fordは専任のバッテリー破壊試験チームを持ち、EV用電池セルが極限条件でどう故障するかを徹底検証し、量産前の安全性を確保している。",
-        "category": "company",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/816533/ford-lfp-ev-battery-abuse-team"
-        },
-        "field": null
-      },
-      {
-        "title": "Tesla's EVs Could Get One Big Upgrade Next Year",
-        "blurb": "テスラがEVへのStarlinkアンテナ内蔵に関する特許を出願済みで、CEOが来年の搭載について公に言及し始めた。",
-        "category": "company",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/news/816501/tesla-starlink-unsupervised-fsd"
-        },
-        "field": null
-      },
-      {
-        "title": "2027 Mercedes GLA Electric First Drive: A Big Upgrade",
-        "blurb": "メルセデスの新型GLA EV試乗レビュー。CLAで初採用の800V EVプラットフォームを搭載し大幅進化。SUV人気の米国ではCLA以上に重要なモデルとなる見込み。",
-        "category": "company",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "insideevs.com",
-          "url": "https://insideevs.com/reviews/816318/2027-mercedes-gla-electric-review"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Hyundai’s new Kona N Line is already out testing [Video]",
-        "blurb": "ヒュンダイ次期コナは大幅刷新へ。そのN Lineモデルが早くもテスト走行中の姿で初めて目撃され、動画で公開された。",
-        "category": "company",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/23/hyundais-new-kona-n-line-spotted-first-time-video"
-        },
-        "field": null
-      },
-      {
-        "title": "Subaru is cutting EV prices by dropping one of its most distinctive features",
-        "blurb": "スバルが象徴的なAWDを省き、一部EVに前輪駆動（FWD）版を設定して価格を引き下げ。コスト削減でEVの価格競争力向上を狙う。",
-        "category": "company",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/23/subaru-cuts-ev-prices-dropping-most-distinctive-feature"
-        },
-        "field": {
-          "primary": "automotive",
-          "device": null,
-          "process": null,
-          "market": "automotive",
-          "industry": null
-        }
-      },
-      {
-        "title": "Tesla FSD v15 is AI4’s last shot as Musk reveals how little compute is left",
-        "blurb": "テスラFSD v15はAI4搭載車で無監視自動運転を実現する最後の機会。マスク氏はX上で計算余力が乏しいと説明し、既存車へのAI5非搭載とAI4.5のRAM削減（32→24GB）を認めた。",
-        "category": "company",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit"
+          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/25/news047.html"
         },
         "field": {
           "primary": "general",
@@ -415,14 +271,80 @@
         }
       },
       {
-        "title": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging",
-        "blurb": "BMWの新型EV「iX4」が間もなく登場。EPA航続距離428マイル（WLTPでは500マイル超）と超急速充電に対応し、航続距離への不安解消を目指す。",
+        "title": "Cadillac’s luxury 3-row EV just got more expensive, now starting at over $80,000",
+        "blurb": "キャデラックの3列シート高級電動SUV「2027年型Vistiq」が値上げされ、開始価格が8万ドルを超えた。",
         "category": "company",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
           "name": "electrek.co",
-          "url": "https://electrek.co/2026/11/23/bmws-ix4-promises-428-miles-range-and-ultra-fast-charging"
+          "url": "https://electrek.co/2026/11/24/cadillacs-3-row-ev-more-expensive-now-starting-at-80k"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [Images]",
+        "blurb": "現代自動車の手頃なEV「IONIQ 3」が米国の公道で目撃。航続300マイル超、実用的な内装、新Pleosインフォテインメントを搭載し、米国投入が注目される。",
+        "category": "company",
+        "date": "2026-11-25",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/24/hyundai-ioniq-3-spotted-us-affordable-ev-images"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "The Porsche Boxster EV is finally almost here, and it will be the most powerful 718 yet [Images]",
+        "blurb": "ポルシェ初の完全電動ボクスターが開発最終段階に。2027年初頭の正式発表を前に先行公開され、歴代718で最強の出力となる見込み。",
+        "category": "company",
+        "date": "2026-11-25",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/24/porsche-boxster-ev-coming-most-powerful-718-ever-images"
+        },
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        }
+      },
+      {
+        "title": "Trump says he ‘protected’ Musk in first term after ‘a tough incident’ – what could it be?",
+        "blurb": "トランプ氏が第1期政権中に「厳しい事件」からマスク氏を「守った」と発言。詳細は不明だが、SEC問題など規制当局との衝突が背景と推測される。",
+        "category": "company",
+        "date": "2026-11-25",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident"
+        },
+        "field": null
+      },
+      {
+        "title": "BYD launches the new Tang EV, a luxury 5-seat SUV with two +30″ screens for under $30,000",
+        "blurb": "BYDが第3世代「Tang」EVを中国で発売。30インチ超の画面2枚を備えた高級5人乗り大型SUVで、価格は3万ドル未満から。",
+        "category": "company",
+        "date": "2026-11-25",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/24/byd-launches-new-luxury-5-seat-ev-suv-two-30-screens-under-30000"
         },
         "field": {
           "primary": "automotive",
@@ -435,20 +357,26 @@
     ],
     "sns": [
       {
-        "title": "胃カメラ検査中も「職業病」を発揮した",
-        "blurb": "EE Times Japanのコラム。筆者が胃カメラ検査中もエンジニアの職業病を発揮し、自分の胃がいとおしくなったとして暴飲暴食をやめると綴る。",
+        "title": "An Empty EV Tried To Park Itself 868 Times In One Night. The Video Is Hilarious",
+        "blurb": "ファーウェイの自動運転システムを搭載した無人のEVが、一晩で868回も駐車を試み、立体駐車場内を何時間も行き来し続けた。その様子を捉えた動画が話題になっている。",
         "category": "sns",
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "stars": 3,
         "source": {
-          "name": "@https://eetimes.itmedia.co.jp/ee/articles/2611/24/news048.html",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/24/news048.html"
+          "name": "@https://insideevs.com/news/816535/self-driving-ev-parking-868",
+          "url": "https://insideevs.com/news/816535/self-driving-ev-parking-868"
         },
-        "field": null,
+        "field": {
+          "primary": "automotive",
+          "device": null,
+          "process": null,
+          "market": "automotive",
+          "industry": null
+        },
         "sns": {
-          "handle": "@https://eetimes.itmedia.co.jp/ee/articles/2611/24/news048.html",
+          "handle": "@https://insideevs.com/news/816535/self-driving-ev-parking-868",
           "display_name": "",
-          "posted_at": "2026-11-24T12:00:00+09:00"
+          "posted_at": "2026-11-25T00:20:24+09:00"
         }
       }
     ]

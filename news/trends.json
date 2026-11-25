@@ -1,177 +1,172 @@
 {
-  "generated_at": "2026-11-24T14:13:56.970223+09:00",
-  "date": "2026-11-24",
+  "generated_at": "2026-11-25T13:02:42.511089+09:00",
+  "date": "2026-11-25",
   "meta_trends": [
     {
-      "name": "AI電源の垂直給電・800V化",
+      "name": "AIデータセンター向け電力革新",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "datacenter",
-        "backend",
-        "ai"
+        "ai",
+        "logic"
       ],
-      "summary": "数千A級のAIプロセッサ需要により、VRのプロセッサ近接配置や垂直給電、800V DC配電への移行が加速。GaN・SiCパワー半導体の新たな成長軸となっている。",
+      "summary": "800V DC給電、垂直給電、サブミリオームGaN、トレンチ型SiCなど、数千A級AIプロセッサの電力供給を巡る技術・協業が加速している。",
       "analysis": {
-        "short_term": "APEC 2027に向け垂直給電や800V関連の発表・協業が相次ぐ見込み",
-        "mid_term": "800V DC配電の仕様整備が進み、GaN/SiC採用がDC向けで本格化",
-        "investment_implications": "DC向け電源IC・GaN/SiCデバイスとパッケージ関連企業に注目"
+        "short_term": "electronica・APEC前後で新製品発表が相次ぎ、GaN/SiC採用案件の具体化が進む",
+        "mid_term": "800V DC規格整備と垂直給電の実装でAI電源向けパワー半導体需要が拡大",
+        "investment_implications": "AI電源に強いGaN/SiCベンダーと電源モジュール企業に注目"
       },
       "keywords": [
-        "垂直給電",
         "800V DC",
-        "PDN",
-        "電圧レギュレータ",
-        "AIデータセンター"
+        "垂直給電",
+        "GaN FET",
+        "SiC MOSFET",
+        "TOLL",
+        "Treo"
       ],
       "companies_mentioned": [
+        "Nexperia",
         "AmberSemi",
         "ローム",
         "デルタ電子",
-        "オンセミ",
-        "Nexperia"
+        "オンセミ"
       ]
     },
     {
-      "name": "GaN/SiC/Ga2O3の世代進化",
-      "confidence": 0.85,
+      "name": "次世代WBG材料と大口径化",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "power",
         "wafer",
-        "automotive",
-        "industrial"
+        "foundry",
+        "backend"
       ],
-      "summary": "SiCのトレンチ化・300mm化、サブミリオームGaN、酸化ガリウム商用化競争など、ワイドバンドギャップ半導体の性能・コスト改善が進展。SiCは熱管理材料としてAIパッケージへ用途拡大。",
+      "summary": "200mm単結晶ダイヤモンド、酸化ガリウム商用化、300mm SiCなど超ワイドバンドギャップ材料と大口径化が進み、SiCは熱管理材料としてAIパッケージにも用途拡大。",
       "analysis": {
-        "short_term": "トレンチ型SiCや低耐圧GaNの製品投入が続き価格競争も継続",
-        "mid_term": "300mm SiCによるコスト低減とAIパッケージ熱材料用途が具体化",
-        "investment_implications": "大口径SiC基板とトレンチ技術保有企業が優位、Ga2O3は先行投資段階"
+        "short_term": "研究開発・試作段階の発表が中心で、売上寄与は限定的",
+        "mid_term": "300mm SiCのパッケージ熱材料用途が評価段階に入り新需要創出の可能性",
+        "investment_implications": "SiC基板メーカーの用途拡大はプラス、ダイヤ・Ga2O3は長期オプション"
       },
       "keywords": [
-        "SiC MOSFET",
-        "トレンチ",
-        "300mm SiC",
-        "GaN FET",
+        "ダイヤモンド",
         "酸化ガリウム",
-        "TOLL"
+        "300mm SiC",
+        "ヘテロエピタキシー",
+        "熱管理"
       ],
       "companies_mentioned": [
-        "Nexperia",
-        "オンセミ",
-        "STMicroelectronics"
+        "Diamond Foundry"
       ]
     },
     {
-      "name": "エージェントAIによる設計自動化",
-      "confidence": 0.85,
-      "momentum": "rising",
-      "related_fields": [
-        "fabless",
-        "logic",
-        "ai"
-      ],
-      "summary": "Synopsysの長期自律型エージェントAI投入やSiemensのBreker買収など、EDAで設計・検証の自律化が加速。一方LLM生成RTLの検証ギャップが課題として顕在化している。",
-      "analysis": {
-        "short_term": "EDA各社がエージェントAI機能を相次ぎ発表し、検証領域のM&Aも継続",
-        "mid_term": "検証ゲート型ワークフローの標準化が進み、EDAの単価上昇へ寄与",
-        "investment_implications": "検証IPと AIエージェントを持つ大手EDAの収益拡大余地は大きい"
-      },
-      "keywords": [
-        "AgentEngineer",
-        "エージェントAI",
-        "検証",
-        "LLM生成RTL",
-        "耐量子暗号"
-      ],
-      "companies_mentioned": [
-        "Synopsys",
-        "Siemens",
-        "Breker",
-        "Lucid Motors",
-        "EYL"
-      ]
-    },
-    {
-      "name": "HBM後のメモリ多様化",
-      "confidence": 0.75,
-      "momentum": "rising",
-      "related_fields": [
-        "memory",
-        "ai",
-        "datacenter"
-      ],
-      "summary": "JEDECのDDR6予告、EverspinによるLPDDR対応MRAM標準化、ハイブリッド接合3D NANDのインメモリ演算など、HBM以降を見据えたメモリ技術が多様化している。",
-      "analysis": {
-        "short_term": "DDR6やLPDDR系MRAMの規格策定動向が材料視される局面",
-        "mid_term": "エッジAI向け永続メモリやCIMが試作段階から採用検討へ移行",
-        "investment_implications": "規格主導企業と仮想ツイン等でDRAM歩留まり改善を進める企業に注目"
-      },
-      "keywords": [
-        "DDR6",
-        "MRAM",
-        "LPDDR",
-        "3D NAND",
-        "インメモリ演算",
-        "ハイブリッド接合"
-      ],
-      "companies_mentioned": [
-        "Everspin",
-        "Micron",
-        "IBM",
-        "JEDEC"
-      ]
-    },
-    {
-      "name": "後工程・パッケージ能力の拡大",
+      "name": "チップレット検証とAI設計自動化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
+        "logic",
+        "fabless",
         "backend",
-        "foundry",
-        "wafer",
-        "equipment"
+        "ai"
       ],
-      "summary": "Nvidiaのパッケージ能力拡大やIntel 18A-Pの外部顧客獲得、新規ライン増によるウェーハ需要回復など、製造能力投資が活発化。日本の材料メーカーは後工程に商機を見出す。",
+      "summary": "UCIe 4.0/UCIe.mem検証やマルチダイ設計が高度化する一方、AIによる設計自動化は半導体固有データへの対応や検証品質で限界も指摘される。",
       "analysis": {
-        "short_term": "ウェーハ需要回復と後工程材料の受注増が継続する見通し",
-        "mid_term": "新規ライン稼働でウェーハ・材料需要が拡大、計測起点の自律化も進展",
-        "investment_implications": "日本の後工程材料、ウェーハ、計測・歩留まり管理関連が恩恵"
+        "short_term": "UCIe 4.0対応VIPや検証ツールの需要が増加",
+        "mid_term": "AI支援EDAが派生設計や検証で実用化され、ファーストシリコン成功率向上に寄与",
+        "investment_implications": "EDA・検証IP企業は構造的成長、AI EDA過度期待には注意"
       },
       "keywords": [
-        "先端パッケージ",
-        "18A-P",
-        "シリコンウェーハ",
-        "後工程材料",
-        "計測"
+        "UCIe 4.0",
+        "UCIe.mem",
+        "チップレット",
+        "HLS",
+        "形式検証",
+        "フォトニクス"
+      ],
+      "companies_mentioned": []
+    },
+    {
+      "name": "フィジカルAI・エッジ開拓",
+      "confidence": 0.7,
+      "momentum": "rising",
+      "related_fields": [
+        "ai",
+        "industrial",
+        "analog",
+        "logic"
+      ],
+      "summary": "electronicaはヒューマノイド展示が席巻し、産業用エッジAI提携や低消費電力IoT SoC、MRAMのLPDDR標準化などエッジ向け半導体の新市場開拓が進む。",
+      "analysis": {
+        "short_term": "ロボット・エッジAI向け開発キットや提携発表が継続",
+        "mid_term": "ヒューマノイド量産が始まればモータ駆動・センサ・MCU需要が立ち上がる",
+        "investment_implications": "産業向けMCU・パワー・不揮発メモリに中長期の新規需要"
+      },
+      "keywords": [
+        "ヒューマノイド",
+        "フィジカルAI",
+        "エッジAI",
+        "MRAM",
+        "LPDDR",
+        "Wi-Fi 6"
       ],
       "companies_mentioned": [
-        "Nvidia",
-        "Intel"
+        "Arrow Electronics",
+        "Seco",
+        "Silicon Labs",
+        "Tuya",
+        "Everspin",
+        "Nexperia"
+      ]
+    },
+    {
+      "name": "半導体サイクル反転リスク",
+      "confidence": 0.6,
+      "momentum": "rising",
+      "related_fields": [
+        "datacenter",
+        "memory",
+        "geopolitics"
+      ],
+      "summary": "政治変動、NVIDIA経営混乱、メモリ各社の巨額投資が連鎖し「半導体氷河期」を招く懸念。サプライチェーン意識の変化も表面化。",
+      "analysis": {
+        "short_term": "AI関連株のボラティリティ上昇、メモリ過剰投資への警戒",
+        "mid_term": "メモリ供給過剰化なら価格下落と設備投資抑制の可能性",
+        "investment_implications": "メモリ・AI集中銘柄の比率見直しとディフェンシブ分散を推奨"
+      },
+      "keywords": [
+        "半導体氷河期",
+        "メモリ投資",
+        "NVIDIA",
+        "政治リスク",
+        "デートコード"
+      ],
+      "companies_mentioned": [
+        "NVIDIA",
+        "Rochester Electronics"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "Intel 18A-Pが初の外部顧客を獲得しファウンドリ事業に前進",
-      "Nvidiaのパッケージ能力拡大による後工程需要増",
-      "シリコンウェーハ需要が新規ライン増加を背景に回復",
-      "ローム・デルタ電子の800V DC電源協業によるAI DC向けパワー需要拡大",
-      "ヒューモノイドロボットが新たな半導体需要源として台頭",
-      "コアスタッフの上期売上が前期通期を超過するなどAI需要が流通にも波及"
+      "AIデータセンター向け800V DC電源の日本での社会実装協業（ローム・デルタ電子）",
+      "GaN/SiCの性能向上（サブミリオームGaN、750VトレンチSiC）でAI電源需要取り込み",
+      "300mm SiCのAIパッケージ熱管理用途という新市場の可能性",
+      "UCIe 4.0などチップレット検証需要拡大によるEDA/IP企業の成長",
+      "日本材料メーカーの後工程向け事業機会と新規耐熱ポリマー開発"
     ],
     "bearish": [
-      "米国の対中輸出規制強化による中国向け売上の下振れリスク",
-      "LLM生成ハードウェアの検証ギャップが品質・セキュリティ懸念に",
-      "コアスタッフ社長が「手放しで喜ばない」とAI需要の持続性に慎重姿勢"
+      "NVIDIA経営混乱とメモリ各社の巨額投資による「半導体氷河期」懸念",
+      "政治体制変化による政策・関税・補助金の不透明感",
+      "AI設計自動化の限界指摘によるAI EDAへの過剰期待の修正リスク"
     ],
     "neutral": [
-      "JEDECがDDR6を予告、本格立ち上がりは中長期",
-      "酸化ガリウムやAlNは有望だが商用化は初期段階",
-      "デートコード等サプライチェーン意識の変化",
-      "産業・IoT・エッジAI向け製品投入は堅調だが需要回復は緩やか"
+      "ダイヤモンド・酸化ガリウム・超伝導トランジスタ等は研究段階で収益化は長期",
+      "ヒューマノイド市場は展示先行で量産時期は不透明",
+      "MRAMのLPDDR標準化は普及の前提整備段階",
+      "サプライチェーンにおけるデートコード意識の変化"
     ]
   },
-  "source_count": 84
+  "source_count": 89
 }
