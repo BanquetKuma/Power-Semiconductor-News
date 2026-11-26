@@ -1,172 +1,161 @@
 {
-  "generated_at": "2026-11-25T13:02:42.511089+09:00",
-  "date": "2026-11-25",
+  "generated_at": "2026-11-26T12:27:20.819599+09:00",
+  "date": "2026-11-26",
   "meta_trends": [
     {
-      "name": "AIデータセンター向け電力革新",
+      "name": "AIデータセンター電源の高電圧化",
       "confidence": 0.9,
       "momentum": "rising",
       "related_fields": [
         "power",
         "datacenter",
-        "ai",
-        "logic"
+        "ai"
       ],
-      "summary": "800V DC給電、垂直給電、サブミリオームGaN、トレンチ型SiCなど、数千A級AIプロセッサの電力供給を巡る技術・協業が加速している。",
+      "summary": "AIプロセッサの数千A級電流需要に対し、800V DC給電、垂直給電、GaN/SiCによる高効率電源アーキテクチャへの移行が加速している。",
       "analysis": {
-        "short_term": "electronica・APEC前後で新製品発表が相次ぎ、GaN/SiC採用案件の具体化が進む",
-        "mid_term": "800V DC規格整備と垂直給電の実装でAI電源向けパワー半導体需要が拡大",
-        "investment_implications": "AI電源に強いGaN/SiCベンダーと電源モジュール企業に注目"
+        "short_term": "APEC等で垂直給電や800V仕様の議論が活発化し、提携発表が相次ぐ見込み",
+        "mid_term": "800V DC電源の標準化が進み、GaN/SiC電源ICの採用が本格化する見通し",
+        "investment_implications": "DC電源向けGaN/SiCとPFC制御ICを持つパワー半導体企業が恩恵を受ける見込み"
       },
       "keywords": [
         "800V DC",
         "垂直給電",
-        "GaN FET",
-        "SiC MOSFET",
-        "TOLL",
-        "Treo"
+        "GaN",
+        "SiC",
+        "トーテムポールPFC"
       ],
       "companies_mentioned": [
-        "Nexperia",
-        "AmberSemi",
         "ローム",
         "デルタ電子",
+        "AmberSemi",
+        "Nexperia",
         "オンセミ"
       ]
     },
     {
-      "name": "次世代WBG材料と大口径化",
+      "name": "次世代パワー材料のウエハ大口径化",
       "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
         "power",
         "wafer",
-        "foundry",
-        "backend"
+        "foundry"
       ],
-      "summary": "200mm単結晶ダイヤモンド、酸化ガリウム商用化、300mm SiCなど超ワイドバンドギャップ材料と大口径化が進み、SiCは熱管理材料としてAIパッケージにも用途拡大。",
+      "summary": "200mm単結晶ダイヤモンド、300mm SiC、酸化ガリウム商用化競争など、ワイドバンドギャップ材料の大口径化と量産化が進展している。",
       "analysis": {
-        "short_term": "研究開発・試作段階の発表が中心で、売上寄与は限定的",
-        "mid_term": "300mm SiCのパッケージ熱材料用途が評価段階に入り新需要創出の可能性",
-        "investment_implications": "SiC基板メーカーの用途拡大はプラス、ダイヤ・Ga2O3は長期オプション"
+        "short_term": "研究成果発表が中心で、売上への寄与は限定的な見込み",
+        "mid_term": "300mm SiCがAIパッケージ用途へ広がり、基板の需給構造が変化する可能性",
+        "investment_implications": "基板・エピ装置メーカーに長期的な選択肢が生まれる。ただし商用化リスクは高い"
       },
       "keywords": [
         "ダイヤモンド",
         "酸化ガリウム",
         "300mm SiC",
-        "ヘテロエピタキシー",
-        "熱管理"
+        "ヘテロエピタキシー"
       ],
       "companies_mentioned": [
         "Diamond Foundry"
       ]
     },
     {
-      "name": "チップレット検証とAI設計自動化",
+      "name": "GaN/SiCデバイス構造の高度化",
       "confidence": 0.8,
       "momentum": "rising",
       "related_fields": [
-        "logic",
-        "fabless",
-        "backend",
-        "ai"
+        "power",
+        "automotive",
+        "industrial"
       ],
-      "summary": "UCIe 4.0/UCIe.mem検証やマルチダイ設計が高度化する一方、AIによる設計自動化は半導体固有データへの対応や検証品質で限界も指摘される。",
+      "summary": "SiCのプレーナ型からトレンチ型への移行、サブミリオームGaN、ドライバ統合が進み、AI電源・ロボット・車載向けの製品競争が激化している。",
       "analysis": {
-        "short_term": "UCIe 4.0対応VIPや検証ツールの需要が増加",
-        "mid_term": "AI支援EDAが派生設計や検証で実用化され、ファーストシリコン成功率向上に寄与",
-        "investment_implications": "EDA・検証IP企業は構造的成長、AI EDA過度期待には注意"
+        "short_term": "Electronica後に製品投入が続き、TOLLなど小型パッケージ品の採用が拡大する見込み",
+        "mid_term": "価格競争の激化により、性能と統合度で差別化できる企業が優位に立つ見通し",
+        "investment_implications": "トレンチSiCや統合GaNで技術的優位を持つIDMを選別して投資すべき"
       },
       "keywords": [
-        "UCIe 4.0",
-        "UCIe.mem",
-        "チップレット",
+        "トレンチSiC",
+        "750V",
+        "サブミリオームGaN",
+        "TOLL",
+        "Treo"
+      ],
+      "companies_mentioned": [
+        "Nexperia",
+        "オンセミ",
+        "ローム"
+      ]
+    },
+    {
+      "name": "AI活用EDAと検証の限界",
+      "confidence": 0.7,
+      "momentum": "stable",
+      "related_fields": [
+        "logic",
+        "fabless",
+        "ai"
+      ],
+      "summary": "AIによる設計自動化への期待は高い一方、レイアウトや波形など半導体固有データの扱いや検証品質に課題が残り、HLSや形式検証との併用が現実解となっている。",
+      "analysis": {
+        "short_term": "派生設計や検証補助など、限定的な用途でのAI導入が進む見込み",
+        "mid_term": "フィジカルAI向けカスタムチップの増加を背景に、AI-EDA需要が拡大する見通し",
+        "investment_implications": "検証・エミュレーション基盤を持つEDA大手が安定成長を続ける見込み"
+      },
+      "keywords": [
+        "AI EDA",
         "HLS",
         "形式検証",
-        "フォトニクス"
+        "初回シリコン",
+        "フィジカルAI"
       ],
       "companies_mentioned": []
     },
     {
-      "name": "フィジカルAI・エッジ開拓",
-      "confidence": 0.7,
+      "name": "マルチダイ・後工程材料の重要性拡大",
+      "confidence": 0.75,
       "momentum": "rising",
       "related_fields": [
-        "ai",
-        "industrial",
-        "analog",
-        "logic"
+        "backend",
+        "logic",
+        "memory"
       ],
-      "summary": "electronicaはヒューマノイド展示が席巻し、産業用エッジAI提携や低消費電力IoT SoC、MRAMのLPDDR標準化などエッジ向け半導体の新市場開拓が進む。",
+      "summary": "チップレット構成ではダイ間接続を超えたアーキテクチャ設計が必要になり、CPOやフォトニクスのシステム設計、耐熱ポリマーなど後工程材料の需要が高まっている。",
       "analysis": {
-        "short_term": "ロボット・エッジAI向け開発キットや提携発表が継続",
-        "mid_term": "ヒューマノイド量産が始まればモータ駆動・センサ・MCU需要が立ち上がる",
-        "investment_implications": "産業向けMCU・パワー・不揮発メモリに中長期の新規需要"
+        "short_term": "CPOやチップレットの歩留まり改善に向けた技術発表が継続する見込み",
+        "mid_term": "日本の材料メーカーによる後工程向け事業の拡大が業績に反映される見通し",
+        "investment_implications": "住友ベークライトなど後工程材料を手がける日本企業に注目"
       },
       "keywords": [
-        "ヒューマノイド",
-        "フィジカルAI",
-        "エッジAI",
-        "MRAM",
-        "LPDDR",
-        "Wi-Fi 6"
+        "チップレット",
+        "CPO",
+        "裏面電源",
+        "ポリノルボルネン",
+        "MRAM LPDDR"
       ],
       "companies_mentioned": [
-        "Arrow Electronics",
-        "Seco",
-        "Silicon Labs",
-        "Tuya",
-        "Everspin",
-        "Nexperia"
-      ]
-    },
-    {
-      "name": "半導体サイクル反転リスク",
-      "confidence": 0.6,
-      "momentum": "rising",
-      "related_fields": [
-        "datacenter",
-        "memory",
-        "geopolitics"
-      ],
-      "summary": "政治変動、NVIDIA経営混乱、メモリ各社の巨額投資が連鎖し「半導体氷河期」を招く懸念。サプライチェーン意識の変化も表面化。",
-      "analysis": {
-        "short_term": "AI関連株のボラティリティ上昇、メモリ過剰投資への警戒",
-        "mid_term": "メモリ供給過剰化なら価格下落と設備投資抑制の可能性",
-        "investment_implications": "メモリ・AI集中銘柄の比率見直しとディフェンシブ分散を推奨"
-      },
-      "keywords": [
-        "半導体氷河期",
-        "メモリ投資",
-        "NVIDIA",
-        "政治リスク",
-        "デートコード"
-      ],
-      "companies_mentioned": [
-        "NVIDIA",
-        "Rochester Electronics"
+        "住友ベークライト",
+        "Everspin"
       ]
     }
   ],
   "market_signals": {
     "bullish": [
-      "AIデータセンター向け800V DC電源の日本での社会実装協業（ローム・デルタ電子）",
-      "GaN/SiCの性能向上（サブミリオームGaN、750VトレンチSiC）でAI電源需要取り込み",
-      "300mm SiCのAIパッケージ熱管理用途という新市場の可能性",
-      "UCIe 4.0などチップレット検証需要拡大によるEDA/IP企業の成長",
-      "日本材料メーカーの後工程向け事業機会と新規耐熱ポリマー開発"
+      "ロームとデルタ電子の協業によるAIデータセンター向け800V DC電源の普及促進",
+      "Nexperiaのトレンチ型SiCおよびサブミリオームGaNの投入",
+      "200mm単結晶ダイヤモンドの実現によるパワー材料の進展",
+      "EverspinがJEDECでMRAMのLPDDR対応標準化を主導",
+      "AptivのPRISM発表による自動運転向け半導体需要の拡大"
     ],
     "bearish": [
-      "NVIDIA経営混乱とメモリ各社の巨額投資による「半導体氷河期」懸念",
-      "政治体制変化による政策・関税・補助金の不透明感",
-      "AI設計自動化の限界指摘によるAI EDAへの過剰期待の修正リスク"
+      "トランプ敗北、NVIDIAの経営混乱、メモリ各社の巨額投資による「半導体氷河期」リスク",
+      "メモリの過剰投資による将来の供給過剰懸念",
+      "AI-EDAの能力限界による設計効率化期待の後退"
     ],
     "neutral": [
-      "ダイヤモンド・酸化ガリウム・超伝導トランジスタ等は研究段階で収益化は長期",
-      "ヒューマノイド市場は展示先行で量産時期は不透明",
-      "MRAMのLPDDR標準化は普及の前提整備段階",
-      "サプライチェーンにおけるデートコード意識の変化"
+      "デートコードやサプライチェーンに対する業界意識の変化",
+      "SDVを軸とした実装技術ロードマップの更新",
+      "超伝導トランジスタや円偏光検出ペロブスカイトなど基礎研究の進展",
+      "IoTセキュリティ強化の要求の継続"
     ]
   },
-  "source_count": 89
+  "source_count": 94
 }

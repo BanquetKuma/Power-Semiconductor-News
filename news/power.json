@@ -1,56 +1,55 @@
 {
-  "generated_at": "2026-11-24T14:13:32.323442+09:00",
+  "generated_at": "2026-11-26T12:27:01.745433+09:00",
   "field": "power",
   "field_label": "パワー半導体",
   "highlight": {
     "category": "重要トピック",
     "stars": 3,
-    "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
-    "summary": "パワエレ週間まとめ：酸化ガリウム商用化競争、300mm SiCがAIチップパッケージにもたらす利点、HEMT互換プロセスのGaN SBDを紹介。",
+    "title": "Totem-pole PFC controller cuts power losses",
+    "summary": "ロームがGaN HEMTの高周波スイッチングに対応するトーテムポールPFCコントローラ「BM85060FV」を発表。AC/DC電源の電力損失を低減する。",
     "sources": [
       {
-        "name": "powerelectronicsnews.com",
-        "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights"
+        "name": "edn.com",
+        "url": "https://www.edn.com/totem-pole-pfc-controller-cuts-power-losses"
       }
     ]
   },
   "sections": {
-    "news": [
-      {
-        "title": "市場を超えて生きる技術基盤 オンセミ社長が語るGaN／Treo戦略",
-        "blurb": "オンセミ日本法人の林社長が、車載・産業・AIデータセンター向けに掲げる3つの技術基盤のうち、GaNパワー半導体とTreoプラットフォームの戦略を紹介した。",
-        "category": "company",
-        "date": "2026-11-24",
-        "stars": 3,
-        "source": {
-          "name": "itmedia.co.jp",
-          "url": "https://eetimes.itmedia.co.jp/ee/articles/2611/24/news030.html"
-        },
-        "field": {
-          "primary": "power",
-          "device": "power",
-          "process": null,
-          "market": "datacenter",
-          "industry": null
-        }
-      }
-    ],
+    "news": [],
     "tech": [
       {
-        "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
-        "blurb": "パワエレ週間まとめ：酸化ガリウム商用化競争、300mm SiCがAIチップパッケージにもたらす利点、HEMT互換プロセスのGaN SBDを紹介。",
+        "title": "Totem-pole PFC controller cuts power losses",
+        "blurb": "ロームがGaN HEMTの高周波スイッチングに対応するトーテムポールPFCコントローラ「BM85060FV」を発表。AC/DC電源の電力損失を低減する。",
         "category": "tools",
-        "date": "2026-11-24",
+        "date": "2026-11-26",
         "stars": 3,
         "source": {
-          "name": "powerelectronicsnews.com",
-          "url": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights"
+          "name": "edn.com",
+          "url": "https://www.edn.com/totem-pole-pfc-controller-cuts-power-losses"
         },
         "field": {
           "primary": "power",
           "device": "power",
           "process": null,
-          "market": "ai",
+          "market": null,
+          "industry": null
+        }
+      },
+      {
+        "title": "Worx 40V 20-inch cordless snow blower + 2x batteries $350 low, Anker SOLIX E10 system exclusive new lows from $3,609, more",
+        "blurb": "ブラックフライデーセールでWorx 40V除雪機が350ドル、Anker SOLIX E10家庭用蓄電システムが3,609ドルからと最安値に。",
+        "category": "tools",
+        "date": "2026-11-26",
+        "stars": 3,
+        "source": {
+          "name": "electrek.co",
+          "url": "https://electrek.co/2026/11/25/worx-40v-20-inch-cordless-snow-blower-anker-solix-e10-system-more"
+        },
+        "field": {
+          "primary": "power",
+          "device": "power",
+          "process": null,
+          "market": "automotive",
           "industry": null
         }
       }
